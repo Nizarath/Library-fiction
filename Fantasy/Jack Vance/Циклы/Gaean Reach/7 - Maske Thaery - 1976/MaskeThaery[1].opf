@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE package PUBLIC 
+    "+//ISBN 0-9673008-1-9//DTD OEB 1.0.1 Package//EN"
+    "http://openebook.org/dtds/oeb-1.0.1/oebpkg101.dtd">
+<package unique-identifier="OverDriveGUID">
+<metadata>
+<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.0/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+<dc:Title>Maske: Thaery</dc:Title>
+<dc:Creator file-as="Jack Vance" role="aut">Jack Vance</dc:Creator>
+<dc:Publisher>ibooks, Inc</dc:Publisher>
+<dc:Contributor>None</dc:Contributor>
+<dc:Date>1990</dc:Date>
+<dc:Identifier id="isbn">1-59019-109-9</dc:Identifier>
+<dc:Source>Word</dc:Source>
+<dc:Language>en-us</dc:Language>
+<dc:Language>en</dc:Language>
+<dc:Relation>None</dc:Relation>
+<dc:Coverage>None</dc:Coverage>
+<dc:Identifier id="OverDriveGUID" scheme="GUID">{5D994028-351C-400D-999C-78210ED5E0FB}</dc:Identifier>
+</dc-metadata>
+<x-metadata>
+<meta name="ms-chaptertour" content="chaptertour" />
+<meta name="rwver-ReaderWorks-SDK-Control" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-HTML-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Image-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Text-Input-Filter" content="2, 0, 2, 0215 (02/15/2002)" />
+<meta name="rwver-Word-Doc-Input-Filter" content="2.0.2.0215 (02/15/2002)" />
+<meta name="rwver-LIT-file-generator" content="1.5.1.0280 (10/05/2000)" />
+<meta name="rw-License-Key" content="RWPUB" />
+</x-metadata>
+</metadata>
+<manifest>
+<item id="maskethaery" href="maskethaery.html" media-type="text/html" />
+<item id="Copyright" href="Copyright.html" media-type="text/html" />
+<item id="RW_~cov0002" href="~cov0002.jpg" media-type="image/jpeg" />
+<item id="contents" href="contents.html" media-type="text/html" />
+<item id="MSRCover" href="MSRCover.jpg" media-type="image/jpeg" />
+<item id="RW_~cov0001" href="~cov0001.jpg" media-type="image/jpeg" />
+<item id="MSRThumb" href="MSRThumb.jpg" media-type="image/jpeg" />
+<item id="RW_~cov0003" href="~cov0003.jpg" media-type="image/jpeg" />
+<item id="logo" href="logo.jpg" media-type="image/jpeg" />
+<item id="pdlmsr" href="pdlmsr.css" media-type="text/css" />
+<item id="map" href="map.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+<itemref idref="maskethaery" />
+</spine>
+<tours>
+<tour id="chaptertour" title="Chapter Tour">
+<site title="      
+        Chapter 1
+" href="maskethaery.html#ch1" />
+<site title="      
+        Chapter 2
+" href="maskethaery.html#ch2" />
+<site title="      
+        Chapter 3
+" href="maskethaery.html#ch3" />
+<site title="      
+        Chapter 4
+" href="maskethaery.html#ch4" />
+<site title="      
+        Chapter 5
+" href="maskethaery.html#ch5" />
+<site title="      
+        Chapter 6
+" href="maskethaery.html#ch6" />
+<site title="      
+        Chapter 7
+" href="maskethaery.html#ch7" />
+<site title="      
+        Chapter 8
+" href="maskethaery.html#ch8" />
+<site title="      
+        Chapter 9
+" href="maskethaery.html#ch9" />
+<site title="      
+        Chapter 10
+" href="maskethaery.html#ch10" />
+<site title="      
+        Chapter 11
+" href="maskethaery.html#ch11" />
+<site title="      
+        Chapter 12
+" href="maskethaery.html#ch12" />
+<site title="      
+        Chapter 13
+" href="maskethaery.html#ch13" />
+<site title="      
+        Chapter 14
+" href="maskethaery.html#ch14" />
+<site title="      
+        Chapter 15
+" href="maskethaery.html#ch15" />
+<site title="      
+        Chapter 16
+" href="maskethaery.html#ch16" />
+<site title="      
+        Chapter 17
+" href="maskethaery.html#ch17" />
+<site title="      
+        Chapter 18
+" href="maskethaery.html#ch18" />
+<site title="      
+        Chapter 19
+" href="maskethaery.html#ch19" />
+<site title="      
+        Chapter 20
+" href="maskethaery.html#ch20" />
+<site title="      
+        Glossary
+" href="maskethaery.html#Glossary" />
+</tour>
+</tours>
+<guide>
+<reference type="copyright-page" title="Copyright link" href="Copyright.html" />
+<reference type="other.ms-thumbimage" title="Pocket PC library image" href="~cov0002.jpg" />
+<reference type="toc" title="Table of Contents" href="contents.html" />
+<reference type="other.ms-coverimage-standard" title="Cover image" href="MSRCover.jpg" />
+<reference type="title-page" title="About this title link" href="Copyright.html" />
+<reference type="other.ms-titleimage-standard" title="Cover page image" href="~cov0001.jpg" />
+<reference type="other.ms-thumbimage-standard" title="Library image" href="MSRThumb.jpg" />
+<reference type="other.ms-firstpage" title="Begin reading link" href="maskethaery.html#ch1" />
+<reference type="other.ms-coverimage" title="Pocket PC cover image" href="~cov0003.jpg" />
+</guide>
+</package>
