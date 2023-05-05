@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">369</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7403600-5027-4436-91e1-9b141326d069</dc:identifier>
+        <dc:title>The Strike at Shayol Ghul</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.30) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-22T04:55:29+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;The Wheel of Time-its most recent volume (The Path of Daggers) a #1 New York Times and international bestseller- is the most extraordinary work of American fantasy ever published. Its popularity is immense; its quality is dazzling. And its world has indeed taken on a fictive reality for its millions of readers.Over fourscore new full color paintings include stunning new maps of the world, portraits of the central characters, landscapes, objects of Power, and national flags. The reader will learn about the exotic beasts used by the Seanchan and read of the rise and fall of Artur Hawking, peruse the deeper story of the War of the Shadow. Here is the tale of the founding of the White Tower, and the creation of the Ajahs. The inner workings of the closed country, Shara, are revealed, as is the existence of a hitherto unknown continent called The Land of the Madmen.This stunning volume also includes double-page spreads of the seven book jackets by Darrell Sweet so that the art can be enjoyed without type, and all the known maps of the world, including maps of the Seanchan Empire, the nations of the Covenant of the Ten Nations, and the nations as they were when Artur Paendrag Tanreall began his rise to legend. Every Robert Jordan fan needs this book.&lt;/p&gt;</dc:description>
+        <dc:publisher>Tor</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">JAtJPgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780312862190</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0312869363</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/world-of-robert-jordans-the-wheel-of-time-robert-jordan/1101904611</dc:identifier>
+        <dc:identifier opf:scheme="FICTIONDB">todd-cameron-hamilton~the-world-of-robert-jordans-the-wheel-of-time~117493~b</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">202129</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Speculative Fiction</dc:subject>
+        <dc:subject>Wheel of Time</dc:subject>
+        <dc:subject>Epic Fantasy</dc:subject>
+        <meta content="{&quot;Robert Jordan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Wheel of Time" name="calibre:series"/>
+        <meta content="0.10" name="calibre:series_index"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2012-11-11T00:34:34+00:00" name="calibre:timestamp"/>
+        <meta content="Strike at Shayol Ghul, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
