@@ -1,0 +1,135 @@
+@namespace h "http://www.w3.org/1999/xhtml";
+.bold {
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    page-break-before: always
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: justify
+    }
+.calibre10 {
+    font-size: 1.41667em
+    }
+.calibre11 {
+    display: block;
+    margin-top: 6px;
+    text-align: center
+    }
+.calibre12 {
+    display: block;
+    margin-top: 6px
+    }
+.calibre13 {
+    background-color: #FFF;
+    display: block;
+    text-align: center
+    }
+.calibre14 {
+    font-size: 0.75em
+    }
+.calibre15 {
+    background-color: #FFF;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center
+    }
+.calibre16 {
+    font-size: 1.66667em
+    }
+.calibre17 {
+    display: block;
+    margin-top: 6px;
+    text-align: justify
+    }
+.calibre18 {
+    display: block;
+    margin-top: 6px;
+    text-align: justify;
+    text-indent: 1em
+    }
+.calibre19 {
+    display: block;
+    margin-top: 18px
+    }
+.calibre2 {
+    display: block;
+    text-align: center
+    }
+.calibre20 {
+    background-color: #FFF;
+    display: block;
+    margin-top: 6px;
+    text-align: justify
+    }
+.calibre21 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 2em;
+    page-break-before: always;
+    text-align: center
+    }
+.calibre22 {
+    font-size: 0.5625em
+    }
+.calibre23 {
+    background-color: #FFF;
+    display: block;
+    text-align: justify;
+    text-indent: 1em
+    }
+.calibre3 {
+    height: auto;
+    width: auto
+    }
+.calibre4 {
+    display: block;
+    margin-top: 2em;
+    text-align: center
+    }
+.calibre5 {
+    font-size: 1.125em
+    }
+.calibre6 {
+    display: block;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: block;
+    text-align: left
+    }
+.calibre8 {
+    font-size: 1em
+    }
+.calibre9 {
+    display: block
+    }
+.italic {
+    font-style: italic
+    }
+.mbppagebreak {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-after: always
+    }

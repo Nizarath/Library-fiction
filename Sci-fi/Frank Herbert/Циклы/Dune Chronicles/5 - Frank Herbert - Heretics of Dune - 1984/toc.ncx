@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="af40b706-39f4-485c-b2ed-00af6e2edd00" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Heretics of Dune</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="343baa9d-e438-4c3c-91c9-8f3b39850eb2" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src=".html#filepos7961"/>
+    </navPoint>
+    <navPoint class="chapter" id="aa8e26cf-c1dd-4cc6-99e1-8a1e1578359b" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src=".html#filepos8090"/>
+    </navPoint>
+    <navPoint class="chapter" id="4b59a31a-2e83-4ed2-ae22-525b5421d4fb" playOrder="3">
+      <navLabel>
+        <text>Frank Herbert The All-Time Bestselling DUNE MASTERWORKS</text>
+      </navLabel>
+      <content src=".html#filepos1363037"/>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="e55e6a88-ff0e-4656-8f09-fc5a411819d1" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Children of Dune</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="128b8149-0b2a-4297-84c4-4059f4faf9df" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Children_of_Dune.html#filepos261"/>
+    </navPoint>
+    <navPoint class="chapter" id="62e33768-02fd-4605-8ef7-4197a9611d3c" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="Children_of_Dune.html#filepos6723"/>
+    </navPoint>
+    <navPoint class="chapter" id="d75983b6-9144-4466-a46e-5445c5120b33" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="Children_of_Dune.html#filepos10004"/>
+    </navPoint>
+    <navPoint class="chapter" id="379b8c37-a402-4eac-8109-fff28e3cb8ab" playOrder="4">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="Children_of_Dune.html#filepos10226"/>
+    </navPoint>
+    <navPoint class="chapter" id="7f83a76b-4288-420f-98c9-22d9dc56ca3c" playOrder="5">
+      <navLabel>
+        <text>Church and State, scientific reason and faith, the individual and his ...</text>
+      </navLabel>
+      <content src="Children_of_Dune.html#filepos1301120"/>
+    </navPoint>
+  </navMap>
+</ncx>

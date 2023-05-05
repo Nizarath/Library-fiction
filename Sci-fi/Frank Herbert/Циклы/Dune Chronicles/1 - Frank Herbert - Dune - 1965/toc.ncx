@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="fc70694c-4ad8-4d70-b673-55ccb05631af" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dune (40th Anniversary Edition)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="1fab2e93-4724-40f3-863a-5586c6abbc33" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src=".html#filepos6557"/>
+    </navPoint>
+    <navPoint class="chapter" id="db059307-57b3-49f0-82dc-f1d95d7d8e4f" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src=".html#filepos6679"/>
+    </navPoint>
+    <navPoint class="chapter" id="81d00eaf-93ef-4336-acd6-e65651d314b0" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src=".html#filepos9754"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d6761c9-09af-434b-bc2a-bf981bead770" playOrder="4">
+      <navLabel>
+        <text>Book One - DUNE</text>
+      </navLabel>
+      <content src=".html#filepos10133"/>
+    </navPoint>
+    <navPoint class="chapter" id="97e771a3-1ad9-468b-9e17-4c1eb0bcd6a6" playOrder="5">
+      <navLabel>
+        <text>Book Two - MUAD‘DIB</text>
+      </navLabel>
+      <content src=".html#filepos695848"/>
+    </navPoint>
+    <navPoint class="chapter" id="a22c52cd-1c62-4c55-ba6f-499072716d78" playOrder="6">
+      <navLabel>
+        <text>Book Three - THE PROPHET</text>
+      </navLabel>
+      <content src=".html#filepos1249378"/>
+    </navPoint>
+    <navPoint class="chapter" id="d74a5117-1c43-4663-8072-e0aa19f51824" playOrder="7">
+      <navLabel>
+        <text>APPENDIXES</text>
+      </navLabel>
+      <content src=".html#filepos1683174"/>
+    </navPoint>
+    <navPoint class="chapter" id="1d37712e-739d-4343-a758-7ef533920602" playOrder="8">
+      <navLabel>
+        <text>Terminology of the Imperium</text>
+      </navLabel>
+      <content src=".html#filepos1743134"/>
+    </navPoint>
+    <navPoint class="chapter" id="12d4c064-6a6c-46b5-af9e-894feed8235d" playOrder="9">
+      <navLabel>
+        <text>CARTOGRAPHIC NOTES</text>
+      </navLabel>
+      <content src=".html#filepos1806488"/>
+    </navPoint>
+    <navPoint class="chapter" id="3dd9d3d9-2222-471f-9fd6-c1f5df89076b" playOrder="10">
+      <navLabel>
+        <text>Afterword by Brian Herbert</text>
+      </navLabel>
+      <content src=".html#filepos1809175"/>
+    </navPoint>
+  </navMap>
+</ncx>
