@@ -1,0 +1,1368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Minority Report</book-title>
+   <annotation>
+    <p>Philip K. Dick. <emphasis>The Minority Report </emphasis>12/22/54. <emphasis>Fantastic Universe, </emphasis>Jan 1956.</p>
+   </annotation>
+   <date>1956</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="4"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-13">17.04.2005</date>
+   <id>627C7EBB-5E43-4B5D-8573-5EF29DADEC80</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Minority Report (The Collected Stories of Philip K. Dick, Vol. 4)</book-name>
+   <publisher>Citadel Press</publisher>
+   <city>New York</city>
+   <year>1991</year>
+   <isbn>0806512768</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Minority Report</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <section>
+    <title>
+     <p>I</p>
+    </title>
+    <p>The first thought Anderton had when he saw the young man was: <emphasis>I’m getting bald. Bald and fat and old. </emphasis>But he didn’t say it aloud. Instead, he pushed back his chair, got to his feet, and came resolutely around the side of his desk, his right hand rigidly extended. Smiling with forced amiability, he shook hands with the young man.</p>
+    <p>“Witwer?” he asked, managing to make this query sound gracious. “That’s right,” the young man said. “But the name’s Ed to you, of course. That is, if you share my dislike for needless formality.” The look on his blond, overly-confident face showed that he considered the matter settled. It would be Ed and John: Everything would be agreeably cooperative right from the start.</p>
+    <p>“Did you have much trouble finding the building?” Anderton asked guardedly, ignoring the too-friendly overture. <emphasis>Good God, he had to hold on to something. </emphasis>Fear touched him and he began to sweat. Witwer was moving around the office as if he already owned it—as if he were measuring it for size. Couldn’t he wait a couple of days—a decent interval?</p>
+    <p>“No trouble,” Witwer answered blithely, his hands in his pockets. Eagerly, he examined the voluminous files that lined the wall. “I’m not coming into your agency blind, you understand. I have quite a few ideas of my own about the way Precrime is run.”</p>
+    <p>Shakily, Anderton lit his pipe. “How is it run? I should like to know.” “Not badly,” Witwer said. “In fact, quite well.”</p>
+    <p>Anderton regarded him steadily. “Is that your private opinion? Or is it just cant?”</p>
+    <p>Witwer met his gaze guilelessly. “Private and public. The Senate’s pleased with your work. In fact, they’re enthusiastic.” He added, “As enthusiastic as very old men can be.”</p>
+    <p>Anderton winced, but outwardly he remained impassive. It cost him an effort, though. He wondered what Witwer <emphasis>really </emphasis>thought. What was actually going on in that closecropped skull? The young man’s eyes were blue, bright—and disturbingly clever. Witwer was nobody’s fool. And obviously he had a great deal of ambition.</p>
+    <p>“As I understand it,” Anderton said cautiously, “you’re going to be my assistant until I retire.”</p>
+    <p>“That’s my understanding, too,” the other replied, without an instant’s hesitation.</p>
+    <p>“Which may be this year, or next year—or ten years from now.” The pipe in Anderton’s hand trembled. “I’m under no compulsion to retire. I founded Precrime and I can stay on here as long as I want. It’s purely <emphasis>my </emphasis>decision.”</p>
+    <p>Witwer nodded, his expression still guileless. “Of course.”</p>
+    <p>With an effort, Anderton cooled down a trifle. “I merely wanted to get things straight.”</p>
+    <p>“From the start,” Witwer agreed. “You’re the boss. What you say goes.” With every evidence of sincerity, he asked: “Would you care to show me the organization? I’d like to familiarize myself with the general routine as soon as possible.”</p>
+    <p>As they walked along the busy, yellow-lit tiers of offices, Anderton said: “You’re acquainted with the theory of precrime, of course. I presume we can take that for granted.”</p>
+    <p>“I have the information publicly available,” Witwer replied. “With the aid of your precog mutants, you’ve boldly and successfully abolished the post-crime punitive system of jails and fines. As we all realize, punishment was never much of a deterrent, and could scarcely have afforded comfort to a victim already dead.”</p>
+    <p>They had come to the descent lift. As it carried them swiftly downward, Anderton said: “You’ve probably grasped the basic legalistic drawback to precrime methodology. We’re taking in individuals who have broken no law.”</p>
+    <p>“But they surely will,” Witwer affirmed with conviction.</p>
+    <p>“Happily they <emphasis>don’t—</emphasis>because we get them first, before they can commit an act of violence. So the commission of the crime itself is absolute metaphysics. We claim they’re culpable. They, on the other hand, eternally claim they’re innocent. And, in a sense, they <emphasis>are </emphasis>innocent.”</p>
+    <p>The lift let them out, and they again paced down a yellow corridor. “In our society we have no major crimes,” Anderton went on, “but we do have a detention camp full of would-be criminals.”</p>
+    <p>Doors opened and closed, and they were in the analytical wing. Ahead of them rose impressive banks of equipment—the data-receptors, and the computing mechanisms that studied and restructured the incoming material. And beyond the machinery sat the three precogs, almost lost to view in the maze of wiring.</p>
+    <p>“There they are,” Anderton said dryly. “What do you think of them?” In the gloomy half-darkness the three idiots sat babbling. Every incoherent utterance, every random syllable, was analyzed, compared, reassembled in the form of visual symbols, transcribed on conventional punchcards, and ejected into various coded slots. All day long the idiots babbled, imprisoned in their special high-backed chairs, held in one rigid position by metal bands, and bundles of wiring, clamps. Their physical needs were taken care of automatically. They had no spiritual needs. Vegetable-like, they muttered and dozed and existed. Their minds were dull, confused, lost in shadows.</p>
+    <p>But not the shadows of today. The three gibbering, fumbling creatures, with their enlarged heads and wasted bodies, were contemplating the future. The analytical machinery was recording prophecies, and as the three precog idiots talked, the machinery carefully listened.</p>
+    <p>For the first time Witwer’s face lost its breezy confidence. A sick, dismayed expression crept into his eyes, a mixture of shame and moral shock. “It’s not—pleasant,” he murmured. “I didn’t realize they were so—” He groped in his mind for the right word, gesticulating. “So—deformed.”</p>
+    <p>“Deformed and retarded,” Anderton instantly agreed. “Especially the girl, there. Donna is forty-five years old. But she looks about ten. The talent absorbs everything; the esp-lobe shrivels the balance of the frontal area. But what do we care? We get their prophecies. They pass on what we need. They don’t understand any of it, but <emphasis>we </emphasis>do.”</p>
+    <p>Subdued, Witwer crossed the room to the machinery. From a slot he collected a stack of cards. “Are these names that have come up?” he asked.</p>
+    <p>“Obviously.” Frowning, Anderton took the stack from him. “I haven’t had a chance to examine them,” he explained, impatiently concealing his annoyance.</p>
+    <p>Fascinated, Witwer watched the machinery pop a fresh card into the now empty slot. It was followed by a second—and a third. From the whirring disks came one card after another. “The precogs must see quite far into the future,” Witwer exclaimed.</p>
+    <p>“They see a quite limited span,” Anderton informed him. “One week or two ahead at the very most. Much of their data is worthless to us—simply not relevant to our line. We pass it on to the appropriate agencies. And they in turn trade data with us. Every important bureau has its cellar of treasured <emphasis>monkeys.”</emphasis></p>
+    <p>“Monkeys?” Witwer stared at him uneasily. “Oh, yes, I understand. See no evil, speak no evil, et cetera. Very amusing.”</p>
+    <p>“Very <emphasis>apt.” </emphasis>Automatically, Anderton collected the fresh cards which had been turned up by the spinning machinery. “Some of these names will be totally discarded. And most of the remainder record petty crimes: thefts, income tax evasion, assault, extortion. As I’m sure you know, Precrime has cut down felonies by ninety-nine and decimal point eight percent. We seldom get actual murder or treason. After all, the culprit knows we’ll confine him in the detention camp a week before he gets a chance to commit the crime.”</p>
+    <p>“When was the last time an actual murder was committed?” Witwer asked.</p>
+    <p>“Five years ago,” Anderton said, pride in his voice.</p>
+    <p>“How did it happen?”</p>
+    <p>“The criminal escaped our teams. We had his name—in fact, we had all the details of the crime, including the victim’s name. We knew the exact moment, the location of the planned act of violence. But in spite of us he was able to carry it out.” Anderton shrugged. “After all, we can’t get all of them.” He riffled the cards. “But we do get most.”</p>
+    <p>“One murder in five years.” Witwer’s confidence was returning. “Quite an impressive record . . . something to be proud of.”</p>
+    <p>Quietly Anderton said: “I <emphasis>am </emphasis>proud. Thirty years ago I worked out the theory—back in the days when the self-seekers were thinking in terms of quick raids on the stock market. I saw something legitimate ahead—something of tremendous social value.”</p>
+    <p>He tossed the packet of cards to Wally Page, his subordinate in charge of the monkey block. “See which ones we want,” he told him. “Use your own judgment.”</p>
+    <p>As Page disappeared with the cards, Witwer said thoughtfully: “It’s a big responsibility.”</p>
+    <p>“Yes, it is,” agreed Anderton. “If we let one criminal escape—as we did five years ago—we’ve got a human life on our conscience. We’re solely responsible. If we slip up, somebody dies.” Bitterly, he jerked three new cards from the slot. “It’s a public trust.”</p>
+    <p>“Are you ever tempted to—” Witwer hesitated. “I mean, some of the men you pick up must offer you plenty.”</p>
+    <p>“It wouldn’t do any good. A duplicate file of cards pops out at Army GHQ. It’s check and balance. They can keep their eye on us as continuously as they wish.” Anderton glanced briefly at the top card. “So even if we wanted to accept a—”</p>
+    <p>He broke off, his lips tightening.</p>
+    <p>“What’s the matter?” Witwer asked curiously.</p>
+    <p>Carefully, Anderton folded up the top card and put it away in his pocket. “Nothing,” he muttered. “Nothing at all.”</p>
+    <p>The harshness in his voice brought a flush to Witwer’s face. “You really don’t like me,” he observed.</p>
+    <p>“True,” Anderton admitted. “I don’t. But—”</p>
+    <p>He couldn’t believe he disliked the young man that much. It didn’t seem possible: it <emphasis>wasn’t </emphasis>possible. Something was wrong. Dazed, he tried to steady his tumbling mind.</p>
+    <p>On the card was his name. Line one—an already accused future murderer! According to the coded punches, Precrime Commissioner John A. Anderton was going to kill a man—and within the next week.</p>
+    <p>With absolute, overwhelming conviction, he didn’t believe it.</p>
+   </section>
+   <section>
+    <title>
+     <p>II</p>
+    </title>
+    <p>In the outer office, talking to Page, stood Anderton’s slim and attractive young wife, Lisa. She was engaged in a sharp, animated discussion of policy, and barely glanced up as Witwer and her husband entered.</p>
+    <p>“Hello, darling,” Anderton said.</p>
+    <p>Witwer remained silent. But his pale eyes flickered slightly as they rested on the brown-haired woman in her trim police uniform. Lisa was now an executive official of Precrime but once, Witwer knew, she had been Anderton’s secretary.</p>
+    <p>Noticing the interest on Witwer’s face Anderton paused and reflected. To plant the card in the machines would require an accomplice on the inside—someone who was closely connected with Precrime and had access to the analytical equipment. Lisa was an improbable element. But the possibility did exist.</p>
+    <p>Of course, the conspiracy could be large-scale and elaborate, involving far more than a “rigged” card inserted somewhere along the line. The original data itself might have been tampered with. Actually, there was no telling how far back the alteration went. A cold fear touched him as he began to see the possibilities. His original impulse—to tear open the machines and remove all the data—was uselessly primitive. Probably the tapes agreed with the card: He would only incriminate himself further.</p>
+    <p>He had approximately twenty-four hours. Then, the Army people would check over their cards and discover the discrepancy. They would find in their files a duplicate of the card he had appropriated. He had only one of two copies, which meant that the folded card in his pocket might just as well be lying on Page’s desk in plain view of everyone.</p>
+    <p>From outside the building came the drone of police cars starting out on their routine round-ups. How many hours would elapse before one of them pulled up in front of <emphasis>his </emphasis>house?</p>
+    <p>“What’s the matter, darling?” Lisa asked him uneasily. “You look as if you’ve just seen a ghost. Are you all right?”</p>
+    <p>“I’m fine,” he assured her.</p>
+    <p>Lisa suddenly seemed to become aware of Ed Witwer’s admiring scrutiny. “Is this gentleman your new co-worker, darling?” she asked.</p>
+    <p>Warily, Anderton introduced his new associate. Lisa smiled in friendly greeting. Did a covert awareness pass between them? He couldn’t tell. God, he was beginning to suspect everybody—not only his wife and Witwer, but a dozen members of his staff.</p>
+    <p>“Are you from New York?” Lisa asked.</p>
+    <p>“No,” Witwer replied. “I’ve lived most of my life in Chicago. I’m staying at a hotel—one of the big downtown hotels. Wait—I have the name written on a card somewhere.”</p>
+    <p>While he self-consciously searched his pockets, Lisa suggested: “Perhaps you’d like to have dinner with us. We’ll be working in close cooperation, and I really think we ought to get better acquainted.”</p>
+    <p>Startled, Anderton backed off. What were the chances of his wife’s friendliness being benign, accidental? Witwer would be present the balance of the evening, and would now have an excuse to trail along to Anderton’s private residence. Profoundly disturbed, he turned impulsively, and moved toward the door.</p>
+    <p>“Where are you going?” Lisa asked, astonished.</p>
+    <p>“Back to the monkey block,” he told her. “I want to check over some rather puzzling data tapes before the Army sees them.” He was out in the corridor before she could think of a plausible reason for detaining him.</p>
+    <p>Rapidly, he made his way to the ramp at its far end. He was striding down the outside stairs toward the public sidewalk, when Lisa appeared breathlessly behind him.</p>
+    <p>“What on earth has come over you?” Catching hold of his arm, she moved quickly in front of him. “I <emphasis>knew </emphasis>you were leaving,” she exclaimed, blocking his way. “What’s wrong with you? Everybody thinks you’re—” She checked herself. “I mean, you’re acting so erratically.”</p>
+    <p>People surged by them—the usual afternoon crowd. Ignoring them, Anderton pried his wife’s fingers from his arm. “I’m getting out,” he told her. “While there’s still time.”</p>
+    <p>“But—why?”</p>
+    <p>“I’m being framed—deliberately and maliciously. This creature is out to get my job. The Senate is getting at me <emphasis>through </emphasis>him.”</p>
+    <p>Lisa gazed up at him, bewildered. “But he seems like such a nice young man.”</p>
+    <p>“Nice as a water moccasin.”</p>
+    <p>Lisa’s dismay turned to disbelief. “I don’t believe it. Darling, all this strain you’ve been under—” Smiling uncertainly, she faltered: “It’s not really credible that Ed Witwer is trying to frame you. How could he, even if he wanted to? Surely Ed wouldn’t—”</p>
+    <p>“Ed?”</p>
+    <p>“That’s his name, isn’t it?”</p>
+    <p>Her brown eyes flashed in startled, wildly incredulous protest. “Good heavens, you’re suspicious of everybody. You actually believe I’m mixed up with it in some way, don’t you?”</p>
+    <p>He considered. “I’m not sure.”</p>
+    <p>She drew closer to him, her eyes accusing. “That’s not true. You really believe it. Maybe you <emphasis>ought </emphasis>to go away for a few weeks. You desperately need a rest. All this tension and trauma, a younger man coming in. You’re acting paranoiac. Can’t you see that? People plotting against you. Tell me, do you have any actual proof?”</p>
+    <p>Anderton removed his wallet and took out the folded card. “Examine this carefully,” he said, handing it to her.</p>
+    <p>The color drained out of her face, and she gave a little harsh, dry gasp.</p>
+    <p>“The set-up is fairly obvious,” Anderton told her, as levelly as he could. “This will give Witwer a legal pretext to remove me right now. He won’t have to wait until I resign.” Grimly, he added: “They know I’m good for a few years yet.”</p>
+    <p>“But—”</p>
+    <p>“It will end the check and balance system. Precrime will no longer be an independent agency. The Senate will control the police, and after that—” His lips tightened. “They’ll absorb the Army too. Well, it’s outwardly logical enough. <emphasis>Of course </emphasis>I feel hostility and resentment toward Witwer—<emphasis>of course </emphasis>I have a motive.</p>
+    <p>“Nobody likes to be replaced by a younger man, and find himself turned out to pasture. It’s all really quite plausible—except that I haven’t the remotest intention of killing Witwer. But I can’t prove that. So what can I do?”</p>
+    <p>Mutely, her face very white, Lisa shook her head. “I—I don’t know. Darling, if only—”</p>
+    <p>“Right now,” Anderton said abruptly, “I’m going home to pack my things. That’s about as far ahead as I can plan.”</p>
+    <p>“You’re really going to—to try to hide out?”</p>
+    <p>“I am. As far as the Centaurian-colony planets, if necessary. It’s been done successfully before, and I have a twenty-four-hour start.” He turned resolutely. “Go back inside. There’s no point in your coming with me.”</p>
+    <p>“Did you imagine I would?” Lisa asked huskily.</p>
+    <p>Startled, Anderton stared at her. “Wouldn’t you?” Then with amazement, he murmured: “No, I can see you don’t believe me. You still think I’m imagining all this.” He jabbed savagely at the card. “Even with that evidence you still aren’t convinced.”</p>
+    <p>“No,” Lisa agreed quickly, “I’m not. You didn’t look at it closely enough, darling. Ed Witwer’s name isn’t on it.”</p>
+    <p>Incredulous, Anderton took the card from her.</p>
+    <p>“Nobody says you’re going to kill Ed Witwer,” Lisa continued rapidly, in a thin, brittle voice. “The card <emphasis>must </emphasis>be genuine, understand? And it has nothing to do with Ed. He’s not plotting against you and neither is anybody else.”</p>
+    <p>Too confused to reply, Anderton stood studying the card. She was right. Ed Witwer was not listed as his victim. On line five, the machine had neatly stamped another name.</p>
+    <p><strong>LEOPOLD KAPLAN</strong></p>
+    <p>Numbly, he pocketed the card. He had never heard of the man in his life.</p>
+    <empty-line/>
+   </section>
+   <section>
+    <title>
+     <p>III</p>
+    </title>
+    <p>The house was cool and deserted, and almost immediately Anderton began making preparations for his journey. While he packed, frantic thoughts passed through his mind.</p>
+    <p>Possibly he was wrong about Witwer—but how could he be sure? In any event, the conspiracy against him was far more complex than he had realized. Witwer, in the over-all picture, might be merely an insignificant puppet animated by someone else—by some distant, indistinct figure only vaguely visible in the background.</p>
+    <p>It had been a mistake to show the card to Lisa. Undoubtedly, she would describe it in detail to Witwer. He’d never get off Earth, never have an opportunity to find out what life on a frontier planet might be like.</p>
+    <p>While he was thus preoccupied, a board creaked behind him. He turned from the bed, clutching a weather-stained winter sports jacket, to face the muzzle of a gray-blue A-pistol.</p>
+    <p>“It didn’t take you long,” he said, staring with bitterness at the tight-lipped, heavyset man in a brown overcoat who stood holding the gun in his gloved hand. “Didn’t she even hesitate?”</p>
+    <p>The intruder’s face registered no response. “I don’t know what you’re talking about,” he said. “Come along with me.”</p>
+    <p>Startled, Anderton laid down the sports jacket. “You’re not from my agency? You’re not a police officer?”</p>
+    <p>Protesting and astonished, he was hustled outside the house to a waiting limousine. Instantly three heavily armed men closed in behind him. The door slammed and the car shot off down the highway, away from the city. Impassive and remote, the faces around him jogged with the motion of the speeding vehicle as open fields, dark and somber, swept past.</p>
+    <p>Anderton was till trying futilely to grasp the implications of what had happened, when the car came to a rutted side road, turned off, and descended into a gloomy sub-surface garage. Someone shouted an order. The heavy metal lock grated shut and overhead lights blinked on. The driver turned off the car motor.</p>
+    <p>“You’ll have reason to regret this,” Anderton warned hoarsely, as they dragged him from the car. “Do you realize who I am?”</p>
+    <p>“We realize,” the man in the brown overcoat said.</p>
+    <p>At gun-point, Anderton was marched upstairs, from the clammy silence of the garage into a deep-carpeted hallway. He was, apparently, in a luxurious private residence, set out in the war-devoured rural area. At the far end of the hallway he could make out a room—a book-lined study simply but tastefully furnished. In a circle of lamplight, his face partly in shadows, a man he had never met sat waiting for him.</p>
+    <p>As Anderton approached, the man nervously slipped a pair of rimless glasses in place, snapped the case shut, and moistened his dry lips. He was elderly, perhaps seventy or older, and under his arm was a slim silver cane. His body was thin, wiry, his attitude curiously rigid. What little hair he had was dusty brown—a carefully-smoothed sheen of neutral color above his pale, bony skull. Only his eyes seemed really alert.</p>
+    <p>“Is this Anderton?” he inquired querulously, turning to the man in the brown overcoat. “Where did you pick him up?”</p>
+    <p>“At his home,” the other replied. “He was packing—as we expected.”</p>
+    <p>The man at the desk shivered visibly. “Packing.” He took off his glasses and jerkily returned them to their case. “Look here,” he said bluntly to Anderton, “what’s the matter with you? Are you hopelessly insane? How could you kill a man you’ve never met?”</p>
+    <p>The old man, Anderton suddenly realized, was Leopold Kaplan.</p>
+    <p>“First, I’ll ask you a question,” Anderton countered rapidly. “Do you realize what you’ve done? I’m Commissioner of Police. I can have you sent up for twenty years.”</p>
+    <p>He was going to say more, but a sudden wonder cut him short.</p>
+    <p><emphasis>“How did you find out?” </emphasis>he demanded. Involuntarily, his hand went to his pocket, where the folded card was hidden. “It won’t be for another—”</p>
+    <p>“I wasn’t notified through your agency,” Kaplan broke in, with angry impatience. “The fact that you’ve never heard of me doesn’t surprise me too much. Leopold Kaplan, General of the Army of the Federated Westbloc Alliance.” Begrudgingly, he added. “Retired, since the end of the Anglo-Chinese War, and the abolishment of AFWA.”</p>
+    <p>It made sense. Anderton had suspected that the Army processed its duplicate cards immediately, for its own protection. Relaxing somewhat, he demanded: “Well? You’ve got me here. What next?”</p>
+    <p>“Evidently,” Kaplan said, “I’m not going to have you destroyed, or it would have shown up on one of those miserable little cards. I’m curious about you. It seemed incredible to me that a man of your stature could contemplate the cold-blooded murder of a total stranger. There must be something more here. Frankly, I’m puzzled. If it represented some kind of Police strategy—” He shrugged his thin shoulders. “Surely you wouldn’t have permitted the duplicate card to reach us.”</p>
+    <p>“Unless,” one of his men suggested, “it’s a deliberate plant.”</p>
+    <p>Kaplan raised his bright, bird-like eyes and scrutinized Anderton. “What do you have to say?”</p>
+    <p>“That’s exactly what it is,” Anderton said, quick to see the advantage of stating frankly what he believed to be the simple truth. “The prediction on the card was deliberately fabricated by a clique inside the police agency. The card is prepared and I’m netted. I’m relieved of my authority automatically. My assistant steps in and claims he prevented the murder in the usual efficient Precrime manner. Needless to say, there is no murder or intent to murder.”</p>
+    <p>“I agree with you that there will be no murder,” Kaplan affirmed grimly. “You’ll be in police custody. I intend to make certain of that.”</p>
+    <p>Horrified, Anderton protested: “You’re taking me back there? If I’m in custody I’ll never be able to prove—”</p>
+    <p>“I don’t care what you prove or don’t prove,” Kaplan interrupted. “All I’m interested in is having you out of the way.” Frigidly, he added: “For my own protection.”</p>
+    <p>“He was getting ready to leave,” one of the men asserted.</p>
+    <p>“That’s right,” Anderton said, sweating. “As soon as they get hold of me I’ll be confined in the detention camp. Witwer will take over—lock, stock and barrel.” His face darkened. “And my wife. They’re acting in concert, apparently.”</p>
+    <p>For a moment Kaplan seemed to waver. “It’s possible,” he conceded, regarding Anderton steadily. Then he shook his head. “I can’t take the chance. If this is a frame against you, I’m sorry. But it’s simply not my affair.” He smiled slightly. “However, I wish you luck.” To the men he said: “Take him to the police building and turn him over to the highest authority.” He mentioned the name of the acting commissioner, and waited for Anderton’s reaction.</p>
+    <p>“Witwer!” Anderton echoed, incredulous.</p>
+    <p>Still smiling slightly, Kaplan turned and clicked on the console radio in the study. “Witwer has already assumed authority. Obviously, he’s going to create quite an affair out of this.”</p>
+    <p>There was a brief static hum, and then, abruptly, the radio blared out into the room—a noisy professional voice, reading a prepared announcement.</p>
+    <p>“ . . . all citizens are warned not to shelter or in any fashion aid or assist this dangerous marginal individual. The extraordinary circumstance of an escaped criminal at liberty and in a position to commit an act of violence is unique in modern times. All citizens are hereby notified that legal statutes still in force implicate any and all persons failing to cooperate fully with the police in their task of apprehending John Allison Anderton. To repeat: The Precrime Agency of the Federal Westbloc Government is in the process of locating and neutralizing its former Commissioner, John Allison Anderton, who, through the methodology of the precrime-system, is hereby declared a potential murderer and as such forfeits his rights to freedom and all its privileges.”</p>
+    <p>“It didn’t take him long,” Anderton muttered, appalled. Kaplan snapped off the radio and the voice vanished.</p>
+    <p>“Lisa must have gone directly to him,” Anderton speculated bitterly.</p>
+    <p>“Why should he wait?” Kaplan asked. “You made your intentions clear.”</p>
+    <p>He nodded to his men. “Take him back to town. I feel uneasy having him so close. In that respect I concur with Commissioner Witwer. I want him neutralized as soon as possible.”</p>
+   </section>
+   <section>
+    <title>
+     <p>IV</p>
+    </title>
+    <p>Cold, light rain beat against the pavement, as the car moved through the dark streets of New York City toward the police building.</p>
+    <p>“You can see his point,” one of the men said to Anderton. “If you were in his place you’d act just as decisively.”</p>
+    <p>Sullen and resentful, Anderton stared straight ahead.</p>
+    <p>“Anyhow,” the man went on, “you’re just one of many. Thousands of people have gone to that detention camp. You won’t be lonely. As a matter of fact, you may not want to leave.”</p>
+    <p>Helplessly, Anderton watched pedestrians hurrying along the rain-swept sidewalks. He felt no strong emotion. He was aware only of an overpowering fatigue. Dully, he checked off the street numbers: they were getting near the police station.</p>
+    <p>“This Witwer seems to know how to take advantage of an opportunity,” one of the men observed conversationally. “Did you ever meet him?”</p>
+    <p>“Briefly,” Anderton answered.</p>
+    <p>“He wanted your job—so he framed you. Are you sure of that?”</p>
+    <p>Anderton grimaced. “Does it matter?”</p>
+    <p>“I was just curious.” The man eyed him languidly. “So you’re the ex-Commissioner of Police. People in the camp will be glad to see you coming. They’ll remember you.”</p>
+    <p>“No doubt,” Anderton agreed.</p>
+    <p>“Witwer sure didn’t waste any time. Kaplan’s lucky—with an official like that in charge.” The man looked at Anderton almost pleadingly. “You’re really convinced it’s a plot, eh?”</p>
+    <p>“Of course.”</p>
+    <p>“You wouldn’t harm a hair of Kaplan’s head? For the first time in history, Precrime goes wrong? An innocent man is framed by one of those cards. Maybe there’ve been other innocent people—right?”</p>
+    <p>“It’s quite possible,” Anderton admitted listlessly.</p>
+    <p>“Maybe the whole system can break down. Sure, you’re not going to commit a murder—and maybe none of them were. Is that why you told Kaplan you wanted to keep yourself outside? Were you hoping to prove the system wrong? I’ve got an open mind, if you want to talk about it.”</p>
+    <p>Another man leaned over, and asked, “Just between the two of us, is there really anything to this plot stuff? Are you really being framed?”</p>
+    <p>Anderton sighed. At that point he wasn’t certain, himself. Perhaps he was trapped in a closed, meaningless time-circle with no motive and no beginning. In fact, he was almost ready to concede that he was the victim of a weary, neurotic fantasy, spawned by growing insecurity. Without a fight, he was willing to give himself up. A vast weight of exhaustion lay upon him. He was struggling against the impossible—and all the cards were stacked against him.</p>
+    <p>The sharp squeal of tires roused him. Frantically, the driver struggled to control the car, tugging at the wheel and slamming on the brakes, as a massive bread truck loomed up from the fog and ran directly across the lane ahead. Had he gunned the motor instead he might have saved himself. But too late he realized his error. The car skidded, lurched, hesitated for a brief instant, and then smashed head on into the bread truck.</p>
+    <p>Under Anderton the seat lifted up and flung him face-forward against the door. Pain, sudden, intolerable, seemed to burst in his brain as he lay gasping and trying feebly to pull himself to his knees. Somewhere the crackle of fire echoed dismally, a patch of hissing brilliance winking in the swirls of mist making their way into the twisted hulk of the car.</p>
+    <p>Hands from outside the car reached for him. Slowly he became aware that he was being dragged through the rent that had been the door. A heavy seat cushion was shoved brusquely aside, and all at once he found himself on his feet, leaning heavily against a dark shape and being guided into the shadows of an alley a short distance from the car. In the distance, police sirens wailed.</p>
+    <p>“You’ll live,” a voice grated in his ear, low and urgent. It was a voice he had never heard before, as unfamiliar and harsh as the rain beating into his face. “Can you hear what I’m saying?”</p>
+    <p>“Yes,” Anderton acknowledged. He plucked aimlessly at the ripped sleeve of his shirt. A cut on his cheek was beginning to throb. Confused, he tried to orient himself. “You’re not—”</p>
+    <p>“Stop talking and listen.” The man was heavyset, almost fat. Now his big hands held Anderton propped against the wet brick wall of the building, out of the rain and the flickering light of the burning car. “We had to do it that way,” he said. “It was the only alternative. We didn’t have much time. We thought Kaplan would keep you at his place longer.” “Who are you?” Anderton managed.</p>
+    <p>The moist, rain-streaked face twisted into a humorless grin. “My name’s Fleming. You’ll see me again. We have about five seconds before the police get here. Then we’re back where we started.” A flat packet was stuffed into Anderton’s hands. “That’s enough loot to keep you going. And there’s a full set of identification in there. We’ll contact you from time to time.” His grin increased and became a nervous chuckle. “Until you’ve proved your point.”</p>
+    <p>Anderton blinked. “It is a frameup, then?”</p>
+    <p>“Of course.” Sharply, the man swore. “You mean they got you to believe it, too?”</p>
+    <p>“I thought—” Anderton had trouble talking; one of his front teeth seemed to be loose. “Hostility toward Witwer . . . replaced, my wife and a younger man, natural resentment. . . . ”</p>
+    <p>“Don’t kid yourself,” the other said. “You know better than that. This whole business was worked out carefully. They had every phase of it under control. The card was set to pop the day Witwer appeared. They’ve already got the first part wrapped up. Witwer is Commissioner, and you’re a hunted criminal.”</p>
+    <p>“Who’s behind it?”</p>
+    <p>“Your wife.”</p>
+    <p>Anderton’s head spun. “You’re positive?”</p>
+    <p>The man laughed. “You bet your life.” He glanced quickly around. “Here come the police. Take off down this alley. Grab a bus, get yourself into the slum section, rent a room and buy a stack of magazines to keep you busy. Get other clothes—You’re smart enough to take care of yourself. Don’t try to leave Earth. They’ve got all the intersystem transports screened. If you can keep low for the next seven days, you’re made.”</p>
+    <p>“Who are you?” Anderton demanded.</p>
+    <p>Fleming let go of him. Cautiously, he moved to the entrance of the alley and peered out. The first police car had come to rest on the damp pavement; its motor spinning tinnily, it crept suspiciously toward the smouldering ruin that had been Kaplan’s car. Inside the wreck the squad of men were stirring feebly, beginning to creep painfully through the tangle of steel and plastic out into the cold rain.</p>
+    <p>“Consider us a protective society,” Fleming said softly, his plump, expressionless face shining with moisture. “A sort of police force that watches the police. To see,” he added, “that everything stays on an even keel.”</p>
+    <p>His thick hand shot out. Stumbling, Anderton was knocked away from him, half-falling into the shadows and damp debris that littered the alley.</p>
+    <p>“Get going,” Fleming told him sharply. “And don’t discard that packet.” As Anderton felt his way hesitantly toward the far exit of the alley, the man’s last words drifted to him. “Study it carefully and you may still survive.”</p>
+   </section>
+   <section>
+    <title>
+     <p>V</p>
+    </title>
+    <p>The identification cards described him as Ernest Temple, an unemployed electrician, drawing a weekly subsistence from the State of New York, with a wife and four children in Buffalo and less than a hundred dollars in assets. A sweat-stained green card gave him permission to travel and to maintain no fixed address. A man looking for work needed to travel. He might have to go a long way.</p>
+    <p>As he rode across town in the almost empty bus, Anderton studied the description of Ernest Temple. Obviously, the cards had been made out with him in mind, for all the measurements fitted. After a time he wondered about the fingerprints and the brain-wave pattern. They couldn’t possibly stand comparison. The walletful of cards would get him past only the most cursory examinations.</p>
+    <p>But it was something. And with the ID cards came ten thousand dollars in bills. He pocketed the money and cards, then turned to the neatly-typed message in which they had been enclosed.</p>
+    <p>At first he could make no sense of it. For a long time he studied it, perplexed.</p>
+    <p><emphasis>The existence of a majority logically implies a corresponding minority.</emphasis></p>
+    <p>The bus had entered the vast slum region, the tumbled miles of cheap hotels and broken-down tenements that had sprung up after the mass destruction of the war. It slowed to a stop, and Anderton got to his feet. A few passengers idly observed his cut cheek and damaged clothing. Ignoring them, he stepped down onto the rain-swept curb.</p>
+    <p>Beyond collecting the money due him, the hotel clerk was not interested. Anderton climbed the stairs to the second floor and entered the narrow, musty-smelling room that now belonged to him. Gratefully, he locked the door and pulled down the window shades. The room was small but clean. Bed, dresser, scenic calendar, chair, lamp, a radio with a slot for the insertion of quarters.</p>
+    <p>He dropped a quarter into it and threw himself heavily down on the bed. All main stations carried the police bulletin. It was novel, exciting, something unknown to the present generation. An escaped criminal! The public was avidly interested.</p>
+    <p>“ . . . this man has used the advantage of his high position to carry out an initial escape,” the announcer was saying, with professional indignation. “Because of his high office he had access to the previewed data and the trust placed in him permitted him to evade the normal process of detection and re-location. During the period of his tenure he exercised his authority to send countless potentially guilty individuals to their proper confinement, thus sparing the lives of innocent victims. This man, John Allison Anderton, was instrumental in the original creation of the Precrime system, the prophylactic pre-detection of criminals through the ingenious use of mutant precogs, capable of previewing future events and transferring orally that data to analytical machinery. These three precogs, in their vital function . . . .”</p>
+    <p>The voice faded out as he left the room and entered the tiny bathroom. There, he stripped off his coat, and shirt, and ran hot water in the wash bowl. He began bathing the cut on his cheek. At the drugstore on the corner he had bought iodine and Band-aids, a razor, comb, toothbrush, and other small things he would need. The next morning he intended to find a second-hand clothing store and buy more suitable clothing. After all, he was now an unemployed electrician, not an accident-damaged Commissioner of Police.</p>
+    <p>In the other room the radio blared on. Only subconsciously aware of it, he stood in front of the cracked mirror, examining a broken tooth.</p>
+    <p>“ . . . the system of three precogs finds its genesis in the computers of the middle decades of this century. How are the results of an electronic computer checked? By feeding the data to a second computer of identical design. But two computers are not sufficient. If each computer arrived at a different answer it is impossible to tell <emphasis>a priori </emphasis>which is correct. The solution, based on a careful study of statistical method, is to utilize a third computer to check the results of the first two. In this manner, a so-called majority report is obtained. It can be assumed with fair probability that the agreement of two out of three computers indicates which of the alternative results is accurate. It would not be likely that two computers would arrive at identically incorrect solutions—”</p>
+    <p>Anderton dropped the towel he was clutching and raced into the other room. Trembling, he bent to catch the blaring words of the radio.</p>
+    <p>“ . . . unanimity of all three precogs is a hoped-for but seldom-achieved phenomenon, acting-Commissioner Witwer explains. It is much more common to obtain a collaborative majority report of two precogs, plus a minority report of some slight variation, usually with reference to time and place, from the third mutant. This is explained by the theory of <emphasis>multiple-futures. </emphasis>If only one time-path existed, precognitive information would be of no importance, since no possibility would exist, in possessing this information, of altering the future. In the Precrime Agency’s work we must first of all assume—”</p>
+    <p>Frantically, Anderton paced around the tiny room. Majority report—only two of the precogs had concurred on the material underlying the card. That was the meaning of the message enclosed with the packet. The report of the third precog, the minority report, was somehow of importance.</p>
+    <p>Why?</p>
+    <p>His watch told him that it was after midnight. Page would be off duty. He wouldn’t be back in the monkey block until the next afternoon. It was a slim chance, but worth taking. Maybe Page would cover for him, and maybe not. He would have to risk it.</p>
+    <p>He had to see the minority report.</p>
+   </section>
+   <section>
+    <title>
+     <p>VI</p>
+    </title>
+    <p>Between noon and one o’clock the rubbish-littered streets swarmed with people. He chose that time, the busiest part of the day, to make his call. Selecting a phonebooth in a patron-teeming super drugstore, he dialed the familiar police number and stood holding the cold receiver to his ear. Deliberately, he had selected the aud, not the vid line: in spite of his second-hand clothing and seedy, unshaven appearance, he might be recognized.</p>
+    <p>The receptionist was new to him. Cautiously, he gave Page’s extension. If Witwer were removing the regular staff and putting in his satellites, he might find himself talking to a total stranger.</p>
+    <p>“Hello,” Page’s gruff voice came.</p>
+    <p>Relieved, Anderton glanced around. Nobody was paying any attention to him. The shoppers wandered among the merchandise, going about their daily routines. “Can you talk?” he asked. “Or are you tied up?”</p>
+    <p>There was a moment of silence. He could picture Page’s mild face torn with uncertainty as he wildly tried to decide what to do. At last came halting words. “Why—are you calling here?”</p>
+    <p>Ignoring the question, Anderton said, “I didn’t recognize the receptionist. New personnel?”</p>
+    <p>“Brand-new,” Page agreed, in a thin, strangled voice. “Big turnovers, these days.”</p>
+    <p>“So I hear.” Tensely, Anderton asked, “How’s your job? Still safe?”</p>
+    <p>“Wait a minute.” The receiver was put down and the muffled sound of steps came in Anderton’s ear. It was followed by the quick slam of a door being hastily shut. Page returned. “We can talk better now,” he said hoarsely.</p>
+    <p>“How much better?”</p>
+    <p>“Not a great deal. Where are you?”</p>
+    <p>“Strolling through Central Park,” Anderton said. “Enjoying the sunlight.” For all he knew, Page had gone to make sure the line-tap was in place. Right now, an airborne police team was probably on its way. But he had to take the chance. “I’m in a new field,” he said curtly. “I’m an electrician these days.”</p>
+    <p>“Oh?” Page said, baffled.</p>
+    <p>“I thought maybe you had some work for me. If it can be arranged, I’d like to drop by and examine your basic computing equipment. Especially the data and analytical banks in the monkey block.”</p>
+    <p>After a pause, Page said: “It—might be arranged. If it’s really important.”</p>
+    <p>“It is,” Anderton assured him. “When would be best for you?”</p>
+    <p>“Well,” Page said, struggling. “I’m having a repair team come in to look at the intercom equipment. The acting-Commissioner wants it improved, so he can operate quicker. You might trail along.”</p>
+    <p>“I’ll do that. About when?”</p>
+    <p>“Say four o’clock. Entrance B, level 6. I’ll meet you.”</p>
+    <p>“Fine,” Anderton agreed, already starting to hang up. “I hope you’re still in charge, when I get there.”</p>
+    <p>He hung up and rapidly left the booth. A moment later he was pushing through the dense pack of people crammed into the nearby cafeteria. Nobody would locate him there.</p>
+    <p>He had three and a half hours to wait. And it was going to seem a lot longer. It proved to be the longest wait of his life before he finally met Page as arranged.</p>
+    <p>The first thing Page said was: “You’re out of your mind. Why in hell did you come back?”</p>
+    <p>“I’m not back for long.” Tautly, Anderton prowled around the monkey block, systematically locking one door after another. “Don’t let anybody in. I can’t take chances.”</p>
+    <p>“You should have quit when you were ahead.” In an agony of apprehension, Page followed after him. “Witwer is making hay, hand over fist. He’s got the whole country screaming for your blood.”</p>
+    <p>Ignoring him, Anderton snapped open the main control bank of the analytical machinery. “Which of the three monkeys gave the minority report?”</p>
+    <p>“Don’t question me—I’m getting out.” On his way to the door Page halted briefly, pointed to the middle figure, and then disappeared. The door closed; Anderton was alone.</p>
+    <p>The middle one. He knew that one well. The dwarfed, hunched-over figure had sat buried in its wiring and relays for fifteen years. As Anderton approached, it didn’t look up. With eyes glazed and blank, it contemplated a world that did not yet exist, blind to the physical reality that lay around it.</p>
+    <p>“Jerry” was twenty-four years old. Originally, he had been classified as a hydrocephalic idiot but when he reached the age of six the psych testers had identified the precog talent, buried under the layers of tissue corrosion. Placed in a government-operated training school, the latent talent had been cultivated. By the time he was nine the talent had advanced to a useful stage. “Jerry,” however, remained in the aimless chaos of idiocy; the burgeoning faculty had absorbed the totality of his personality.</p>
+    <p>Squatting down, Anderton began disassembling the protective shields that guarded the tape-reels stored in the analytical machinery. Using schematics, he traced the leads back from the final stages of the integrated computers, to the point where “Jerry’s” individual equipment branched off. Within minutes he was shakily lifting out two half-hour tapes: recent rejected data not fused with majority reports. Consulting the code chart, he selected the section of tape which referred to his particular card.</p>
+    <p>A tape scanner was mounted nearby. Holding his breath, he inserted the tape, activated the transport, and listened. It took only a second. From the first statement of the report it was clear what had happened. He had what he wanted; he could stop looking.</p>
+    <p>“Jerry’s” vision was misphased. Because of the erratic nature of precog-nition, he was examining a time-area slightly different from that of his companions. For him, the report that Anderton would commit a murder was an event to be integrated along with everything else. That assertion—and Anderton’s reaction—was one more piece of datum.</p>
+    <p>Obviously, “Jerry’s” report superseded the majority report. Having been informed that he would commit a murder, Anderton would change his mind and not do so. The preview of the murder had cancelled out the murder; prophylaxis had occurred simply in his being informed. Already, a new time-path had been created. But “Jerry” was outvoted.</p>
+    <p>Trembling, Anderton rewound the tape and clicked on the recording head. At high speed he made a copy of the report, restored the original, and removed the duplicate from the transport. Here was the proof that the card was invalid: <emphasis>obsolete. </emphasis>All he had to do was show it to Witwer . . . .</p>
+    <p>His own stupidity amazed him. Undoubtedly, Witwer had seen the report; and in spite of it, had assumed the job of Commissioner, had kept the police teams out. Witwer didn’t intend to back down; he wasn’t concerned with Anderton’s innocence.</p>
+    <p>What, then, could he do? Who else would be interested?</p>
+    <p>“You damn fool!” a voice behind him grated, wild with anxiety.</p>
+    <p>Quickly, he turned. His wife stood at one of the doors, in her police uniform, her eyes frantic with dismay. “Don’t worry,” he told her briefly, displaying the reel of tape. “I’m leaving.”</p>
+    <p>Her face distorted, Lisa rushed frantically up to him. “Page said you were here, but I couldn’t believe it. He shouldn’t have let you in. He just doesn’t understand what you are.”</p>
+    <p>“What am I?” Anderton inquired caustically. “Before you answer, maybe you better listen to this tape.”</p>
+    <p>“I don’t want to listen to it! I just want you to get out of here! Ed Witwer knows somebody’s down here. Page is trying to keep him occupied, but—” She broke off, her head turned stiffly to one side. “He’s here now! He’s going to force his way in.”</p>
+    <p>“Haven’t you got any influence? Be gracious and charming. He’ll probably forget about me.”</p>
+    <p>Lisa looked at him in bitter reproach. “There’s a ship parked on the roof. If you want to get away . . . .” Her voice choked and for an instant she was silent. Then she said, “I’ll be taking off in a minute or so. If you want to come—”</p>
+    <p>“I’ll come,” Anderton said. He had no other choice. He had secured his tape, his proof, but he hadn’t worked out any method of leaving. Gladly, he hurried after the slim figure of his wife as she strode from the block, through a side door and down a supply corridor, her heels clicking loudly in the deserted gloom.</p>
+    <p>“It’s a good fast ship,” she told him over her shoulder. “It’s emergency-fueled—ready to go. I was going to supervise some of the teams.”</p>
+   </section>
+   <section>
+    <title>
+     <p>VII</p>
+    </title>
+    <p>Behind the wheel of the high-velocity police cruiser, Anderton outlined what the minority report tape contained. Lisa listened without comment, her face pinched and strained, her hands clasped tensely in her lap. Below the ship, the war-ravaged rural countryside spread out like a relief map, the vacant regions between cities crater-pitted and dotted with the ruins of farms and small industrial plants.</p>
+    <p>“I wonder,” she said, when he had finished, “how many times this has happened before.”</p>
+    <p>“A minority report? A great many times.”</p>
+    <p>“I mean, one precog misphased. Using the report of the others as data—superseding them.” Her eyes dark and serious, she added, “Perhaps a lot of the people in the camps are like you.”</p>
+    <p>“No,” Anderton insisted. But he was beginning to feel uneasy about it, too. “I was in a position to see the card, to get a look at the report. That’s what did it.”</p>
+    <p>“But—” Lisa gestured significantly. “Perhaps all of them would have reacted that way. We could have told them the truth.”</p>
+    <p>“It would have been too great a risk,” he answered stubbornly.</p>
+    <p>Lisa laughed sharply. “Risk? Chance? Uncertainty? With precogs around?”</p>
+    <p>Anderton concentrated on steering the fast little ship. “This is a unique case,” he repeated. “And we have an immediate problem. We can tackle the theoretical aspects later on. I have to get this tape to the proper people—before your bright young friend demolishes it.”</p>
+    <p>“You’re taking it to Kaplan?”</p>
+    <p>“I certainly am.” He tapped the reel of tape which lay on the seat between them. “He’ll be interested. Proof that his life isn’t in danger ought to be of vital concern to him.”</p>
+    <p>From her purse, Lisa shakily got out her cigarette case. “And you think he’ll help you.”</p>
+    <p>“He may—or he may not. It’s a chance worth taking.”</p>
+    <p>“How did you manage to go underground so quickly?” Lisa asked. “A completely effective disguise is difficult to obtain.”</p>
+    <p>“All it takes is money,” he answered evasively.</p>
+    <p>As she smoked, Lisa pondered. “Probably Kaplan will protect you,” she said. “He’s quite powerful.”</p>
+    <p>“I thought he was only a retired general.”</p>
+    <p>“Technically—that’s what he is. But Witwer got out the dossier on him. Kaplan heads an unusual kind of exclusive veterans’ organization. It’s actually a kind of club, with a few restricted members. High officers only—an international class from both sides of the war. Here in New York they maintain a great mansion of a house, three glossy-paper publications, and occasional TV coverage that costs them a small fortune.”</p>
+    <p>“What are you trying to say?”</p>
+    <p>“Only this. You’ve convinced me that you’re innocent. I mean, it’s obvious that you <emphasis>won’t </emphasis>commit a murder. But you must realize now that the original report, the majority report, <emphasis>was not a fake. </emphasis>Nobody falsified it. Ed Witwer didn’t create it. There’s no plot against you, and there never was. If you’re going to accept this minority report as genuine you’ll have to accept the majority one, also.”</p>
+    <p>Reluctantly, he agreed. “I suppose so.”</p>
+    <p>“Ed Witwer,” Lisa continued, “is acting in complete good faith. He really believes you’re a potential criminal—and why not? He’s got the majority report sitting on his desk, but you have that card folded up in your pocket.”</p>
+    <p>“I destroyed it,” Anderton said, quietly.</p>
+    <p>Lisa leaned earnestly toward him. “Ed Witwer isn’t motivated by any desire to get your job,” she said. “He’s motivated by the same desire that has always dominated you. He believes in Precrime. He wants the system to continue. I’ve talked to him and I’m convinced he’s telling the truth.”</p>
+    <p>Anderton asked, “Do you want me to take this reel to Witwer? If I do—he’ll destroy it.”</p>
+    <p>“Nonsense,” Lisa retorted. “The originals have been in his hands from the start. He could have destroyed them any time he wished.”</p>
+    <p>“That’s true.” Anderton conceded. “Quite possibly he didn’t know.”</p>
+    <p>“Of course he didn’t. Look at it this way. If Kaplan gets hold of that tape, the police will be discredited. Can’t you see why? It would prove that the majority report was an error. Ed Witwer is absolutely right. You have to be taken in—if Precrime is to survive. You’re thinking of your own safety. But think, for a moment, about the system.” Leaning over, she stubbed out her cigarette and fumbled in her purse for another. “Which means more to you—your own personal safety or the existence of the system?”</p>
+    <p>“My safety,” Anderton answered, without hesitation.</p>
+    <p>“You’re positive?”</p>
+    <p>“If the system can survive only by imprisoning innocent people, then it deserves to be destroyed. My personal safety is important because I’m a human being. And furthermore—”</p>
+    <p>From her purse, Lisa got out an incredibly tiny pistol. “I believe,” she told him huskily, “that I have my finger on the firing release. I’ve never used a weapon like this before. But I’m willing to try.”</p>
+    <p>After a pause, Anderton asked: “You want me to turn the ship around? Is that it?”</p>
+    <p>“Yes, back to the police building. I’m sorry. If you could put the good of the system above your own selfish—”</p>
+    <p>“Keep your sermon,” Anderton told her. “I’ll take the ship back. But I’m not going to listen to your defense of a code of behavior no intelligent man could subscribe to.”</p>
+    <p>Lisa’s lips pressed into a thin, bloodless line. Holding the pistol tightly, she sat facing him, her eyes fixed intently on him as he swung the ship in a broad arc. A few loose articles rattled from the glove compartment as the little craft turned on a radical slant, one wing rising majestically until it pointed straight up.</p>
+    <p>Both Anderton and his wife were supported by the constraining metal arms of their seats. But not so the third member of the party.</p>
+    <p>Out of the corner of his eye, Anderton saw a flash of motion. A sound came simultaneously, the clawing struggle of a large man as he abruptly lost his footing and plunged into the reinforced wall of the ship. What followed happened quickly. Fleming scrambled instantly to his feet, lurching and wary, one arm lashing out for the woman’s pistol. Anderton was too startled to cry out. Lisa turned, saw the man—and screamed. Fleming knocked the gun from her hand, sending it clattering to the floor.</p>
+    <p>Grunting, Fleming shoved her aside and retrieved the gun. “Sorry,” he gasped, straightening up as best he could. “I thought she might talk more. That’s why I waited.”</p>
+    <p>“You were here when—” Anderton began—and stopped. It was obvious that Fleming and his men had kept him under surveillance. The existence of Lisa’s ship had been duly noted and factored in, and while Lisa had debated whether it would be wise to fly him to safety, Fleming had crept into the storage compartment of the ship.</p>
+    <p>“Perhaps,” Fleming said, “you’d better give me that reel of tape.” His moist, clumsy fingers groped for it. “You’re right—Witwer would have melted it down to a puddle.”</p>
+    <p>“Kaplan, too?” Anderton asked numbly, still dazed by the appearance of the man.</p>
+    <p>“Kaplan is working directly with Witwer. That’s why his name showed on line five of the card. Which one of them is the actual boss, we can’t tell. Possibly neither.” Fleming tossed the tiny pistol away and got out his own heavy-duty military weapon. “You pulled a real flub in taking off with this woman. I told you she was back of the whole thing.”</p>
+    <p>“I can’t believe that,” Anderton protested. “If she—”</p>
+    <p>“You’ve got no sense. This ship was warmed up by Witwer’s order. They wanted to fly you out of the building so that we couldn’t get to you. With you on your own, separated from us, you didn’t stand a chance.”</p>
+    <p>A strange look passed over Lisa’s stricken features. “It’s not true,” she whispered. “Witwer never saw this ship. I was going to supervise—”</p>
+    <p>“You almost got away with it,” Fleming interrupted inexorably. “We’ll be lucky if a police patrol ship isn’t hanging on us. There wasn’t time to check.” He squatted down as he spoke, directly behind the woman’s chair. “The first thing is to get this woman out of the way. We’ll have to drag you completely out of this area. Page tipped off Witwer on your new disguise, and you can be sure it has been widely broadcast.”</p>
+    <p>Still crouching, Fleming seized hold of Lisa. Tossing his heavy gun to Anderton, he expertly tilted her chin up until her temple was shoved back against the seat. Lisa clawed frantically at him; a thin, terrified wail rose in her throat. Ignoring her, Fleming closed his great hands around her neck and began relentlessly to squeeze.</p>
+    <p>“No bullet wound,” he explained, gasping. “She’s going to fall out—natural accident. It happens all the time. But in this case, her neck will be broken <emphasis>first</emphasis>.”</p>
+    <p>It seemed strange that Anderton waited so long. As it was, Fleming’s thick ringers were cruelly embedded in the woman’s pale flesh before he lifted the butt of the heavyduty pistol and brought it down on the back of Fleming’s skull. The monstrous hands relaxed. Staggered, Fleming’s head fell forward and he sagged against the wall of the ship. Trying feebly to collect himself, he began dragging his body upward. Anderton hit him again, this time above the left eye. He fell back, and lay still.</p>
+    <p>Struggling to breathe, Lisa remained for a moment huddled over, her body swaying back and forth. Then, gradually, the color crept back into her face.</p>
+    <p>“Can you take the controls?” Anderton asked, shaking her, his voice urgent.</p>
+    <p>“Yes, I think so.” Almost mechanically she reached for the wheel. “I’ll be all right. Don’t worry about me.”</p>
+    <p>“This pistol,” Anderton said, “is Army ordnance issue. But it’s not from the war. It’s one of the useful new ones they’ve developed. I could be a long way off but there’s just a chance—”</p>
+    <p>He climbed back to where Fleming lay spread out on the deck. Trying not to touch the man’s head, he tore open his coat and rummaged in his pockets. A moment later Fleming’s sweat-sodden wallet rested in his hands.</p>
+    <p>Tod Fleming, according to his identification, was an Army Major attached to the Internal Intelligence Department of Military Information. Among the various papers was a document signed by General Leopold Kaplan, stating that Fleming was under the special protection of his own group—the International Veterans’ League.</p>
+    <p>Fleming and his men were operating under Kaplan’s orders. The bread truck, the accident, had been deliberately rigged.</p>
+    <p>It meant that Kaplan had deliberately kept him out of police hands. The plan went back to the original contact in his home, when Kaplan’s men had picked him up as he was packing. Incredulous, he realized what had really happened. Even then, they were making sure they got him before the police. From the start, it had been an elaborate strategy to make certain that Witwer would fail to arrest him.</p>
+    <p>“You were telling the truth,” Anderton said to his wife, as he climbed back in the seat. “Can we get hold of Witwer?”</p>
+    <p>Mutely, she nodded. Indicating the communications circuit of the dashboard, she asked: “What—did you find?”</p>
+    <p>“Get Witwer for me. I want to talk to him as soon as I can. It’s very urgent.”</p>
+    <p>Jerkily, she dialed, got the closed-channel mechanical circuit, and raised police headquarters in New York. A visual panorama of petty police officials flashed by before a tiny replica of Ed Witwer’s features appeared on the screen.</p>
+    <p>“Remember me?” Anderton asked him.</p>
+    <p>Witwer blanched. “Good God. What happened? Lisa, are you bringing him in?” Abruptly his eyes fastened on the gun in Anderton’s hands. “Look,” he said savagely, “don’t do anything to her. Whatever you may think, she’s not responsible.”</p>
+    <p>“I’ve already found that out,” Anderton answered. “Can you get a fix on us? We may need protection getting back.”</p>
+    <p><emphasis>“Back!” </emphasis>Witwer gazed at him unbelievingly. “You’re coming in? You’re giving yourself up?”</p>
+    <p>“I am, yes.” Speaking rapidly, urgently, Anderton added, “There’s something you must do immediately. Close off the monkey block. Make certain nobody gets it—Page or anyone else. <emphasis>Especially Army people.”</emphasis></p>
+    <p>“Kaplan,” the miniature image said.</p>
+    <p>“What about him?”</p>
+    <p>“He was here. He—he just left.”</p>
+    <p>Anderton’s heart stopped beating. “What was he doing?”</p>
+    <p>“Picking up data. Transcribing duplicates of our precog reports on you. He insisted he wanted them solely for his protection.”</p>
+    <p>“Then he’s already got it,” Anderton said. “It’s too late.”</p>
+    <p>Alarmed, Witwer almost shouted: “Just what do you mean? What’s happening?”</p>
+    <p>“I’ll tell you,” Anderton said heavily, “when I get back to my office.”</p>
+   </section>
+   <section>
+    <title>
+     <p>VIII</p>
+    </title>
+    <p>Witwer met him on the roof on the police building. As the small ship came to rest, a cloud of escort ships dipped their fins and sped off. Anderton immediately approached the blond-haired young man.</p>
+    <p>“You’ve got what you wanted,” he told him. “You can lock me up, and send me to the detention camp. But that won’t be enough.”</p>
+    <p>Witwer’s blue eyes were pale with uncertainty. “I’m afraid I don’t understand—”</p>
+    <p>“It’s not my fault. I should never have left the police building. Where’s Wally Page?”</p>
+    <p>“We’ve already clamped down on him,” Witwer replied. “He won’t give us any trouble.”</p>
+    <p>Anderton’s face was grim.</p>
+    <p>“You’re holding him for the wrong reason,” he said. “Letting me into the monkey block was no crime. But passing information to Army is. You’ve had an Army plant working here.” He corrected himself, a little lamely, “I mean, I have.”</p>
+    <p>“I’ve called back the order on you. Now the teams are looking for Kaplan.”</p>
+    <p>“Any luck?”</p>
+    <p>“He left here in an Army truck. We followed him, but the truck got into a militarized Barracks. Now they’ve got a big wartime R-3 tank blocking the street. It would be civil war to move it aside.”</p>
+    <p>Slowly, hesitantly, Lisa made her way from the ship. She was still pale and shaken and on her throat an ugly bruise was forming.</p>
+    <p>“What happened to you?” Witwer demanded. Then he caught sight of Fleming’s inert form lying spread out inside. Facing Anderton squarely, he said: “Then you’ve finally stopped pretending this is some conspiracy of mine.”</p>
+    <p>“I have.”</p>
+    <p>“You don’t think I’m—” He made a disgusted face. <emphasis>“Plotting </emphasis>to get your job.”</p>
+    <p>“Sure you are. Everybody is guilty of that sort of thing. And I’m plotting to keep it. But this is something else—and you’re not responsible.”</p>
+    <p>“Why do you assert,” Witwer inquired, “that it’s too late to turn yourself in? My God, we’ll put you in the camp. The week will pass and Kaplan will still be alive.”</p>
+    <p>“He’ll be alive, yes,” Anderton conceded. “But he can prove he’d be just as alive if I were walking the streets. He has the information that proves the majority report obsolete. He can break the Precrime system.” He finished, “Heads or tails, he wins—and we lose. The Army discredits us; their strategy paid off.”</p>
+    <p>“But why are they risking so much? What exactly do they want?”</p>
+    <p>“After the Anglo-Chinese War, the Army lost out. It isn’t what it was in the good old AFWA days. They ran the complete show, both military and domestic. And they did their own police work.”</p>
+    <p>“Like Fleming,” Lisa said faintly.</p>
+    <p>“After the war, the Westbloc was demilitarized. Officers like Kaplan were retired and discarded. Nobody likes that.” Anderton grimaced. “I can sympathize with him. He’s not the only one. But we couldn’t keep on running things that way. We had to divide up the authority.”</p>
+    <p>“You say Kaplan has won,” Witwer said. “Isn’t there anything we can do?”</p>
+    <p>“I’m not going to kill him. We know it and he knows it. Probably he’ll come around and offer us some kind of deal. We’ll continue to function, but the Senate will abolish our real pull. You wouldn’t like that, would you?”</p>
+    <p>“I should say not,” Witwer answered emphatically. “One of these days I’m going to be running this agency.” He flushed. “Not immediately, of course.”</p>
+    <p>Anderton’s expression was somber. “It’s too bad you publicized the majority report. If you had kept it quiet, we could cautiously draw it back in. But everybody’s heard about it. We can’t retract it now.”</p>
+    <p>“I guess not,” Witwer admitted awkwardly. “Maybe I—don’t have this job down as neatly as I imagined.”</p>
+    <p>“You will, in time. You’ll be a good police officer. You believe in the status quo. But learn to take it easy.” Anderton moved away from them. “I’m going to study the data tapes of the majority report. I want to find out exactly how I was supposed to kill Kaplan.” Reflectively, he finished: “It might give me some ideas.”</p>
+    <p>The data tapes of the precogs “Donna” and “Mike” were separately stored. Choosing the machinery responsible for the analysis of “Donna,” he opened the protective shield and laid out the contents. As before, the code informed him which reels were relevant and in a moment he had the tape-transport mechanism in operation.</p>
+    <p>It was approximately what he had suspected. This was the material utilized by “Jerry”—the superseded time-path. In it Kaplan’s Military Intelligence agents kidnapped Anderton as he drove home from work. Taken to Kaplan’s villa, the organization GHQ of the International Veterans’ League. Anderton was given an ultimatum: voluntarily disband the Precrime system or face open hostilities with Army.</p>
+    <p>In this discarded time-path, Anderton, as Police Commissioner, had turned to the Senate for support. No support was forthcoming. To avoid civil war, the Senate had ratified the dismemberment of the police system, and decreed a return to military law “to cope with the emergency.” Taking a corps of fanatic police, Anderton had located Kaplan and shot him, along with other officials of the Veterans’ League. Only Kaplan had died. The others had been patched up. And the coup had been successful.</p>
+    <p>This was “Donna.” He rewound the tape and turned to the material previewed by “Mike.” It would be identical; both precogs had combined to present a unified picture. “Mike” began as “Donna” had begun: Anderton had become aware of Kaplan’s plot against the police. But something was wrong. Puzzled, he ran the tape back to the beginning. Incomprehensibly, it didn’t jibe. Again he relayed the tape, listening intently.</p>
+    <p>The “Mike” report was quite different from the “Donna” report. An hour later, he had finished his examination, put away the tapes, and left the monkey block. As soon as he emerged, Witwer asked. “What’s the matter? I can see something’s wrong.”</p>
+    <p>“No,” Anderton answered slowly, still deep in thought. “Not exactly wrong.” A sound came to his ears. He walked vaguely over to the window and</p>
+    <p>peered out.</p>
+    <p>The street was crammed with people. Moving down the center lane was a four-column line of uniformed troops. Rifles, helmets . . . marching soldiers in their dingy wartime uniforms, carrying the cherished pennants of AFWA flapping in the cold afternoon wind.</p>
+    <p>“An Army rally,” Witwer explained bleakly. “I was wrong. They’re not going to make a deal with us. Why should they? Kaplan’s going to make it public.”</p>
+    <p>Anderton felt no surprise. “He’s going to read the minority report?”</p>
+    <p>“Apparently. They’re going to demand the Senate disband us, and take away our authority. They’re going to claim we’ve been arresting innocent men—nocturnal police raids, that sort of thing. Rule by terror.”</p>
+    <p>“You suppose the Senate will yield?”</p>
+    <p>Witwer hesitated. “I wouldn’t want to guess.”</p>
+    <p>“I’ll guess,” Anderton said. “They will. That business out there fits with what I learned downstairs. We’ve got ourselves boxed in and there’s only one direction we can go. Whether we like it or not, we’ll have to take it.” His eyes had a steely glint.</p>
+    <p>Apprehensively, Witwer asked: “What is it?”</p>
+    <p>“Once I say it, you’ll wonder why you didn’t invent it. Very obviously, I’m going to have to fulfill the publicized report. I’m going to have to kill Kaplan. That’s the only way we can keep them from discrediting us.”</p>
+    <p>“But,” Witwer said, astonished, “the majority report has been superseded.”</p>
+    <p>“I can do it,” Anderton informed him, “but it’s going to cost. You’re familiar with the statutes governing first-degree murder?”</p>
+    <p>“Life imprisonment.”</p>
+    <p>“At least. Probably, you could pull a few wires and get it commuted to exile. I could be sent to one of the colony planets, the good old frontier.”</p>
+    <p>“Would you—prefer that?”</p>
+    <p>“Hell, no,” Anderton said heartily. “But it would be the lesser of the two evils. And it’s got to be done.”</p>
+    <p>“I don’t see how you can kill Kaplan.”</p>
+    <p>Anderton got out the heavy-duty military weapon Fleming had tossed to him. “I’ll use this.”</p>
+    <p>“They won’t stop you?”</p>
+    <p>“Why should they? They’ve got that minority report that says I’ve changed my mind.”</p>
+    <p>“Then the minority report is incorrect?”</p>
+    <p>“No,” Anderton said, “it’s absolutely correct. But I’m going to murder Kaplan anyhow.”</p>
+   </section>
+   <section>
+    <title>
+     <p>IX</p>
+    </title>
+    <p>He had never killed a man. He had never even seen a man killed. And he had been Police Commissioner for thirty years. For this generation, deliberate murder had died out. It simply didn’t happen.</p>
+    <p>A police car carried him to within a block of the Army rally. There, in the shadows of the back seat, he painstakingly examined the pistol Fleming had provided him. It seemed to be intact. Actually, there was no doubt of the outcome. He was absolutely certain of what would happen within the next half hour. Putting the pistol back together, he opened the door of the parked car and stepped warily out.</p>
+    <p>Nobody paid the slightest attention to him. Surging masses of people pushed eagerly forward, trying to get within hearing distance of the rally. Army uniforms predominated and at the perimeter of the cleared area, a line of tanks and major weapons was displayed—formidable armament still in production.</p>
+    <p>Army had erected a metal speaker’s stand and ascending steps. Behind the stand hung the vast AFWA banner, emblem of the combined powers that had fought in the war. By a curious corrosion of time, the AFWA Veterans’ League included officers from the wartime enemy. But a general was a general and fine distinctions had faded over the years.</p>
+    <p>Occupying the first rows of seats sat the high brass of the AFWA command. Behind them came junior commissioned officers. Regimental banners swirled in a variety of colors and symbols. In fact, the occasion had taken on the aspect of a festive pageant. On the raised stand itself sat stern-faced dignitaries of the Veterans’ League, all of them tense with expectancy. At the extreme edges, almost unnoticed, waited a few police units, ostensibly to keep order. Actually, they were informants making observations. If order were kept, the Army would maintain it.</p>
+    <p>The late-afternoon wind carried the muffled booming of many people packed tightly together. As Anderton made his way through the dense mob he was engulfed by the solid presence of humanity. An eager sense of anticipation held everybody rigid. The crowd seemed to sense that something spectacular was on the way. With difficulty, Anderton forced his way past the rows of seats and over to the tight knot of Army officials at the edge of the platform. Kaplan was among them. But he was now General Kaplan. The vest, the gold pocket watch, the cane, the conservative business suit—all were gone. For this event, Kaplan had got his old uniform from its mothballs. Straight and impressive, he stood surrounded by what had been his general staff. He wore his service bars, his medals, his boots, his decorative short-sword, and his visored cap. It was amazing how transformed a bald man became under the stark potency of an officer’s peaked and visored cap.</p>
+    <p>Noticing Anderton, General Kaplan broke away from the group and strode to where the younger man was standing. The expression on his thin, mobile countenance showed how incredulously glad he was to see the Commissioner of Police.</p>
+    <p>“This is a surprise,” he informed Anderton, holding out his small gray-gloved hand. “It was my impression you had been taken in by the acting Commissioner.”</p>
+    <p>“I’m still out,” Anderton answered shortly, shaking hands. “After all, Witwer has that same reel of tape.” He indicated the package Kaplan clutched in his steely fingers and met the man’s gaze confidently.</p>
+    <p>In spite of his nervousness, General Kaplan was in good humor. “This is a great occasion for the Army,” he revealed. “You’ll be glad to hear I’m going to give the public a full account of the spurious charge brought against you.”</p>
+    <p>“Fine,” Anderton answered noncommittally.</p>
+    <p>“It will be made clear that you were unjustly accused.” General Kaplan was trying to discover what Anderton knew. “Did Fleming have an opportunity to acquaint you with the situation?”</p>
+    <p>“To some degree,” Anderton replied. “You’re going to read only the minority report? That’s all you’ve got there?”</p>
+    <p>“I’m going to compare it to the majority report.” General Kaplan signalled an aide and a leather briefcase was produced. “Everything is here—all the evidence we need,” he said. “You don’t mind being an example, do you? Your case symbolizes the unjust arrests of countless individuals.” Stiffly, General Kaplan examined his wristwatch. “I must begin. Will you join me on the platform?”</p>
+    <p>“Why?”</p>
+    <p>Coldly, but with a kind of repressed vehemence, General Kaplan said: “So they can see the living proof. You and I together—the killer and his victim. Standing side by side, exposing the whole sinister fraud which the police have been operating.”</p>
+    <p>“Gladly,” Anderton agreed. “What are we waiting for?”</p>
+    <p>Disconcerted, General Kaplan moved toward the platform. Again, he glanced uneasily at Anderton, as if visibly wondering why he had appeared and what he really knew. His uncertainty grew as Anderton willingly mounted the steps of the platform and found himself a seat directly beside the speaker’s podium.</p>
+    <p>“You fully comprehend what I’m going to be saying?” General Kaplan demanded. “The exposure will have considerable repercussions. It may cause the Senate to reconsider the basic validity of the Precrime system.”</p>
+    <p>“I understand,” Anderton answered, arms folded. “Let’s go.”</p>
+    <p>A hush had descended on the crowd. But there was a restless, eager stirring when General Kaplan obtained the briefcase and began arranging his material in front of him.</p>
+    <p>“The man sitting at my side,” he began, in a clean, clipped voice, “is familiar to you all. You may be surprised to see him, for until recently he was described by the police as a dangerous killer.”</p>
+    <p>The eyes of the crowd focused on Anderton. Avidly, they peered at the only potential killer they had ever been privileged to see at close range.</p>
+    <p>“Within the last few hours, however,” General Kaplan continued, “the police order for his arrest has been cancelled; because former Commissioner Anderton voluntarily gave himself up? No, that is not strictly accurate. He is sitting here. He has not given himself up, but the police are no longer interested in him. John Allison Anderton is innocent of any crime in the past, present, and future. The allegations against him were patent frauds, diabolical distortions of a contaminated penal system based on a false premise—a vast, impersonal engine of destruction grinding men and women to their doom.”</p>
+    <p>Fascinated, the crowd glanced from Kaplan to Anderton. Everyone was familiar with the basic situation.</p>
+    <p>“Many men have been seized and imprisoned under the so-called prophylactic Precrime structure,” General Kaplan continued, his voice gaining feeling and strength. “Accused not of crimes they have committed, <emphasis>but of crimes they will commit. </emphasis>It is asserted that these men, if allowed to remain free, will at some future time commit felonies.”</p>
+    <p>“But there can be no valid knowledge about the future. As soon as precog-nitive information is obtained, <emphasis>it cancels itself out. </emphasis>The assertion that this man will commit a future crime is paradoxical. The very act of possessing this data renders it spurious. In every case, without exception, the report of the three police precogs has invalidated their own data. If no arrests had been made, there would still have been no crimes committed.”</p>
+    <p>Anderton listened idly, only half-hearing the words. The crowd, however, listened with great interest. General Kaplan was now gathering up a summary made from the minority report. He explained what it was and how it had come into existence.</p>
+    <p>From his coat pocket, Anderton slipped out his gun and held it in his lap. Already, Kaplan was laying aside the minority report, the precognitive material obtained from “Jerry.” His lean, bony fingers groped for the summary of first, “Donna,” and after that, “Mike.”</p>
+    <p>“This was the original majority report,” he explained. “The assertion, made by the first two precogs, that Anderton would commit a murder. Now here is the automatically invalidated material. I shall read it to you.” He whipped out his rimless glasses, fitted them to his nose, and started slowly to read.</p>
+    <p>A queer expression appeared on his face. He halted, stammered, and abruptly broke off. The papers fluttered from his hands. Like a cornered animal, he spun, crouched, and dashed from the speaker’s stand.</p>
+    <p>For an instant his distorted face flashed past Anderton. On his feet now, Anderton raised the gun, stepped quickly forward, and fired. Tangled up in the rows of feet projecting from the chairs that filled the platform, Kaplan gave a single shrill shriek of agony and fright. Like a ruined bird, he tumbled, fluttering and flailing, from the platform to the ground below. Anderton stepped to the railing, but it was already over.</p>
+    <p>Kaplan, as the majority report had asserted, was dead. His thin chest was a smoking cavity of darkness, crumbling ash that broke loose as the body lay twitching. Sickened, Anderton turned away, and moved quickly between the rising figures of stunned Army officers. The gun, which he still held, guaranteed that he would not be interfered with. He leaped from the platform and edged into the chaotic mass of people at its base. Stricken, horrified, they struggled to see what had happened. The incident, occurring before their very eyes, was incomprehensible. It would take time for acceptance to replace blind terror.</p>
+    <p>At the periphery of the crowd, Anderton was seized by the waiting police. “You’re lucky to get out,” one of them whispered to him as the car crept cautiously ahead.</p>
+    <p>“I guess I am,” Anderton replied remotely. He settled back and tried to compose himself. He was trembling and dizzy. Abruptly, he leaned forward and was violently sick.</p>
+    <p>“The poor devil,” one the cops murmured sympathetically.</p>
+    <p>Through the swirls of misery and nausea, Anderton was unable to tell whether the cop was referring to Kaplan or to himself.</p>
+    <p>Four burly policemen assisted Lisa and John Anderton in the packing and loading of their possessions. In fifty years, the ex-Commissioner of Police had accumulated a vast collection of material goods. Somber and pensive, he stood watching the procession of crates on their way to the waiting trucks.</p>
+    <p>By truck they would go directly to the field—and from there to Centaurus X by inter-system transport. A long trip for an old man. But he wouldn’t have to make it back.</p>
+    <p>“There goes the second from the last crate,” Lisa declared, absorbed and preoccupied by the task. In sweater and slacks, she roamed through the barren rooms, checking on last-minute details. “I suppose we won’t be able to use these new atronic appliances. They’re still using electricity on Centten.”</p>
+    <p>“I hope you don’t care too much,” Anderton said.</p>
+    <p>“We’ll get used to it,” Lisa replied, and gave him a fleeting smile. “Won’t we?”</p>
+    <p>“I hope so. You’re positive you’ll have no regrets. If I thought—” “No regrets,” Lisa assured him. “Now suppose you help me with this crate.”</p>
+    <p>As they boarded the lead truck, Witwer drove up in a patrol car. He leaped out and hurried up to them, his face looking strangely haggard. “Before you take off,” he said to Anderton, “you’ll have to give me a break-down on the situation with the precogs. I’m getting inquiries from the Senate. They want to find out if the middle report, the retraction, was an error—or what.” Confusedly, he finished: “I still can’t explain it. The minority report was wrong, wasn’t it?”</p>
+    <p>“Which minority report?” Anderton inquired, amused.</p>
+    <p>Witwer blinked. “Then that <emphasis>is </emphasis>it. I might have known.” Seated in the cabin of the truck, Anderton got out his pipe and shook tobacco into it. With Lisa’s lighter he ignited the tobacco and began operations. Lisa had gone back to the house, wanting to be sure nothing vital had been overlooked.</p>
+    <p>“There were three minority reports,” he told Witwer, enjoying the young man’s confusion. Someday, Witwer would learn not to wade into situations he didn’t fully understand. Satisfaction was Anderton’s final emotion. Old and worn-out as he was, he had been the only one to grasp the real nature of the problem.</p>
+    <p>“The three reports were consecutive,” he explained. “The first was ‘Donna.’ In that time-path, Kaplan told me of the plot, and I promptly murdered him. ‘Jerry,’ phased slightly ahead of ‘Donna,’ used her report as data. He factored in my knowledge of the report. In that, the second time-path, all I wanted to do was to keep my job. It wasn’t Kaplan I wanted to kill. It was my own position and life I was interested in.”</p>
+    <p>“And ‘Mike’ was the third report? That came <emphasis>after </emphasis>the minority report?” Witwer corrected himself. “I mean, it came last?”</p>
+    <p>“ ‘Mike’ was the last of the three, yes. Faced with the knowledge of the first report, I had decided <emphasis>not </emphasis>to kill Kaplan. That produced report two. But faced with <emphasis>that </emphasis>report, I changed my mind back. Report two, situation two, was the situation Kaplan wanted to create. It was to the advantage of the police to recreate position one. And by that time I was thinking of the police. I had figured out what Kaplan was doing. The third report invalidated the second one in the same way the second one invalidated the first. That brought us back where we started from.”</p>
+    <p>Lisa came over, breathless and gasping. “Let’s go—we’re all finished here.” Lithe and agile, she ascended the metal rungs of the truck and squeezed in beside her husband and the driver. The latter obediently started up his truck and the others followed.</p>
+    <p>“Each report was different,” Anderton concluded. “Each was unique. But two of them agreed on one point. If left <emphasis>free, I mould kill Kaplan. </emphasis>That created the illusion of a majority report. Actually, that’s all it was—an illusion. ‘Donna’ and ‘Mike’ previewed the same event—but in two totally different time-paths, occurring under totally different situations. ‘Donna’ and ‘Jerry,’ the so-called minority report and half of the majority report, were incorrect. Of the three, ‘Mike’ was correct—since no report came after his, to invalidate him. That sums it up.”</p>
+    <p>Anxiously, Witwer trotted along beside the truck, his smooth, blond face creased with worry. “Will it happen again? Should we overhaul the set-up?” </p>
+    <p>“It can happen in only one circumstance,” Anderton said. “My case was unique, since I had access to the data. It <emphasis>could </emphasis>happen again—but only to the next Police Commissioner. So watch your step.” Briefly, he grinned, deriving no inconsiderable comfort from Witwer’s strained expression. Beside him, Lisa’s red lips twitched and her hand reached out and closed over his. “Better keep your eyes open,” he informed young Witwer. “It might happen to you at any time.”</p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick. <emphasis>The Minority Report </emphasis>12/22/54. <emphasis>Fantastic Universe, </emphasis>Jan 1956.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+</binary>
+</FictionBook>

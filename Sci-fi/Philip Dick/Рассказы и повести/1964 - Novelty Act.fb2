@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Minority Report and Other Classic Stories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>Novelty Act</emphasis> (“At Second Jug”) 3/23/63. <emphasis>Fantastic, </emphasis>Feb 1964. [Included In Pkd’S Novel <emphasis>The Simulacra</emphasis>.]</p>
+    <empty-line/>
+   </annotation>
+   <date>1955-1964</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="4"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-14">17.04.2005</date>
+   <id>627C7EBB-5E43-4B5D-8573-5EF29DADEC80</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Minority Report (The Collected Stories of Philip K. Dick, Vol. 4)</book-name>
+   <publisher>Citadel Press</publisher>
+   <city>New York</city>
+   <year>1991</year>
+   <isbn>0806512768</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Novelty Act</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>Lights burned late in the great communal apartment building Abraham Lincoln, because this was All Souls night: the residents, all six hundred of them, were required by their charter to attend, down in the subsurface community hall. They filed in briskly, men, women and children; at the door Bruce Corley, operating their rather expensive new identification reader, checked each of them in turn to be sure that no one from outside, from another communal apartment building, got in. The residents submitted good-naturedly, and it all went very fast.</p>
+   <p>“Hey Bruce, how much’d it set us back?” asked old Joe Purd, oldest resident in the building; he had moved in with his wife and two children the day the building, in May of 1980, had been built. His wife was dead now and the children had grown up, married and moved on, but Joe remained.</p>
+   <p>“Plenty,” Bruce Corley said, “but it’s error-proof; I mean, it isn’t just subjective.” Up to now, in his permanent job as sergeant of arms, he had admitted people merely by his ability to recognize them. But that way he had at last let in a pair of goons from Red Robin Hill Manor and they had disrupted the entire meeting with their questions and comments. It would not happen again.</p>
+   <p>Passing out copies of the agenda, Mrs. Wells smiled fixedly and chanted, “Item 3A, Appropriation for Roof Repairs, has been moved to 4A. Please make a note of that.” The residents accepted their agendas and then divided into two streams flowing to opposite sides of the hall; the liberal faction of the building seated themselves on the right and the conservatives on the left, each conspicuously ignoring the existence of the other. A few uncommitted persons—newer residents or odd-balls—took seats in the rear, self-conscious and silent as the room buzzed with many small conferences. The tone, the mood of the room, was tolerant, but the residents knew that tonight there was going to be a clash. Presumably, both sides were prepared. Here and there documents, petitions, newspaper clippings rustled as they were read and exchanged, handed back and forth.</p>
+   <p>On the platform, seated at the table with the four governing building trustees, chairman Donald Klugman felt sick at his stomach. A peaceful man, he shrank from these violent squabbles. Even seated in the audience he found it too much for him, and here tonight he would have to take active part; time and tide had rotated the chair around to him, as it did to each resident in turn, and of course it would be the night the school issue reached its climax.</p>
+   <p>The room had almost filled and now Patrick Doyle, the current building sky pilot, looking none too happy in his long white robe, raised his hands for silence. “The opening prayer,” he called huskily, cleared his throat and brought forth a small card. “Everyone please shut their eyes and bow their heads.” He glanced at Klugman and the trustees, and Klugman nodded for him to continue. “Heavenly Father,” Doyle said, “we the residents of the communal apartment building Abraham Lincoln beseech You to bless our assembly tonight. Um, we ask that in Your mercy You enable us to raise the funds for the roof repairs which seem imperative. We ask that our sick be healed and our unemployed find jobs and that in processing applicants wishing to live amongst us we show wisdom in whom we admit and whom we turn away. We further ask that no outsiders get in and disrupt our law-abiding, orderly lives and we ask in particularly that lastly, if it be Thy will, that Nicole Thibodeaux be free of her sinus headaches which have caused her not to appear before us on TV lately, and that those headaches not have anything to do with that time two years ago, which we all recall, when that stagehand allowed that weight to fall and strike her on the head, sending her to the hospital for several days. Anyhow, amen.”</p>
+   <p>The audience agreed, “Amen.”</p>
+   <p>Rising from his chair, Klugman said, “Now, before the business of the meeting, we’ll have a few minutes of our own talent displayed for our enjoyment. First, the three Fettersmoller girls from apartment number 205. They will do a soft-shoe dance to the tune of ‘I’ll Build a Stairway to the Stars.’ ” He reseated himself, and onto the stage came the three little blonde-haired children, familiar to the audience from many talent shows in the past.</p>
+   <p>As the Fettersmoller girls in their striped pants and glittery silver jackets shuffled smilingly through their dance, the door to the outside hall opened and a late-comer, Edgar Stone, appeared.</p>
+   <p>He was late, this evening, because he had been grading test papers of his next-door neighbor, Mr. Ian Duncan, and as he stood in the doorway his mind was still on the test and the poor showing which Duncan—whom he barely knew—had made. It seemed to him that without even having finished the test he could see that Duncan had failed.</p>
+   <p>On the stage the Fettersmoller girls sang in their scratchy voices, and Stone wondered why he had come. Perhaps for no more reason than to avoid the fine, it being mandatory for the residents to be here, tonight. These amateur talent shows, put on so often, meant nothing to him; he recalled the old days when the TV set had carried entertainment, good shows put on by professionals. Now of course all the professionals who were any good were under contract to the White House, and the TV had become educational, not entertaining. Mr. Stone thought of great old late-late movies with comics such as Jack Lemmon and Shirley MacLaine, and then he looked once more at the Fettersmoller girls and groaned.</p>
+   <p>Corley, hearing him, glanced at him severely.</p>
+   <p>At least he had missed the prayer. He presented his identification to Corley’s new machine and it allowed him to pass down the aisle toward a vacant seat. Was Nicole watching this, tonight? Was a White House talent scout present somewhere in the audience? He saw no unfamiliar faces. The Fettersmoller girls were wasting their time. Seating himself, he closed his eyes and listened, unable to endure watching. They’ll never make it, he thought. They’ll have to face it, and so will their ambitious parents; they’re untalented, like the rest of us . . . Abraham Lincoln Apartments has added little to the cultural store of the nation, despite its sweaty, strenuous determination, and you are not going to be able to change that.</p>
+   <p>The hopelessness of the Fettersmoller girls’ position made him remember once more the test papers which Ian Duncan, trembling and waxen-faced, had pressed into his hands early that morning. If Duncan failed he would be even worse-off than the Fettersmoller girls because he would not even be living at Abraham Lincoln; he would drop out of sight—their sight, anyhow—and would revert to a despised and ancient status: he would find himself once more living in a dorm, working on a manual gang as they had all done back in their teens.</p>
+   <p>Of course he would also be refunded the money which he had paid for his apartment, a large sum which represented the man’s sole major investment in life. From one standpoint, Stone envied him. What would I do, he asked himself as he sat eyes closed, if I had my equity back right now, in a lump sum? Perhaps, he thought, I’d emigrate. Buy one of those cheap, illegal jalopies they peddle at those lots which—</p>
+   <p>Clapping hands roused him. The girls had finished, and he, too, joined in the applause. On the platform, Klugman waved for silence. “Okay, folks, I know you enjoyed that, but there’s lots <emphasis>more </emphasis>in store, tonight. And then there’s the business part of the meeting; we mustn’t forget that.” He grinned at them.</p>
+   <p>Yes, Stone thought. The business. And he felt tense, because he was one of the radicals at Abraham Lincoln who wanted to abolish the building’s grammar school and send their children to a public grammar school where they would be exposed to children from other buildings entirely. It was the kind of idea which met much opposition. And yet, in the last weeks, it had gained support. What a broadening experience it would be; their children would discover that people in other apartment buildings were no different from themselves. Barriers between people of all apartments would be torn down and a new understanding would come about.</p>
+   <p>At least, that was how it struck Stone, but the conservatives did not see it that way. Too soon, they said, for such mixing. There would be outbreaks of fights as the children clashed over which building was superior. In time it would happen . . . but not now, not so soon.</p>
+   <empty-line/>
+   <p>Risking the severe fine, Ian Duncan missed the assembly and remained in his apartment that evening, studying official Government texts on the religio-political history of the United States—<emphasis>relpol, </emphasis>as they were called. He was weak in this, he knew; he could barely comprehend the economic factors, let alone all the religious and political ideologies that had come and gone during the twentieth century, directly contributing to the present situation. For instance, the rise of the Democratic-Republican Party. Once it had been two parties, engaging in wasteful quarrels, in struggles for power, just the way buildings fought now. The two parties had merged, about 1985. Now there was just the one party, which had ruled a stable and peaceful society, and everyone belonged to it. Everyone paid dues and attended meetings and voted, each four years, for a new President—for the man they thought Nicole would like best.</p>
+   <p>It was nice to know that they, the people, had the power to decide who would become Nicole’s husband, each four years; in a sense it gave to the electorate supreme power, even above Nicole herself. For instance, this last man, Taufic Negal. Relations between him and the First Lady were quite cool, indicating that she did not like this most recent choice very much. But of course being a lady she would never let on.</p>
+   <p>When did the position of First Lady first begin to assume stature greater than that of President? the <emphasis>relpol </emphasis>text inquired. In other words, when did our society become matriarchal, Ian Duncan said to himself. Around about 1990; I know the answer to that. There were glimmerings before that; the change came gradually. Each year the President became more obscure, the First Lady became better known, more liked, by the public. It was the public which brought it about. Was it a need for mother, wife, mistress, or perhaps all three? Anyhow they got what they wanted; they got Nicole and she is certainly all three and more besides.</p>
+   <p>In the corner of his living room the television set said <emphasis>taaaaang, </emphasis>indicating that it was about to come on. With a sigh, Ian Duncan closed the official U.S. Government text book and turned his attention to the screen. A special, dealing with activities at the White House, he speculated. One more tour, perhaps, or a thorough scrutiny (in massively-detailed depth) of a new hobby or pursuit of Nicole’s. Has she taken up collecting bone-china cups? If so, we will have to view each and every Royal Albert blue.</p>
+   <p>Sure enough, the round, wattled features of Maxwell Jamison, the White House news secretary, appeared on the screen. Raising his hand, Jamison made his familiar gesture of greeting. “Evening, people of this land of ours,” he said solemnly. “Have you ever wondered what it would be like to descend to the bottom of the Pacific Ocean? Nicole has, and to answer that question she has assembled in the Tulip Room of the White House three of the world’s foremost oceanographers. Tonight she will ask them for their stories, and you will hear them, too, as they were taped live, just a short while ago through the facilities of the Unified Triadic Networks’ Public Affairs Bureau.”</p>
+   <p>And now to the White House, Ian Duncan said to himself. At least vicariously. We who can’t find our way there, who have no talents which might interest the First Lady even for one evening: we get to see in anyhow, through the carefully-regulated window of our television set.</p>
+   <p>Tonight he did not really want to watch, but it seemed expedient to do so; there might be a surprise quiz on the program, at the end. And a good grade on a surprise quiz might well offset the bad grade he had surely made on the recent political test, now being corrected by his neighbor Mr. Stone.</p>
+   <p>On the screen bloomed now lovely, tranquil features, the pale skin and dark, intelligent eyes, the wise and yet pert face of the woman who had come to monopolize their attention, on whom an entire nation, almost an entire planet, dwelt obsessively. At the sight of her, Ian Duncan felt engulfed by fear. He had failed her; his rotten test results were somehow known to her and although she would say nothing, the disappointment was there.</p>
+   <p>“Good evening,” Nicole said in her soft, slightly-husky voice.</p>
+   <p>“It’s this way,” Ian Duncan found himself mumbling. “I don’t have a head for abstractions; I mean, all this religio-political philosophy—it makes no sense to me. Couldn’t I just concentrate on concrete reality? I ought to be baking bricks or turning out shoes.” I ought to be on Mars, he thought, on the frontier. I’m flunking out here; at thirty-five I’m washed up, <emphasis>and she knows it. </emphasis>Let me go, Nicole, he thought in desperation. Don’t give me any more tests, because I don’t have a chance of passing them. Even this program about the ocean’s bottom; by the time it’s over I’ll have forgotten all the data. I’m no use to the Democratic-Republican Party.</p>
+   <p>He thought about his brother, then. Al could help me. Al worked for Loony Luke, at one of his jalopy jungles, peddling the little tin and plastic ships that even defeated people could afford, ships that could, if luck was with them, successfully make a one-way trip to Mars. Al, he said to himself, you could get me a jalopy—wholesale.</p>
+   <p>On the TV screen, Nicole was saying, “And really, it is a world of much enchantment, with luminous entities far surpassing in variety and in sheer delightful wonder anything found on other planets. Scientists compute that there are more forms of life in the ocean—”</p>
+   <p>Her face faded, and a sequence showing odd, grotesque fish segued into its place. This is part of the deliberate propaganda line, Ian Duncan realized. An effort to take our minds off of Mars and the idea of getting away from the Party. . . and from her. On the screen a bulbous-eyed fish gaped at him, and his attention, despite himself, was captured. Chrissakes, he thought, it is a weird world down there. Nicole, he thought, you’ve got me trapped. If only Al and I had succeeded; we might be performing right now for you, and we’d be happy. While you interviewed world-famous oceanographers Al and I would be discreetly playing in the background, perhaps one of the Bach “Two Part Inventions.”</p>
+   <p>Going to the closet of his apartment, Ian Duncan bent down and carefully lifted a cloth-wrapped object into the light. We had so much youthful faith in this, he recalled. Tenderly, he unwrapped the jug; then, taking a deep breath, he blew a couple of hollow notes on it. The Duncan Brothers and Their Two-man Jug Band, he and Al had been, playing their own arrangements for two jugs of Bach and Mozart and Stravinsky. But the White House talent scout—the skunk. He had never even given them a fair audition. It had been done, he told them. Jesse Pigg, the fabulous jug-artist from Alabama, had gotten to the White House first, entertaining and delighting the dozen and one members of the Thibodeaux family gathered there with his version of “Derby Ram” and “John Henry” and the like.</p>
+   <p>“But,” Ian Duncan had protested, “this is <emphasis>classical </emphasis>jug. We play late Beethoven sonatas.”</p>
+   <p>“We’ll call you,” the talent scout had said briskly. “If Nicky shows an interest at any time in the future.”</p>
+   <p>Nicky! He had blanched. Imagine being that intimate with the First Family. He and Al, mumbling pointlessly, had retired from the stage with their jugs, making way for the next act, a group of dogs dressed up in Elizabethan costumes portraying characters from Hamlet. The dogs had not made it, either, but that was little consolation.</p>
+   <p>“I am told,” Nicole was saying, “that there is so little light in the ocean depths that, well, observe this strange fellow.” A fish, sporting a glowing lantern before him, swam across the TV screen.</p>
+   <p>Startling him, there came a knock on the apartment door. With anxiety Duncan answered it; he found his neighbor Mr. Stone standing there, looking nervous.</p>
+   <p>“You weren’t at All Souls?” Mr. Stone said. “Won’t they check and find out?” He held in his hands Ian Duncan’s corrected test.</p>
+   <p>Duncan said, “Tell me how I did.” He prepared himself.</p>
+   <p>Entering the apartment, Stone shut the door after him. He glanced at the TV set, saw Nicole seated with the oceanographers, listened for a moment to her, then abruptly said in a hoarse voice, “You did fine.” He held out the test.</p>
+   <p>Duncan said, “I passed?” He could not believe it. He accepted the papers, examined them with incredulity. And then he understood what had happened. Stone had conspired to see that he passed; he had falsified the score, probably out of humanitarian motives. Duncan raised his head and they looked at each other, neither speaking. This is terrible, Duncan thought. What’ll I do now? His reaction amazed him, but there it was.</p>
+   <p><emphasis>I wanted to fail, </emphasis>he realized. Why? So I can get out of here, so I would have an excuse to give up all this, my apartment and my job, and go. Emigrate with nothing more than the shirt on my back, in a jalopy that falls to pieces the moment it comes to rest in the Martian wilderness.</p>
+   <p>“Thanks,” he said glumly.</p>
+   <p>In a rapid voice, Stone said, “You can do the same for me sometime.”</p>
+   <p>“Oh yeah, be happy to,” Duncan said.</p>
+   <p>Scuttling back out of the apartment, Stone left him alone with the TV set, his jug and the falsely-corrected test papers, and his thoughts.</p>
+   <p>Al, you’ve got to help me, he said to himself. You’ve got to get me out of this; I can’t even fail on my own.</p>
+   <empty-line/>
+   <p>In the little structure at the back of Jalopy Jungle No. 3, Al Duncan sat with his feet on the desk, smoking a cigarette and watching passers-by, the sidewalk and people and stores of downtown Reno, Nevada. Beyond the gleam of the new jalopies parked with flapping banners and streamers cascading from them he saw a shape waiting, hiding beneath the sign that spelled out LOONY LUKE.</p>
+   <p>And he was not the only person to see the shape; along the sidewalk came a man and woman with a small boy trotting ahead of them, and the boy, with an exclamation, hopped up and down, gesturing excitedly. “Hey, Dad, look! You know what it is? Look, it’s the papoola.”</p>
+   <p>“By golly,” the man said with a grin, “so it is. Look, Marion, there’s one of those Martian creatures, hiding there under that sign. What do you say we go over and chat with it?” He started in that direction, along with the boy. The woman, however, continued along the sidewalk.</p>
+   <p>“Come on, Mom!” the boy urged.</p>
+   <p>In his office, Al lightly touched the controls of the mechanism within his shirt. The papoola emerged from beneath the LOONY LUKE sign, and Al caused it to waddle on its six stubby legs toward the sidewalk, its round, silly hat slipping over one antenna, its eyes crossing and uncrossing as it made out the sight of the woman. The tropism being established, the papoola trudged after her, to the delight of the boy and his father.</p>
+   <p>“Look, Dad, it’s following Mom! Hey Mom, turn around and see!”</p>
+   <p>The woman glanced back, saw the platter-like organism with its orange bug-shaped body, and she laughed. Everybody loves the papoola, Al thought to himself. See the funny Martian papoola. Speak, papoola; say hello to the nice lady who’s laughing at you.</p>
+   <p>The thoughts of the papoola, directed at the woman, reached Al. It was greeting her, telling her how nice it was to meet her, soothing and coaxing her until she came back up the sidewalk toward it, joining her boy and husband so that now all three of them stood together, receiving the mental impulses emanating from the Martian creature which had come here to Earth with no hostile plans, no capacity to cause trouble. The papoola loved them, too, just as they loved it; it told them so right now—it conveyed to them the gentleness, the warm hospitality which it was accustomed to on its own planet.</p>
+   <p>What a wonderful place Mars must be, the man and woman were no doubt thinking, as the papoola poured out its recollections, its attitude. Gosh, it’s not cold and schizoid, like Earth society; nobody spies on anybody else, grades their innumerable political tests, reports on them to building Security committees week in, week out. Think of it, the papoola was telling them as they stood rooted to the sidewalk, unable to pass on. You’re your own boss, there, free to work your land, believe your own beliefs, become <emphasis>yourself. </emphasis>Look at you, afraid even to stand here listening. Afraid to—</p>
+   <p>In a nervous voice the man said to his wife, “We better go.”</p>
+   <p>“Oh no,” the boy said pleadingly. “I mean, gee, how often do you get to talk to a papoola? It must belong to that jalopy jungle, there.” The boy pointed, and Al found himself under the man’s keen, observing scrutiny.</p>
+   <p>The man said, “Of course. They landed here to sell jalopies. It’s working on us right now, softening us up.” The enchantment visibly faded from his face. “There’s the man sitting in there operating it.”</p>
+   <p>But, the papoola thought, what I tell you is still true. Even if it is a sales pitch. You could go there, to Mars, yourself. You and your family can see with your own eyes—if you have the courage to break free. Can you do it? Are you a real man? Buy a Loony Luke jalopy . . . buy it while you still have the chance, because you know that someday, maybe not so long from now, the law is going to crack down. And there will be no more jalopy jungles. No more crack in the wall of the authoritarian society through which a few—a few lucky people—can escape.</p>
+   <p>Fiddling with the controls at his midsection, Al turned up the gain. The force of the papoola’s psyche increased, drawing the man in, taking control of him. You must buy a jalopy, the papoola urged. Easy payment plan, service warranty, many models to choose from. The man took a step toward the lot. Hurry, the papoola told him. Any second now the authorities may close down the lot and your opportunity will be gone forever.</p>
+   <p>“This is how they work it,” the man said with difficulty. “The animal snares people. Hypnosis. We have to leave.” But he did not leave; it was too late: he was going to buy a jalopy, and Al, in the office with his control box, was reeling the man in.</p>
+   <p>Leisurely, Al rose to his feet. Time to go out and close the deal. He shut off the papoola, opened the office door and stepped outside onto the lot—and saw a once-familiar figure threading its way among the jalopies, toward him. It was his brother Ian and he had not seen him in years. Good grief, Al thought. What’s he want? And at a time like this—</p>
+   <p>“Al,” his brother called, gesturing. “Can I talk with you a second? You’re not too busy, are you?” Perspiring and pale, he came closer, looking about in a frightened way. He had deteriorated since Al had last seen him.</p>
+   <p>“Listen,” Al said, with anger. But already it was too late; the couple and their boy had broken away and were moving rapidly on down the sidewalk.</p>
+   <p>“I don’t mean to bother you,” Ian mumbled.</p>
+   <p>“You’re not bothering me,” Al said as he gloomily watched the three people depart. “What’s the trouble, Ian? You don’t look very well; are you sick? Come on in the office.” He led his brother inside and shut the door.</p>
+   <p>Ian said, “I came across my jug. Remember when we were trying to make it to the White House? Al, we have to try once more. Honest to God, I can’t go on like this; I can’t stand to be a failure at what we agreed was the most important thing in our lives.” Panting, he mopped at his forehead with his handkerchief, his hands trembling.</p>
+   <p>“I don’t even have my jug any more,” Al said presently.</p>
+   <p>“You must. Well, we could each record our parts separately on my jug and then synthesize them on one tape, and present that to the White House. This trapped feeling; I don’t know if I can go on living with it. I have to get back to playing. If we started practicing right now on the ‘Goldberg Variations’ in two months we—”</p>
+   <p>Al broke in, “You still live at that place? That Abraham Lincoln?”</p>
+   <p>Ian nodded.</p>
+   <p>“And you still have that position down in Palo Alto, you’re still a gear inspector?” He could not understand why his brother was so upset. “Hell, if worse comes to worst you can emigrate. Jug-playing is out of the question; I haven’t played for years, since I last saw you in fact. Just a minute.” He dialed the knobs of the mechanism which controlled the papoola; near the sidewalk the creature responded and began to return slowly to its spot beneath the sign.</p>
+   <p>Seeing it, Ian said, “I thought they were all dead.”</p>
+   <p>“They are,” Al said.</p>
+   <p>“But that one out there moves and—</p>
+   <p>“It’s a fake,” Al said. “A puppet. I control it.” He showed his brother the control box. “It brings in people off the sidewalk. Actually, Luke is supposed to have a real one on which these are modeled. Nobody knows for sure and the law can’t touch Luke because technically he’s now a citizen of Mars; they can’t make him cough up the real one, if he does have it.” Al seated himself and lit a cigarette. “Fail your <emphasis>relpol </emphasis>test,” he said to Ian, “lose your apartment and get back your original deposit; bring me the money and I’ll see that you get a damn fine jalopy that’ll carry you to Mars. Okay?”</p>
+   <p>“I tried to fail my test,” Ian said, “but they won’t let me. They doctored the results. They don’t want me to get away.”</p>
+   <p>“Who’s ‘they’?”</p>
+   <p>“The man in the next apartment. Ed Stone, his name is. He did it deliberately; I saw the look on his face. Maybe he thought he was doing me a favor. . . I don’t know.” He looked around him. “This is a nice little office you have here. You sleep in it, don’t you? And when it moves, you move with it.”</p>
+   <p>“Yeah,” Al said, “we’re always ready to take off.” The police had almost gotten him a number of times, even though the lot could obtain orbital velocity in six minutes. The papoola had detected their approach, but not sufficiently far in advance for a comfortable escape; generally it was hurried and disorganized, with part of his inventory of jalopies being left behind.</p>
+   <p>“You’re just one jump ahead of them,” Ian mused. “And yet it doesn’t bother you. I guess it’s all in your attitude.”</p>
+   <p>“If they get me,” Al said, “Luke will bail me out.” The shadowy, powerful figure of his boss was always there, backing him up, so what did he have to worry about? The jalopy tycoon knew a million tricks. The Thibodeaux clan limited their attacks on him to deep-think articles in popular magazines and on TV, harping on Luke’s vulgarity and the shoddiness of his vehicles; they were a little afraid of him, no doubt.</p>
+   <p>“I envy you,” Ian said. “Your poise. Your calmness.”</p>
+   <p>“Doesn’t your apartment building have a sky pilot? Go talk to him.”</p>
+   <p>Ian said bitterly, “That’s no good. Right now it’s Patrick Doyle and he’s as bad off as I am. And Don Klugman, our chairman, is even worse off; he’s a bundle of nerves. In fact our whole building is shot through with anxiety. Maybe it has to do with Nicole’s sinus headaches.”</p>
+   <p>Glancing at his brother, Al saw that he was actually serious. The White House and all it stood for meant that much to him; it still dominated his life, as it had when they were boys. “For your sake,” Al said quietly, “I’ll get my jug out and practice. We’ll make one more try.”</p>
+   <p>Speechless, Ian gaped at him in gratitude.</p>
+   <empty-line/>
+   <p>Seated together in the business office of the Abraham Lincoln, Don Klugman and Patrick Doyle studied the application which Mr. Ian Duncan of no. 304 had filed with them. Ian desired to appear in the twice-weekly talent show, and at a time when a White House talent scout was present. The request, Klugman saw, was routine, except that Ian proposed to do his act in conjunction with another individual <emphasis>who did not live at Abraham Lincoln.</emphasis></p>
+   <p>Doyle said, “It’s his brother. He told me once; the two of them used to have this act, years ago. Baroque music on two jugs. A novelty.”</p>
+   <p>“What apartment house does his brother live in?” Klugman asked. Approval of the application would depend on how relations stood between the Abraham Lincoln and the other building.</p>
+   <p>“None. He sells jalopies for that Loony Luke—you know. Those cheap little ships that get you just barely to Mars. He lives on one of the lots, I understand. The lots move around; it’s a nomadic existence. I’m sure you’ve heard.”</p>
+   <p>“Yes,” Klugman agreed, “and it’s totally out of the question. We can’t have that act on our stage, not with a man like that involved in it. There’s no reason why Ian Duncan can’t play his jug; it’s a basic political right and I wouldn’t be surprised if it’s a satisfactory act. But it’s against our tradition to have an outsider participate; our stage is for our own people exclusively, always has been and always will. So there’s no need even to discuss this.” He eyed the sky pilot critically.</p>
+   <p>“True,” Doyle said, “but it is a blood relative of one of our people, right? It’s legal for one of us to invite a relative to watch the talent shows . . . so why not let him participate? This means a lot to Ian; I think you know he’s been failing, lately. He’s not a very intelligent person. Actually, he should be doing a manual job, I suppose. But if he has artistic ability, for instance this jug concept—“</p>
+   <p>Examining his documents, Klugman saw that a White House scout would be attending a show at the Abraham Lincoln in two weeks. The best acts at the building would of course be scheduled that night. . . the Duncan Brothers and Their Baroque Jug Band would have to compete successfully in order to obtain that privilege, and there were a number of acts which—Klugman thought—were probably superior. After all, <emphasis>jugs</emphasis>. . .and not even electronic jugs, at that.</p>
+   <p>“All right,” he said aloud to Doyle. “I agree.”</p>
+   <p>“You’re showing your humane side,” the sky pilot said, with a grin of sentimentality which disgusted Klugman. “And I think we’ll all enjoy the Bach and Vivaldi as played by the Duncan Brothers on their inimitable jugs.”</p>
+   <p>Klugman, wincing, nodded.</p>
+   <empty-line/>
+   <p>On the big night, as they started into the auditorium on floor one of Abraham Lincoln Apartments, Ian Duncan saw, trailing along behind his brother, the flat, scuttling shape of the Martian creature, the papoola. He stopped short. “You’re bringing that along?”</p>
+   <p>Al said, “You don’t understand. Don’t we have to win?”</p>
+   <p>After a pause, Ian said, “Not that way.” He understood, all right; the papoola would take on the audience as it had taken on sidewalk traffic. It would exert its extra-sensory influence on them, coaxing out a favorable decision. So much for the ethics of a jalopy salesman, Ian realized. To his brother, this seemed perfectly normal; if they couldn’t win by their jug-playing they would win through the papoola.</p>
+   <p>“Aw,” Al said, gesturing, “don’t be your own worst enemy. All we’re engaged in here is a little subliminal sales technique, such as they’ve been using for a century—it’s an ancient, reputable method of swinging public opinion your way. I mean, let’s face it; we haven’t played the jug professionally in years.” He touched the controls at his waist and the papoola hurried forward to catch up with them. Again Al touched the controls—</p>
+   <p>And in Ian’s mind a persuasive thought came, <emphasis>Why not? </emphasis>Everyone else does it.</p>
+   <p>With difficulty he said, “Get that thing off me, Al.”</p>
+   <p>Al shrugged. And the thought, which had invaded Ian’s mind from without, gradually withdrew. And yet, a residue remained. He was no longer sure of his position.</p>
+   <p>“It’s nothing compared to what Nicole’s machinery can accomplish,” Al pointed out, seeing the expression on his face. “One papoola here and there, and that planet-wide instrument that Nicole has made out of TV—there you have the real danger, Ian. The papoola is crude; you know you’re being worked on. Not so when you listen to Nicole. The pressure is so subtle and so complete—”</p>
+   <p>“I don’t know about that,” Ian said, “I just know that unless we’re successful, unless we get to play at the White House, life as far as I’m concerned isn’t worth living. And nobody put that idea in my head. It’s just the way I feel; it’s my own idea, dammit.” He held the door open, and Al passed on into the auditorium, carrying his jug by the handle. Ian followed, and a moment later the two of them were on the stage, facing the partially-filled hall.</p>
+   <p>“Have you ever seen her?” Al asked.</p>
+   <p>“I see her all the time.”</p>
+   <p>“I mean in reality. In person. So to speak, in the flesh.”</p>
+   <p>“Of course not,” Ian said. That was the whole point of their being successful, of getting to the White House. They would see her really, not just the TV image; it would no longer be a fantasy—it would be true.</p>
+   <p>“I saw her once,” Al said. “I had just put the lot down, Jalopy Jungle No. 3, on a main business avenue in Shreveport, La. It was early in the morning, about eight o’clock. I saw official cars coming; naturally I thought it was the police—I started to take off. But it wasn’t. It was a motorcade, with Nicole in it, going to dedicate a new apartment building, the largest yet.”</p>
+   <p>“Yes,” Ian said. “The Paul Bunyan.” The football team from Abraham Lincoln played annually against its team, and always lost. The Paul Bunyan had over ten thousand residents, and all of them came from administrative-class backgrounds; it was an exclusive apartment building of active Party members, with uniquely high monthly payments.</p>
+   <p>“You should have seen her,” Al said thoughtfully as he sat facing the audience, his jug on his lap. He tapped the papoola with his foot; it had taken up a position beneath his chair, out of sight. “Yes,” he murmured, “you really should. It’s not the same as on TV, Ian. Not at all.”</p>
+   <p>Ian nodded. He had begun to feel apprehensive, now; in a few minutes they would be introduced. Their test had come.</p>
+   <p>Seeing him gripping his jug tautly, Al said, “Shall I use the papoola or not? It’s up to you.” He raised a quizzical brow.</p>
+   <p>Ian said, “Use it.”</p>
+   <p>“Okay,” Al said, reaching his hand inside his coat. Leisurely, he stroked the controls. And, from beneath his chair, the papoola rolled forth, its antennae twitching drolly, its eyes crossing and uncrossing.</p>
+   <p>At once the audience became alert; people leaned forward to see, some of them chuckling with delight.</p>
+   <p>“Look,” a man said excitedly. It was old Joe Purd, as eager as a child. “It’s the papoola!”</p>
+   <p>A woman rose to her feet to see more clearly, and Ian thought to himself, <emphasis>Everyone loves the papoola. </emphasis>We’ll win, whether we can play the jug or not. And then what? Will meeting Nicole make us even more unhappy than we are? Is that what we’ll get out of this: hopeless, massive discontent? An ache, a longing which can never be satisfied in this world?</p>
+   <p>It was too late to back out, now. The doors of the auditorium had shut and Don Klugman was rising from his chair, rapping for order. “Okay, folks,” he said into his lapel microphone. “We’re going to have a little display of some talent, right now, for everyone’s enjoyment. As you see on your programs, first in order is a fine group, the Duncan Brothers and their Classical Jugs with a medley of Bach and Handel tunes that ought to set your feet tapping.” He beamed archly at Ian and Al, as if saying, How does that suit you as an intro?</p>
+   <p>Al paid no attention; he manipulated his controls and gazed thoughtfully at the audience, then at last picked up his jug, glanced at Ian and then tapped his foot. “The Little Fugue in G Minor” opened their medley, and Al began to blow on the jug, sending forth the lively theme.</p>
+   <p>Bum, bum, bum. Bum-bum bum-bum bum bum de bum. DE bum, DE bum, de de-de bum . . . His cheeks puffed out red and swollen as he blew.</p>
+   <p>The papoola wandered across the stage, then lowered itself, by a series of gangly, foolish motions, into the first row of the audience. It had begun to go to work.</p>
+   <empty-line/>
+   <p>The news posted on the communal bulletin board outside the cafeteria of the Abraham Lincoln that the Duncan Brothers had been chosen by the talent scout to perform at the White House astounded Edgar Stone. He read the announcement again and again, wondering how the little nervous, cringing man had managed to do it.</p>
+   <p>There’s been cheating, Stone said to himself. Just as I passed him on his political tests . . . he’s got somebody else to falsify a few results for him along the talent line: He himself had heard the jugs; he had been present at that program, and the Duncan Brothers, Classical Jugs, were simply not that good. They were <emphasis>good, </emphasis>admittedly . . . but intuitively he knew that more was involved.</p>
+   <p>Deep inside him he felt anger, a resentment that he had falsified Duncan’s test-score. I put him on the road to success, Stone realized; I saved him. And now he’s on his way to the White House.</p>
+   <p>No wonder Duncan did so poorly on his political test, Stone said to himself. He was busy practicing on his jug; he has no time for the commonplace realities which the rest of us have to cope with. It must be great to be an artist, Stone thought with bitterness. You’re exempt from all the rules, you can do as you like.</p>
+   <p>He sure made a fool out of me, Stone realized.</p>
+   <p>Striding down the second floor hall, Stone arrived at the office of the building sky pilot; he rang the bell and the door opened, showing him the sight of the sky pilot deep in work at his desk, his face wrinkled with fatigue. “Urn, father,” Stone said, “I’d like to confess. Can you spare a few minutes? It’s very urgently on my mind, my sins I mean.”</p>
+   <p>Rubbing his forehead, Patrick Doyle nodded. “Jeez,” he murmured. “It either rains or it pours; I’ve had ten residents in today so far, using the confessionator. Go ahead.” He pointed to the alcove which opened onto his office. “Sit down and plug yourself in. I’ll be listening while I fill out these 4-10 forms from Boise.”</p>
+   <p>Filled with wrathful indignation, his hands trembling, Edgar Stone attached the electrodes of the confessionator to the correct spots of his scalp, and then, picking up the microphone, began to confess. The tape-drums of the machine turned as he spoke. “Moved by a false pity,” he said, “I infracted a rule of the building. But mainly I am concerned not with the act itself but with the motives behind it; the act merely is the outgrowth of a false attitude toward my fellow residents. This person, my neighbor Mr. Duncan, did poorly in his recent <emphasis>relpol </emphasis>test and I foresaw him being evicted from Abraham Lincoln. I identified with him because subconsciously I regard myself as a failure, both as a resident of this building and as a man, so I falsified his score to indicate that he had passed. Obviously, a new <emphasis>relpol </emphasis>test will have to be given to Mr. Duncan and the one which I scored will have to be voided.” He eyed the sky pilot, but there was no reaction.</p>
+   <p>That will take care of Ian Duncan and his Classical Jug, Stone said to himself.</p>
+   <p>By now the confessionator had analyzed his confession; it popped a card out, and Doyle rose to his feet wearily to receive it. After a careful study he glanced up. “Mr. Stone,” he said, “the view expressed here is that your confession is no confession. What do you really have on your mind? Go back and begin all over; you haven’t probed down deeply enough and brought up the genuine material. And I suggest you start out by confessing that you misconfessed consciously and deliberately.”</p>
+   <p>“No such thing,” Stone said, but his voice—even to him—sounded feeble. “Perhaps I could discuss this with you informally. I did falsify Ian Duncan’s test score. Now, maybe my motives for doing it—”</p>
+   <p>Doyle interrupted, “Aren’t you jealous of Duncan now? What with his success with the jug, White House-ward?”</p>
+   <p>There was silence.</p>
+   <p>“This could be,” Stone admitted at last. “But it doesn’t change the fact that by all rights Ian Duncan shouldn’t be living here; he should be evicted, my motives notwithstanding. Look it up in the Communal Apartment-building Code. I know there’s a section covering a situation like this.”</p>
+   <p>“But you can’t get out of here,” the sky pilot said, “without confessing; you have to satisfy the machine. You’re attempting to force eviction of a neighbor to fulfill your own emotional needs. Confess that, and then perhaps we can discuss the code ruling as it pertains to Duncan.”</p>
+   <p>Stone groaned and once more attached the electrodes to his scalp. “All right,” he grated. “I hate Ian Duncan because he’s artistically gifted and I’m not. I’m willing to be examined by a twelve-resident jury of my neighbors to see what the penalty for my sin is—but I insist that Duncan be given another <emphasis>relpol </emphasis>test! I won’t give up on this; he has no right to be living here among us. It’s morally and legally <emphasis>wrong!”</emphasis></p>
+   <p>“At least you’re being honest, now,” Doyle said.</p>
+   <p>“Actually,” Stone said, “I enjoy jug band playing; I liked their music, the other night. But I have to act in what I believe to be the communal interest.”</p>
+   <p>The confessionator, it seemed to him, snorted in derision as it popped a second card. But perhaps it was only his imagination.</p>
+   <p>“You’re just getting yourself deeper,” Doyle said, reading the card. “Look at this.” He passed the card to Stone. “Your mind is a riot of confused, ambivalent motives. When was the last time you confessed?”</p>
+   <p>Flushing, Stone mumbled, “I think last August. Pepe Jones was the sky pilot, then.”</p>
+   <p>“A lot of work will have to be done with you,” Doyle said, lighting a cigarette and leaning back in his chair.</p>
+   <empty-line/>
+   <p>The opening number on their White House performance, they had decided after much discussion and argument, would be the Bach “Chaconne in D.” Al had always liked it, despite the difficulties involved, the double-stopping and all. Even thinking about the “Chaconne” made Ian nervous. He wished, now that it had been decided, that he had held out for the simpler “Fifth Unaccompanied Cello Suite.” But too late now. Al had sent the information on to the White House A &amp; R—artists and repertory—secretary, Harold Slezak.</p>
+   <p>Al said, “Don’t worry; you’ve got the number two jug in this. Do you mind being second jug to me?”</p>
+   <p>“No,” Ian said. It was a relief, actually; Al had the far more difficult part.</p>
+   <p>Outside the perimeter of Jalopy Jungle No. 3 the papoola moved, crisscrossing the sidewalk in its gliding, quiet pursuit of a sales prospect. It was only ten in the morning and no one worth collaring had come along, as yet. Today the lot had set down in the hilly section of Oakland, California, among the winding tree-lined streets of the better residential section. Across from the lot, Ian could see the Joe Louis, a peculiarly-shaped but striking apartment building of a thousand units, mostly occupied by well-to-do Negroes. The building, in the morning sun, looked especially neat and cared for. A guard, with badge and gun, patrolled the entrance, stopping anyone who did not live there from entering.</p>
+   <p>“Slezak has to okay the program,” Al reminded him. “Maybe Nicole won’t want to hear the ‘Chaconne’; she’s got very specialized tastes and they’re changing all the time.”</p>
+   <p>In his mind Ian saw Nicole, propped up in her enormous bed, in her pink, frilly robe, her breakfast on a tray beside her as she scanned the program schedules presented to her for her approval. Already she’s heard about us, he thought. <emphasis>She knows of our existence. </emphasis>In that case, we really do exist. Like a child that has to have its mother watching what it does; we’re brought into being, validated consensually, by Nicole’s gaze.</p>
+   <p>And when she takes her eye off us, he thought, then what? What happens to us afterward? Do we disintegrate, sink back into oblivion?</p>
+   <p>Back, he thought, into random, unformed atoms. Where we came from . . . the world of nonbeing. The world we’ve been in all our lives, up until now.</p>
+   <p>“And,” Al said, “she may ask us for an encore. She may even request a particular favorite. I’ve researched it, and it seems she sometimes asks to hear Schumann’s ‘The Happy Farmer.’ Got that in mind? We’d better work up ‘The Happy Farmer,’ just in case.” He blew a few toots on his jug, thoughtfully.</p>
+   <p>“I can’t do it,” Ian said abruptly. “I can’t go on. It means too much to me. Something will go wrong; we won’t please her and they’ll boot us out. And we’ll never be able to forget it.”</p>
+   <p>“Look,” Al began. “We have the papoola. And that gives us—” He broke off. A tall, stoop-shouldered elderly man in an expensive natural-fiber blue pin-stripe suit was coming up the sidewalk. “My God, it’s Luke himself,” Al said. He looked frightened. “I’ve only seen him twice before in my life. Something must be wrong.”</p>
+   <p>“Better reel in the papoola,” Ian said. The papoola had begun to move toward Loony Luke.</p>
+   <p>With a bewildered expression on his face Al said, “I can’t.” He fiddled desperately with the controls at his waist. “It won’t respond.”</p>
+   <p>The papoola reached Luke, and Luke bent down, picked it up and continued on toward the lot, the papoola under his arm.</p>
+   <p>“He’s taken precedence over me,” Al said. He looked at his brother numbly.</p>
+   <p>The door of the little structure opened and Loony Luke entered. “We received a report that you’ve been using this on your own time, for purposes of your own,” he said to Al, his voice low and gravelly. “You were told not to do that; the papoolas belong to the lots, not to the operators.”</p>
+   <p>Al said, “Aw, come on, Luke.”</p>
+   <p>“You ought to be fired,” Luke said, “but you’re a good salesman so I’ll keep you on. Meanwhile, you’ll have to make your quota without help.” Tightening his grip on the papoola, he started back out. “My time is valuable; I have to go.” He saw Al’s jug. “That’s not a musical instrument; it’s a thing to put whiskey in.”</p>
+   <p>Al said, “Listen, Luke, this is publicity. Performing for Nicole means that the network of jalopy jungles will gain prestige; got it?”</p>
+   <p>“I don’t want prestige,” Luke said, pausing at the door. “There’s no catering to Nicole Thibodeaux by me; let her run her society the way she wants and I’ll run the jungles the way I want. She leaves me alone and I leave her alone and that’s fine with me. Don’t mess it up. Tell Slezak you can’t appear and forget about it; no grown man in his right senses would be hooting into an empty bottle anyhow.”</p>
+   <p>“That’s where you’re wrong,” Al said. “Art can be found in the most mundane daily walks of life, like in these jugs for instance.”</p>
+   <p>Luke, picking his teeth with a silver toothpick, said, “Now you don’t have a papoola to soften the First Family up for you. Better think about that. . . do you really expect to make it without the papoola?”</p>
+   <p>After a pause Al said to Ian, “He’s right. The papoola did it for us. But—hell, let’s go on anyhow.”</p>
+   <p>“You’ve got guts,” Luke said. “But no sense. Still, I have to admire you. I can see why you’ve been a top notch salesman for the organization; you don’t give up. Take the papoola the night you perform at the White House and then return it to me the next morning.” He tossed the round, bug-like creature to Al; grabbing it, Al hugged it against his chest like a big pillow. “Maybe it would be good publicity for the jungles,” Luke said. “But I know this. Nicole doesn’t like us. Too many people have slipped out of her hands by means of us; we’re a leak in mama’s structure and mama knows it.” He grinned, showing gold teeth.</p>
+   <p>Al said, “Thanks, Luke.”</p>
+   <p>“But I’ll operate the papoola,” Luke said. “By remote. I’m a little more skilled than you; after all, I <emphasis>built </emphasis>them.”</p>
+   <p>“Sure,” Al said. “I’ll have my hands full playing anyhow.”</p>
+   <p>“Yes,” Luke said, “you’ll need both hands for that bottle.”</p>
+   <p>Something in Luke’s tone made Ian Duncan uneasy. What’s he up to? he wondered. But in any case he and his brother had no choice; they had to have the papoola working for them. And no doubt Luke could do a good job of operating it; he had already proved his superiority over Al, just now, and as Luke said, Al would be busy blowing away on his jug. But still—</p>
+   <p>“Loony Luke,” Ian said, “have you ever met Nicole?” It was a sudden thought on his part, an unexpected intuition.</p>
+   <p>“Sure,” Luke said steadily. “Years ago. I had some hand puppets; my Dad and I traveled around putting on puppet shows. We finally played the White House.”</p>
+   <p>“What happened there?” Ian asked.</p>
+   <p>Luke, after a pause, said, “She didn’t care for us. Said something about our puppets being indecent.”</p>
+   <p>And you hate her, Ian realized. You never forgave her. “Were they?” he asked Luke.</p>
+   <p>“No,” Luke answered. “True, one act was a strip show; we had follies girl puppets. But nobody ever objected before. My Dad took it hard but it didn’t bother me.” His face was impassive.</p>
+   <p>Al said, “Was Nicole the First Lady that far back?”</p>
+   <p>“Oh yes,” Luke said. “She’s been in office for seventy-three years; didn’t you know that?”</p>
+   <p>“It isn’t possible,” both Al and Ian said, almost together.</p>
+   <p>“Sure it is,” Luke said. “She’s a really old woman, now. A grandmother. But she still looks good, I guess. You’ll know when you see her.”</p>
+   <p>Stunned, Ian said, “On TV—”</p>
+   <p>“Oh yeah,” Luke agreed. “On TV she looks around twenty. But look in the history books yourself; figure it out. The facts are all there.”</p>
+   <p>The facts, Ian realized, mean nothing when you can see with your own eyes that she’s as young-looking as ever. And we see that every day.</p>
+   <p>Luke, you’re lying, he thought. We know it; we all know it. My brother saw her; Al would have said, if she was really like that. You hate her; that’s your motive. Shaken, he turned his back to Luke, not wanting to have anything to do with the man, now. Seventy-three years in office—that would make Nicole almost ninety, now. He shuddered at the idea; he blocked it out of his thoughts. Or at least he tried to.</p>
+   <p>“Good luck, boys,” Luke said, chewing on his toothpick.</p>
+   <empty-line/>
+   <p>In his sleep Ian Duncan had a terrible dream. A hideous old woman with greenish, wrinkled claws scrabbled at him, whining for him to do something—he did not know what it was because her voice, her words, blurred into indistinction, swallowed by her broken-toothed mouth, lost in the twisting thread of saliva which found its way to her chin. He struggled to free himself. . .</p>
+   <p>“Chrissake,” Al’s voice came to him. “Wake up; we have to get the lot moving; we’re supposed to be at the White House in three hours.”</p>
+   <p>Nicole, Ian realized as he sat up groggily. It was her I was dreaming about; ancient and withered, but still her. “Okay,” he muttered as he rose unsteadily from the cot. “Listen, Al,” he said, “suppose she is old, like Loony Luke says? What then? What’ll we do?”</p>
+   <p>“We’ll perform,” Al said. “Play our jugs.”</p>
+   <p>“But I couldn’t live through it,” Ian said. “My ability to adjust is just too brittle. This is turning into a nightmare; Luke controls the papoola and Nicole is old—what’s the point of our going on? Can’t we go back to just seeing her on the TV and maybe once in our lifetime at a great distance like you did in Shreveport? That’s good enough for me, now. I want that, the image; okay?”</p>
+   <p>“No,” Al said doggedly. “We have to see this through. Remember, you can always emigrate to Mars.”</p>
+   <p>The lot had already risen, was already moving toward the East Coast and Washington, D.C.</p>
+   <p>When they landed, Slezak, a rotund, genial little individual, greeted them warmly; he shook hands with them as they walked toward the service entrance of the White House. “Your program is ambitious,” he bubbled, “but if you can fulfill it, fine with me, with us here, the First Family I mean, and in particular the First Lady herself who is actively enthusiastic about all forms of original artistry. According to your biographical data you two made a thorough study of primitive disc recordings from the early nineteen hundreds, as early as 1920, of jug bands surviving from the U.S. Civil War, so you’re authentic juggists except of course you’re classical, not folk.” </p>
+   <p>“Yes sir,” Al said.</p>
+   <p>“Could you, however, slip in one folk number?” Slezak asked as they passed the guards at the service entrance and entered the White House, the long, carpeted corridor with its artificial candles set at intervals. “For instance, we suggest ‘Rockabye My Sarah Jane.’ Do you have that in your repertoire? If not—”</p>
+   <p>“We have it,” Al said shortly. “We’ll add it toward the end.” </p>
+   <p>“Fine,” Slezak said, prodding them amiably ahead of him. “Now may I ask what this creature you carry is?” He eyed the papoola with something less than enthusiasm. “Is it alive?” </p>
+   <p>“It’s our totem animal,” Al said. </p>
+   <p>“You mean a superstitious charm? A mascot?”</p>
+   <p>“Exactly,” Al said. “With it we assuage anxiety.” He patted the papoola’s head. “And it’s part of our act; it dances while we play. You know, like a monkey.”</p>
+   <p>“Well I’ll be darned,” Slezak said, his enthusiasm returning. “I see, now. Nicole will be delighted; she loves soft, furry things.” He held a door open ahead of them.</p>
+   <p>And there she sat.</p>
+   <p>How could Luke have been so wrong? Ian thought. She was even lovelier than on TV, and much more distinct; that was the main difference, the fabulous authenticity of her appearance, its reality to the senses. The senses knew the difference. Here she sat, in faded blue-cotton trousers, moccasins on her feet, a carelessly-buttoned white shirt through which he could see—or imagined he could see—her tanned, smooth skin . . . how informal she was, Ian thought. Lacking in pretense or show. Her hair cut short, exposing her beautifully-formed neck and ears. And, he thought, so darn young. She did not look even twenty. And the vitality. The TV could not catch that, the delicate glow of color and line all about her.</p>
+   <p>“Nicky,” Slezak said, “these are the classical juggists.”</p>
+   <p>She glanced up, sideways; she had been reading a newspaper. Now she smiled. “Good morning,” she said. “Did you have breakfast? We could serve you some Canadian bacon and butterhorns and coffee if you want.” Her voice, oddly, did not seem to come from her; it materialized from the upper part of the room, almost at the ceiling. Looking that way, Ian saw a series of speakers and he realized that a glass barrier separated Nicole from them, a security measure to protect her. He felt disappointed and yet he understood why it was necessary. If anything happened to her—</p>
+   <p>“We ate, Mrs. Thibodeaux,” Al said. “Thanks.” He, too, was glancing up at the speakers.</p>
+   <p><emphasis>We ate Mrs. Thibodeaux, </emphasis>Ian thought crazily. Isn’t it actually the other way around? Doesn’t she, sitting here in her blue-cotton pants and shirt, doesn’t she devour us?</p>
+   <p>Now the President, Taufic Negal, a slender, dapper, dark man, entered behind Nicole, and she lifted her face up to him and said, “Look, Taffy, they have one of those papoolas with them—won’t that be fun?”</p>
+   <p>“Yes,” the President said, smiling, standing beside his wife.</p>
+   <p>“Could I see it?” Nicole asked Al. “Let it come here.” She made a signal, and the glass wall began to lift.</p>
+   <p>Al dropped the papoola and it scuttled toward Nicole, beneath the raised security barrier; it hopped up, and all at once Nicole held it in her strong hands, gazing down at it intently.</p>
+   <p>“Heck,” she said, “it’s not alive; it’s just a toy.”</p>
+   <p>“None survived,” Al said. “As far as we know. But this is an authentic model, based on remains found on Mars.” He stepped toward her—</p>
+   <empty-line/>
+   <p>The glass barrier settled in place. Al was cut off from the papoola and he stood gaping foolishly, seemingly very upset. Then, as if by instinct, he touched the controls at his waist. Nothing happened for a time and then, at last, the papoola stirred. It slid from Nicole’s hands and hopped back to the floor. Nicole exclaimed in amazement, her eyes bright.</p>
+   <p>“Do you want it, dear?” her husband asked. “We can undoubtedly get you one, even several.”</p>
+   <p>“What does it do?” Nicole asked Al.</p>
+   <p>Slezak bubbled, “It dances, ma’am, when they play; it has rhythm in its bones—correct, Mr. Duncan? Maybe you could play something now, a shorter piece, to show Mrs. Thibodeaux.” He rubbed his hands together. Al and Ian looked at each other.</p>
+   <p>“S-sure,” Al said. “Uh, we could play that little Schubert thing, that arrangement of ‘The Trout.’ Okay, Ian, get set.” He unbuttoned the protective case from his jug, lifted it out and held it awkwardly. Ian did the same. “This is Al Duncan, here, at the first jug,” Al said. “And besides me is my brother Ian at the second jug, bringing you a concert of classical favorites, beginning with a little Schubert.” And then, at a signal from Al, they both began to play.</p>
+   <p>Bump bump-bump BUMP-BUMP buuump bump, ba-bump-bump bup-bup-bup-bup-bupppp. Nicole giggled.</p>
+   <p>We’ve failed, Ian thought. God, the worst has come about: we’re ludicrous. He ceased playing; Al continued on, his cheeks red and swelling with the effort of playing. He seemed unaware that Nicole was holding her hand up to cover her laughter, her amusement at them and their efforts. Al played on, by himself, to the end of the piece, and then he, too, lowered his jug.</p>
+   <p>“The papoola,” Nicole said, as evenly as possible. “It didn’t dance. Not one little step—why not?” And again she laughed, unable to stop herself.</p>
+   <p>Al said woodenly, “I—don’t have control of it; it’s on remote, right now.” To the papoola he said, “You better dance.”</p>
+   <p>“Oh really, this is wonderful,” Nicole said. “Look,” she said to her husband, “he has to <emphasis>beg it </emphasis>to dance. Dance, whatever your name is, papoola-thing from Mars, or rather imitation papoola-thing from Mars.” She prodded the papoola with the toe of her moccasin, trying to nudge it into life. “Come on, little synthetic ancient cute creature, all made out of wires. Please.” The papoola leaped at her. It bit her.</p>
+   <p>Nicole screamed. A sharp <emphasis>pop </emphasis>sounded from behind her, and the papoola vanished into particles that swirled. A White House security guard stepped into sight, his rifle in his hands, peering intently at her and at the floating particles; his face was calm but his hands and the rifle quivered. Al began to curse to himself, chanting the words over and over again, the same three or four, unceasingly.</p>
+   <p>“Luke,” he said then, to his brother. “He did it. Revenge. It’s the end of us.” He looked gray, worn-out. Reflexively he began wrapping his jug up once more, going through the motions step by step.</p>
+   <p>“You’re under arrest,” a second White House guard said, appearing behind them and training his gun on the two of them.</p>
+   <p>“Sure,” Al said listlessly, his head nodding, wobbling vacuously. “We had nothing to do with it so arrest us.”</p>
+   <p>Getting to her feet with the assistance of her husband, Nicole walked toward Al and Ian. “Did it bite me because I laughed?” she said in a quiet voice.</p>
+   <p>Slezak stood mopping his forehead. He said nothing; he merely stared at them sightlessly.</p>
+   <p>“I’m sorry,” Nicole said. “I made it angry, didn’t I? It’s a shame; we would have enjoyed your act.”</p>
+   <p>“Luke did it,” Al said.</p>
+   <p>“ ‘Luke.’ ” Nicole studied him. “Loony Luke, you mean. He owns those dreadful jalopy jungles that come and go only a step from illegality. Yes, I know who you mean; I remember him.” To her husband she said, “I guess we’d better have him arrested, too.”</p>
+   <p>“Anything you say,” her husband said, writing on a pad of paper.</p>
+   <p>Nicole said, “This whole jug business. . . it was just a cover-up for an action hostile to us, wasn’t it? A crime against the state. We’ll have to rethink the entire philosophy of inviting performers here. . . perhaps it’s been a mistake. It gives too much access to anyone who has hostile intentions toward us. I’m sorry.” She looked sad and pale, now; she folded her arms and stood rocking back and forth, lost in thought.</p>
+   <p>“Believe me, Nicole,” Al began.</p>
+   <p>Introspectively, she said, “I’m not Nicole; don’t call me that. Nicole Thibodeaux died years ago. I’m Kate Rupert, the fourth one to take her place. I’m just an actress who looks enough like the original Nicole to be able to keep this job, and I wish sometimes, when something like this happens, that I didn’t have it. I have no real authority. There’s a council somewhere that governs . . . I’ve never even seen them.” To her husband she said, “They know about this, don’t they?”</p>
+   <p>“Yes,” he said, “they’ve already been informed.”</p>
+   <p>“You see,” she said to Al, “he, even the President, has more actual power than I.” She smiled wanly.</p>
+   <p>Al said, “How many attempts have there been on your life?”</p>
+   <p>“Six or seven,” she said. “All for psychological reasons. Unresolved Oedipal complexes or something like that. I don’t really care.” She turned to her husband, then. “I really think these two men here—” She pointed at Al and Ian. “They don’t seem to know what’s going on; maybe they are innocent.” To her husband and Slezak and the security guards she said, “Do they have to be destroyed? I don’t see why you couldn’t just eradicate a part of their memory-cells and let them go. Why wouldn’t that do?”</p>
+   <p>Her husband shrugged. “If you want it that way.”</p>
+   <p>“Yes,” she said. “I’d prefer that. It would make my job easier. Take them to the medical center at Bethesda and then let’s go on; let’s give an audience to the next performers.”</p>
+   <p>A security guard nudged Ian in the back with his gun. “Down the corridor, please.”</p>
+   <p>“Okay,” Ian murmured, gripping his jug. But what happened? he wondered. I don’t quite understand. This woman isn’t Nicole and even worse there is no Nicole anywhere; there’s just the TV image, the illusion, and behind it, behind her, another group entirely rules. A council of some kind. But who are they and how did they get power? Will we ever know? We came so far; we almost seem to know what’s really going on. The actuality behind the illusion. . . can’t they tell us the rest? What difference would it make now? How—</p>
+   <p>“Goodbye,” Al was saying to him.</p>
+   <p>“What?” he said, horrified. “Why do you say that? They’re going to let us go, aren’t they?”</p>
+   <p>Al said, “We won’t remember each other. Take my word for it; we won’t be allowed to keep any ties like that. So—” He held out his hand. “So goodbye, Ian. We made it to the White House. You won’t remember that either, but it’s true; we did do it.” He grinned crookedly.</p>
+   <p>“Move along,” the security guard said to them.</p>
+   <p>Holding their jugs, the two of them moved down the corridor, toward the door and the waiting black medical van beyond.</p>
+   <empty-line/>
+   <p>It was night, and Ian Duncan found himself at a deserted street corner, cold and shivering, blinking in the glaring white light of an urban monorail loading platform. What am I doing here? he asked himself, bewildered. He looked at his wristwatch; it was eight o’clock. I’m supposed to be at the All Souls Meeting, aren’t I? he thought dazedly.</p>
+   <p>I can’t miss another one, he realized. Two in a row—it’s a terrible fine; it’s economic ruin. He began to walk.</p>
+   <p>The familiar building, Abraham Lincoln with all its network of towers and windows, lay extended ahead; it was not far and he hurried, breathing deeply, trying to keep up a good steady pace. It must be over, he thought. The lights in the great central subsurface auditorium were not lit. Damn it, he breathed in despair.</p>
+   <p>“All Souls is over?” he said to the doorman as he entered the lobby, his identification held out.</p>
+   <p>“You’re a little confused, Mr. Duncan,” the doorman said, putting away his gun. “All Souls was last night; this is Friday.”</p>
+   <p>Something’s gone wrong, Ian realized. But he said nothing; he merely nodded and hurried on toward the elevator.</p>
+   <p>As he emerged from the elevator on his own floor, a door opened and a furtive figure beckoned to him. “Hey, Duncan.”</p>
+   <p>It was Corley. Warily, because an encounter like this could be disastrous, Ian approached him. “What is it?”</p>
+   <p>“A rumor,” Corley said in a rapid, fear-filled voice. “About your last <emphasis>relpol </emphasis>test—some irregularity. They’re going to rouse you at five or six A.M. tomorrow morning and spring a surprise quiz on you.” He glanced up and down the hall. “Study the late 1980s and the religio-collectivist movements in particular. Got it?”</p>
+   <p>“Sure,” Ian said, with gratitude. “And thanks a lot. Maybe I can do the same—” He broke off, because Corley had hurried back into his own apartment and shut the door; Ian was alone.</p>
+   <p>Certainly very nice of him, he thought as he walked on. Probably saved my hide, kept me from being forcibly ejected right out of here forever.</p>
+   <p>When he reached his apartment he made himself comfortable, with all his reference books on the political history of the United States spread out around him. I’ll study all night, he decided. Because I have to pass that quiz; I have no choice.</p>
+   <p>To keep himself awake, he turned on the TV. Presently the warm, familiar being, the presence of the First Lady, flowed into motion and began to fill the room.</p>
+   <p>“. . .and at our musical tonight,” she was saying, “we will have a saxophone quartet which will play themes from Wagner’s operas, in particular my favorite, ‘Die Meistersinger.’ I believe we will truly all find this a deeply rewarding and certainly an enriching experience to cherish. And, after that, my husband the President and I have arranged to bring you once again an old favorite of yours, the world renown cellist, Henri LeClercq, in a program of Jerome Kern and Cole Porter.” She smiled, and at his pile of reference books, Ian Duncan smiled back.</p>
+   <p>I wonder how it would be to play at the White House, he said to himself. To perform before the First Lady. Too bad I never learned to play any kind of musical instrument. I can’t act, write poems, dance or sing—nothing. So what hope is there for me? Now, if I had come from a musical family, if I had had a father or brothers to teach me how. . .</p>
+   <p>Glumly, he scratched a few notes on the rise of the French Christian Fascist Party of 1975. And then, drawn as always to the TV set, he put his pen down and turned to face the set. Nicole was now exhibiting a piece of Delft tile which she had picked up, she explained, in a little shop in Vermont. What lovely clear colors it had. . . he watched, fascinated, as her strong, slim fingers caressed the shiny surface of the baked enamel tile.</p>
+   <p>“See the tile,” Nicole was murmuring in her husky voice. “Don’t you wish you had a tile like that? Isn’t it lovely?”</p>
+   <p>“Yes,” Ian Duncan said.</p>
+   <p>“How many of you would like someday to see such a tile?” Nicole asked. “Raise your hands.”</p>
+   <p>Ian raised his hand hopefully.</p>
+   <p>“Oh, a whole lot of you,” Nicole said, smiling her intimate, radiant smile. “Well, perhaps later we will have another tour of the White House. Would you like that?”</p>
+   <p>Hopping up and down in his chair, Ian said, “Yes, I’d like that.”</p>
+   <p>On the TV screen she was smiling directly at him, it seemed. And so he smiled back. And then, reluctantly, feeling a great weight descend over him, he at last turned back to his reference books. Back to the harsh realities of his daily, endless life.</p>
+   <p>Against the window of his apartment something bumped and a voice called at him thinly, “Ian Duncan, I don’t have much time.”</p>
+   <p>Whirling, he saw outside in the night darkness a shape drifting, an egg-like construction that hovered. Within it a man waved at him energetically, still calling. The egg gave off a dull <emphasis>putt-putt </emphasis>noise, its jets idling as the man kicked open the hatch of the vehicle and then lifted himself out.</p>
+   <p>Are they after me already on this quiz? Ian Duncan asked himself. He stood up, feeling helpless. So soon. . . I’m not ready, yet.</p>
+   <p>Angrily, the man in the vehicle spun the jets until their steady white exhaust firing met the surface of the building; the room shuddered and bits of plaster broke away. The window itself collapsed as the heat of the jets crossed it. Through the gap exposed the man yelled once more, trying to attract Ian Duncan’s faculties.</p>
+   <p>“Hey, Duncan! Hurry up! I have your brother already; he’s on his way in another ship!” The man, elderly, wearing an expensive natural-fiber blue pin-stripe suit, lowered himself with dexterity from the hovering egg-shaped vehicle and dropped feet-first into the room. “We have to get going if we’re to make it. You don’t remember me? Neither did Al. Boy, I take off my hat to them.”</p>
+   <p>Ian Duncan stared at him, wondering who he was and who Al was and what was happening.</p>
+   <p>“Mama’s psychologists did a good, good job of working you over,” the elderly man panted. “That Bethesda—it must be quite a place. I hope they never get me there.” He came toward Ian, caught hold of him by the shoulder. “The police are shutting down all my jalopy jungles; I have to beat it to Mars and I’m taking you along with me. Try to pull yourself together; I’m Loony Luke—you don’t remember me now but you will after we’re all on Mars and you see your brother again. <emphasis>Come on.</emphasis>” Luke propelled him toward the gap in the wall of the room, where once had been a window, and toward the vehicle—it was called a jalopy, Ian realized—drifting beyond.</p>
+   <p>“Okay,” Ian said, wondering what he should take with him. What would he need on Mars? Toothbrush, pajamas, a heavy coat? He looked frantically around his apartment, one last look at it. Far off police sirens sounded.</p>
+   <p>Luke scrambled back into the jalopy, and Ian followed, taking hold of the elderly man’s extended hand. The floor of the jalopy crawled with bright orange bug-like creatures whose antennae waved at him. Papoolas, he remembered, or something like that.</p>
+   <p>You’ll be all right now, the papoolas were thinking. Don’t worry; Loony Luke got you away in time, just barely in time. Now just relax.</p>
+   <p>“Yes,” Ian said. He lay back against the side of the jalopy and relaxed; for the first time in many years he felt at peace.</p>
+   <p>The ship shot upward into the night emptiness and the new planet which lay beyond.</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>Novelty Act</emphasis> (“At Second Jug”) 3/23/63. <emphasis>Fantastic, </emphasis>Feb 1964. [Included In Pkd’S Novel <emphasis>The Simulacra</emphasis>.]</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+</binary>
+</FictionBook>

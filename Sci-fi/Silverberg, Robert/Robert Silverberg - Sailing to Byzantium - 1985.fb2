@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>Sailing to Byzantium</book-title>
+   <annotation>
+    <p>“Sailing to Byzantium” is another story that, like Joe Haldeman’s, deals with the far, far future, and it takes place in a world that Silverberg has made at once vaguely familiar through his use of history, and utterly alien by virtue of its population. A winner of the Nebula Award in 1985, it is a look at what it means to be human, now and forever.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#img98FD.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>Book Designer 5.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2014-01-21">21.01.2014</date>
+   <id>BD-3B1958-5A07-1B4D-B599-7D38-9C85-932CAD</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Robert Silverberg</p>
+   <empty-line/>
+   <p>Sailing to Byzantium</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p>At dawn he arose and stepped out on to the patio for his first look at Alexandria, the one city he had not yet seen. That year the five cities were Chang-an, Asgard, New Chicago, Timbuctoo, Alexandria: the usual mix of eras, cultures, realities. He and Gioia, making the long flight from Asgard in the distant north the night before, had arrived late, well after sundown, and had gone straight to bed. Now, by the gentle apricot-hued morning light, the fierce spires and battlements of Asgard seemed merely something he had dreamed.</p>
+   <p>The rumour was that Asgard's moment was finished, anyway. In a little while, he had heard, they were going to tear it down and replace it, elsewhere, with Mohenjo-daro. Though there were never more than five cities, they changed constantly. He could remember a time when they had had Rome of the Caesars instead of Chang-an, and Rio de Janeiro rather than Alexandria. These people saw no point in keeping anything very long.</p>
+   <p>It was not easy for him to adjust to the sultry intensity of Alexandria after the frozen splendours of Asgard. The wind, coming off the water, was brisk and torrid both at once. Soft turquoise wavelets lapped at the jetties. Strong presences assailed his senses: the hot heavy sky, the stinging scent of the red lowland sand borne on the breeze, the sullen swampy aroma of the nearby sea. Everything trembled and glimmered in the early light. Their hotel was beautifully situated, high on the northern slope of the huge artificial mound known as the Paneium that was sacred to the goat-footed god. From here they had a total view of the city: the wide noble boulevards, the soaring obelisks and monuments, the palace of Hadrian just below the hill, the stately and awesome Library, the temple of Poseidon, the teeming marketplace, the royal lodge that Mark Antony had built after his defeat at Actium. And of course the Lighthouse, the wondrous many-windowed Lighthouse, the seventh wonder of the world, that immense pile of marble and limestone and reddish-purple Aswan granite rising in majesty at the end of its mile-long causeway. Black smoke from the beacon-fire at its summit curled lazily into the sky. The city was awakening. Some temporaries in short white kilts appeared and began to trim the dense dark hedges that bordered the great public buildings. A few citizens wearing loose robes of vaguely Grecian style were strolling in the streets.</p>
+   <p>There were ghosts and chimeras and phantasies everywhere about. Two slim elegant centaurs, a male and a female, grazed on the hillside. A burly thick-thighed swordsman appeared on the porch of the temple of Poseidon holding a Gorgon's severed head and waved it in a wide arc, grinning broadly. In the street below the hotel gate three small pink sphinxes, no bigger than house cats, stretched and yawned and began to prowl the kerbside. A larger one, lion-sized, watched warily from an alleyway: their mother, surely. Even at this distance he could hear her loud purring.</p>
+   <p>Shading his eyes, he peered far out past the Lighthouse and across the water. He hoped to see the dim shores of Crete or Cyprus to the north, or perhaps the great dark curve of Anatolia. <emphasis>Carry me towards that great Byzantium</emphasis>, he thought. <emphasis>Where all is ancient, singing at the oars</emphasis>. But he beheld only the endless empty sea, sun-bright and blinding though the morning was just beginning. Nothing was ever where he expected it to be. The continents did not seem to be in their proper places any longer. Gioia, taking him aloft long ago in her little flitterflitter, had shown him that. The tip of South America was canted far out into the Pacific; Africa was weirdly foreshortened; a broad tongue of ocean separated Europe and Asia. Australia did not appear to exist at all. Perhaps they had dug it up and used it for other things. There was no trace of the world he once had known. This was the fiftieth century. 'The fiftieth century after <emphasis>what?</emphasis>' he had asked several times, but no-one seemed to know, or else they did not care to say.</p>
+   <p>'Is Alexandria very beautiful?' Gioia called from within.</p>
+   <p>'Come out and see.'</p>
+   <p>Naked and sleepy-looking, she padded out on to the white-tiled patio and nestled up beside him. She fitted neatly under his arm. 'Oh, yes, yes!' she said softly. 'So very beautiful, isn't it? Look, there, the palaces, the Library, the Lighthouse! Where will we go first? The Lighthouse, I think. Yes? And then the market place - I want to see the Egyptian magicians - and the stadium, the races - will they be having races today, do you think? Oh, Charles, I want to see everything!'</p>
+   <p>'Everything? All on the first day?'</p>
+   <p>'All on the first day, yes,' she said. 'Everything.'</p>
+   <p>'But we have plenty of time, Gioia.'</p>
+   <p>'Do we?'</p>
+   <p>He smiled and drew her tight against his side.</p>
+   <p>'Time enough,' he said gently.</p>
+   <p>He loved her for her impatience, for her bright bubbling eagerness. Gioia was not much like the rest in that regard, though she seemed identical in all other ways. She was short, supple, slender, dark-eyed, olive-skinned, narrow-hipped, with wide shoulders and flat muscles. They were all like that, each one indistinguishable from the rest, like a horde of millions of brothers and sisters - a world of small lithe childlike Mediterraneans, built for juggling, for bull-dancing, for sweet white wine at midday and rough red wine at night. They had the same slim bodies, the same broad mouths, the same great glossy eyes. He had never seen anyone who appeared to be younger than twelve or older than twenty. Gioia was somehow a little different, although he did not quite know how; but he knew that it was for that imperceptible but significant difference that he loved her. And probably that was why she loved him also.</p>
+   <p>He let his gaze drift from west to east, from the Gate of the Moon down broad Canopus Street and out to the harbour, and off to the tomb of Cleopatra at the tip of long slender Cape Lochias. Everything was here and all of it perfect, the obelisks, the statues and marble colonnades, the courtyards and shrines and groves, great Alexander himself in his coffin of crystal and gold: a splendid gleaming pagan city. But there were oddities - an unmistakable mosque near the public gardens, and what seemed to be a Christian church not far from the Library. And those ships in the harbour, with all those red sails and bristling masts - surely they were medieval, and late medieval at that. He had seen such anachronisms in other places before. Doubtless these people found them amusing. Life was a game for them. They played at it unceasingly. Rome, Alexandria, Timbuctoo - why not? Create an Asgard of translucent bridges and shimmering ice-girt palaces, then grow weary of it and take it away? Replace it with Mohenjo-daro? Why not? It seemed to him a great pity to destroy those lofty Nordic feasting-halls for the sake of building a squat brutal sun-baked city of brown brick; but these people did not took at things the way he did. Their cities were only temporary. Someone in Asgard had said that Timbuctoo would be the next to go, with Byzantium rising in its place. Well, why not? Why not? They could have anything they liked. This was the fiftieth century, after all. The only rule was that there could be no more than five cities at once. 'Limits,' Gioia had informed him solemnly when they first began to travel together, 'are very important.' But she did not know why, or did not care to say.</p>
+   <p>He stared out once more towards the sea.</p>
+   <p>He imagined a newborn city congealing suddenly out of mists, far across the water: shining towers, great domed palaces, golden mosaics. That would be no great effort for them. They could just summon it forth whole out of time, the Emperor on his throne and the Emperor's drunken soldiery roistering in the streets, the brazen clangour of the cathedral gong rolling through the Grand Bazaar, dolphins leaping beyond the shoreside pavilions. Why not? They had Timbuctoo. They had Alexandria. Do you crave Constantinople? Then behold Constantinople! Or Avalon, or Lyonesse, or Atlantis. They could have anything they liked. It is pure Schopenhauer here: the world as will and imagination. Yes! These slender dark-eyed people journeying tirelessly from miracle to miracle. Why not Byzantium next? Yes! Why not? <emphasis>That is no country for old men</emphasis>, he thought. <emphasis>The young in one another's arms, the birds in the trees</emphasis> - yes! Yes! Anything they liked. They even had him. Suddenly he felt frightened. Questions he had not asked for a long time burst through into his consciousness. <emphasis>Who am I? Why am I here? Who is this woman beside me?</emphasis></p>
+   <p>'You're so quiet all of a sudden, Charles,' said Gioia, who could not abide silence for very long. 'Will you talk to me? I want you to talk to me. Tell me what you're looking for out there.'</p>
+   <p>He shrugged. 'Nothing.'</p>
+   <p>'Nothing?'</p>
+   <p>'Nothing in particular.'</p>
+   <p>'I could see you seeing something.'</p>
+   <p>'Byzantium,' he said. 'I was imagining that I could look straight across the water to Byzantium. I was trying to get a glimpse of the walls of Constantinople.'</p>
+   <p>'Oh, but you wouldn't be able to see as far as that from here. Not really.'</p>
+   <p>'I know.'</p>
+   <p>'And anyway Byzantium doesn't exist.'</p>
+   <p>'Not yet. But it will. Its time comes later on.'</p>
+   <p>'Does it?' she said. 'Do you know that for a fact?'</p>
+   <p>'On good authority. I heard it in Asgard,' he told her. 'But even if I hadn't, Byzantium would be inevitable, don't you think? Its time would have to come. How could we not do Byzantium, Gioia? We certainly will do Byzantium, sooner or later. I know we will. It's only a matter of time. And we have all the time in the world.'</p>
+   <p>A shadow crossed her face. 'Do we? Do we?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>He knew very little about himself, but he knew that he was not one of them. That he knew. He knew that his name was Charles Phillips and that before he had come to live among these people he had lived in the year 1984, when there had been such things as computers and television sets and baseball and jet planes, and the world was full of cities, not merely five but thousands of them, New York and London and Johannesburg and Paris and Liverpool and Bangkok and San Francisco and Buenos Aires and a multitude of others, all at the same time. There had been four and a half billion people in the world then; now he doubted that there were as many as four and a half million. Nearly everything had changed beyond comprehension. The moon still seemed the same, and the sun; but at night he searched in vain for familiar constellations. He had no idea how they had brought him from then to now, or why. It did no good to ask. No-one had any answers for him; no-one so much as appeared to understand what it was that he was trying to learn. After a time he had stopped asking; after a time he had almost entirely ceased wanting to know.</p>
+   <p>He and Gioia were climbing the Lighthouse. She scampered ahead, in a hurry as always, and he came along behind her in his more stolid fashion. Scores of other tourists, mostly in groups of two or three, were making their way up the wide flagstone ramps, laughing, calling to one another. Some of them, seeing him, stopped a moment, stared, pointed. He was used to that. He was so much taller than any of them; he was plainly not one of them. When they pointed at him he smiled. Sometimes he nodded a little acknowledgement.</p>
+   <p>He could not find much of interest in the lowest level, a massive square structure two hundred feet high built of huge marble blocks: within its cool musty arcades were hundreds of small dark rooms, the offices of the Lighthouse's keepers and mechanics, the barracks of the garrison, the stables for the three hundred donkeys that carried the fuel to the lantern far above. None of that appeared inviting to him. He forged onwards without halting until he emerged on the balcony that led to the next level. Here the Lighthouse grew narrower and became octagonal: its face, granite now and handsomely fluted, rose in a stunning sweep above him.</p>
+   <p>Gioia was waiting for him there. 'This is for you,' she said, holding out a nugget of meat on a wooden skewer. 'Roast lamb. Absolutely delicious. I had one while I was waiting for you.' She gave him a cup of some cool green sherbet also, and darted off to buy a pomegranate. Dozens of temporaries were roaming the balcony, selling refreshments of all kinds.</p>
+   <p>He nibbled at the meat. It was charred outside, nicely pink and moist within. While he ate, one of the temporaries came up to him and peered blandly into his face. It was a stocky swarthy mate wearing nothing but a strip of red and yellow cloth about its waist. 'I sell meat,' it said. 'Very fine roast lamb, only five drachmas.'</p>
+   <p>Phillips indicated the piece he was eating. 'I already have some,' he said.</p>
+   <p>'It is excellent meat, very tender. It has been soaked for three days in the juices of - '</p>
+   <p>'Please,' Phillips said. 'I don't want to buy any meat. Do you mind moving along?'</p>
+   <p>The temporaries had confused and baffled him at first, and there was still much about them that was unclear to him. They were not machines - they looked like creatures of flesh and blood - but they did not seem to be human beings, either, and no-one treated them as if they were. He supposed they were artificial constructs, products of a technology so consummate that it was invisible. Some appeared to be more intelligent than others, but all of them behaved as if they had no more autonomy than characters in a play, which was essentially what they were. There were untold numbers of them in each of the five cities, playing all manner of roles: shepherds and swineherds, street-sweepers, merchants, boatmen, vendors of grilled meats and cool drinks, hagglers in the marketplace, schoolchildren, charioteers, policemen, grooms, gladiators, monks, artisans, whores and cutpurses, sailors - whatever was needed to sustain the illusion of a thriving, populous urban centre. The dark-eyed people, Gioia's people, never performed work. There were not enough of them to keep a city's functions going, and in any case they were strictly tourists, wandering with the wind, moving from city to city as the whim took them, Chang-an to New Chicago, New Chicago to Timbuctoo, Timbuctoo to Asgard, Asgard to Alexandria, onwards, ever onwards.</p>
+   <p>The temporary would not leave him alone. Phillips walked away and it followed him, cornering him against the balcony wall. When Gioia returned a few minutes later, lips prettily stained with pomegranate juice, the temporary was still hovering about him, trying with lunatic persistence to sell him a skewer of lamb. It stood much too close to him, almost nose to nose, great sad cowlike eyes peering intently into his as it extolled with mournful mooing urgency the quality of its wares. It seemed to him that he had had trouble like this with temporaries on one or two earlier occasions. Gioia touched the creature's elbow lightly and said, in a short sharp tone Phillips had never heard her use before, 'He isn't interested. Get away from him.' It went at once. To Phillips she said, 'You have to be firm with them.'</p>
+   <p>'I was trying. It wouldn't listen to me.'</p>
+   <p>'You ordered it to go away, and it refused?'</p>
+   <p>'I asked it to go away. Politely. Too politely, maybe.'</p>
+   <p>'Even so,' she said. 'It should have obeyed a human, regardless.'</p>
+   <p>'Maybe it didn't think I was human,' Phillips suggested. 'Because of the way I look. My height, the colour of my eyes. It might have thought I was some kind of temporary myself.'</p>
+   <p>'No,' Gioia said, frowning. 'A temporary won't solicit another temporary. But it won't ever disobey a citizen, either. There's a very clear boundary. There isn't ever any confusion. I can't understand why it went on bothering you.' He was surprised at how troubled she seemed: far more so, he thought, than the incident warranted. A stupid device, perhaps miscalibrated in some way, overenthusiastically pushing its wares - what of it? What of it? Gioia, after a moment, appeared to come to the same conclusion. Shrugging, she said, 'It's defective, I suppose. Probably such things are more common than we suspect, don't you think?' There was something forced about her tone that bothered him. She smiled and handed him her pomegranate. 'Here. Have a bite, Charles. It's wonderfully sweet. They used to be extinct, you know. Shall we go on upwards?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>The octagonal midsection of the Lighthouse must have been several hundred feet in height, a grim claustrophobic tube almost entirely filled by the two broad spiralling ramps that wound around the huge building's central well. The ascent was slow: a donkey team was a little way ahead of them on the ramp, plodding along laden with bundles of kindling for the lantern. But at last, just as Phillips was growing winded and dizzy, he and Gioia came out on to the second balcony, the one marking the transition between the octagonal section and the Lighthouse's uppermost storey, which was cylindrical and very slender.</p>
+   <p>She leaned far out over the balustrade. 'Oh, Charles, look at the view! Look at it!'</p>
+   <p>It was amazing. From one side they could see the entire city, and swampy Lake Mareotis and the dusty Egyptian plain beyond it, and from the other they peered far out into the grey and choppy Mediterranean. He gestured towards the innumerable reefs and shallows that infested the waters leading to the harbour entrance. 'No wonder they needed a lighthouse here,' he said. 'Without some kind of gigantic landmark they'd never have found their way in from the open sea.'</p>
+   <p>A blast of sound, a ferocious snort, erupted just above him. He looked up, startled. Immense statues of trumpet-wielding Tritons jutted from the corners of the Lighthouse at this level; that great blurting sound had come from the nearest of them. A signal, he thought. A warning to the ships negotiating that troubled passage. The sound was produced by some kind of steam-powered mechanism, he realized, operated by teams of sweating temporaries clustered about bonfires at the base of each Triton.</p>
+   <p>Once again he found himself swept by admiration for the clever way these people carried out their reproductions of antiquity. Or <emphasis>were</emphasis> they reproductions, he wondered? He still did not understand how they brought their cities into being. For all he knew, this place was the authentic Alexandria itself, pulled forward out of its proper time just as he himself had been. Perhaps this was the true and original Lighthouse, and not a copy. He had no idea which was the case, nor which would be the greater miracle.'</p>
+   <p>'How do we get to the top?' Gioia asked.</p>
+   <p>'Over there, I think. That doorway.'</p>
+   <p>The spiralling donkey-ramps ended here. The loads of lantern fuel went higher via a dumb-waiter in the central shaft. Visitors continued by way of a cramped staircase, so narrow at its upper end that it was impossible to turn around while climbing. Gioia, tireless, sprinted ahead. He clung to the rail and laboured up and up, keeping count of the tiny window-slits to ease the boredom of the ascent. The count was nearing a hundred when finally he stumbled into the vestibule of the beacon chamber. A dozen or so visitors were crowded into it. Gioia was at the far side, by the wall that was open to the sea.</p>
+   <p>It seemed to him he could feel the building swaying in the winds, up here. How high were they? Five hundred feet, six hundred, seven? The beacon chamber was tall and narrow, divided by a catwalk into upper and lower sections. Down below, relays of temporaries carried wood from the dumb-waiter and tossed it on the blazing fire. He felt its intense heat from where he stood, at the rim of the platform on which the giant mirror of polished metal was hung. Tongues of flame leaped upwards and danced before the mirror, which hurled its dazzling beam far out to sea. Smoke rose through a vent. At the very top was a colossal statue of Poseidon, austere, ferocious, looming above the lantern.</p>
+   <p>Gioia sidled gong the catwalk until she was at his side. 'The guide was talking before you came,' she said, pointing. 'Do you see that place over there, under the mirror? Someone standing there and looking into the mirror gets a view of ships at sea that can't be seen from here by the naked eye. The mirror magnifies things.'</p>
+   <p>'Do you believe that?'</p>
+   <p>She nodded towards the guide. 'It said so. And it also told us that if you look in a certain way, you can see right across the water into the city of Constantinople.'</p>
+   <p>She is like a child, he thought. They all are. He said, 'You told me yourself this very morning that it isn't possible to see that far. Besides, Constantinople doesn't exist right now.'</p>
+   <p>'It will,' she replied. <emphasis>'You</emphasis> said that to me, this very morning. And when it does, it'll be reflected in the Lighthouse mirror. That's the truth. I'm absolutely certain of it.' She swung about abruptly towards the entrance of the beacon chamber. 'Oh, took, Charles! Here come Nissandra and Aramayne! And there's Hawk! There's Stengard!' Gioia laughed and waved and called out names. 'Oh, everyone's here! <emphasis>Everyone!</emphasis>'</p>
+   <p>They came jostling into the room, so many newcomers that some of those who had been there were forced to scramble down the steps on the far side. Gioia moved among them, hugging, kissing. Phillips could scarcely tell one from another - it was hard for him even to tell which were the men and which the women, dressed as they all were in the same sort of loose robes - but he recognized some of the names. These were her special friends, her set, with whom she had journeyed from city to city on an endless round of gaiety in the old days before he had come into her life. He had met a few of them before, in Asgard, in Rio, in Rome. The beacon-chamber guide, a squat wide-shouldered old temporary wearing a laurel wreath on its bald head, reappeared and began its potted speech, but no-one listened to it; they were all too busy greeting one another, embracing, giggling. Some of them edged their way over to Phillips and reached up, standing on tiptoes, to touch their fingertips to his cheek in that odd hello of theirs. 'Charles,' they said gravely, making two syllables out of the name, as these people often did. 'So good to see you again. Such a pleasure. You and Gioia - such a handsome couple. So well suited to each other.'</p>
+   <p>Was that so? He supposed it was.</p>
+   <p>The chamber hummed with chatter. The guide could not be heard at all. Stengard and Nissandra had visited New Chicago for the water-dancing - Aramayne bore tales of a feast in Chang-an that had gone on for <emphasis>days</emphasis> - Hawk and Hekna had been to Timbuctoo to see the arrival of the salt caravan, and were going back there soon - a final party soon to celebrate the end of Asgard that absolutely should not be missed - the plans for the new city, Mohenjo-daro - we have reservations for the opening, we wouldn't pass it up for anything - and, yes, they were definitely going to do Constantinople after that, the planners were already deep into their Byzantium research - so good to see you, you look so beautiful all the time - have you been to the Library yet? The zoo? To the temple of Serapis? -</p>
+   <p>To Phillips they said, 'What do you think of our Alexandria, Charles? Of course you must have known it well in your day. Does it look the way you remember it?' They were always asking things like that. They did not seem to comprehend that the Alexandria of the Lighthouse and the Library was long lost and legendary by the time his twentieth century had been. To them, he suspected, all the places they had brought back into existence were more or less contemporary. Rome of the Caesars, Alexandria of the Ptolemies, Venice of the Doges, Chang-an of the T'angs, Asgard of the Aesir, none any less real than the next nor any less unreal, each one simply a facet of the distant past, the fantastic immemorial past, a plum plucked from that dark backward abysm of time. They had no contexts for separating one era from another. To them all the past was one borderless timeless realm. Why then should he not have seen the Lighthouse before, he who had leaped into this era from the New York of 1984? He had never been able to explain it to them. Julius Caesar and Hannibal, Helen of Troy and Charlemagne, Rome of the gladiators and New York of the Yankees and Mets, Gilgamesh and Tristan and Othello and Robin Hood and George Washington and Queen Victoria - to them, all equally real and unreal, none of them any more than bright figures moving about on a painted canvas. The past, the past, the elusive and fluid past - to them it was a single place of infinite accessibility and infinite connectivity. Of course they would think he had seen the Lighthouse before. He knew better than to try again to explain things. 'No,' he said simply. 'This is my first time in Alexandria.'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>They stayed there all winter long, and possibly some of the spring. Alexandria was not a place where one was sharply aware of the change of seasons, nor did the passage of time itself make itself very evident when one was living one's entire life as a tourist.</p>
+   <p>During the day there was always something new to see. The zoological garden, for instance: a wondrous park, miraculously green and lush in this hot dry climate, where astounding animals roamed in enclosures so generous that they did not seem like enclosures at all. Here were camels, rhinoceroses, gazelles, ostriches, lions, wild asses; and here too, casually adjacent to those familiar African beasts, were hippogriffs, unicorns, basilisks and fire-snorting dragons with rainbow scales. Had the original zoo of Alexandria had dragons and unicorns? Phillips doubted it. But this one did; evidently it was no harder for the backstage craftsmen to manufacture mythic beasts than it was for them to turn out camels and gazelles. To Gioia and her friends all of them were equally mythical, anyway. They were just as awed by the rhinoceros as by the hippogriff. One was no more strange - nor any less - than the other. So far as Phillips had been able to discover, none of the mammals or birds of his era had survived into this one except for a few cats and dogs, though many had been reconstructed.</p>
+   <p>And then the Library! All those lost treasures, reclaimed from the jaws of time! Stupendous columned marble walls, airy high-vaulted reading-rooms, dark coiling stacks stretching away to infinity. The ivory handles of seven hundred thousand papyrus scrolls bristling on the shelves. Scholars and librarians gliding quietly about, smiling faint scholarly smiles but plainly preoccupied with serious matters of the mind. They were all temporaries, Phillips realized. Mere props, part of the illusion. But were the scrolls illusions too? 'Here we have the complete dramas of Sophocles,' said the guide with a blithe wave of its hand, indicating shelf upon shelf of texts. Only seven of his hundred and twenty-three plays had survived the successive burnings of the Library in ancient times by Romans, Christians, Arabs: were the lost ones here, the <emphasis>Triptolemus,</emphasis> the <emphasis>Nausicaa,</emphasis> the <emphasis>Jason</emphasis> and all the rest? And would he find here too, miraculously restored to being, the other vanished treasures of ancient literature - the memoirs of Odysseus, Cato's history of Rome, Thucydides' life of Pericles, the missing volumes of Livy? But when he asked if he might explore the stacks, the guide smiled apologetically and said that all the librarians were busy just now. Another time, perhaps? Perhaps, said the guide. It made no difference, Phillips decided. Even if these people somehow had brought back those lost masterpieces of antiquity, how would he read them? He knew no Greek.</p>
+   <p>The life of the city buzzed and throbbed about him. It was a dazzlingly beautiful place: the vast bay thick with sails, the great avenues running rigidly east-west, north-south, the sunlight rebounding almost audibly from the bright walls of the palaces of kings and gods. They have done this very well, Phillips thought: very well indeed. In the marketplace hard-eyed traders squabbled in half a dozen mysterious languages over the price of ebony, Arabian incense, jade, panther-skins. Gioia bought a dram of pale musky Egyptian perfume in a delicate tapering glass flask. Magicians and jugglers and scribes called out stridently to passersby, begging for a few moments of attention and a handful of coins for their labour. Strapping slaves, black and tawny and some that might have been Chinese, were put up for auction, made to flex their muscles, to bare their teeth, to bare their breasts and thighs to prospective buyers. In the gymnasium naked athletes hurled javelins and discuses, and wrestled with terrifying zeal. Gioia's friend Stengard came rushing up with a gift for her, a golden necklace that would not have embarrassed Cleopatra. An hour later she had lost it, or perhaps had given it away while Phillips was looking elsewhere. She bought another, even finer, the next day. Anyone could have all the money he wanted, simply by asking: it was as easy to come by as air, for these people.</p>
+   <p>Being here was much like going to the movies, Phillips told himself. A different show every day: not much plot, but the special effects were magnificent and the detail-work could hardly have been surpassed. A megamovie, a vast entertainment that went on all the time and was being played out by the whole population of Earth. And it was all so effortless, so spontaneous: just as when he had gone to a movie he had never troubled to think about the myriad technicians behind the scenes, the cameramen and the costume designers and the set-builders and the electricians and the model-makers and the boom operators, so too here he chose not to question the means by which Alexandria had been set before him. It felt real. It <emphasis>was</emphasis> real. When he drank the strong red wine it gave him a pleasant buzz. If he leaped from the beacon chamber of the Lighthouse he suspected he would die, though perhaps he would not stay dead for long: doubtless they had some way of restoring him as often as was necessary. Death did not seem to be a factor in these people's lives.</p>
+   <p>By day they saw sights. By night he and Gioia went to parties, in their hotel, in seaside villas, in the palaces of the high nobility. The usual people were there all the time: Hawk and Hekna, Aramayne, Stengard and Shelimir, Nissandra, Asoka, Afonso, Protay. At the parties there were five or ten temporaries for every citizen, some as mere servants, others as entertainers or even surrogate guests, mingling freely and a little daringly. But everyone knew, all the time, who was a citizen and who just a temporary. Phillips began to think his own status lay somewhere between. Certainly they treated him with a courtesy that no-one ever would give a temporary, and yet there was a condescension to their manner that told him not simply that he was not one of them but that he was someone or something of an altogether different order of existence. That he was Gioia's lover gave him some standing in their eyes, but not a great deal: obviously he was always going to be an outsider, a primitive, ancient and quaint. For that matter he noticed that Gioia herself, though unquestionably a member of the set, seemed to be regarded as something of an outsider, like a tradesman's great-granddaughter in a gathering of Plantagenets. She did not always find out about the best parties in time to attend; her friends did not always reciprocate her effusive greetings with the same degree of warmth; sometimes he noticed her straining to hear some bit of gossip that was not quite being shared with her. Was it because she had taken him for her lover? Or was it the other way around: that she had chosen to be his lover precisely because she was <emphasis>not</emphasis> a full member of their caste?</p>
+   <p>Being a primitive gave him, at least, something to talk about at their parties. 'Tell us about war,' they said. 'Tell us about elections. About money. About disease.' They wanted to know everything, though they did not seem to pay close attention: their eyes were quick to glaze. Still, they asked. He described traffic jams to them, and politics, and deodorants, and vitamin pills. He told them about cigarettes, newspapers, subways, telephone directories, credit cards and basketball. 'Which was your city?' they asked. New York, he told them. 'And when was it? The seventh century, did you say?' The twentieth, he told them. They exchanged glances and nodded. 'We will have to do it,' they said. 'The World Trade Center, the Empire State Building, the Citicorp Center, the Cathedral of St John the Divine: how fascinating! Yankee Stadium. The Verrazzano Bridge. We will do it all. But first must come Mohenjo-daro. And then, I think, Constantinople. Did your city have many people?' Seven million, he said. Just in the five boroughs alone. They nodded, smiling amiably, unfazed by the number. Seven million, seventy million - it was all the same to them, he sensed. They would just bring forth the temporaries in whatever quantity was required. He wondered how well they would carry the job off. He was no real judge of Atexandrias and Asgards, after all. Here they could have unicorns and hippogriffs in the zoo, and live sphinxes prowling in the gutters, and it did not trouble him. Their fanciful Alexandria was as good as history's, or better. But how sad, how disillusioning it would be, if the New York that they conjured up had Greenwich Village uptown and Times Square in the Bronx, and the New Yorkers, gentle and polite, spoke with the honeyed accents of Savannah or New Orleans. Well, that was nothing he needed to brood about just now. Very likely they were only being courteous when they spoke of doing his New York. They had all the vastness of the past to choose from: Nineveh, Memphis of the Pharaohs, the London of Victoria or Shakespeare or Richard III, Florence of the Medici, the Paris of Abelard and Heoпse or the Paris of Louis XIV, Montezuma's Tenochtitlan and Atahualpa's Cuzco; Damascus, St Petersburg, Babylon, Troy. And then there were all the cities like New Chicago, out of time that was time yet unborn to him but ancient history to them. In such richness, such an infinity of choices, even mighty New York might have to wait a long while for its turn. Would he still be among them by the time they got around to it? By then, perhaps, they might have become bored with him and returned him to his own proper era. Or possibly he would simply have grown old and died. Even here, he supposed, he would eventually die, though no-one else ever seemed to. He did not know. He realized that in fact he did not know anything.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>The north wind blew all day long. Vast flocks of ibises appeared over the city, fleeing the heat of the interior, and screeched across the sky with their black necks and scrawny legs extended. The sacred birds, descending by the thousand, scuttered about in every crossroad, pouncing on spiders and beetles, on mice, on the debris of the meat shops and the bakeries. They were beautiful but annoyingly ubiquitous, and they splashed their dung over the marble buildings; each morning squadrons of temporaries carefully washed it off. Gioia said little to him now. She seemed cool, withdrawn, depressed; and there was something almost intangible about her, as though she were gradually becoming transparent. He felt it would be an intrusion upon her privacy to ask her what was wrong. Perhaps it was only restlessness. She became religious, and presented costly offerings at the temples of Serapis, Isis, Poseidon, Pan. She went to the necropolis west of the city to lay wreaths on the tombs in the catacombs. In a single day she climbed the Lighthouse three times without any sign of fatigue. One afternoon he returned from a visit to the Library and found her naked on the patio; she had anointed herself all over with some aromatic green salve. Abruptly she said, 'I think it's time to leave Alexandria, don't you?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>She wanted to go to Mohenjo-daro, but Mohenjo-daro was not yet ready for visitors. Instead they flew eastwards to Chang-an, which they had not seen in years. It was Phillips's suggestion: he hoped that the cosmopolitan gaudiness of the old T'ang capital would lift her mood.</p>
+   <p>They were to be guests of the Emperor this time: an unusual privilege, which ordinarily had to be applied for far in advance, but Phillips had told some of Gioia's highly-placed friends that she was unhappy, and they had quickly arranged everything. Three endlessly bowing functionaries in flowing yellow robes and purple sashes met them at the Gate of Brilliant Virtue in the city's south wall and conducted them to their pavilion, close by the imperial palace and the Forbidden Garden. It was a light, airy place, thin walls of plastered brick braced by graceful columns of some dark, aromatic wood. Fountains played on the roof of green and yellow tiles, creating an unending cool rainfall of recirculating water. The balustrades were of carved marble, the door-fittings were of gold.</p>
+   <p>There was a suite of private rooms for him, and another for her, though they would share the handsome damask-draped bedroom at the heart of the pavilion. As soon as they arrived Gioia announced that she must go to her rooms to bathe and dress. 'There will be a formal reception for us at the palace tonight,' she said. 'They say the imperial receptions are splendid beyond anything you could imagine. I want to be at my best.' The Emperor and all his ministers, she told him, would receive them in the Hall of the Supreme Ultimate; there would be a banquet for a thousand people; Persian dancers would perform, and the celebrated jugglers of Chung-nan. Afterwards everyone would be conducted into the fantastic landscape of the Forbidden Garden to view the dragon-races and the fireworks.</p>
+   <p>He went to his own rooms. Two delicate little maidservants undressed him and bathed him with fragrant sponges. The pavilion came equipped with eleven temporaries who were to be their servants: soft-voiced unobtrusive catlike Chinese, done with perfect verisimilitude, straight black hair, glowing skin, epicanthic folds. Phillips often wondered what happened to a city's temporaries when the city's time was over. Were the towering Norse heroes of Asgard being recycled at this moment into wiry dark-skinned Dravidians for Mohenjo-daro? When Timbuctoo's day was done, would its brightly-robed black warriors be converted into supple Byzantines to stock the arcades of Constantinople? Or did they simply discard the old temporaries like so many excess props, stash them in warehouses somewhere, and turn out the appropriate quantities of the new model? He did not know; and once when he had asked Gioia about it she had grown uncomfortable and vague. She did not like him to probe for information, and he suspected it was because she had very little to give. These people did not seem to question the workings of their own world; his curiosities were very twentieth-century of him, he was frequently told, in that gently patronizing way of theirs. As his two little maids patted him with their sponges he thought of asking them where they had served before Chang-an. Rio? Rome? Haroun al-Raschid's Baghdad? But these fragile girls, he knew, would only giggle and retreat if he tried to question them. Interrogating temporaries was not only improper but pointless: it was like interrogating one's luggage.</p>
+   <p>When he was bathed and robed in rich red silks he wandered the pavilion for a little while, admiring the tinkling pendants of green jade dangling on the portico, the lustrous auburn pillars, the rainbow hues of the intricately interwoven girders and brackets that supported the roof. Then, wearying of his solitude, he approached the bamboo curtain at the entrance to Gioia's suite. A porter and one of the maids stood just within. They indicated that he should not enter; but he scowled at them and they melted from him like snowflakes. A trail of incense led him through the pavilion to Gioia's innermost dressing-room. There he halted, just outside the door.</p>
+   <p>Gioia sat naked with her back to him at an ornate dressing table of some rare flame-coloured wood inlaid with bands of orange and green porcelain. She was studying herself intently in a mirror of polished bronze held by one of her maids: picking through her scalp with her fingernails, as a woman might do who was searching out her grey hairs.</p>
+   <p>But that seemed strange. Grey hair, on Gioia? On a citizen? A temporary might display some appearance of ageing, perhaps, but surely not a citizen. Citizens remained forever young. Gioia looked like a girl. Her face was smooth and unlined, her flesh was firm, her hair was dark: that was true of all of them, every citizen he had ever seen. And yet there was no mistaking what Gioia was doing. She found a hair, frowned, drew it taut, nodded, plucked it. Another. Another. She pressed the tip of her finger to her cheek as if testing it for resilience. She tugged at the skin below her eyes, pulling it downwards. Such familiar little gestures of vanity; but so odd here, he thought, in this world of the perpetually young. Gioia, worried about growing old? Had he simply failed to notice the signs of age on her? Or was it that she worked hard behind his back at concealing them? Perhaps that was it. Was he wrong about the citizens, then? Did they age even as the people of less blessed eras had always done, but simply have better ways of hiding it? How old was she, anyway? Thirty? Sixty? Three hundred?</p>
+   <p>Gioia appeared satisfied now. She waved the mirror away; she rose; she beckoned for her banquet robes. Phillips, still standing unnoticed by the door, studied her with admiration: the small round buttocks, almost but not quite boyish, the elegant line of her spine, the surprising breadth of her shoulders. No, he thought, she is not ageing at all. Her body is still like a girl's. She looks as young as on the day they first had met, however long ago that was - he could not say; it was hard to keep track of time here; but he was sure some years had passed since they had come together. Those grey hairs, those wrinkles and sags for which she had searched just now with such desperate intensity, must all be imaginary, mere artefacts of vanity. Even in this remote future epoch, then, vanity was not extinct. He wondered why she was so concerned with the fear of ageing. An affectation? Did all these timeless people take some perverse pleasure in fretting over the possibility that they might be growing old? Or was it some private fear of Gioia's, another symptom of the mysterious depression that had come over her in Alexandria?</p>
+   <p>Not wanting her to think that he had been spying on her, when all he had really intended was to pay her a visit, he slipped silently away to dress for the evening. She came to him an hour later, gorgeously robed, swaddled from chin to ankles in a brocade of brilliant colours shot through with threads of gold, face painted, hair drawn up tightly and fastened with ivory combs: very much the lady of the court. His servants had made him splendid also, a lustrous black surplice embroidered with golden dragons over a sweeping floor-length gown of shining white silk, a necklace and pendant of red coral, a five-cornered grey felt hat that rose in tower upon tower like a ziggurat. Gioia, grinning, touched her fingertips to his cheek. 'You look marvellous!' she told him. 'Like a grand mandarin!'</p>
+   <p>'And you like an empress,' he said. 'Of some distant land: Persia, India. Here to pay a ceremonial visit on the Son of Heaven.' An access of love suffused his spirit, and, catching her lightly by the wrist, he drew her towards him, as close as he could manage it considering how elaborate their costumes were. But as he bent forward and downwards, meaning to brush his lips lightly and affectionately against the tip of her nose, he perceived an unexpected strangeness, an anomaly: the coating of white paint that was her make-up seemed oddly to magnify rather than mask the contours of her skin, highlighting and revealing details he had never observed before. He saw a pattern of fine lines radiating from the corners of her eyes, and the unmistakable beginning of a quirk-mark in her cheek just to the left of her mouth, and perhaps the faint indentation of frown-lines in her flawless forehead. A shiver travelled along the nape of his neck. So it was not affectation, then, that had had her studying her mirror so fiercely. Age was in truth beginning to stake its claim on her, despite all that he had come to believe about these people's agelessness. But a moment later he was not so sure. Gioia turned and slid gently half a step back from him - she must have found his stare disturbing - and the lines he had thought he had seen were gone. He searched for them and saw only girlish smoothness once again. A trick of the light? A figment of an overwrought imagination? He was baffled.</p>
+   <p>'Come,' she said. 'We mustn't keep the Emperor waiting.'</p>
+   <p>Five moustachioed warriors in armour of white quilting and seven musicians playing cymbals and pipes escorted them to the Hall of the Supreme Ultimate. There they found the full court arrayed: princes and ministers, high officials, yellow-robed monks, a swarm of imperial concubines. In a place of honour to the right of the royal thrones, which rose like gilded scaffolds high above all else, was a little group of stern-faced men in foreign costumes, the ambassadors of Rome and Byzantium, of Arabia and Syria, of Korea, Japan, Tibet, Turkestan. Incense smouldered in enamelled braziers. A poet sang a delicate twanging melody, accompanying himself on a small harp. Then the Emperor and Empress entered: two tiny aged people, like waxen images, moving with infinite slowness, taking steps no greater than a child's. There was the sound of trumpets as they ascended their thrones. When the little Emperor was seated - he looked like a doll up there, ancient, faded, shrunken, yet still somehow a figure of extraordinary power - he stretched forth both his hands, and enormous gongs began to sound. It was a scene of astonishing splendour, grand and overpowering.</p>
+   <p>These are all temporaries, Phillips realized suddenly. He saw only a handful of citizens - eight, ten, possibly as many as a dozen - scattered here and there about the vast room. He knew them by their eyes, dark, liquid, knowing. They were watching not only the imperial spectacle but also Gioia and him; and Gioia, smiling secretly, nodding almost imperceptibly to them, was acknowledging their presence and their interest. But those few were the only ones in here who were autonomous living beings. All the rest - the entire splendid court, the great mandarins and paladins, the officials, the giggling concubines, the haughty and resplendent ambassadors, the aged Emperor and Empress themselves, were simply part of the scenery. Had the world ever seen entertainment on so grand a scale before? All this pomp, all this pageantry, conjured up each night for the amusement of a dozen or so viewers?</p>
+   <p>At the banquet the little group of citizens sat together at a table apart, a round onyx slab draped with translucent green silk. There turned out to be seventeen of them in all, including Gioia; Gioia appeared to know all of them, though none, so far as he could tell, was a member of her set that he had met before. She did not attempt introductions. Nor was conversation at all possible during the meal: there was a constant astounding roaring din in the room. Three orchestras played at once and there were troupes of strolling musicians also, and a steady stream of monks and their attendants marched back and forth between the tables loudly chanting sutras and waving censers to the deafening accompaniment of drums and gongs. The Emperor did not descend from his throne to join the banquet; he seemed to be asleep, though now and then he waved his hand in time to the music. Gigantic half-naked brown slaves with broad cheekbones and mouths like gaping pockets brought forth the food, peacock tongues and breast of phoenix heaped on mounds of glowing saffron-coloured rice, served on frail alabaster plates. For chopsticks they were given slender rods of dark jade. The wine, served in glistening crystal beakers, was thick and sweet, with an aftertaste of raisins, and no beaker was allowed to remain empty for more than a moment. Phillips felt himself growing dizzy: when the Persian dancers emerged he could not tell whether there were five of them or fifty, and as they performed their intricate whirling routines it seemed to him that their slender muslin-veiled forms were blurring and merging one into another. He felt frightened by their proficiency, and wanted to look away, but he could not. The Chung-nan jugglers that followed them were equally skilful, equally alarming, filling the air with scythes, flaming torches, live animals, rare porcelain vases, pink jade hatchets, silver bells, gilded cups, wagon-wheels, bronze vessels, and never missing a catch. The citizens applauded politely but did not seem impressed. After the jugglers, the dancers returned, performing this time on stilts; the waiters brought platters of steaming meat of a pale lavender colour, unfamiliar in taste and texture: filet of camel, perhaps, or haunch of hippopotamus, or possibly some choice chop from a young dragon. There was more wine. Feebly Phillips tried to wave it away, but the servitors were implacable. This was a drier sort, greenish-gold, austere, sharp on the tongue. With it came a silver dish, chilled to a polar coldness, that held shaved ice flavoured with some potent smoky-flavoured brandy. The jugglers were doing a second turn, he noticed. He thought he was going to be ill. He looked helplessly towards Gioia, who seemed sober but fiercely animated, almost manic, her eyes blazing like rubies. She touched his cheek fondly. A cool draught blew through the hall: they had opened one entire wall, revealing the garden, the night, the stars. Just outside was a colossal wheel of oiled paper stretched on wooden struts. They must have erected it in the past hour: it stood a hundred and fifty feet high or even more, and on it hung lanterns by the thousands, glimmering like giant fireflies. The guests began to leave the hall. Phillips let himself be swept along into the garden, where under a yellow moon strange crook-armed trees with dense black needles loomed ominously. Gioia slipped her arm through his. They went down to a lake of bubbling crimson fluid and watched scarlet flamingo-like birds ten feet tall fastidiously spearing angry-eyed turquoise eels. They stood in awe before a fat-bellied Buddha of gleaming blue tilework, seventy feet high. A horse with a golden mane came prancing by, striking showers of brilliant red sparks wherever its hooves touched the ground. In a grove of lemon trees that seemed to have the power to wave their slender limbs about, Phillips came upon the Emperor, standing by himself and rocking gently back and forth. The old man seized Phillips by the hand and pressed something into his palm, closing his fingers tight about it; when he opened his fist a few moments later he found his palm full of grey irregular pearls. Gioia took them from him and cast them into the air, and they burst like exploding firecrackers, giving off splashes of coloured light. A little later, Phillips realized that he was no longer wearing his surplice or his white silken undergown. Gioia was naked too, and she drew him gently down into a carpet of moist blue moss, where they made love until dawn, fiercely at first, then slowly, languidly, dreamily. At sunrise he looked at her tenderly and saw that something was wrong.</p>
+   <p>'Gioia?' he said doubtfully.</p>
+   <p>She smiled. 'Ah, no. Gioia is with Fenimon tonight. I am Belilala.</p>
+   <p>'With - Fenimon?'</p>
+   <p>'They are old friends. She had not seen him in years.'</p>
+   <p>'Ah. I see. And you are -?'</p>
+   <p>'Belilala,' she said again, touching her fingertips to his cheek.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>It was not unusual, Belilala said. It happened all the time; the only unusual thing was that it had not happened to him before now. Couples formed, travelled together for a while, drifted apart, eventually reunited. It did not mean that Gioia had left him for ever. It meant only that just now she chose to be with Fenimon. Gioia would return. In the meanwhile he would not be alone. 'You and I met in New Chicago,' Belilala told him. 'And then we saw each other again in Timbuctoo. Have you forgotten? Oh, yes, I see that you have forgotten!' She laughed prettily; she did not seem at all offended.</p>
+   <p>She looked enough like Gioia to be her sister. But, then, all the citizens looked more or less alike to him. And apart from their physical resemblance, so he quickly came to realize, Belilala and Gioia were not really very similar. There was a calmness, a deep reservoir of serenity, in Belilala, that Gioia, eager and volatile and ever impatient, did not seem to have. Strolling the swarming streets of Chang-an with Belilala, he did not perceive in her any of Gioia's restless feverish need always to know what lay beyond, and beyond, and beyond even that. When they toured the Hsing-ch'ing Palace, Belilala did not after five minutes begin - as Gioia surely would have done - to seek directions to the Fountain of Hsuan-tsung or the Wild Goose Pagoda. Curiosity did not consume Belilala as it did Gioia. Plainly she believed that there would always be enough time for her to see everything she cared to see. There were some days when Belilala chose not to go out at all, but was content merely to remain at their pavilion playing a solitary game with flat porcelain counters, or viewing the flowers of the garden.</p>
+   <p>He found, oddly, that he enjoyed the respite from Gioia's intense world-swallowing appetites; and yet he longed for her to return. Belilala - beautiful, gentle, tranquil, patient - was too perfect for him. She seemed unreal in her gleaming impeccability, much like one of those Sung celadon vases that appear too flawless to have been thrown and glazed by human hands. There was something a little soulless about her: an immaculate finish outside, emptiness within. Belilala might almost have been a temporary, he thought, though he knew she was not. He could explore the pavilions and palaces of Chang-an with her, he could make graceful conversation with her while they dined, he could certainly enjoy coupling with her; but he could not love her or even contemplate the possibility. It was hard to imagine Belilala worriedly studying herself in a mirror for wrinkles and grey hairs. Belilala would never be any older than she was at this moment; nor could Belilala ever have been any younger. Perfection does not move along an axis of time. But the perfection of Belilala's glossy surface made her inner being impenetrable to him. Gioia was more vulnerable, more obviously flawed - her restlessness, her moodiness, her vanity, her fears - and therefore she was more accessible to his own highly imperfect twentieth-century sensibility.</p>
+   <p>Occasionally he saw Gioia as he roamed the city, or thought he did. He had a glimpse of her among the miracle-vendors in the Persian Bazaar, and outside the Zoroastrian temple, and again by the goldfish pond in the Serpentine Park. But he was never quite sure that the woman he saw was really Gioia, and he never could get close enough to her to be certain: she had a way of vanishing as he approached, like some mysterious Lorelei luring him onwards and onwards in a hopeless chase. After a while he came to realize that he was not going to find her until she was ready to be found.</p>
+   <p>He lost track of time. Weeks, months, years? He had no idea. In this city of exotic luxury, mystery and magic, all was in constant flux and transition and the days had a fitful, unstable quality. Buildings and even whole streets were torn down of an afternoon and re-erected, within days, far away. Grand new pagodas sprouted like toadstools in the night. Citizens came in from Asgard, Alexandria, Timbuctoo, New Chicago, stayed for a time, disappeared, returned. There was a constant round of court receptions, banquets, theatrical events, each one much like the one before. The festivals in honour of past emperors and empresses might have given some form to the year, but they seemed to occur in a random way, the ceremony marking the death of T'ai Tsung coming around twice the same year, so it seemed to him, once in a season of snow and again in high summer, and the one honouring the ascension of the Empress Wu being held twice in a single season. Perhaps he had misunderstood something. But he knew it was no use asking anyone.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>One day Belilala said unexpectedly, 'Shall we go to Mohenjo-daro?'</p>
+   <p>'I didn't know it was ready for visitors,' he replied.</p>
+   <p>'Oh, yes. For quite some time now.'</p>
+   <p>He hesitated. This had caught him unprepared. Cautiously he said, 'Gioia and I were going to go there together, you know.'</p>
+   <p>Belilala smiled amiably, as though the topic under discussion were nothing more than the choice of that evening's restaurant.</p>
+   <p>'Were you?' she asked.</p>
+   <p>'It was all arranged while we were still in Alexandria. To go with you instead - I don't know what to tell you, Belilala.' Phillips sensed that he was growing terribly flustered. 'You know that I'd like to go. With you. But on the other hand I can't help feeling that I shouldn't go there until I'm back with Gioia again. If I ever am.' How foolish this sounds, he thought. How clumsy, how adolescent. He found that he was having trouble looking straight at her. Uneasily he said, with a kind of desperation in his voice, 'I did promise her - there was a commitment, you understand - a firm agreement that we would go to Mohenjo-daro together - '</p>
+   <p>'Oh, but Gioia's already there!' said Belilala in the most casual way.</p>
+   <p>He gaped as though she had punched him.</p>
+   <p><emphasis>'What?</emphasis>'</p>
+   <p>'She was one of the first to go, after it opened. Months and months ago. You didn't know?' she asked, sounding surprised, but not very. 'You really didn't know?'</p>
+   <p>That astonished him. He felt bewildered, betrayed, furious. His cheeks grew hot, his mouth gaped. He shook his head again and again, trying to clear it of confusion. It was a moment before he could speak. 'Already there?' he said at last. 'Without waiting for me? After we had talked about going there together - after we had agreed - '</p>
+   <p>Belilala laughed. 'But how could she resist seeing the newest city? You know how impatient Gioia is!'</p>
+   <p>'Yes. Yes.'</p>
+   <p>He was stunned. He could barely think.</p>
+   <p>'Just like all short-timers,' Belilala said. 'She rushes here, she rushes there. She must have it all, now, now, right away, at once, instantly. You ought never to expect her to wait for you for anything for very long: the fit seizes her, and off she goes. Surely you must know that about her by now.'</p>
+   <p>'A short-timer?' He had not heard that term before.</p>
+   <p>'Yes. You knew that. You must have known that.' Belilala flashed her sweetest smile. She showed no sign of comprehending his distress. With a brisk wave of her hand she said, 'Well, then, shall we go, you and I? To Mohenjo-daro?'</p>
+   <p>'Of course,' Phillips said bleakly.</p>
+   <p>'When would you like to leave?'</p>
+   <p>'Tonight,' he said. He paused a moment. 'What's a short-timer, Belilala?'</p>
+   <p>Colour came to her cheeks. 'Isn't it obvious?' she asked.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>Had there ever been a more hideous place on the face of the earth than the city of Mohenjo-daro? Phillips found it difficult to imagine one. Nor could he understand why, out of all the cities that had ever been, these people had chosen to restore this one to existence. More than ever they seemed alien to him, unfathomable, incomprehensible.</p>
+   <p>From the terrace atop the many-towered citadel he peered down into grim claustrophobic Mohenjo-daro and shivered. The stark, bleak city looked like nothing so much as some prehistoric prison colony. In the manner of an uneasy tortoise it huddled, squat and compact, against the grey monotonous Indus River plain: miles of dark burnt-brick walls enclosing miles of terrifyingly orderly streets, laid out in an awesome, monstrous gridiron pattern of maniacal rigidity. The houses themselves were dismal and forbidding too, clusters of brick cells gathered about small airless courtyards. There were no windows, only small doors that opened not on to the main boulevards but on to the tiny mysterious lanes that ran between the buildings. Who had designed this horrifying metropolis? What harsh sour souls they must have had, these frightening and frightened folk, creating for themselves in the lush fertile plains of India such a Supreme Soviet of a city!</p>
+   <p>'How lovely it is,' Belilala murmured. 'How fascinating!'</p>
+   <p>He stared at her in amazement.</p>
+   <p>'Fascinating? Yes,' he said. 'I suppose so. The same way that the smile of a cobra is fascinating.'</p>
+   <p>'What's a cobra?'</p>
+   <p>'Poisonous predatory serpent,' Phillips told her. 'Probably extinct. Or formerly extinct, more likely. It wouldn't surprise me if you people had re-created a few and turned them loose in Mohenjo to make things livelier.'</p>
+   <p>'You sound angry, Charles.'</p>
+   <p>'Do I? That's not how I feel.'</p>
+   <p>'How do you feel, then?'</p>
+   <p>'I don't know,' he said after a long moment's pause. He shrugged. 'Lost, I suppose. Very far from home.'</p>
+   <p>'Poor Charles.'</p>
+   <p>'Standing here in this ghastly barracks of a city, listening to you tell me how beautiful it is, I've never felt more alone in my life.'</p>
+   <p>'You miss Gioia very much, don't you?'</p>
+   <p>He gave her another startled look.</p>
+   <p>'Gioia has nothing to do with it. She's probably been having ecstasies over the loveliness of Mohenjo just like you. Just like all of you. I suppose I'm the only one who can't find the beauty, the charm. I'm the only one who looks out there and sees only horror, and then wonders why nobody else sees it, why in fact people would set up a place like this for <emphasis>entertainment,</emphasis> for <emphasis>pleasure</emphasis> - '</p>
+   <p>Her eyes were gleaming. 'Oh, you are angry! You really are!'</p>
+   <p>'Does that fascinate you too?' he snapped. 'A demonstration of genuine primitive emotion? A typical quaint twentieth-century outburst?' He paced the rampart in short quick anguished steps. 'Ah. Ah. I think I understand it now, Belilala. Of course: I'm part of your circus, the star of the sideshow. I'm the first experiment in setting up the next stage of it, in fact.' Her eyes were wide. The sudden harshness and violence in his voice seemed to be alarming and exciting her at the same time. That angered him even more. Fiercely he went on, 'Bringing whole cities back out of time was fun for a while, but it lacks a certain authenticity, eh? For some reason you couldn't bring the inhabitants too; you couldn't just grab a few million prehistorics out of Egypt or Greece or India and dump them down in this era, I suppose because you might have too much trouble controlling them, or because you'd have the problem of disposing of them once you were bored with them. So you had to settle for creating temporaries to populate your ancient cities. But now you've got me. I'm something more real than a temporary, and that's a terrific novelty for you, and novelty is the thing you people crave more than anything else: maybe the <emphasis>only</emphasis> thing you crave. And here I am, complicated, unpredictable, edgy, capable of anger, fear, sadness, love and all those other formerly extinct things. Why settle for picturesque architecture when you can observe picturesque emotion, too? What fun I must be for all of you! And if you decide that I was really interesting, maybe you'll ship me back where I came from and check out a few other ancient types - a Roman gladiator, maybe, or a Renaissance pope, or even a Neanderthal or two - '</p>
+   <p>'Charles,' she said tenderly. 'Oh, Charles, Charles, Charles, how lonely you must be, how lost, how troubled! Will you ever forgive me? Will you ever forgive us all?'</p>
+   <p>Once more he was astounded by her. She sounded entirely sincere, altogether sympathetic. Was she? Was she, really? He was not sure he had ever had a sign of genuine caring from any of them before, not even Gioia. Nor could he bring himself to trust Belilala now. He was afraid of her, afraid of all of them, of their brittleness, their slyness, their elegance. He wished he could go to her and have her take him in her arms; but he felt too much the shaggy prehistoric just now to be able to risk asking that comfort of her.</p>
+   <p>He turned away and began to walk around the rim of the citadel's massive wall.</p>
+   <p>'Charles?'</p>
+   <p>'Let me alone for a little while,' he said.</p>
+   <p>He walked on. His forehead throbbed and there was a pounding in his chest. All stress systems going full blast, he thought: secret glands dumping gallons of inflammatory substances into his bloodstream. The heat, the inner confusion, the repellent look of this place -</p>
+   <p>Try to understand, he thought. Relax. Look about you. Try to enjoy your holiday in Mohenjo-daro.</p>
+   <p>He leaned warily outwards over the edge of the wall. He had never seen a wall like this; it must be forty feet thick at the base, he guessed, perhaps even more, and every brick perfectly shaped, meticulously set. Beyond the great rampart, marshes ran almost to the edge of the city, although close by the wall the swamps had been dammed and drained for agriculture. He saw lithe brown farmers down there, busy with their wheat and barley and peas. Cattle and buffaloes grazed a little farther out. The air was heavy, dank, humid. All was still. From somewhere close at hand came the sound of a droning, whining stringed instrument and a steady insistent chanting.</p>
+   <p>Gradually a sort of peace pervaded him. His anger subsided. He felt himself beginning to grow calm again. He looked back at the city, the rigid interlocking streets, the maze of inner lanes, the millions of courses of precise brickwork.</p>
+   <p>It is a miracle, he told himself, that this city is here in this place and at this time. And it is a miracle that I am here to see it.</p>
+   <p>Caught for a moment by the magic within the bleakness, he thought he began to understand Belilala's awe and delight, and he wished now that he had not spoken to her so sharply. The city was alive. Whether it was the actual Mohenjo-daro of thousands upon thousands of years ago, ripped from the past by some wondrous hook, or simply a cunning reproduction, did not matter at all. Real or not, this was the true Mohenjo-daro. It had been dead and now, for the moment, it was alive again. These people, these <emphasis>citizens,</emphasis> might be trivial, but reconstructing Mohenjo-daro was no trivial achievement. And that the city that had been reconstructed was oppressive and sinister-looking was unimportant. No-one was compelled to live in Mohenjo-daro any more. Its time had come and gone, long ago; those little dark-skinned peasants and craftsmen and merchants down there were mere temporaries, mere inanimate things, conjured up like zombies to enhance the illusion. They did not need his pity. Nor did he need to pity himself. He knew that he should be grateful for the chance to behold these things. Some day, when this dream had ended and his hosts had returned him to the world of subways and computers and income tax and television networks, he would think of Mohenjo-daro as he had once beheld it, lofty walls of tightly woven dark brick under a heavy sky, and he would remember only its beauty.</p>
+   <p>Glancing back, he searched for Belilala and could not for a moment find her. Then he caught sight of her carefully descending a narrow staircase that angled down the inner face of the citadel wall.</p>
+   <p>'Belilala!' he called.</p>
+   <p>She paused and looked his way, shading her eyes from the sun with her hand. 'Are you all right?'</p>
+   <p>'Where are you going?'</p>
+   <p>'To the baths,' she said. 'Do you want to come?'</p>
+   <p>He nodded. 'Yes. Wait for me, will you? I'll be right there.'</p>
+   <p>He began to run towards her along the top of the wall.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>The baths were attached to the citadel: a great open tank the size of a large swimming pool, lined with bricks set on edge in gypsum mortar and waterproofed with asphalt, and eight smaller tanks just north of it in a kind of covered arcade. He supposed that in ancient times the whole complex had had some ritual purpose, the large tank used by common folk and the small chambers set aside for the private ablutions of priests or nobles. Now the baths were maintained, it seemed, entirely for the pleasure of visiting citizens. As Phillips came up the passageway that led to the main bath he saw fifteen or twenty of them lolling in the water or padding languidly about, while temporaries of the dark-skinned Mohenjo-daro type served them drinks and pungent little morsels of spiced meat as though this were some sort of luxury resort. Which was, he realized, exactly what it was. The temporaries wore white cotton loincloths; the citizens were naked. In his former life he had encountered that sort of casual public nudity a few times on visits to California and the south of France, and it had made him mildly uneasy. But he was growing accustomed to it here.</p>
+   <p>The changing-rooms were tiny brick cubicles connected by rows of closely placed steps to the courtyard that surrounded the central tank. They entered one and Belilala swiftly slipped out of the loose cotton robe that she had worn since their arrival that morning. With arms folded she stood leaning against the wall, waiting for him. After a moment he dropped his own robe and followed her outside. He felt a little giddy, sauntering around naked in the open like this.</p>
+   <p>On the way to the main bathing area they passed the private baths. None of them seemed to be occupied. They were elegantly constructed chambers, with finely jointed brick floors and carefully designed runnels to drain excess water into the passageway that led to the primary drain. Phillips was struck with admiration for the cleverness of the prehistoric engineers. He peered into this chamber and that to see how the conduits and ventilating ducts were arranged, and when he came to the last room in the sequence he was surprised and embarrassed to discover that it was in use. A brawny grinning man, big-muscled, deep-chested, with exuberantly flowing shoulder-length red hair and a flamboyant, sharply tapering beard was thrashing about merrily with two women in the small tank. Phillips had a quick glimpse of a lively tangle of arms, legs, breasts, buttocks.</p>
+   <p>'Sorry,'he muttered. His cheeks reddened. Quickly he ducked out, blurting apologies as he went. 'Didn't realize the room was occupied - no wish to intrude - '</p>
+   <p>Belilala had proceeded on down the passageway. Phillips hurried after her. From behind him came peals of cheerful raucous booming laughter and high-pitched giggling and the sound of splashing water. Probably they had not even noticed him.</p>
+   <p>He paused a moment, puzzled, playing back in his mind that one startling glimpse. Something was not right. Those women, he was fairly sure, were citizens: little slender elfin dark-haired girlish creatures, the standard model. But the man? That great curling sweep of red hair? Not a citizen. Citizens did not affect shoulder-length hair. And <emphasis>red?</emphasis> Nor had he ever seen a citizen so burly, so powerfully muscular. Or one with a beard. But he could hardly be a temporary, either. Phillips could conceive no reason why there would be so Anglo-Saxon-looking a temporary at Mohenjo-daro; and it was unthinkable for a temporary to be frolicking like that with citizens, anyway.</p>
+   <p>'Charles?'</p>
+   <p>He looked up ahead. Belilala stood at the end of the passageway, outlined in a nimbus of brilliant sunlight. 'Charles?' she said again. 'Did you lose your way?'</p>
+   <p>'I'm right here behind you,' he said. 'I'm coming.'</p>
+   <p>'Who did you meet in there?'</p>
+   <p>'A man with a beard.'</p>
+   <p>'With a what?'</p>
+   <p>'A beard,' he said. 'Red hair growing on his face. I wonder who he is.'</p>
+   <p>'Nobody I know,' said Belilala. 'The only one I know with hair on his face is you. And yours is black, and you shave it off every day.' She laughed. 'Come along, now! I see some friends by the pool!'</p>
+   <p>He caught up with her and they went hand in hand out into the courtyard. Immediately a waiter glided up to them, an obsequious little temporary with a tray of drinks. Phillips waved it away and headed for the pool. He felt terribly exposed: he imagined that the citizens disporting themselves here were staring intently at him, studying his hairy primitive body as though he were some mythical creature, a Minotaur, a werewolf, summoned up for their amusement. Belilala drifted off to talk to someone and he slipped into the water, grateful for the concealment it offered. It was deep, warm, comforting. With swift powerful strokes he breast-stroked from one end to the other.</p>
+   <p>A citizen perched elegantly on the pool's rim smiled at him. 'Ah, so you've come at last, Charles!' Char-less. Two syllables. Someone from Gioia's set: Stengard, Hawk, Aramayne? He could not remember which one. They were all so much alike. Phillips returned the man's smile in a half-hearted, tentative way. He searched for something to say and finally asked, 'Have you been here long?'</p>
+   <p>'Weeks. Perhaps months. What a splendid achievement this city is, eh, Charles? Such utter unity of mood - such a total statement of a uniquely single-minded aesthetic - '</p>
+   <p>'Yes. Single-minded is the word,' Phillips said drily.</p>
+   <p>'Gioia's word, actually. Gioia's phrase. I was merely quoting.'</p>
+   <p><emphasis>Gioia.</emphasis> He felt as if he had been stabbed.</p>
+   <p>'You've spoken to Gioia lately?' he said.</p>
+   <p>'Actually, no. It was Hekna who saw her. You do remember Hekna, eh?' He nodded towards two naked women standing on the brick platform that bordered the pool, chatting, delicately nibbling morsels of meat. They could have been twins. 'There is Hekna, with your Belilala.' Hekna, yes. So this must be Hawk, Phillips thought, unless there has been some recent shift of couples. 'How sweet she is, your Belilala,' Hawk said. 'Gioia chose very wisely when she picked her for you.'</p>
+   <p>Another stab: a much deeper one. 'Is that how it was?' he said. 'Gioia <emphasis>picked</emphasis> Belilala for me?'</p>
+   <p>'Why, of course!' Hawk seemed surprised. It went without saying, evidently. 'What did you think? That Gioia would merely go off and leave you to fend for yourself?'</p>
+   <p>'Hardly. Not Gioia.'</p>
+   <p>'She's very tender, very gentle, isn't she?'</p>
+   <p>'You mean Belilala? Yes, very,' said Phillips carefully. 'A dear woman, a wonderful woman. But of course I hope to get together with Gioia again soon.' He paused. 'They say she's been in Mohenjo-daro almost since it opened.'</p>
+   <p>'She was here, yes.'</p>
+   <p><emphasis>'Was?</emphasis></p>
+   <p>'Oh, you know Gioia,' Hawk said lightly. 'She's moved along by now, naturally.'</p>
+   <p>Phillips leaned forward. 'Naturally,' he said. Tension thickened his voice. 'Where has she gone this time?'</p>
+   <p>'Timbuctoo, I think. Or New Chicago. I forget which one it was. She was telling us that she hoped to be in Timbuctoo for the closing-down party. But then Fenimon had some pressing reason for going to New Chicago. I can't remember what they decided to do.' Hawk gestured sadly. 'Either way, a pity that she left Mohenjo before the new visitor came. She had such a rewarding time with you, after all: I'm sure she'd have found much to learn from him also.'</p>
+   <p>The unfamiliar term twanged an alarm deep in Phillips's consciousness. <emphasis>'Visitor?'</emphasis> he said, angling his head sharply towards Hawk. 'What visitor do you mean?'</p>
+   <p>'You haven't met him yet? Oh, of course, you've only just arrived.'</p>
+   <p>Phillips moistened his lips. 'I think I may have seen him. Long red hair? Beard like this?'</p>
+   <p>'That's the one! Willoughby, he's called. He's - what? - a Viking, a pirate, something like that. Tremendous vigour and force. Remarkable person. We should have many more visitors, I think. They're far superior to temporaries, everyone agrees. Talking with a temporary is a little like talking to one's self, wouldn't you say? They give you no significant illumination. But a visitor - someone like this Willoughby - or like you, Charles - a visitor can be truly enlightening, a visitor can transform one's view of reality - '</p>
+   <p>'Excuse me,' Phillips said. A throbbing began behind his forehead. 'Perhaps we can continue this conversation later, yes?' He put the flats of his hands against the hot brick of the platform and hoisted himself swiftly from the pool. 'At dinner, maybe - or afterwards - yes? All right?' He set off at a quick half-trot back towards the passageway that led to the private baths.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>As he entered the roofed part of the structure his throat grew dry, his breath suddenly came short. He padded quickly up the hall and peered into the little bath-chamber. The bearded man was still there, sitting up in the tank, breast-high above the water, with one arm around each of the women. His eyes gleamed with fiery intensity in the dimness. He was grinning in marvellous self-satisfaction; he seemed to brim with intensity, confidence, gusto.</p>
+   <p>Let him be what I think he is, Phillips prayed. I have been alone among these people long enough.</p>
+   <p>'May I come in?' he asked.</p>
+   <p>'Aye, fellow!' cried the man in the tub thunderously. 'By my troth, come ye in, and bring your lass as well! God's teeth, I wot there's room aplenty for more folk in this tub than we!'</p>
+   <p>At that great uproarious outcry Phillips felt a powerful surge of joy. What a joyous rowdy voice! How rich, how lusty, how totally uncitizen-like!</p>
+   <p>And those oddly archaic words! <emphasis>God's teeth? By my troth?</emphasis> What sort of talk was that? What else but the good pure sonorous Elizabethan diction! Certainly it had something of the roll and fervour of Shakespeare about it. And spoken with - an Irish brogue, was it? No, not quite: it was English, but English spoken in no manner Phillips had ever heard.</p>
+   <p>Citizens did not speak that way. But a <emphasis>visitor</emphasis> might.</p>
+   <p>So it was true. Relief flooded Phillips's soul. Not alone, then! Another relict of a former age - another wanderer - a companion in chaos, a brother in adversity - a fellow voyager, tossed even farther than he had been by the tempests of time -</p>
+   <p>The bearded man grinned heartily and beckoned to Phillips with a toss of his head. 'Well, join us, join us, man! 'Tis good to see an English face again, amidst all these Moors and rogue Portugals! But what have ye done with thy lass? One can never have enough wenches, d'ye not agree?'</p>
+   <p>The force and vigour of him were extraordinary: almost too much so. He roared, he bellowed, he boomed. He was so very much what he ought to be that he seemed more a character out of some old pirate movie than anything else, so blustering, so real, that he seemed unreal. A stage-Elizabethan, larger than life, a boisterous young Falstaff without the belly.</p>
+   <p>Hoarsely Phillips said, 'Who are you?'</p>
+   <p>'Why, Ned Willoughby's son Francis am I, of Plymouth. Late of the service of Her Most Protestant Majesty, but most foully abducted by the powers of darkness and cast away among these blackamoor Hindus, or whatever they be. And thyself?'</p>
+   <p>'Charles Phillips.' After a moment's uncertainty he added, 'I'm from New York.'</p>
+   <p><emphasis>'New</emphasis> York? What place is that? In faith, man, I know it not!'</p>
+   <p>'A city in America.'</p>
+   <p>'A city in America, forsooth! What a fine fancy that is! In America, you say, and not on the Moon, or perchance underneath the sea?' To the women Willoughby said, 'D'ye hear him? He comes from a city in America! With the face of an Englishman, though not the manner of one, and not quite the proper sort of speech. A city in America! A <emphasis>city.</emphasis> God's blood, what will I hear next?'</p>
+   <p>Phillips trembled. Awe was beginning to take hold of him. This man had walked the streets of Shakespeare's London, perhaps. He had clinked canisters with Marlowe or Essex or Walter Raleigh; he had watched the ships of the Armada wallowing in the Channel. It strained Phillips's spirit to think of it. This strange dream in which he found himself was compounding its strangeness now. He felt like a weary swimmer assailed by heavy surf, winded, dazed. The hot close atmosphere of the baths was driving him towards vertigo. There could be no doubt of it any longer. He was not the only primitive - the only <emphasis>visitor</emphasis> - who was wandering loose in this fiftieth century. They were conducting other experiments as well. He gripped the sides of the door to steady himself and said, 'When you speak of Her Most Protestant Majesty, it's Elizabeth the First you mean, is that not so?'</p>
+   <p>'Elizabeth, aye! As to the First, that is true enough, but why trouble to name her thus? There is but one. First and Last, I do trow, and God save her, there is no other!'</p>
+   <p>Phillips studied the other man warily. He knew that he must proceed with care. A misstep at this point and he would forfeit any chance that Willoughby would take him seriously. How much metaphysical bewilderment, after all, could this man absorb? What did he know, what had anyone of his time known, of past and present and future and the notion that one might somehow move from one to the other as readily as one would go from Surrey to Kent? That was a twentieth-century idea, late-nineteenth at best, a fantastical speculation that very likely no one had even considered before Wells had sent his time traveller off to stare at the reddened sun of the Earth's last twilight. Willoughby's world was a world of Protestants and Catholics, of kings and queens, of tiny sailing vessels, of swords at the hip and ox-carts on the road: that world seemed to Phillips far more alien and distant than was this world of citizens and temporaries. The risk that Willoughby would not begin to understand him was great.</p>
+   <p>But this man and he were natural allies against a world they had never made. Phillips chose to take the risk.</p>
+   <p>'Elizabeth the First is the queen you serve,' he said. 'There will be another of her name in England, in due time. Has already been, in fact.'</p>
+   <p>Willoughby shook his head like a puzzled lion. 'Another Elizabeth, d'ye say?'</p>
+   <p>'A second one, and not much like the first. Long after your Virgin Queen, this one. She will reign in what you think of as the days to come. That I know without doubt.'</p>
+   <p>The Englishman peered at him and frowned. 'You see the future? Are you a soothsayer, then? A necromancer, mayhap? Or one of the very demons that brought me to this place?'</p>
+   <p>'Not at all,' Phillips said gently. 'Only a lost soul, like yourself.' He stepped into the little room and crouched by the side of the tank. The two citizen-women were staring at him in bland fascination. He ignored them. To Willoughby he said, 'Do you have any idea where you are?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>The Englishman had guessed, rightly enough, that he was in India: 'I do believe these little brown Moorish folk are of the Hindy sort,' he said. But that was as far as his comprehension of what had befallen him could go.</p>
+   <p>It had not occurred to him that he was no longer living in the sixteenth century. And of course he did not begin to suspect that this strange and sombre brick city in which he found himself was a wanderer out of an era even more remote than his own. Was there any way, Phillips wondered, of explaining that to him?</p>
+   <p>He had been here only three days. He thought it was devils that had carried him off. 'While I slept did they come for me,' he said. 'Mephistophilis Sathanas his henchmen seized me - God alone can say why - and swept me in a moment out to this torrid realm from England, where I had reposed among friends and family. For I was between one voyage and the next, you must understand, awaiting Drake and his ship - you know Drake, the glorious Francis? God's blood, there's a mariner for ye! We were to go to the Main again, he and I, but instead here I be in this other place - ' Willoughby leaned close and said, 'I ask you, soothsayer, how can it be, that a man go to sleep in Plymouth and wake up in India? It is passing strange, is it not?'</p>
+   <p>'That it is,' Phillips said.</p>
+   <p>'But he that is in the dance must needs dance on, though he do but hop, eh? So do I believe.' He gestured towards the two citizen-women. 'And therefore to console myself in this pagan land I have found me some sport among these little Portugal women - '</p>
+   <p>'Portugal?' said Phillips.</p>
+   <p>'Why, what else can they be, but Portugals? Is it not the Portugals who control all these coasts of India? See, the people are of two sorts here, the blackamoors and the others, the fair-skinned ones, the lords and masters who lie here in these baths. If they be not Hindus, and I think they are not, then Portugals is what they must be.' He laughed and pulled the women against himself and rubbed his hands over their breasts as though they were fruits on a vine. 'is that not what you are, you little naked shameless Papist wenches? A pair of Portugals, eh?'</p>
+   <p>They giggled, but did not answer.</p>
+   <p>'No,' Phillips said. 'This is India, but not the India you think you know. And these women are not Portuguese.'</p>
+   <p>'Not Portuguese?' Willoughby said, baffled.</p>
+   <p>'No more so than you. I'm quite certain of that.'</p>
+   <p>Willoughby stroked his beard. 'I do admit I found them very odd, for Portugals. I have heard not a syllable of their Portugee speech on their lips. And it is strange also that they run naked as Adam and Eve in these baths, and allow me free plunder of their women, which is not the way of Portugals at home, God wot. But I thought me, this is India, they choose to live in another fashion here - '</p>
+   <p>'No,' Phillips said. 'I tell you, these are not Portuguese, nor any other people of Europe who are known to you.'</p>
+   <p>'Prithee, who are they, then?'</p>
+   <p>Do it delicately, now, Phillips warned himself. <emphasis>Delicately</emphasis>.</p>
+   <p>He said, 'It is not far wrong to think of them as spirits of some kind - demons, even. Or sorcerers who have magicked us out of our proper places in the world.' He paused, groping for some means to share with Willoughby, in a way that Willoughby might grasp, this mystery that had enfolded them. He drew a deep breath. 'They've taken us not only across the sea,' he said, 'but across the years as well. We have both been hauled, you and I, far into the days that are to come.'</p>
+   <p>Willoughby gave him a look of blank bewilderment.</p>
+   <p>'Days that are to come? Times yet unborn, d'ye mean? Why, I comprehend none of that!'</p>
+   <p>'Try to understand. We're both castaways in the same boat, man! But there's no way we can help each other if I can't make you see - '</p>
+   <p>Shaking his head, Willoughby muttered, 'In faith, good friend, I find your words the merest folly. Today is today, and tomorrow is tomorrow, and how can a man step from one to t'other until tomorrow be turned into today?'</p>
+   <p>'I have no idea,' said Phillips. Struggle was apparent on Willoughby's face; but plainly he could perceive no more than the haziest outline of what Phillips was driving at, if that much. 'But this I know,' he went on. 'That your world and all that was in it is dead and gone. And so is mine, though I was born four hundred years after you, in the time of the second Elizabeth.'</p>
+   <p>Willoughby snorted scornfully. 'Four hundred - '</p>
+   <p>'You must believe me!'</p>
+   <p>'Nay! Nay!'</p>
+   <p>'It's the truth. Your time is only history to me. And mine and yours are history to <emphasis>them</emphasis> - ancient history. They call us visitors, but what we are is captives.' Phillips felt himself quivering in the intensity of his effort. He was aware how insane this must sound to Willoughby. It was beginning to sound insane to him. 'They've stolen us out of our proper times - seizing us like gypsies in the night - '</p>
+   <p>'Fie, man! You rave with lunacy!'</p>
+   <p>Phillips shook his head. He reached out and seized Willoughby tightly by the wrist. 'I beg you, listen to me!' The citizen-women were watching closely, whispering to one another behind their hands, laughing. 'Ask them!' Phillips cried. 'Make them tell you what century this is! The sixteenth, do you think? Ask them!'</p>
+   <p>'What century could it be, but the sixteenth of Our Lord!'</p>
+   <p>'They will tell you it is the fiftieth.'</p>
+   <p>Willoughby looked at him pityingly. 'Man, man, what a sorry thing thou art! The fiftieth, indeed!' He laughed. 'Fellow, listen to me, now. There is but one Elizabeth, safe upon her throne in Westminster. This is India. The year is Anno 1591. Come, let us you and I steal a ship from these Portugals, and make our way back to England, and peradventure you may get from there to your America - '</p>
+   <p>'There is no England.'</p>
+   <p>'Ah, can you say that and not be mad?'</p>
+   <p>'The cities and nations we knew are gone. These people live like magicians, Francis.' There was no use holding anything back now, Phillips thought leadenly. He knew that he had lost. 'They conjure up places of long ago, and build them here and there to suit their fancy, and when they are bored with them they destroy them, and start anew. There is no England. Europe is empty, featureless, void. Do you know what cities there are? There are only five in all the world. There is Alexandria of Egypt. There is Timbuctoo in Africa. There is New Chicago in America. There is a great city in China - in Cathay, I suppose you would say. And there is this place, which they call Mohenjo-daro, and which is far more ancient than Greece, than Rome, than Babylon.'</p>
+   <p>Quietly Willoughby said, 'Nay. This is mere absurdity. You say we are in some far tomorrow, and then you tell me we are dwelling in some city of long ago.'</p>
+   <p>'A conjuration, only,' Phillips said in desperation. 'A likeness of that city. Which these folk have fashioned somehow for their own amusement. Just as we are here, you and I: to amuse them. Only to amuse them.'</p>
+   <p>'You are completely mad.'</p>
+   <p>'Come with me, then. Talk with the citizens by the great pool. Ask them what year this is; ask them about England; ask them how you come to be here.' Once again Phillips grasped Willoughby's wrist. 'We should be allies. If we work together, perhaps we can discover some way to get ourselves out of this place, and - '</p>
+   <p>'Let me be, fellow.'</p>
+   <p>'Please - '</p>
+   <p>'Let me be!' roared Willoughby, and pulled his arm free. His eyes were stark with rage. Rising in the tank, he looked about furiously as though searching for a weapon. The citizen-women shrank back away from him, though at the same time they seemed captivated by the big man's fierce outburst. 'Go to, get you to Bedlam! Let me be, madman! Let me be!'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>Dismally Phillips roamed the dusty unpaved streets of Mohenjo-daro alone for hours. His failure with Willoughby had left him bleak-spirited and sombre: he had hoped to stand back to back with the Elizabethan against the citizens, but he saw now that that was not to be. He had bungled things; or, more likely, it had been impossible ever to bring Willoughby to see the truth of their predicament.</p>
+   <p>In the stifling heat he went at random through the confusing congested lanes of flat-roofed windowless houses and blank featureless walls until he emerged into a broad marketplace. The life of the city swirled madly around him: the pseudo-life, rather, the intricate interactions of the thousands of temporaries who were nothing more than wind-up dolls set in motion to provide the illusion that pre-Vedic India was still a going concern. Here vendors sold beautiful little carved stone seals portraying tigers and monkeys and strange humped cattle, and women bargained vociferously with craftsmen for ornaments of ivory, gold, copper and bronze. Weary-looking women squatted behind immense mounds of newly-made pottery, pinkish-red with black designs. No-one paid any attention to him. He was the outsider here, neither citizen nor temporary. They belonged.</p>
+   <p>He went on, passing the huge granaries where workmen ceaselessly unloaded carts of wheat and others pounded grain on great circular brick platforms. He drifted into a public restaurant thronging with joyless silent people standing elbow to elbow at small brick counters, and was given a flat round piece of bread, a sort of tortilla or chapatti, in which was stuffed some spiced mincemeat that stung his lips like fire. Then he moved onwards down a wide shallow timbered staircase into the lower part of the city, where the peasantry lived in cell-like rooms packed together as though in hives.</p>
+   <p>It was an oppressive city, but not a squalid one. The intensity of the concern with sanitation amazed him: wells and fountains and public privies everywhere, and brick drains running from each building, leading to covered cesspools. There was none of the open sewage and pestilent gutters that he knew still could be found in the India of his own time. He wondered whether ancient Mohenjo-daro had in truth been so fastidious. Perhaps the citizens had redesigned the city to suit their own ideals of cleanliness. No: most likely what he saw was authentic, he decided, a function of the same obsessive discipline that had given the city its rigidity of form. If Mohenjo-daro had been a verminous filthy hole, the citizens probably would have re-created it in just that way, and loved it for its fascinating reeking filth.</p>
+   <p>Not that he had ever noticed an excessive concern with authenticity on the part of the citizens; and Mohenjo-daro, like all the other restored cities he had visited, was full of the usual casual anachronisms. Phillips saw images of Shiva and Krishna here and there on the walls of buildings he took to be temples, and the benign face of the mother-goddess Kali loomed in the plazas. Surely those deities had arisen in India long after the collapse of the Mohenjo-daro civilization. Or did they take a certain naughty pleasure in mixing the eras - a mosque and a church in Greek Alexandria, Hindu gods in prehistoric Mohenjo-daro? Perhaps their records of the past had become contaminated with errors over the thousands of years. He would not have been surprised to see banners bearing portraits of Gandhi and Nehru being carried in procession through the streets. And there were phantasms and chimeras at large here again too, as if the citizens were untroubled by the boundary between history and myth: little fat elephant-headed Ganeshas blithely plunging their trunks into water-fountains, a six-armed three-headed woman sunning herself on a brick terrace. Why not? Surely that was the motto of these people: <emphasis>Why not, why not, why not?</emphasis> They could do as they pleased, and they did. Yet Gioia had said to him, long ago, 'Limits are very important.' In what, Phillips wondered, did they limit themselves, other than the number of their cities? Was there a quota, perhaps, on the number of 'visitors' they allowed themselves to kidnap from the past? Until today he had thought he was the only one; now he knew there was at least one other; possibly there were more elsewhere, a step or two ahead or behind him, making the circuit with the citizens who travelled endlessly from New Chicago to Chang-an to Alexandria. We should join forces, he thought, and compel them to send us back to our rightful eras. <emphasis>Compel?</emphasis> How? File a class-action suit, maybe? Demonstrate in the streets? Sadly he thought of his failure to make common cause with Willoughby. We are natural allies, he thought. Together perhaps we might have won some compassion from these people. But to Willoughby it must be literally unthinkable that Good Queen Bess and her subjects were sealed away on the far side of a barrier hundreds of centuries thick. He would prefer to believe that England was just a few months' voyage away around the Cape of Good Hope, and that all he need do was commandeer a ship and set sail for home. Poor Willoughby: probably he would never see his home again.</p>
+   <p>The thought came to Phillips suddenly:</p>
+   <p><emphasis>Neither will you</emphasis>.</p>
+   <p>And then, after it:</p>
+   <p><emphasis>If you could go home, would you really want to?</emphasis></p>
+   <p>One of the first things he had realized here was that he knew almost nothing substantial about his former existence. His mind was well stocked with details on life in twentieth-century New York, to be sure; but of himself he could say not much more than that he was Charles Phillips and had come from 1984. Profession? Age? Parents' names? Did he have a wife? Children? A cat, a dog, hobbies? No data: none. Possibly the citizens had stripped such things from him when they brought him here, to spare him from the pain of separation. They might be capable of that kindness. Knowing so little of what he had lost, could he truly say that he yearned for it? Willoughby seemed to remember much more of his former life, and longed somehow for it all the more intensely. He was spared that. Why not stay here, and go on and on from city to city, sightseeing all of time past as the citizens conjured it back into being? Why not? Why not? The chances were that he had no choice about it, anyway.</p>
+   <p>He made his way back up towards the citadel and to the baths once more. He felt a little like a ghost, haunting a city of ghosts.</p>
+   <p>Belilala seemed unaware that he had been gone for most of the day. She sat by herself on the terrace of the baths, placidly sipping some thick milky beverage that had been sprinkled with a dark spice. He shook his head when she offered him some.</p>
+   <p>'Do you remember I mentioned that I saw a man with red hair and a beard this morning?' Phillips said. 'He's a visitor. Hawk told me that.'</p>
+   <p>'Is he?' Belilala asked.</p>
+   <p>'From a time about four hundred years before mine. I talked with him. He thinks he was brought here by demons.' Phillips gave her a searching look. 'I'm a visitor too, isn't that so?'</p>
+   <p>'Of course, love.'</p>
+   <p>'And how was <emphasis>I</emphasis> brought here? By demons also?'</p>
+   <p>Belilala smiled indifferently. 'You'd have to ask someone else. Hawk, perhaps. I haven't looked into these things very deeply.'</p>
+   <p>'I see. Are there many visitors here, do you know?'</p>
+   <p>A languid shrug. 'Not many, no, not really. I've only heard of three of four besides you. There may be others by now, I suppose.' She rested her hand lightly on his. 'Are you having a good time in Mohenjo, Charles?'</p>
+   <p>He let her question pass as though he had not heard it.</p>
+   <p>'I asked Hawk about Gioia,' he said.</p>
+   <p>'Oh?'</p>
+   <p>'He told me that she's no longer here, that she's gone on to Timbuctoo or New Chicago, he wasn't sure which.'</p>
+   <p>'That's quite likely. As everybody knows, Gioia rarely stays in the same place very long.'</p>
+   <p>Phillips nodded. 'You said the other day that Gioia is a short-timer. That means she's going to grow old and die, doesn't it?'</p>
+   <p>'I thought you understood that, Charles.'</p>
+   <p>'Whereas you will not age? Nor Hawk, nor Stengard, nor any of the rest of your set?'</p>
+   <p>'We will live as long as we wish,' she said. 'But we will not age, no.'</p>
+   <p>'What makes a person a short-timer?'</p>
+   <p>'They're born that way, I think. Some missing gene, some extra gene - I don't actually know. It's extremely uncommon. Nothing can be done to help them. It's very slow, the ageing. But it can't be halted.'</p>
+   <p>Phillips nodded. 'That must be very disagreeable,' he said. 'To find yourself one of the few people growing old in a world where everyone stays young. No wonder Gioia is so impatient. No wonder she runs around from place to place. No wonder she attached herself so quickly to the barbaric hairy visitor from the twentieth century, who comes from a time when <emphasis>everybody</emphasis> was a short-timer. She and I have something in common, wouldn't you say?'</p>
+   <p>'In a manner of speaking, yes.'</p>
+   <p>'We understand ageing. We understand death. Tell me: is Gioia likely to die very soon, Belilala?'</p>
+   <p>'Soon? soon?' She gave him a wide-eyed childlike stare. 'What is soon? How can I say? What you think of as soon and what I think of as soon are not the same things, Charles.' Then her manner changed: she seemed to be hearing what he was saying for the first time. Softly she said, 'No, no, Charles. I don't think she will die very soon.'</p>
+   <p>'When she left me in Chang-an, was it because she had become bored with me?'</p>
+   <p>Belilala shook her head. 'She was simply restless. It had nothing to do with you. She was never bored with you.'</p>
+   <p>'Then I'm going to go looking for her. Wherever she may be, Timbuctoo, New Chicago, I'll find her. Gioia and I belong together.'</p>
+   <p>'Perhaps you do,' said Belilala. 'Yes. Yes, I think you really do.' She sounded altogether unperturbed, unrejected, unbereft. 'By all means, Charles. Go to her. Follow her. Find her. Wherever she may be.'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>They had already begun dismantling Timbuctoo when Phillips got there. While he was still high overhead, his flitter-flitter hovering above the dusty tawny plain where the River Niger met the sands of the Sahara, a surge of keen excitement rose in him as he looked down at the square grey flat-roofed mud-brick buildings of the great desert capital. But when he landed he found gleaming metal-skinned robots swarming everywhere, a horde of them scuttling about like giant shining insects, pulling the place apart.</p>
+   <p>He had not known about the robots before. So that was how all these miracles were carried out, Phillips realized: an army of obliging machines. He imagined them bustling up out of the earth whenever their services were needed, emerging from some sterile subterranean storehouse to put together Venice or Thebes or Knossos or Houston or whatever place was required, down to the finest detail, and then at some later time returning to undo everything that they had fashioned. He watched them now, diligently pulling down the adobe walls, demolishing the heavy metal-studded gates, bulldozing the amazing labyrinth of alleyways and thoroughfares, sweeping away the market. On his last visit to Timbuctoo that market had been crowded with a horde of veiled Tuaregs and swaggering Moors, black Sudanese, shrewd-faced Syrian traders, all of them busily dickering for camels, horses, donkeys, slabs of salt, huge green melons, silver bracelets, splendid vellum Korans. They were all gone now, that picturesque crowd of swarthy temporaries. Nor were there any citizens to be seen. The dust of destruction choked the air. One of the robots came up to Phillips and said in a dry crackling insect-voice, 'You ought not to be here. This city is closed.'</p>
+   <p>He stared at the flashing, buzzing band of scanners and sensors across the creature's glittering tapered snout. 'I'm trying to find someone, a citizen who may have been here recently. Her name is - '</p>
+   <p>'This city is closed,' the robot repeated inexorably.</p>
+   <p>They would not let him stay as much as an hour. There is no food here, the robot said, no water, no shelter. This is not a place any longer. You may not stay. You may not stay. You may not stay.</p>
+   <p><emphasis>This is not a place any longer.</emphasis></p>
+   <p>Perhaps he could find her in New Chicago, then. He took to the air again, soaring northwards and westwards over the vast emptiness. The land below him curved away into the hazy horizon, bare, sterile. What had they done with the vestiges of the world that had gone before? Had they turned their gleaming metal beetles loose to clean everything away? Were there no ruins of genuine antiquity anywhere? No scrap of Rome, no shard of Jerusalem, no stump of Fifth Avenue? It was all so barren down there: an empty stage, waiting for its next set to be built. He flew on a great arc across the jutting hump of Africa and on into what he supposed was southern Europe: the little vehicle did all the work, leaving him to doze or stare as he wished. Now and again he saw another flitterflitter pass by, far away, a dark distant winged teardrop outlined against the hard clarity of the sky. He wished there was some way of making radio contact with them, but he had no idea how to go about it. Not that he had anything he wanted to say; he wanted only to hear a human voice. He was utterly isolated. He might just as well have been the last living man on Earth. He closed his eyes and thought of Gioia.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>'Like this?' Phillips asked. In an ivory-panelled oval room sixty storeys above the softly glowing streets of New Chicago he touched a small cool plastic canister to his upper lip and pressed the stud at its base. He heard a foaming sound; and then blue vapour rose to his nostrils.</p>
+   <p>'Yes,' Cantilena said. 'That's right.'</p>
+   <p>He detected a faint aroma of cinnamon, cloves and something that might almost have been broiled lobster. Then a spasm of dizziness hit him and visions rushed through his head: Gothic cathedrals, the Pyramids, Central Park under fresh snow, the harsh brick warrens of Mohenjo-daro, and fifty thousand other places all at once, a wild roller-coaster ride through space and time. It seemed to go on for centuries. But finally his head cleared and he looked about, blinking, realizing that the whole thing had taken only a moment. Cantilena still stood at his elbow. The other citizens in the room - fifteen, twenty of them - had scarcely moved. The strange little man with the celadon skin over by the far wall continued to stare at him.</p>
+   <p>'Well?' Cantilena asked. 'What did you think?'</p>
+   <p>'Incredible.'</p>
+   <p>'And very authentic. It's an actual New Chicagoan drug. The exact formula. Would you like another?'</p>
+   <p>'Not just yet,' Phillips said uneasily. He swayed and had to struggle for his balance. Sniffing that stuff might not have been such a wise idea, he thought.</p>
+   <p>He had been in New Chicago a week, or perhaps it was two, and he was still suffering from the peculiar disorientation that that city always aroused in him. This was the fourth time that he had come here, and it had been the same every time. New Chicago was the only one of the reconstructed cities of this world that in its original incarnation had existed <emphasis>after</emphasis> his own era. To him it was an outpost of the incomprehensible future; to the citizens it was a quaint simulacrum of the archaeological past. That paradox left him aswirl with impossible confusions and tensions.</p>
+   <p>What had happened to <emphasis>old</emphasis> Chicago was of course impossible for him to discover. Vanished without a trace, that was clear: no Water Tower, no Marina City, no Hancock Centre, no Tribune building, not a fragment, not an atom. But it was hopeless to ask any of the million-plus inhabitants of New Chicago about their city's predecessor. They were only temporaries; they knew no more than they had to know, and all that they had to know was how to go through the motions of whatever it was that they did by way of creating the illusion that this was a real city. They had no need of knowing ancient history.</p>
+   <p>Nor was he likely to find out anything from a citizen, of course. Citizens did not seem to bother much about scholarly matters. Phillips had no reason to think that the world was anything other than an amusement park to them. Somewhere, certainly, there had to be those who specialized in the serious study of the lost civilizations of the past - for how, otherwise, would these uncanny reconstructed cities be brought into being? 'The planners,' he had once heard Nissandra or Aramayne say,,are already deep into their Byzantium research.' But who were the planners? He had no idea. For all he knew, they were the robots. Perhaps the robots were the real masters of this whole era, who created the cities not primarily for the sake of amusing the citizens but in their own diligent attempt to comprehend the life of the world that had passed away. A wild speculation, yes; but not without some plausibility, he thought.</p>
+   <p>He felt oppressed by the party gaiety all about him. 'I need some air,' he said to Cantilena, and headed towards the window. It was the merest crescent, but a breeze came through. He looked out at the strange city below.</p>
+   <p>New Chicago had nothing in common with the old one but its name. They had built it, at least, along the western shore of a large inland lake that might even be Lake Michigan, although when he had flown over it had seemed broader and less elongated than the lake he remembered. The city itself was a lacy fantasy of slender pastel-hued buildings rising at odd angles and linked by a webwork of gently undulating aerial bridges. The streets were long parentheses that touched the lake at their northern and southern ends and arched gracefully westwards in the middle. Between each of the great boulevards ran a track for public transportation - sleek aquamarine bubble-vehicles gliding on soundless wheels - and flanking each of the tracks were lush strips of park. It was beautiful, astonishingly so, but insubstantial. The whole thing seemed to have been contrived from sunbeams and silk.</p>
+   <p>A soft voice beside him said, 'Are you becoming ill?'</p>
+   <p>Phillips glanced around. The celadon man stood beside him: a compact, precise person, vaguely Oriental in appearance. His skin was of a curious grey-green hue like no skin Phillips had ever seen, and it was extraordinarily smooth in texture, as though he were made of fine porcelain.</p>
+   <p>He shook his head. 'Just a little queasy,' he said. 'This city always scrambles me.'</p>
+   <p>'I suppose it can be disconcerting,' the little man replied. His tone was furry and veiled, the inflection strange. There was something feline about him. He seemed sinewy, unyielding, almost menacing. 'Visitor, are you?'</p>
+   <p>Phillips studied him a moment. 'Yes,' he said.</p>
+   <p>'So am I, of course.'</p>
+   <p>'Are you?'</p>
+   <p>'Indeed.' The little man smiled. 'What's your locus? Twentieth century? Twenty-first at the latest, I'd say.'</p>
+   <p>'I'm from 1984. AD 1984.'</p>
+   <p>Another smile, a self-satisfied one. 'Not a bad guess, then.' A brisk tilt of the head. 'Y'ang-Yeovil.'</p>
+   <p>'Pardon me?' Phillips said.</p>
+   <p>'Y'ang-Yeovil. It is my name. Formerly Colonel Y'ang-Yeovil of the Third Septentriad.'</p>
+   <p>'Is that on some other planet?' asked Phillips, feeling a bit dazed.</p>
+   <p>'Oh, no, not at all,' Y'ang-Yeovil said pleasantly. 'This very world, I assure you. I am quite of human origin. Citizen of the Republic of Upper Han, native of the city of Port Ssu. And you - forgive me - your name -?'</p>
+   <p>'I'm sorry. Phillips. Charles Phillips. From New York City, once upon a time.'</p>
+   <p>'Ah, New York!' Y'ang-Yeovil's face lit with a glimmer of recognition that quickly faded. 'New York - New York - it was very famous, that I know - '</p>
+   <p>This is very strange, Phillips thought. He felt greater compassion for poor bewildered Francis Willoughby now. This man comes from a time so far beyond my own that he barely knows of New York - he must be a contemporary of the real New Chicago, in fact; I wonder whether he finds this version authentic - and yet to the citizens this Y'ang-Yeovil too is just a primitive, a curio out of antiquity -</p>
+   <p>'New York was the largest city of the United States of America,' Phillips said.</p>
+   <p>'Of course. Yes. Very famous.'</p>
+   <p>'But virtually forgotten by the time the Republic of Upper Han came into existence, I gather.'</p>
+   <p>Y'ang-Yeovil said, looking uncomfortable, 'There were disturbances between your time and mine. But by no means should you take from my words the impression that your city was - '</p>
+   <p>Sudden laughter resounded across the room. Five or six newcomers had arrived at the party. Phillips stared, gasped, gaped. Surely that was Stengard - and Armayne beside him - and that other woman, half-hidden behind them -</p>
+   <p>'If you'll pardon me a moment - ' Phillips said, turning abruptly away from Y'ang-Yeovil. 'Please excuse me. Someone just coming in - a person I've been trying to find ever since - '</p>
+   <p>He hurried towards her.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>'Gioia?' he called. 'Gioia, it's me! Wait! Wait!'</p>
+   <p>Stengard was in the way. Aramayne, turning to take a handful of the little vapour-sniffers from Cantilena, blocked him also. Phillips pushed through them as though they were not there. Gioia, halfway out the door, halted and looked towards him like a frightened deer.</p>
+   <p>'Don't go,' he said. He took her hand in his.</p>
+   <p>He was startled by her appearance. How long had their strange parting on that night of mysteries in Chang-an? A year? A year and a half? So he believed. Or had he lost all track of time? Were his perceptions of the passing of the months in this world that unreliable? She seemed at least ten or fifteen years older. Maybe she really was; maybe the years had been passing for him here as in a dream, and he had never known it. She looked strained, faded, worn. Out of a thinner and strangely altered face her eyes blazed at him almost defiantly, as though saying, <emphasis>See? See how ugly I have become?</emphasis></p>
+   <p>He said, 'I've been hunting for you for - I don't know how long it's been, Gioia. In Mohenjo, in Timbuctoo, now here. I want to be with you again.'</p>
+   <p>'It isn't possible.'</p>
+   <p>'Belilala explained everything to me in Mohenjo. I know that you're a short-timer - I know what that means, Gioia. But what of it? So you're beginning to age a little. So what? So you'll only have three or four hundred years, instead of forever. Don't you think I know what it means to be a short-timer? I'm just a simple ancient man of the twentieth century, remember? Sixty, seventy, eighty years is all we would get. You and I suffer from the same malady, Gioia. That's what drew you to me in the first place. I'm certain of that. That's why we belong with each other now. However much time we have, we can spend the rest of it together, don't you see?'</p>
+   <p>'You're the one who doesn't see, Charles,' she said softly.</p>
+   <p>'Maybe. Maybe I still don't understand a damned thing about this place. Except that you and I - that I love you - that I think you love me - '</p>
+   <p>'I love you, yes. But you don't understand. It's precisely because I love you that you and I - you and I can't - '</p>
+   <p>With a despairing sigh she slid her hand free of his grasp. He reached for her again, but she shook him off and backed up quickly into the corridor.</p>
+   <p>'Gioia?'</p>
+   <p>'Please,' she said. 'No. I would never have come here if I knew you were here. Don't come after me. Please. Please.'</p>
+   <p>She turned and fled.</p>
+   <p>He stood looking after her for a long moment. Cantilena and Aramayne appeared, and smiled at him as if nothing at all had happened. Cantilena offered him a vial of some sparkling amber fluid. He refused with a brusque gesture. Where do I go now, he wondered? What do I do? He wandered back into the party.</p>
+   <p>Y'ang-Yeovil glided to his side. 'You are in great distress,' the little man murmured.</p>
+   <p>Phillips glared. 'Let me be.'</p>
+   <p>'Perhaps I could be of some help.'</p>
+   <p>'There's no help possible,' said Phillips. He swung about and plucked one of the vials from a tray and gulped its contents. It made him feel as if there were two of him, standing on either side of Y'ang-Yeovil. He gulped another. Now there were four of him. 'I'm in love with a citizen,' he blurted. It seemed to him that he was speaking in chorus.</p>
+   <p>'Love. Ah. And does she love you?'</p>
+   <p>'So I thought. So I think. But she's a short-timer. Do you know what that means? She's not immortal like the others. She ages. She's beginning to look old. And so she's been running away from me. She doesn't want me to see her changing. She thinks it'll disgust me, I suppose. I tried to remind her just now that I'm not immortal either, that she and I could grow old together, but she - '</p>
+   <p>'Oh, no,' Y'ang-Yeovil said quietly. 'Why do you think you will age? Have you grown any older in all the time you have been here?'</p>
+   <p>Phillips was nonplussed. 'Of course I have. I - I - '</p>
+   <p>'Have you?' Y'ang-Yeovil smiled. 'Here. Look at yourself.' He did something intricate with his fingers and a shimmering zone of mirror-like light appeared between them. Phillips stared at his reflection. A youthful face stared back at him. It was true, then. He had simply not thought about it. How many years had he spent in this world? The time had simply slipped by: a great deal of time, though he could not calculate how much. They did not seem to keep close count of it here, nor had he. But it must have been many years, he thought. All that endless travel up and down the globe - so many cities had come and gone - Rio, Rome, Asgard, those were the first three that came to mind - and there were others; he could hardly remember every one. Years. His face had not changed at all. Time had worked its harshness on Gioia, yes, but not on him.</p>
+   <p>'I don't understand,' he said. 'Why am I not ageing?'</p>
+   <p>'Because you are not real,' said Y'ang-Yeovil. 'Are you unaware of that?'</p>
+   <p>Phillips blinked. 'Not - real?'</p>
+   <p>'Did you think you were lifted bodily out of your own time?' the little man asked. 'Ah, no, no, there is no way for them to do such a thing. We are not actual time travellers: not you, not I, not any of the visitors. I thought you were aware of that. But perhaps your era is too early for a proper understanding of these things. We are very cleverly done, my friend. We are ingenious constructs, marvellously stuffed with the thoughts and attitudes and events of our own times. We are their finest achievement, you know: far more complex even than one of these cities: We are a step beyond the temporaries - more than a step, a great deal more. They do only what they are instructed to do, and their range is very narrow. They are nothing but machines, really. Whereas we are autonomous. We move about by our own will; we think, we talk, we even, so it seems, fall in love. But we will not age. How could we age? We are not real. We are mere artificial webworks of mental responses. We are mere illusions, done so well that we deceive even ourselves. You did not know that? Indeed, you did not know?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>He was airborne, touching destination buttons at random. Somehow he found himself heading back towards Timbuctoo. <emphasis>This city is closed. This is not a place any longer.</emphasis> It did not matter to him. Why should anything matter?</p>
+   <p>Fury and a choking sense of despair rose within him. I am software, Phillips thought. I am nothing but software.</p>
+   <p><emphasis>Not real. Very cleverly done. An ingenious construct. A mere illusion.</emphasis></p>
+   <p>No trace of Timbuctoo was visible from the air. He landed anyway. The grey sandy earth was smooth, unturned, as though there had never been anything there. A few robots were still about, handling whatever final chores were required in the shutting-down of a city. Two of them scuttled up to him. Huge bland gleaming silver-skinned insects, not friendly.</p>
+   <p>'There is no city here,' they said. 'This is not a permissible place.'</p>
+   <p>'Permissible by whom?'</p>
+   <p>'There is no reason for you to be here.'</p>
+   <p>'There's no reason for me to be anywhere,' Phillips said. The robots stirred, made uneasy humming sounds and ominous clicks, waved their antennae about. They seem troubled, he thought. They seem to dislike my attitude. Perhaps I run some risk of being taken off to the home for unruly software for debugging. 'I'm leaving now,' he told them. 'Thank you. Thank you very much.' He backed away from them and climbed into his flitterflitter. He touched more destination buttons.</p>
+   <p><emphasis>We move about by our own will. We think, we talk, we even fall in love.</emphasis></p>
+   <p>He landed in Chang-an. This time there was no reception committee waiting for him at the Gate of Brilliant Virtue. The city seemed larger and more resplendent: new pagodas, new palaces. It felt like winter: a chilly cutting wind was blowing. The sky was cloudless and dazzlingly bright. At the steps of the Silver Terrace he encountered Francis Willoughby, a great hulking figure in magnificent brocaded robes, with two dainty little temporaries, pretty as jade statuettes, engulfed in his arms. 'Miracles and wonders! The silly lunatic fellow is here too!' Willoughby roared. 'Look, look, we are come to far Cathay, you and I!'</p>
+   <p>We are nowhere, Phillips thought. <emphasis>We are mere illusions, done so well that we deceive even ourselves.</emphasis></p>
+   <p>To Willoughby he said, 'You look like an emperor in those robes, Francis.'</p>
+   <p>'Aye, like Prester John!' Willoughby cried. 'Like Tamburlaine himself! Aye, am I not majestic?' He slapped Phillips gaily on the shoulder, a rough playful poke that spun him halfway about, coughing and wheezing. 'We flew in the air, as the eagles do, as the demons do, as the angels do! Soared like angels! Like angels!' He came close, looming over Phillips. 'I would have gone to England, but the wench Belilala said there was an enchantment on me that would keep me from England just now; and so we voyaged to Cathay. Tell me this, fellow, will you go witness for me when we see England again? Swear that all that has befallen us did in truth befall? For I fear they will say I am as mad as Marco Polo, when I tell them of flying to Cathay.'</p>
+   <p>'One madman backing another?' Phillips asked. 'What can I tell you? You still think you'll reach England, do you?' Rage rose to the surface in him, bubbling hot. 'Ah, Francis, Francis, do you know your Shakespeare? Did you go to the plays? We aren't real. <emphasis>We aren't real.</emphasis> We are such stuff as dreams are made on, the two of us. That's all we are. O brave new world! What England? Where? There's no England. There's no Francis Willoughby. There's no Charles Phillips. What we are is - '</p>
+   <p>'Let him be, Charles,' a cool voice cut in.</p>
+   <p>He turned. Belilala, in the robes of an empress, coming down the steps of the Silver Terrace.</p>
+   <p>'I know the truth,' he said bitterly. 'Y'ang-Yeovil told me. The visitor from the twenty-fifth century. I saw him in New Chicago.'</p>
+   <p>'Did you see Gioia there too?' Belilala asked.</p>
+   <p>'Briefly. She looks much older.'</p>
+   <p>'Yes. I know. She was here recently.'</p>
+   <p>'And has gone on, I suppose?'</p>
+   <p>'To Mohenjo again, yes. Go after her, Charles. Leave poor Francis alone. I told her to wait for you. I told her that she needs you, and you need her.'</p>
+   <p>'Very kind of you. But what good is it, Belilala? I don't even exist. And she's going to die.'</p>
+   <p>'You exist. How can you doubt that you exist? You feel, don't you? You suffer. You love. You love Gioia: is that not so? And you are loved by Gioia. Would Gioia love what is not real?'</p>
+   <p>'You think she loves me?'</p>
+   <p>'I know she does. Go to her, Charles. Go. I told her to wait for you in Mohenjo.'</p>
+   <p>Phillips nodded numbly. What was there to lose?</p>
+   <p>'Go to her,' said Belilala again. 'Now.'</p>
+   <p>'Yes,' Phillips said. 'I'll go now.' He turned to Willoughby. 'If ever we meet in London, friend, I'll testify for you. Fear nothing. All will be well, Francis.'</p>
+   <p>He left them and set his course for Mohenjo-daro, half expecting to find the robots already tearing it down. Mohenjo-daro was still there, no lovelier than before. He went to the baths, thinking he might find Gioia there. She was not; but he came upon Nissandra, Stengard, Fenimon. 'She has gone to Alexandria,' Fenimon told him. 'She wants to see it one last time, before they close it.'</p>
+   <p>'They're almost ready to open Constantinople,' Stengard explained. 'The capital of Byzantium, you know, the great city by the Golden Horn. They'll take Alexandria away, you understand, when Byzantium opens. They say it's going to be marvellous. We'll see you there for the opening, naturally?'</p>
+   <p>'Naturally,' Phillips said.</p>
+   <p>He flew to Alexandria. He felt lost and weary. All this is hopeless folly, he told himself. I am nothing but a puppet jerking about on its strings. But somewhere above the shining breast of the Arabian Sea the deeper implications of something that Belilala had said to him started to sink in, and he felt his bitterness, his rage, his despair, all suddenly beginning to leave him. <emphasis>You exist. How can you doubt that you exist? Would Gioia love what is not real?</emphasis> Of course. Of course. Y'ang-Yeovil had been wrong: visitors were something more than mere illusions. Indeed Y'ang-Yeovil had voiced the truth of their condition without understanding what he was really saying: <emphasis>We think, we talk, we fall in love.</emphasis> Yes. That was the heart of the situation. The visitors might be artificial, but they were not unreal. Belilala had been trying to tell him that just the other night. <emphasis>You suffer. You love. You love Gioia. Would Gioia love what is not real?</emphasis> Surely he was real, or at any rate real enough. What he was was something strange, something that would probably have been all but incomprehensible to the twentieth-century people whom he had been designed to simulate. But that did not mean that he was unreal. Did one have to be of woman born to be real? No. No. No. His kind of reality was a sufficient reality. He had no need to be ashamed of it. And, understanding that, he understood that Gioia did not need to grow old and die. There was a way by which she could be saved, if only she would embrace it. If only she would.</p>
+   <p>When he landed in Alexandria he went immediately to the hotel on the slopes of the Paneium where they had stayed on their first visit, so very long ago; and there she was, sitting quietly on a patio with a view of the harbour and the Lighthouse. There was something calm and resigned about the way she sat. She had given up. She did not even have the strength to flee from him any longer.</p>
+   <p>'Gioia,' he said gently.</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>She looked older than she had in New Chicago. Her face was drawn and sallow and her eyes seemed sunken; and she was not even bothering these days to deal with the white strands that stood out in stark contrast against the darkness of her hair. He sat down beside her and put his hand over hers, and looked out towards the obelisks, the palaces, the temples, the Lighthouse. At length he said, 'I know what I really am, now.'</p>
+   <p>'Do you, Charles?' She sounded very far away.</p>
+   <p>'In my era we called it software. All I am is a set of commands, responses, cross-references, operating some sort of artificial body. It's infinitely better software than we could have imagined. But we were only just beginning to learn how, after all. They pumped me full of twentieth-century reflexes. The right moods, the right appetites, the right irrationalities, the right sort of combativeness. Somebody knows a lot about what it was like to be a twentieth-century man. They did a good job with Willoughby, too, all that Elizabethan rhetoric and swagger. And I suppose they got Y'ang-Yeovil right. He seems to think so: who better to judge? The twenty-fifth century, the Republic of Upper Han, people with grey-green skin, half Chinese and half Martian for all I know. <emphasis>Somebody</emphasis> knows. Somebody here is very good at programming, Gioia.'</p>
+   <p>She was not looking at him.</p>
+   <p>'I feel frightened, Charles,' she said in that same distant way.</p>
+   <p>'Of me? Of the things I'm saying?'</p>
+   <p>'No, not of you. Don't you see what has happened to me?'</p>
+   <p>'I see you. There are changes.'</p>
+   <p>'I lived a long time wondering when the changes would begin. I thought maybe they wouldn't, not really. Who wants to believe they'll get old? But it started when we were in Alexandria that first time. In Chang-an it got much worse. And now - now - '</p>
+   <p>He said abruptly, 'Stengard tells me they'll be opening Constantinople very soon.'</p>
+   <p>'So?'</p>
+   <p>'Don't you want to be there when it opens?'</p>
+   <p>'I'm becoming old and ugly, Charles.'</p>
+   <p>'We'll go to Constantinople together. We'll leave tomorrow, eh? What do you say? We'll charter a boat. It's a quick little hop, right across the Mediterranean. Sailing to Byzantium! There was a poem, you know, in my time. Not forgotten, I guess, because they've programmed it into me. All these thousands of years, and someone still remembers old Yeats. <emphasis>The young in one another's arms, birds in the trees</emphasis>. Come with me to Byzantium, Gioia.'</p>
+   <p>She shrugged. 'Looking like this? Getting more hideous every hour? While <emphasis>they</emphasis> stay young for ever? While <emphasis>you</emphasis> - She faltered; her voice cracked; she fell silent.</p>
+   <p>'Finish the sentence, Gioia.'</p>
+   <p>'Please. Let me alone.'</p>
+   <p>'You were going to say, "While <emphasis>you</emphasis> stay young for ever too, Charles," isn't that it? You knew all along that I was never going to change. I didn't know that, but you did.'</p>
+   <p>'Yes. I knew. I pretended that it wasn't true - that as I aged, you'd age too. It was very foolish of me. In Chang-an, when I first began to see the real signs of it - that was when I realized I couldn't stay with you any longer. Because I'd look at you, always young, always remaining the same age, and I'd took at myself, and - ' She gestured, palms upward. 'So I gave you to Belilala and ran away.'</p>
+   <p>'All so unnecessary, Gioia.'</p>
+   <p>'I didn't think it was.'</p>
+   <p>'But you don't have to grow old. Not if you don't want to!'</p>
+   <p>'Don't be cruel, Charles,' she said tonelessly. 'There's no way of escaping what I have.'</p>
+   <p>'But there is,' he said.</p>
+   <p>'You know nothing about these things.'</p>
+   <p>'Not very much, no,' he said. 'But I see how it can be done. Maybe it's a primitive simple-minded twentieth-century sort of solution, but I think it ought to work. I've been playing with the idea ever since I left Mohenjo. Tell me this, Gioia: why can't you go to them, to the programmers, to the artificers, the planners, whoever they are, the ones who create the cities and the temporaries and the visitors. And have yourself made into something like me!'</p>
+   <p>She looked up, startled. 'What are you saying?'</p>
+   <p>'They can cobble up a twentieth-century man out of nothing more than fragmentary records and make him plausible, can't they? Or an Elizabethan, or anyone else of any era at all, and he's authentic, he's convincing. So why couldn't they do an even better job with you? Produce a Gioia so real that even Gioia can't tell the difference? But a Gioia that will never age - a Gioia-construct, a Gioia-program, a visitor-Gioia! Why not? Tell me why not, Gioia.'</p>
+   <p>She was trembling. 'I've never heard of doing any such thing!'</p>
+   <p>'But don't you think it's possible?'</p>
+   <p>'How would I know?'</p>
+   <p>'Of course it's possible. If they can create visitors, they can take a citizen and duplicate her in such a way that - '</p>
+   <p>'It's never been done. I'm sure of it. I can't imagine any citizen agreeing to any such thing. To give up the body - to let yourself be turned into - into - '</p>
+   <p>She shook her head, but it seemed to be a gesture of astonishment as much as of negation.</p>
+   <p>He said. 'Sure. To give up the body. Your natural body, your ageing, shrinking, deteriorating short-timer body. What's so awful about that?'</p>
+   <p>She was very pale. 'This is craziness, Charles. I don't want to talk about it any more.'</p>
+   <p>'It doesn't sound crazy to me.'</p>
+   <p>'You can't possibly understand.'</p>
+   <p>'Can't I? I can certainly understand being afraid to die. I don't have a lot of trouble understanding what it's like to be one of the few ageing people in a world where nobody grows old. What I can't understand is why you aren't even willing to consider the possibility that - '</p>
+   <p>'No,' she said. 'I tell you, it's crazy. They'd laugh at me.'</p>
+   <p>'Who?'</p>
+   <p>'All of my friends. Hawk, Stengard, Aramayne - ' Once again she would not look at him. 'They can be very cruel, without even realizing it. They despise anything that seems ungraceful to them, anything sweaty and desperate and cowardly. Citizens don't do sweaty things, Charles. And that's how this will seem. Assuming it can be done at all. They'll be terribly patronizing. Oh, they'll be sweet to me, yes, dear Gioia, how wonderful for you, Gioia, but when I turn my back they'll laugh. They'll say the most wicked things about me. I couldn't bear that.'</p>
+   <p>'They can afford to laugh,' Phillips said. 'It's easy to be brave and coot about dying when you know you're going to live for ever. How very fine for them: but why should you be the only one to grow old and die? And they won't laugh, anyway. They're not as cruel as you think. Shallow, maybe, but not cruel. They'll be glad that you've found a way to save yourself. At the very least, they won't have to feel guilty about you any longer, and that's bound to please them. You can - '</p>
+   <p>'Stop it,' she said.</p>
+   <p>She rose, walked to the railing of the patio, stared out towards the sea. He came up behind her. Red sails in the harbour, sunlight glittering along the sides of the Lighthouse, the palaces of the Ptolemies stark white against the sky. Lightly he rested his hand on her shoulder. She twitched as if to pull away from him, but remained where she was.</p>
+   <p>'Then I have another idea,' he said quietly. 'if you won't go to the planners, <emphasis>I</emphasis> will. Reprogram me, I'll say. Fix things so that I start to age at the same rate you do. It'll be more authentic, anyway, if I'm supposed to be playing the part of a twentieth-century man. Over the years I'll very gradually get some lines in my face, my hair will turn grey, I'll walk a little more slowly - we'll grow old together, Gioia. To hell with your lovely immortal friends. We'll have each other. We won't need them.'</p>
+   <p>She swung around. Her eyes were wide with horror.</p>
+   <p>'Are you serious, Charles?'</p>
+   <p>'Of course.'</p>
+   <p>'No,' she murmured. 'No. Everything you've said to me today is monstrous nonsense. Don't you realize that?'</p>
+   <p>He reached for her hand and enclosed her fingertips in his. 'All I'm trying to do is find some way for you and me to - '</p>
+   <p>'Don't say any more,' she said. 'Please.' Quickly, as though drawing back from a suddenly flaring flame, she tugged her fingers free of his and put her hand behind her. Though his face was just inches from hers he felt an immense chasm opening between them. They stared at one another for a moment; then she moved deftly to his left, darted around him, and ran from the patio.</p>
+   <p>Stunned, he watched her go, down the long marble corridor and out of sight. It was folly to give pursuit, he thought. She was lost to him: that was clear, that was beyond any question. She was terrified of him. Why cause her even more anguish? But somehow he found himself running through the halls of the hotel, along the winding garden path, into the cool green groves of the Paneium. He thought he saw her on the portico of Hadrian's palace, but when he got there the echoing stone halls were empty. To a temporary that was sweeping the steps he said, 'Did you see a woman come this way?' A blank sullen stare was his only answer.</p>
+   <p>Phillips cursed and turned away.</p>
+   <p>'Gioia?' he called. 'Wait! Come back!'</p>
+   <p>Was that her, going into the Library? He rushed past the startled mumbling librarians and sped through the stacks, peering beyond the mounds of double-handled scrolls into the shadowy corridor. 'Gioia? <emphasis>Gioia!'</emphasis> It was a desecration, bellowing like that in this quiet place. He scarcely cared.</p>
+   <p>Emerging by a side door, he loped down to the harbour. The Lighthouse! Terror enfolded him. She might already be a hundred steps up that ramp, heading for the parapet from which she meant to fling herself into the sea. Scattering citizens and temporaries as if they were straws, he ran within. Up he went, never pausing for breath, though his synthetic lungs were screaming for respite, his ingeniously designed heart was desperately pounding. On the first balcony he imagined he caught a glimpse of her, but he circled it without finding her. Onwards, upwards. He went to the top, to the beacon chamber itself: no Gioia. Had she jumped? Had she gone down one ramp while he was ascending the other? He clung to the rim and looked out, down, searching the base of the Lighthouse, the rocks offshore, the causeway. No Gioia. I will find her somewhere, he thought. I will keep going until I find her. He went running down the ramp, calling her name. He reached ground level and sprinted back towards the centre of town. Where next? The temple of Poseidon? The tomb of Cleopatra?</p>
+   <p>He paused in the middle of Canopus Street, groggy and dazed.</p>
+   <p>'Charles?' she said.</p>
+   <p>'Where are you?'</p>
+   <p>'Right here. Beside you.' She seemed to materialize from the air. Her face was unflushed, her robe bore no trace of perspiration. Had he been chasing a phantom through the city? She came to him and took his hand, and said, softly, tenderly, 'Were you really serious, about having them make you age?'</p>
+   <p>'If there's no other way, yes.'</p>
+   <p>'The other way is so frightening, Charles.'</p>
+   <p>'Is it?'</p>
+   <p>'You can't understand how much.'</p>
+   <p>'More frightening than growing old? Than dying?'</p>
+   <p>'I don't know,' she said. 'I suppose not. The only thing I'm sure of is that I don't want you to get old, Charles.'</p>
+   <p>'But I won't have to. Will I?'</p>
+   <p>He stared at her.</p>
+   <p>'No,' she said. 'You won't have to. Neither of us will.'</p>
+   <p>Phillips smiled. 'We should get away from here,' he said after a while. 'Let's go across to Byzantium, yes, Gioia? We'll show up in Constantinople for the opening. Your friends will be there. We'll tell them what you've decided to do. They'll know how to arrange it. Someone will.'</p>
+   <p>'It sounds so strange,' said Gioia. 'To turn myself into - into a visitor? A visitor in my own world?'</p>
+   <p>'That's what you've always been, though.'</p>
+   <p>'I suppose. In a way. But at least I've been <emphasis>real</emphasis> up to now.'</p>
+   <p>'Whereas I'm not?'</p>
+   <p>'Are you, Charles?'</p>
+   <p>'Yes. Just as real as you. I was angry at first, when I found out the truth about myself. But I came to accept it. Somewhere between Mohenjo and here, I came to see that it was all right to be what I am: that I perceive things, I form ideas, I draw conclusions. I am very well designed, Gioia. I can't tell the difference between being what I am and being completely alive, and to me that's being real enough. I think, I feel, I experience joy and pain. I'm as real as I need to be. And you will be too. You'll never stop being Gioia, you know. It's only your body that you'll cast away, the body that played such a terrible joke on you anyway.' He brushed her cheek with his hand. 'It was all said for us before, long ago:</p>
+   <empty-line/>
+   <p><emphasis>Once out of nature I shall never take</emphasis></p>
+   <p><emphasis>My bodily form from any natural thing,</emphasis></p>
+   <p><emphasis>But such a form as Grecian goldsmiths make</emphasis></p>
+   <p><emphasis>Of hammered gold and gold enamelling</emphasis></p>
+   <p><emphasis>To keep a drowsy Emperor awake -</emphasis></p>
+   <empty-line/>
+   <p>'Is that the same poem?' she asked.</p>
+   <p>'The same poem, yes. The ancient poem that isn't quite forgotten yet.'</p>
+   <p>'Finish it, Charles.' </p>
+   <empty-line/>
+   <p><emphasis>- 'Or set upon a golden bough to sing</emphasis></p>
+   <p><emphasis>To lords and ladies of Byzantium </emphasis></p>
+   <p><emphasis>Of what is past, or passing, or to come.'</emphasis></p>
+   <empty-line/>
+   <p>'How beautiful. What does it mean?'</p>
+   <p>'That it isn't necessary to be mortal. That we can allow ourselves to be gathered into the artifice of eternity, that we can be transformed, that we can move on beyond the flesh. Yeats didn't mean it in quite the way I do - he wouldn't have begun to comprehend what we're talking about, not a word of it - and yet, and yet - the underlying truth is the same. Live, Gioia! With me!' He turned to her and saw colour coming into her pallid cheeks. 'It does make sense, what I'm suggesting, doesn't it? You'll attempt it, won't you? Whoever makes the visitors can be induced to remake you. Right? What do you think: can they, Gioia?'</p>
+   <p>She nodded in a barely perceptible way. 'I think so,' she said faintly. 'It's very strange. But I think it ought to be possible. Why not, Charles? Why not?'</p>
+   <p>'Yes,' he said. 'Why not?'</p>
+   <empty-line/>
+   <subtitle>****</subtitle>
+   <empty-line/>
+   <p>In the morning they hired a vessel in the harbour, a low sleek pirogue with a blood-red sad, skippered by a rascally-looking temporary whose smile was irresistible. Phillips shaded his eyes and peered northwards across the sea. He thought he could almost make out the shape of the great city sprawling on its seven hills, Constantine's New Rome beside the Golden Horn, the mighty dome of Hagia Sophia, the sombre walls of the citadel, the palaces and churches, the Hippodrome, Christ in glory rising above all else in brilliant mosaic streaming with light.</p>
+   <p>'Byzantium,' Phillips said. 'Take us there the shortest and quickest way.'</p>
+   <p>'It is my pleasure,' said the boatman with unexpected grace. Gioia smiled. He had not seen her looking so vibrantly alive since the night of the imperial feast in Chang-an. He reached for her hand - her slender fingers were quivering lightly - and helped her into the boat.</p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="img98FD.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CAHbASYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDsCSFwSe2PamgAjuQe9MyScnA559+KXOGx
+nAPT2rdpnnpjxgHB5B7U4uCMAAenJqI4HIPJJpFI5J5Pb6VLjoUmSk5PP5Ypm7DdSBS55wet
+OwCOgpJDuKSuMZFN2g5wKTCk/wBaUEH7vP409BC7COcZHrRjcCMfn3qQMAeQaQ4zgfnTAhMI
+IA6eozUMlsSvGCfpV3GTgDOe9GCQR3FUmJxuZ6xDIBzkjinPAQuV4PqOn41e8rcM4APal8s4
+xgY70OeocpjlCcgggfXn6ioJUZQe46g+tbD2oY5Izg/pUZtxnBHHb2qlOxLizDaOQqSDn2Aq
+tJCXGcHPUn/Guie1Uc5A57VWkt1OduQO5x1qlUTFqjFEBxkkfUUfZzkkcj3rS+ykcEjFL5IH
+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</binary>
+</FictionBook>

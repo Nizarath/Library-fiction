@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>A Tip on a Turtle</book-title>
+   <annotation>
+    <p>Here’s an elegant and darkly ironic look at the proposition that <emphasis>some</emphasis> things in life are better not to know…</p>
+   </annotation>
+   <date value="1991-05-01">1991</date>
+   <coverpage>
+    <image l:href="#a_tip_of_a_turtle.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-04-02">02.04.2012</date>
+   <id>FBD-4E7956-E847-A04E-4A94-ABC0-1BCC-BFD8BC</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Amazing Stories, May 1991</book-name>
+   <publisher>TSR, Inc.</publisher>
+   <year>1991</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>A Tip on a Turtle</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>The sun was going down in the usual spectacular Caribbean way, disappearing in a welter of purple and red and yellow streaks that lay across the wide sky beyond the hotel’s manicured golf course like a magnificent bruise. It was time to head for the turtle pool for the pre-dinner races. They held the races three times a day now, once after lunch, once before dinner, once after dinner. Originally the races had been nothing more than a casual diversion, but by now they had become a major item of entertainment for the guests and a significant profit center for the hotel.</p>
+   <p>As Denise took her place along the blazing bougainvillea hedge that flanked the racing pool, a quiet, deep voice just back of her left ear said, “You might try Number Four in the first race.”</p>
+   <p>It was the man she had noticed at the beach that afternoon, the tall tanned one with the powerful shoulders and the tiny bald spot. She had been watching him snorkeling along the reef, nothing visible above the surface of the water but his bald spot and the blue strap of his goggles and the black stalk of the snorkel. When he came to shore he walked right past her, seemingly lost in some deep reverie; but for a moment, just a moment, their eyes had met in a startling way. Then he had gone on, without a word or even a smile. Denise was left with the feeling that there was something tragic about him, something desperate, something haunted. That had caught her attention. Was he down here by himself? So it appeared. She too was vacationing alone. Her marriage had broken up during Christmas, as marriages so often did, and everyone had said she ought to get away for some midwinter sunshine. And, they hadn’t needed to add, for some postmarital diversion. She had been here three days so far and there had been plenty of sunshine but none of the other thing, not for lack of interest but simply because after five years of marriage she was out of practice at being seduced, or shy, or simply uneasy. She had been noticed, though. And had done some noticing.</p>
+   <p>She looked over her shoulder at him and said, “Are you telling me that the race is fixed?”</p>
+   <p>“Oh, no. Not at all.”</p>
+   <p>“I thought you might have gotten some special word from one of the hotel’s boys.”</p>
+   <p>“No,” he said. He was very tall, perhaps too tall for her, with thick, glossy black hair and dark, hooded eyes. Despite the little bald spot, he was probably forty at most. He was certainly attractive enough, almost movie-star handsome, and yet she found herself thinking unexpectedly that there was something oddly asexual about him. “I just have a good feeling about Number Four, that’s all. When I have a feeling of that sort it often works out very well.” A musical voice. Was that a faint accent? Or just an affectation?</p>
+   <p>He was looking at her in a curiously expectant way.</p>
+   <p>She knew the scenario. He had made the approach; now she should hand him ten Jamaican dollars and ask him to go over to the tote counter and bet them on Number Four for her; when he returned with her ticket they would introduce themselves; after the race, win or lose, they’d have a daiquiri or two together on the patio overlooking the pool, maybe come back to try their luck on the final race, then dinner on the romantic outdoor terrace and a starlight stroll under the palisade of towering palms that lined the beachfront promenade, and eventually they’d get around to settling the big question: his cottage or hers? But even as she ran through it all in her mind she knew she didn’t want any of it to happen. That lost, haunted look of his, which had seemed so wonderfully appealing for that one instant on the beach, now struck her as simply silly, melodramatic, overdone. Most likely it was nothing more than his modus operandi: women had been falling for that look of masterfully contained agony at least since Lord Byron’s time, probably longer. But not me, Denise told herself.</p>
+   <p>She gave him a this-leads-nowhere smile and said, “I dropped a fortune on these damned turtles last night, I’m afraid. I decided I was going to be just a spectator this evening.”</p>
+   <p>“Yes,” he said. “Of course.”</p>
+   <p>It wasn’t true. She had won twenty Jamaican dollars the night before and had been looking forward to more good luck now. Gambling of any sort had never interested her until this trip, but there had been a peculiar sort of pleasure last night in watching the big turtles gliding toward the finish line, especially when her choices finished first in three of the seven races. Well, she had committed herself to the sidelines for this evening by her little lie, and so be it. Tomorrow was another day.</p>
+   <p>The tall man smiled and shrugged and bowed and went away. A few moments later Denise saw him talking to the leggy, freckled woman from Connecticut whose husband had died in some kind of boating accident the summer before. Then they were on their way over to the tote counter and he was buying tickets for them. Denise felt sudden sharp annoyance, a stabbing sense of opportunity lost.</p>
+   <p>“Place your bets, ladies gemmun, place your bets!” the master of ceremonies called.</p>
+   <p>Mr. Eubanks, the night manager—shining black face, gleaming white teeth, straw hat, red-and-white striped shirt—sat behind the counter, busily ringing up the changing odds on a little laptop computer. A boy with a chalkboard posted them. Number Three was the favorite, three to two; Number Four was a definite long shot at nine to one. But then there was a little flurry of activity at the counter, and the odds on Four dropped abruptly to five to one. Denise heard people murmuring about that. And the the tote was closed and the turtles were brought forth.</p>
+   <p>Between races the turtles slept in a shallow, circular concrete-walled holding tank that was supplied with sea water by a conduit running up from the beach. They were big green ones, each with a conspicuous number painted on its upper shell in glowing crimson, and they were so hefty that the brawny hotel boys found it hard going to carry them the distance of twenty feet or so that separated the holding tank from the long, narrow pool where the races were held.</p>
+   <p>Now the boys stood in a row at the starting line, as though they themselves were going to race, while the glossy-eyed turtles they were clutching to their chests made sleepy graceless swimming motions in the air with their rough leathery flippers and rolled their spotted green heads slowly from side to side in a sluggish show of annoyance.</p>
+   <p>The master of ceremonies fired a starter’s pistol and the boys tossed the turtles into the pool. Graceless no longer, the big turtles were swimming the moment they hit the water, making their way into the blue depths of the pool with serene, powerful strokes.</p>
+   <p>There were six lanes, separated by bright yellow ribbons, but of course the turtles had no special reason for remaining in them. They roamed about randomly, perhaps imagining that they had been returned to the open sea, while the guests of the hotel roared encouragement “Come on, Five! Go for it, One! Move your green ass, Six!”</p>
+   <p>The first turtle to touch any part of the pool’s far wall was the winner. Ordinarily it took four or five minutes for that to happen; as the turtles wandered, they sometimes approached the finish line but didn’t necessarily choose to make contact with it, and wild screams would rise from the backers of this one or that as their turtle neared the wall, sniffed it, perhaps, and turned maddeningly away without making contact.</p>
+   <p>But this time one of the turtles was swimming steadily, almost purposefully, in a straight line from start to finish. Denise saw it moving along the floor of the pool like an Olympic competitor going for the gold. The brilliant crimson number on its back, though blurred and mottled by the water, was unmistakable.</p>
+   <p>“Four! Four! Four! Look at that bastard go!”</p>
+   <p>It was all over in moments. Four completed its traversal of the pool, lightly bumped its hooked snout against the far wall with almost contemptuous satisfaction, and swung around again on a return journey to the starting point, as if it had been ordered to swim laps. The other turtles were still moving about amiably in vague circles at mid-pool.</p>
+   <p>“Numbah Four,” called the master of ceremonies. “Pays off at five to one for de lucky winnahs, yessah yessah!”</p>
+   <p>The hotel boys had their nets out, scooping up the heavy turtles for the next race. Denise looked across the way. The leggy young widow from Connecticut was jubilantly waving a handful of gaudy Jamaican ten-dollar bills in the face of the tall man with the tiny bald spot. She was flushed and radiant; but he looked down at her solemnly from his great height without much sign of excitement, as though the dramatic victory of Number Four had afforded him neither profit nor joy nor any surprise at all.</p>
+   <empty-line/>
+   <p>The short, stocky, balding Chevrolet dealer from Long Island, whose features and coloration looked to be pure Naples but whose name was like something out of <emphasis>Brideshead Revisited</emphasis>—Lionel Gregson? Anthony Jenkins?—something like that—materialized at Denise’s side and said, “It doesn’t matter which turtle you bet, really. The trick is to bet the boys who throw them.”</p>
+   <p>His voice, too, had a hoarse Mediterranean fullness. Denise loved the idea that he had given himself such a fancy name.</p>
+   <p>“Do you really think so?”</p>
+   <p>“I know so. I been watching them three days, now. You see the boy in the middle? Hegbert, he’s called. Smart as a whip, and damn strong. He reacts faster when the gun goes off. And he don’t just throw his turtle quicker, he throws it harder. Look, can I get you a daiquiri? I don’t like being the only one drinking.“ He grinned. Two gold teeth showed. ”Jeffrey Thompkins, Oyster Bay. I had the privilege of talking with you a couple minutes two days ago on the beach.”</p>
+   <p>“Of course. I remember. Denise Carpenter. I’m from Clifton, New Jersey, and yes, I’d love a daiquiri.”</p>
+   <p>He snagged one from a passing tray. Denise thought his Hegbert theory was nonsense—the turtles usually swam in aimless circles for a while after they were thrown in, so why would the thrower’s reaction time or strength of toss make any difference?—but Jeffrey Thompkins himself was so agreeably real, so cheerfully blatant, that she found herself liking him tremendously after her brush with the Byronic desperation of the tall man with the little bald spot. The phonied-up name was a nice capping touch, the one grotesque bit of fraudulence that made everything else about him seem more valid. Maybe he needed a name like that where he lived, or where he worked.</p>
+   <p>Now that she had accepted a drink from him, he moved a half step closer to her, taking on an almost proprietary air. He was about two inches shorter than she was.</p>
+   <p>“I see that Hegbert’s got Number Three in the second race. You want I should buy you a ticket?”</p>
+   <p>The tall man was covertly watching her, frowning a little. Maybe he was bothered that she had let herself be captured by the burly little car dealer. She hoped so.</p>
+   <p>But she couldn’t let Thompkins get a ticket for her after she had told the tall man she wasn’t betting tonight. Not if the other one was watching. She’d have to stick with her original fib.</p>
+   <p>“Somehow I don’t feel like playing the turtles tonight,” she said. “But you go ahead, if you want.”</p>
+   <p>“Place your bets, ladies gemmun, place your bets!”</p>
+   <p>Hegbert did indeed throw Number Three quickly and well, but it was Five that won the race, after some minutes of the customary random noodling around in the pool. Five paid off at three to one. A quick sidewise glance told Denise that the tall man and the leggy Connecticut widow had been winners again.</p>
+   <p>“Watch what that tall guy does in the next race,” she heard someone say nearby. “That’s what I’m going to do. He’s a pro. He’s got a sixth sense about these turtles. He just wins and wins and wins.”</p>
+   <p>But watching what the tall man did in the next race was an option that turned out not to be available. He had disappeared from the pool area somewhere between the second and third races. And so, Denise noted with unexpectedly sharp displeasure, had the woman from Connecticut.</p>
+   <empty-line/>
+   <p>Thompkins, still following his Hegbert system, bet fifty on Number Six in the third race, cashed in at two to one, then dropped his new winnings and fifty besides backing Number Four in the fourth. Then he invited Denise to have dinner with him on the terrace. What the hell, she thought. Last night she had had dinner alone; very snooty, she must have seemed. It hadn’t been fun.</p>
+   <p>In the uneasy first moments at the table they talked about the tall man. Thompkins had noticed his success with the turtles also. “Strange guy,” he said. “Gives me the creeps—something about the look in his eye. But you see how he makes out at the races?”</p>
+   <p>“He does very well.”</p>
+   <p>“Well? He cleans up! Can’t lose for winning.”</p>
+   <p>“Some people have unusual luck, I suppose.”</p>
+   <p>“This ain’t luck. My guess is maybe he’s got a fix in with the boys—like they tell him what turtle’s got the mojo in the upcoming race. Some kind of high sign they give him when they’re lining up for the throw-in.”</p>
+   <p>“How can that be? Turtles are turtles. They just swim around in circles until one of them happens to hit the far wall with his nose.”</p>
+   <p>“No,” said Thompkins. “I think he knows something. Or maybe not. But the guy’s hot for sure. Tomorrow I’m going to bet the way he does, right down the line, race by race. There are other people here doing it already. That’s why the odds go down on the turtle he bets, once they see which one he’s backing. If the guy’s hot, why not get in on his streak?”</p>
+   <p>He ordered a white Italian wine with the first course, which was grilled flying fish with brittle orange caviar globules on the side. “I got to confess,” he said, grinning again, “Jeffrey Thompkins is not really my name. It’s Taormina, Joey Taormina. But that’s hard to pronounce out where I live, so I changed it.”</p>
+   <p>“I did wonder. You look… it is Neapolitan?”</p>
+   <p>“Worse. Sicilian. Anybody you meet named Taormina, his family’s originally from Sicily. Taormina’s a city on the east coast of Sicily. Gorgeous place. I’d love to show you around it some day.”</p>
+   <p>He was moving a little too fast, she thought. A lot too fast.</p>
+   <p>“I have a confession too,” she said. “I’m not from Clifton any more. I moved back into the city a month ago after my marriage broke up.”</p>
+   <p>“That’s a damn shame.” He might almost have meant it. “I’m divorced too. It practically killed my mother when I broke the news. Well, you get married too young, you get surprised later on.” A quick grin; he wasn’t all that saddened by what he had learned about her. “How about some red wine with the main course? They got a good Brunello here.”</p>
+   <p>A little later he invited her, with surprising subtlety, to spend the night with him. As gently as she could, she declined. “Well, tomorrow’s another day,” he said cheerfully. Denise found herself wishing he had looked a little wounded, just a little.</p>
+   <empty-line/>
+   <p>The daytime routine was simple. Sleep late, breakfast on the cottage porch looking out at the sea, then a long ambling walk down the beach, poking in tide pools and watching ghostly gray crabs scutter over the pink sand. Midmorning, swim out to the reef with snorkel and fins, drift around for half an hour or so staring at the strangely contorted coral heads and the incredibly beautiful reef creatures. It was like another planet, out there on the reef. Gnarled coral rose from the sparkling white sandy ocean floor to form fantastic facades and spires through which a billion brilliant fishes, scarlet and green and turquoise and gold in every imaginable color combination, chased each other around. Every surface was plastered with pastel-hued sponges and algae. Platoons of tiny squids swam in solemn formation. Toothy, malevolent-looking eels peered out of dark caverns. An occasional chasm led through the coral wall to the deep sea beyond, where the water was turbulent instead of calm, a dark blue instead of translucent green, and the ocean floor fell away to invisible depths. But Denise never went to the far side. There was something ominous and threatening about the somber outer face of the reef, whereas here, within, everything was safe, quiet, lovely.</p>
+   <p>After the snorkeling came a shower, a little time spent reading on the porch, then the outdoor buffet lunch. Afterwards a nap, a stroll in the hotel’s flamboyant garden, and by mid-afternoon down to the beach again, not for a swim this time, but just to bake in the blessed tropical sun. She’d worry about the possibility of skin damage some other time; right now what she needed was that warm caress, that torrid all-enfolding embrace. Two hours dozing in the sun, then back to the room, shower again, read, dress for dinner. And off to the turtle races. Denise never bothered with the ones after lunch—they were strictly for the real addicts—but she had gone every evening to the pre-dinner ones.</p>
+   <p>A calm, mindless schedule. Exactly the ticket, after the grim, exhausting domestic storms of October and November and the sudden final cataclysm of December. Even though in the end she had been the one who had forced the breakup, it had still come as a shock and a jolt: she too was getting divorced, just another pathetic casualty of the marital wars, despite all the high hopes of the beginning, the grand plans she and Michael liked to make, the glowing dream. Everything dissolving now into property squabbles, bitter recriminations, horrifying legal fees. How sad: how boring, really. And how destructive to her peace of mind, her self-esteem, her sense of order, her this, her that, her everything. For which there was no cure, she knew, other than to lie here on this placid Caribbean beach under this perfect winter sky and let the healing slowly happen.</p>
+   <p>Jeffrey Thompkins had the tact—or the good strategic sense—to leave her alone during the day. She saw him in the water, not snorkeling around peering at the reef but simply chugging back and forth like a blocky little machine, head down, arms windmilling, swimming parallel to the hotel’s enormous ocean frontage until he had reached the cape just to the north, then coming back the other way. He was a formidable swimmer with enough energy for six men. Quite probably he was like that in bed, too, but Denise had decided somewhere between the white wine and the red at dinner last night that she didn’t intend to find out. She liked him, yes. And she intended to have an adventure of some sort with <emphasis>someone</emphasis> while she was down here. But a Chevrolet dealer from Long Island? Shorter than she was, with thick hairy shoulders? Somehow she couldn’t. She just couldn’t, not her first fling after the separation. He seemed to sense it too, and didn’t bother her at the beach, even had his lunch at the indoor dining room instead of the buffet terrace. But she suspected she’d encounter him again at evening turtle-race time.</p>
+   <p>Yes: there he was. Grinning hopefully at her from the far side of the turtle pool, but plainly waiting to pick up some sort of affirmative signal from her before coming toward her.</p>
+   <p>There was the tall dark-haired man with the tiny bald spot, too. Without the lady from Connecticut. Denise had seen him snorkeling on the reef that afternoon, alone, and here he was alone again, which meant, most likely, that last night had been Mme. Connecticut’s final night at the hotel. Denise was startled to realize how much relief that conclusion afforded her.</p>
+   <p>Carefully not looking in Jeffrey Thompkins’s direction, she went unhesitatingly toward the tall man.</p>
+   <p>He was wearing a dark cotton suit and, despite the warmth, a narrow black tie flecked with gold, and he looked very, very attractive. She couldn’t understand how she had come to think of him as sexless the night before: some inexplicable flickering of her own troubled moods, no doubt. Certainly he didn’t seem that way now. He smiled down at her. He seemed actually pleased to see her, though she sensed behind the smile a puzzling mixture of other emotions—aloofness, sadness, regret? That curious tragic air of his: not a pose, she began to think, but the external manifestation of some deep and genuine wound.</p>
+   <p>“I wish I had listened to you last night,” she said. “You knew what you were talking about when you told me to bet Number Four.”</p>
+   <p>He shrugged almost imperceptibly. “I didn’t really think you’d take my advice. But I thought I’d make the gesture all the same.”</p>
+   <p>“That was very kind of you,” she said, leaning inward and upward toward him. “I’m sorry I was so skeptical.” She flashed her warmest smile. “I’m going to be very shameless. I want a second chance. If you’ve got any tips to offer on tonight’s races, please tell me. I promise not to be such a skeptic this time.”</p>
+   <p>“Number Five in this one,” he replied at once. “Nicholas Holt, by the way.”</p>
+   <p>“Denise Carpenter. From Clifton, New Jer—” She cut herself off, reddening. He hadn’t told her where he was from. She wasn’t from Clifton any longer anyway; and what difference did it make where she might live up north? This island resort was intended as a refuge from all that, a place outside time, outside familiar realities. “Shall we place our bets?” she said briskly.</p>
+   <p>Women didn’t usually buy tickets themselves here. Men seemed to expect to do that for them. She handed him a fifty, making sure as she did so that her fingers were extended to let him see that she wore no wedding band. But Holt didn’t make any attempt to look. His own fingers were just as bare.</p>
+   <p>She caught sight of Jeffrey Thompkins at a distance, frowning at her but not in any very troubled way; and she realized after a moment that he evidently was undisturbed by her defection to the tall man’s side and simply wanted to know which turtle Holt was backing. She held up her hand, five fingers outspread. He nodded and went scurrying up to the tote counter.</p>
+   <p>Number Five won easily. The payoff was seven to three. Denise looked at Holt with amazement.</p>
+   <p>“How do you do it?” she asked.</p>
+   <p>“Concentration,” he said. “Some people have the knack.”</p>
+   <p>He seemed very distant, suddenly.</p>
+   <p>“Are you concentrating on the next race, now?”</p>
+   <p>“It’ll be Number One,” he told her, as though telling her that the weather tomorrow would be warm and fair.</p>
+   <p>Thompkins stared at her out of the crowd. Denise flashed one finger at him.</p>
+   <p>She felt suddenly ill at ease. Nicholas Holt’s knack, or whatever it was, bothered her. He was too confident, too coolly certain of what was going to happen. There was something annoying and almost intimidating about such confidence. Although she had bet fifty Jamaican dollars on Number One, she found herself wishing perversely that the turtle would lose.</p>
+   <p>Number One it was, though, all the same. The payoff was trifling; it seemed as if almost everyone in the place had followed Holt’s lead, and as a result the odds had been short ones. Since the races, as Denise was coming to see, were truly random—the turtles didn’t give a damn and were about equal in speed—the only thing governing the patterns of oddsmaking was the way the guests happened to bet, and that depended entirely on whatever irrational set of theories the bettors had fastened on. But the theory Nicholas Holt was working from didn’t appear to be irrational.</p>
+   <p>“And in the third race?” she said.</p>
+   <p>“I never bet more than the first two. It gets very dull for me after that. Shall we have dinner?”</p>
+   <p>He said it as if her acceptance were a foregone conclusion, which would have offended her, except that he was right.</p>
+   <p>The main course that night was island venison. “What would you say to a bottle of Merlot?”</p>
+   <p>“It’s my favorite wine.”</p>
+   <p>How did he do it? Was everything simply an open book to him?</p>
+   <p>He let her do most of the talking at dinner. She told him about the gallery where she worked, about her new little apartment in the city, about her marriage, about what had happened to her marriage. A couple of times she felt herself beginning to babble—the wine, she thought, it was the wine— and she reined herself in. But he showed no sign of disapproval, even when she realized she had been going on about Michael much too long. He listened gravely and quietly to everything she said, interjecting a bland comment now and then, essentially just a little prompt to urge her to continue: “Yes, I see,” or “Of course,” or “I quite understand.” He told her practically nothing about himself, only that he lived in New York—where?—and that he did something on Wall Street—unspecified—and that he spent two weeks in the West Indies every February but had never been to Jamaica before. He volunteered no more than that: she had no idea where he had grown up— surely not in New York, from the way he spoke—or whether he had ever been married, or what his interests might be. But she thought it would be gauche to be too inquisitive, and probably unproductive. He was very well defended, polite and calm and remote, the most opaque man she had ever known. He played his part in the dinner conversation with the tranquil, self-possessed air of someone who was following a very familiar script.</p>
+   <p>After dinner they danced, and it was the same thing there: he anticipated her every move, smoothly sweeping her around the open-air dance floor in a way that soon had everyone watching them. Denise was a good dancer, skilled at the tricky art of leading a man who thought he was leading her; but with Nicholas Holt the feedback was so complex that she had no idea who was leading whom. They danced as though they were one entity, moving with a single accord: the way people dance who have been dancing together for years. She had never known a man who danced like that.</p>
+   <p>On one swing around the floor she had a quick glimpse of Jeffrey Thompkins, dancing with a robust, red-haired woman half a head taller than he was. Thompkins was pushing her about with skill and determination but no grace at all, somewhat in the style of a rhinoceros who has had a thousand years of instruction at Arthur Murray. As he went thundering past he looked back at Denise and smiled an intricate smile that said a dozen different things. It acknowledged the fact that he was clumsy and his partner was coarse, that Holt was elegant and Denise was beautiful, that men like Holt always were able to take women like Denise away from men like Thompkins. But also the smile seemed to be telling her that Thompkins didn’t mind at all, that he accepted what had happened as the natural order of things, had in fact expected it with much the same sort of assurance as Holt had expected Number Five to win tonight’s first race. Denise realized that she had felt some guilt about sidestepping Thompkins and offering herself to Holt and that his smile just now had canceled it out; and then she wondered why she had felt the guilt in the first place. She owed nothing to Thompkins, after all. He was simply a stranger who had asked her to dinner last night. They were all strangers down here: nobody owed anything to anyone.</p>
+   <p>“My cottage is just beyond that little clump of bamboo,” Holt said, after they had had the obligatory beach-front stroll on the palm promenade. He said it as if they had already agreed to spend the night there. She offered no objections. This was what she had come here for, wasn’t it? Sunlight and warmth and tropical breezes and this.</p>
+   <p>As he had on the dance floor, so too in bed was he able to anticipate everything she wanted. She had barely thought of something but he was doing it; sometimes he did it even before she knew she wanted him to. It was so long since she had made love with anyone but Michael that Denise wasn’t sure who the last one before him had been; but she knew that she had never been to bed with anyone like this. She moved here, he was on his way there already. She did this, he did it too. This and that. Her hand, his hand. Her lips, his lips. It was all extremely weird: very thrilling and yet oddly hollow, like making love to your own reflection.</p>
+   <p>He must be able to read minds, she thought suddenly, as they lay side by side, resting for a while.</p>
+   <p>An eerie notion. It made her feel nakeder than naked: bare right down to her soul, utterly vulnerable, defenseless.</p>
+   <p>But the power to read minds, she realized after a moment, wouldn’t allow him to do that trick with the turtle races. That was prediction, not mind-reading. It was second sight.</p>
+   <p>Can he see into the future? Five minutes, ten minutes, half a day ahead? She thought back. He always seemed so unsurprised at everything. When she had told him she didn’t intend to do any betting, that first night, he had simply said, “Of course.” When his turtle had won the race he had shown no flicker of excitement or pleasure. When she had apologized tonight for not having acted on his tip, he had told her blandly that he hadn’t expected her to. The choice of wine—the dinner conversation—the dancing—the lovemaking—</p>
+   <p>Could he see everything that was about to happen? <emphasis>Everything</emphasis>?</p>
+   <p>On Wall Street, too? Then he must be worth a fortune.</p>
+   <p>But why did he always look so sad, then? His eyes so bleak and haunted, those little lines of grimness about his lips?</p>
+   <p>This is all crazy, Denise told herself. Nobody can see the future. The future isn’t a place you can look into, the way you can open a door and look into a room. The future doesn’t exist until it’s become the present.</p>
+   <p>She turned to him. But he was already opening his arms to her, bringing his head down to graze his lips across her breasts.</p>
+   <empty-line/>
+   <p>She left his cottage long before dawn, not because she really wanted to but because she was unwilling to have the maids and gardeners see her go traipsing back to her place in the morning still wearing her evening clothes, and hung the DO NOT DISTURB sign on her door.</p>
+   <p>When she woke, the sun was blazing down through the bamboo slats of the cottage porch. She had slept through breakfast and lunch. Her throat felt raspy and there was the sensation of recent lovemaking between her legs, so that she automatically looked around for Michael and was surprised to find herself alone in the big bed; and then she remembered, first that she and Michael were all finished, then that she was here by herself, then that she had spent the night with Nicholas Holt.</p>
+   <p>Who can see the future. She laughed at her own silliness.</p>
+   <p>She didn’t feel ready to face the outside world, and called room service to bring her tea and a tray of fruit. They sent her mango, jackfruit, three tiny reddish bananas, and a slab of papaya. Later she suited up and went down to the beach. She didn’t see Holt anywhere around, neither out by the reef as he usually was in the afternoon, nor on the soft pink sand. A familiar stocky form was churning up the water with cannonball force, doing his laps, down to the cape and back, again, again, again. Thompkins. After a time he came stumping ashore. Not at all coy now, playing no strategic games, he went straight over to her.</p>
+   <p>“I see that your friend Mr. Holt’s in trouble with the hotel,” he said, sounding happy about it.</p>
+   <p>“He is? How so?”</p>
+   <p>“You weren’t at the turtle races after lunch, were you?”</p>
+   <p>“I never go to the afternoon ones.”</p>
+   <p>“That’s right, you don’t. Well, I was there. Holt won the first two races, the way he always does. Everybody bet the way he did. The odds were microscopic, naturally. But everybody won. And then two of the hotel managers—you know, Eubanks, the night man who has that enormous grin all the time, and the other one with the big yellow birthmark on his forehead?— came over to him and said, ‘Mr. Holt, sah, we would prefer dat you forego the pleasure of the turtle racing from this point onward.’ ” The Chevrolet dealer’s imitation of the Jamaican accent was surprisingly accurate. “ ‘We recognize dat you must be an authority on turtle habits, sah,’ they said. ‘Your insight we find to be exceedingly uncanny. And derefore it strikes us dat it is quite unsporting for you to compete. Quite, sah!’ ”</p>
+   <p>“And what did he say?”</p>
+   <p>“That he doesn’t know a goddamned thing about turtles, that he’s simply on a roll, that it’s not his fault if the other guests are betting the same way he is. They asked him again not to play the turtles—‘We implore you, sah, you are causing great losses for dis establishment’—and he kept saying he was a registered guest and entitled to all the privileges of a guest. So they canceled the races.”</p>
+   <p>“Canceled them?”</p>
+   <p>“They must have been losing a fucking fortune this week on those races, if you’ll excuse the French. You can’t run pari-mutuels where everybody bets the same nag and that nag always wins, you know? Wipes you out after a while. So they didn’t have races this afternoon and there won’t be any tonight unless he agrees not to play.” Thompkins smirked. “The guests are pretty pissed off, I got to tell you. The management is trying to talk him into changing hotels, that’s what someone just said. But he won’t do it. So no turtles. You ask me, I still think he’s been fixing it somehow with the hotel boys, and the hotel must think so too, but they don’t dare say it. Man with a winning streak like that, there’s just no accounting for it any other way, is there?”</p>
+   <p>“No,” Denise said. “No accounting for it at all.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>It was cocktail time before she found him: the hour when the guests gathered on the garden patio where the turtle races were held to have a daiquiri or two before the tote counter opened for business. Denise drifted down there automatically, despite what Thompkins had told her about the cancellation of the races. Most of the other guests had done the same. She saw Holt’s lanky figure looming up out of a group of them. They had surrounded him; they were gesturing and waving their daiquiris around as they talked. It was easy enough to guess that they were trying to talk him into refraining from playing the turtles so that they could have their daily amusement back.</p>
+   <p>When she came closer she saw the message chalked across the tote board in an ornate Jamaican hand, all curlicues and flourishes:</p>
+   <empty-line/>
+   <cite>
+    <p>TECHNICAL PROBLEM</p>
+    <p>NO RACES TODAY</p>
+    <p>YOUR KIND INDULGENCE IS ASKED</p>
+   </cite>
+   <empty-line/>
+   <p>“Nicholas?” she called, as though they had a prearranged date.</p>
+   <p>He smiled at her gratefully. “Excuse me,” he said in his genteel way to the cluster of people around him, and moved smoothly through them to her side. “How lovely you look tonight, Denise.”</p>
+   <p>“I’ve heard that the hotel’s putting pressure on you about the races.”</p>
+   <p>“Yes. Yes.” He seemed to be speaking to her from another galaxy. “So they are. They’re quite upset, matter of fact. But if there’s going to be racing, I have a right to play. If they choose to cancel, that’s their business.”</p>
+   <p>In a low voice she said, “You aren’t involved in any sort of collusion with the hotel boys, are you?”</p>
+   <p>“You asked me that before. You know that isn’t possible.”</p>
+   <p>“Then how are you always able to tell which turtle’s going to win?”</p>
+   <p>“I know,” he said sadly. “I simply do.”</p>
+   <p>“You always know what’s about to happen, don’t you? Always.”</p>
+   <p>“Would you like a daiquiri, Denise?”</p>
+   <p>“Answer me. Please.”</p>
+   <p>“I have a knack, yes.”</p>
+   <p>“It’s more than a knack.”</p>
+   <p>“A gift, then. A special… something.”</p>
+   <p>“A something, yes.” They were walking as they talked; already they were past the bougainvillea hedge, heading down the steps toward the beachfront promenade, leaving the angry guests and the racing pool and the turtle tank behind.</p>
+   <p>“A very reliable something,” she said.</p>
+   <p>“Yes. I suppose it is.”</p>
+   <p>“You said that you knew, the first night when you offered me that tip, that I wasn’t going to take you up on it. Why did you offer it to me, then?”</p>
+   <p>“I told you. It seemed like a friendly gesture.”</p>
+   <p>“We weren’t friends then. We’d hardly spoken. Why’d you bother?”</p>
+   <p>“Just because.”</p>
+   <p>“Because you wanted to test your special something?” she asked him. “Because you wanted to see whether it was working right?”</p>
+   <p>He stared at her intently. He looked almost frightened, she thought. She had broken through.</p>
+   <p>“Perhaps I did,” he said.</p>
+   <p>“Yes. You check up on it now and then, don’t you? You try something that you know won’t pan out, like tipping a strange woman to the outcome of the turtle race even though your gift tells you that she won’t bet your tip. Just to see whether your guess was on the mark. But what would you have done if I had put a bet down that night, Nicholas?”</p>
+   <p>“You wouldn’t have.”</p>
+   <p>“You were certain of that.”</p>
+   <p>“Virtually certain, yes. But you’re right: I test it now and then, just to see.”</p>
+   <p>“And it always turns out the way you expect?”</p>
+   <p>“Essentially, yes.”</p>
+   <p>“You’re scary, Nicholas. How long have you been able to do stuff like this?”</p>
+   <p>“Does that matter?” he asked. “Does it really?”</p>
+   <empty-line/>
+   <p>He asked her to have dinner with him again, but there was something perfunctory about the invitation, as though he were offering it only because the hour was getting toward dinnertime and they happened to be standing next to each other just then.</p>
+   <p>She accepted quickly, perhaps too quickly. But the dining terrace was practically empty when they reached it—they were very early, on account of the cancellation of the races—and the meal was a stiff, uncomfortable affair. He was so obviously bothered by her persistent inquiries about his baffling skill, his special something, that she soon backed off, but that left little to talk about except the unchanging perfect weather, the beauty of the hotel grounds, and rumors of racial tension elsewhere on the island.</p>
+   <p>He toyed with his food and ate very little. They ordered no wine. It was like sitting across the table from a stranger who was dining with her purely by chance. And yet less than twenty-four hours before she had spent a night in this man’s bed.</p>
+   <p>She didn’t understand him at all. He was alien and mysterious and a little frightening. But somehow, strangely, that made him all the more desirable.</p>
+   <p>As they were sipping their coffee she looked straight at him and sent him a message with her mind:</p>
+   <p><emphasis>Ask me to come dancing with you, next. And then let’s go to your cottage again, you bastard.</emphasis></p>
+   <p>But instead he said abruptly, “Would you excuse me, Denise?”</p>
+   <p>She was nonplussed. “Why—yes—if—”</p>
+   <p>He looked at his watch. “I’ve rented a glass-bottomed boat for eight o’clock. To have a look at the night life out on the reef.”</p>
+   <p>The night was when the reef came alive. The little coral creatures awoke and unfolded their brilliant little tentacles; phosphorescent organisms began to glow; octopuses and eels came out of their dark crannies to forage for their meals; sharks and rays and other big predators set forth on the hunt. You could take a boat out there that was equipped with bottom-mounted arc lights and watch the show, but very few of the hotel guests actually did. The waters that were so crystalline and inviting by day looked ominous and menacing in the dark, with sinister coral humps rising like black ogres’ heads above the lapping wavelets. She had never even thought of going.</p>
+   <p>But now she heard herself saying, in a desperate attempt at salvaging something out of the evening, “Can I go with you?”</p>
+   <p>“I’m sorry. No.”</p>
+   <p>“I’m really eager to see what the reef looks like at—”</p>
+   <p>“No,” he said, quietly but with real finality. “It’s something I’d rather do by myself, if you don’t mind. Or even if you do mind, I have to tell you. Is that all right, Denise?”</p>
+   <p>“Will I see you afterward?” she asked, wishing instantly that she hadn’t. But he had already risen. He gave her a gentlemanly little smile of farewell and strode down the terrace toward the steps that led to the beachfront promenade.</p>
+   <p>She stared after him, astounded by the swiftness of his disappearance, the unexpectedness of it.</p>
+   <p>She sat almost without moving, contemplating her bewildering abandonment. Five minutes went by, maybe ten. The waiter unobtrusively brought her another coffee. She held the cup in her hand without drinking from it.</p>
+   <p>Jeffrey Thompkins materialized from somewhere, hideously cheerful. “If you’re free,” he said, “how about an after-dinner liqueur?” He was wearing a white dinner jacket, very natty, and sharply pressed black trousers. But his round neckless head and the blaze of sunburn across his bare scalp spoiled the elegant effect. “A Strega, a Galliano, a nice cognac, maybe?” He pronounced it “cone-yac.”</p>
+   <p>“Something weird’s going on,” she said.</p>
+   <p>“Oh?”</p>
+   <p>“He went out on the reef in one of those boats, by himself. Holt. Just got up and walked away from the table, said he’d rented a boat for eight o’clock. Poof. Gone.”</p>
+   <p>“I’m heartbroken to hear it.”</p>
+   <p>“No, be serious. He was acting really strange. I asked to go with him, and he said no, I absolutely couldn’t. He sounded almost like some sort of machine. You could hear the gears clicking.”</p>
+   <p>Thompkins said, all flippancy gone from his voice now, “You think he’s going to do something to himself out there?”</p>
+   <p>“No. Not him. That’s one thing I’m sure of.”</p>
+   <p>“Then what?”</p>
+   <p>“I don’t know.”</p>
+   <p>“A guy like that, all keyed up all the time and never letting on a thing to anybody—” Thompkins looked at her closely. “You know him better than I do. You don’t have any idea what he might be up to?”</p>
+   <p>“Maybe he just wants to see the reef. I don’t know. But he seemed so peculiar when he left—so rigid, so <emphasis>focused—”</emphasis></p>
+   <p>“Come on,” Thompkins said. “Let’s get one of those boats and go out there ourselves.”</p>
+   <p>“But he said he wanted to go alone.”</p>
+   <p>“Screw what he said. He don’t own the reef. We can go for an expedition too, if we want to.”</p>
+   <empty-line/>
+   <p>It took a few minutes to arrange things. “You want a guided tour, sah?” the boy down at the dock asked, but Thompkins said no, and helped Denise into the boat as easily as though she were made of feathers. The boy shook his head. “Nobody want a guide tonight. You be careful out dere, stay dis side of the reef, you hear me, sah?”</p>
+   <p>Thompkins switched on the lights and took the oars. With quick, powerful strokes he moved away from the dock. Denise looked down. There was nothing visible below but the bright white sand of the shallows, a few long-spined sea urchins, some starfish. As they approached the reef, a hundred yards or so off shore, the density of marine life increased: schools of brilliant fishes whirled and dived, a somber armada of squids came squirting past.</p>
+   <p>There was no sign of Holt. “We ought to be able to see his lights,” Denise said. “Where can he have gone?”</p>
+   <p>Thompkins had the boat butting up against the flat side of the reef now. He stood up carefully and stared into the night.</p>
+   <p>“The crazy son of a bitch,” he muttered. “He’s gone outside the reef! Look, there he is.”</p>
+   <p>He pointed. Denise, half rising, saw nothing at first; and then there was the reflected glow of the other boat’s lights, on the far side of the massive stony cluster and intricacy that was the reef. Holt had found one of the passageways through and was coasting along the reef’s outer face, where the deep-water hunters came up at night, the marlins and swordfish and sharks.</p>
+   <p>“What the hell does he think he’s doing?” Thompkins asked. “Don’t he know it’s dangerous out there?”</p>
+   <p>“I don’t think that worries him,” said Denise.</p>
+   <p>“So you do think he’s going to do something to himself.”</p>
+   <p>“Just the opposite. He knows that he’ll be all right out there, or he wouldn’t be there. He wouldn’t have gone if he saw any real risk in it.”</p>
+   <p>“Unless risk is what he’s looking for.”</p>
+   <p>“He doesn’t live in a world of risk,” she said. “He’s got a kind of sixth sense. He always knows what’s going to happen next.”</p>
+   <p>“Huh?”</p>
+   <p>Words came pouring out of her. “He can see the future,” she said fiercely, not caring how wild it sounded. “It’s like an open book to him. How do you think he does that trick with the turtles?”</p>
+   <p>“Huh?” Thompkins said again. “The <emphasis>future</emphasis>?” He peered at her, shaking his head slowly.</p>
+   <p>Then he swung sharply around as if in response to some unexpected sound from the sea. He shaded his forehead with his hand, the way he might have done if he were peering into bright sunlight. After a moment he pointed into the darkness beyond the reef and said in a slow awed tone, “What the fuck! Excuse me. But Jesus, will you look at that?”</p>
+   <p>She stared past him, toward the suddenly foaming sea.</p>
+   <p>Something was happening on the reef’s outer face. Denise saw it unfolding as if in slow motion. The ocean swelling angrily, rising, climbing high. The single great wave barrelling in as though it had traveled all the way from Alaska for this one purpose. The boat tilting up on end, the man flying upward and outward, soaring gracefully into the air, traveling along a smooth curve like an expert diver and plummeting down into the black depths just beside the reef’s outer face. And then the last curling upswing of the wave, the heavy crash as it struck the coral wall.</p>
+   <p>In here, sheltered by the reef, they felt only a mild swaying, and then everything was still again.</p>
+   <p>Thompkins clapped his hand over his mouth. His eyes were bulging. “Jesus,” he said after a moment. “Jesus! How the fuck am I going to get out there?” He turned toward Denise. “Can you row this thing back to shore by yourself?”</p>
+   <p>“I suppose so.”</p>
+   <p>“Good. Take it in and tell the boat boy what happened. I’m going after your friend.”</p>
+   <p>He stripped with astonishing speed, the dinner jacket, the sharply creased pants, the shirt and tie, the black patent leather shoes. Denise saw him for a moment outlined against the stars, the fleshy burly body hidden only by absurd bikini pants in flamboyant scarlet silk. Then he was over the side, swimming with all his strength, heading for one of the openings in the reef that gave access to the outer face.</p>
+   <empty-line/>
+   <p>She was waiting among the crowd on the shore when Thompkins brought the body in, carrying it like a broken doll. He had been much too late, of course. One quick glance told her that Holt must have been tossed against the reef again and again, smashed, cut to ribbons by the sharp coral, partly devoured, even, by the creatures of the night. Thompkins laid him down on the beach. One of the hotel boys put a blanket over him; another gave Thompkins a robe. He was scratched and bloody himself, shivering, grim-faced, breathing in windy gusts. Denise went to him. The others backed away, stepping back fifteen or twenty feet, leaving them alone, strangely exposed, beside the blanketed body.</p>
+   <p>“Looks like you were wrong,” Thompkins said. “About that sixth sense of his. Or else it wasn’t working so good tonight.”</p>
+   <p>“No,” she said. For the past five minutes she had been struggling to put together the pattern of what had happened, and it seemed to her now that it was beginning to come clear. “It was working fine. He knew this would happen.”</p>
+   <p>“What?”</p>
+   <p>“He knew. Like I said before, he knew everything ahead of time. Everything. Even this. But he went along with it anyway.”</p>
+   <p>“But if he knew everything, then why… why…” Thompkins shook his head. “I don’t get it.”</p>
+   <p>Denise shuddered in the warm night breeze. “No, you don’t. You can’t. Neither can I.”</p>
+   <p>“Miss Carpentah?” a high, strained voice called. “Mistah Thompkins?”</p>
+   <p>It was the night manager, Mr. Eubanks of the dazzling grin, belatedly making his way down from the hotel. He wasn’t grinning now. He looked stricken, panicky, strangely pasty-faced. He came to a halt next to them, knelt, picked up one corner of the beach blanket, stared at the body beneath it as though it were some bizarre monster that had washed ashore. A guest had died on his watch, and it was going to cost him, he was sure of that, and his fear showed in his eyes.</p>
+   <p>Thompkins, paying no attention to the Jamaican, said angrily to Denise, “If he knew what was going to happen, if he could see the fucking future, why in the name of Christ didn’t he simply not take the boat out, then? Or if he did, why fool around outside the reef where it’s so dangerous? For that matter, why didn’t he just stay the hell away from Jamaica in the first place?”</p>
+   <p>“That’s what I mean when I tell you that we can’t understand,” she said. “He didn’t think the way we do. He wasn’t like us. Not at all. Not in the slightest.”</p>
+   <p>“Mistah Thompkins—Miss Carpentah—if you would do me de courtesy of speaking with me for a time—of letting me have de details of dis awful tragedy—”</p>
+   <p>Thompkins brushed Eubanks away as if he were a gnat.</p>
+   <p>“I don’t know what the fuck you’re saying,” he told Denise.</p>
+   <p>Eubanks said, exasperated, “If de lady and gemmun will give me deir kind attention, <emphasis>please—”</emphasis></p>
+   <p>He looked imploringly toward Denise. She shook him off. She was still groping, still reaching for the answer.</p>
+   <p>Then, for an instant, just for an instant, everything that was going on seemed terribly familiar to her. As if it had all happened before. The warm, breezy night air. The blanket on the beach. The round, jowly, baffled face of Jeffrey Thompkins hovering in front of hers. Mr. Eubanks, pale with dismay. An odd little moment of déjà vu. It appeared to go on and on. Now Eubanks will lose his cool and try to grab me by the arm, she thought; now I will pull back and slip on the sand; now Jeffrey will catch me and steady me. Yes. Yes. And here it comes. “Please, you may not ignore me dis way! You must tell me what has befallen dis unfortunate gemmum!” That was Eubanks, eyes popping, forehead shiny with sweat. Making a pouncing movement toward her, grabbing for her wrist. She backed hastily away from him. Her legs felt suddenly wobbly. She started to sway and slip, and looked toward Thompkins. But he was already coming forward, reaching out toward her to take hold of her before she fell. Weird, she thought. Weird.</p>
+   <p>Then the weirdness passed, and everything was normal again, and she knew the answer.</p>
+   <p>That was how it had been for him, she thought in wonder. Every hour, every day, his whole goddamned life.</p>
+   <p>“He came to this place and he did what he did,” she said to Thompkins, “because he knew that there wasn’t any choice for him. Once he had seen it in his mind it was certain to happen. So he just came down here and played things through to the end.”</p>
+   <p>“Even though he’d <emphasis>die</emphasis>?” Thompkins asked. He looked at Denise stolidly, uncomprehendingly.</p>
+   <p>“If you lived your whole life as if it had already happened, without surprise, without excitement, without the slightest unpredictable event, not once, not ever, would you give a damn whether you lived or died? Would you? He knew he’d die here, yes. So he came here to die, and that’s the whole story. And now he has.”</p>
+   <p>“Jesus,” Thompkins said. “The poor son of a bitch!”</p>
+   <p>“You understand now? What it must have been like for him?”</p>
+   <p>“Yeah,” he said, his arm still tight around her as though he didn’t mean to ever let go. “Yeah. The poor son of a bitch.”</p>
+   <p>“I got to tell you,” said Mr. Eubanks, “dis discourtesy is completely improper. A mahn have died here tragically tonight, and you be de only witnesses, and I ask you to tell me what befell, and you—”</p>
+   <p>Denise closed her eyes a moment. Then she looked at Eubanks.</p>
+   <p>“What’s there to say, Mr. Eubanks? He took his boat into a dangerous place and it was struck by a sudden wave and overturned. An accident. A terrible accident. What else is there to say?” She began to shiver. Thompkins held her. In a low voice she said to him, “I want to go back to my cottage.”</p>
+   <p>“Right,” he said. “Sure. You wanted a statement, Mr. Eubanks? There’s your statement. Okay? Okay?”</p>
+   <p>He held her close against him and slowly they started up the ramp toward the hotel together.</p>
+  </section>
+ </body>
+ <binary id="a_tip_of_a_turtle.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEBAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0GW5nmtoYpZWaOIBYkySkY9FU5C/hiolG
+DwPwpFJEaggZAGap6rYWt/DtunZY0O8kEAAYIOc9ipIPt716dOCitEcEpXepooPm57VPExB4
+PXpXn/h3W9DvxJ/Z93qj/btUEO6TyiwfyC6uAc4QxoOvPGMDFanhO00iae6uNNW7jewv5IXa
+YqSZEAV8HkkMNoJPJ2AnnJN2T2Cx2UYz0P1qwg4B5Aryq38c+Hntxq0Da3CEQ3T2wESBd0sa
+bXDHHzGYSZzjDk5GBjbsvHejacILeaxvbcXV1DtLNC64uHkxLuRypQMrAnPHHrU3gwszvdq5
++Uk+pp0cZJHck8CuWu/Hem2Ph/R9Wms7pYtXI+zxu8UZAKFwWZ3CAbR/e7ikvfHunWzlp9O1
+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</binary>
+</FictionBook>

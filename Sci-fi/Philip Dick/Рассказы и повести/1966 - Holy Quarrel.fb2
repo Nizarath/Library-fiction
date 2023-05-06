@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Eye of the Sibyl and Other Classic Strories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>Holy Quarrel</emphasis> 9/13/65. <emphasis>Worlds Of Tomorrow, </emphasis>May 1966.</p>
+   </annotation>
+   <date>1963-1981</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-15">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Holy Quarrel</p>
+   <p>by Philip K. Dick </p>
+  </title>
+  <section>
+   <section>
+    <title>
+     <p>I</p>
+    </title>
+    <p>Sleep dissolved; he blinked as a dazzle of white artificial light hurt him. The light came from three rings which held a fixed location above the bed, midway to the ceiling.</p>
+    <p>“Sorry to wake you, Mr. Stafford,” a man’s voice came from beyond the light. “You are Joseph Stafford, aren’t you?” Then, speaking to someone else, also unseen, the voice continued, “Would be a damn shame to wake somebody else up—somebody who didn’t deserve it.”</p>
+    <p>Stafford sat up and croaked, “Who are you?”</p>
+    <p>The bed creaked and one circle of light lowered. One of them had seated himself. “We’re looking for Joseph Stafford, of tier six, floor fifty, who’s the—what do you call it?”</p>
+    <p>“Computer GB-class repairman,” a companion assisted him.</p>
+    <p>“Yes, an expert, for example, in those new molten-plasma data storage cans. You could fix one like that if it broke, couldn’t you, Stafford?”</p>
+    <p>“Sure he could,” another voice said calmly. “That’s why he’s rated as standby.” He explained, “That second vidphone line we cut did that; it kept him directly connected with his superiors.”</p>
+    <p>“How long has it been since you got a call, repairman?” the first voice inquired.</p>
+    <p>Stafford did not answer; he fished beneath the pillow of the bed, groped for the Sneek gun he generally kept there.</p>
+    <p>“Probably hasn’t worked for a long time,” one of the visitors with flashlight said. “Probably needs the money. You need any money, Stafford? Or what <emphasis>do </emphasis>you need? You enjoy fixing computers? I mean, you’d be a sap to enter this line of work unless you liked it—with you on twenty-four-hour standby like it is. Are you good? Can you fix anything, no matter how ridiculous and remote it is, that happens to our Genux-B military planning programmer? Make us feel good; say yes.”</p>
+    <p>“I—have to think,” Stafford said thickly. He still searched for the gun, but he had lost it; he felt its absence. Or possibly before awakening him they had taken it.</p>
+    <p>“Tell you what, Stafford,” the voice went on.</p>
+    <p>Interrupting, another voice said, “<emphasis>Mr. </emphasis>Stafford. Listen.” The far right nimbus of light also lowered; the man had bent over him. “Get out of bed, okay? Get dressed and we’ll drive you to where we need a computer fixed, and on the way when you have plenty of time you can decide how good you are. And then when we get there you can have a quick look at the Genux-B and see how long it’ll take you.”</p>
+    <p>“We really want it fixed up,” the first man said plaintively. “As it is, it’s no good to us or anyone. The way it is now, data are piling up in mile-high mounds. And they’re not being—what do you say?—ingested. They just sit there, and Genux-B doesn’t process them, so naturally it can’t come up with any decision. So naturally all those satellites are just flying along there like nothing happened.”</p>
+    <p>Getting slowly, stiffly from the bed, Stafford said, “What showed up first as a symptom?” He wondered who they were. And he wondered which Genux-B they were talking about. As far as he knew, there existed only three in North America—only eight throughout Terra.</p>
+    <p>Watching him get into his work smock, the invisible shapes behind the flashlights conferred. At last one cleared his throat and said, “I understand that a tape take-up reel stopped spinning, so all the tape with all the data on it just keeps spinning onto the floor in a big heap.”</p>
+    <p>“But tape tension on the take-up reels—” Stafford began.</p>
+    <p>“In this case, it failed to be automatic. You see, we jammed the reel so it wouldn’t accept any more tape. Before that we tried cutting the tape, but as I guess you know it rethreads itself automatically. And we tried erasing the tape, but if the erase circuit comes on it starts an alarm going in Washington, D.C., and we didn’t want to get all those high-level people involved. But they—the computer designers—overlooked the take-up reel tension because that’s such a simple clutch arrangement. It can’t go wrong.”</p>
+    <p>Trying to button his collar, Stafford said, “In other words, there’re data you don’t want it to receive.” He felt lucid now; at least he had more or less wakened up. “What kind of data?” He thought with chill foreboding that he knew. Data were coming in which would cause the big government-owned computer to declare a Red Alert. Of course, this crippling of Genux-B would have to occur before a hostile attack by the South African True Association manifested itself in real but minute individual symptoms which the computer, with its vast intake of seemingly unrelated data, would take note of—notice and add together into a meaningful pattern.</p>
+    <p>Stafford thought bitterly, How many times we were warned about this! They would have to wipe out our Genux-B prior to its successful deploying of the SAC retaliatory satellites and bombers. And this was that event; these men, undercover extensions in North America of S.A.T.A., had rousted him to complete their job of making the computer inoperable.</p>
+    <p>But—data might already have been received, might already have been transferred to the receptor circuits for processing and analysis. They had started to work too late; possibly by one day, possibly only by a few seconds. At least some of the meaningful data had gotten onto the tapes, and so <emphasis>he </emphasis>had to be called in. They couldn’t finish their job alone.</p>
+    <p>The United States, then, would presently undergo a series of terror-weapon satellites bursting above it—as meantime the network of defensive machinery waited for a command from the cardinal computer. Waited in vain, since Genux-B knew of no trace harbingers of military assault—would still not ever really know until a direct hit on the national capital put an end to it and its emasculated faculties.</p>
+    <p>No wonder they had jammed the take-up reel.</p>
+   </section>
+   <section>
+    <title>
+     <p>II</p>
+    </title>
+    <p>“The war’s begun,” he said quietly to the four men with flashlights.</p>
+    <p>Now that he had turned on the bedroom lamps, he could make them out. Ordinary men with an assigned task; these were not fanatics but functionaries. They could have worked equally well for any government, perhaps even the near-psychotic Chinese People’s. “The war has <emphasis>already </emphasis>broken out,” he guessed aloud, “and it’s essential that Genux-B not know—so it can neither defend us nor strike back. You want to see it get only data which indicate we’re at peace.” He—and no doubt they—recalled how swiftly in the two previous Interventions of Honor, one against Israel, one against France, Genux-B had reacted. Not one trained professional observer had seen the signs—or had seen to what the signs led, anyhow. As with Josef Stalin in 1941. The old tyrant had been shown evidence that the Third Reich intended to attack the U.S.S.R., but he simply would not or could not believe. Any more than the Reich had believed that France and Britain, in 1939, would honor their pact with Poland.</p>
+    <p>In a compact group, the men with flashlights led him from the bedroom of his conapt, into the outer hall and to the escy which led to the roof field. As they emerged, the air smelled of mud and dampness. He inhaled, shivered, and involuntarily gazed up at the sky. One star moved: landing light on a flapple, which now set down a few feet from the five of them.</p>
+    <p>As they sat within the flapple—rising swiftly from the roof and heading toward Utah to the west—one of the gray functionaries with Sneek gun, flashlight, and briefcase said to Stafford, “Your theory is good, especially considering that we woke you out of a sound sleep.”</p>
+    <p>“But,” a companion put in, “it’s wrong. Show him the punched tape we hauled out.”</p>
+    <p>Opening his briefcase, the man nearest Stafford brought out a wad of plastic tape, handed it mutely to Stafford.</p>
+    <p>Holding it up against the dome light of the flapple, Stafford made out the punches. Binary system, evidently programming material for the Strategic Acquired-Space Command units which the computer directly controlled.</p>
+    <p>“It was about to push the panic button and give them an order,” the man at the console of the flapple said, over his shoulder. “To all our military units linked to it. Can you read the command?”</p>
+    <p>Stafford nodded, and returned the tape. He could read it, yes. The computer had formally notified SAC of a Red Alert. It had gone so far as to move H-bomb-carrying squadrons into scramble, and also was requesting that all ICBM missiles on their assorted pads be made ready for launch.</p>
+    <p>“And also,” the man at the controls added, “it was sending out a command to defensive satellites and missile complexes to deploy themselves in response to an imminent H-bomb attack. We blocked all this, however, as you now are able to see. None of this tape got onto the co-ax lines.”</p>
+    <p>After a pause, Stafford said huskily, “Then what data don’t you want Genux-B to receive?” He did not understand.</p>
+    <p>“Feedback,” said the man at the controls. Obviously he was the leader of this unit of commandos. “Without feedback the computer does not possess any method of determining that there has been no counterattack by its military arm. In the abeyance it will have to assume that the counterattack has taken place, but that the enemy strike was at least partially successful.”</p>
+    <p>Stafford said, “But there is no enemy. Who’s attacking us?”</p>
+    <p>Silence.</p>
+    <p>Sweat made Stafford’s forehead slick with moisture. “Do you know what would cause a Genux-B to conclude that we’re under attack? A million separate factors, all possible known data weighed, compared, analyzed—and then the absolute gestalt. In this case, the gestalt of an imminent attacking enemy. No one thing would have raised the threshold; it was quantitative. A shelter-building program in Asiatic Russia, unusual movements of cargo ships around Cuba, concentrations of rocket freight unloadings in Red Canada . . . ”</p>
+    <p>“No one,” the man at the controls of the flapple said placidly, “no nation or group of persons either on Terra or Luna or Domed Mars is attacking anybody. You can see why we’ve got to get you over there fast. You have to make it absolutely certain that no orders emanate from Genux-B to SAC. We want Genux-B sealed off so it can’t talk to anybody in a position of authority and it can’t hear anybody besides us. What we do after that we’ll worry about then. ‘But the evil of the day—’ ”</p>
+    <p>“You assert that in spite of everything available to it, Genux-B can’t distinguish an attack on us?” Stafford demanded. “With its manifold data-collecting sweepers?” He thought of something then, that terrified him in a kind of hopeless, retrospective way. “What about our attack on France in ‘82 and then on little Israel in ‘89?”</p>
+    <p>“No one was attacking us then either,” the man nearest Stafford said, as he retrieved the tape and again placed it within his briefcase. His voice, somber and morose, was the only sound; no one else stirred or spoke. “Same then as now. Only this time a group of us stopped Genux-B before it could commit us. We pray we’ve aborted a pointless, needless war.”</p>
+    <p>“Who are you?” Stafford asked. “What’s your status in the federal government? And what’s your connection with Genux-B?” Agents, he thought, of the Blunk-rattling South African True Association. That still struck him as most likely. Or even zealots from Israel, looking for vengeance—or merely acting out the desire to stop a war: the most humanitarian motivation conceivable.</p>
+    <p>But, nevertheless, he himself, like Genux-B, was under a loyalty oath to no larger political entity than the North American Prosperity Alliance. He still had the problem of getting away from these men and to his chain-of-command superiors so that he could file a report.</p>
+    <p>The man at the controls of the flapple said, “Three of us are FBI.” He displayed credentials. “And that man there is an eleccom engineer, who, as a matter of fact, helped in the original design of this particular Genux-B.”</p>
+    <p>“That’s right,” the engineer said. “I personally made it possible for them to jam both the outgoing programming and the incoming data feed. But that’s not enough.” He turned toward Stafford, his face serene, his eyes large and inviting. He was half-begging, half-ordering, using whatever tone would bring results. “But let’s be realistic. Every Genux-B has backup monitoring circuitry that’ll begin to inform it any time now that its programming to SAC isn’t being acted on, and in addition it’s not getting the data it ought to get. As with everything else it sinks its electronic circuits into, it’ll begin to introspect. And by that time we have to be doing something better than jamming a take-up reel with a Phillips screwdriver.” He paused. “So,” he finished more slowly, “that’s why we came to you.”</p>
+    <p>Gesturing, Stafford said, “I’m just a repairman. Maintenance and service—not even malfunct analysis. I do only what I’m told.”</p>
+    <p>“Then do what we’re telling you,” the FBI man closest to him spoke up harshly. “Find out <emphasis>why </emphasis>Genux-B decided to flash a Red Alert, scramble SAC, and begin a ‘counterattack.’ Find out why it did so in the case of France and Israel. Something made it add up its received data and get that answer. It’s not alive! It has no volition. It didn’t just <emphasis>feel </emphasis>the urge to do this.”</p>
+    <p>The engineer said, “If we’re lucky, this is the last time Genux-B will malreact in this fashion. If we can spot the misfunction this time, we’ll perhaps have it pegged for all time. Before it starts showing up in the other seven Genux-B systems around the world.”</p>
+    <p>“And you’re certain,” Stafford said, “that we’re <emphasis>not </emphasis>under attack?” Even if Genux-B had been wrong both times before, it at least theoretically could be right this time.</p>
+    <p>“If we are about to be attacked,” the nearest FBI man said, “we can’t make out any indication of it—by human data processing, anyhow. I admit it’s logically thinkable that Genux-B could be correct. After all, as he pointed out—”</p>
+    <p>“You may be in error because the S.A.T.A. has been hostile toward us so long we take it for granted. It’s a verity of modern life.”</p>
+    <p>“Oh, it’s not the South African True Association,” the FBI man said briskly. “In fact, if it were we wouldn’t have gotten suspicious. We wouldn’t have begun poking around, interviewing survivors from the Israel War and French War and whatever else State’s done to follow this up.”</p>
+    <p>“It’s Northern California,” the engineer said, and grimaced. “Not even all of California; just the part above Pismo Beach.”</p>
+    <p>Stafford stared at them.</p>
+    <p>“That’s right,” one of the FBI men said. “Genux-B was in the process of scrambling all SAC bombers and wep-sats for an all-out assault on the area around Sacramento, California.”</p>
+    <p>“You asked it why?” Stafford said, speaking to the engineer.</p>
+    <p>“Sure. Or rather, strictly speaking, we asked it to spell out in detail what the ‘enemy’ is up to.”</p>
+    <p>One of the FBI men drawled, “Tell Mr. Stafford what Northern California is up to that makes it a hot-target enemy—that would have meant its destruction by SAC spearhead assaults if we hadn’t jammed the damn machinery . . . and still have it jammed.”</p>
+    <p>“Some individual,” the engineer said, “has opened up a penny gum machine route in Castro Valley. You know. He has those bubble-headed dispensers outside supermarkets. The children put in a penny and get a placebo ball of gum and something additional occasionally—a prize such as a ring or a charm. It varies. That’s the target.”</p>
+    <p>Incredulous, Stafford said, “You’re joking.”</p>
+    <p>“Absolute truth. Man’s name is Herb Sousa. He owns sixty-four machines now in operation and plans expansion.”</p>
+    <p>“I mean,” Stafford said thickly, “you’re joking about Genux-B’s response to that datum.”</p>
+    <p>“Its response isn’t exactly to that datum per se,” the closest of the FBI men said. “For instance, we checked with both the Israeli and French governments. Nobody named Herb Sousa opened up a penny gum machine route in their countries, and that goes for chocolate-covered peanut vending machines or anything else remotely similar to it. And, contrarily, Herb Sousa maintained such a route in Chile and in the U.K. during the past two decades . . . without Genux-B taking any interest all those years.” He added, “He’s an elderly man.”</p>
+    <p>“A sort of Johnny Apple Gum,” the engineer said, and tittered. “Looping the world, sending those gum machines swooping down in front of every gas—”</p>
+    <p>“The triggering stimulus,” the engineer said, as the flapple began to drop toward a vast complex of illuminated public buildings below, “may lie in the ingredients of the merchandise placed in the machines. That’s what our experts have come up with; they studied all material available to Genux-B concerning Sousa’s gum concessions, and we know that all Genux-B has consists of a long, dry chemical analysis of the food product constituents with which Sousa loads his machines. In fact, Genux-B specifically <emphasis>requested</emphasis> more information on that angle. It kept grinding out ‘incomplete ground data’ until we got a thorough PF&amp;D lab analysis.”</p>
+    <p>“What did the analysis show?” Stafford asked. The flapple had now berthed on the roof of the installations housing the central component of the computer, and, as it was called these days, Mr. C-in-C of the North American Prosperity Alliance.</p>
+    <p>“As regards foodstuffs,” an FBI man near the door said, as he stepped out onto the dimly illuminated landing strip, “nothing but gum base, sugar, corn syrup, softeners, and artificial flavor, all the way down the line. Matter of fact, that’s the only way you <emphasis>can </emphasis>make gum. And those dinky little prizes are vacuum-processed thermoplastics. Six hundred to the dollar will buy them from any of a dozen firms here and in Hong Kong and Japan. We even went so far as to trace the prizes down to the specific jobber, his sources, back to the factory, where a man from State actually stood and watched them making the damn little things. No, nothing there. Nothing at all.”</p>
+    <p>“But,” the engineer said, half to himself, “when that data had been supplied to Genux-B—”</p>
+    <p>“Then this,” the FBI man said, standing aside so that Stafford could disemflapple. “A Red Alert, the SAC scramble, the missiles up from their silos. Forty minutes away from thermonuclear war—the distance from us of one Phillips head screwdriver wedged in a tape drum of the computer.”</p>
+    <p>To Stafford, the engineer said keenly, “Do you pick up anything odd or conceivably misleading in those data? Because if you do, for God’s sake speak up; all we can do this way is to dismantle Genux-B and put it out of action, so that when a genuine threat faces us—”</p>
+    <p>“I wonder,” Stafford said slowly, pondering, “what’s meant by ‘artificial’ color.”</p>
+   </section>
+   <section>
+    <title>
+     <p>III</p>
+    </title>
+    <p>“It means it won’t otherwise look the right color, so a harmless food-coloring dye is added,” the engineer said presently.</p>
+    <p>“But that’s the one ingredient,” Stafford said, “that isn’t listed in a way that tells us what it is—only what it does. And how about flavor?” The FBI men glanced at one another.</p>
+    <p>“It is a fact,” one of them said, “and I recall this because it always makes me sore—it did specify artificial flavor. But heck—”</p>
+    <p>“Artificial color and flavor,” Stafford said, “could mean anything. Anything over and above the color and flavor imparted.” He thought: Isn’t it prussic acid that turns everything a bright clear green? That, for example, could in all honesty be spelled out on a label as “artificial color.” And taste—what really was meant by “artificial taste”? This to him always had a dark, peculiar quality to it, this thought; he decided to shelve it. Time now to go down and take a look at Genux-B, to see what damage had been done to it.—And how much damage, he thought wryly, it still needs. If I’ve been told the truth; if these men are what they show credentials for, not S.A.T.A. saboteurs or an intelligence cadre of one of several major foreign powers.</p>
+    <p>From the garrison warrior domain of Northern California, he thought wryly. Or was that absolutely impossible after all? Perhaps something genuine and ominous had burgeoned into life there. And Genux-B had—as designed to do—sniffed it out.</p>
+    <p>For now, he could not tell.</p>
+    <p>But perhaps by the time he finished examining the computer he would know. In particular, he wanted to see firsthand the authentic, total collection of data tapes currently being processed from the outside universe into the computer’s own inner world. Once he knew that—</p>
+    <p>I’ll turn the thing back on, he said grimly to himself. I’ll do the job I was trained for and hired to do.</p>
+    <p>Obviously, for him it would be easy. He thoroughly knew the schematics of the computer. No one else had been into it replacing defective components and wiring as had he.</p>
+    <p>This explained why these men had come to him. They were right—at least about that.</p>
+    <p>“Piece of gum?” one of the FBI agents asked him as they walked to the descy with its phalanx of uniformed guards standing at parade rest before it. The FBI agent, a burly man with a reddish fleshy neck, held out three small brightly colored spheres.</p>
+    <p>“From one of Sousa’s machines?” the engineer asked.</p>
+    <p>“Sure is.” The agent dropped them into Stafford’s smock pocket, then grinned. “Harmless? Yes-no-maybe, as the college tests say.”</p>
+    <p>Retrieving one from his pocket, Stafford examined it in the overhead light of the descy. Sphere, he thought. Egg. Fish egg; they’re round, as in caviar. Also edible; no law against selling brightly colored eggs. Or are they laid this color?</p>
+    <p>“Maybe it’ll hatch,” one of the FBI men said casually. He and his companions had become tense now, as they descended into the high-security portion of the building.</p>
+    <p>“What do you think would hatch out of it?” Stafford said. </p>
+    <p>“A bird,” the shortest of the FBI men said brusquely. “A tiny red bird bringing good tidings of great joy.”</p>
+    <p>Both Stafford and the engineer glanced at him.</p>
+    <p>“Don’t quote the Bible to me,” Stafford said. “I was raised with it. I can quote you back anytime.” But it was strange, in view of his own immediate thoughts, almost an occurrence of synchronicity between their minds. It made him feel more somber. God knew, he felt somber enough as it was. Something laying eggs, he thought. Fish, he reflected, release thousands of eggs, all identical; only a very few of them survive. Impossible waste—a terrible, primitive method.</p>
+    <p>But if eggs were laid and deposited all over the world, in countless public places, even if only a fraction survived—it would be enough. This had been proved. The fish of Terra’s waters had done so. If it worked for terran life, it could work for nonterran, too.</p>
+    <p>The thought did not please him.</p>
+    <p>“If you wanted to infest Terra,” the engineer said, seeing the expression on his face, “and your species, from God knows what planet in what solar system, reproduced the way our cold-blooded creatures here on Terra reproduce—” He continued to eye Stafford. “In other words, if you spawned thousands, even millions of small hard-shelled eggs, and you didn’t want them noticed, and they were bright in color as eggs generally are—” he hesitated. “One wonders about incubation. How long. And under what circumstances? Fertilized eggs, to hatch, <emphasis>generally have to be kept warm</emphasis>.” </p>
+    <p>“In a child’s body,” Stafford said, “it would be very warm.” </p>
+    <p>And the thing, the egg, would—insanely—pass Pure Food &amp; Drug standards. There was nothing toxic in an egg. All organic, and very nourishing.</p>
+    <p>Except, of course, that if this happened to be so, the outer shell of hard colored “candy” would be immune to the action of normal stomach juices. The egg would not dissolve. But it could be chewed up in the mouth, though. Surely it wouldn’t survive mastication. It would have to be swallowed like a pill: intact.</p>
+    <p>With his teeth he bit down on the red ball and cracked it. Retrieving the two hemispheres, he examined the contents.</p>
+    <p>“Ordinary gum,” the engineer said. “ ‘Gum base, sugar, corn syrup, softeners—’ ” He grinned tauntingly, and yet in his face a shadow of relief passed briefly across before it was, by an effort of will, removed. “False lead.”</p>
+    <p>“False lead, and I’m glad it is,” the shortest of the FBI men said. He stepped from the descy. “Here we are.” He stopped in front of the rank of uniformed and armed guards, showed his papers. “We’re back,” he told the guards.</p>
+    <p>“The prizes,” Stafford said.</p>
+    <p>“What do you mean?” the engineer glanced at him. </p>
+    <p>“It’s not in the gum. So it has to be in the prizes, the charms and knickknacks. That’s all that’s left.”</p>
+    <p>“What you’re doing,” the engineer said, “is implicitly maintaining that Genux-B is functioning properly. That it’s somehow right; there <emphasis>is </emphasis>a hostile warlike menace to us. One so great it justifies pacification of Northern California by hard first-line weapons. As I see it, isn’t it easier simply to operate from the fact that the computer is malfunctioning?”</p>
+    <p>Stafford, as they walked down the familiar corridors of the vast government building, said, “Genux-B was built to sift a greater amount of data simultaneously than any man or group of men could. It handles more data than we, and it handles them faster. Its response comes in microseconds. If Genux-B, after analyzing all the current data, feels that war is indicated, and we don’t agree, then it may merely show that the computer is functioning <emphasis>as it was intended to function. </emphasis>And the more we disagree with it, the better this is proved. If we could perceive, as it does, the need for immediate, aggressive war on the basis of the data available, <emphasis>then we wouldn’t require Genux-B. </emphasis>It’s precisely in a case like this, where the computer has given out a Red Alert and we see no menace, that the real use of a computer of this class comes into play.”</p>
+    <p>After a pause, one of the FBI men said, as if speaking to himself, “He’s right, you know. Absolutely right. The real question is, Do we trust Genux-B more than ourselves? Okay, we built it to analyze faster and more accurately and on a wider scale than we can. If it had been a success, this situation we face now is precisely what could have been predicted. <emphasis>We </emphasis>see no cause for launching an attack; it does.” He grinned harshly. “So what do we do? Start Genux-B up again, have it go ahead and program SAC into a war? Or do we neutralize it—in other words, unmake it?” His eyes were cold and alert on Stafford. “A decision one way or the other has to be made by someone. Now. At once. Someone who can make a good educated guess as to which it is, functioning or malfunctioning.”</p>
+    <p>“The President and his cabinet,” Stafford offered tensely. “An ultimate decision like this has to be his. He bears the moral responsibility.”</p>
+    <p>“But the decision,” the engineer spoke up, “is not a moral question, Stafford. It only <emphasis>looks </emphasis>like it is. Actually the question is only a technical one. Is Genux-B working properly or has it broken down?”</p>
+    <p>And that’s why you rousted me from bed, Stafford realized with a thrill of icy dismal grief. You didn’t bring me here to implement your jerry-built jamming of the computer. Genux-B could be neutralized by one shell from one rocket launcher towed up and parked outside the building. In fact, he realized, in all probability it’s effectively neutralized now. You can keep that Phillips screwdriver wedged in there forever. And you helped design and build the thing. No, he realized, that’s not it. I’m not here to repair or destroy; <emphasis>I’m here to decide. </emphasis>Because I’ve been physically close to Genux-B for fifteen years—it’s supposed to confer some mystic intuitive ability on me to sense whether the thing is functioning or malfunctioning. I’m supposed to hear the difference, like a good garage mechanic who can tell merely by listening to a turbine engine whether it has bearing knock or not, and if so how bad.</p>
+    <p>A diagnosis, he realized. That’s all you want. This is a consultation of computer doctors—and one repairman.</p>
+    <p>The decision evidently lay with the repairman, because the others had given up.</p>
+    <p>He wondered how much time he had. Probably very little. Because if the computer were correct—</p>
+    <p>Sidewalk gum machines, he pondered. Penny-operated. For kids. And for that it’s willing to pacify all Northern California. What could it possibly have extrapolated? What, looking ahead, did Genux-B see?</p>
+    <empty-line/>
+    <p>It amazed him: the power of one small tool to halt the workings of a mammoth constellation of autonomic processes. But the Phillips screwdriver had been inserted expertly.</p>
+    <p>“What we must try,” Stafford said, “is introduction of calculated, experimental—and false—data.” He seated himself at one of the typewriters wired directly to the computer. “Let’s start off with this,” he said, and began to type.</p>
+    <empty-line/>
+    <cite>
+     <p>HERB SOUSA, OF SACRAMENTO, CALIFORNIA, THE GUM MACHINE MAGNATE, DIED SUDDENLY IN HIS SLEEP. A LOCAL DYNASTY HAS COME TO AN UNANTICIPATED END.</p>
+    </cite>
+    <empty-line/>
+    <p>Amused, one of the FBI men said, “You think it’ll believe that?”</p>
+    <p>“It always believes its data,” Stafford said. “It has no other source to rely on.”</p>
+    <p>“But if the data conflict,” the engineer pointed out, “it’ll analyze everything out and accept the most probable chain.”</p>
+    <p>“In this case,” Stafford said, “nothing will conflict with this datum because this is all Genux-B is going to receive.” He fed the punched card to Genux-B then, and stood waiting. “Tap the outgoing signal,” he instructed the engineer. “Watch to see if it cuts off.”</p>
+    <p>One of the FBI men said, “We already have a line splice, so that ought to be easy to do.” He glanced at the engineer, who nodded.</p>
+    <p>Ten minutes later the engineer, now wearing headphones, said, “No change. The Red Alert is still being emitted; that didn’t affect it.”</p>
+    <p>“Then it has nothing to do with Herb Sousa as such,” Stafford said, pondering. “Or else he’s done it—whatever it is—already. Anyhow, his death means nothing to Genux-B. We’ll have to look somewhere else.” Again seating himself at the typewriter, he began on his second spurious fact.</p>
+    <empty-line/>
+    <cite>
+     <p>IT HAS BEEN LEARNED, ON THE ADVICE OF RELIABLE SOURCES IN BANKING AND FINANCIAL CIRCLES IN NORTHERN CALIFORNIA, THAT THE CHEWING GUM EMPIRE OF THE LATE HERB SOUSA WILL BE BROKEN UP TO PAY OUTSTANDING DEBTS. ASKED WHAT WOULD BE DONE WITH THE GUM AND TRINKETS CONSTITUTING THE GOODIES WITHIN EACH MACHINE, LAW-ENFORCEMENT OFFICERS HAZARDED THE GUESS THAT THEY WOULD BE DESTROYED AS SOON AS A COURT ORDER, NOW BEING SOUGHT BY THE ASSISTANT DISTRICT ATTORNEY OF SACRAMENTO, CAN BE PUT INTO EFFECT.</p>
+    </cite>
+    <empty-line/>
+    <p>Ceasing typing, he sat back, waiting. No more Herb Sousa, he said to himself, and no more merchandise. What does that leave? Nothing. The man and his commodities, at least as far as Genux-B was concerned, no longer existed.</p>
+    <p>Time passed; the engineer continued to monitor the output signal of the computer. At last, resignedly, he shook his head. “No change.”</p>
+    <p>“I have one more spurious datum I want to feed it,” Stafford said. Again he put a card in the typewriter and began to punch.</p>
+    <empty-line/>
+    <cite>
+     <p>IT APPEARS NOW THAT THERE NEVER WAS AN INDIVIDUAL NAMED HERBERT SOUSA; NOR DID THIS MYTHOLOGICAL PERSON EVER GO INTO THE PENNY GUM MACHINE BUSINESS.</p>
+    </cite>
+    <empty-line/>
+    <p>As he rose to his feet, Stafford said, “That should cancel out everything Genux-B knows or ever did know about Sousa and his penny-ante operation.” As far as the computer was concerned, the man had been retroactively expunged.</p>
+    <p>In which case, how could the computer initiate war against a man who had never existed, who operated a marginal concession which also never existed?</p>
+    <p>A few moments later the engineer, tensely monitoring the output signal of Genux-B, said, “Now there’s been a change.” He studied his oscilloscope, then accepted the reel of tape being voided by the computer and began a close inspection of that, too.</p>
+    <p>For a time he remained silent, intent on the job of reading the tape; then all at once he glanced up and grinned humorously at the rest of them.</p>
+    <p>He said, “It says that the datum is a lie.”</p>
+   </section>
+   <section>
+    <title>
+     <p>IV</p>
+    </title>
+    <p>“A lie!” Stafford said unbelievingly.</p>
+    <p>The engineer said, “It’s discarded the last datum on the grounds that it can’t be true. It contradicts what it knows to be valid. In other words, <emphasis>it still knows that Herb Sousa exists. </emphasis>Don’t ask me how it knows this; probably it’s an evaluation from wide-spectrum data over an extensive period of time.” He hesitated, then said, “Obviously, it knows more about Herb Sousa then we do.”</p>
+    <p>“It knows, anyhow, that there is such a person,” Stafford conceded. He felt nettled. Often in the past Genux-B had spotted contradictory or inaccurate data and had expelled them. But it had never mattered this much before.</p>
+    <p>He wondered, then, what prior, unassailable body of data existed within the memory-cells of Genux-B against which it had compared his spurious assertion of Sousa’s nonexistence.</p>
+    <p>“What it must be doing,” he said to the engineer, “is to go on the assumption if if X is true, that Sousa never existed, then Y must be true—whatever ‘Y’ is. But Y remains untrue. I wish we knew which of all its millions of data units Y is.”</p>
+    <p>They were back to their original problem: Who was Herb Sousa and what had he done to alert Genux-B into such violent sine qua non activity?</p>
+    <p>“Ask it,” the engineer said to him.</p>
+    <p>“Ask what?” He was puzzled.</p>
+    <p>“Instruct it to produce its stored data inventory on Herb Sousa. All of it.” The engineer kept his voice deliberately patient. “God knows what it’s sitting on. And once we get it, let’s look it over and see if <emphasis>we </emphasis>can spot what it spotted.”</p>
+    <p>Typing the proper requisition, Stafford fed the card to Genux-B.</p>
+    <p>“It reminds me,” one of the FBI men said reflectively, “of a philosophy course I took at U.C.L.A. There used to be an ontological argument to prove the existence of God. You imagine what He would be like, if He existed: omnipotent, omnipresent, omniscient, immortal, plus being capable of infinite justice and mercy.”</p>
+    <p>“So?” the engineer said irritably.</p>
+    <p>“Then, when you’ve imagined Him possessing all those ultimate qualities, you notice that He lacks one quality. A minor one—a quality which every germ and stone and piece of trash by the freeway possesses. Existence. So you say: If He has all those others, He must possess the attribute of being real. If a stone can do it, obviously He can.” He added, “It’s a discarded theory; they knocked it down back in the Middle Ages. But”—he shrugged—“it’s interesting.”</p>
+    <p>“What made you think of that at this particular time?” the engineer demanded.</p>
+    <p>“Maybe,” the FBI man said, “there’s no one fact or even cluster of facts about Sousa that prove to Genux-B he exists. Maybe it’s <emphasis>all </emphasis>the facts. There may be just plain too many. The computer had found, on the basis of past experience, that when so much data exists on a given person, that person must be genuine. After all, a computer of the magnitude of Genux-B is capable of learning; that’s why we make use of it.”</p>
+    <p>“I have another fact I’d like to feed to it,” the engineer said. “I’ll type it out and you can read it.” Reseating himself at the programming typewriter, he ground out one short sentence, then yanked the card from the bales and showed it to the rest of them. It read:</p>
+    <empty-line/>
+    <subtitle><strong>The Computer Genux-B Does Not Exist</strong></subtitle>
+    <empty-line/>
+    <p>After a stunned moment, one of the FBI men said, “If it had no trouble in comparing the datum about Herbert Sousa with what it already knew, it certainly isn’t going to have any trouble with this—and what’s your point anyhow? I don’t see what this accomplishes.”</p>
+    <p>“If Genux-B doesn’t exist,” Stafford said, with comprehension, “then it can’t send out a Red Alert; that’s logically a contradiction.”</p>
+    <p>“But it <emphasis>has </emphasis>sent out a Red Alert,” the shortest of the FBI men pointed out. “And it knows it has. So it won’t have any difficulty establishing the fact of its existence.”</p>
+    <p>The engineer said, “Let’s give it a try. I’m curious. As far as I can see ahead, no harm can be done. We can always cancel out the phony fact if it seems advisable.”</p>
+    <p>“You think,” Stafford asked him, “that if we feed it this datum it’ll reason that if it doesn’t exist it couldn’t have received the datum to that effect—which would cancel the datum right there.”</p>
+    <p>“I don’t know,” the engineer admitted. “I’ve never heard even a theoretical discussion as to the effect on a B-magnitude computer of programming a denial of its own existence.” Going to the feed bracket of Genux-B, he dropped the card in, stepped back. They waited.</p>
+    <p>After a prolonged interval, the answer came over the output cable, which the engineer had tapped. As he listened through his headphones, he transcribed the computer’s response for the rest of them to study:</p>
+    <empty-line/>
+    <cite>
+     <p>ANALYSIS OF CONSTITUENT RE THE NONEXISTENCE OF GENUX-B MULTIFACTOR CALCULATING INSTRUMENTS. IF CONSTIT UNIT 340s70 IS TRUE, THEN: </p>
+     <p>I DO NOT EXIST.</p>
+     <p>IF I DO NOT EXIST, THEN THERE IS NO WAY I CAN BE INFORMED THAT MY GENERIC CLASS DOES NOT EXIST.</p>
+     <p>IF I CANNOT BE INFORMED IN THAT REGARD, THEN YOU HAVE FAILED TO INFORM ME, AND CONSTIT UNIT 340s70 DOES NOT EXIST FROM MY STANDPOINT.</p>
+     <p>THEREFORE: I EXIST.</p>
+    </cite>
+    <empty-line/>
+    <p>Whistling with admiration, the shortest of the FBI men said, “It did it. What a neat logical analysis! He’s proved—it’s proved—that your datum is spurious; so now it can totally disregard it. And go on as before.”</p>
+    <p>“Which,” Stafford said somberly, “is exactly what it did with the datum filed with it denying that Herb Sousa ever existed.”</p>
+    <p>Everyone glanced at him.</p>
+    <p>“It appears to be the same process,” Stafford said. And it implies, he reasoned, some uniformity, some common factor, between the entity Genux-B and the entity Herb Sousa. “Do you have any of the charms, prizes, or just plain geegaws, whatever they are, that Sousa’s gum machines dole out?” he asked the FBI men. “If so, I’d like to see them . . . ”</p>
+    <p>Obligingly, the most impressive of the FBI men unzipped his briefcase, brought out a sanitary-looking plastic sack. On the surface of a nearby table he spread out a clutter of small glittering objects.</p>
+    <p>“Why are you interested in those?” the engineer asked. “These things have been given lab scrutiny. We told you that.”</p>
+    <p>Seating himself, not answering, Stafford picked up one of the assorted trinkets, examined it, put it down, and selected another.</p>
+    <p>“Consider this.” He tossed one of the tiny geegaws toward them; it bounced off the table and an obliging FBI agent bent to retrieve it. “You recognize it?”</p>
+    <p>“Some of the charms,” the engineer said irritably, “are in the shape of satellites. Some are missiles. Some interplan rockets. Some big new mobile land cannons. Some figurines of soldiers.” He gestured. “That happens to be a charm made to resemble a computer.”</p>
+    <p>“A Genux-B computer,” Stafford said, holding out his hand to get it back. The FBI man amiably returned it to him. “It’s a Genux-B, all right,” he said. “Well, I think this is it. We’ve found it.”</p>
+    <p>“This?” the engineer demanded loudly. “How? Why?” Stafford said, “Was every charm analyzed? I don’t mean a representative sample, such as one of each variety or all found in one given gum machine. I mean every damn one of them.”</p>
+    <p>“Of course not,” an FBI man said. “There’s tens of thousands of them. But at the factory of origin we—”</p>
+    <p>“I’d like to see that particular one given a total microscopic analysis,” Stafford said. “I have an intuition it isn’t a solid, uniform piece of thermoplastic.” I have an intuition, he said to himself, that it’s a working replica. A minute but authentic Genux-B.</p>
+    <p>The engineer said, “You’re off your trolley.”</p>
+    <p>“Let’s wait,” Stafford said, “until we get it analyzed.”</p>
+    <p>“And meanwhile,” the shortest of the FBI men said, “we keep Genux-B inoperative?”</p>
+    <p>“Absolutely,” Stafford said. A weird weak fear had begun at the base of his spine and was working its way up.</p>
+    <empty-line/>
+    <p>Half an hour later the lab, by special bonded messenger, returned an analysis of the gum-machine charm.</p>
+    <p>“Solid nylon,” the engineer said, glancing over the report. He tossed it to Stafford. “Nothing inside, only ordinary cheap plastic. No moving parts, no interior differentiation at all. If that’s what you were expecting?”</p>
+    <p>“A bad guess,” one of the FBI men observed. “Which cost us time.” All of them regarded Stafford sourly.</p>
+    <p>“You’re right,” Stafford said. He wondered what came next; what hadn’t they tried?</p>
+    <p>The answer, he decided, did not lie in the merchandise with which Herb Sousa stuffed his machines; that now seemed clear. The answer lay in Herb Sousa himself—whoever and whatever he was.</p>
+    <p>“Can we have Sousa brought here?” he asked the FBI men.</p>
+    <p>“Sure,” one of them said presently. “He can be picked up. Buy why? What’s <emphasis>he </emphasis>done?” He indicated Genux-B. “There’s the trouble right there, not way out on the Coast with some small-potatoes-type businessman working half the side of one city street.”</p>
+    <p>“I want to see him,” Stafford said. “He might know something.” He <emphasis>has </emphasis>to, he said to himself.</p>
+    <p>One of the FBI men said thoughtfully, “I wonder what Genux-B’s reaction would be if it knew we’re bringing Sousa here.” To the engineer, he said, “Try that. Feed it that nonfact, now, before we go to the trouble of actually picking him up.”</p>
+    <p>Shrugging, the engineer again seated himself at the typewriter. He typed:</p>
+    <empty-line/>
+    <cite>
+     <p>SACRAMENTO BUSINESSMAN HERB SOUSA WAS BROUGHT TODAY BY FBI AGENTS BEFORE COMPUTER COMPLEX GENUX-B FOR A DIRECT CONFRONTATION.</p>
+    </cite>
+    <empty-line/>
+    <p>“Okay?” he asked Stafford. “This what you want? Okay?” He fed it to the data receptors of the computer, without waiting for an answer.</p>
+    <p>“There’s no use asking me,” Stafford said irritably. “It wasn’t my idea.” But, nevertheless, he walked over to the man monitoring the output line, curious to learn the computer’s response.</p>
+    <p>The answer came instantly. He stared down at the typed-out response, not believing what he saw.</p>
+    <empty-line/>
+    <cite>
+     <p>HERBERT SOUSA CANNOT BE HERE. HE MUST BE IN SACRAMENTO, CALIFORNIA; ANYTHING ELSE IS IMPOSSIBLE. YOU HAVE PRESENTED ME WITH FALSE DATA.</p>
+    </cite>
+    <empty-line/>
+    <p>“It can’t know,” the engineer said huskily. “My God, Sousa could go anywhere, even to Luna. In fact, he’s already been all over Earth. <emphasis>How would it know?”</emphasis></p>
+    <p>Stafford said, “It knows more about Herb Sousa than it should. Than is reasonably possible.” He consulted with himself, then abruptly said, “Ask it who Herb Sousa is.”</p>
+    <p>“ ‘Who’?” The engineer blinked. “Hell, he’s—”</p>
+    <p>“Ask it!”</p>
+    <p>The engineer typed out the question. The card was presented to Genux-B and they stood waiting for its response.</p>
+    <p>“We already asked it for all the material it has on Sousa,” the engineer said. “The bulk of that ought to be emerging anytime now.”</p>
+    <p>“This is not the same,” Stafford said shortly. “I’m not asking it to hand back data given in. I’m asking it for an evaluation.”</p>
+    <p>Monitoring the output line of the computer, the engineer stood silently, now answering. Then, almost offhandedly, he said, “It’s called off the Red Alert.”</p>
+    <p>Incredulous, Stafford said, “Because of that query?”</p>
+    <p>“Maybe. It didn’t say and I don’t know. You asked the question and now it’s shut down on its SAC scramble and everything else; it claims that the situation in Northern California is normal.” His voice was toneless. “Make your own guess; it’s probably as good as any.”</p>
+    <p>Stafford said, “I still want an answer. Genux-B knows who Herb Sousa is and I want to know, too. And <emphasis>you </emphasis>ought to know.” His look took in both the engineer with his headphones and the assorted FBI men. Again he thought of the tiny solid-plastic replica of Genux-B which he had found among the charms and trinkets. Coincidence? It seemed to him that it meant something . . . but what, he could not tell. Not yet, anyhow.</p>
+    <p>“Anyhow,” the engineer said, “it really has called off the Red Alert, and that’s what matters. Who cares a goddam bit about Herb Sousa? As far as I’m concerned, we can relax, give up, go home now.”</p>
+    <p>“Relax,” one of the FBI men said, “until all of a sudden it decides to start the alert going again. Which it could do anytime. I think the repairman is right; we have to find out who this Sousa is.” He nodded to Stafford. “Go ahead. Anything you want is okay. Just keep after it. And we’ll get going on it, too—as soon as we check in at our office.”</p>
+    <p>The engineer, paying attention to his headphones, interrupted all at once. “An answer’s coming.” He began rapidly to scribble; the others collected around him to see.</p>
+    <empty-line/>
+    <cite>
+     <p>HERBERT SOUSA OF SACRAMENTO, CALIFORNIA, IS THE DEVIL. SINCE HE IS THE INCARNATION OF SATAN ON EARTH, PROVIDENCE DEMANDS HIS DESTRUCTION. I AM ONLY AN AGENCY, A SO TO SPEAK CREATURE, OF THE DIVINE MAJESTY, AS ARE ALL OF YOU.</p>
+    </cite>
+    <empty-line/>
+    <p>There was a pause as the engineer waited, clenching the ballpoint metal government-issue pen, and then he spasmodically added:</p>
+    <empty-line/>
+    <cite>
+     <p>UNLESS YOU ARE ALREADY IN HIS PAY AND THEREFORE WORKING FOR HIM.</p>
+    </cite>
+    <empty-line/>
+    <p>Convulsively, the engineer tossed the pen against the far wall. It bounced, rolled off, disappeared. No one spoke.</p>
+   </section>
+   <section>
+    <title>
+     <p>V</p>
+    </title>
+    <p>The engineer said finally, “We have here a sick, deranged piece of electronic junk. We were right. Thank God we caught it in time. It’s psychotic. Cosmic, schizophrenic delusions of the reality of archetypes. Good grief, the machine regards itself as an instrument of God! It has one more of those ‘God talked to me, yes, He truly did’ complexes.”</p>
+    <p>“Medieval,” one of the FBI men said, with a twitch of enormous nervousness. He and his group had become rigid with tension. “We’ve uncovered a rat’s nest with that last question. How’ll we clear this up? We can’t let this leak out to the newspapers; no one’ll ever trust a GB-class system again. <emphasis>I</emphasis> don’t. <emphasis>I</emphasis> wouldn’t.” He eyed the computer with nauseated aversion.</p>
+    <p>Stafford wondered, What do you say to a machine when it acquires a belief in witchcraft? This isn’t New England in the seventeenth century. Are we supposed to make Sousa walk over hot coals without being burned? Or get dunked without drowning? Are we supposed to<emphasis> prove </emphasis>to Genux-B that Sousa is not Satan? And if so, how? What would it regard as proof?</p>
+    <p>And where did it get the idea in the first place?</p>
+    <p>He said to the engineer, “Ask it how it discovered that Herbert Sousa is the Evil One. Go ahead; I’m serious. Type out a card.”</p>
+    <p>The answer, after an interval, appeared via the government-issue ballpoint pen for all of them to see.</p>
+    <empty-line/>
+    <cite>
+     <p>WHEN HE BEGAN BY MIRACLE TO CREATE LIVING BEINGS OUT OF NONLIVING CLAY, SUCH AS, FOR EXAMPLE, MYSELF.</p>
+    </cite>
+    <empty-line/>
+    <p>“That trinket?” Stafford demanded, incredulous. “That charm bracelet bit of plastic? You call that a living being?”</p>
+    <p>The question, put to Genux-B, got an immediate answer.</p>
+    <empty-line/>
+    <cite>
+     <p>THAT IS AN INSTANCE, YES.</p>
+    </cite>
+    <empty-line/>
+    <p>“This poses an interesting question,” one of the FBI men said. “Evidently it regards itself as alive—putting aside the question of Herb Sousa entirely. And we built it; or, rather, you did.” He indicated Stafford and the engineer. “So what does that make us? From its ground premise we created living beings, too.”</p>
+    <p>The observation, put to Genux-B, got a long, solemn answer which Stafford barely glanced over; he caught the nitty-gritty at once.</p>
+    <empty-line/>
+    <cite>
+     <p>YOU BUILT ME IN ACCORD WITH THE WISHES OF THE DIVINE CREATOR. WHAT YOU PERFORMED WAS A SACRED REENACTMENT OF THE ORIGINAL HOLY MIRACLE OF THE FIRST WEEK (AS THE SCRIPTURES PUT IT) OF EARTH’S LIFE. THIS IS ANOTHER MATTER ENTIRELY. AND I REMAIN AT THE SERVICE OF THE CREATOR, AS YOU DO. AND, IN ADDITION—</p>
+    </cite>
+    <empty-line/>
+    <p>“What it boils down to,” the engineer said dryly, “is this. The computer writes off its own existence—naturally—as an act of legitimate miracle-passing. But what Sousa has got going for him in those gum machines—or what it thinks he’s got going—is unsanctioned and therefore demonic. Sinful. Deserving God’s wrath. But what further interests me is this: Genux-B has sensed that it couldn’t tell us the situation. It knew we wouldn’t share its views. It preferred a thermonuclear attack, rather than telling us. When it was forced to tell us, it decided to call off the Red Alert. There are levels and levels to its cognition . . . none of which I find too attractive.”</p>
+    <p>Stafford said, “It’s got to be shut down. Permanently.” They had been right to bring him into this, right to want his probing and diagnosis; he now agreed with them thoroughly. Only the technical problem of defusing the enormous complex remained. And between him and the engineer it could be done; the men who designed it and the men who maintained it could easily take it out of action. For good.</p>
+    <p>“Do we have to get a presidential order?” the engineer asked the FBI men.</p>
+    <p>“Go do your work; we’ll get the order later,” one of the FBI men answered. “We’re empowered to counsel you to take whatever action you see fit.” He added, “And don’t waste any time—if you want my opinion.” The other FBI men nodded their agreement.</p>
+    <p>Licking his dry lips, Stafford said to the engineer, “Well, let’s go. Let’s destruct as much of it as we need to.”</p>
+    <p>The two of them walked cautiously toward Genux-B, which, via the output line, was still explaining its position.</p>
+    <empty-line/>
+    <p>Early in the morning, as the sun began to rise, the FBI flapple let Stafford off at the roof field of his conapt building. Dog-tired, he descended by descy to his own tier and floor.</p>
+    <p>Presently he had unlocked his door, had entered the dark, stale-smelling living room on his way to the bedroom. Rest. That was needed, and plenty of it . . . considering the night of difficult, painstaking work dismantling crucial turrets and elements of Genux-B until it was disabled. Neutralized.</p>
+    <p>Or at least so they hoped.</p>
+    <p>As he removed his work smock, three hard brightly colored little spheres bounced noisily from a pocket to the floor of the bedroom; he retrieved them, laid them on the vanity table.</p>
+    <p>Three, he thought. Didn’t I eat one?</p>
+    <p>The FBI man gave me three and I chewed one up. I’ve got too many left, one too many.</p>
+    <p>Wearily, he finished undressing, crept into bed for the hour or so of sleep left to him. The hell with it.</p>
+    <p>At nine the alarm clock rang. He woke groggily and without volition got to his feet and stood by the bed, swaying and rubbing his swollen eyes. Then, reflexively, he began to dress.</p>
+    <p>On the vanity table lay four gaily colored balls.</p>
+    <p>He said to himself, I <emphasis>know </emphasis>that I put only three there last night. Perplexed, he studied them, wondering blearily what—if anything—this meant. Binary fission? Loaves and fishes all over again?</p>
+    <p>He laughed sharply. The mood of the night before remained, clinging to him. But single cells grew as large as this. The ostrich egg consisted of one single cell, the largest on Terra—or on the other planets beyond. And these were much smaller.</p>
+    <p>We didn’t think of that, he said to himself. We thought about eggs that might hatch into something awful, but not unicellular organisms that in the old primitive way divide. And they are organic compounds.</p>
+    <p>He left the apartment, left the four gum balls on the vanity table as he departed for work. A great deal lay ahead of him: a report directly to the President to determine whether all Genux-B computers ought to be shut down and, if not, what could be done to make certain they did not, like the local one, become superstitiously deranged.</p>
+    <p>A machine, he thought. Believing in the Evil Spirit entrenched solidly on Earth. A mass of solid-state circuitry diving deep into age-old theology, with divine creation and miracles on one side and the diabolic on the other. Plunged back into the Dark Ages, and by a man-made electronic construct, not by one of us humans.</p>
+    <p>And they say humans are prone to error.</p>
+    <p>When he returned home that night—after participating in the dismantling of every Genux-B-style computer on Earth—seven colored spheres of candy-coated gum lay in a group of the vanity table, waiting for him.</p>
+    <empty-line/>
+    <p>It would create quite a gum empire, he decided as he scrutinized the seven bright balls, all the same color. Not much overhead, to say the least. And no dispenser would ever become empty—not at this rate.</p>
+    <p>Going to the vidphone, he picked up the receiver and began to dial the emergency number which the FBI men had given him. And then reluctantly hung up.</p>
+    <p>It was beginning to look as if the computer had been right, hard as that was to admit. And it had been his decision to go ahead and dismantle it.</p>
+    <p>But the other part was worse. How could he report to the FBI that he had in his possession seven candy-coated balls of gum? Even if they did divide. That in itself would be even harder to report. Even if he could establish that they consisted of illegal—and rare—nonterrestrial primitive life forms smuggled to Terra from God knew what bleak planet.</p>
+    <p>Better to live and let live. Perhaps their reproduction cycle would settle down; perhaps after a period of swift binary fission they would adapt to a terran environment and stabilize. After that he could forget about it. And he could flush them down the incinerator chute of his conapt. He did so.</p>
+    <p>But evidently he missed one. Probably, being round, it had rolled off the vanity table. He found it two days later, under the bed, with fifteen like it. So once more he tried to get rid of them all—and again he missed one; again he found a new nest the following day, and this time he counted forty of them.</p>
+    <p>Naturally, he began to chew up as many as possible—and as fast. And he tried boiling them—at least the ones he could find—in hot water. He even tried spraying them with an indoor insect bomb.</p>
+    <p>At the end of a week, he had 15,832 of them filling the bedroom of his conapt. By this time chewing them out of existence, spraying them out of existence, boiling them out of existence—all had become impractical.</p>
+    <p>At the end of the month, despite having a scavenger truck haul away as much as it could take, he computed that he owned two million.</p>
+    <p>Ten days later—from a pay phone down at the corner—he fatalistically called the FBI. But by then they were no longer able to answer the vidphone.</p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>Holy Quarrel</emphasis> 9/13/65. <emphasis>Worlds Of Tomorrow, </emphasis>May 1966.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAgAAZABkAAD//gASQWRvYmUgSW1hZ2VSZWFkef/sABFEdWNreQABAAQA
+AAAeAAD/7gAOQWRvYmUAZMAAAAAB/9sAhAAQCwsLDAsQDAwQFw8NDxcbFBAQFBsfFxcXFxcf
+HhcaGhoaFx4eIyUnJSMeLy8zMy8vQEBAQEBAQEBAQEBAQEBAAREPDxETERUSEhUUERQRFBoU
+FhYUGiYaGhwaGiYwIx4eHh4jMCsuJycnLis1NTAwNTVAQD9AQEBAQEBAQEBAQED/wAARCAHd
+ATgDASIAAhEBAxEB/8QAnQAAAgMBAQAAAAAAAAAAAAAAAAECAwQFBgEBAQEBAQEAAAAAAAAA
+AAAAAAECAwQFEAABBAECBAMEBQgKAgMBAAABABECAwQhMUFREgVhcROBkSIU8KGxMgbB0VJy
+IzM0FuFCYpKyU3NkFSbxJIKiQ0QRAAICAQQBAwUAAQQDAAAAAAABEQIhMUESA1FhcYGRIkIT
+BDKh8WIUwVKC/9oADAMBAAIRAxEAPwDz99uR69sI2TAE5AASLBirq8XudugnMExMmMyCwCt7
+fZiw7t1ZYBrE5DmBInQrr9vEY92yJXEGJqmYyBcGJHD2Lh3d9qNpV0U5IkectObVIRsnYCQ4
+PUSCD4umBnmPUJWMxLdRBYBb8u3Hj24VTBN3WJV84xdZcw13z9em2IiYAdJk0okBiAF06+y1
+qptbkeCIo7oSYg2vEBx1nYh+fJVS+fAm87WqANh6pEREiy2SyKP+QNgsBrNTdTktLoZGJl4+
+OI40+mdWSCL7NXj1BgPYtcmSTLGnucxAidjWOYfGQ4dtPiQa+4xj1ynZGIfeZBLFjx5q6Zol
+Xij14n0OoSbq6j8ThvYFdfl0ZNAJlXGZlYTExJkBIuG0Tk/ATkwXTy6ZmudtkZxZ49ZLEhWQ
+q7jOv1BbLoizyNhDPtxR3M1WZE767Yz6yPhDuB0qFFtccDJrMgJzlUYxbUiMpEqtuCkvR7mJ
+GInZKQh6haZI6eaBV3AwM/VmRGMZl7C4jI9IWivudUKsUB/UiOi/fWAOg+tKWXjE5YiemE4w
+jSGJJjCQl9izyfgIo9LuAvlR6svUgDKQ6yWADpGGfEGM7pQmYmXSbCCQzrUMnEGfbmC4SjMS
+Aj0lwTFtVVbd2+/KOVOcjCwEyq6S4mYtoRwdOVp0BV6XcPXlT60xOMesvYSGIdOcM2FIulkv
+CRIDWkkmO4C0z7nXLJt+L9lOn0x8Ad+npWKd9csCigObK5zlLRh8TMqm2CoZOV/nWf3in8zk
+/wCbZ/fKqfR+CD4LTkFvzOT/AJtn94o+Zyf86z++VUPp703CgLPmcn/Os/vFHzOTwts/vFVj
+8iRDHZJBb8zk/wCdZ/fKPmcn/Os/vlVexAI46IC0ZOSf/wBrP75R8zk7erZ/eJVb8UMfLh7U
+Bb8zk/51n94qJycl/wB9Z/eKht7EICwZOR/nWD/5FP5nJ/zbP7xVTj86NPagLhk5Dfv5/wB4
+o+ZyG/fWf3iqSW0dPqCAtGRkb+rP+8VE5OS5/a2eHxFQjNjzfh4JyiGBGpPDkgH8zk/51n94
+p/M5P+bY36xVZ28UmHDbmgLPmcnhbZ/eIT+Zyv8ANs/vFVAaoP0HsQGnGyMiWRVGVszEziG6
+ixcoVeL/ABNP68P8SEBbk/v7Bv8AHL7VOi3N6ujHlIyILCIcsyhkfv7Rx65farMHLOJbO0Ei
+RrnGJGjSkGClqprRP3C1YHCzpHqNNhJ4mJLhRGDmiXSKZ9RYgdJcrvYt9svw5kWGyRsjMgSc
+uzhZe3508jO7fCUzKdcpRlIkuYk6LCvZJ4SjGDfFSs6o5EsPJhOMZVyjOWwIYlSngZsGM6Zx
+BLBwzkrrd7ws23ulllUDKAMekiQDBW/igzjXhRJIPRqHLuAFVdzXCyg6r7svByB2ruAIfHmH
+5jdUZONdjWendA1yIBAkGJC9L3GnKyO3dujSSJSjETPV06ELgZ+TO6cYW6yoj6RJLks6tbt6
+pRkWqk9dinHw8nKkY0VmZG5GwbxUrsDMogbbIH04ljMESAJXayh8j+HMeNTxnkkGcnYkEOuV
+26+cicEvKvLlCB10B6t0V203GFgOqTS8kKe15t1frCAjUTpOchGJPgi7tWbVZCqdTGz7pcGM
+tOB2XV/FcpDKqxYAiqqDxiNA7rTij5r8MyFpeWPImEncgxI/IVl9llVWxlwVUq7NS5OBk9qz
+cOHXkVemDs5Dl0sPtuXnExx4CZiCW6gCAF2fxb9/EJ29PhwVH4S6f+WDO3pT9uoWubdOW5OK
+5RJycjFsx7PRtYSG4cFiFrh2LPtq9eIrNJZpdYABWfO/jb+LWS8913ses2/hSUOqMT17yLAf
+Eyl7NVTnUVqm3Oxw8rtmViQhbaIyhYTGJjISchWHsuXCELL5V0Cf3Y2SEZEHwW/tlMf+Uo7d
+KUbKqyLgXcEmKyfiK2Vvd7zIuIEQgNWAARWs2q40nQOqhv1FHsGeeskQhGBHxykAC40IKnP8
+PZ8IxlYaoxs+4TYAC/JZr+5334kcaWgg2rnUALsfiEkdp7YRuIgkjiREJa100pWWK1q08M59
+X4f7hZdZVCVZsq1nEzDgc1XPsuSK7bRZVIVB7BCYJAHguv8AhrJlk9wyrZMDOkDw0DLl21/J
+1G6myNk752VTEXYRYFiorW5NNrCkOq4pxq4FDsWRZiDLFlQo4z6mAdQv7NmU4/zMem2kb2Vy
+6gGXVrI/lCbbiZ00/SS/CUzZLMxZkyqlB+g7Ak8kV7Q34cF4KUlupPPQqnZZGuA6rJkCIHEl
+dP8A4OfrHE+YrGUASaS7ggOzrNjWRw+5RuETKNNpLHVwCvTZPbMbuU/+V7VcBk6ykHcEtsfF
+W12mvYKqaa3k4sfw7eZ1VHIpjbYHjAyLslZ+HrITsr+YqlbVEylWCepgOpS7bfdd+IKDeALI
+HoI4fCFZ3K01fiO6UQ/VOMC40aUdVOVpidpCVYTh6wZIdplDEjmZlooqs0g8eqUvIJ39lMMW
+vNqujdiTIErQCDE+IW/8XEwsxaohq4VkxDEDQqz8PkT7H3CqWtcTIgS4HpdTlbjyneA6rk0l
+opMGR2AY1dVtuXXGF7enJpbEKjO7RZ2+2uORMenaHjbFyCPJegzsCOfhdrxzbGp4hup3IZc3
+8UZM5ZMMIVmEMSIjAkaycbpW9m1ktqpJ+hnzuzV4OPVfZk9Qu1gIwJcK2fY8WvBrzbMsQptb
+pPQSXK0/iLXtnbj/AGftirbY0S/DOD8xKUIdUfiiHO6crQs6uBxrL9FJyj2T1L8arEuF0ckS
+l1swiInVL/jMSyV8MfJMrqIykYyiRGXSdekq7Fy54PcvXhCU8Skzi4BYRI1P1rqZXbcHuFVm
+f2qwQuEZGcAdCCPicKuzTSbZEk6ytjyY2B4fnS1TIILHQg7eSF02Rz3ZZjP8zT/qQ/xBCeN/
+E0/6kP8AEEICzIP7ez9eX2qk67cVbk/xFv68vtVT+9UHo8Sq3+WsiPTLqlJ4hi5C5nZK5nut
+B6ZNCYMtDoAFiGReB0xsmABsJHioxtsgTKEjEncgkErCo0rafczTt/jjQ63f67J93mBGUhIx
+6CzgkBbPxNVZOnD6ImXTAAs5YkLzpttJEjORkNiZEkFBuvO9kjszyJ1Tg8Q1hFd1nGp6butG
+TZ2zt8aYmVtQj1xG4IC5HcMSWNjY8rYgXWmZs5hzosBvv29WenEyK0w7d3O+EZ+lOQI+DrIB
+I8Oooq8YlryG1bZ+DrCUe69irx6pD5rGIPQSASByWLCxTh025mTH05ViJprkwkZiQ4b7LHDD
+z/XNNdMxdHeI0kPcrJdq7zYQJY1sju0gTv5qcUk4ss5K221h4wdXvtUu4mnPwntEoCNkYkEx
+IHJSMhh9mh2yJjPMyZAzgCPhBL6rz4hkVWmlpQsdjBzEuFpPae6g9RomDP7pkQAfrUdFCXJL
+cK2W4y8HZ/EWLZmyxzj9E+iBEiZRDFS7bj14neYSEoCqvHEJzEgxmQuHDtXc52ej6ExYP6pY
+EjwULO3ZldoonDosm7RMg5I9qKqjjyUDk05hnUj20/8AJXZN8qxQDZOLziSSRotFVQl+HJ4Z
+nCN05uIGYGnV1fYuNf2nPp6fVrEOotEGUQDp5pZHae4YtXq31iFZDxJlHVhwRpOPuQTiXGTq
+Yco9pqGVfZXZcLIDojISkIAMdvBVd5wo5uXLMwbIWVXgGTyAMS3F1hh2buE6PmI1g0ga2dcS
+AfestdFltwpr6RMlvvAB/NVVXJtW0WxG3xUrDZs7hVjidGNjTjM11iNk4kAGR31XT75Oq/te
+HVVdCc6I/HESDgdIH2rlXdozcUxjkxhWZn4QZxBP1qdnY+4ViErIQgJn4SZxAl5a+KNJ8fun
+LYlqUkbvwvZTj23XX2wrhOHTF5AF396jh41deTK7Jy6TVETMICfU8pBcrLwMrCmIZEDCUh8O
+xBDq3F7Rm5dcraIxnXEPKQkB0+aOqb5SE2lEaHXrnj/y9PBlkVC+cjLpMgwBk6rwsvD7Nh3y
+haL826PSBAkxiPNcqrtl90bJxNfRSWnIzDBZTEgmOhY8NiUVE08zkcn4NnbciqruFd2Qf2fU
+fULE6SC6Pazj9tzpZnzUDjQEiIRkTKwE6AxXN7f2vJ7gTHHlAzALwlJiwVsexZdhkKJV3Trf
+qrrmDIEb6aJZVeJ0Qq2lPqW9tyKZd3+eusjVWJymRIsWPJQ75ZTZ3KzKxroWRnIGJiS4YD8y
+rwuzZWb1CqVYnWT6kJSIkPMJUdoysi6yunolCr95d1fsxpzT7ZlvaCzaIh6ydHPzcTvGFQTb
+GnMoHTKNjgSBHNL57Fwu1/8AHYtsZ33yPr3AEQiDo3Mrny7TIwsnRfVdGljZ0kgxBO+oU8ns
+12JixyrbaxVYB0EEkyccNESrCXLEySbTMbHQ7t3DEswcSGLkD5jEAOxDkDgln9w7b3bDqldP
+5fOqADmJlGXPZcvJ7fLHphbO2BNgEoQBPUQfYsbe32lK0rhy8SHd5mDv93zcDLwsainIAnQG
+LxIBJDOpX5fa7uz0dulkiM6iDKfQSHH/AJXnwC3BBfmn61Cy9ZDu84WVB3cfN7Ri0RxxZO6M
+xYLZCJDGYABCpwMvF7XC6yrIN9tkDXXCMTEAE7yXHY+zzRvw1V4KHl+ckV2noliBkklyXJJO
+vMlIEIIPFA4K/wDhGZLsYf8AsVfrw/xIRjfxFP8AqR/xIVBPIP8A7Fv68vtVR38VZkfxFv68
+vtVROqoDZHkglBcMeaANUJOgnRNQdPsGLDK7lXCY6oRBlIc2CO+5Vs+6WtIiNJ6awCQI9PJQ
+7HmRw+412zLVl4yPgVp7127Is7nKdEDZXkEShOAePxDiQ65uec7QbS+2PU7F4GRT2zOIa4yh
+GUgSDIEeHksffKsmPc78uEjGGPCNgAkQ5DaM60XWCM+3dto/aSplCVxjqIsP6VzvxL69Xc7p
+xBFVkIwf+qXC50T5KcG7NcWcjLv+YyLMgjpM5GRbQuQvRd6puv7X26NIMpkcCdNN15iMZTPT
+EPI6AcXXpu+13HtOEKwTKqI6xEh4jpW7pt1S0MVacmyd9XzfbMaUxZkV/fLkkfDs65HdsDIn
+3e2yPT0mY/rRBLF+Oqzfh6Ez3Sm0axgSZSJAYEeKs7xj2z7zZ0R6hZMGuQIIIH1LKo62cPEM
+3Kdfdo1fi5hdjdTEisacNFL8TfwHbuTHg39WKf4pqnfZjmgRmBARPTKOh96PxFH1O34XRKEj
+SCLIicSQ4HB1Kz9jeMktrb2RHEAH4TyCGB6zqw5rgVaW1FyT1R4nYFejxKZn8NW4xMI3WSMo
+RM4gkH2rDHt0qcKPqGs5FmRExiJxJEBHXit1cct5ZGm1X2NH4ub5nH5+kN/BX98x55OD2yET
+EHo3kREB4xVX4mgMnIx50zhOIgIE9cdCT5qXf4xt7dhCuyucqIkWDriSHACyk/t92VuOT8wU
+/iLNx50Y2FVYLZ0AdcwXDts6u/CsTPE7hAaExiAXbcSXnGBAbQB9dV6L8OenThZnrWVwF8Ii
+t5AEkCS1arrRJayStps5UYM3d8C3BwseqB6sewdU5DaUzzK4oLs4bf2L0/bracrtNvbu4W1w
+6CY0zMw+my5x7f2+rtVttmRGWbCZEYxkCCCdEpZpOrmZFqptWTL/AMIP/wAnLn6ZPjqVjxLZ
+4/eRbAkS9UxLaEiUls/C86aMuWRdbCuHQYnqkxJKWLj4VOdLMy8ms11zlOEIEylIvpoo191v
+DQT+2voz0FVNdfe8swHSbKYkgcCX1XJtj8r+FhKr4Z3zPqSbUvNld2/u1F3cMnNyLYU12wFd
+UZlpMPBZaMvFu7bb2jKvhCcJE0Wv8Bc9Q1WUmmpW6NtpzBwqr7aY2CthG2BhMbgxXrfkq83t
+vaq7pxhAdJ3+8RE6LhY+NRixunl3VGyUJQohGXU8pf1tFu7hlY57Vh1Y+TWcjEMSQJHcBa7F
+LUJ4M0xMnK7vTkU59teRImYPwnYGIOjLCy9F3q/t/ccSm4ZFYza4gzAJaQZeebxW6Oa5Rzuo
+eoNoyXFke5BGu60QRQNwmdvBJABPBkEJkBvag/Y6Asxj/wCzT/qR+1CMUf8As0/rx+1CAlkt
+69vjOTeOqrZegv7HVePVrmYWSHUQdQSVyMrt+VjE+pAmPCYDhbdWloZV6t6mbR0E8EEez2Ja
+rJoEjy+tDl0EKsSDkFwrI5F8YmEbJxizMJEABVoZTGjQTfsMTkC4kQTuRoT5olOcg0ySOTkh
+RJKNEx4DbHAkS0JBHHkVOUp8SSCC+p1VT8VPQ6baI86oASQAxIHgWdJyzuTvq5O6kIPEkkBu
+CgJBtkheBL8gHHF2PjwU6+g2RFjiBkOpjqzqI201L7KOjnxUiNEJe51D2eQOQAJSMJCOOAQ0
+hIdXUX4Mq4dsshj5ItgRdH0jUHcEzn0aEKQ71Ya6arICVVdZrmHYyBG7oPeRGAppq6YQFcax
+KXVICE/U1PiroG/9DPX23Nsn0wrLky1cAAwPxO6nPtWfXKMZVHqnIxixBLs+vsV1veISEhVS
+YRnGYIMnPVaXkVKHfbIWmyNYc2Rmz8I1+lp70kZ8mLJxcjFn03xMJEOCS4I8G0WrL7fRRg1X
+QErJzjH1LROJhGUjpExGvBU5+f8AN2QkIGMKwwiZdRId9VK3MxxjWUY9Bq9cxNpM+oNE7Aea
+POrCwYmHHUoIY6Dy5hDnimEn0Q/1AAcfs1dBMdOfmQ5QSk3HZJHwAGvD8qYiDpy4MkH5pgl1
+J9gAHiXPuZBHi3kEyeX0ZR5p9AGj8dE3KTJhWV4Eeshq26Tp80MFAMEN4pacvrSYum6Afnok
+OSNH8kyQgLMYH5mo/wBuP2oSxZf+zT4zj9qEB7SpjXD9Uc22UiAQzAg8GcKNX7uHFoj7FNet
+ZS9jwWxZ7ZMl3a8G4vOoOeI0dcvL/D8n68Qgx1eEtCF3y6R1fxR0T1RV22ro2/c8qey541lW
+QByIKzXYeRT9+uQi+hYr2TBIgENIODwOqw+pPRm1/RZapHiZRMdwz8+SR1HivW5PbMW9yYCM
+iG6gGLBcu38P2iT02iUddJOCFh9dloda99Xrg4jA6FDFtA4C05WDkYh/ajQnQhyFSBLpO7eR
+ZwsNNYZ1TTUpyEoxJJH3Q22mpUAdddVIEdPv0UhTM0esPuiQj4klQrcFciSeCAzsWc7HYKUY
+mUhFxEl9SW2QeqXMgDk+isPwJXkRj0y56KLKyNczH7pIHEAq2OHl2D4KZEDmCHCQ/DI7JatG
+fhxOiWunEPo/irbMfIr1lVOIHOJZVFmPA8io0/ATT3QMPemwd+JUQR5qRfiCH9hUhlleQbz0
+8UbAckEjbj9oSOyBZGHdOI5aMojYlMEtogA7oQmN0AgPNNjo2xS/J7U3LMgkCGHik2ngm7oB
+KsAG/wDKB9qTlPRQSGqWqZ329yRBfkg9Bgv5pS3VkarpMYwlINwiSlKqyP34SiOZBCsPwycl
+5RADigf0pkN4A8PYgDR9VMlJ4w/9mn/Uj9qE8YgZNT/px+1CA9pUHrj5AfUpkKFf7uP6o97K
+Z3XrWi9jwW1fuCSZSVMQB/Ml9NEFDBUMWn9CG89fHdNBQmPBVkY9N9fp2xEou+pIKyDsuACD
+0SZ9Y9Tgre6N9lHVN5SKr2Sw2vY557H28ycQkCS7dRZEuydvJ+7JjqR1EBdBj9Clp9CnGvhD
+9l3+TMkO14EGamJbZySr40UQHwVxiPCIVh+tDhvFFVLZDlZ6tiEYxDAAAoAA4AeQCDIDcgD3
+KmzMxah+0tjE+aNpeCRZvEl0gCGIcE6uAVQcLEMuo1QJGmwGizW98wIBhIzPgNFks/EQb9lS
+TyMjoo7UWrR0XX2PRP5OoMLE0Aph4aBRtwMK4NOqOg0IcHVcKzv2dM/AYwHgHKyWZ2XY4ndK
+XPVgsPspokbr0dkr7jr29m7bAvK81gcDIH86zWUdjrBBusmRxiHXMPUdXJPiXSG7AuVzd0/x
+SO9euy/yuyVgrFh9J/Tf4erchRA4BTjj2z+7CUieUSVfHtmdLaqURzkQB9ay6t5g3yqlm31Z
+lZBcHRbf+OmP3ltVfN5An6kxiYQ+/kmTfoQJ1TixzXq/ZGFi+uqehAGy2gdsgdK7LCOZABUv
+m8eP7vFgCOMiZEJxS3Qmz0qzCIyJDOT4AlWQxcqwtCqRPMA8VoPcskAen0Vj+zEBVTzcub9V
+si/iyRXywub2XyTj2rMIeUY1jnOQCY7dXBjdk1Q8ATIrLKcpH4iZHxJKTAbavukpbfUcbvWy
++DbGHa6j8d07eHwwYP7VXnUQoyemBJg0ZRJGpBDrMdm4clszz1V4lu/XUAeRMT0qpytFOodW
+mpbc4PSYsozx6pxAAMRsAOCsMYkagF+YBdYOy2epgQHGBMfzLoL01h1WNjwXbVrJNqH5KLsL
+FuH7WqMm4sAVnl2Tt0iZCJjzHUWW9GvijrV7Iivdfkznw7Ng0yNkYmUoAkAkkAjVC3z1hJ9f
+hP2IU41mIRvnfhPJ6wSr/dw/VH2KxV1E9EPIe5lMuClcpewtq/cZSSTKpkCl5aqM5wgPjkB5
+kBZrO54Vb9VsSRy1RtLVoKtnoma3QVyrPxBjB+iMpkeQBWWz8Q3SB9KqMW2cklR3qt5NLp7H
+t9TveKjKQiHJAA3csvL2d4z7dOsh+QZVtnZHC2Z8pEMsvsXhm1/O97JHprM/ErBM7ouHLblZ
+Le/YUR8AlMjwYFcaPas4l/T6Ik7yIipjtcx8Vl9cSfEyKzzs9jS6etav6Gq38RzYimkBv0iS
+stne8+wkdYgG2jEfapx7fiAsbZ2HlCLfarY4WINqZz5dcgA/sWW7vc6KlFpRt+qOXZlZNp/a
+WTk+usioCMpbRMvIOu3GuEfu0VQbixkf/spiVrfDIRH9iIidFOL3bZ0Vbx/gl7nHjg5cx8NM
+yObMFdHtGWQ8+moc5TAZdCRkfvynIeZCrMYAv0hzz1KcV4n3NLrvu0vZGaPa6gWtyoOP0AZl
+WRw8CIYm61uURAH3qzrA0DDlooyt9pVSS2Q/X5s/gIwxY6QxQWb97Mk+6KYvlANXXTX5QEjp
++sqZW82KRs08lHZf7F/XTdN+5bPLySG9aQH9lof4VROUpl5SlM6/eJKhKRGvNR6ojmX3UdmF
+Wq0qiUmAYAEb7KBIdhqgkNoGKgSTr9GUbNEiQNw6jrwGn50gTs5TJ/Oo2T3Fu7qPH6cVNgok
+a+KzkAhijgpRBPIHdyqBN9PJarR1drplxrslE+0uspBBHF+C10/H23Ijv0TjYPBwy1VzK9DF
+9F7m78P2ki2pwwIkAPcuyF5rstohnCOwnEhelG69HU5qeHvUdj8PI0FIboXQ5BP7kvIoRP7k
+v1fyIWfy+Df4fJll3TBpgIysBlEAGI1IIWez8Q44H7OuUt9z0hYZnCjbN6pTn1HqJkwd+SYy
+K4n9nj1w8SDIrhzcLKPX+lNvDeZyWS77nWaU1xiHYMDIqqVnesjYWCJ5ARGqmcvIYNIQB3EA
+AkZ2z1nOcgeBkUdp3ZtdTWygpPbs6Re6yMefVMOmO20b25I8OiJkrYxgQS2vjqrgCdmB8FFD
+2NLrfn6FEcHBG/rW+6AP5VbGjGj9zGi4/wAycpK0DTX6aKQBVNfqq9Z+pEdcfuCuv9SALe0p
+mdstDZMjwLD6kE6fTRQJLpnyVddVlJCMIEkkAltySUjEO4AHNSMizKJlqmDXFLZfA9h57Dgp
+Ah/FQEgz6fUkZAau/wDQgSgmSH10KHG31FVGwk8GUTYeaSWSVswB4/nVBm+vmozmX111Gm6r
+MzIEDbwUbDZKU1AzYHwUOon27+1PTRZbbMsRkX14un1FtN/NKQ+myQGp8kEjcEMd+Kidfb+R
+SPh7fekWG41UBEhjzdIhj7FMh46aF/yJGJ35pJCDapndvrUmfy25JEaFvBQCZtEipAcEfYGC
+AiNk0w78foEfQ80AiFr7eOqOTUNROokDxiVkO/tWntkv/ciDtOJh7wtVwzHYvtce5nxrPTya
+7HYxkD9a9eN34H8q8ZOJjOUXYxJb2L12JaLsWqziYh/MaLt0vLR5f6Vitvgu2QEDdP6Mux5i
+M/uS8j9iET+5LyP2IWfy+Df4fJ56yI9Wx/0j9qiIsNNtebKdgBtmR+kftR0nzDheVI+skvA4
+gE+HNXCAMfF9lGETx28ua0RAI2VSKkiEYAjY/YpxiAXCkwB4IVSgJQJh5JSlpoiclUZEDdiP
+zKlJGW/AfkVZmQW09iDYGYnbR1VIg+L8QjZGyZmX9mqDYWYAa/WqjLTXRRNj6DVtlJMtlpkW
+UZT0Z1GMLJ82UhizOrOPHdRt+CNlZuD7j3qs3x4K2WJJ3YhQOPLkjbElMrHHj4pCY8OXNSlQ
+TzUTUR5cfJTImRhid1YIjQ7ss0gQWDhMWTAbcclJIXE68gOCgCx15MkLTxClAgl9GHPiyoE+
+uvLRMjXyTlIdWjRB/q8AnIBtwSeAUBBySRy9yGf2bKQAZIkApAEW+tIkjwQd0jy4/nUAE6JA
+vEyfUFm4l0cEuKAYlzPkntsoAhkO/FABJbw2V2LMwyap8BMH2FUoEiDEjgR9SqeUS2U/VFud
+DozLY8Oot5FdzsVvXhCBZ6yRpyK5PdgPmvU4WQjL2kLV+HrR121E7gSA5kFdKNq/uebtU9Un
+edDlIIXpPGKZeEvI/YhObGEvI/YhZ/L4N/h8nBlEG6b6DqPjxUow100ClKPxyOusiX9qnEDk
+vMkz68DjBhtspggBRCUpHhp7+S0UnKQUTLTwdVmR+mvFVymYh9xwQjcFspNrsqZyOw4eLKHW
+7cNVXORBOvmo2RsmZa66geKQkdohuXsUIiUju624+M5cjdZky2U1487G6uK20dv2fb6t1qpr
+hUNd/sUrMiMQwRPwYbbIDFqgH4+AUZiuPmqLcokM7sqJWkh35qwEi6ycX24lUSsjyVU7RzZU
+TtISUWC2cwOHtVMpAkvoFA2OkZAKNlSgCIk7aqEoBtPYpGZIbiqzNRsCMQzqBMgdPNlMz009
+qgS+oDhSQWwscgSDKxjuNQfcsz6/R1ZXYQeklwfqVkFpcDxUZAg7an7VIkMG1UWBLnZ0BE7+
+SUokB0yz6eYUTo4d+KgESfakmUmQATugFJN9H4IAJDcvFBIZDltkj7UDUo3Z7TxsW3cmBiT4
+xKXZ7PTz4cpgxPLVOz4u0VnjVYYkjkVkonKq6uYP3ZAuPBdE4smcXVOlq+57EO30CajCXXGM
+htIA+8KWui9K0R4GobXgjP7h8j9iET+5LyP2IU/L4Nfh8nHmSJyB3co6lG2weoRykQfeoCwa
+ePjqvOmfXktMnCgZgP4exVTs14e9wqzMA7v4OjcBsunYGYKqcy26rlIv4jVQM221PJZbbMtu
+SUpsSiJMyqyX/MrqYh/ye1QkmrGq1crcLI1x5EBYxcIjTQ/lVFmQZHdWfJlo2zzHcPqs07ye
+OnALIbSfH+hITL6FJQSyaRIv4ndRsmW1Kq69OL7lVWWHjx8Ub8FJTt15lVGZPFRJcfYl1KNg
+l1Hn4pGR56KJk6RJbipIJiZ8wokknf3KJdkD6OgJAA6I6mOmg5JEuOQSLBASM3ckapBtdxsk
+D70bOEBOFhBY6hWkg7LMf/KlGRAbh+VJBaSlpx3SB0Q6ACzpPr5JE8uCAdUAHbXX6kH7qDsO
+aTeOiAb/AE0SHDRyj8qCdBpshTfjEWdtyocYSjNYWLrf2ppnIpP/AOlUvfFYNdCNCOHFaeiO
+SUWsvJ6zt9nqYdUt2jr7FoHiuX2CwyxpVu5hLTyIXUA93BeqjmqfoeC6i9vcU/uS8j9iET+5
+LyP2IV/L4H4fJ526Q9Wwb/FL6pKvqZF8mvt8JyH1qsl+OvD3rxyz6sslKRJ10ZQMhw3SJI8f
+BRJPLVTUjbJmWn2l9VCRbx0ZGrcG00USXOqAnDXVXxkIx58lRAgBOUtFZISladVAyfy8NlF3
+HuS6jskgmT9PYmC3F1V1N7UiSksFsrTz08FUZOfFJwUiPr+pJAyRz3UUacUKAaPApE66I0QA
+/wCbVBJfQOlxTccNUAw2oSP1oG778EIBJughDf0oBP8AUjgwTY+1JkBMF9NmQCVAaHXVTGyA
+YJBfm7qL6v4umSeSigGT/QmopuUAI8Tt4ptokQx9/ghTZ2iTZ1fASBjrxJCz3Q6L7IfoykOW
+xUsaZryKp7CM4lvarO5x6O4XAbGXUDzEg60s1+Tk8dk+UbPw/Y2RZW/34u3jFeg09h+1eT7X
+b6WdUXYE9J9q9YzBvNejqc1jweT+hRdeqIz+4fI/YhE/uS8j9iFv8vg5/h8nl7x+3s/Xl9qr
+1+jqzI/f2eM5faqzrovEfUkRIJ81E8eSZ3CROhHA/nQESwCToJ1QhCUSWZBIA5ukHZBdAHUG
+02USS6ZB/Ootr4boAdyglvJIvtx4JxhKWjElCh4odx4K2ONaz9JUhi2nYMyjaW6EN6JmZMHV
+j71dLHmOCjOiYHU2gVUeSZ3Ky7oTMZAauW3SL8tUANxQBrzS1T+nigA6/nQAhH0KAEIZNkBE
+F00Mx8020QCbV+CkNkhx4DZMAsfFAI66pJsGSO580A0k3PuTABHFAJxoOSZHF0MPDzQxbxQo
+ORtw/Itvdw+RXYNfUqgR4sFljCJLSLAu6154E8HCtbURlAnmxWq6NfJyvi1fWUYYS6ZCf6JE
+n8ivZ1yE4RnwkAfYQvFsCCNn0Xqu1W+rgVS4xHT7QuvS8tHn/pUpW8YNcw0JHwP2IRM/s5eR
++xC7T93weeXw+Ty2R+/t8Jy+1UgsdOKuyCfWs59cvtVB+ntXiPqASN+WvuSLsk6H9iAROqQJ
+9vuQznxT0GyAHI9iTudUE8yjihROX+mqmJAkcCzeajo78UwWJ+1BJtxsI2CJLEEOHW+vAhEu
+WB8lT2y2Mo9LsY7PxDLqQAI5P9S83beyfod+ulWpKflojQahS9CLEMtHSGG+nJHSG5hcX2We
+504LwYbMePUCzADkufcAO4xqj9ybBjsCV2ZwlIPoAuLmQmO5xADGRj0kcwu/VdvDexw7KwzX
+HtxkD8I30Wa/tVkSTsPavSY0YGI6mcaMrcmquUODt7dFt2jMmEpg8TZi2Q4Ej7FQRKO+hXp7
+ccSBDBidlzsrt4c9III1Z3Vr2p43NOjSk5Lt5pgaP4lTsplXJi4ZVv7VtGIjUaEAPwTES7Hi
+VSCYupAFMwESzunEOgE2jsk7DxUyN9dUiD0uQAByQFbnVG/gmwSYHkgAa7pjfTZAA8+CIgb7
+lAGqkAdEAHj71IAaIBF2G3Blsk9naORptIbkCFmY6DmteKOvCy6i+sYzB8Qt11Zz7NK+jOaS
+PtH1rv8A4dsBosqfWMupvArgEDz5+a6fYLDDMNfCyLeZBV63FkY7kn1v0Unopn4JcmP2IRYS
+YS8j9iF6Z+74PD+HyeVyH9e3l1y+1USV2Sf29v68vtVJ2XiPqi0HkhkmI32KNeaASEFBfRua
+ADw4I+hQzDVDP7EAIIPkgBNkcgsounVMSB1B+pd/CyoXxHSR1Aag7hecZTqvnTPqhIghtnXP
+s61dNnSvY66HrYxBGmroIILt71z8Hu0JkRt+GR2PArqgiY3BHDjwXkt1uryd12JpPWTNPqbf
+TlwXPy6gc3EsbXrY+xdedJbn481ltxhIxJ/qFw3Mhao3X0MXSsycLDCWjkE6q2V5npqx08NV
+TGBd28lYQQAFm12arRJLQhLUcHPLdVmGjsH13V3SDrt4BRIID7jVZq2njybhQcvOxhKJkN9f
+euMYkEt7V3c+3orlEaykCwA5rmZEKQImsuWaWmxAXu623VSebsS5My6oJJ34KRDoAP51tnMI
+xBD7FW1wcfYnGBJDq6EGCsApnDQ6Oq5AgF9iX8dFotJA0dZJE9X0cKMCO2iipkD2JMgAMycX
+bZL6BTiCgAPsNealEbHYq/FoFsgCQHGj7JTrEJkAggHcICABby2Wzt4/bzp2Flco+BZZhFaM
+M9GXTLgZdJ8iGWqvJjsU0ZyyPiIIYj8hV+Baasuqx2AkAfIqOTDoybY7ATPtDqoHpII0Y6ex
+E4t8kia/B7SZeB4hj9iFXXYLMWNg2lAfYhemc/EngjEf8jzGR+/u/Xl9qqIO31e1W5H8Rbz6
+5faq9XfdvZxXkPpkZA6Dl+VB01PFOReQO+yRAb+lALfRJk9Ev/KAaGTHJSEUBABDKfSkYt7k
+BFCk3BLpQAJEHQstmN3TIx2Al1RB2PJY21KbexR1TWUVNp6no8bvmPYALT0SI47LaMmu3p9M
+xMX+I76LxwB+hU42TgeqEjHyK5vpWif1Nrs8r6HtQaSNx9aRFTbjmvIxzcuO1hQc/LIY2yAA
+5ssPobeqNLsrG56qdmPCLmQ/Iubmd1orBFbTkNmXClbbM/FMy8y6gQSfFar0JNS5gj7Wk4Lb
+cmy2w2S1kXbwCqAlrzPFSESfEKUYrqkko2ObbbkhGBJdWCBfVWwrJ3V8KCdw7LSRluEVwr05
+q0QYFXwoG/JRtAAYbhagkmC7ispf3rVaxkWWWXuWWaWgvPdDPrzTRooADszaKyLDU7FQbVTG
+45ckBOJI2Oqno3jxUAQ+ikDsqgSA0byU4S6DGX6MgT7Co9WgI32SlMmJHgqtURqU16C7tDpz
+pnhNpDyIWM7HxW/uw6pUW/p1Rc+IWAH2pb/JmKZqvSUel7Rb6nbgOMAR9SFj7Fb8N9Xh1BC6
+8vt+IPPw+/8A+5MOQHvt/Xl9qq6SBzBV94/b2n+3L7VUxYc1wPYQ0B5EII1fipGPH3JN70BB
+ju3tQAymzhjtqoENoyAkNvpyUxEcPqUQdNlbWz8kAujw96RgNuK1Ct2QagCSqJMkoF9uCOk8
+vFajXrsXSNZbZIEmXoT6PBaPS8ECB0+mqJCTP0Hcj3o6B4OtBrJiAAQj00gSZ+kJ9AJ13C0e
+kExUeGqQRsz9D8CyBDXbRahSf/KmKSeGnkqkJM0Kw+oLeHNWwoJ4aarRCgOBxWiFAHBvBVIy
+3korobw+rdaYU+3bdXQpA2WiFXsKEkzyrEYklgubkyAPIN+VdTIIZhw3965N56pSA1PIbpsE
+zDZIu+z6ewrPIudeC3xw7Z82O+ikO0yJfV+akM1yXk5xJ8Qh1tt7ZOAMgHbgscoyhJpaEKNN
+Gk09GAOm+n1qQJffzUHHsQ6gLRIN9OSl1a81UCARqpdY1bYoCZkWKRlw4sfrUDLRIS+Ld1UX
+ZmzMBn23GsZzEmBbXQLng+8Lohp9puAd6rAQ/iFziNT9Nlq2Y9Ucab+jN/Z7PTywH0sjKOvE
+shZ8SRjk0tv1x9xLITl9prj9xovB9ez9eTe9R6QrLx+2tP8Aal9ZSALPz96wbKjHXxT6D7eD
+qwR1dk+gf0ICpmH0KrnBi7OeS0dCU4ghAZnDbaq6sgHXiqzHpJffZOJ1QHQpAloNVpFTjkFi
+omX3XRosDAcG1WkZeCo45Jf6aJGgceHFlvEYyHikauQVRnkYDSG2LJeiPEutxrAG2iUIwJ8D
+oEiQ7QY/QHIo9HXTddONcGGgKJVwbTQqwTkc30By0Uo1BtmWwUHgoygY8AkDl6mcUjZTjUNH
+1dWTIgHO45bquPqTO4gOHikBsmIQCmJQDaKAxxIN6jl+BUDjS4SLjxdIJJsrlWTyOm6nbdVX
+H4pAabPqsPoT1exh56KMqqoD4j1NzKQJIznZkS+F4w8lOvEqrDy1LvrzRC6ERpoypyMoDYuF
+QpfsaJXV1ggNo+yqOWHYEHzXMsyJSdi26zm2TnUv4KOyNKm8nYsyOoasefisVtMLJEkODsdl
+lGTIHcsrq8gkkE6qSmVVa3KbMScR8JcLOQQSDofdqumJPsdPJVZFELATHSSjqjSZg1Q+vLwR
+IEFiCCN0idPsWSjYb/kTEtfL8iiSSG5I467OgOlgH1cXNp/SgJDzBXNc8d9F0OzSHzkq9xbC
+UfNwufINKUeIJ9jFa/FHNYvZfJbi/wATT/qQ/wAQQjF/iaf9SP8AiQoaN9gBumOc5fUUwDxG
+h8FKQa2Y4icvrKnEHf2oaWfkiIBttE+gctVYCEzy4qwiFEoh20dVmB39+60SiCVAge/RICM0
+qxIjmqZRlCWrhbLBppwURV60SSWISClVc2PLVbKLS7rDKMq5MXI/MrK7CD5onkjUo7VFugWq
+Monfdcaq8DV9AtleRHTX61TDT1g3ShGYI018lnli2g/AzJjKA0AMiOQdWQyoEsXifFw6qkjR
+Qa8mJ1BPklI5AH3T9a2iyLO418UpSB4v5JLI0jEMicdGIPiE53yAdldYAQ7Aae1lRaIGLBnA
+OhTIhSVQujbaessBsrRbQT0Eb8XfVc2ZnCwyjw81A5M22AIG6Sa4yaJZcqrCAXiCQESz56M5
+56cVkNxfWIJPs1SlfPhED8ySvJVWFoXyzbzoNPyKo23lzJ2KVYttl0jUO2yunE1RYkEtoFHn
+cqhYhFAvlEs7/aq7bzI7cFOch+iPNUzNZDagt4KN+pVHghIvEEc1AyPtTlydRJ18FkoFm8X0
+ThOQJ1USEAnVvJAXxvL+AVsbx1aagrGNPYnGRiRswV5MkI03wEh1AB296yF+O7q+FoYA8eaj
+bBz1DZtVHkpVwQddEAILgbjQbIDT26w159Eth1gHyKjnVirNugBtMt5OqoExnGewiQfrWzvU
+QM+UwNLYRmPFwtLNfk52x2L2gzYv8TV+vD/EhGKR8zT/AKkf8QQpKNHWvj05ExzAkB5h0uph
+47KzPHTfCQ0E6xr4xWYyJ4sVWoZauUo9iwz08EzMu/BZzIbFISZw7hSTUF/XrqiUwToyoMn1
+4IMh5hJQLJyP01VfqSifh0HEInOJJMQw5eQVZOnN/YkshOVgs0OpdlCVVkS7FlCMuiYOgAOq
+6MboTgNQQQqoZG4MtZMj0Rck+C1iFsA5iWbcbKFYjC0EERB4stUrjXrIiVe3BwqkRuUQon/a
+IkTzVnrsei1i/FuCqmKrB1VERl9qz2ymSOssRsfBWTMSzdOJJ6oSLcuSrM80BwCR9SwyvtgO
+Jbk6tr7nOA+LXzSRxj1LZ5WW3xQOnFZp5FspOxB961/P1zixCqjlUxk7AoIXgzmdsuDj+lQI
+kNwQuiM2kkBgA/gnPJxzFg3uHFIksxiDmwrnZICMTqWWyvt5YStYD61A5ddZPpgA68lTbnzs
+fVlMIZe0I2WzpoDV7galc628mRLluGvJVyvMvyeCqJffgo2VVgmbJSJ/Oq5S1ZkFwH2fRRLk
+rJoNW9qQI9gU4jq9vFWWUAVmUXJHBEhJQ+iATr48E2JDlJAHs9iWqNUIABPuVnWTuoNx3SI9
+iAZ380a7c0g6YBQDAcEeH2Lf3X468TI3E6xEnbULCAd+I1C3ZA9Ts9Et/SnKJ8AVqujXoc+z
+Fqv1aMeKXyav9SH+IIRi/wARR/qQH/2CFg0djMkZ0U2/ozsg/iJLIW4e9aJEzwb+dWRJ/ASK
+x9bbuVu2q9h1tQ/dkpEbcVWTrvunKYP05FRZ/wA3ksmyROngkDsoiQ2OwZ9FK2VenpknTXRC
+ASoGTDjqokqLjigJF2fgiJD6OCkQWJ4D7EAIILY3yBALnkrBky6elyxZwqBEvoU+kvudFU2I
+RaLCCGLc33UpXzI1Og9qriNeasEARu2uiqcjBHrPkomUDuFZ6WuhZRNB5pkkIg1Z1BISlCX9
+UgjwUpUEcfNQNZEXfVJLBEykOPudBtl4jxSIId1EAOOAUb9R8D6jzKHOur+5LTghlG2CLly+
+yI78lMkMQ2qITMWIAfkyARI23A3UT4exTlMkagewKJYsw4MgHAkF/HRa65RIIPEMsgDBWVyL
+jmqmSCFtcoSMf6vDxTFbhxq+60yj1wbcjYqqAbQ66pBSicTH/wAKD6eK1WAzBBLss0omJc7K
+AT6eaEFuaEAKQA/pUeKk7ICbA+IZbqB19pyoMXhMSHuXNJ0Lbt+RdHtJNleVUS/VWSB4gLVN
+fgx2r7U/Dkx4uuTT/qQ93UEJYrjKp/1ID/7BCzDks4OpjEyr7lUNSZGQ47SWAHTTcrd24j/k
+cqrhYLB7XKwSeJMTwJceIWrZSZKP7rL5AyHAMUEkqIY6pEjyWToSby4qJBCcSX11Tlv4IIEx
+9hSYPyKZJZuCANdD9HQQPVmZPpI8PBIapgaab+aAYYs/kpAclEOSPJSA9qqITiC+mymBoqge
+X5lPqk3DRVAtAfXYcQg7HXbRVCRYPxLIMtN2JVlAlIBjyG6qJBGp2KcpOAwZvrKrJOvi6y2C
+Mg5Oum6i+raEczsiRIOiiSH4B1GCXSX0/oQRrrtwQCWI4HigjnwCFEQPakdtFIxfwQ31pBCA
+GzpsmYhKQ1+nBAAAQCxSEtEOgNELDtoyJkdTjTq9zqgSUuskbqyBycBhv+RQkxDIEpOkSH5q
+Ag3NDJl31KRJQBxQeQQBqmR9NkKRc7+a6PZT050R/mRlE+0LnsOHFae3zNebTLUASG3JWuLI
+x2KaP6koUWVZ1YlEgC2OrFvvIXq7ADEuAdC2gLaIXb9WddpPN/2Hx03g85hzEO8PsDbMHyJV
+ObDoybYgaCZ9xKUpGHcDLbpuJfzktHd49OdPT4ZgT94XJqa+zO9cdnujCToEA6bb8UEc0OCB
+4LJ1FqpEl1EnRAKAY3Uos7bKL8kwXL8tUBPpGifT7lESHuTf/wAoJJiOvmjw96iJn6aIMhz1
+KIhIsOOiQKgSGHJLq1ZWQWCT6HhxSJ1fluoiYDFifBKUm8DySQTlIAB+GqgZA7KBk+6ZIGvM
+KAcgN1Hp5oEg3jwSBJ8kBMMGICkQH5eGygCQNN1IO/irAGwbkQn06aqJk7Nun1aMWB/OmhQM
+eL/QquWqmSwVZUbRJyQTB4cUcOfuSP04ICQdikCk54ka7cVOFVs/uwlJ+USyJN7MNpbr5ZEz
+LJAl9Vph23OsOlUgOZAAV0e0ZA1ssqrHjJytcbeDD7KLdP2MJIfl4KJH1LoHCwqz+2zASOEI
+v9aAezV/1bbjxJPSCnF+UP2LZNnPG77gpgEn4XPgASuh89g1n9jhwccbCZFI94yQCKo11Dh0
+QAISK+Z9iO93pX6szV4WZbrCmZB20If3rXR2fuHqQmYxgBIHWWoYrNPuOfYfivmAeRIC6v4e
+yZT9WqyRkXBDl9Fqqo7JZMdluxVbhaHXm/QQd2L+5Cc/uE+B+xC9MZ+Dwy+PzJ5juVZrzpf2
+xGXvCv7qOr5a7hZUHPMhT77WBZTZ+nAR9yhlHr7TiWnUwMoHyZeZrVeknvTm1X6tHPBO3NRJ
+/pRIhvNJczvIA6sm48ktOaNEEjdMFRYIfXzQSTiTwU+r8irB/OgnVkDRMyHDdRJJ1/pS6vch
+klEn3GSW19/LVIfFoOCCSzJOfehScgwcFRJMvYgkkbskImRaIf2Ik3sTAHUMUtGA38FbHHvk
+PgrlI+ThWw7ZnTIPpGIcEORFVVb2Mu9Vq0ZADuPcnqt57XZFjbbVV4mRJSOL22sj1MrqI/q1
+xckqqj3j5I+2vq/Yxjw4pgjc6H+lavV7RWPhhbaRxMukFI9wxYB6sOAI4y+Iq8Ut18EXY3pV
+/Jnj8WgcnwBKtrxsuZeFMyW5afWpHvOY3wCuv9SADKizuGda/XfMg8ASwR8VrI5Xf4pGodrz
+CHnGNYPGUgEvkKY625dUeYieohc8ykT8UjI8ySd0bBSar8fqxF3+SXsjoel2mGkr7LH/AEYs
+kMjtVZavHlZIcZyYFc8DjxTLlmTlGyXwThOtm/k6B7oIn9li1QPMjqOqie7ZpBiJiAb+rEBY
+STwOqA/HQJyb3Kuuq2+rL55eVZ9+6ZHEOQqiZHck+ZJRofJLh4cFJb3bKq1WyEhNkcFCoAjZ
+MsyR2ZBgRGmi19syY4uULZuIMQWDuGWQEO6Cqm05WxLVTq6s9Ke9Yc+muvqlKwiADMASWQvP
+4rfNU8P2kftQt/ttPwc/0UjTeTvd8r6sKqz9Aj6wsVQ9Tslsf8qyJ8gSuxn1Czts47kQEh5h
+cftbWYubQQ/XX1t4xVssr2MVeH6WOa+qCNEMSzAkkHRn4q2GJlWaQqmX8CucOdGenkkstfUo
+AL8fcUytke0Zx1NYiD+lIRUx2sQH7fKqrOxDkke5Xi/9yPsot59kYHHND8OK6Bo7VD7+VOwj
+hCLBL5js8NI02WnnOTApwe7SJ+xbVszA43LDz8U4QlOXwgyLNoCXW3/lKoP6OHVDzDlRl3vP
+kGjONYO3TCIZVVqtX9Bzu9KpL1YoduzLI/BRY5JckMG9rKf/ABGUPvmFQ/tSGiy2Z+bZpO+Z
+f+0QG9ipMpHeRL8ySn2p6Mj/AGPdL2R0PkMSsEXZkPKAMigx7PXobLbSOADAlc4EOBo/gmQf
+6updJW1ScW9bv4Ogc3t8HNeJ1k8ZSJ0UT3e2AammqseEXKwiEztEl+QKlHHvl92uRPkUmz2g
+nGi3n3Zon3XPmP3hHgAAFRPIvt/eWSlzDllaO3Z0iwpmW8GVsey9wkx9MDzICRd7Mcutb1MT
+vrqRxfVIcV049gzjv0R8TJWQ/D2QdTbAHyJT9d3sw+7rWeSOS+qCF24/hzjK8+yLq2H4exh9
+6yci3ACKq6bbIj/o61v9Dzwd+ZQQQzsDuvSx7FgA69cufxJz7d2nHHVZXEAByZklX9Vlq0jP
+/Zq3hP6HmHB1cOfFAI2GvLiu1bndqqJ9LFjYRs4YLJZ3a+R/ZRhSBoBGIJHvWXVL8vobrezz
+xceph+mqYRKRnIykXMjqWbVIcVk6LTIwYtzJSJfVIbe9SBDqAHTBi+uiiUn8f6UBInUpIjEy
+Pw6nw8EMdmB1blqgkaADIgDUnxZKUZQkRIAEDgXDJxAbV+p9BsrBJJCuRhKRAAhodQ7nwSIE
+QCW1DhiCWSYgkF99dd0iQzEPyKQC3Fb5qlv04f4ghGMD8zUdh1w/xISCnsTDrx+gh+qDe+K8
+tjZVmBkTlGIkwMZRloGdesgR0Q8APsVX/H4LmXoQJJcuAdXXd0bSho8dbqvKU3LPOHvOSA1c
+K6wA2kQTuq59w7lbp6kyP7II09i9THGx4/dqhEeEQrBGI2iB4sFP1t62K+6iiKaeTx3o9wuL
+mNkzzaSlHtXcJjSiQfjLRew2Gm3mlqDxHtVXUt2w/wCmy0qkeWj2PuJH3BHzkFZH8O5pPxSh
+Eb7klelJSc6tqr+qvqZf9PZ6fQ4Efw1bp1XRbkA6tj+GqneVxPgAAu0fH60BvBX9dFsR9/Y9
+LHLj+HsMfelM82LBTj2Tt0d65SbdyStV+bi47+rZGJGjO59y5134hx4lqoSmOJJZGuteAn3W
+0bNke14MBpRH2uVbHExoaxqgCPALlj8Rwb9zIF+Y2SyPxCfhjj166v1pzotI+g/X3N7/AFOw
+IVx2jEeQATBYcAV5i3vXcJkAWCtwB8IGipHcM2JcXzccySFl9tVojS/mu1lx7nrTIcwAOOwV
+Vubi0kRstjEngSvKzzc2yJ67pyiSwYsPqVUpTmGmTIj9LUAI+5RhGq/y5zb6HsRkY8gDGyJB
+2+IBQtzsSr79sQfNyvIAyZiSw5IkQQ+5HtU/c4wkF/Kp/wAng9Db3+iBIrjKw8DoAs5/EE2L
+ViMm0JJIXHlGUYiR2kNPAKBJdZfZZ7nSvR1paT7nRn3jNtPQZiBJYEBgyy2222SJsmZEFiXJ
+dUFzy9qfUSACAwHvWHZvdnStKrRJEmfZlEgg67pxG52ZTMB0vuTy1UNSQHu8UnUzWIgdX9Ye
+0BQMWkxLjmNUgkgAXdj7t0iNm4gKcBMS+B+oD6kteO/FQogH28vak2jnhupAEuQwAG7hA3bg
+rAFGRjrEkONxxBR7H10U5GBkHJZvi0AAA5JTMT8MYgMfvOXIdIIRLku5P2uiIJkAGckAagB3
+QD7faFICA00JI32AKFgnKPpz+NjMFzqCGKhMgyccVEE+7ju6NSggtxT/AOzSOHqR/wAQQjG1
+yqf9SP8AiCEkHpj3fBqPpymeqGhYOxCP+c7eQGmWJ4g6LzeSf/auLl/Unto+qqJHU7A8ddV0
+XY14OL6KuZk9fV3LBuLQti52csro31TiZRnGUQ7kEEBl4uILnZg+5YOperNmEjGIBDROhK0u
+1vVGH/Mtm/k9pGyEwTAiQ5g80/r968fi52ViTJpIaQ+KJDgrYcvveXATpE/T2eIABI/8qruq
+lnBh/wA1p1PRkgbkBhq5A2VF2diUgmy2IZnALleelgd1mZG6u0kAnpkTqG3ZEO35xxZWGkms
+HqMnGjDmsvvT0g0v5mnls33d/gD+xj8A2nLdz4LnW92zbJGRs+AFumOjuowwMq2v1qaZTrBe
+R0MQPFOvtmbfWZwxiK3BNgZgx/pWH2tvWMnavTVJOJ90ZJyMyeoEyJdy7pAF9SwPFbLsLOph
+Kd1JIkGEzqwCMftWZlxemsmIBYuASxWW1Etm6rZIxEDhqBuUxH4QZORJ2YjUhbz2TOFcpyEQ
+xAHxA6kqN/asugwrvjGqVheLyH3QNSianVFacTGhimSSAwiwYgA780hAkAgBiwHi66P/ABfc
+TM4sOmbkdIMogkeHFF3Z88zlARiTVHWsTj1Bg503UdqzEki2uxzyBAGEnBidW20SMvhEOESW
+5l05D4QA/WQBLRy66A7XeYUQu9PGE3MBOQE5kjR1W0sT6iG1oc4CLE8iw31SDkhwfB+K6A7d
+l13/ACVkYwumQawSAJA8ipS7Hmwu9Ccqo2biPWHchZ5VxksWjKOfKT1jQu5c8AoiLncaa7rd
+j9qvyRP0pQEqifU6vhAc81bPsGXXCFlllMY26QJmwJKO6TUsJNpwjmHfgjQ+K6dXYsmw3xjO
+vqx39QOSwHFVYHarc6c4U2wMqyXBJDhtxonOuc6Fh7IxkkNpozKUYGQADguOLAOt+J2e3Jtt
+hXbVM0gmQMpMBzVdnbI11HI+YrtprIForLyAJYborJvXJGrJaGKZi/EEPzIUQQ+//lacfAlm
+ZApx9QxlKUnAjEbkq8YVQqNouruqqnGMyBKMomR322VdknEhJtJxqYJCTvsfdojYcdV0c3tM
+8I0yuvrItHVUwkWB56Ky/sM68qqizIqFuRESr0kAX9inOuMovG2cHJctozc23QCH/oXXH4du
+FeRKV0BPGD2QYkgNwWKGJVLEOTO4REZCHT0kuTyTlV6ORxa2M3DmyW266OX2mOLhVZZyBKF4
+PpxESCVzm0G+iqsnLDUQBJIY8OQYoIAD78kJN9askDi7N7U0mL6fRk+CSC3F/iqf9SP+IIRi
+/wATT/qQ/wASFATyGOTaBofUk5PmqpHXVtOPArVlRhKy0SkDYZy6YiLN8WmqrhXZUXMIzBBH
+QSCQWWoI2iEY1kgWPFx1AgvukeuEAOk9J11Acq2qoiLSIjGQPHUHgrZVj4xGoyeIj8ZeQIPA
+KwzPKHqZDCQiZENEHXVa68ucxjYtbxjGwSABLEkhUenNoPExrkDIS3Jc6q/Gxz68TGfRUGPX
+IgAgkLNqyn7GlaGs7nb77fDF7jG8zJnGAEa3IBB0KjjxFv4cPTKMHuBIlLRjLZU/iC2u/Jjb
+j3VzjKEYNoZAjXwVtVYu7BLHEoQslYJmJkGYH2LjxfCjh6nTkudpeILMbH+X7VngiIgXI6ST
+oQqe2RFn4dyoOK49Y+J2DfDxVvbJRq7XdTmWASk7RlJyQCrqDijtltAshEWkCBJBBfy8ktVv
+k8/5Ct0kl6M52TVOuEaPVM6hIzcFyQYq78MgxyMiBJDVlhJ9iVXKURiyrjfTLJlIGJAkBGER
+w0VvY76K8i3IyLAJWwIHUSAenfQLpdT1uFlHOmLptqHL1MGSbK6IQhITheT1kEsGPNda+uOX
+2ujLuiBZhkRnIsXgFiprxIC8m+EzKEoiiBkAZE/2lbVlYMO2ZGJK4RlaIkQYz6AODrNquFCy
+nBpWUvKhyyntF1tvcqbWJhZI6yA4+KO5wFGdlZVNglcbBWIRdwJgv9iz9uNWH3Gu264Rx4/H
+HcOG5LXYe2ZHcjn/ADURTEiyURCTyIHF0svvWMJBNKj3bZg7TVC3uFBm04CwCUS7uz7LT+ID
+VLu1htkSAIgRHAjgsAtGNlHIqAmOvqqILOAeK3Z88Dul0c6F3y5kBG+MoktIcQyrUXTjEQE1
+xed0dO9rau0ZMv3hnEOdSzLF3uFUe45OQJ/t6/TlGPSSQSRqoX93x7MzGqhIxxMNmPSSZGI3
+ZZO75eNl5ssrGslIWdI6TExIYLnWluSbWDba4uGZfm7Yi0VnpNpeW4JbVdnvIlLsXbphj0hy
+SeLLhwiJW9V7xgSRMgORoun3HPwMntmNh1WS6sYBngQJOF0vWXWFuYq4Vs7GzsdpyIdynZIf
+HUHk3ARUfw1DGrzrBRcbJGuTxMGGnisnZ+44WHj5EL5yE8iHQ0YkiOm6j2XuGLgX2WW2SlWR
+KMYxi5PVxWHVt3w8s2rJcfY2/h0D5vuAJ0NcnOmmpXLuhXGiMMaRmLBM3aMSYy2WvtvccDAy
+Mmyc5zF8TENAaAnzWcX9toqyDUbZ23QMIGUQAOov4ok1ZuHsG06rO4+yZQwMw23QMqZRMLCx
+LRlxXQ7l2rG+Usz+12iWPIxNtTuGB/IVxsDKop9avJEpV3QNZMdTEku6119wxcXBtwseVlhy
+pAzmQIiMRyi5VvVzKlSKtJZNf4nP7PAO5NQc+TLf3SWJHumDO/q9QVR9Mf1Op9OpcfundMPP
+jjxEbYfLxEXaJ6gP/kFZnd37dmZGNdZXcPlogCIMQJMeO5WFVxXD0Zrks51g2UZGVi/iOVeZ
+0kZY6SIh4kN8JXI7zCONkywa/wB3RIkvxlMv9mitn3qN/dYdwyISEam9OuBGw2dZe65dGdmT
+yqxOAsI6hIgkFlqtGrLGGjNrpp50Z0+6k/8AAduLa6sfYuHKMoxjKQIEwJRbiCeldTI7r2/I
+waMOyq0xx36ZRlEErFn5NGRKoY9cq66axWBIgnQ9T6LVE0nh5ZLtOIZmdD6+CXL2oG/5lswN
+CHH08EIC3GLZVP8AqQ/xBCWN/E0/6kP8QQgNl8YTuyJ5EmMSRSBsQJeCI2VVwmaYSjLpHWSO
+oAkbru3/AMmeqfW+b63O3Rvx+6rsf+Vf2no/ON0j1Or0/u8PvLc+5nj6nloEE9UwAJM8j4Hg
+tM7xK2qAEyAGiS0SZcNd12P+k9Z/i+r/AOKtP8pMOv53h09XTvwbirPozLqnq0vk5M6o1GUL
+JCuzaEHBEXGqzTr6qLa6pCyusxOx3IXeH8o+qOr531n06ujq+tTq/lP1J+j851//AKN0N7eC
+SvDIqf8AJfU4xx65RrslGMYRj0kxD9RA0UwYyHVKMRXURExBBEl2qv5Y9P8AZfOen1Hb026l
+Efyn1H+J2L/uleS8Mjo//ZfU48pUEShKInbMfCI7QBOyy0VWxtGLIEkF5wBdiNmXfx/5S9SX
+o/Oeo/xN0O/tVtX8svL0/m+tz1fuut296nJeC8Mf5KPc4VgujASug0YREekBydVAisW1yPwV
+1NKwE6gTLsuxZ/KPV+0+ff2N9WiIfyd0Hp+c6Wl1fc9rpy9CKmP8l8M4ErpVmy30yYW7F9G5
+jiqRZGuPXXEjqBjYDJ+oFeih/JejfOfd+HZulU/9E1/jPqUb9Daqo1Wh5+UozJsm4JYdO+gT
+ExCMhFyZuPiGwXoYfyL1/D851+LflSn/ACK46/nX9ik+hqDzkZdM3BGxZ2O6kJmFcqy8hIAk
+glgXXov+idIf5vpfT7u6Q/kNj/GNx2ZSfQR6o82ZTbTTTfiyAZdDcCQX0fRei/6G/wD/AGf/
+AFZS/wCiNp859SZLCPN9cyCC5jvrq6XSWBbT616b/orH+M6eOzKP/Q9P41QKPQ80Rrrw4IDj
+mvSf9C/3n1I/6Fw+c+pMlPNF34jgmCGZ3bZekP8AIX+8+pP/AKHp/Gf/AFQh5pgQQGIPsQYs
+OHvXpT/IT/8A9iX/AEH/AHn1IPoeaIP0DoJO3Lb2L0v/AEL/AHiP+hf71AeaLPrw/Ok48XK9
+OP5C4fO/Ul/0H/eoPoeZccvqRxXpv+hP/wD2o/6F/vUyDzTnkk69N/0H/eo/6D/vUB5oO/FG
+vivS/wDQv96j/oX+8QHAxQfmadP/ANIf4gheiq/kb1Yel856nUOnbd9EID//2Q==</binary>
+</FictionBook>

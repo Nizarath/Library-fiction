@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Eye of the Sibyl and Other Classic Strories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>Retreat Syndrome</emphasis> 12/23/63. <emphasis>Worlds Of Tomorrow, </emphasis>Jan 1965.</p>
+   </annotation>
+   <date>1963-1981</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-14">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Retreat Syndrome</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>Peace Officer Caleb Myers picked up the fast-moving surface vehicle on his radarscope, saw at once that its operator had managed to remove the governor; the vehicle, at one-sixty miles per hour, had exceeded its legal capacity. Hence, he knew, the operator came from the Blue Class, engineers and technicians capable of tinkering with their wheels. Arrest, therefore, would be a tricky matter.</p>
+   <p>By radio Myers contacted a police vessel ten miles north along the freeway. “Shoot its power supply out as it passes you,” he suggested to his brother officer. “It’s going too fast to block, right?”</p>
+   <p>At 3:10 A.M. the vehicle was stopped; powerless, it had coasted to a halt on the freeway shoulder. Officer Myers pressed buttons, flew leisurely north until he spotted the helpless wheel, plus the red-lit police wheel making its way through heavy traffic toward it. He landed at the exact instant that his compatriot arrived on the scene.</p>
+   <p>Together, warily, they walked to the stalled wheel, gravel crunching under their boots.</p>
+   <p>In the wheel sat a slim man wearing a white shirt and tie; he stared straight ahead with a dazed expression, making no move to greet the two gray-clad officers with their laser rifles, anti-pellet bubbles protecting their bodies from thigh to cranium. Myers opened the door of the wheel and glanced in, while his fellow officer stood with rifle in hand, just in case this was another come-on; five men from the local office, San Francisco, had been killed this week alone.</p>
+   <p>“You know,” Myers said to the silent driver, “that it’s a mandatory two-year suspension of license if you tamper with your wheel’s speed governor. Was it worth it?”</p>
+   <p>After a pause the driver turned his head and said, “I’m sick.”</p>
+   <p>“Psychically? Or physically?” Myers touched the emergency button at his throat, making contact with line 3, to San Francisco General Hospital; he could have an ambulance here in five minutes, if necessary.</p>
+   <p>The driver said huskily, “Everything seemed unreal to me. I thought if I drove fast enough I could reach some place where it’s — solid.” He put his hand gropingly against the dashboard of his wheel, as if not really believing the heavily-padded surface was there.</p>
+   <p>“Let me look in your throat, sir,” Myers said, and shone his flashlight in the driver’s face. He turned the jaw upward, peered down past well-cared-for teeth as the man reflexively opened his mouth.</p>
+   <p>“See it?” his fellow officer asked.</p>
+   <p>“Yes.” He had caught the glint. The anti-carcinoma unit, installed in the throat; like most non-Terrans this man was cancer phobic. Probably he had spent most of his life in a colony world, breathing pure air, the artificial atmosphere installed by autonomic reconstruct equipment prior to human habitation. So the phobia was easy to understand.</p>
+   <p>“I have a full-time doctor.” The driver reached now into his pocket, brought out his wallet; from it he extracted a card. His hand shook as he passed the card to Myers. “Specialist in psychosomatic medicine, in San Jose. Any way you could take me there?”</p>
+   <p>“You’re not sick,” Myers said. “You just haven’t fully adjusted to Earth, to this gravity and atmosphere and milieu factors. It’s three-fifteen in the morning; this doctor — Hagopian or whatever his name is — can’t see you now.” He studied the card. It informed him:</p>
+   <empty-line/>
+   <cite>
+    <p>This man is under medical care and should any bizarre behavior be exhibited obtain medical help at once.</p>
+   </cite>
+   <empty-line/>
+   <p>“Earth doctors,” his fellow officer said, “don’t see patients after hours; you’ll have to learn that, Mr.—” He held out his hand. “Let me see your operator’s license, please.”</p>
+   <p>The entire wallet was reflexively passed to him.</p>
+   <p>“Go home,” Myers said to the man. His name, according to the license, was John Cupertino. “You have a wife? Maybe she can pick you up; we’ll take you into the city . . . better leave your wheel here and not try to drive any more tonight. About your speed—”</p>
+   <p>Cupertino said, “I’m not used to an arbitrary maximum. Ganymede has no traffic problem; we travel in the two and two-fifties.” His voice had an oddly flat quality. Myers thought at once of drugs, in particular of thalamic stimulants; Cupertino was hag-ridden with impatience. That might explain his removal of the official speed regulator, a rather easy removal job for a man accustomed to machinery. And yet — </p>
+   <p>There was more. From twenty years’ experience Myers intuited it. </p>
+   <p>Reaching out he opened the glove compartment, flashed his light in. Letters, an AAA book of approved motels . . . </p>
+   <p>“You don’t really believe you’re on Earth, do you, Mr. Cupertino?” Myers said. He studied the man’s face; it was devoid of affect. “You’re another one of those bippity-bop addicts who thinks this is a drug-induced guilt-fantasy . . . and you’re really home on Ganymede, sitting in the living room of your twenty-room demesne — surrounded no doubt by your autonomic servants, right?” He laughed sharply, then turned to his fellow officer. “It grows wild on Ganymede,” he explained. “The stuff. Frohedadrine, the extract’s called. They grind up the dried stalks, make a mash of it, boil it, drain it, filter it, and then roll it up and smoke it. And when they’re all done—”</p>
+   <p>“I’ve never taken Frohedadrine,” John Cupertino said remotely; he stared straight ahead. “I know I’m on Earth. But there’s something wrong with me. Look.” Reaching out, he put his hand through the heavily-padded dashboard; Officer Myers saw the hand disappear up to the wrist. “You see? It’s all insubstantial around me, like shadows. Both of you; I can banish you by just removing my attention from you. I think I can, anyhow. But — <emphasis>I don’t want to</emphasis>!” His voice grated with anguish. “I want you to be real; I want all of this to be real, including Dr. Hagopian.”</p>
+   <p>Officer Myers switched his throat-transmitter to line 2 and said, “Put me through to a Dr. Hagopian in San Jose. This is an emergency; never mind his answering service.”</p>
+   <p>The line clicked as the circuit was established.</p>
+   <p>Glancing at his fellow officer Myers said, “You saw it. You saw him put his hand through the dashboard. Maybe he can banish us.” He did not particularly feel like testing it out; he felt confused and he wished now that he had let Cupertino speed on along the freeway, to oblivion if necessary. To wherever he wanted.</p>
+   <p>“I know why all this is,” Cupertino said, half to himself. He got out cigarettes, lit up; his hand was less shaky now. “It’s because of the death of Carol, my wife.”</p>
+   <p>Neither officer contradicted him; they kept quiet and waited for the call to Dr. Hagopian to be put through.</p>
+   <empty-line/>
+   <p>His trousers on over his pajamas, and wearing a jacket buttoned to keep him warm in the night chill, Gottlieb Hagopian met his patient Mr. Cupertino at his otherwise closed-up office in downtown San Jose. Dr. Hagopian switched on lights, then the heat, arranged a chair, wondered how he looked to his patient with his hair sticking in all directions.</p>
+   <p>“Sorry to get you up,” Cupertino said, but he did not sound sorry; he seemed perfectly wide-awake, here at four in the morning. He sat smoking with his legs crossed, and Dr. Hagopian, cursing and groaning to himself in futile complaint, went to the back room to plug in the coffeemaker: at least he could have that.</p>
+   <p>“The police officers,” Hagopian said, “thought you might have taken some stimulants, by your behavior. We know better.” Cupertino was, as he well knew, always this way; the man was slightly manic.</p>
+   <p>“I never should have killed Carol,” Cupertino said. “It’s never been the same since then.”</p>
+   <p>“You miss her right now? Yesterday when you saw me you said—”</p>
+   <p>“That was in broad daylight; I always feel confident when the sun’s up. By the way — I’ve retained an attorney. Name’s Phil Wolfson.”</p>
+   <p>“Why?” No litigation was pending against Cupertino; they both knew that.</p>
+   <p>“I need professional advice. In addition to yours. I’m not criticizing you, doctor; don’t take it as an insult. But there’re aspects to my situation which are more legal than medical. Conscience is an interesting phenomenon; it lies partly in the psychological realm, partly—”</p>
+   <p>“Coffee?”</p>
+   <p>“Lord no. It sets the vagus nerve off for four hours.”</p>
+   <p>Dr. Hagopian said, “Did you tell the police officers about Carol? About your killing her?”</p>
+   <p>“I just said that she was dead; I was careful.”</p>
+   <p>“You weren’t careful when you drove at one-sixty. There was a case in the <emphasis>Chronicle </emphasis>today — it happened on the Bayshore Freeway — where the State Highway Patrol went ahead and disintegrated a car that was going one-fifty; and it was legal. Public safety, the lives of—”</p>
+   <p>“They warned it,” Cupertino pointed out. He did not seem perturbed; in fact he had become even more tranquil. “It refused to stop. A drunk.”</p>
+   <p>Dr. Hagopian said, “You realize, of course, that Carol is still alive. That in fact she’s living here on Earth, in Los Angeles.”</p>
+   <p>“Of course.” Cupertino nodded irritably. Why did Hagopian have to belabor the obvious? They had discussed it countless times, and no doubt the psychiatrist was going to ask him the old query once again: how could you have killed her when you know she’s alive? He felt weary and irritable; the session with Hagopian was getting him nowhere.</p>
+   <p>Taking a pad of paper Dr. Hagopian wrote swiftly, then tore off the sheet and held it toward Cupertino.</p>
+   <p>“A prescription?” Cupertino accepted it warily.</p>
+   <p>“No. An address.”</p>
+   <p>Glancing at it Cupertino saw that it was an address in South Pasadena. No doubt it was Carol’s address; he glared at it in wrath.</p>
+   <p>“I’m going to try this,” Dr. Hagopian said. “I want you to go there and see her face to face. Then we’ll—”</p>
+   <p>“Tell the board of directors of Six-planet Educational Enterprises to see her, not me,” Cupertino said, handing the piece of paper back. “They’re responsible for the entire tragedy; because of them I had to do it. And you know that, so don’t look at me that way. It was their plan that had to be kept secret; isn’t that so?”</p>
+   <p>Dr. Hagopian sighed. “At four in the morning everything seems confused. The whole world seems ominous. I’m aware that you were employed by Six-planet at the time, on Ganymede. But the moral responsibility—” He broke off. “This is difficult to say, Mr. Cupertino. You pulled the trigger on the laser beam, so you have to take final moral responsibility.”</p>
+   <p>“Carol was going to tell the local homeopapes that there was about to be an uprising to free Ganymede, and the bourgeois authority on Ganymede, consisting in the main of Six-planet, was involved; I told her that we couldn’t afford to have her say anything. She did it for petty, spiteful motives, for hatred of me; nothing to do with the actual issues involved. Like all women she was motivated by personal vanity and wounded pride.”</p>
+   <p>“Go to that address in South Pasadena,” Dr. Hagopian urged. “See Carol. Convince yourself that you never killed her, that what happened on Ganymede that day three years ago was a—” He gestured, trying to find the right words.</p>
+   <p>“Yes, doctor,” Cupertino said cuttingly. “Just what was it? Because that day — or rather that night — I got Carol right above the eyes with that laser beam, right in the frontal lobe; she was absolutely unmistakably dead before I left the conapt and got out of there, got to the spaceport and found an interplan ship to take me to Earth.” He waited; it was going to be hard on Hagopian, finding the right words; it would take quite some time.</p>
+   <p>After a pause, Hagopian admitted, “Yes, your memory is detailed; it’s all in my file and I see no use in your repeating it — I frankly find it unpleasant at this hour of the morning. <emphasis>I </emphasis>don’t know why the memory is there; I know it’s false because I’ve met your wife, talked to her, carried on a correspondence with her; all subsequent to the date, on Ganymede, at which you remember killing her. I know that much, at least.”</p>
+   <p>Cupertino said, “Give me one good reason for looking her up.” He made a motion to tear the slip of paper in half.</p>
+   <p>“One?” Dr. Hagopian pondered. He looked gray and tired. “Yes, I can give you a good reason, but probably it’s one you’ll reject.” </p>
+   <p>“Try me.”</p>
+   <p>Dr. Hagopian said, “Carol was present that night on Ganymede, the night you recall killing her. Maybe she can tell you how you obtained the false memory; she implied in correspondence with me that she knows something about it.” He eyed Cupertino. “That’s all she would tell me.”</p>
+   <p>“I’ll go,” Cupertino said. And walked swiftly to the door of Dr. Hagopian’s office. Strange, he thought, to obtain knowledge about a person’s death from that person. But Hagopian was right; Carol was the only other person who was present that night . . . he should have realized long ago that eventually he’d have to look her up.</p>
+   <p>It was a crisis in his logic that he did not enjoy facing.</p>
+   <empty-line/>
+   <p>At six in the morning he stood at Carol Holt Cupertino’s door. Many rings of the bell were required until at last the door of the small, single-unit dwelling opened; Carol, wearing a blue, pellucid nylon nightgown and white furry slippers, stood sleepily facing him. A cat hurried out past her. </p>
+   <p>“Remember me?” Cupertino said, stepping aside for the cat. </p>
+   <p>“Oh God.” She brushed the tumble of blonde hair back from her eyes, nodded. “What time is it?” Gray, cold light filled the almost deserted street; Carol shivered, folded her arms. “How come you’re up so early? You never used to be out of bed before eight.”</p>
+   <p>“I haven’t gone to bed yet.” He stepped past her, entered the dark living room with its drawn shades. “How about some coffee?”</p>
+   <p>“Sure.” Listlessly she made her way to the kitchen, pressed the HOT COFFEE button on the stove; first one, then a second cup appeared, giving off fragrant steam. “Cream for me,” she said, “cream and sugar for you. You’re more infantile.” She handed him his cup; the smell of her — warmth and softness and sleep — mixed with that of the coffee.</p>
+   <p>Cupertino said, “You haven’t gotten a day older and it’s been well over three years.” In fact she was even more slender, more supple.</p>
+   <p>Seating herself at the kitchen table, her arms still modestly folded, Carol said, “Is that suspicious?” Her cheeks were flushed, her eyes bright.</p>
+   <p>“No. A compliment.” He, too, seated himself. “Hagopian sent me here; he decided I should see you. Evidently—”</p>
+   <p>“Yes,” Carol said, “I’ve seen him. I was in Northern California several times on business; I stopped by . . . he had asked me to in a letter. I like him. In fact you should be about cured by now.”</p>
+   <p>“ ‘Cured’?” He shrugged. “I feel I am. Except—” </p>
+   <p>“Except that you still have your <emphasis>idée fixe. </emphasis>Your basic, delusional, fixed idea that no amount of psychoanalysis will help. Right?”</p>
+   <p>Cupertino said, “If you mean my recollection of killing you, yes; I still have it — <emphasis>I know it happened. </emphasis>Dr. Hagopian thought you could tell me something about it; after all, as he pointed out—”</p>
+   <p>“Yes,” she agreed, “but is it really worth going over this with you? It’s so tedious, and my God, it’s only six A.M. Couldn’t I go back to bed and then sometime later get together with you, maybe in the evening? No?” she sighed. “Okay. Well, you tried to kill me. You did have a laser beam. It was at our conapt in New Detroit-G, on Ganymede, on March 12, 2014.” </p>
+   <p>“Why did I try to kill you?”</p>
+   <p>“You know.” Her tone was bitter; her breasts pulsed with resentment. </p>
+   <p>“Yes.” In all his thirty-five years he had never made another mistake as serious. In their divorce litigation his wife’s knowledge of the impending revolt had given her the dominant position; she had been able to dictate settlement terms to him precisely as she wished. At last the financial components had proved unbearable and he had gone to the conapt which they had shared — by then he had moved out, gotten a small conapt of his own at the other end of the city — and had told her simply and truthfully that he could not meet her demands. And so the threat by Carol to go to the homeopapes, the news-gathering extensors of the New York <emphasis>Times </emphasis>and <emphasis>Daily News </emphasis>which operated on Ganymede.</p>
+   <p>“You got out your little laser beam,” Carol was saying, “and you sat with it, fooling with it, not saying much. But you got your message over to me; either I accepted an unfair settlement which—” </p>
+   <p>“Did I fire the beam?” </p>
+   <p>“Yes.”</p>
+   <p>“And it hit you?”</p>
+   <p>Carol said, “You missed and I ran out of the conapt and down the hall to the elevator. I got downstairs to the sergeant at arms’ room on floor one and called the police from there. They came. They found you still in the conapt.” Her tone was withering. “You were crying.”</p>
+   <p>“Christ,” Cupertino said. Neither of them spoke for a time, then; they both drank their coffee. Across from him his wife’s pale hand shook and her cup clinked against its saucer.</p>
+   <p>“Naturally,” Carol said matter of factly, “I went ahead with the divorce litigation. Under the circumstances—”</p>
+   <p>“Dr. Hagopian thought you might know why I remember killing you that night. He said you hinted at it in a letter.”</p>
+   <p>Her blue eyes glittered. <emphasis>“That night you had no false memory; </emphasis>you knew you had failed. Amboynton, the district attorney, gave you a choice between accepting mandatory psychiatric help or having formal charges filed of attempted first-degree murder; you took the former — naturally — and so you’ve been seeing Dr. Hagopian. The false memory — I can tell you exactly when that set in. You visited your employer, Six-planet Educational Enterprises; you saw their psychologist, a Dr. Edgar Green, attached to their personnel department. That was shortly before you left Ganymede and came here to Terra.” Rising she went to fill her cup; it was empty. “I presume Dr. Green saw to the implanting of the false memory of your having killed me.” </p>
+   <p>Cupertino said, “But why?”</p>
+   <p>“They knew you had told me of the plans for the uprising. You were supposed to commit suicide from remorse and grief, but instead you booked passage to Terra, as you had agreed with Amboynton. As a matter of fact you did attempt suicide during the trip . . . but you must remember this.” </p>
+   <p>“Go on and say it.” He had no memory of a suicide attempt. </p>
+   <p>“I’ll show you the clipping from the homeopape; naturally I kept it.” Carol left the kitchen; her voice came from the bedroom. “Out of misguided sentimentality. ‘Passenger on interplan ship seized as—’ ” Her voice broke off and there was silence.</p>
+   <p>Sipping his coffee Cupertino sat waiting, knowing that she would find no such newspaper clipping. Because there had been no such attempt.</p>
+   <p>Carol returned to the kitchen, a puzzled expression on her face. “I can’t locate it. But I know it was in my copy of <emphasis>War and Peace</emphasis>, in volume one; I was using it as a bookmark.” She looked embarrassed.</p>
+   <p>Cupertino said, “I’m not the only one who has a false memory. If that’s what it is.” He felt, for the first time in over three years, that he was at last making progress.</p>
+   <p>But the direction of that progress was obscured. At least so far. “I don’t understand,” Carol said. “Something’s wrong.”</p>
+   <p>While he waited in the kitchen, Carol, in the bedroom, dressed. At last she emerged, wearing a green sweater, skirt, heels; combing her hair she halted at the stove and pressed the buttons for toast and two soft-boiled eggs. It was now almost seven; the light in the street outside was no longer gray but a faint gold. And more traffic moved; he heard the reassuring sound of commercial vehicles and private commute wheels.</p>
+   <p>“How did you manage to snare this single-unit dwelling?” he asked. “Isn’t it as impossible in the Los Angeles area as in the Bay area to get anything but a conapt in a high-rise?”</p>
+   <p>“Through my employers.”</p>
+   <p>“Who’re your employers?” He felt at once cautious and disturbed; obviously they had influence. His wife had gone up in the world.</p>
+   <p>“Falling Star Associates.”</p>
+   <p>He had never heard of them; puzzled, he said, “Do they operate beyond Terra?” Surely if they were interplan — </p>
+   <p>“It’s a holding company. I’m a consultant to the chairman of the board; I do marketing research.” She added, “Your old employer, Six-planet Educational Enterprises, belongs to us; we own controlling stock. Not that it matters. It’s just a coincidence.”</p>
+   <p>She ate breakfast, offering him nothing; evidently it did not even occur to her to. Moodily he watched the familiar dainty movements of her cutlery. She was still ennobled by petite bourgeois gentility; that had not changed. In fact she was more refined, more feminine, than ever.</p>
+   <p>“I think,” Cupertino said, “that I understand this.”</p>
+   <p>“Pardon?” She glanced up, her blue eyes fixed on him intently. “Understand what, Johnny?”</p>
+   <p>Cupertino said, “About you. Your presence. You’re obviously quite real — as real as everything else. As real as the city of Pasadena, as this table—” He rapped with brusque force on the plastic surface of the kitchen table. “As real as Dr. Hagopian or the two police who stopped me earlier this morning.” He added, <emphasis>“But how real is that? I think we have the central question there. </emphasis>It would explain my sensation of passing my hands through matter, through the dashboard of my wheel, as I did. That very unpleasant sensation that nothing around me was substantial, that I inhabited a world of shadows.” Staring at him Carol suddenly laughed. Then continued eating. “Possibly,” Cupertino said, “I’m in a prison on Ganymede, or in a psychiatric hospital there. Because of my criminal act. And I’ve begun, during these last years since your death, to inhabit a fantasy world.”</p>
+   <p>“Oh God,” Carol said and shook her head. “I don’t know whether to laugh or feel sorry; it’s just too—” She gestured. “Too pathetic. I really feel sorry for you, Johnny. Rather than give up your delusional idea you’d actually prefer to believe that all Terra is a product of your mind, everyone and everything. Listen — don’t you agree it’d be more economical to give up the fixed idea? Just abandon the one idea that you killed me—” The phone rang.</p>
+   <p>“Pardon me.” Carol hastily wiped her mouth, rose to go and answer it. Cupertino remained where he was, gloomily playing with a flake of toast which had fallen from her plate; the butter on it stained his finger and he licked it away, reflexively, then realized that he was gnawingly hungry; it was time for his own breakfast and he went to the stove to press buttons for himself, in Carol’s absence. Presently he had his own meal, bacon and scrambled eggs, toast and hot coffee, before him.</p>
+   <p><emphasis>But how can I live? </emphasis>he asked himself. — <emphasis>Gain substance, if this is a delusional world?</emphasis></p>
+   <p><emphasis>I must be eating a genuine meal, </emphasis>he decided. <emphasis>Provided by the hospital or prison; a meal exists and I am actually consuming it — a room exists, walls and a floor . . . but not this room. Not these walls nor this floor.</emphasis></p>
+   <p><emphasis>And — people exist. But not this woman. Not Carol Holt Cupertino. Someone else. An impersonal jailer or attendant. And a doctor. Perhaps, he </emphasis>decided, <emphasis>Dr. Hagopian.</emphasis></p>
+   <p><emphasis>That much is so, </emphasis>Cupertino said to himself. <emphasis>Dr. Hagopian is really my psychiatrist.</emphasis></p>
+   <p>Carol returned to the kitchen, reseated herself at her now cold plate. “You talk to him. It’s Hagopian.”</p>
+   <p>At once he went to the phone.</p>
+   <p>On the small vidscreen Dr. Hagopian’s image looked taut and drawn. “I see you got there, John. Well? What took place?”</p>
+   <p>Cupertino said, “Where are we, Hagopian?”</p>
+   <p>Frowning, the psychiatrist said, “I don’t—”</p>
+   <p>“We’re both on Ganymede, aren’t we?”</p>
+   <p>Hagopian said, “I’m in San Jose; you’re in Los Angeles.”</p>
+   <p>“I think I know how to test my theory,” Cupertino said. “I’m going to discontinue treatment with you; if I’m a prisoner on Ganymede I won’t be able to, but if I’m a free citizen on Terra as you maintain—”</p>
+   <p>“You’re on Terra,” Hagopian said, “but you’re not a free citizen. Because of your attempt on your wife’s life you’re <emphasis>obliged </emphasis>to accept regular psychotherapy through me. You know that. What did Carol tell you? Could she shed any light on the events of that night?”</p>
+   <p>“I would say so,” Cupertino said. “I learned that she’s employed by the parent company of Six-planet Educational Enterprises; that alone makes my trip down here worthwhile. I must have found out about her, that she was employed by Six-planet to ride herd over me.” </p>
+   <p>“P-pardon?” Hagopian blinked.</p>
+   <p>“A watchdog. To see that I remained loyal; they must have feared I was going to leak details of the planned uprising to the Terran authorities. So they assigned Carol to watch me. I told her the plans and to them that proved I was unreliable. So Carol probably received instructions to kill me; she probably made an attempt and failed, and everyone connected with it was punished by the Terran authorities. Carol escaped because she wasn’t officially listed as an employee of Six-planet.”</p>
+   <p>“Wait,” Dr. Hagopian said. “It does sound somewhat plausible. But—” He raised his hand. “Mr. Cupertino, the uprising was successful; it’s a matter of historic fact. Three years ago Ganymede, Io and Callisto simultaneously threw off Terra and became self-governing, independent moons. Every child in school beyond the third grade knows that; it was the so-called Tri-Lunar War of 2014. You and I have never discussed it but I assumed you were aware of it as—” He gestured. “Well, as any other historic reality.”</p>
+   <p>Turning from the telephone to Carol, John Cupertino said, “Is that so?” </p>
+   <p>“Of course,” Carol said. “Is that part of your delusional system, too, that your little revolt failed?” She smiled. “You worked eight years for it, for one of the major economic cartels masterminding and financing it, and then for some occult reason you choose to ignore its success. I really pity you, Johnny; it’s too bad.”</p>
+   <p>“There must be a reason,” Cupertino said. “Why I don’t know that. Why they decided to keep me from knowing that.” Bewildered, he reached out his hand . . . </p>
+   <p>His hand, trembling, passed into the vidphone screen and disappeared. He drew it back at once; his hand reappeared. But he had seen it go. He had perceived and understood.</p>
+   <p>The illusion was good — but not quite good enough. It simply was not perfect; it had its limitations.</p>
+   <p>“Dr. Hagopian,” he said to the miniature image on the vidscreen, “I don’t think I’ll continue seeing you. As of this morning you’re fired. Bill me at my home, and thank you very much.” He reached to cut the connection.</p>
+   <p>“You can’t,” Hagopian said instantly. “As I said, it’s mandatory. You must face it, Cupertino; otherwise you’ll have to go up before the court once more, and I know you don’t want to do that. Please believe me; it would be bad for you.”</p>
+   <p>Cupertino cut the connection and the screen died.</p>
+   <p>“He’s right, you know,” Carol said, from the kitchen.</p>
+   <p>“He’s lying,” Cupertino said. And, slowly, walked back to seat himself across from her and resume eating his own breakfast.</p>
+   <empty-line/>
+   <p>When he returned to his own conapt in Berkeley he put in a long distance vidcall to Dr Edgar Green at Six-planet Educational Enterprises on Ganymede. Within half an hour he had his party.</p>
+   <p>“Do you remember me, Dr. Green?” he asked as he faced the image. To him the rather plump, middle-aged face opposite him was unfamiliar; he did not believe he had ever seen the man before in his life. However, at least one fundamental reality-configuration had borne the test: there was a Dr. Edgar Green in Six-planet’s personnel department; Carol had been telling the truth to that extent.</p>
+   <p>“I have seen you before,” Dr. Green said, “but I’m sorry to say that the name does not come to mind, sir.”</p>
+   <p>“John Cupertino. Now of Terra. Formerly of Ganymede. I was involved in a rather sensational piece of litigation slightly over three years ago, somewhat before Ganymede’s revolt. I was accused of murdering my wife, Carol. Does that help you, doctor?”</p>
+   <p>“Hmm,” Dr. Green said, frowning. He raised an eyebrow. “Were you acquitted, Mr. Cupertino?”</p>
+   <p>Hesitating, Cupertino said, “I— currently am under psychiatric care, here in the Bay area of California. If that’s any help.”</p>
+   <p>“I presume you’re saying that you were declared legally insane. And therefore could not stand trail.”</p>
+   <p>Cupertino, cautiously, nodded.</p>
+   <p>“It may be,” Dr. Green said, “that I talked to you. Very dimly it rings a bell. But I see so many people . . . were you employed here?”</p>
+   <p>“Yes,” Cupertino said.</p>
+   <p>“What specifically, did you want from me, Mr. Cupertino? Obviously you want something; you’ve placed a rather expensive long distance call. I suggest for practical purposes — your pocketbook in particular — you get to the point.”</p>
+   <p>“I’d like you to forward my case history,” Cupertino said. “To me, not to my psychiatrist. Can that be arranged?”</p>
+   <p>“You want it for what purpose, Mr. Cupertino? For securing employment?”</p>
+   <p>Cupertino, taking a deep breath, said, “No, doctor. So that I can be absolutely certain what psychiatric techniques were used in my case. By you and by members of your medical staff, those working under you. I have reason to believe I underwent major corrective therapy with you. Am I entitled to know that, doctor? It would seem to me that I am.” He waited, thinking, <emphasis>I have about one chance in a thousand of prying anything of worth out of this man. </emphasis>But it was worth the try.</p>
+   <p>“ ‘Corrective therapy’? You must be confused, Mr. Cupertino; we do only aptitude testing, profile analysis — we don’t do therapy, here. Our concern is merely to analyze the job-applicant in order to—”</p>
+   <p>“Dr. Green,” Cupertino said, “were you personally involved in the revolt of three years ago?”</p>
+   <p>Green shrugged. “We all were. Everyone on Ganymede was filled with patriotism.” His voice was bland.</p>
+   <p>“To protect that revolt,” Cupertino said, “would you have implanted a delusional idea in my mind for the purpose of—”</p>
+   <p>“I’m sorry,” Green interrupted. “It’s obvious that you’re psychotic. There’s no point in wasting your money on this call; I’m surprised that they permitted you access to an outside vidline.”</p>
+   <p>“But such a idea can be implanted,” Cupertino persisted. “It is possible, by current psychiatric technique. You admit that.”</p>
+   <p>Dr. Green sighed. “Yes, Mr. Cupertino. It’s been possible ever since the mid-twentieth century; such techniques were initially developed by the Pavlov Institute in Moscow as early as 1940, perfected by the time of the Korean War. A man can be made to believe anything.”</p>
+   <p>“Then Carol could be right.” He did not know if he was disappointed or elated. It would mean, he realized, that he was not a murderer; that was the cardinal point. Carol <emphasis>was </emphasis>alive, and his experience with Terra, with its people, cities and objects, was genuine. And yet— “If I came to Ganymede,” he said suddenly, <emphasis>“could I see my file? </emphasis>Obviously if I’m well enough to make the trip I’m not a psychotic under mandatory psychiatric care. I may be sick, doctor, but I’m not that sick.” He waited; it was a slim chance, but worth trying.</p>
+   <p>“Well,” Dr. Green said, pondering, “there is no company rule which precludes an employee — or ex-employee — examining his personnel file; I suppose I could open it to you. However, I’d prefer to check with your psychiatrist first. Would you give me his name, please? And if he agrees I’ll save you a trip; I’ll have it put on the vidwires and in your hands by tonight, your time.”</p>
+   <p>He gave Dr. Green the name of his psychiatrist, Dr. Hagopian. And then hung up. What would Hagopian say? An interesting question and one he could not answer; he had no idea which way Hagopian would jump.</p>
+   <p>But by nightfall he would know; that much was certain.</p>
+   <p>He had an intuition that Hagopian would agree. But for the wrong reasons.</p>
+   <p>However, that did not matter; Hagopian’s motives were not important — all that he cared about was the file. Getting his hands on it, reading it and finding out if Carol was right.</p>
+   <p>It was two hours later — actually an incredibly long time — that it came to him, all at once, that Six-planet Educational Enterprises could, with no difficulty whatsoever, tamper with the file, omit the pertinent information. Transmit to Earth a spurious, worthless document.</p>
+   <p>Then what did he do next?</p>
+   <p>It was a good question. And one — for the moment — which he could not answer.</p>
+   <empty-line/>
+   <p>That evening the file from Six-planet Educational Enterprises’ main personnel offices on Ganymede was delivered by Western Union Messenger to his conapt. He tipped the messenger, seated himself in his living room and opened the file.</p>
+   <p>It took him only a few moments to certify the fact which he had suspected: the file contained no references to any implantation of a delusional idea. Either the file had been reconstructed or Carol was mistaken. Mistaken — or lying. In any case the file told him nothing.</p>
+   <p>He phoned the University of California, and, after being switched from station to station, wound up with someone who seemed to know what he was talking about. “I want an analysis,” Cupertino explained, “of a written document. To find out how recently it was transcribed. This is a Western Union wire-copy so you’ll have to go on word anachronisms alone. I want to find out if the material was developed three years ago or more recently. Do you think you can analyze for so slight a factor?”</p>
+   <p>“There’s been very little word-change in the past three years,” the university philologist said. “But we can try. How soon do you have to have the document back?”</p>
+   <p>“As soon as possible,” Cupertino said.</p>
+   <p>He called for a building messenger to take the file to the university, and then he took time to ponder another element in the situation.</p>
+   <p>If his experience of Terra was delusional, the moment at which his perceptions most closely approximated reality occurred during his sessions with Dr. Hagopian. Hence if he were ever to break through the delusional system and perceive actual reality it would most likely take place then; his maximum efforts should be directed at that time. Because one fact seemed clearly established: he really was seeing Dr. Hagopian.</p>
+   <p>He went to the phone and started to dial Hagopian’s number. Last night, after the arrest, Hagopian had helped him; it was unusually soon to be seeing the doctor again, but he dialed. In view of his analysis of the situation it seemed justified; he could afford the cost . . . And then something came to him.</p>
+   <p>The arrest. All at once he remembered what the policeman had said; he had accused Cupertino of being a user of the Ganymedean drug Frohedadrine. And for a good reason: <emphasis>he showed the symptoms.</emphasis></p>
+   <p>Perhaps that was the modus operandi by which the delusional system was maintained; he was being given Frohedadrine in small regular doses, perhaps in his food.</p>
+   <p>But wasn’t that a paranoid — in other words psychotic — concept?</p>
+   <p>And yet paranoid or not, it made sense.</p>
+   <p>What he needed was a blood fraction test. The presence of the drug would register in such a test; all he had to do was show up at the clinic of his firm in Oakland, ask for the test on the grounds that he had a suspected toxemia. And within an hour the test would be completed.</p>
+   <p>And, if he was on Frohedadrine, it would prove that he was correct; he was still on Ganymede, not on Terra. And all that he experienced — or seemed to experience — a delusion, with the possible exception of his regular, mandatory visits to the psychiatrist.</p>
+   <p>Obviously he should have the blood fraction test made — at once. And yet he shrank from it. Why? Now he had the means by which to make a possible absolute analysis, and yet he held back.</p>
+   <p>Did he want to know the truth?</p>
+   <p>Certainly he had to have the test made; he forgot temporarily the notion of seeing Dr. Hagopian, went to the bathroom to shave, then put on a clean shirt and tie and left the conapt, starting toward his parked wheel; in fifteen minutes he would be at his employer’s clinic.</p>
+   <p>His employer. He halted, his hand touching the doorhandle of his wheel, feeling foolish.</p>
+   <p>They had slipped up somehow in their presentation of his delusional system. Because he did not know where he worked. A major segment of the system simply was not there.</p>
+   <p>Returning to his conapt he dialed Dr. Hagopian.</p>
+   <p>Rather sourly Dr. Hagopian said, “Good evening, John. I see you’re back in your own conapt; you didn’t stay in Los Angeles long.”</p>
+   <p>Cupertino said huskily, “Doctor, I don’t know where I work. Obviously something’s gone wrong; I must have known formerly — up until today, in fact. Haven’t I been going to work four days a week like everyone else?”</p>
+   <p>“Of course,” Hagopian said, unruffled. “You’re employed by an Oakland firm, Triplan Industries, Incorporated, on San Pablo Avenue near Twenty-first Street. Look up the exact address in your phone book. But — I’d say go to bed and rest; you were up all last night and it seems obvious that you’re suffering a fatigue reaction.”</p>
+   <p>“Suppose,” Cupertino said, “greater and greater sections of the delusional system begin to slip. It won’t be very pleasant for me.” The one missing element terrified him; it was as if a piece of himself had dissolved. Not to know where he worked — in an instant he was set apart from all other humans, thoroughly isolated. And how much else could he forget? Perhaps it was the fatigue; Hagopian might be right. He was, after all, too old to stay up all night; it was not as it had been a decade ago when such things were physically possible for both him and Carol.</p>
+   <p>He wanted, he realized, to hang onto the delusional system; he did not wish to see it decompose around him. A person was his world; without it he did not exist.</p>
+   <p>“Doctor,” he said, “may I see you this evening?”</p>
+   <p>“But you just saw me,” Dr. Hagopian pointed out. “There’s no reason for another appointment so soon. Wait until later in the week. And in the meantime—”</p>
+   <p>“I think I understand how the delusional system is maintained,” Cupertino said. “Through daily doses of Frohedadrine, administered orally, in my food. Perhaps by going to Los Angeles I missed a dose; that might explain why a segment of the system collapsed. Or else as you say it’s fatigue; in any case this proves that I’m correct: this is a delusional system, and I don’t need either the blood fraction test or the University of California to confirm it. Carol is dead — <emphasis>and you know it. </emphasis>You’re my psychiatrist on Ganymede and I’m in custody, have been now for three years. Isn’t that actually the case?” He waited, but Hagopian did not answer; the doctor’s face remained impassive. “I never was in Los Angeles,” Cupertino said. “In fact I’m probably confined to a relatively small area; I have no freedom of motion as it would appear. And I didn’t see Carol this morning, did I?”</p>
+   <p>Hagopian said slowly, “What do you mean, ‘blood fraction test’? What gave you the idea of asking for that?” He smiled faintly. “If this is a delusional system, John, the blood fraction test would be illusory, too. So how could it help you?”</p>
+   <p>He had not thought of that; stunned, he remained silent, unable to answer.</p>
+   <p>“And that file which you asked Dr. Green for,” Hagopian said. “Which you received and then transferred to the University of California for analysis; that would be delusional, too. So how can the result of their tests—”</p>
+   <p>Cupertino said, “There’s no way you could know of that, doctor. You conceivably might know that I talked to Dr. Green, asked for and received the file; Green might have talked to you. But not my request for analysis by the university; you couldn’t possibly know that. I’m sorry, doctor, but by a contradiction of internal logic this structure has proved itself unreal. You know too much about me. And I think I know what final, absolute test I can apply to confirm my reasoning.”</p>
+   <p>“What test?” Hagopian’s tone was cold.</p>
+   <p>Cupertino said, “Go back to Los Angeles. And kill Carol once more.”</p>
+   <p>“Good God, how—”</p>
+   <p>“A woman who has been dead for three years can’t die again,” Cupertino said. “Obviously it’ll prove impossible to kill her.” He started to break the phone connection.</p>
+   <p>“Wait,” Hagopian said rapidly. “Look, Cupertino; I’ve got to contact the police now — you’ve forced me to. I can’t let you go down there and murder that woman for the—” He broke off. “Make a second try, I mean, on her life. All right, Cupertino; I’ll admit several things which have been concealed from you. To an extent you’re right; you are on Ganymede, not on Terra.”</p>
+   <p>“I see,” Cupertino said, and did not break the circuit.</p>
+   <p>“But Carol is real,” Dr. Hagopian continued. He was perspiring, now; obviously afraid that Cupertino would ring off he said almost stammeringly, “She’s as real as you or I. You tried to kill her and failed; she informed the homeopapes about the intended revolt — and because of that the revolt was not completely successful. We here on Ganymede are surrounded by a cordon of Terran military ships; we’re cut off from the rest of the Sol System, living on emergency rations and being pushed back, <emphasis>but still holding out.”</emphasis></p>
+   <p>“Why my delusional system?” He felt cold fright rise up inside him; unable to stifle it he felt it enter his chest, invade his heart. “Who imposed it on me?”</p>
+   <p>“No one imposed it on you. It was a self-induced retreat syndrome due to your sense of guilt. Because, Cupertino, it was your fault that the revolt was detected; your telling Carol was the crucial factor — and you recognize it. You tried suicide and that failed, so instead you withdrew psychologically into this fantasy world.”</p>
+   <p>“If Carol told the Terran authorities she wouldn’t now be free to—” </p>
+   <p>“That’s right. Your wife is in prison and that’s where you visited her, at our prison in New Detroit-G, here on Ganymede. Frankly, I don’t know what the effect of my telling you this will have on your fantasy world; it may cause it to further disintegrate, in fact it may even restore you to a clear perception of the terribly difficult situation which we Ganys face vis-à-vis the Terran military establishment. I’ve envied you, Cupertino, during these last three years; you haven’t had to face the harsh realities we’ve had to. Now—” He shrugged. “We’ll see.”</p>
+   <p>After a pause Cupertino said, “Thanks for telling me.”</p>
+   <p>“Don’t thank me; I did it to keep you from becoming agitated to the point of violence. You’re my patient and I have to think of your welfare. No punishment for you is now or ever was intended; the extent of your mental illness, your retreat from reality, fully demonstrated your remorse at the results of your stupidity.” Hagopian looked haggard and gray. “In any case leave Carol alone; it’s not your job to exact vengeance. Look it up in the Bible if you don’t believe me. Anyhow she’s being punished, and will continue to be as long as she’s physically in our hands.”</p>
+   <p>Cupertino broke the circuit.</p>
+   <p><emphasis>Do I believe him? </emphasis>he asked himself.</p>
+   <p>He was not certain. <emphasis>Carol, </emphasis>he thought. <emphasis>So you doomed our cause, out of petty, domestic spite. Out of mere female bitterness, because you were angry at your husband; you doomed an entire moon to three years of losing, hateful war.</emphasis></p>
+   <p>Going to the dresser in his bedroom he got out his laser beam; it had remained hidden there, in a Kleenex box, the entire three years since he had left Ganymede and come to Terra.</p>
+   <p><emphasis>But now, </emphasis>he said to himself, <emphasis>it’s time to use this.</emphasis></p>
+   <p>Going to the phone he dialed for a cab; this time he would travel to Los Angeles by public rocket express, rather than by his own wheel.</p>
+   <p>He wanted to reach Carol as soon as humanly possible.</p>
+   <p><emphasis>You got away from me once, </emphasis>he said as he walked rapidly to the door of his conapt. <emphasis>But not this time. Not twice.</emphasis></p>
+   <p>Ten minutes later he was aboard the rocket express, on his way to Los Angeles and Carol.</p>
+   <empty-line/>
+   <p>Before John Cupertino lay the Los Angeles <emphasis>Times; </emphasis>once more he leafed through it, puzzled, still unable to find the article. Why wasn’t it here? he asked himself. A murder committed, an attractive, sexy woman shot to death . . . he had walked into Carol’s place of work, found her at her desk, killed her in front of her fellow employees, then turned and, unhindered, walked back out; everyone had been too frozen with fear and surprise to interfere with him.</p>
+   <p>And yet it was not in the pape. The homeopape made absolutely no mention of it.</p>
+   <p>“You’re looking in vain,” Dr. Hagopian said, from behind his desk.</p>
+   <p>“It has to be here,” Cupertino said doggedly. “A capital crime like that — <emphasis>what’s the matter?” </emphasis>He pushed the homeopape aside, bewildered. It made no sense; it defied obvious logic.</p>
+   <p>“First,” Dr. Hagopian said wearily, “the laser beam did not exist; that was a delusion. Second, we did not permit you to visit your wife again because we knew you planned violence — you had made that perfectly clear. You never saw her, never killed her, and the homeopape before you is not the Los Angeles <emphasis>Times; </emphasis>it’s the New Detroit-G <emphasis>Star . . . </emphasis>which is limited to four pages because of the pulp-paper shortage here on Ganymede.”</p>
+   <p>Cupertino stared at him.</p>
+   <p>“That’s right,” Dr. Hagopian said, nodding. “It’s happened again, John; you have a delusional memory of killing her twice, now. And each event is as unreal as the other. You poor creature — you’re evidently doomed to try again and again, and each time fail. As much as our leaders hate Carol Holt Cupertino and deplore and regret what she did to us—” He gestured. “We have to protect her; it’s only just. Her sentence is being carried out; she’ll be imprisoned for twenty-two more years or until Terra manages to defeat us and releases her. No doubt if they get hold of her they’ll make her into a heroine; she’ll be in every Terran-controlled homeopape in the Sol System.”</p>
+   <p>“You’d let them get her alive?” Cupertino said, presently.</p>
+   <p>“Do you think we should kill her before they take her?” Dr. Hagopian scowled at him. “We’re not barbarians, John; we don’t commit crimes of vengeance. She’s suffered three years of imprisonment already; she’s being punished sufficiently.” He added, “And so are you as well. I wonder which of you is suffering the more.”</p>
+   <p>“I know I killed her,” Cupertino persisted. “I took a cab to her place of employment, Falling Star Associates, which controls Six-planet Educational Enterprises, in San Francisco; her office was on the sixth floor.” He remembered the trip up in the elevator, even the hat which the other passenger, a middle-aged woman, had worn. He remembered the slender, red-haired receptionist who had contacted Carol by means of her desk intercom; he remembered passing through the busy inner offices, suddenly finding himself face to face with Carol. She had risen, stood behind her desk, seeing the laser beam which he had brought out; understanding had flashed across her features and she had tried to run, to get away . . . but he had killed her anyhow, as she reached the far door, her hand clutching for the knob.</p>
+   <p>“I assure you,” Dr. Hagopian said. “Carol is very much alive.” He turned to the phone on his desk, dialed. “Here, I’ll call her, get her on the line; you can talk to her.”</p>
+   <p>Numbly, Cupertino waited until at last the image on the vidscreen formed. It was Carol.</p>
+   <p>“Hi,” she said, recognizing him.</p>
+   <p>Haltingly he said, “Hi.”</p>
+   <p>“How are you feeling?” Carol asked.</p>
+   <p>“Okay.” Awkwardly he said, “And you?”</p>
+   <p>“I’m fine,” Carol said. “Just a little sleepy because of being woken up so early this morning. By you.”</p>
+   <p>He rang off, then. “All right,” he said to Dr. Hagopian. “I’m convinced.” It was obviously so; his wife was alive and untouched; in fact she evidently had no knowledge even of an attempt by him on her life this time. He had not even come to her place of business; Hagopian was telling the truth.</p>
+   <p>Place of business? Her prison cell, rather. If he was to believe Hagopian. And evidently he had to.</p>
+   <p>Rising, Cupertino said, “Am I free to go? I’d like to get back to my conapt; I’m tired too. I’d like to get some sleep tonight.”</p>
+   <p>“It’s amazing you’re able to function at all,” Hagopian said, “after having had no sleep for almost fifty hours. By all means go home and go to bed. We’ll talk later.” He smiled encouragingly.</p>
+   <p>Hunched with fatigue John Cupertino left Dr. Hagopian’s office; he stood outside on the sidewalk, hands in his pockets, shivering in the night cold, and then he got unsteadily into his parked wheel.</p>
+   <p>“Home,” he instructed it.</p>
+   <p>The wheel turned smoothly away from the curb, to join traffic.</p>
+   <p><emphasis>I could try once more, </emphasis>Cupertino realized suddenly. <emphasis>Why not? And this time I might be successful. Just because I’ve failed twice — that doesn’t mean I’m doomed always to fail.</emphasis></p>
+   <p>To the wheel he said, “Head toward Los Angeles.”</p>
+   <p>The autonomic circuit of the wheel clicked as it contacted the main route to Los Angeles, U.S. Highway 99.</p>
+   <p><emphasis>She’ll be asleep when I get there, </emphasis>Cupertino realized. <emphasis>Probably because of that she’ll be confused enough to let me in. And then — </emphasis></p>
+   <p><emphasis>Perhaps now the revolt will succeed.</emphasis></p>
+   <p>There seemed to him to be a gap, a weak point, in his logic. But he could not quite put his finger on it; he was too tired. Leaning back he tried to make himself comfortable against the seat of the wheel; he let the autonomic circuit drive and shut his eyes in an attempt to catch some much-needed sleep. In a few hours he would be in South Pasadena, at Carol’s one-unit dwelling. Perhaps after he killed her he could sleep; he would deserve it, then.</p>
+   <p><emphasis>By tomorrow morning, </emphasis>he thought, <emphasis>if all goes well she’ll be dead. </emphasis>And then he thought once more about the homeopape, and wondered why there had been no mention of the crime in its columns. <emphasis>Strange, </emphasis>he thought. <emphasis>I wonder why not. </emphasis>The wheel, at one hundred and sixty miles an hour — after all, he had removed the speed governor — hurtled toward what John Cupertino believed to be Los Angeles and his sleeping wife.</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>Retreat Syndrome</emphasis> 12/23/63. <emphasis>Worlds Of Tomorrow, </emphasis>Jan 1965.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

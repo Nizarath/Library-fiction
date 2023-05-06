@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Eye of the Sibyl and Other Classic Strories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>The Pre-Persons</emphasis> 12/20/73. <emphasis>Fantasy &amp; Science Fiction, </emphasis>Oct 1974.</p>
+   </annotation>
+   <date>1963-1981</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-15">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Pre-Persons</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>Past the grove of cypress trees Walter—he had been playing king of the mountain—saw the white truck, and he knew it for what it was. He thought, That’s the abortion truck. Come to take some kid in for a postpartum down at the abortion place.</p>
+   <p>And he thought, Maybe my folks called it. For me.</p>
+   <p>He ran and hid among the blackberries, feeling the scratching of the thorns but thinking, It’s better than having the air sucked out of your lungs. That’s how they do it; they perform all the P.P.s on all the kids there at the same time. They have a big room for it. For the kids nobody wants.</p>
+   <p>Burrowing deeper into the blackberries, he listened to hear if the truck stopped; he heard its motor.</p>
+   <p>“I am invisible,” he said to himself, a line he had learned at the fifth-grade play of <emphasis>Midsummer Night’s Dream, </emphasis>a line Oberon, whom he had played, had said. And after that no one could see him. Maybe that was true now. Maybe the magic saying worked in real life; so he said it again to himself, “I am invisible.” But he knew he was not. He could still see his arms and legs and shoes, and he knew they—everyone, the abortion truck man especially, and his mom and dad—they could see him too. If they looked.</p>
+   <p>If it was him they were after this time.</p>
+   <p>He wished he was a king; he wished he had magic dust all over him and a shining crown that glistened, and ruled fairyland and had Puck to confide to. To ask for advice from, even. Advice even if he himself was a king and bickered with Titania, his wife.</p>
+   <p>I guess, he thought, saying something doesn’t make it true.</p>
+   <p>Sun burned down on him and he squinted, but mostly he listened to the abortion truck motor; it kept making its sound, and his heart gathered hope as the sound went on and on. Some other kid, turned over to the abortion clinic, not him; someone up the road.</p>
+   <p>He made his difficult exit from the berry brambles shaking and in many places scratched and moved step by step in the direction of his house. And as he trudged he began to cry, mostly from the pain of the scratches but also from fear and relief.</p>
+   <p>“Oh, good Lord,” his mother exclaimed, on seeing him. “What in the name of God have you been doing?”</p>
+   <p>He said stammeringly, “I—saw—the abortion—truck.” </p>
+   <p>“And you thought it was for you?” Mutely, he nodded.</p>
+   <p>“Listen, Walter,” Cynthia Best said, kneeling down and taking hold of his trembling hands, “I promise, your dad and I both promise, you’ll never be sent to the County Facility. Anyhow you’re too old. They only take children up to twelve.”</p>
+   <p>“But Jeff Vogel—”</p>
+   <p>“His parents got him in just before the new law went into effect. They couldn’t take him now, legally. They couldn’t take you now. Look—you have a soul; the law says a twelve-year-old boy has a soul. So he can’t go to the County Facility. See? You’re safe. Whenever you see the abortion truck, it’s for someone else, not you. Never for you. Is that clear? It’s come for another younger child who doesn’t have a soul yet, a pre-person.”</p>
+   <p>Staring down, not meeting his mother’s gaze, he said, “I don’t feel like I got a soul; I feel like I always did.”</p>
+   <p>“It’s a legal matter,” his mother said briskly. “Strictly according to age. And you’re past the age. The Church of Watchers got Congress to pass the law—actually they, those church people wanted a lower age; they claimed the soul entered the body at three years old, but a compromise bill was put through. The important thing for you is that you are legally safe, however you feel inside; do you see?” </p>
+   <p>“Okay,” he said, nodding. </p>
+   <p>“You knew that.”</p>
+   <p>He burst out with anger and grief, “What do you think it’s like, maybe waiting every day for someone to come and put you in a wire cage in a truck and—”</p>
+   <p>“Your fear is irrational,” his mother said.</p>
+   <p>“I saw them take Jeff Vogel that day. He was crying, and the man just opened the back of the truck and put him in and shut the back of the truck.”</p>
+   <p>“That was two years ago. You’re weak.” His mother glared at him. “Your grandfather would whip you if he saw you now and heard you talk this way. Not your father. He’d just grin and say something stupid. Two years later, and intellectually you know you’re past the legal maximum age! How—” She struggled for the word. “You are being <emphasis>depraved</emphasis>.”</p>
+   <p>“And he never came back.”</p>
+   <p>“Perhaps someone who wanted a child went inside the County Facility and found him and adopted him. Maybe he’s got a better set of parents who really care for him. They keep them thirty days before they destroy them.” She corrected herself. “Put them to sleep, I mean.”</p>
+   <p>He was not reassured. Because he knew “put him to sleep” or “put them to sleep” was a Mafia term. He drew away from his mother, no longer wanting her comfort. She had blown it, as far as he was concerned; she had shown something about herself or, anyhow, the source of what she believed and thought and perhaps did. What all of them did. I know I’m no different, he thought, than two years ago when I was just a little kid; if I have a soul now like the law says, then I had a soul then, or else we have no souls—the only real thing is just a horrible metallic-painted truck with wire over its windows carrying off kids their parents no longer want, parents using an extension of the old abortion law that let them kill an unwanted child before it came out: because it had no “soul” or “identity,” it could be sucked out by a vacuum system in less than two minutes. A doctor could do a hundred a day, and it was legal because the unborn child wasn’t “human.” He was a pre-person. Just like this truck now; they merely set the date forward as to when the soul entered.</p>
+   <p>Congress had inaugurated a simple test to determine the approximate age at which the soul entered the body: the ability to formulate higher math like algebra. Up to then, it was only body, animal instincts and body, animal reflexes and responses to stimuli. Like Pavlov’s dogs when they saw a little water seep in under the door of the Leningrad laboratory; they “knew” but were not human.</p>
+   <p>I guess I’m human, Walter thought, and looked up into the gray, severe face of his mother, with her hard eyes and rational grimness. I guess I’m like you, he thought. Hey, it’s neat to be a human, he thought; then you don’t have to be afraid of the truck coming.</p>
+   <p>“You feel better,” his mother observed. “I’ve lowered your threshold of anxiety.”</p>
+   <p>“I’m not so freaked,” Walter said. It was over; the truck had gone and not taken him.</p>
+   <p>But it would be back in a few days. It cruised perpetually.</p>
+   <p>Anyhow he had a few days. And then the sight of it—if only I didn’t know they suck the air out of the lungs of the kids they have there, he thought. Destroy them that way. Why? Cheaper, his dad had said. Saves the taxpayers money.</p>
+   <p>He thought then about taxpayers and what they would look like. Something that scowled at all children, he thought. That did not answer if the child asked them a question. A thin face, lined with watch-worry grooves, eyes always moving. Or maybe fat; one or the other. It was the thin one that scared him; it didn’t enjoy life nor want life to be. It flashed the message, “Die, go away, sicken, don’t exist.” And the abortion truck was proof—or the instrument—of it.</p>
+   <p>“Mom,” he said, “how do you shut a County Facility? You know, the abortion clinic where they take the babies and little kids.”</p>
+   <p>“You go and petition the county legislature,” his mother said.</p>
+   <p>“You know what I’d do?” he said. “I’d wait until there were no kids in there, only county employees, and I’d firebomb it.”</p>
+   <p>“Don’t talk like that!” his mother said severely, and he saw on her face the stiff lines of the thin taxpayer. And it frightened him; his own mother frightened him. The cold and opaque eyes mirrored nothing, no soul inside, and he thought, <emphasis>It’s you who don’t have a soul, </emphasis>you and your skinny messages not-to-be. Not us.</p>
+   <p>And then he ran outside to play again.</p>
+   <empty-line/>
+   <p>A bunch more kids had seen the truck; he and they stood around together, talking now and then, but mostly kicking at rocks and dirt, and occasionally stepping on a bad bug.</p>
+   <p>“Who’d the truck come for?” Walter said.</p>
+   <p>“Fleischhacker. Earl Fleischhacker.”</p>
+   <p>“Did they get him?”</p>
+   <p>“Sure, didn’t you hear the yelling?”</p>
+   <p>“Was his folks home at the time?”</p>
+   <p>“Naw, they split earlier on some shuck about ‘taking the car in to be greased.’ ”</p>
+   <p>“<emphasis>They </emphasis>called the truck?” Walter said.</p>
+   <p>“Sure, it’s the law; it’s gotta be the parents. But they were too chickenshit to be there when the truck drove up. Shit, he really yelled; I guess you’re too far away to hear, but he really yelled.”</p>
+   <p>Walter said, “You know what we ought to do? Firebomb the truck and snuff the driver.”</p>
+   <p>All the other kids looked at him contemptuously. “They put you in the mental hospital for life if you act out like that.”</p>
+   <p>“Sometimes for life,” Pete Bride corrected. “Other times they ‘build up a new personality that is socially viable.’ ”</p>
+   <p>“Then what should we do?” Walter said.</p>
+   <p>“You’re twelve; you’re safe.”</p>
+   <p>“But suppose they change the law.” Anyhow it did not assuage his anxiety to know that he was technically safe; the truck still came for others and still frightened him. He thought of the younger kids down at the Facility now, looking through the Cyclone fence hour by hour, day after day, waiting and marking the passage of time and hoping someone would come in and adopt them.</p>
+   <p>“You ever been down there?” he said to Pete Bride. “At the County Facility? All those really little kids, like babies some of them, just maybe a year old. And they don’t even know what’s in store.”</p>
+   <p>“The babies get adopted,” Zack Yablonski said. “It’s the old ones that don’t stand a chance. They’re the ones that get you; like, they talk to people who come in and put on a good show, like they’re desirable. But people know they wouldn’t be there if they weren’t—you know, undesirable.”</p>
+   <p>“Let the air out of the tires,” Walter said, his mind working.</p>
+   <p>“Of the truck? Hey, and you know if you drop a mothball in the gas tank, about a week later the motor wears out. We could do that.”</p>
+   <p>Ben Blaire said, “But then they’d be after us.”</p>
+   <p>“They’re after us now,” Walter said.</p>
+   <p>“I think we ought to firebomb the truck,” Harry Gottlieb said, “but suppose there’re kids in it. It’ll burn them up. The truck picks up maybe—shit, I don’t know. Five kids a day from different parts of the county.”</p>
+   <p>“You know they even take dogs too?” Walter said. “And cats; you see the truck for that only about once a month. The pound truck it’s called. Otherwise it’s the same; they put them in a big chamber and suck the air out of their lungs and they die. They’d do that even to animals! Little animals!”</p>
+   <p>“I’ll believe that when I see it,” Harry Gottlieb said, derision on his face, and disbelief. “A truck that carries off dogs.”</p>
+   <empty-line/>
+   <p>He knew it was true, though. Walter had seen the pound truck two different times. Cats, dogs, and mainly us, he thought glumly. I mean, if they’d start with us, it’s natural they’d wind up taking people’s pets, too; we’re not that different. But what kind of a person would do that, even if it is the law? “Some laws are made to be kept, and some to be broken,” he remembered from a book he had read. We ought to firebomb the pound truck first, he thought; that’s the worst, that truck.</p>
+   <p>Why is it, he wondered, that the more helpless a creature, the easier it was for some people to snuff it? Like a baby in the womb; the original abortions, “pre-partums,” or “pre-persons” they were called now. How could they defend themselves? Who would speak for them? All those lives, a hundred by each doctor a day . . . and all helpless and silent and then just dead. The fuckers, he thought. That’s why they do it; they know they can do it; they get off on their macho power. And so a little thing that wanted to see the light of day is vacuumed out in less than two minutes. And the doctor goes on to the next chick.</p>
+   <p>There ought to be an organization, he thought, similar to the Mafia. Snuff the snuffers, or something. A contract man walks up to one of those doctors, pulls out a tube, and sucks the doctor into it, where he shrinks down like an unborn baby. An unborn baby doctor, with a stethoscope the size of a pinhead . . . he laughed, thinking of that.</p>
+   <p>Children don’t know. But children know everything, knew too much. The abortion truck, as it drove along, played a Good Humor Man’s jingle:</p>
+   <poem>
+    <stanza>
+     <v>Jack and Jill </v>
+     <v>Went up the hill </v>
+     <v>To fetch a pail of water</v>
+    </stanza>
+   </poem>
+   <p>A tape loop in the sound system of the truck, built especially by Ampex for GM, blared that out when it wasn’t actively nearing a seize. Then the driver shut off the sound system and glided along until he found the proper house. However, once he had the unwanted child in the back of the truck, and was either starting back to the County Facility or beginning another pre-person pick-up, he turned back on</p>
+   <poem>
+    <stanza>
+     <v>Jack and Jill </v>
+     <v>Went up the hill </v>
+     <v>To fetch a pail of water</v>
+    </stanza>
+   </poem>
+   <p>Thinking of himself, Oscar Ferris, the driver of truck three, finished, “Jack fell down and broke his crown and Jill came tumbling after.” What the hell’s a crown? Ferris wondered. Probably a private part. He grinned. Probably Jack had been playing with it, or Jill, both of them together. Water, my ass, he thought. I know what they went off into the bushes for. Only, Jack fell down, and his thing broke right off. “Tough luck, Jill,” he said aloud as he expertly drove the four-year-old truck along the winding curves of California Highway One.</p>
+   <p>Kids are like that, Ferris thought. Dirty and playing with dirty things, like themselves.</p>
+   <p>This was still wild and open country, and many stray children scratched about in the canyons and fields; he kept his eye open, and sure enough—off to his right scampered a small one, about six, trying to get out of sight. Ferris at once pressed the button that activated the siren of the truck. The boy froze, stood in fright, waited as the truck, still playing “Jack and Jill,” coasted up beside him and came to a halt.</p>
+   <p>“Show me your D papers,” Ferris said, without getting out of the truck; he leaned one arm out the window, showing his brown uniform and patch; his symbols of authority.</p>
+   <p>The boy had a scrawny look, like many strays, but, on the other hand, he wore glasses. Tow-headed, in jeans and T-shirt, he stared up in fright at Ferris, making no move to get out his identification.</p>
+   <p>“You got a D card or not?” Ferris said.</p>
+   <p>“W-w-w-what’s a ‘D card’?”</p>
+   <p>In his official voice, Ferris explained to the boy his rights under the law. “Your parent, either one, or legal guardian, fills out form 36-W, which is a formal statement of desirability. That they or him or her regard you as desirable. You don’t have one? Legally, that makes you a stray, even if you have parents who want to keep you; they are subject to a fine of $500.”</p>
+   <p>“Oh,” the boy said. “Well, I lost it.”</p>
+   <p>“Then a copy would be on file. They microdot all those documents and records. I’ll take you in—”</p>
+   <p>“To the County Facility?” Pipe-cleaner legs wobbled in fear.</p>
+   <p>“They have thirty days to claim you by filling out the 36-W form. If they haven’t done it by then—”</p>
+   <p>“My mom and dad never agree. Right now I’m staying with my dad.”</p>
+   <p>“He didn’t give you a D card to identify yourself with.” Mounted transversely across the cab of the truck was a shotgun. There was always the possibility that trouble might break out when he picked up a stray. Reflexively, Ferris glanced up at it. It was there, all right, a pump shotgun. He had used it only five times in his law-enforcement career. It could blow a man into molecules. “I have to take you in,” he said, opening the truck door and bringing out his keys. “There’s another kid back there; you can keep each other company.”</p>
+   <p>“No,” the boy said. “I won’t go.” Blinking, he confronted Ferris, stubborn and rigid as stone.</p>
+   <p>“Oh, you probably heard a lot of stories about the County Facility. It’s only the warpies, the creepies, that get put to sleep; any nice normal-looking kid’ll be adopted—we’ll cut your hair and fix you up so you look professionally groomed. We want to find you a home. That’s the whole idea. It’s just a few, those who are—you know—ailing mentally or physically that no one wants. Some well-to-do individual will snap you up in a minute; you’ll see. Then you won’t be running around out here alone with no parents to guide you. You’ll have new parents, and listen—they’ll be paying heavy bread for you; hell, they’ll <emphasis>register </emphasis>you. Do you see? It’s more a temporary lodging place where we’re taking you right now, to make you available to prospective new parents.”</p>
+   <p>“But if nobody adopts me in a month—”</p>
+   <p>“Hell, you could fall off a cliff here at Big Sur and kill yourself. Don’t worry. The desk at the Facility will contact your blood parents, and most likely they’ll come forth with the Desirability Form (15A) sometime today even. And meanwhile you’ll get a nice ride and meet a lot of new kids. And how often—”</p>
+   <p>“No,” the boy said.</p>
+   <p>“This is to inform you,” Ferris said, in a different tone, “that I am a County Official.” He opened his truck door, jumped down, showed his gleaming metal badge to the boy. “I am Peace Officer Ferris and I now order you to enter by the rear of the truck.”</p>
+   <p>A tall man approached them, walking with wariness; he, like the boy, wore jeans and a T-shirt, but no glasses.</p>
+   <p>“You the boy’s father?” Ferris said.</p>
+   <p>The man, hoarsely, said, “Are you taking him to the pound?”</p>
+   <p>“We consider it a child protection shelter,” Ferris said. “The use of the term ‘pound’ is a radical hippie slur, and distorts—deliberately—the overall picture of what we do.”</p>
+   <p>Gesturing toward the truck, the man said, “You’ve got kids locked in there in those cages, have you?”</p>
+   <p>“I’d like to see your ID,” Ferris said. “And I’d like to know if you’ve ever been arrested before.”</p>
+   <p>“Arrested and found innocent? Or arrested and found guilty?”</p>
+   <p>“Answer my question, sir,” Ferris said, showing his black flatpack that he used with adults to identify him as a County Peace Officer. “Who are you? Come on, let’s see your ID.”</p>
+   <p>The man said, “Ed Gantro is my name and I have a record. When I was eighteen, I stole four crates of Coca-Cola from a parked truck.”</p>
+   <p>“You were apprehended at the scene?”</p>
+   <p>“No,” the man said. “When I took the empties back to cash in on the refunds. That’s when they seized me. I served six months.”</p>
+   <p>“Have you a Desirability Card for your boy here?” Ferris asked.</p>
+   <p>“We couldn’t afford the $90 it cost.”</p>
+   <p>“Well, now it’ll cost you five hundred. You should have gotten it in the first place. My suggestion is that you consult an attorney.” Ferris moved toward the boy, declaring officially. “I’d like you to join the other juveniles in the rear section of the vehicle.” To the man he said, “Tell him to do as instructed.”</p>
+   <p>The man hesitated and then said. “Tim, get in the goddamn truck. And we’ll get a lawyer; we’ll get the D card for you. It’s futile to make trouble—technically you’re a stray.”</p>
+   <p>“ ‘A stray,’ ” the boy said, regarding his father.</p>
+   <p>Ferris said, “Exactly right. You have thirty days, you know, to raise the—”</p>
+   <p>“Do you also take cats?” the boy said. “Are there any cats in there? I really like cats; they’re all right.”</p>
+   <p>“I handle only P.P. cases,” Ferris said. “Such as yourself.” With a key he unlocked the back of the truck. “Try not to relieve yourself while you’re in the truck; it’s hard as hell to get the odor and stains out.”</p>
+   <p>The boy did not seem to understand the word; he gazed from Ferris to his father in perplexity.</p>
+   <p>“Just don’t go to the bathroom while you’re in the truck,” his father explained. “They want to keep it sanitary, because that cuts down their maintenance costs.” His voice was savage and grim.</p>
+   <p>“With stray dogs or cats,” Ferris said, “they just shoot them on sight, or put out poison bait.”</p>
+   <p>“Oh, yeah, I know that Warfarin,” the boy’s father said. “The animal eats it over a period of a week, and then he bleeds to death internally.”</p>
+   <p>“With no pain,” Ferris pointed out.</p>
+   <p>“Isn’t that better than sucking the air from their lungs?” Ed Gantro said. “Suffocating them on a mass basis?”</p>
+   <p>“Well, with animals the county authorities—”</p>
+   <p>“I mean the children. Like Tim.” His father stood beside him, and they both looked into the rear of the truck. Two dark shapes could be dimly discerned, crouching as far back as possible, in the starkest form of despair.</p>
+   <p>“Fleischhacker!” the boy Tim said. “Didn’t you have a D card?”</p>
+   <p>“Because of energy and fuel shortages,” Ferris was saying, “population must be radically cut. Or in ten years there’ll be no food for anyone. This is one phase of—“</p>
+   <p>“I had a D card,” Earl Fleischhacker said, “but my folks took it away from me. They didn’t want me any more; so they took it back, and then they called for the abortion truck.” His voice croaked; obviously he had been secretly crying.</p>
+   <p>“And what’s the difference between a five-month-old fetus and what we have here?” Ferris was saying. “In both cases what you have is an unwanted child. They simply liberalized the laws.”</p>
+   <p>Tim’s father, staring at him, said, “Do you agree with these laws?”</p>
+   <p>“Well, it’s really all up to Washington and what they decide will solve our needs in these days of crises,” Ferris said. “I only enforce their edicts. If this law changed—hell. I’d be trucking empty milk cartons for recycling or something and be just as happy.”</p>
+   <p>“<emphasis>Just </emphasis>as happy? You enjoy your work?”</p>
+   <p>Ferris said, mechanically. “It gives me the opportunity to move around a lot and to meet people.”</p>
+   <p>Tim’s father Ed Gantro said, “You are insane. This postpartum abortion scheme and the abortion laws before it where the unborn child had no legal rights—it was removed like a tumor. Look what it’s come to. If an unborn child can be killed without due process, why not a born one? What I see in common in both cases is their helplessness; the organism that is killed had no chance, no ability, to protect itself. You know what? I want you to take me in, too. In back of the truck with the three children.”</p>
+   <p>“But the President and Congress have declared that when you’re past twelve you have a soul,” Ferris said. “I can’t take you. It wouldn’t be right.”</p>
+   <p>“I have no soul,” Tim’s father said. “I got to be twelve and nothing happened. Take me along, too. Unless you can find my soul.”</p>
+   <p>“Jeez,” Ferris said.</p>
+   <p>“Unless you can show me my soul,” Tim’s father said, “unless you can specifically locate it, then I insist you take me in as no different from these kids.”</p>
+   <p>Ferris said, “I’ll have to use the radio to get in touch with the County Facility, see what they say.”</p>
+   <p>“You do that,” Tim’s father said, and laboriously clambered up into the rear of the truck, helping Tim along with him. With the other two boys they waited while Peace Officer Ferris, with all his official identification as to who he was, talked on his radio.</p>
+   <p>“I have here a Caucasian male, approximately thirty, who insists that he be transported to the County Facility with his infant son,” Ferris was saying into his mike. “He claims to have no soul, which he maintains puts him in the class of subtwelve-year-olds. I don’t have with me or know any test to detect the presence of a soul, at least any I can give out here in the boondocks that’ll later on satisfy a court. I mean, he probably can do algebra and higher math; he seems to possess an intelligent mind. But—”</p>
+   <p>“Affirmative as to bringing him in,” his superior’s voice on the two-way radio came back to him. “We’ll deal with him here.”</p>
+   <p>“We’re going to deal with you downtown,” Ferris said to Tim’s father, who, with the three smaller figures, was crouched down in the dark recesses of the rear of the truck. Ferris slammed the door, locked it—an extra precaution, since the boys were already netted by electronic bands—and then started up the truck.</p>
+   <poem>
+    <stanza>
+     <v>Jack and Jill </v>
+     <v>Went up the hill </v>
+     <v>To fetch a pail of water </v>
+     <v>Jack fell down </v>
+     <v>And broke his crown</v>
+    </stanza>
+   </poem>
+   <p>Somebody’s sure going to get their crown broke, Ferris thought as he drove along the winding road, and it isn’t going to be me.</p>
+   <empty-line/>
+   <p>“I can’t do algebra,” he heard Tim’s father saying to the three boys. “So I can’t have a soul.”</p>
+   <p>The Fleischhacker boy said, snidely, “I can, but I’m only nine. So what good does it do me?”</p>
+   <p>“That’s what I’m going to use as my plea at the Facility,” Tim’s father continued. “Even long division was hard for me. I don’t have a soul. I belong with you three little guys.”</p>
+   <p>Ferris, in a loud voice, called back, “I don’t want you soiling the truck, you understand? It costs us—”</p>
+   <p>“Don’t tell me,” Tim’s father said, “because I wouldn’t understand. It would be too complex, the proration and accrual and fiscal terms like that.”</p>
+   <p>I’ve got a weirdo back there, Ferris thought, and was glad he had the pump shotgun mounted within easy reach. “You know the world is running out of everything,” Ferris called back to them, “energy and apple juice and fuel and bread; we’ve got to keep the population down, and the embolisms from the Pill make it impossible—”</p>
+   <p>“None of us knows those big words,” Tim’s father broke in.</p>
+   <p>Angrily, and feeling baffled, Ferris said. “Zero population growth; that’s the answer to the energy and food crisis. It’s like—shit, it’s like when they introduced the rabbit in Australia, and it had no natural enemies, and so it multiplied until, like people—”</p>
+   <p>“I do understand multiplication,” Tim’s father said. “And adding and subtraction. But that’s all.”</p>
+   <p>Four crazy rabbits flopping across the road, Ferris thought. People pollute the natural environment, he thought. What must this part of the country have been like before man? Well, he thought, with the postpartum abortions taking place in every county in the U.S. of A. we may see that day; we may stand and look once again upon a virgin land.</p>
+   <p>We, he thought. I guess there won’t be any we. I mean, he thought, giant sentient computers will sweep out the landscape with their slotted video receptors and find it pleasing.</p>
+   <p>The thought cheered him up.</p>
+   <empty-line/>
+   <p>“Let’s have an abortion!” Cynthia declared excitedly as she entered the house with an armload of synthogroceries. “Wouldn’t that be neat? Doesn’t that turn you on?”</p>
+   <p>Her husband Ian Best said dryly, “But first you have to get pregnant. So make an appointment with Dr. Guido—that should cost me only fifty or sixty dollars—and have your I.U.D. removed.”</p>
+   <p>“I think it’s slipping down anyhow. Maybe, if—” Her pert dark shag-haired head tossed in glee. “It probably hasn’t worked properly since last year. So I could be pregnant now.”</p>
+   <p>Ian said caustically. “You could put an ad in the <emphasis>Free Press; </emphasis>‘Man wanted to fish out I.U.D. with coathanger.’ ”</p>
+   <p>“But you see,” Cynthia said, following him as he made his way to the master closet to hang up his status-tie and class-coat, “it’s the in thing now, to have an abortion. Look, what do we have? A kid. We have Walter. Every time someone comes over to visit and sees him, I know they’re wondering. ‘Where did you screw up?’ It’s embarrassing.” She added, “And the kind of abortions they give now, for women in early stages—it only costs one hundred dollars . . . the price of ten gallons of gas! And you can talk about it with practically everybody who drops by for hours.”</p>
+   <p>Ian turned to face her and said in a level voice. “Do you get to keep the embryo? Bring it home in a bottle or sprayed with special luminous paint so it glows in the dark like a night light?”</p>
+   <p>“In any color you want!”</p>
+   <p>“The<emphasis> embryo</emphasis>?”</p>
+   <p>“No, the bottle. And the color of the fluid. It’s in a preservative solution, so really it’s a lifetime acquisition. It even has a written guarantee, I think.”</p>
+   <p>Ian folded his arms to keep himself calm: alpha state condition. “Do you know that there are people who would want to have a child? Even an ordinary dumb one? That go to the County Facility week after week looking for a little newborn baby? These ideas—there’s been this world panic about overpopulation. Nine trillion humans stacked like kindling in every block of every city. Okay, if that were going on—” He gestured. “But what we have now is not <emphasis>enough </emphasis>children. Or don’t you watch TV or read the <emphasis>Times</emphasis>?”</p>
+   <p>“It’s a drag,” Cynthia said. “For instance, today Walter came into the house freaked out because the abortion truck cruised by. It’s a drag taking care of him. <emphasis>You </emphasis>have it easy; you’re at work. But <emphasis>me</emphasis>–”</p>
+   <p>“You know what I’d like to do to the Gestapo abortion wagon? Have two ex-drinking buddies of mine armed with BARs, one on each side of the road. And when the wagon passes by—”</p>
+   <p>“It’s a ventilated air-conditioned truck, not a wagon.”</p>
+   <p>He glared at her and then went to the bar in the kitchen to fix himself a drink. Scotch will do, he decided. Scotch and milk, a good before-”dinner” drink.</p>
+   <p>As he mixed his drink, his son Walter came in. He had, on his face, an unnatural pallor.</p>
+   <p>“The ‘bort truck went by today, didn’t it?” Ian said. </p>
+   <p>“I thought maybe—”</p>
+   <p>“No way. Even if your mother and I saw a lawyer and had a legal document drawn up, an un-D Form, you’re too old. So relax.” </p>
+   <p>“I know intellectually,” Walter said, “but—”</p>
+   <p>‘ ‘Do not seek to know for whom the bell tolls; it tolls for thee,’ ” Ian quoted (inaccurately). “Listen, Walt, let me lay something on you.” He took a big, long drink of Scotch and milk. “The name of all this is, <emphasis>kill me. </emphasis>Kill them when they’re the size of a fingernail, or a baseball, or later on, if you haven’t done it already, suck the air out of the lungs of a ten-year-old boy and let him die. It’s a certain kind of woman advocating this all. They used to call them ‘castrating females.’ Maybe that was once the right term, except that these women, these hard cold women, didn’t just want to—well, they want to do in the <emphasis>whole boy </emphasis>or man, make all of them dead, not just the part that makes him a man. Do you see?”</p>
+   <p>“No,” Walter said, but in a dim sense, very frightening, he did. </p>
+   <p>After another hit of his drink, Ian said, “And we’ve got one living right here, Walter. Here in our very house.” </p>
+   <p>“What do we have living here?”</p>
+   <p>“What the Swiss psychiatrists call a <emphasis>kindermorder</emphasis>,” Ian said, deliberately choosing a term he knew his boy wouldn’t understand. “You know what,” he said, “you and I could get onto an Amtrak coach and head north and just keep on going until we reached Vancouver, British Columbia, and we could take a ferry to Vancouver Island and never be seen by anybody down here again.”</p>
+   <p>“But what about Mom?”</p>
+   <p>“I would send her a cashier’s check,” Ian said. “Each month. And she would be quite happy with that.”</p>
+   <p>“It’s cold up there, isn’t it?” Walter said. “I mean, they have hardly any fuel and they wear—”</p>
+   <p>“About like San Francisco. Why? Are you afraid of wearing a lot of sweaters and sitting close to the fireplace? What did you see today that frightened you a hell of a lot more?”</p>
+   <p>“Oh, yeah.” He nodded somberly.</p>
+   <p>“We could live on a little island off Vancouver Island and raise our own food. You can plant stuff up there and it grows. And the truck won’t come there; you’ll never see it again. They have different laws. The women up there are different. There was this one girl I knew when I was up there for a while, a long time ago; she had long black hair and smoked Players cigarettes all the time and never ate anything or ever stopped talking. Down here we’re seeing a civilization in which the desire by women to destroy their own—” Ian broke off; his wife had walked into the kitchen.</p>
+   <p>“If you drink any more of that stuff,” she said to him, “you’ll barf it up.”</p>
+   <p>“Okay,” Ian said irritably. “Okay!”</p>
+   <p>“And don’t yell,” Cynthia said. “I thought for dinner tonight it’d be nice if you took us out. Dal Key’s said on TV they have steak for early comers.”</p>
+   <p>Wrinkling his nose, Walter said, “They have raw oysters.”</p>
+   <p>“Blue points,” Cynthia said. “In the half shell, on ice. I love them. All right, Ian? Is it decided?”</p>
+   <p>To his son Walter, Ian said. “A raw blue point oyster looks like nothing more on earth than what the surgeon—” He became silent, then. Cynthia glared at him, and his son was puzzled. “Okay,” he said, “but I get to order steak.”</p>
+   <p>“Me too,” Walter said.</p>
+   <p>Finishing his drink, Ian said more quietly, “When was the last time you fixed dinner here in the house? For the three of us?”</p>
+   <p>“I fixed you that pigs’ ears and rice dish on Friday,” Cynthia said. “Most of which went to waste because it was something new and on the nonmandatory list. Remember, <emphasis>dear</emphasis>?”</p>
+   <p>Ignoring her, Ian said to his son, “Of course, that type of woman will sometimes, even often, be found up there, too. She has existed throughout time and all cultures. But since Canada has no law permitting postpartum—” He broke off. “It’s the carton of milk talking,” he explained to Cynthia. “They adulterate it these days with sulfur. Pay no attention or sue somebody; the choice is yours.”</p>
+   <p>Cynthia, eyeing him, said, “Are you running a fantasy number in your head again about splitting?”</p>
+   <p>“Both of us,” Walter broke in. “Dad’s taking me with him.”</p>
+   <p>“Where?” Cynthia said, casually.</p>
+   <p>Ian said. “Wherever the Amtrak track leads us.”</p>
+   <p>“We’re going to Vancouver Island in Canada,” Walter said.</p>
+   <p>“Oh, really?” Cynthia said.</p>
+   <p>After a pause Ian said, “Really.”</p>
+   <p>“And what the shit am I supposed to do when you’re gone? Peddle my ass down at the local bar? How’ll I meet the payments on the various—”</p>
+   <p>“I will continually mail you checks,” Ian said. “Bonded by giant banks.”</p>
+   <p>“Sure. You bet. Yep. Right.”</p>
+   <p>“You could come along,” Ian said, “and catch fish by leaping into English Bay and grinding them to death with your sharp teeth. You could rid British Columbia of its fish population overnight. All those ground-up fish, wondering vaguely what happened . . . swimming along one minute and then this—ogre, this fish-destroying monster with a single luminous eye in the center of its forehead, falls on them and grinds them into grit. There would soon be a legend. News like that spreads. At least among the last surviving fish.”</p>
+   <p>“Yeah, but Dad,” Walter said, “suppose there are no surviving fish.”</p>
+   <p>“Then it will have been all in vain,” Ian said, “except for your mother’s own personal pleasure at having bitten to death an entire species in British Columbia, where fishing is the largest industry anyhow, and so many other species depend on it for survival.”</p>
+   <p>“But then everyone in British Columbia will be out of work,” Walter said.</p>
+   <p>“No,” Ian said, “they will be cramming the dead fish into cans to sell to Americans. You see, Walter, in the olden days, before your mother multi-toothedly bit to death all the fish in British Columbia, the simple rustics stood with stick in hand, and when a fish swam past, they whacked the fish over the head. This will <emphasis>create </emphasis>jobs, not eliminate them. Millions of cans of suitably marked—”</p>
+   <p>“You know,” Cynthia said quickly, “he believes what you tell him.”</p>
+   <p>Ian said, “What I tell him is true.” Although not, he realized, in a literal sense. To his wife he said, “I’ll take you out to dinner. Get our ration stamps, put on that blue knit blouse that shows off your boobs; that way you’ll get a lot of attention and maybe they won’t remember to collect the stamps.”</p>
+   <p>“What’s a ‘boob’?” Walter asked.</p>
+   <p>“Something fast becoming obsolete,” Ian said, “like the Pontiac GTO. Except as an ornament to be admired and squeezed. Its function is dying away.” As is our race, he thought, once we gave full rein to those who would destroy the unborn—in other words, the most helpless creatures alive.</p>
+   <p>“A boob,” Cynthia said severely to her son, “is a mammary gland that ladies possess which provides milk to their young.”</p>
+   <p>“Generally there are two of them,” Ian said. “Your operational boob and then your backup boob, in case there is powerful failure in the operational one. I suggest the elimination of a step in all this pre-person abortion mania,” he said. “We will send all the boobs in the world to the County Facilities. The milk, if any, will be sucked out of them, by mechanical means of course; they will become useless and empty, and then the young will die naturally, deprived of any and all sources of nourishment.”</p>
+   <p>“There’s formula,” Cynthia said, witheringly. “Similac and those. I’m going to change so we can go out.” She turned and strode toward their bedroom.</p>
+   <p>“You know,” Ian said after her, “if there was any way you could get me classified as a pre-person, you’d send me there. To the Facility with the greatest facility.” And, he thought, I’ll bet I wouldn’t be the only husband in California who went. There’d be plenty others. In the same bag as me, then as now.</p>
+   <p>“Sounds like a plan,” Cynthia’s voice came to him dimly; she had heard.</p>
+   <p>“It’s not just a hatred for the helpless,” Ian Best said. “More is involved. Hatred of what? Of everything that grows?” You blight them, he thought, before they grow big enough to have muscle and the tactics and skill for fight—big like I am in relation to you, with my fully developed musculature and weight. So much easier when the other person—I should say pre-person—is floating and dreaming in the amniotic fluid and knows nothing about how to nor the need to hit back.</p>
+   <p>Where did the motherly virtues go to? he asked himself. When mothers <emphasis>especially </emphasis>protected what was small and weak and defenseless?</p>
+   <p>Our competitive society, he decided. The survival of the strong. Not the fit, he thought; just those who hold the <emphasis>power. </emphasis>And are not going to surrender it to the next generation: it is the powerful and evil old against the helpless and gentle new.</p>
+   <p>“Dad,” Walter said, “are we really going to Vancouver Island in Canada and raise real food and not have anything to be afraid of any more?”</p>
+   <p>Half to himself, Ian said, “Soon as I have the money.”</p>
+   <p>“I know what that means. It’s a ‘we’ll see’ number you say. We aren’t going, are we?” He watched his father’s face intently. “She won’t let us, like taking me out of school and like that; she always brings up that . . . right?”</p>
+   <p>“It lies ahead for us someday,” Ian said doggedly. “Maybe not this month but someday, sometime. I promise.”</p>
+   <p>“And there’s no abortion trucks there.”</p>
+   <p>“No. None. Canadian law is different.”</p>
+   <p>“Make it soon, Dad. Please.”</p>
+   <p>His father fixed himself a second Scotch and milk and did not answer; his face was somber and unhappy, almost as if he was about to cry.</p>
+   <empty-line/>
+   <p>In the rear of the abortion truck three children and one adult huddled, jostled by the turning of the truck. They fell against the restraining wire that separated them, and Tim Gantro’s father felt keen despair at being cut off mechanically from his own boy. A nightmare during day, he thought. Caged like animals; his noble gesture had brought only more suffering to him.</p>
+   <p>“Why’d you say you don’t know algebra?” Tim asked, once. “I know you know even calculus and trig-something; you went to Stanford University.”</p>
+   <p>“I want to show,” he said, “that either they ought to kill all of us or none of us. But not divide along these bureaucratic arbitrary lines. ‘When does the soul enter the body?’ What kind of rational question is that in this day and age? It’s Medieval.” In fact, he thought, it’s a pretext—a pretext to prey on the helpless. And he was not helpless. The abortion truck had picked up a fully grown man, with all his knowledge, all his cunning. How are they going to handle me? he asked himself. Obviously I have what all men have; if they have souls, then so do I. If not, then I don’t, but on what real basis can they “put me to sleep”? I am not weak and small, not an ignorant child cowering defenselessly. I can argue the sophistries with the best of the county lawyers; with the D.A. himself, if necessary.</p>
+   <p>If they snuff me, he thought, they will have to snuff everyone, including themselves. And that is not what this is all about. This is a con game by which the established, those who already hold all the key economic and political posts, keep the youngsters out of it—murder them if necessary. There is, he thought, in the land, a hatred by the old of the young, a hatred and a fear. So what will they do with me? I am in their age group, and I am caged up in the back of this abortion truck. I pose, he thought, a different kind of threat; I am one of them but on the other side, with stray dogs and cats and babies and infants. Let them figure it out; let a new St. Thomas Aquinas arise who can unravel this.</p>
+   <p>“All I know,” he said aloud, “is dividing and multiplying and subtracting. I’m even hazy on my fractions.”</p>
+   <p>“But you used to know that!” Tim said.</p>
+   <p>“Funny how you forget it after you leave school,” Ed Gantro said. “You kids are probably better at it than I am.”</p>
+   <p>“Dad, they’re going to <emphasis>snuff </emphasis>you,” his son Tim said, wildly. “Nobody’ll adopt you. Not at your age. You’re too <emphasis>old</emphasis>.”</p>
+   <p>“Let’s see,” Ed Gantro said. “The binomial theorem. How does that go? I can’t get it all together: something about a and b.” And as it leaked out of his head, as had his immortal soul . . . he chuckled to himself. I cannot pass the soul test, he thought. At least not talking like that. I am a dog in the gutter, an animal in a ditch.</p>
+   <p>The whole mistake of the pro-abortion people from the start, he said to himself, was the <emphasis>arbitrary </emphasis>line they drew. An embryo is not entitled to American Constitutional rights and can be killed, legally, by a doctor. But a fetus was a “person,” with rights, at least for a while; and then the pro-abortion crowd decided that even a seven-month fetus was not “human” and could be killed, legally, by a licensed doctor. And, one day, a newborn baby—it is a vegetable; it can’t focus its eyes, it understands nothing, nor talks . . . the pro-abortion lobby argued in court, and won, with their contention that a newborn baby was only a fetus expelled by accident or organic processes from the womb. But, even then, where was the line to be drawn finally? When the baby smiled its first smile? When it spoke its first word or reached for its initial time for a toy it enjoyed? The legal line was relentlessly pushed back and back. And now the most savage and arbitrary definition of all: when it could perform “higher math.”</p>
+   <p>That made the ancient Greeks, of Plato’s time, nonhumans, since arithmetic was unknown to them, only geometry; and algebra was an Arab invention, much later in history. <emphasis>Arbitrary. </emphasis>It was not a theological arbitrariness either; it was a mere legal one. The Church had long since—from the start, in fact—maintained that even the zygote, and the embryo that followed, was as sacred a life form as any that walked the earth. They had seen what would come of arbitrary definitions of “Now the soul enters the body,” or in modern terms, “Now it is a person entitled to the full protection of the law like everyone else.” What was so sad was the sight now of the small child playing bravely in his yard day by day, trying to hope, trying to pretend a security he did not have.</p>
+   <p>Well, he thought, we’ll see what they do with me; I am thirty-five years old, with a Master’s Degree from Stanford. Will they put me in a cage for thirty days, with a plastic food dish and a water source and a place—in plain sight—to relieve myself, and if no one adopts me will they consign me to automatic death along with the others?</p>
+   <p>I am risking a lot, he thought. But they picked up my son today, and the risk began then, when they had him, not when I stepped forward and became a victim myself.</p>
+   <p>He looked about at the three frightened boys and tried to think of something to tell them—not just his own son but all three.</p>
+   <p>“ ‘Look,’ ” he said, quoting. “ ‘I tell you a sacred secret. We shall not all sleep in death. We shall—’ ” But then he could not remember the rest. Bummer, he thought dismally. “ ‘We shall wake up,’ ” he said, doing the best he could. “ ‘In a flash. In the twinkling of an eye.’ ”</p>
+   <p>“Cut the noise,” the driver of the truck, from beyond his wire mesh, growled. “I can’t concentrate on this fucking road.” He added, “You know, I can squirt gas back there where you are, and you’ll pass out; it’s for obstreperous pre-persons we pick up. So you want to knock it off, or have me punch the gas button?”</p>
+   <p>“We won’t say anything,” Tim said quickly, with a look of mute terrified appeal at his father. Urging him silently to conform.</p>
+   <p>His father said nothing. The glance of urgent pleading was too much for him, and he capitulated. Anyhow, he reasoned, what happened in the truck was not crucial. It was when they reached the County Facility—where there would be, at the first sign of trouble, newspaper and TV reporters.</p>
+   <p>So they rode in silence, each with his own fears, his own schemes. Ed Gantro brooded to himself, perfecting in his head what he would do—what he <emphasis>had </emphasis>to do. And not just for Tim but all the P.P. abortion candidates; he thought through the ramifications as the truck lurched and rattled on.</p>
+   <empty-line/>
+   <p>As soon as the truck parked in the restricted lot of the County Facility and its rear doors had been swung open, Sam B. Carpenter, who ran the whole goddamn operation, walked over, stared, said, “You’ve got a grown man in there, Ferris. In fact, you comprehend what you’ve got? A protester, that’s what you’ve latched onto.”</p>
+   <p>“But he insisted he doesn’t know any math higher than adding,” Ferris said.</p>
+   <p>To Ed Gantro, Carpenter said, “Hand me your wallet. I want your actual name. Social Security number, police region stability ident—come on, I want to know who you really are.”</p>
+   <p>“He’s just a rural type,” Ferris said, as he watched Gantro pass over his lumpy wallet.</p>
+   <p>“And I want confirm prints offa his feet,” Carpenter said. “The full set. Right away—priority A.” He liked to talk that way.</p>
+   <p>An hour later he had the reports back from the jungle of interlocking security-data computers from the fake-pastoral restricted area in Virginia. “This individual graduated from Stanford College with a degree in math. And then got a master’s in psychology, which he has, no doubt about it, been subjecting us to. We’ve got to get him out of here.”</p>
+   <p>“I did have a soul,” Gantro said, “but I lost it.”</p>
+   <p>“How?” Carpenter demanded, seeing nothing about that on Gantro’s official records.</p>
+   <p>“An embolism. The portion of my cerebral cortex, where my soul was, got destroyed when I accidentally inhaled the vapors of insect spray. That’s why I’ve been living out in the country eating roots and grubs, with my boy here, Tim.”</p>
+   <p>“We’ll run an EEG on you,” Carpenter said.</p>
+   <p>“What’s that?” Gantro said. “One of those brain tests?”</p>
+   <p>To Ferris, Carpenter said. “The law says the soul enters at twelve years. And you bring this individual male adult well over thirty. We could be charged with murder. We’ve got to get rid of him. You drive him back to exactly where you found him and dump him off. If he won’t voluntarily exit from the truck, gas the shit out of him and then throw him out. That’s a national security order. Your job depends on it, also your status with the penal code of this state.”</p>
+   <p>“I belong here,” Ed Gantro said. “I’m a dummy.”</p>
+   <p>“And his kid,” Carpenter said. “He’s probably a mathematical mental mutant like you see on TV. They set you up; they’ve probably already alerted the media. Take them all back and gas them and dump them wherever you found them or, barring that, anyhow out of sight.”</p>
+   <p>“You’re getting hysterical,” Ferris said, with anger. “Run the EEG and the brain scan on Gantro, and probably we’ll have to release him, but these three juveniles—”</p>
+   <p>“All genuises,” Carpenter said. “All part of the setup, only you’re too stupid to know. Kick them out of the truck and off our premises, and deny—you get this?—deny you ever picked any of the four of them up. Stick to that story.”</p>
+   <p>“Out of the vehicle,” Ferris ordered, pressing the button that lifted the wire mesh gates.</p>
+   <p>The three boys scrambled out. But Ed Gantro remained.</p>
+   <p>“He’s not going to exit voluntarily,” Carpenter said. “Okay, Gantro, we’ll physically expel you.” He nodded to Ferris, and the two of them entered the back of the truck. A moment later they had deposited Ed Gantro on the pavement of the parking lot.</p>
+   <p>“Now you’re just a plain citizen,” Carpenter said, with relief. “You can claim all you want, but you have no proof.”</p>
+   <p>“Dad,” Tim said, “how are we going to get home?” All three boys clustered around Ed Gantro.</p>
+   <p>“You could call somebody from up there,” the Fleischhacker boy said. “I bet if Walter Best’s dad has enough gas he’d come and get us. He takes a lot of long drives; he has a special coupon.”</p>
+   <p>“Him and his wife, Mrs. Best, quarrel a lot,” Tim said. “So he likes to go driving at night alone; I mean, without her.”</p>
+   <p>Ed Gantro said, “I’m staying here. I want to be locked up in a cage.”</p>
+   <p>“But we can <emphasis>go</emphasis>,” Tim protested. Urgently, he plucked at his dad’s sleeve. “That’s the whole point, isn’t it? They let us go when they saw you. We did it!”</p>
+   <p>Ed Gantro said to Carpenter, “I insist on being locked up with the other pre-persons you have in there.” He pointed at the gaily imposing, esthetic solid-green-painted Facility Building.</p>
+   <p>To Mr. Sam B. Carpenter, Tim said, “Call Mr. Best, out where we were, on the peninsula. It’s a 669 prefix number. Tell him to come and get us, and he will. I promise. Please.”</p>
+   <p>The Fleischhacker boy added, “There’s only one Mr. Best listed in the phone book with a 669 number. Please, mister.”</p>
+   <p>Carpenter went indoors, to one of the Facility’s many official phones, looked up the number. Ian Best. He punched the number.</p>
+   <p>“You have reached a semiworking, semiloafing number,” a man’s voice, obviously that of someone half-drunk, responded. In the background Carpenter could hear the cutting tones of a furious woman, excoriating Ian Best.</p>
+   <p>“Mr. Best,” Carpenter said, “several persons whom you know are stranded down at Fourth and A Streets in Verde Gabriel, an Ed Gantro and his son, Tim, a boy identified as Ronald or Donald Fleischhacker, and another unidentified minor boy. The Gantro boy suggested you would not object to driving down here to pick them up and take them home.”</p>
+   <p>“Fourth and A Streets,” Ian Best said. A pause. “Is that the pound?”</p>
+   <p>“The County Facility,” Carpenter said.</p>
+   <p>“You son of a bitch,” Best said. “Sure I’ll come get them; expect me in twenty minutes. You have <emphasis>Ed </emphasis>Gantro there as a pre-person? Do you know he graduated from Stanford University?”</p>
+   <p>“We are aware of this,” Carpenter said stonily. “But they are not being detained; they are merely—here. Not—I repeat not—in custody.”</p>
+   <p>Ian Best, the drunken slur gone from his voice, said, “There’ll be reporters from all the media there before I get there.” Click. He had hung up.</p>
+   <p>Walking back outside, Carpenter said to the boy Tim, “Well, it seems you mickey-moused me into notifying a rabid anti-abortionist activist of your presence here. How neat, how really neat.”</p>
+   <p>A few moments passed, and then a bright-red Mazda sped up to the entrance of the Facility. A tall man with a light beard got out, unwound camera and audio gear, walked leisurely over to Carpenter. “I understand you may have a Stanford MA in math here at the Facility,” he said in a neutral, casual voice. “Could I interview him for a possible story?”</p>
+   <p>Carpenter said, “We have booked no such person. You can inspect our records.” But the reporter was already gazing at the three boys clustered around Ed Gantro.</p>
+   <p>In a loud voice the reporter called, “Mr. Gantro?”</p>
+   <p>“Yes, sir,” Ed Gantro replied.</p>
+   <p>Christ, Carpenter thought. We did lock him in one of our official vehicles and transport him here; it’ll hit all the papers. Already a blue van with the markings of a TV station had rolled onto the lot. And, behind it, two more cars.</p>
+   <empty-line/>
+   <p><strong>Abortion Facility Snuffs</strong></p>
+   <p><strong>Stanford Grad</strong></p>
+   <empty-line/>
+   <p>That was how it read in Carpenter’s mind. Or</p>
+   <empty-line/>
+   <p><strong>County Abortion Facility </strong></p>
+   <p><strong>Foiled in Illegal Attempt to . . . </strong></p>
+   <empty-line/>
+   <p>And so forth. A spot on the 6:00 evening TV news. Gantro, and when he showed up, Ian Best who was probably an attorney, surrounded by tape recorders and mikes and video cameras.</p>
+   <p>We have mortally fucked up, he thought. Mortally fucked up. They at Sacramento will cut our appropriation; we’ll be reduced to hunting down stray dogs and cats again, like before. Bummer.</p>
+   <empty-line/>
+   <p>When Ian Best arrived in his coal-burning Mercedes-Benz, he was still a little stoned. To Ed Gantro he said, “You mind if we take a scenic roundabout route back?”</p>
+   <p>“By way of what?” Ed Gantro said. He wearily wanted to leave now. The little flow of media people had interviewed him and gone. He had made his point, and now he felt drained, and he wanted to go home.</p>
+   <p>Ian Best said, “By way of Vancouver Island, British Columbia.”</p>
+   <p>With a smile, Ed Gantro said, “These kids should go right to bed. My kid and the other two. Hell, they haven’t even had any dinner.”</p>
+   <p>“We’ll stop at a McDonald’s stand,” Ian Best said. “And then we can take off for Canada, where the fish are, and lots of mountains that still have snow on them, even this time of year.”</p>
+   <p>“Sure,” Gantro said, grinning. “We can go there.”</p>
+   <p>“You want to?” Ian Best scrutinized him. “You really want to?”</p>
+   <p>“I’ll settle a few things, and then, sure, you and I can take off together.”</p>
+   <p>“Son of a bitch,” Best breathed. “You mean it.”</p>
+   <p>“Yes,” he said. “I do. Of course, I have to get my wife’s agreement. You can’t go to Canada unless your wife signs a document in writing where she won’t follow you. You become what’s called a ‘landed Immigrant.’ ”</p>
+   <p>“Then I’ve got to get Cynthia’s written permission.”</p>
+   <p>“She’ll give it to you. Just agree to send support money.”</p>
+   <p>“You think she will? She’ll let me go?”</p>
+   <p>“Of course,” Gantro said.</p>
+   <p>“You actually think our wives will let us go,” Ian Best said as he and Gantro herded the children into the Mercedes-Benz. “I’ll bet you’re right; Cynthia’d love to get rid of me. You know what she calls me, right in front of Walter? ‘An aggressive coward,’ and stuff like that. She has no respect for me.”</p>
+   <p>“Our wives,” Gantro said, “will let us go.” But he knew better.</p>
+   <p>He looked back at the Facility manager, Mr. Sam B. Carpenter, and at the truck driver, Ferris, who, Carpenter had told the press and TV, was as of this date fired and was a new and inexperienced employee anyhow.</p>
+   <p>“No,” he said. “They won’t let us go. None of them will.”</p>
+   <p>Clumsily, Ian Best fiddled with the complex mechanism that controlled the funky coal-burning engine. “Sure they’ll let us go; look, they’re just standing there. What can they do, after what you said on TV and what that one reporter wrote up for a feature story?”</p>
+   <p>“I don’t mean them,” Gantro said tonelessly.</p>
+   <p>“We could just run.”</p>
+   <p>“We are caught,” Gantro said. “Caught and can’t get out. You ask Cynthia, though. It’s worth a try.”</p>
+   <p>“We’ll never see Vancouver Island and the great ocean-going ferries steaming in and out of the fog, will we?” Ian Best said.</p>
+   <p>“Sure we will, eventually.” But he knew it was a lie, an absolute lie, just like you know sometimes when you say something that for no rational reason you know is absolutely true.</p>
+   <p>They drove from the lot, out onto the public street.</p>
+   <p>“It feels good,” Ian Best said, “to be free . . . right?” The three boys nodded, but Ed Gantro said nothing. Free, he thought. Free to go home. To be caught in a larger net, shoved into a greater truck than the metal mechanical one the County Facility uses.</p>
+   <p>“This is a great day,” Ian Best said.</p>
+   <p>“Yes,” Ed Gantro agreed. “A great day in which a noble and effective blow has been struck for all helpless things, anything of which you could say, ‘It is alive.’ ”</p>
+   <p>Regarding him intently in the narrow trickly light, Ian Best said, “I don’t want to go home; I want to take off for Canada now.”</p>
+   <p>“We <emphasis>have </emphasis>to go home,” Ed Gantro reminded him. “Temporarily, I mean. To wind things up. Legal matters, pick up what we need.”</p>
+   <p>Ian Best, as he drove, said, “We’ll never get there, to British Columbia and Vancouver Island and Stanley Park and English Bay and where they grow food and keep horses and where they have the ocean-going ferries.”</p>
+   <p>“No, we won’t,” Ed Gantro said.</p>
+   <p>“Not now, not even later?”</p>
+   <p>“Not ever,” Ed Gantro said.</p>
+   <p>“That’s what I was afraid of,” Best said and his voice broke and his driving got funny. “That’s what I thought from the beginning.”</p>
+   <p>They drove in silence, then, with nothing to say to each other. There was nothing left to say.</p>
+  </section>
+  <section>
+   <title>
+    <p>Commentary by Philip K. Dick</p>
+   </title>
+   <p><emphasis>In this I incurred the absolute hate of Joanna Russ who wrote me the nastiest letter I’ve ever received; at one point she said she usually offered to beat up people (she didn’t use the word “people”) who expressed opinions such as this. I admit that this story amounts to special pleading, and I am sorry to offend those who disagree with me about abortion on demand. I also got some unsigned hate mail, some of it not from individuals but from organizations promoting abortion on demand. Well, I have always managed to get myself into hot water. Sorry, people. But for the pre-person’s sake I am not sorry. I stand where I stand: “Hier steh’ Ich; Ich kann nicht anders,” as Martin Luther is supposed to have said. </emphasis>(1978).</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>The Pre-Persons</emphasis> 12/20/73. <emphasis>Fantasy &amp; Science Fiction, </emphasis>Oct 1974.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

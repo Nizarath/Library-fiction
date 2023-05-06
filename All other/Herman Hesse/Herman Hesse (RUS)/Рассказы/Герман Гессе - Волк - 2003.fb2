@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Герман</first-name>
+    <last-name>Гессе</last-name>
+   </author>
+   <book-title>Волк</book-title>
+   <annotation>
+    <p>Драматическая история о жизни волчьей стаи.</p>
+   </annotation>
+   <date>1904</date>
+   <coverpage>
+    <image l:href="#InderaltenSonne.jpg"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>de</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Александр </first-name>
+    <last-name>Сергиеня</last-name>
+    <nickname>Alex1801</nickname>
+    <email>1801alex@mail.ru</email>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2016-03-25">25.03.2016</date>
+   <id>FC59D06C-EC8F-4B71-A9F2-D4CDB22A3013</id>
+   <version>1.0</version>
+   <history>
+    <p>v 1.0 – создание fb2 – Александр Сергиеня</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Herman Hesse. In der alten Sonne</book-name>
+   <publisher>ИКАР</publisher>
+   <city>Москва</city>
+   <year>2003</year>
+   <isbn>5-9542-0030-0</isbn>
+   <sequence name="Классики в оригинале"/>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Герман Гессе</p>
+   <empty-line/>
+   <p>Волк</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p>Никогда еще во французских горах не было такой жутко холодной и долгой зимы. Уже не одну неделю воздух был прозрачен, сух и холоден. Днем обширные, косо лежащие снежные поля простирались матово-белым и бесконечным полотном под пронзительно голубым небом, ночью над ними ясным и маленьким кругом прокатывалась луна, жестокая, отливающая желтым морозная луна, сильный свет от которой становился на снегу синим и тусклым, принимая вид самого что ни на есть настоящего мороза. Люди избегали всяких путей и особенно высокогорных; бранясь, они лениво сидели в своих деревенских лачугах, красные окна которых мерцали ночью на фоне синего лунного сияния каким-то дымчато-мутным светом и вскоре угасали.</p>
+   <p>Это была тяжелая пора для зверей в здешних местах. Те, которые были помельче, замерзали массами – не спасались от мороза и птицы, – и их тощие тела становились добычей ястребов и волков. Но и последние тоже страшно страдали от мороза и холода. Во всей округе жило лишь несколько волчьих семейств и нужда согнала их в один, более крепкий отряд. Днем они отправлялись на промысел поодиночке. То тут, то там какой-нибудь из них пробегал по снегу, худой, голодный, настороженный, и был в своих движениях бесшумен и пуглив, точно призрак. Узкая тень зверя скользила рядом с ним по снежной поверхности. Принюхиваясь, он вытягивал свою острую морду по ветру и издавал время от времени сухой, вымученный вой. Вечерами же они выходили в полном составе и, хрипло завывая, кружили вокруг деревень. Там были надежно припрятаны скот и птица, и за прочными ставнями наготове лежали ружья. Совсем редко им удавалось захватить какую-нибудь мелкую добычу, вроде собаки, и двоих из их стаи уже пристрелили.</p>
+   <p>Мороз все еще держался. Часто волки лежали все вместе молча, вынашивая какие-то свои мысли, греясь друг подле друга, и тоскливо вслушивались в безжизненную белую пустыню, пока тот или иной из них, терзаемый лютыми муками голода, вдруг не вскакивал со своего места со свирепым рычанием. Тогда все остальные поворачивали к нему морды, покрывались дрожью и уже сообща разражались ужасным, зловещим и плачущим воем.</p>
+   <p>Наконец одна небольшая часть стаи решила уйти промышлять в более отдаленные места. Рано утром волки этой группы оставили свои берлоги, сошлись все вместе и стали возбужденно и тревожно вбирать ноздрями холодно-морозный воздух. Затем они пустились бежать живой и равномерной рысцой. Оставшиеся посмотрели им вслед широкими, стеклянными глазами, просеменили за ними с полсотни шагов, остановились в нерешительности и недоумении и потом медленно вернулись назад в свои пустые берлоги.</p>
+   <p>Ушедшие к полудню разделились. Трое из группы направились на восток, к Швейцарской Юре, остальные продолжили путь в южном направлении. Те трое были красивыми, сильными зверями, только отощавшими до крайности. Их впалые светлые животы были узкими, словно перетянутые ремнем, по бокам у них жалобно выпирали ребра, их глотки были иссохшимися, а глаза широко расширенными и полными отчаяния. Втроем они зашли далеко вглубь Юры, разживились на второй день барашком, на третий – собакой и жеребенком, и вскоре их со всех сторон кинулись преследовать разгневанные крестьяне. По тем краям, богатым деревнями и небольшими городишками, прокатилась волна тревоги и страха перед непривычными, незваными пришельцами. Почтовые сани отправлялись теперь в дорогу только с вооруженными ездоками, из деревни в деревню никто из жителей не ходил больше без ружья. В незнакомых местах волки после столь богатой добычи испытывали одновременно чувство робости и благодати; они впали в безрассудную отвагу, какой еще никогда не показывали у себя дома, и как-то средь бела дня забрались в хлев на одном крупном хуторе. Мычание коров, треск раскалывающихся деревянных перегородок, топот копыт и горячее, жаждущее поживы дыхание заполнили тесное, теплое помещение. Однако на этот раз волкам успели помешать люди. За хищников удачливым охотникам была назначена награда, это придало крестьянам мужества. И они наповал уложили двоих из них – одному пробил шею ружейный выстрел, второго скосил топор. Третьему удалось бежать и он несся прочь так долго, пока не свалился полумертвый на снег. Это был самый молодой и красивый из волков, гордое животное необузданной силы и гибких форм. Долго лежал он на снегу, успокаивая свое клокочущее дыхание. Кроваво-красные круги носились перед его глазами, и время от времени он испускал свистящий, болезненный стон. От удара брошенного топора у него была рассечена спина. Тем не менее он пришел в себя и снова поднялся на ноги. Только сейчас он увидел, как далеко он убежал. Нигде не было видно ни людей, ни домов. Прямо перед ним высилась заснеженная, величественная гора. Это был Шассераль, он решил обойти эту громадину стороной. Так как его мучила жажда, он подбирал языком маленькие ледяные кусочки с твердой корки, сковывавшей снежную поверхность.</p>
+   <p>По ту сторону горного массива он сразу же наткнулся на деревню – день уже клонился к вечеру. Сначала он подождал в густом ельнике и потом стал осторожно красться в обход садовых изгородей, ловя запах теплых хлевов. На улице никого не было. Боязливо и жадно он заглянул в пространство между домами. И тут раздался выстрел. Он высоко запрокинул голову и бросился было бежать, как уже прогремел второй. В него попали. Его беловатое брюхо покрылось сбоку кровью, которая струилась вниз густыми, клейкими каплями. И все же большими прыжками ему удалось уйти и достичь леса на другой стороне горы. Там он на мгновение затаился, прислушиваясь, и до него с двух сторон донесся шум голосов и шагов. В страхе он поднял взгляд вверх по горе. Она была крутой, поросшей лесом и очень трудной для подъема. Однако у него не оставалось другого выбора. Задыхаясь, он принялся взбираться по отвесной горной стене, в то время как внизу за ним по горе поднималась суматоха проклятий, распоряжений и огоньков фонарей. Дрожа всем телом, раненый волк карабкался вверх через полутемные еловые заросли, в то время как из его бока медленно вытекала коричневая кровь.</p>
+   <p>Холод спал. Западная часть неба была мглистой и, похоже, обещала снегопад.</p>
+   <p>Наконец-то выбившийся из сил зверь добрался до вершины. Теперь он стоял на слегка отлогом, большом снежном поле, вблизи пика Монкрозан, высоко над деревней, из которой он убежал. Голода он не чувствовал, он чувствовал только сумрачную, скребущую боль от раны. Тихое, легкое повизгивание вырвалось наружу из его опущенной пасти, его сердце билось тяжелыми и болезненными ударами, чувствуя как сверху на него невыразимо тяжким грузом давит длань смерти. Стоящая неподалеку одинокая раскидистая ель притянула его к себе; он сел у нее и тоскливым, пристальным взглядом смотрел в серую снежную ночь. Прошло полчаса. Теперь уже красно-матовый свет падал на снег, причудливый и мягкий. Скуля, волк поднялся и повернул свою красивую голову в сторону света. Там, на юго-востоке, вставала огромная и кроваво-красная луна и неторопливо поднималась выше по тусклому небу. Еще ни разу за много недель она не была такой красной и такой большой. Печальные глаза умирающего зверя, не отрываясь, глядели на блеклый диск луны, и он снова, уже из последних сил, выжал из себя слабый вой, который мучительно и бесшумно улетел в ночь.</p>
+   <p>Тут приблизились огни и шаги. Крестьяне в толстых тулупах, охотники и подростки с меховыми шапками на головах и нелепыми гетрами на ногах прокладывали себе путь по снегу. Раздалось всеобщее ликование. Толпа обнаружила истекающего кровью волка, по нему два раза выстрелили и оба раза промахнулись. Потом увидели, что он уже находился при смерти и набросились на него с палками и дубинками. Он этого уже не чувствовал.</p>
+   <p>Разбитое звериное тело люди потащили вниз, в Сен-Иммер. Они смеялись, хвастались друг перед другом, радовались предстоящей выпивке и горячему кофе, они пели песни, они источали ругательства. Ни один из них не замечал ни красоты занесенного снегом леса, ни сияния плоскогорья, ни красной луны, которая висела над Шассералем и слабое сияние которой отражалось на стволах их ружей, в снежных кристалликах и в угасших глазах убитого волка. </p>
+  </section>
+ </body>
+ <body name="comments">
+  <title>
+   <p>Комментарии</p>
+  </title>
+  <section id="c_1">
+   <p>Рассказ «Волк» («Der Wolf») написан в 1904 г. Впервые опубликован в газете «Rheinisch-Westf&#228;lische Zeitung» в 1904 г. Окончательная редакция — 1914 г.</p>
+  </section>
+ </body>
+ <binary id="InderaltenSonne.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAALQAA/+IMWElDQ19QUk9GSUxF
+AAEBAAAMSExpbm8CEAAAbW50clJHQiBYWVogB84AAgAJAAYAMQAAYWNzcE1TRlQAAAAASUVD
+IHNSR0IAAAAAAAAAAAAAAAAAAPbWAAEAAAAA0y1IUCAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARY3BydAAAAVAAAAAzZGVzYwAAAYQAAABsd3Rw
+dAAAAfAAAAAUYmtwdAAAAgQAAAAUclhZWgAAAhgAAAAUZ1hZWgAAAiwAAAAUYlhZWgAAAkAA
+AAAUZG1uZAAAAlQAAABwZG1kZAAAAsQAAACIdnVlZAAAA0wAAACGdmlldwAAA9QAAAAkbHVt
+aQAAA/gAAAAUbWVhcwAABAwAAAAkdGVjaAAABDAAAAAMclRSQwAABDwAAAgMZ1RSQwAABDwA
+AAgMYlRSQwAABDwAAAgMdGV4dAAAAABDb3B5cmlnaHQgKGMpIDE5OTggSGV3bGV0dC1QYWNr
+YXJkIENvbXBhbnkAAGRlc2MAAAAAAAAAEnNSR0IgSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAS
+c1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAFhZWiAAAAAAAADzUQABAAAAARbMWFlaIAAAAAAAAAAAAAAAAAAAAABY
+WVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAP
+hAAAts9kZXNjAAAAAAAAABZJRUMgaHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAABZJRUMg
+aHR0cDovL3d3dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIg
+c3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xv
+dXIgc3BhY2UgLSBzUkdCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALFJlZmVy
+ZW5jZSBWaWV3aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAACxSZWZl
+cmVuY2UgVmlld2luZyBDb25kaXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAB2aWV3AAAAAAATpP4AFF8uABDPFAAD7cwABBMLAANcngAAAAFYWVogAAAA
+AABMCVYAUAAAAFcf521lYXMAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAKPAAAAAnNpZyAA
+AAAAQ1JUIGN1cnYAAAAAAAAEAAAAAAUACgAPABQAGQAeACMAKAAtADIANwA7AEAARQBKAE8A
+VABZAF4AYwBoAG0AcgB3AHwAgQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADBAMYAywDQANUA
+2wDgAOUA6wDwAPYA+wEBAQcBDQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFgAWcBbgF1AXwB
+gwGLAZIBmgGhAakBsQG5AcEByQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYCLwI4AkECSwJUAl0C
+ZwJxAnoChAKOApgCogKsArYCwQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgDQwNPA1oDZgNyA34D
+igOWA6IDrgO6A8cD0wPgA+wD+QQGBBMEIAQtBDsESARVBGMEcQR+BIwEmgSoBLYExATTBOEE
+8AT+BQ0FHAUrBToFSQVYBWcFdwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZIBlkGagZ7BowG
+nQavBsAG0QbjBvUHBwcZBysHPQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgyCEYIWghuCIII
+lgiqCL4I0gjnCPsJEAklCToJTwlkCXkJjwmkCboJzwnlCfsKEQonCj0KVApqCoEKmAquCsUK
+3ArzCwsLIgs5C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxcDHUMjgynDMAM2QzzDQ0NJg1ADVoN
+dA2ODakNww3eDfgOEw4uDkkOZA5/DpsOtg7SDu4PCQ8lD0EPXg96D5YPsw/PD+wQCRAmEEMQ
+YRB+EJsQuRDXEPURExExEU8RbRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMDEyMTQxNjE4MT
+pBPFE+UUBhQnFEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaPFrIW1hb6Fx0X
+QRdlF4kXrhfSF/cYGxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3Gp4axRrsGxQb
+OxtjG4obshvaHAIcKhxSHHscoxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+HukfEx8+H2kf
+lB+/H+ogFSBBIGwgmCDEIPAhHCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNmI5QjwiPwJB8k
+TSR8JKsk2iUJJTglaCWXJccl9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhxKKIo1CkGKTgp
+aymdKdAqAio1KmgqmyrPKwIrNitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3hLhYuTC6CLrcu
+7i8kL1ovkS/HL/4wNTBsMKQw2zESMUoxgjG6MfIyKjJjMpsy1DMNM0YzfzO4M/E0KzRlNJ40
+2DUTNU01hzXCNf02NzZyNq426TckN2A3nDfXOBQ4UDiMOMg5BTlCOX85vDn5OjY6dDqyOu87
+LTtrO6o76DwnPGU8pDzjPSI9YT2hPeA+ID5gPqA+4D8hP2E/oj/iQCNAZECmQOdBKUFqQaxB
+7kIwQnJCtUL3QzpDfUPARANER0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fASAVIS0iRSNdJ
+HUljSalJ8Eo3Sn1KxEsMS1NLmkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9JT5NP3VAnUHFQ
+u1EGUVBRm1HmUjFSfFLHUxNTX1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW91dEV5JX4FgvWH1Y
+y1kaWWlZuFoHWlZaplr1W0VblVvlXDVchlzWXSddeF3JXhpebF69Xw9fYV+zYAVgV2CqYPxh
+T2GiYfViSWKcYvBjQ2OXY+tkQGSUZOllPWWSZedmPWaSZuhnPWeTZ+loP2iWaOxpQ2maafFq
+SGqfavdrT2una/9sV2yvbQhtYG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHwcktypnMBc11z
+uHQUdHB0zHUodYV14XY+dpt2+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vCfCF8gXzhfUF9
+oX4BfmJ+wn8jf4R/5YBHgKiBCoFrgc2CMIKSgvSDV4O6hB2EgITjhUeFq4YOhnKG14c7h5+I
+BIhpiM6JM4mZif6KZIrKizCLlov8jGOMyo0xjZiN/45mjs6PNo+ekAaQbpDWkT+RqJIRknqS
+45NNk7aUIJSKlPSVX5XJljSWn5cKl3WX4JhMmLiZJJmQmfyaaJrVm0Kbr5wcnImc951kndKe
+QJ6unx2fi5/6oGmg2KFHobaiJqKWowajdqPmpFakx6U4pammGqaLpv2nbqfgqFKoxKk3qamq
+HKqPqwKrdavprFys0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LCszizrrQltJy1E7WKtgG2
+ebbwt2i34LhZuNG5SrnCuju6tbsuu6e8IbybvRW9j74KvoS+/796v/XAcMDswWfB48JfwtvD
+WMPUxFHEzsVLxcjGRsbDx0HHv8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42zrbPN8+40DnQ
+utE80b7SP9LB00TTxtRJ1MvVTtXR1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF3IrdEN2W3hze
+ot8p36/gNuC94UThzOJT4tvjY+Pr5HPk/OWE5g3mlucf56noMui86Ubp0Opb6uXrcOv77Ibt
+Ee2c7ijutO9A78zwWPDl8XLx//KM8xnzp/Q09ML1UPXe9m32+/eK+Bn4qPk4+cf6V/rn+3f8
+B/yY/Sn9uv5L/tz/bf///+4AIUFkb2JlAGTAAAAAAQMAEAMDBgkAABl7AAAqiAAAOy3/2wCE
+AAoHBwcIBwoICAoOCQgJDhENCgoNERQQEBEQEBQTDxEQEBEPExMXFxkXFxMeHiAgHh4sKysr
+LDExMTExMTExMTEBCwkJCwwLDQsLDREODg4RFA4ODg4UFxAQERAQFx4WExMTExYeGx0ZGRkd
+GyEhHh4hISkpKCkpMTExMTExMTExMf/CABEIATUAyAMBIgACEQEDEQH/xAEGAAEAAgMBAQAA
+AAAAAAAAAAAABAUCAwYBBwEBAAIDAQEAAAAAAAAAAAAAAAMFAQIEBgcQAAEEAQMCBAYCAgMA
+AAAAAAMAAQIEBRESExAUIDEzBjBAISIyFWA0QSQjNRYRAAEDAQQFBwkGBQMFAAAAAAEAAgMR
+ITESBEFRIjITEGFxgZGhwSCx0UJSciMUNDDwgpIzBWDhYqKyQPFD0lNzgyQSAAEDAQQGBggF
+AwUAAAAAAAEAEQIDITFBElFhgZEiMhBxQpITBDBAobHB0VJyIOFigiPwM1NDY5MUJBMBAAIB
+AwEIAgMBAQAAAAAAAQARITFBUWEQ8HGBkaGx8cHRIDDhQGD/2gAMAwEAAhEDEQAAAPswAAAA
+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</binary>
+</FictionBook>

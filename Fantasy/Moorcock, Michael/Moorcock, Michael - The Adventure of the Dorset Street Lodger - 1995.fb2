@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>thriller</genre>
+   <author>
+    <first-name>Michael</first-name>
+    <last-name>Moorcock</last-name>
+   </author>
+   <book-title>The Adventure of the Dorset Street Lodger</book-title>
+   <annotation>
+    <p>Michael Moorcock is best known for his genre-redefining swords-and-sorcery series featuring the albino anti-hero Elric of Melniboné. Books featuring Elric include Stormbringer, The Bane of the Black Sword, and The Weird of the White Wolf, among many others. Other prominent works include the Eternal Champion series, the Warrior of Mars series, the Jerry Cornelius series, and the Hawkmoon series. Moorcock is a winner of numerous awards, including several career awards, such as being named a SFWA Grand Master and being inducted into the SF Hall of Fame, as well as being honored with the World Fantasy and Stoker life-time achievement awards.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#pic_1.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2010-04-13">13.04.2010</date>
+   <id>D11AF089-E9C9-4790-A81F-E7DFC055F70F</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>The Adventure of the Dorset Street Lodger by Michael Moorcock</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p>Say you've just learned that a wealthy relative you didn't even know existed recently passed away and has left to you, his or her only living descendant, a stately property. In fact, this doesn't happen very often, but you wouldn't know it judging from literature, particularly Victorian literature, where it sometimes seems as if eighty percent of the population is blessed with wealthy, generous, childless, and heretofore unknown relatives. Or maybe blessed isn't exactly the word, because properties that come to us in this manner seem to always be mixed up with business such as ghosts or witchcraft or ancient feuds. And how is it that so many people are so ignorant of their own familial relations to begin with? Perhaps back in Victorian times families were so huge that it was easier to misplace a few relatives here and there. Our next tale is another in which a man is contacted by a wealthy relative he never knew existed. In this case though, our contactee is a wealthy man himself, and isn't looking for any free houses to come his way simply by dint of a few fortuitous chromosomes. No, there are no haunted houses here, but plenty of trouble nonetheless.</p>
+   <empty-line/>
+   <subtitle>***</subtitle>
+   <empty-line/>
+   <p>It was one of those singularly hot Septembers, when the whole of London seemed to wilt from over-exposure to the sun, like some vast Arctic sea-beast foundering upon a tropical beach and doomed to die of unnatural exposure. Where Rome or even Paris might have shimmered and lazed, London merely gasped.</p>
+   <p>Our windows wide open to the noisy staleness of the air and our blinds drawn against the glaring light, we lay in a kind of torpor, Holmes stretched upon the sofa while I dozed in my easy chair and recalled my years in India, when such heat had been normal and our accommodation rather better equipped to cope with it. I had been looking forward to some fly fishing in the Yorkshire Dales but meanwhile, a patient of mine began to experience a difficult and potentially dangerous confinement so I could not in conscience go far from London. However, we had both planned to be elsewhere at this time and had confused the estimable Mrs. Hudson, who had expected Holmes himself to be gone.</p>
+   <p>Languidly, Holmes dropped to the floor the note he had been reading. There was a hint of irritation in his voice when he spoke.</p>
+   <p>"It seems, Watson, that we are about to be evicted from our quarters. I had hoped this would not happen while you were staying."</p>
+   <p>My friend's fondness for the dramatic statement was familiar to me, so I hardly blinked when I asked: "Evicted, Holmes?" I understood that his rent was, as usual, paid in advance for the year.</p>
+   <p>"Temporarily only, Watson. You will recall that we had both intended to be absent from London at about this time, until circumstances dictated otherwise. On that initial understanding, Mrs. Hudson commissioned Messrs Peach, Peach, Peach and Praisegod to refurbish and decorate 221B. This is our notice. They begin work next week and would be obliged if we would vacate the premises since minor structural work is involved. We are to be homeless for a fortnight, old friend. We must find new accommodations, Watson, but they must not be too far from here. You have your delicate patient and I have my work. I must have access to my files and my microscope."</p>
+   <p>I am not a man to take readily to change. I had already suffered several setbacks to my plans and the news, combined with the heat, shortened my temper a little. "Every criminal in London will be trying to take advantage of the situation," I said. "What if a Peach or Praisegod were in the pay of some new Moriarty?"</p>
+   <p>"Faithful Watson! That Reichenbach affair made a deep impression. It is the one deception for which I feel thorough remorse. Rest assured, dear friend. Moriarty is no more and there is never likely to be another criminal mind like his. I agree, however, that we should be able to keep an eye on things here. There are no hotels in the area fit for human habitation. And no friends or relatives nearby to put us up." It was almost touching to see that master of deduction fall into deep thought and begin to cogitate our domestic problem with the same attention he would give to one of his most difficult cases. It was this power of concentration, devoted to any matter in hand, which had first impressed me with his unique talents. At last he snapped his fingers, grinning like a Barbary ape, his deep-set eyes blazing with intelligence and self-mockery… "I have it, Watson. We shall, of course, ask Mrs. Hudson if she has a neighbour who rents rooms!"</p>
+   <p>"An excellent idea, Holmes!" I was amused by my friend's almost innocent pleasure in discovering, if not a solution to our dilemma, the best person to provide a solution for us!</p>
+   <p>Recovered from my poor temper, I rose to my feet and pulled the bellrope.</p>
+   <p>Within moments our housekeeper, Mrs. Hudson, was at the door and standing before us.</p>
+   <p>"I must say I am very sorry for the misunderstanding, sir," she said to me. "But patients is patients, I suppose, and your Scottish trout will have to wait a bit until you have a chance to catch them. But as for you, Mr. Holmes, it seems to me that hassassination or no hassassination, you could still do with a nice seaside holiday. My sister in Hove would look after you as thoroughly as if you were here in London."</p>
+   <p>"I do not doubt it, Mrs. Hudson. However, the assassination of one's host is inclined to cast a pall over the notion of vacations and while Prince Ulrich was no more than an acquaintance and the circumstances of his death all too clear, I feel obliged to give the matter a certain amount of consideration. It is useful to me to have my various analytical instruments to hand. Which brings us to a problem I am incapable of solving-if not Hove, Mrs. Hudson, where? Watson and I need bed and board and it must be close by."</p>
+   <p>Clearly the good woman disapproved of Holmes's unhealthy habits but despaired of converting him to her cause.</p>
+   <p>She frowned to express her lack of satisfaction with his reply and then spoke a little reluctantly. "There's my sister-in-law's over in Dorset Street, sir. Number 2, sir. I will admit that her cookery is a little too Frenchified for my taste, but it's a nice, clean, comfortable house with a pretty garden at the back and she has already made the offer."</p>
+   <p>"And she is a discreet woman, is she Mrs. Hudson, like yourself?"</p>
+   <p>"As a church, sir. My late husband used to say of his sister that she could hold a secret better than the Pope's confessor."</p>
+   <p>"Very well, Mrs. Hudson. It is settled! We shall decant for Dorset Street next Friday, enabling your workman to come in on Monday. I will arrange for certain papers and effects to be moved over and the rest shall be secure, I am sure, beneath a good covering. Well, Watson, what do you say? You shall have your vacation, but it will be a little closer to home that you planned and with rather poorer fishing!"</p>
+   <p>My friend was in such positive spirits that it was impossible for me to retain my mood and indeed events began to move so rapidly from that point on, that any minor inconvenience was soon forgotten.</p>
+   <empty-line/>
+   <p>Our removal to Number 2, Dorset Street, went as smoothly as could be expected and we were soon in residence. Holmes's untidiness, such a natural part of the man, soon gave the impression that our new chambers had been occupied by him for at least a century. Our private rooms had views of a garden which might have been transported from Sussex and our front parlour looked out onto the street, where, at the corner, it was possible to observe customers coming and going from the opulent pawn-brokers, often on their way to the Wheatsheaf Tavern, whose "well-aired beds" we had rejected in favour of Mrs. Ackroyd's somewhat luxurious appointments. A further pleasing aspect of the house was the blooming wisteria vine, of some age, which crept up the front of the building and further added to the countrified aspect. I suspect some of our comforts were not standard to all her lodgers. The good lady, of solid Lancashire stock, was clearly delighted at what she called "the honour" of looking after us and we both agreed we had never experienced better attention. She had pleasant, broad features and a practical, no nonsense manner to her which suited us both. While I would never have said so to either woman, her cooking was rather a pleasant change from Mrs. Hudson's good, plain fare.</p>
+   <p>And so we settled in. Because my patient was experiencing a difficult progress towards motherhood, it was important that I could be easily reached, but I chose to spend the rest of my time as if I really were enjoying a vacation. Indeed, Holmes himself shared something of my determination, and we had several pleasant evenings together, visiting the theatres and music halls for which London is justly famed. While I had developed an interest in the modern problem plays of Ibsen and Pinero, Holmes still favoured the atmosphere of the Empire and the Hippodrome, while Gilbert and Sullivan at the Savoy was his idea of perfection. Many a night I have sat beside him, often in the box which he preferred, glancing at his rapt features and wondering how an intellect so high could take such pleasure in low comedy and Cockney character-songs.</p>
+   <p>The sunny atmosphere of 2 Dorset Street actually seemed to lift my friend's spirits and give him a slightly boyish air which made me remark one day that he must have discovered the "waters of life," he was so rejuvenated. He looked at me a little oddly when I said this and told me to remind him to mention the discoveries he had made in Tibet, where he had spent much time after "dying" during his struggle with Professor Moriarty. He agreed, however, that this change was doing him good. He was able to continue his researches when he felt like it, but did not feel obliged to remain at home. He even insisted that we visit the kinema together, but the heat of the building in which it was housed, coupled with the natural odours emanating from our fellow customers, drove us into the fresh air before the show was over. Holmes showed little real interest in the invention. He was inclined to recognize progress only where it touched directly upon his own profession. He told me that he believed the kinema had no relevance to criminology, unless it could be used in the reconstruction of an offence and thus help lead to the capture of a perpetrator.</p>
+   <p>We were returning in the early evening to our temporary lodgings, having watched the kinema show at Madame Tussaud's in Marylebone Road, when Holmes became suddenly alert, pointing his stick ahead of him and saying in that urgent murmur I knew so well, "What do you make of this fellow, Watson? The one with the brand new top hat, the red whiskers and a borrowed morning coat who recently arrived from the United States but has just returned from the north-western suburbs where he made an assignation he might now be regretting?"</p>
+   <p>I chuckled at this. "Come off it, Holmes!" I declared. "I can see a chap in a topper lugging a heavy bag, but how you could say he was from the United States and so on, I have no idea. I believe you're making it up, old man."</p>
+   <p>"Certainly not, my dear Watson! Surely you have noticed that the morning coat is actually beginning to part on the back seam and is therefore too small for the wearer. The most likely explanation is that he borrowed a coat for the purpose of making a particular visit. The hat is obviously purchased recently for the same reason while the man's boots have the 'gaucho' heel characteristic of the South Western United States, a style found only in that region and adapted, of course, from a Spanish riding boot. I have made a study of human heels, Watson, as well as of human souls!"</p>
+   <p>We kept an even distance behind the subject of our discussion. The traffic along Baker Street was at its heaviest, full of noisy carriages, snorting horses, yelling drivers and all of London's varied humanity pressing its way homeward, desperate to find some means of cooling its collective body. Our "quarry" had periodically to stop and put down his bag, occasionally changing hands before continuing.</p>
+   <p>"But why do you say he arrived recently? And has been visiting north-west London?" I asked.</p>
+   <p>"That, Watson, is elementary. If you think for a moment, it will come clear to you that our friend is wealthy enough to afford the best in hats and Gladstone bags, yet wears a morning coat too small for him. It suggests he came with little luggage, or perhaps his luggage was stolen, and had no time to visit a tailor. Or he went to one of the ready-made places and took the nearest fit. Thus, the new bag, also, which he no doubt bought to carry the object he has just acquired. That he did not realize how heavy it was is clear and I am sure if he were not staying nearby, he would have hired a cab for himself. He could well be regretting his acquisition. Perhaps it was something very costly, but not exactly what he was expecting to get… He certainly did not realize how awkward it would be to carry, especially in this weather. That suggests to me that he believed he could walk from Baker Street Underground Railway station, which in turn suggests he has been visiting north-west London, which is the chiefly served from Baker Street."</p>
+   <p>It was rarely that I questioned my friend's judgments, but privately I found this one too fanciful. I was a little surprised, therefore, when I saw the top-hatted gentleman turn left into Dorset Street and disappear. Holmes immediately increased his pace. "Quickly, Watson! I believe I know where he's going."</p>
+   <empty-line/>
+   <p>Rounding the corner, we were just in time to see the American arrive at the door of Number 2 Dorset Street, and put a latch-key to the lock!</p>
+   <p>"Well, Watson," said Holmes in some triumph. "Shall we attempt to verify my analysis?" Whereupon he strode up to our fellow lodger, raised his hat and offered to help him with the bag.</p>
+   <p>The man reacted rather dramatically, falling backwards against the railings and almost knocking his own hat over his eyes. He glared at Holmes, panting, and then with a wordless growl, pushed on into the front hall, lugging the heavy Gladstone behind him and slamming the door in my friend's face. Holmes lifted his eyebrows in an expression of baffled amusement. "No doubt the efforts with the bag have put the gentleman in poor temper, Watson!"</p>
+   <p>Once within, we were in time to see the man, hat still precariously on his head, heaving his bag up the stairs. The thing had come undone and I caught a glimpse of silver, the gleam of gold, the representation, I thought, of a tiny human hand. When he recognized us he stopped in some confusion, then murmured in a dramatic tone:</p>
+   <p>"Be warned, gentleman. I possess a revolver and I know how to use it."</p>
+   <p>Holmes accepted this news gravely and informed the man that while he understood an exchange of pistol fire to be something in the nature of an introductory courtesy in Texas, in England it was still considered unnecessary to support one's cause by letting off guns in the house. This I found a little like hypocrisy from one given to target practice in the parlour!</p>
+   <p>However, our fellow lodger looked suitably embarrassed and began to recover himself. "Forgive me, gentlemen," he said. "I am a stranger here and I must admit I'm rather confused as to who my friends and enemies are. I have been warned to be careful. How did you get in?"</p>
+   <p>"With a key, as you did, my dear sir. Doctor Watson and myself are guests here for a few weeks."</p>
+   <p>"Doctor Watson!" The man's voice established him immediately as an American. The drawling brogue identified him as a South Westerner and I trusted Holmes's ear enough to believe that he must be Texan.</p>
+   <p>"I am he." I was mystified by his evident enthusiasm but illuminated when he turned his attention to my companion.</p>
+   <p>"Then you must be Mr. Sherlock Holmes! Oh, my good sir, forgive me my bad manners! I am a great admirer, gentlemen. I have followed all your cases. You are, in part, the reason I took rooms near Baker Street. Unfortunately, when I called at your house yesterday, I found it occupied by contractors who could not tell me where you were. Time being short, I was forced to act on my own account. And I fear I have not been too successful! I had no idea that you were lodging in this very building!"</p>
+   <p>"Our landlady," said Holmes dryly, "is renowned for her discretion. I doubt if her pet cat has heard our names in this house."</p>
+   <p>The American was about thirty-five years old, his skin turned dark by the sun, with a shock of red hair, a full red moustache and a heavy jaw. If it were not for his intelligent green eyes and delicate hands, I might have mistaken him for an Irish prize fighter. "I'm James Macklesworth, sir, of Galveston, Texas. I'm in the import/export business over there. We ship upriver all the way to Austin, our State Capital, and have a good reputation for honest trading. My grandfather fought to establish our Republic and was the first to take a steam-boat up the Colorado to trade with Port Sabatini and the river-towns." In the manner of Americans, he offered us a resume of his background, life and times, even as we shook hands. It is a custom necessary in those wild and still largely unsettled regions of the United States.</p>
+   <p>Holmes was cordial, as if scenting a mystery to his taste, and invited the Texan to join us in an hour, when, over a whiskey and soda, we could discuss his business in comfort.</p>
+   <p>Mr. Macklesworth accepted with alacrity and promised that he would bring with him the contents of his bag and a full explanation of his recent behaviour.</p>
+   <empty-line/>
+   <p>Before James Macklesworth arrived, I asked Holmes if he had any impression of the man. I saw him as an honest enough fellow, perhaps a business man who had got in too deep and wanted Sherlock Holmes to help him out. If that were all he required of my friend, I was certain Holmes would refuse the case. On the other hand, there was every chance that this was an unusual affair.</p>
+   <p>Holmes said that he found the man interesting and, he believed, honest. But he could not be sure, as yet, if he were the dupe of some clever villain or acting out of character. "For my guess is there is definitely a crime involved here, Watson, and I would guess a pretty devilish one. You have no doubt heard of the Fellini Perseus."</p>
+   <p>"Who has not? It is said to be Fellini's finest work-cast of solid silver and chased with gold. It represents Perseus with the head of Medusa, which itself is made of sapphires, emeralds, rubies and pearls."</p>
+   <p>"Your memory as always is excellent, Watson. For many years it was the prize in the collection of Sir Geoffrey Macklesworth, son of the famous Iron Master said to be the richest man in England. Sir Geoffrey, I gather, died one of the poorest. He was fond of art but did not understand money. This made him, I understand, prey to many kinds of social vampires! In his younger years he was involved with the aesthetic movement, a friend of Whistler's and Wilde's. In fact Wilde was, for a while, a good friend to him, attempting to dissuade him from some of his more spectacular blue and white excesses!"</p>
+   <p>"Macklesworth!" I exclaimed.</p>
+   <p>"Exactly, Watson." Holmes paused to light his pipe, staring down into the street where the daily business of London continued its familiar and unspectacular round. "The thing was stolen about ten years ago. A daring robbery which I, at the time, ascribed to Moriarty. There was every indication it had been spirited from the country and sold abroad. Yet I recognized it-or else a very fine copy-in that bag James Macklesworth was carrying up the stairs. He would have read of the affair, I'm sure, especially considering his name. Therefore he must have known the Fellini statue was stolen. Yet clearly he went somewhere today and returned here with it. Why? He's no thief, Watson, I'd stake my life on it."</p>
+   <p>"Let us hope he intends to illuminate us," I said as a knock came at our door.</p>
+   <empty-line/>
+   <p>Mr. James Macklesworth was a changed man. Bathed and dressed in his own clothes, he appeared far more confident and at ease. His suit was of a kind favoured in his part of the world, with a distinctly Spanish cut to it, and he wore a flowing tie beneath the wings of a wide-collared soft shirt, a dark red waistcoat and pointed oxblood boots. He looked every inch the romantic frontiersman.</p>
+   <p>He began by apologizing for his costume. He had not realized, he said, until he arrived in London yesterday, that his dress was unusual and remarkable in England. We both assured him that his sartorial appearance was in no way offensive to us. Indeed, we found it attractive.</p>
+   <p>"But it marks me pretty well for who I am, is that not so, gentlemen?"</p>
+   <p>We agreed that in Oxford Street there would not be a great many people dressed in his fashion.</p>
+   <p>"That's why I bought the English clothes," he said. "I wanted to fit in and not be noticed. The top hat was too big and the morning coat was too small. The trousers were the only thing the right size. The bag was the largest of its shape I could find."</p>
+   <p>"So, suitably attired, as you thought, you took the Metropolitan Railway this morning to-?"</p>
+   <p>"To Willesden, Mr. Holmes. Hey! How did you know that? Have you been following me all day?"</p>
+   <p>"Certainly not, Mr. Macklesworth. And in Willesden you took possession of the Fellini Perseus did you not?"</p>
+   <p>"You know everything ahead of me telling it, Mr. Holmes! I need speak no more. Your reputation is thoroughly deserved, sir. If I were not a rational man, I would believe you possessed of psychic powers!"</p>
+   <p>"Simple deductions, Mr. Macklesworth. One develops a skill, you know. But it might take a longer acquaintance for me to deduce how you came to cross some six thousand miles of land and sea to arrive in London, go straight to Willesden and come away with one of the finest pieces of Renaissance silver the world has ever seen. All in a day, too."</p>
+   <p>"I can assure you, Mr. Holmes, that such adventuring is not familiar to me. Until a few months ago I was the owner of a successful shipping and wholesaling business. My wife died several years ago and I never remarried. My children are all grown now and married, living far from Texas. I was a little lonely, I suppose, but reasonably content. That all changed, as you have guessed, when the Fellini Perseus came into my life."</p>
+   <p>"You received word of it in Texas, Mr. Macklesworth?"</p>
+   <p>"Well, sir, it's an odd thing. Embarrassing, too. But I guess I'm going to have to be square with you and come out with it. The gentleman from whom the Perseus was stolen was a cousin of mine. We'd corresponded a little. In the course of that correspondence he revealed a secret which has now become a burden to me. I was his only living male relative, you see, and he had family business to do. There was another cousin, he thought in New Orleans, but he had yet to be found. Well, gentlemen, the long and the short of it was that I swore on my honour to carry out Sir Geoffrey's instructions in the event of something happening to him or to the Fellini Perseus. His instructions led me to take a train for New York and from New York the Arcadia for London. I arrived yesterday afternoon."</p>
+   <p>"So you came all this way, Mr. Macklesworth, on a matter of honour?" I was somewhat impressed.</p>
+   <p>"You could say so, sir. We set high store by family loyalty in my part of the world. Sir Geoffrey's estate, as you know, went to pay his debts. But that part of my trip has to do with a private matter. My reason for seeking you out was connected with it. I believe Sir Geoffrey was murdered, Mr. Holmes. Someone was blackmailing him and he spoke of 'financial commitments.' His letters increasingly showed his anxiety and were often rather rambling accounts of his fears that there should be nothing left for his heirs. I told him he had no direct heirs and he might as well reconcile himself to that. He did not seem to take in what I said. He begged me to help him. And he begged me to be discreet. I promised. One of the last letters I had from him told me that if I ever heard news of his death, I must immediately sail for England and upon arriving take a good sized bag to 18 Dahlia Gardens, Willesden Green, North West London, and supply proof of my identity, whereupon I would take responsibility for the object most precious to the Macklesworths. Whereupon I must return to Galveston with all possible speed. Moreover I must swear to keep the object identified with the family name forever.</p>
+   <p>"This I swore and only a couple of months later I read in the Galveston paper the news of the robbery. Not long after, there followed an account of poor Sir Geoffrey's suicide. There was nothing else I could do, Mr. Holmes, but follow his instructions, as I had sworn I would. However I became convinced that Sir Geoffrey had scarcely been in his right mind at the end. I suspected he feared nothing less than murder. He spoke of people who would go to any lengths to possess the Fellini Silver. He did not care that the rest of his estate was mortgaged to the hilt or that he would die, effectively, a pauper. The Silver was of overweening importance. That is why I suspect the robbery and his murder are connected."</p>
+   <p>"But the verdict was suicide," I said. "A note was found. The coroner was satisfied."</p>
+   <p>"The note was covered in blood was it not?" Holmes murmured from where he sat lounging back in his chair, his finger tips together upon his chin.</p>
+   <p>"I gather that was the case, Mr. Holmes. But since no foul play was suspected, no investigation was made."</p>
+   <p>"I see. Pray continue, Mr. Macklesworth."</p>
+   <p>"Well, gentlemen, I've little to add. All I have is a nagging suspicion that something is wrong. I do not wish to be party to a crime, nor to hold back information of use to the police, but I am honour-bound to fulfil my pledge to my cousin. I came to you not necessarily to ask you to solve a crime, but to put my mind at rest if no crime were committed."</p>
+   <p>"A crime has already been committed, if Sir Geoffrey announced a burglary that did not happen. But it is not much of one, I'd agree. What did you want of us in particular, Mr. Macklesworth?"</p>
+   <p>"I was hoping you or Dr Watson might accompany me to the address-for a variety of obvious reasons. I am a law-abiding man, Mr. Holmes and wish to remain so. There again, considerations of honour… "</p>
+   <p>"Quite so," interrupted Holmes. "Now, Mr. Macklesworth, tell us what you found at 18 Dahlia Gardens, Willesden!"</p>
+   <p>"Well, it was a rather dingy house of a kind I'm completely unfamiliar with. All crowded along a little road about a quarter of a mile from the station. Not at all what I'd expected. Number 18 was dingier than the rest-a poor sort of a place altogether, with peeling paint, an overgrown yard, bulging garbage cans and all the kind of thing you expect to see in East Side New York, not in a suburb of London.</p>
+   <p>"All this notwithstanding, I found the dirty knocker and hammered upon the door until it was opened by a surprisingly attractive woman of what I should describe as the octoroon persuasion. A large woman, too, with long but surprisingly well-manicured hands. Indeed, she was impeccable in her appearance, in distinct contrast to her surroundings. She was expecting me. Her name was Mrs. Gallibasta. I knew the name at once. Sir Geoffrey had often spoken of her, in terms of considerable affection and trust. She had been, she told me, Sir Geoffrey's housekeeper. He had enjoined her, before he died, to perform this last loyal deed for him. She handed me a note he had written to that effect. Here it is, Mr. Holmes."</p>
+   <p>He reached across and gave it to my friend who studied it carefully. "You recognize the writing, of course?"</p>
+   <p>The American was in no doubt. "It is in the flowing, slightly erratic, masculine hand I recognize. As you can see, the note says that I must accept the family heirloom from Mrs. Gallibasta and, in all secrecy, transport it to America, where it must remain in my charge until such time as the other 'missing' Macklesworth cousin was found. If he had male heirs, it must be passed on to one of them at my discretion. If no male heir can be found, it should be passed on to one of my daughters-I have no living sons-on condition that they add the Macklesworth name to their own. I understand, Mr. Holmes, that to some extent I am betraying my trust. But I know so little of English society and customs. I have a strong sense of family and did not know I was related to such an illustrious line until Sir Geoffrey wrote and told me. Although we only corresponded, I feel obliged to carry out his last wishes. However, I am not so foolish as to believe I know exactly what I am doing and require guidance. I want to assure myself that no foul play has been involved and I know that, of all the men in England, you will not betray my secret."</p>
+   <p>"I am flattered by your presumption, Mr. Macklesworth. Pray, could you tell me the date of the last letter you received from Sir Geoffrey?"</p>
+   <p>"It was undated, but I remember the post mark. It was the fifteenth day of June of this year."</p>
+   <p>"I see. And the date of Sir Geoffrey's death?"</p>
+   <p>"The thirteenth. I supposed him to have posted the letter before his death but it was not collected until afterward."</p>
+   <p>"A reasonable assumption. And you are very familiar, you say, with Sir Geoffrey's hand-writing."</p>
+   <p>"We corresponded for several years, Mr. Holmes. The hand is identical. No forger, no matter how clever, could manage those idiosyncrasies, those unpredictable lapses into barely readable words. But usually his hand was a fine, bold, idiosyncratic one. It was not a forgery, Mr. Holmes. And neither was the note he left with his housekeeper."</p>
+   <p>"But you never met Sir Geoffrey?"</p>
+   <p>"Sadly, no. He spoke sometimes of coming out to ranch in Texas, but I believe other concerns took up his attention.</p>
+   <p>"Indeed, I knew him slightly some years ago, when we belonged to the same club. An artistic type, fond of Japanese prints and Scottish furniture. An affable, absent-minded fellow, rather retiring. Of a markedly gentle disposition. Too good for this world, as we used to say."</p>
+   <p>"When would that have been, Mr. Holmes?" Our visitor leaned forward, showing considerable curiosity.</p>
+   <p>"Oh, about twenty years ago, when I was just starting in practice. I was able to provide some evidence in a case concerning a young friend of his who had got himself into trouble. He was gracious enough to believe I had been able to turn a good man back to a better path. I recall that he frequently showed genuine concern for the fate of his fellow creatures. He remained a confirmed bachelor, I understand. I was sorry to hear of the robbery. And then the poor man killed himself. I was a little surprised, but no foul play was suspected and I was involved in some rather difficult problems at the time. A kindly sort of old-fashioned gentleman. The patron of many a destitute young artist. It was art, I gather, which largely reduced his fortune."</p>
+   <p>"He did not speak much of art to me, Mr. Holmes. I fear he had changed considerably over the intervening years. The man I knew became increasingly nervous and given to what seemed somewhat irrational anxieties. It was to quell these anxieties that I agreed to carry out his request. I was, after all, the last of the Macklesworth and obliged to accept certain responsibilities. I was honoured, Mr. Holmes, by the responsibility, but disturbed by what was asked of me."</p>
+   <p>"You are clearly a man of profound common sense, Mr. Macklesworth, as well as a man of honour. I sympathize entirely with your predicament. You were right to come to us and we shall do all we can to help!"</p>
+   <p>The relief of the American's face was considerable. "Thank you, Mr. Holmes. Thank you, Doctor Watson. I feel I can now act with some coherence."</p>
+   <p>"Sir Geoffrey had already mentioned his housekeeper, I take it?"</p>
+   <p>"He had sir, in nothing less than glowing terms. She had come to him about five years ago and had worked hard to try to put his affairs in order. If it were not for her, he said, he would have faced the bankruptcy court earlier. Indeed, he spoke so warmly of her that I will admit to the passing thought that-well, sir, that they were… "</p>
+   <p>"I take your meaning, Mr. Macklesworth. It might also explain why your cousin never married. No doubt the class differences were insurmountable, if what we suspect were the case."</p>
+   <p>"I have no wish to impugn the name of my relative, Mr. Holmes."</p>
+   <p>"But we must look realistically at the problem, I think." Holmes gestured with his long hand. "I wonder if we might be permitted to see the statue you picked up today?"</p>
+   <p>"Certainly, sir. I fear the newspaper in which it was wrapped has come loose here and there-"</p>
+   <p>"Which is how I recognized the Fellini workmanship," said Holmes, his face becoming almost rapturous as the extraordinary figure was revealed. He reached to run his fingers over musculature which might have been living flesh in miniature, it was so perfect. The silver itself was vibrant with some inner energy and the gold chasing, the precious stones, all served to give the most wonderful impression of Perseus, a bloody sword in one hand, his shield on his arm, holding up the snake-crowned head which glared at us through sapphire eyes and threatened to turn us to stone!</p>
+   <p>"It is obvious why Sir Geoffrey, whose taste was so refined, would have wished this to remain in the family," I said. "Now I understand why he became so obsessed towards the end. Yet I would have thought he might have willed it to a museum-or made a bequest-rather than go to such elaborate lengths to preserve it. It's something which the public deserves to see."</p>
+   <p>"I agree with you completely, sir. That is why I intend to have a special display room built for it in Galveston. But until that time, I was warned by both Sir Geoffrey and by Mrs. Gallibasta, that news of its existence would bring immense problems-not so much from the police as from the other thieves who covet what is, perhaps, the world's finest single example of Florentine Renaissance silver. It must be worth thousands!</p>
+   <p>"I intend to insure it for a million dollars, when I get home," volunteered the Texan.</p>
+   <p>"Perhaps you would entrust the sculpture with us for the night and until tomorrow evening?" Holmes asked our visitor.</p>
+   <p>"Well, sir, as you know I am supposed to take the Arcadia back to New York. She sails tomorrow evening from Tilbury. She's one of the few steamers of her class leaving from London. If I delay, I shall have to go back via Liverpool."</p>
+   <p>"But you are prepared to do so, if necessary?"</p>
+   <p>"I cannot leave without the Silver, Mr. Holmes. Therefore, while it remains in your possession, I shall have to stay." John Macklesworth offered us a brief smile and the suggestion of a wink. "Besides, I have to say that the mystery of my cousin's death is of rather more concern than the mystery of his last wishes."</p>
+   <p>"Excellent, Mr. Macklesworth. I see we are of like mind. It will be a pleasure to put whatever talents I possess at your disposal. Sir Geoffrey resided, as I recall, in Oxfordshire."</p>
+   <p>"About ten miles from Oxford itself, he said. Near a pleasant little market town called Witney. The house is known as Cogges Old Manor and it was once the centre of a good-sized estate, including a working farm. But the land was sold and now only the house and grounds remain. They, too, of course, are up for sale by my cousin's creditors. Mrs. Gallibasta said that she did not believe it would be long before someone bought the place. The nearest hamlet is High Cogges. The nearest railway station is at South Leigh, about a mile distant. I know the place as if it were my own, Mr. Holmes, Sir Geoffrey's descriptions were so vivid."</p>
+   <p>"Indeed! Did you, by the by, contact him originally?"</p>
+   <p>"No, sir! Sir Geoffrey had an interest in heraldry and lineage. In attempting to trace the descendants of Sir Robert Macklesworth, our mutual great-grandfather, he came across my name and wrote to me. Until that time I had no idea I was so closely related to the English aristocracy! For a while Sir Geoffrey spoke of my inheriting the title-but I am a convinced republican. We don't go much for titles and such in Texas-not unless they are earned!"</p>
+   <p>"You told him you were not interested in inheriting the title?"</p>
+   <p>"I had no wish to inherit anything, sir." John Macklesworth rose to leave. "I merely enjoyed the correspondence. I became concerned when his letters grew increasingly more anxious and rambling and he began to speak of suicide."</p>
+   <p>"Yet still you suspect murder?"</p>
+   <p>"I do, sir. Put it down to an instinct for the truth-or an overwrought imagination. It is up to you!"</p>
+   <p>"I suspect it is the former, Mr. Macklesworth. I shall see you here again tomorrow evening. Until then, goodnight."</p>
+   <p>We shook hands.</p>
+   <p>"Goodnight, gentlemen. I shall sleep easy tonight, for the first time in months." And with that our Texan visitor departed.</p>
+   <empty-line/>
+   <p>"What do you make of it, Watson?" Holmes asked, as he reached for his long-stemmed clay pipe and filled it with tobacco from the slipper he had brought with him. "Do you think our Mr. Macklesworth is 'the real article' as his compatriots would say?"</p>
+   <p>"I was very favourably impressed, Holmes. But I do believe he has been duped into involving himself in an adventure which, if he obeyed his own honest instincts, he would never have considered. I do not believe that Sir Geoffrey was everything he claimed to be. Perhaps he was when you knew him, Holmes, but since then he has clearly degenerated. He keeps an octoroon mistress, gets heavily into debt and then plans to steal his own treasure in order to preserve it from creditors. He involves our decent Texan friend, conjuring up family ties and knowing how important such things are to Southerners. Then, I surmise, he conspires with his housekeeper to fake his own death."</p>
+   <p>"And gives his treasure up to his cousin? Why would he do that, Watson?"</p>
+   <p>"He's using Macklesworth to transport it to America, where he plans to sell it."</p>
+   <p>"Because he doesn't want to be identified with it, or caught with it. Whereas Mr. Macklesworth is so manifestly innocent he is the perfect one to carry the Silver to Galveston. Well, Watson, it's not a bad theory and I suspect much of it is relevant."</p>
+   <p>"But you know something else?"</p>
+   <p>"Just a feeling, really. I believe that Sir Geoffrey is dead. I read the coroner's report. He blew his brains out, Watson. That was why there was so much blood on the suicide note. If he planned a crime, he did not live to complete it."</p>
+   <p>"So the housekeeper decided to continue with the plan?"</p>
+   <p>"There's only one flaw there, Watson. Sir Geoffrey appears to have anticipated his own suicide and left instructions with her. Mr. Macklesworth identified the handwriting. I read the note myself. Mr. Macklesworth has corresponded with Sir Geoffrey for years. He confirmed that the note was clearly Sir Geoffrey's."</p>
+   <p>"So the housekeeper is also innocent. We must look for a third party."</p>
+   <p>"We must take an expedition into the countryside, Watson." Holmes was already consulting his Bradshaw's. "There's a train from Paddington in the morning which will involve a change at Oxford and will get us to South Leigh before lunch. Can your patient resist the lure of motherhood for another day or so, Watson?"</p>
+   <p>"Happily there's every indication that she is determined to enjoy an elephantine confinement."</p>
+   <p>"Good, then tomorrow we shall please Mrs. Hudson by sampling the fresh air and simple fare of the English countryside."</p>
+   <p>And with that my friend, who was in high spirits at the prospect of setting that fine mind to something worthy of it, sat back in his chair, took a deep draft of his pipe, and closed his eyes.</p>
+   <empty-line/>
+   <p>We could not have picked a better day for our expedition. While still warm, the air had a balmy quality to it and even before we had reached Oxford we could smell the delicious richness of an early English autumn. Everywhere the corn had been harvested and the hedgerows were full of colour. Thatch and slate slid past our window which looked out to what was best in an England whose people had built to the natural roll of the land and planted with an instinctive eye for beauty as well as practicality. This was what I had missed in Afghanistan and what Holmes had missed in Tibet, when he had learned so many things at the feet of the High Lama himself. Nothing ever compensated, in my opinion, for the wealth and variety of the typical English country landscape.</p>
+   <p>In no time we were at South Leigh station and able to hire a pony-cart with which to drive ourselves up the road to High Cogges. We made our way through winding lanes, between tall hedges, enjoying the sultry tranquillity of a day whose silence was broken only by the sound of bird-song and the occasional lowing of a cow.</p>
+   <p>We drove through the hamlet, which was served by a Norman church and a grocer's shop which also acted as the local post office. High Cogges itself was reached by a rough lane, little more than a farm track leading past some picturesque farm cottages with thatched roofs, which seemed to have been there since the beginning of time and were thickly covered with roses and honeysuckle, a rather vulgar modern house whose owner had made a number of hideous additions in the popular taste of the day, a farmhouse and outbuildings of the warm, local stone which seemed to have grown from out of the landscape as naturally as the spinney and orchard behind it, and then we had arrived at the locked gates of Cogges Old Manor which bore an air of neglect. It seemed to me that it had been many years since the place had been properly cared for.</p>
+   <p>True to form, my friend began exploring and had soon discovered a gap in a wall through which we could squeeze in order to explore the grounds. These were little more than a good-sized lawn, some shrubberies and dilapidated greenhouses, an abandoned stables, various other sheds, and a workshop which was in surprisingly neat order. This, Holmes told me, was where Sir Geoffrey had died. It had been thoroughly cleaned. He had placed his gun in a vice and shot himself through the mouth. At the inquest, his housekeeper, who had clearly been devoted to him, had spoken of his money worries, his fears that he had dishonoured the family name. The scrawled note had been soaked in blood and only partially legible, but it was clearly his.</p>
+   <p>"There was no hint of foul play, you see, Watson. Everyone knew that Sir Geoffrey led the Bohemian life until he settled here. He had squandered the family fortune, largely on artists and their work. No doubt some of his many modern canvasses would become valuable, at least to someone, but at present the artists he had patronized had yet to realize any material value. I have the impression that half the denizens of the Cafe Royal depended on the Macklesworth millions until they finally dried up. I also believe that Sir Geoffrey was either distracted in his last years, or depressed. Possibly both. I think we must make an effort to interview Mrs. Gallibasta. First, however, let's visit the post office-the source of all wisdom in these little communities."</p>
+   <empty-line/>
+   <p>The post office-general store was a converted thatched cottage, with a white picket fence and a display of early September flowers which would not have been out of place in a painting. Within the cool shade of the shop, full of every possible item a local person might require, from books to boiled sweets, we were greeted by the proprietress whose name over her doorway we had already noted.</p>
+   <p>Mrs. Beck was a plump, pink woman in plain prints and a starched pinafore, with humorous eyes and a slight pursing of the mouth which suggested a conflict between a natural warmth and a slightly censorious temperament. Indeed, this is exactly what we discovered. She had known both Sir Geoffrey and Mrs. Gallibasta. She had been on good terms with a number of the servants, she said, although one by one they had left and had not been replaced.</p>
+   <p>"There was talk, gentlemen, that the poor gentlemen was next to destitute and couldn't afford new servants. But he was never behind with the wages and those who worked for him were loyal enough. Especially his housekeeper. She had an odd, distant sort of air, but there's no question she looked after him well and since his prospects were already known, she didn't seem to be hanging around waiting for his money."</p>
+   <p>"Yet you were not fond of the woman?" murmured Holmes, his eyes studying an advertisement for toffee.</p>
+   <p>"I will admit that I found her a little strange, sir. She was a foreign woman, Spanish I think. It wasn't her gypsy looks that bothered me, but I never could get on with her. She was always very polite and pleasant in her conversation. I saw her almost every day, too-though never in church. She'd come in here to pick up whatever small necessities they needed. She always paid cash and never asked for credit. Though I had no love for her, it seemed that she was supporting Sir Geoffrey, not the other way around. Some said she had a temper to her and that once she had taken a rake to an under-footman, but I saw no evidence of it. She'd spend a few minutes chatting with me, sometimes purchase a newspaper, collect whatever mail there was and walk back up the lane to the manor. Rain or shine, sir, she'd be here. A big, healthy woman she was. She'd joke about what a handful it all was, him and the estate, but she didn't seem to mind. I only knew one odd thing about her. When she was sick, no matter how sick she became, she always refused a doctor. She had a blind terror of the medical profession, sir. The very suggestion of calling Doctor Shapiro would send her into screaming insistence that she needed no 'sawbones.' Otherwise, she was what Sir Geoffrey needed, him being so gentle and strange and with his head in the clouds. He was like that since a boy."</p>
+   <p>"But given to irrational fears and notions, I gather?"</p>
+   <p>"Not so far as I ever observed, sir. He never seemed to change. She was the funny one. Though he stayed at the house for the past several years and I only saw him occasionally. But when I did he was his usual sunny self."</p>
+   <p>"That's most interesting, Mrs. Beck. I am grateful to you. I think I will have a quarter-pound of your best bullseyes, if you please. Oh, I forgot to ask. Do you remember Sir Geoffrey receiving any letters from America?"</p>
+   <p>"Oh, yes, sir. Frequently. He looked forward to them, she said. I remember the envelope and the stamps. It was almost his only regular correspondent."</p>
+   <p>"And Sir Geoffrey sent his replies from here?"</p>
+   <p>"I wouldn't know that, sir. The mail's collected from a pillar-box near the station. You'll see it, if you're going back that way."</p>
+   <p>"Mrs. Gallibasta, I believe, has left the neighbourhood."</p>
+   <p>"Not two weeks since, sir. My son carried her boxes to the station for her. She took all her things. He mentioned how heavy her luggage was. He said if he hadn't attended Sir Geoffrey's service at St James's himself he'd have thought she had him in her trunk. If you'll pardon the levity, sir."</p>
+   <p>"I am greatly obliged to you, Mrs. Beck." The detective lifted his hat and bowed. I recognized Holmes's brisk, excited mood. He was on a trail now and had scented some form of quarry. As we left, he murmured: "I must go round to 221B as soon as we get back and look in my early files."</p>
+   <p>As I drove the dog-cart back to the station, Holmes scarcely spoke a further word. He was lost in thought all the way back to London. I was used to my friend's moods and habits and was content to let that brilliant mind exercise itself while I gave myself up to the world's concerns in the morning's Telegraph.</p>
+   <empty-line/>
+   <p>Mr. Macklesworth joined us for tea that afternoon. Mrs. Ackroyd had outdone herself with smoked salmon and cucumber sandwiches, small savouries, scones and cakes. The tea was my favourite Darjeeling, whose delicate flavour is best appreciated at that time in the afternoon, and even Holmes remarked that we might be guests at Sinclair's or the Grosvenor.</p>
+   <p>Our ritual was overseen by the splendid Fellini Silver which, perhaps to catch the best of the light, Holmes had placed in our sitting-room window, looking out to the street. It was as if we ate our tea in the presence of an angel. Mr. Macklesworth balanced his plate on his knee wearing an expression of delight. "I have heard of this ceremony, gentlemen, but never expected to be taking part in a High Tea with Mr. Sherlock Holmes and Doctor Watson!"</p>
+   <p>"Indeed, you are doing no such thing, sir," Holmes said gently. "It is a common misconception, I gather, among our American cousins that High- and Afternoon-tea are the same thing. They are very different meals, taken at quite different times. High Tea was in my day only eaten at certain seats of learning, and was a hot, early supper. The same kind of supper, served in a nursery, has of late been known as High Tea. Afternoon-tea, which consists of a conventional cold sandwich selection, sometimes with scones, clotted cream and strawberry jam, is eaten by adults, generally at four o'clock. High Tea, by and large, is eaten by children at six o'clock. The sausage was always very evident at such meals when I was young." Holmes appeared to shudder subtly.</p>
+   <p>"I stand corrected and instructed, sir," said the Texan jovially, and waved a delicate sandwich by way of emphasis. Whereupon all three of us broke into laughter-Holmes at his own pedantry and Mr. Macklesworth almost by way of relief from the weighty matters on his mind.</p>
+   <p>"Did you discover any clues to the mystery in High Cogges?" our guest wished to know.</p>
+   <p>"Oh, indeed, Mr. Macklesworth," said Holmes, "I have one or two things to verify, but think the case is solved." He chuckled again, this time at the expression of delighted astonishment on the American's face.</p>
+   <p>"Solved, Mr. Holmes?"</p>
+   <p>"Solved, Mr. Macklesworth, but not proven. Doctor Watson, as usual, contributed greatly to my deductions. It was you, Watson, who suggested the motive for involving this gentleman in what, I believe, was a frightful and utterly cold-blooded crime."</p>
+   <p>"So I was right, Mr. Holmes! Sir Geoffrey was murdered!"</p>
+   <p>"Murdered or driven to self-murder, Mr. Macklesworth, it is scarcely material."</p>
+   <p>"You know the culprit, sir?</p>
+   <p>"I believe I do. Pray, Mr. Macklesworth," now Holmes pulled a piece of yellowed paper from an inner pocket, "would you look at this? I took it from my files on the way here and apologize for its somewhat dusty condition."</p>
+   <p>Frowning slightly, the Texan accepted the folded paper and then scratched his head in some puzzlement, reading aloud. "My dear Holmes, Thank you so much for your generous assistance in the recent business concerning my young painter friend… Needless to say, I remain permanently in your debt. Yours very sincerely… " He looked up in some confusion. "The notepaper is unfamiliar to me, Mr. Holmes. Doubtless the Athenaeum is one of your clubs. But the signature is false."</p>
+   <p>"I had an idea you might determine that, sir," said Holmes, taking the paper from our guest. Far from being discommoded by the information, he seemed satisfied by it. I wondered how far back the roots of this crime were to be found. "Now, before I explain further, I feel a need to demonstrate something. I wonder if you would be good enough to write a note to Mrs. Gallibasta in Willesden. I would like you to tell her that you have changed your mind about returning to the United States and have decided to live in England for a time. Meanwhile, you intend to place the Fellini Silver in a bank vault until you go back to the United States, whereupon you are considering taking legal advice as to what to do with the statue."</p>
+   <p>"If I did that, Mr. Holmes, I would not be honouring my vow to my cousin. And I would be telling a lie to a lady."</p>
+   <p>"Believe me, Mr. Macklesworth, if I assure you, with all emphasis, that you will not be breaking a promise to your cousin and you will not be telling a lie to a lady. Indeed, you will be doing Sir Geoffrey Macklesworth and, I hope, both our great nations, an important service if you follow my instructions."</p>
+   <p>"Very well, Mr. Holmes," said Macklesworth, firming his jaw and adopting a serious expression, "if that's your word, I'm ready to go along with whatever you ask."</p>
+   <p>"Good man, Macklesworth!" Sherlock Holmes's lips were drawn back a little from his teeth, rather like a wolf which sees its prey finally become vulnerable. "By the by, have you ever heard in your country of a creature known as 'Little Peter' or sometimes 'French Pete'?"</p>
+   <p>"Certainly I have. He was a popular subject in the sensational press and remains so to this day. He operated out of New Orleans about a decade ago. Jean 'Petit Pierre' Fromental. An entertainer of some sort. He was part Arcadian and, some said, part Cree. A powerful, handsome man. He was famous for a series of particularly vicious murders of well-known dignitaries in the private rooms of those establishments for which Picayune is famous. A woman accomplice was also involved. She was said to have lured the men to their deaths. Fromental was captured eventually but the woman was never arrested. Some believe it was she who helped him escape when he did. As I remember, Mr. Holmes, Fromental was never caught. Was there not some evidence that he, in turn, had been murdered by a woman? Do you think Fromental and Sir Geoffrey were both victims of the same murderess?"</p>
+   <p>"In a sense, Mr. Macklesworth. As I said, I am reluctant to give you my whole theory until I have put some of it to the test. But none of this is the work of a woman, that I can assure you. Will you do as I say?"</p>
+   <p>"Count on me, Mr. Holmes. I will compose the telegram now."</p>
+   <p>When Mr. Macklesworth had left our rooms, I turned to Holmes, hoping for a little further illumination, but he was nursing his solution to him as if it were a favourite child. The expression on his face was extremely irritating to me. "Come, Holmes, this won't do! You say I helped solve the problem, yet you'll give me no hint as to the solution. Mrs. Gallibasta is not the murderess, yet you say a murder is most likely involved. My theory-that Sir Geoffrey had the Silver spirited away and then killed himself so that he would not be committing a crime, as he would if he had been bankrupted-seems to confirm this. His handwriting has identified him as the author of letters claiming Mr. Macklesworth as a relative-Macklesworth had nothing to do with that-and then suddenly you speak of some Louisiana desperado known as 'Little Pierre,' who seems to be your main suspect until Mr. Macklesworth revealed that he was dead."</p>
+   <p>"I agree with you, Watson, that it seems very confusing. I hope for illumination tonight. Do you have your revolver with you, old friend?"</p>
+   <p>"I am not in the habit of carrying a gun about, Holmes."</p>
+   <p>At this, Sherlock Holmes crossed the room and produced a large shoe-box which he had also brought from 221B that afternoon. From it he produced two modern Webley revolvers and a box of ammunition. "We may need these to defend our lives, Watson. We are dealing with a master criminal intelligence. An intelligence both patient and calculating, who has planned this crime over many years and now believes there is some chance of being thwarted."</p>
+   <p>"You think Mrs. Gallibasta is in league with him and will warn him when the telegram arrives?"</p>
+   <p>"Let us just say, Watson, that we must expect a visitor tonight. That is why the Fellini Silver stands in our window, to be recognized by anyone who is familiar with it."</p>
+   <p>I told my friend that at my age and station I was losing patience for this kind of charade, but reluctantly I agreed to position myself where he instructed and, taking a firm grip on my revolver, settled down for the night.</p>
+   <empty-line/>
+   <p>The night was almost as sultry as the day and I was beginning to wish that I had availed myself of lighter clothing and a glass of water when I heard a strange, scraping noise from somewhere in the street and risked a glance down from where I stood behind the curtain. I was astonished to see a figure, careless of any observer, yet fully visible in the yellow light of the lamps, climbing rapidly up the wisteria vine!</p>
+   <p>Within seconds the man-for man it was, and a gigantic individual, at that-had slipped a knife from his belt and was opening the catch on the window in which the Fellini Silver still sat. It was all I could do to hold my position. I feared the fellow would grasp the statue and take it out with him. But then common sense told me that, unless he planned to lower it from the window, he must come in and attempt to leave by the stairs.</p>
+   <p>The audacious burglar remained careless of onlookers, as if his goal so filled his mind that he was oblivious to all other considerations. I caught a glimpse of his features in the lamp-light. He had thick, wavy hair tied back in a bandanna, a couple of days' stubble on his chin and dark, almost negroid skin I guessed at once that he was a relative of Mrs. Gallibasta.</p>
+   <p>Then he had snapped back the catch of the window and I heard his breath hissing from his lips as he raised the sash and slipped inside.</p>
+   <p>The next moment Holmes emerged from his hiding place and levelled the revolver at the man who turned with the blazing eyes of a trapped beast, knife in hand, seeking escape.</p>
+   <p>"There is a loaded revolver levelled at your head, man," said Holmes evenly, "and you would be wise to drop that knife and give yourself up!"</p>
+   <p>With a wordless snarl, the intruder flung himself towards the Silver, placing it between himself and our guns. "Shoot if you dare!" he cried. "You will be destroying more than my unworthy life! You will be destroying everything you have conspired to preserve! I underestimated you, Macklesworth. I thought you were an easy dupe-dazzled by the notion of being related to a knight of the realm, with whom you had an intimate correspondence! I worked for years to discover everything I could about you. You seemed perfect. You were willing to do anything, so long as it was described as a matter of family honour. Oh, how I planned! How I held myself in check! How patient I was. How noble in all my deeds! All so that I would one day own not merely that fool Geoffrey's money, but also his most prized treasure! I had his love-but I wanted everything else besides!"</p>
+   <p>It was then I realized suddenly what Holmes had been telling me. I almost gasped aloud as I understood the truth of the situation!</p>
+   <p>At that moment I saw a flash of silver and heard the sickening sound of steel entering flesh. Holmes fell back, his pistol dropping from his hand and with a cry of rage I discharged my own revolver, careless of Fellini or his art, in my belief that my friend was once again to be taken from me-this time before my eyes.</p>
+   <p>I saw Jean-Pierre Fromental, alias Linda Gallibasta, fall backwards, arms raised, and crash through the window by which he had entered. With a terrible cry he staggered, flailed at the air, then fell into an appalling silence.</p>
+   <p>At that moment, the door burst open and in came John Macklesworth, closely followed by our old friend Inspector Lestrade, Mrs. Beck and one or two other tenants of 2 Dorset Street.</p>
+   <p>"It's all right, Watson," I heard Holmes say, a little faintly. "Only a flesh wound. It was foolish of me not to think he could throw a Bowie-knife! Get down there, Lestrade, and see what you can do. I'd hoped to take him alive. It could be the only way we'll be able to locate the money he has been stealing from his benefactor over all these years. Good night to you, Mr. Macklesworth. I had hoped to convince you of my solution, but I had not expected to suffer quite so much injury in the performance." His smile was faint and his eyes were flooded with pain.</p>
+   <p>Luckily, I was able to reach my friend before he collapsed upon my arm and allowed me to lead him to a chair, where I took a look at the wound. The knife had stuck in his shoulder and, as Holmes knew, had done no permanent damage, but I did not envy him the discomfort he was suffering.</p>
+   <empty-line/>
+   <p>Poor Macklesworth was completely stunned. His entire notion of things had been turned topsy-turvy and he was having difficulty taking everything in. After dressing Holmes's wound, I told Macklesworth to sit down while I fetched everyone a brandy. Both the American and myself were bursting to learn everything Holmes had deduced, but contained ourselves until my friend would be in better health. Now that the initial shock was over, however, he was in high spirits and greatly amused by our expressions.</p>
+   <p>"Your explanation was ingenious, Watson, and touched on the truth, but I fear it was not the answer. If you will kindly look in my inside jacket pocket, you will find two pieces of paper there. Would you be good enough to draw them out so that we might all see them?"</p>
+   <p>I did as my friend instructed. One piece contained the last letter Sir Geoffrey had written to John Macklesworth and, ostensibly, left with Mrs. Gallibasta. The other, far older, contained the letter John Macklesworth had read out earlier that day. Although there was a slight similarity to the handwriting, they were clearly by different authors.</p>
+   <p>"You said this was the forgery," said Holmes, holding up the letter in his left hand, "but unfortunately it was not. It is probably the only example of Sir Geoffrey's handwriting you have ever seen, Mr. Macklesworth."</p>
+   <p>"You mean he dictated everything to his-to that devil?"</p>
+   <p>"I doubt, Mr. Macklesworth, that your namesake had ever heard of your existence."</p>
+   <p>"He could not write to a man he had never heard of, Mr. Holmes!"</p>
+   <p>"Your correspondence, my dear sir, was not with Sir Geoffrey at all, but with the man who lies on the pavement down there. His name, as Doctor Watson has already deduced, is Jean-Pierre Fromental. No doubt he fled to England after the Picayune murders and got in with the Bohemian crowd surrounding Lord Alfred Douglas and others, eventually finding exactly the kind of dupe he was looking for. It is possible he kept his persona of Linda Gallibasta all along. Certainly that would explain why he became so terrified at the thought of being examined by a doctor-you'll recall the postmistresses words. It is hard to know if he was permanently dressing as a woman-that, after all, is how he had lured his Louisiana victims to their deaths-and whether Sir Geoffrey knew much about him, but clearly he made himself invaluable to his employer and was able, bit by bit, to salt away the remains of the Macklesworth fortune. But what he really craved, was the Fellini Silver, and that was when he determined the course of action which led to his calculating deception of you, Mr. Macklesworth. He needed a namesake living not far from New Orleans. As an added insurance he invented another cousin. By the simple device of writing to you on Sir Geoffrey's stationery he built up an entire series of lies, each of which had the appearance of verifying the other. Because, as Linda Gallibasta, he always collected the mail, Sir Geoffrey was never once aware of the deception."</p>
+   <p>It was John Macklesworth's turn to sit down suddenly as realization dawned. "Good heavens, Mr. Holmes. Now I understand!"</p>
+   <p>"Fromental wanted the Fellini Silver. He became obsessed with the notion of owning it. But he knew that if he stole it there was little chance of his ever getting it out of the country. He needed a dupe. That dupe was you, Mr. Macklesworth. I regret that you are probably not a cousin of the murdered man. Neither did Sir Geoffrey fear for his Silver. He appears quite reconciled to his poverty and had long since assured that the Fellini Silver would remain in trust for his family or the public forever. In respect of the Silver he was sheltered from all debt by a special covenant with Parliament. There was never a danger of the piece going to his creditors. There was, of course, no way, in those circumstances, that Fromental could get the Silver for himself. He had to engineer first a burglary-and then a murder, which looked like a consequence of that burglary. The suicide note was a forgery, but hard to decipher. His plan was to use your honesty and decency, Mr. Macklesworth, to carry the Silver through to America. Then he planned to obtain it from you by any means he found necessary."</p>
+   <p>Macklesworth shuddered. "I am very glad I found you, Mr. Holmes. If I had not, by coincidence, chosen rooms in Dorset Street, I would even now be conspiring to further that villain's ends!"</p>
+   <p>"As, it seems, did Sir Geoffrey. For years he trusted Fromental. He appears to have doted on him, indeed. He was blind to the fact that his estate was being stripped of its remaining assets. He put everything down to his own bad judgment and thanked Fromental for helping him! Fromental had no difficulty, of course, in murdering Sir Geoffrey when the time came. It must have been hideously simple. That suicide note was the only forgery, as such, in the case, gentlemen. Unless, of course, you count the murderer himself."</p>
+   <p>Once again, the world had been made a safer and saner place by the astonishing deductive powers of my friend Sherlock Holmes.</p>
+   <empty-line/>
+   <subtitle>Postscript</subtitle>
+   <empty-line/>
+   <p>And that was the end of the Dorset Street affair. The Fellini Silver was taken by the Victoria and Albert Museum who, for some years, kept it in the special "Macklesworth" Wing before it was transferred, by agreement, to the Sir John Soane Museum. There the Macklesworth name lives on. John Macklesworth returned to America a poorer and wiser man. Fromental died in hospital, without revealing the whereabouts of his stolen fortune, but happily a bank book was found at Willesden and the money was distributed amongst Sir Geoffrey's creditors, so that the house did not have to be sold. It is now in the possession of a genuine Macklesworth cousin. Life soon settled back to normal and it was with some regret that we eventually left Dorset Street to take up residence again at 221B. I have occasion, even today, to pass that pleasant house and recall with a certain nostalgia the few days when it had been the focus of an extraordinary adventure.</p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="pic_1.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CAKoAf4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwwKrS80/7q8VH0b8KP4fvVACj5vmrpfDn
+yxSNu/j/APZa5sfd4rovD/FrJj+//wCy0yKux0ofa3FO37qqo3yrTw3y0uY5Szvy33qXNQA/
+3aPMbdQBZB3MtODbar72b+GjdSETfSl+Zaaj7uq078KQyRGXutOH+7UYpQ1TKIEu9lXhqPMZ
+erVFnbRn/ZojECwknrQX+8u6q+dtB/3mp8pPKTFv9qoy600fe5qUIrEUcocwwct91qnHzfw0
+Y2/w077rUxAW20B1WmnnbRigB3VeKdsz1akC0hZlbhmqrAB/3qePlqLd60b/APaoAcW+amhv
+9qoy2d1G6gC5G6l+WpZdp6VVR9rfepxfctACl8NxSxOzEfNUBb/aoEjL1pAaIdf71ODY/iqg
+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
+9qUbm+4n/AmqWOHczMEZz9Kd8u1fl+bPzUcwyHyuuWY/0qzp+15gjr2LdaiPzLtpbRtk0TFu
+1KWwR3PQNHtIpNGjmK5Z+jY6cbq0LdGRblo1VfMX+JulQ+ErnT49JZb24WNdnPzdaoS+KLKx
+d2ErTfKV2ov/ALNXjShOc2kj1ueKgrs5fV02KinqjMtZSfNjPpVm/vGvGDBGAzu61VT7w+b+
+GvWpx5Y6nlzfNIn+60X+9U6Lv3L8ox8270qE/wDLL60Szb3EIbCD5nb1artczvYmEkQf92ss
+jZ+ZuiipXfd8pbp1qvsmfEUYUZ+6m3+H1Zq2hoFxOqzGZY5P4uKic4Q+I1hSnPYzBI5TeFVx
+u+agSZxipNQ0O/05HuPkVOjbD1/Csy3ld3Od33vmoTjNXiTOLg7Mty/MjN/t1X/+KqZztT/g
+VRn5qYh6Ni1dQv8AerJf71ayf8esvzf3qyH6mqgEhwq5ZWwurhEO732rzVML/tVseH036mi7
+u39aKkrRbKpR5pJHVabaadAiAWVyP7zvbOf6Vrl9KRAvnNk/34XH/oS1s6Sjx2k5LDbnb933
+q9J+7lRpHbcT95q+VrYu82tfv/4B9HGLjGyt9x5/e6dpF1Fv86COTq204x+FcXewFbgqGXAr
+1a58mTTYfmR3z93b9TXlWrjF1Jx/F/jXtYCq53R5eMpxSTKpVC33qaUXs1OcfM3zN/3zSbR/
+f/SvRPLE2L/eWmfdb71P2ejL+dT2VnLf3SW8a8nq3oPWqAn0rTZdRulUK3lD77V3NtZ+WiqP
+/Hafp+mxWVsIYxwPvf7VXkT/AD6VnJ3MZyuKkW1eaUqu2ndKb96ouZibV3U8BaD8q7hTSuOr
+VIxx+7QAvekpaBBt+WgfLQFpcbaoB4K0h20w+1ITuXlqA5RT7VF96pB92m9aCRR8vWkP+9Tt
+uV5pp+98rUAC96A+1ud1CbhT9maBDg6lvumm4Vi3zfLSiHd/FTvK29aoCAqoalELO3G6pRFv
+faKtW9uyZzQHKVhA23dtaoH3bua2xEzJ92q8lmp6L81AGWAzVYjhmVdwWrcVsu/mrqQqq7Qt
+AGfHC7rzuqeO3YfeqyiYbmnFlSgpFZ4tn8VcV4ze7Dxb3b7F2VW/j/2qm8SeKZY757G0dURP
+vyr8xz6f7NchcTyzP88rf3tzNk04xOiFLqyL59vCqi/rUYTbj5W5+77052Rv73vubNWLeJ3i
+d93Rh+FFzYqvu3cf3qYSzVLJ8zN8tMibarZpxAcImVuVzxT403ozM68fdXb1o3Mzj5W6f1Fa
+FpCrKGKr9wr/AOPUpSsOMbiR/vXttm7vn/0KqMo2zPhv42rYd4rRhvdcgfcX5uf71Y8rK7l+
+xeohqXNW0E+81RxKzbVCsT/dWnjlvvU2WUp+5RsDPztitTInkkUKqSTMSP4E5xVY7GbcElH+
+0zU9IVhxKWXdu+5u5qUb1X5G69FZf60e6BCRsUMrsQW+WkjG5qZKEkdFC7D901Ki7XVQ38NA
+Ez/wfL/HUMgdpn/dME37i23+GpX+6n1p92+9Hw38C/1pDOw8L6OsyrdzIuzdvZ3b8hmuikiV
+PtHlxKc7vmxgD5d3y1W8LPstYWMSyD5Yk3HoeP8A4qtjU7dlupleWJJHd/3Snp+6+9/wKvns
+ROU6ruevSjyQSRz/AIrilfSbhtybUcKdq7a84t/9a+PSvRvFE7RaZdWyLw5RjuX/AGQRXnFv
+8sz/AEr0sB/COLGfGTP92kPenlm+b5fl3Uw12nKKn+pl+X+9+FZb/fb5a1k/1Mvy1lSff4qo
+AwT/AHTWx4f2f2nH5i/J/F/31WRGMr/DWxoEmzVY2VGfBHy+vzVNX4GXR+NHr+nm2TTJ3h9f
+4vw4q5PcxLdxZlXaFNY1rrappV9bHS7z/W7/ADBGCE6KQakvNYsZ5cixuYfkP+stiDXx88PN
+1G2v6se/GoiC+mX+ybX5l+XHfp8hryrUl3XDH3rvr/UbNrJFDYZMMzYx2rz+/kVnyN3Wvfy6
+m4p3PPx0k4pIqF/9hf8AvqjK7vu/rTyu3OVWmHbu+5XqXPKA/Mu7bW74cXyruLYGJK/NtrE3
+KqnC9q3/AA2c3C47ItKQpbHYIflpQ+1qjDfJTifmrM5yTfmgvuaq+acNpqQJM7qcPmpg7Uua
+AJfrRupvzNSUAP3bVPzfNTd/y0mNtKfloEAbdR8v96j+GkxuoAB8vRqbmlpNuV4qgHGmhacF
+/wBqigkeF+WpE46/+PVD/s1Mn+1UlRJgPm4apBGrNytRhtnymnB2ZeGo5h8qJURFbcFqcFAw
++WqwelL4pFWLxKsvHFMHvVTzmC1Mj5X71PmDkJkRdwYKtSk/eqsZlHyjdVPUNXt7CIPcy4z9
+1cZJ/wCA07hyFqedIULyNhEXczelebap4m1O8u5VjuZo7fcWRImxx/tGjXdVbUb5nCuYAq7E
+Y/w/7tY5XOXP93haqKN4wsPIV7WaU/fI4bNVAvz/AHV6Vbt7dpEVP4dtadvYwp1VTQ52Nowu
+YhG7dinBpdv3mHy+ldN5KJ/BSPCn+yKz9sV7JnKFGVfvU8bgq4Va6OS3ibrtP/Aaoy2qfwLT
+jUE4GVvbPJ9e3/Av6VYE0wQr5yww7vWlkg2tu29GqtJ8sytIzEf3a1VmRqiR0VWOJVf5fSmn
+5kXDKeagO9pdybs9top0e7c6lvmyv8NUIm61CUZ85ZjhvWpj83T+9TN37p22/wAVIDV0bR5d
+Sl3DoP4nauon8Jw21oyu3zlN0bMcZ/3R/FUfheNmtJGErJhPlVOp/Gu3s9S+xaaQlpbR5Rt8
+z/M7fOOn95vr/dryMTiZ+0smejRoQ5Oax4rqdr9ku0Xa204b5lxVf70w/wB2tfxIWe4gcvkf
+w/L0FZBb99+FepB3gmefUjabJvuqv+9SSn53H/TP8utPLZRc+tMf/Wv9KtEo9K8LyzNpk0Qa
+KMbo9srnkHcP/wBqtLVLp/7Vmd7tblwy7pVXg/IV+Wuc0eG5miSK2dghj3P/APFVsy6Clpde
+VcytNwN2/wDwrw6vIpO57EYvSxja3qEV1p8yomfkX7q9CF2nmuGg+W4b/dr0vUbZItJuvuj9
+wSFx9a80j/17f7ld2BacGkceLi01cnf3bvUZ+9T3+993vTT96uw5RyL8j5b9azJNoc/NWpHt
+2TZXP/AazJPnc/Lj8aqO4pbDAfm4Zq19C3DUkcNggjDN/vVkDaTyv6Vr6Jj7V/wKir8DKo/G
+j121uZbSzvA6eZFIxYMB0bdS6vqTTS/JaTf6t9/y8jp/hWV9oTyZvLl2YJ6t15p05zdsqXqn
+9ycNnH/Aa+UVJc/O0fQ390yL1y+mWxKMOm3I46Vwd+R5ig+/8Nd5f8aNbZlUjH3d33eDXAXj
+fvF+le7gtmeXjug8Iu2oZItq7hVo1HJ9yu088qH7pre8NHFw2W7L/WsZ1wnC9qv6BcrHdMhb
+GV+Wn0JZ3Ib5aC3y1DHJ8vWh5f8AarMyOY1TxDdw30kMLqERtv3fvVb0PWJruZlnlY/3a568
+VX1Cf7v32q1oXy6mi/71U46GtjvEOf4aeKrRu1TZ3VmYyJN9O3Z/u1EGpwK7qBD/APgVOP3a
+jDbql/h+9SDlG/epOlP2mhBnrTJ5RnWlC5H3alC0/wDhoK5SEj0pu1i1WOtAX5uKOYnlK/zL
+0Wn/AMIqcBdvK0mz/ZoDlGJxTt+KeEU9KCmWoAYGb/x6no7N1NNI+7inbNqikVEXO6miXB5p
+Pu5qtPMqKzu2ERdxo5TQluL5ba1lmPRP7rda4zULyXWbhZXTYgRsKrfw81P57axrHlGVhCQW
+X02r0rT0vTbe1tjcXEywpGjq5dePlbbt/WonUVNHVRo3OSkiZogp3Bxgfe/z61G8LrLtdvqv
+92rt9f2893KtojbN+VbHP5VWQtJK7uzElq25nYfKWIBhKto67ly1VEZQvFSozbfu1kyiyZtr
+D5mNNe4+Xmoz8q8/pULtupRiHMEk9RvM396mvyzVBK+1K05RDZbjH8VUZJs7qJ33VW+taxiZ
+Ska+n7Z4nUJmWM7v+A96rz8Xdx/v/wBan0TcL0KjMN6Mv6VFejbqVyu3+P8A9mpL4yn8Fw+7
+8tMRdyvjd96pgvyf8B/iqNOEf5v46og7rwmzLYupVfufNXRSzW6bFLtIyOdybcDHDf8As1cv
+4b82W3KI6oSnzMwz8u2tJ4F+fzGaThv4to6DtXhVoJ1mexB/u0cl4odZbpGRFT5+VXpWEf8A
+Xf8AAa3/ABL/AK2HA+UO38NYJ+Wb7tezR/ho8qr8bJ/vJQVw5z/cpw5T71Ifml/4BWhmdzoD
+qtrJ8rbvJ2ja38X+1W9IN0SNswyKnf8A2utYGhbmt3z/AHK0571NzMVVBsX7x968DERbnoe/
+RtyXY3Vyr2U21ekBU/rXmSf64f7ldzfalFJDOsZ84GIr8i5ArhU5uF/3a78DBwg7nn42abVi
+x/F+NSmJf7tQ/wDLSrMibdtdxxEJ3Kj421kS/fb5v4q2Zdm05duV+6rdaxn272+9TgKQ3p6V
+s6N/x9J8q/erH+XitjRObtF3N1oq/Ay6P8RHfou+0m+999v51Yl8pJvu7/3b/wAPeqcdmHtJ
+pjLN8mflV+Dz/FSiwQXG37TcbShO4yV89K19z34yfLsVtR2f2fHsXb8nzfka4C55dfpXb3tm
+y2KMZpfnHr7fw1xMm5HH0r1cHa2h5eN3RaxuUfSoJfunFWP93+7UMv3a6zhK7/caqoLK3H3v
+rVp/ut8v8NVsVpEg1E8Q3qIEO04HX1rRsNblumkSRFTjgrXNfhSJuRt26pcUBanK/apvm6vV
+vQv+QrF/wKs3O9zU0Fy9tKJUbBH8W2go9ERtqripBXGW/iG4DjeqOv5V1EFx5kQb1rGSaIcS
+S5u0trdpXb5UFYX/AAlOHbZDkdtxqzr7/wDEql+buP51x+1gv3//AB2rgkxcp6VaXC3NrHMn
+3Xq0jbWrH0L/AJBkH+7WpWfUUiyCrUbstxUI4X71NeVU6so/GgRPn/apwaqiTKzcOp4/vVLv
+6VNx8pOHXd92n59BVXfjbSh2bq1FwjEtUtVgcfLuqTd60XFykp4WgPUZfNJv+aqDlJc5amnj
+qzVFv2t96o3m3L92gZK8u1eK5/X7xkWKGNtufmf/AHa1y/XdXJT3KPNcXEn3n+4v8loiaQjr
+cdp13DptzaXl1E0ieW37peCfmOBmq2o6lNfu2dqRlmfylbjLHdWa9yrTM0zck/3aBdW+75y1
+XyK9zbn0sPi+Td2G3cdtRR3iL/A1WG1C3W0mhjQbpFxub+lZSelVy3E5GtHeQlfnZl/CrAuU
+Xo/6Vig+tSRyMjbqnlDmNY3Kn+Jfzpvmq3R1/Osty3cNUTsp3fLRyD5jWfhfvf8Aj1VJzWe/
+8VMLf7VWoClMlk5plMLN6mjew71fKZcxraQWS7jYbv4u3saS9+bUblv9uotKdvt0Q3Hr/Spr
+xcajOu3jeKz+0a/YHJyi4XtUI+ZZfrU/yq20Liol/wCXiqIO08JLv+T+/H+H3a2pZYmSXHPA
+/wDQP/rVg+GInma38tf+WQ3f9810Ev2S2ldvNTmNPkX5j0NeJiP4zPXpfw0cb4lRl2fL8u/5
+fyrm34lPy11Pih1kVGH99fl/4DXMSLl3/wB0V6uH/ho8ytpUZKn3W9Kl27ZuV/gqNPu80/7z
+/d/hrYzOw0aGW7tUEdx5K4+dlTcTW2mjWY+d1e5fZu3THODWP4WfKbf9lq6Yuw+RV/gP414G
+JnONSyPaoxThdlDUIYo7GdY0VF8tl2qK8reX7Nccrnj7tenazeRQaZczOuEQfd9T2FeTO7SS
+ly2SWr0MuUuR8xxY5xurFk3M0zcFUH+yKV5JR1mf/gVRR/LSO+WruOMl+2So3O0/8BqvI4dm
+NMNIauJEiTZurX0NcXqVigsF+98ta+lzeRcCYIxwNx5qKvwGtH40egxq39nzfK2NxzVl4Uac
+fum2lDtbJrFi1YravF9jm64LZTjd+NW31hZV/wCPCYbELn5U6A8s3NeDOjO57ca0A1GJU0yF
+gx3f7TH0rzu5+/XZXd9CYRhLgf39ycfN0/irjLpv355xXpYSDS1POxMk5aF8r8zVXl+7U5O5
+2/3qhl+7/wACrrOIjdFClt38NUfm3fdrRkVfKb+9tqsibtvy96cZAMj2pKhdcpu+ZfWnSQ7V
+Mw2+WX2rSEYbaVqRN8W5k5G37vpTEVwlKRj+KnemGo+XacUAIflYfWt2z17a6RPD1O3dnpWD
+/C2aQfKd3zf99dKLXA6rW5lfTdobqy1zZ+VGppupnTY7sV9GpzvuTihRsB2eiP8A8SyHP92t
+MSbv4q5jSr+FLSOLzV3j+HOK1ftWxN3v/DXPPmTHyXNTflvvVzPiyZx9mQM2z5m+VutbCTM1
+c/4nffLAu7+9TpO7BwsV9GnlXUrf5m+//f612xlxXEaOMXtvlujV2IfctFbcIllJMtUwK7fu
+1UR8NUoesohIsD733qQttqPPy8tTXZjVmMibf833qQv8tQ/NTC+1auMSGx7yU0yKF+9TAdzc
+LSSDFXyjK93ceXZXDhtrBGrjHm3uuV+ntW74gufJtEh3f6w/otc8m5sfMwoib0tiUwrJCzPt
+4+Xd7/7P96oks1V9sjN/vY6VpWVujumd33uKuyQfud5iYxpJsZm7fLUOdtDWMTM/sZXRcTL+
+VQtodwn3JUNaN4be0QyW0zSoOqlcfrUUOr2zoN8rIfQilzT3RXLDqUP7Kuwv3B+dIbG5TrE3
+/fNbkd1FNjY6H6GlM23+JqXPIfJE514Zh1RvyqB1YZ+WurE2F+81Qvtfqi/9801VFyHKGm9a
+6c2dtJ1hT8qrSaZbf3Mf8CrSNVESpM580lbEmlRL9xz+dQPprD7jrV88SORjdMbZewttz84q
+5esrahOd38Yqh5E0TcLQkjRy7nVuvfvQ0m7jTsrF8L8/PFV0+Z5M1LHMr/MjZ9fl6VEOWLev
+/wAVQI7rwdZJeSRpIpcGANs3kfdFdtLZxWsTokSRh0XAAxnrXIeBpYUvbbz93leThsfQf4V2
+9/t2IwicP5Iddy/f91/2a+Zx/P7Y9uio8iPM/FIUJF/wH+Vcmf8AWt/uV1/i90Pk7GXbsWuP
+PzXG0N2r38J/BR5WJ/iMsbm4z93d0pcYaj+Ffm7+lQ3LsHXHHy1uYHWaBqENmkTzOqAsc89K
+3JfENiudguJNi8ssJxXGaZ8trKo7hP8A69adwfkdd33/AJm/WvNrYeE53Z6VKq1AoeK9ZXUY
+4LeOOWMZ3ur9+wrnBatj7y0+ST7Teu/bPH0q1lUSu6EVTjyROKb9pK7KYjZBxtP/AAKo34/h
+ap3qF22/xVaII6aaCd38NJWhItaWn/6qb2Rv/Qazh81XbaRUV129UapnsOHxHXRHe7/WOnST
+7LeRQ3WGRP1/+tWONfRX4iX+Dv020warE8Lrt6q38Xq2a4fYyO91oli5k+S5T5v+WVc/drm6
+kPv/AHa0bi/ikZ8N99U/8drOuJFd2f1NdNONjmqSuaH3Wb/epj/M1OHzKtIRtUVRiRyDbE/s
+tOiT91E23+KmuzGGRT6VNF/qYPmoCJBLDn5t2KhG5G+8v+NbNxAh0yabHzo8aq3sy81iSfKv
+/AaUHcc42HEJKu4cH+dNG1VKuvzH7rUxNwQfdp5O7rzVkkdOI2qKCqDo3/16cP7ooAbjKNmk
+2sP4ak69KsRWzSNwvSjmCxU2sV4qSNrhMbHZOa0rawa5l2D5a6u28EXN5CnkxL935mYhflrC
+riadP42awoznqjkYtYvUVVLh/wDeFV7+5lvHRpNu4DstbeoaF9jU53cfL9ax5bf/AGacJwl7
+0RTjJaMNPmSO6jyyjn726usjm3Lwyn5f71cW9vj+GkDyw/cdhj+6cVcoc5F7HdiX5fu1IJK4
+mPVb1GGJmP8AvLVyDXpk++in/das/ZNBdHXIzHo1Sjd/ernYPEkP/LRHH/AavR69ZPtxKP8A
+gQ6UtV0FyRNfblfvUwxZ6VWjv4ZV+SZP93NTedn+7Rz2F7IkiTY241K+zb91ag875eVpPN+a
+suc1jTOW8WIzXdr8vG0/zrOgVH2emNzV1Wr2S39ouNoljbejY6+q1z2nW7JE/mKy+S43/L92
+toTvAfLqallb77dLgqoRH2f+zbf0qK/umuZXhjXyYHn37F6f3aQuzXHyM3lFyyt6/wC1+VUn
+DIv0lb5t3WoUdblyelkW7PTree723O7yAu+Rd3VFG75f++dtb+oaGup+HxeHSbO03j9wIUKu
+B78/NWTpS+ddiIr8sjKjL6jIrqrb+0NZmdPt3k2scmxYkAy/t9K569Vxe+xvRgpR2PJDbMN/
+tWnpelazeI72sVw8cf39vzfpXT6r4QbTdZkhjzNBIBLGdvCszbSPwP8ASvW/D2j2+maelvDt
+3feLbepq8Tj4wgnHW5lTw0nLU8FK6nbFt8co/wB9Ki+23C7d8K/+g19D6naQpCzyIkh/ustc
+BP4bWe/LyadLJ5is4iiwtclHMozvzwOqWEdtGefpqKsv3HDf7oaozfZ3fe/75rd12PSYIW/4
+l32VkO35mLHP+1iuSjWKaZVjVvvdjXoUpRnHmtY5ZxcHa5eM0TNyzbv9lai86Hfy5/75olha
+0t3b5i3+1Wb/AKx90jNt/ireKuZSfKae5HXejMfwqF5ULD5G5/2etWLa3tpbX93M3n/Nxndg
+D5ulV79Nl1u3fwbv+BZosr2FfS5GIfnVkTHP96kcbf4akj+5y3f8qhkb5Gw3+d1WQbekXUyX
+C7JmhOwbWQdPlOP5Vqy3c14h8+aWZ0XajM54rndLmQ3QLts+Qdf90/1rTjmUwNhW+dv8a5as
+Pf2OyE1yaszdXjRLhlRFCjK/+PVmptN0NtauoF5nlbYuf4Vz/tbqyoFcXH3mDfTdXTSjpqcl
+a3PoXX3qm3av3v7tVbvaPKq+kW7G9Zf+BfLUMkMTyhnlQAdFzmmSQxX1zCu6FBt9xn/PWpJN
+XvJ4DExjwRtzjnv/APFU8LCrcSuf+BYrR0jQk1zVHhRgkaJ97rzWc3CC5maw537qOdjTZ/EP
+yqTzm7iu5vfhXrMKedaKtzF2ZD1/CuVvPD+qWO7z7SVP95aiFenU2ZTpTW6M133f3ahk9mqy
+YZk6o1RFVb7yYraJlIqn71OHNSGHPQ0wqyfeFaJkWHoM9aPl2r/u0BlCN83NAXO2hiQ3rj5a
+UL6p+tWjBjDD7ppRGu05Wo5i7FTC+n/j1L5bVaeLay4X/wAdp+DD8q8luaOYViyh+X/gNOP3
+fvU1Pu0p5VakZFLzDJ8v8NOjO1Ex2Wkk/wBTL8zdKdb8unvS6FFt7vfYyQ7sOZA33f7qlax3
+6Gtae2ZIZZUXiNvm9t3Ssh+VeiFugTHIP3S4Wk+Y7vlqWD5otv8AkUf7O2rJInXb1X+KlHzd
+Fp8i7sfdoC7F54oAljhUsvzrW7pemzXXy2yMx71iwDcyZX6NtrtPCesQ6ZdRvJEsiI+8pu61
+z4hzUPcNqUU3qB8PX2iyia7h2A9sg/8AAs13OleLtIsNNeK7t5SSnGF3CszxZ4q0vWrRP7Oi
+f5NyuzfL/wAB2/3q89e5+eBDzmT7rfQ15/sZV9avQ6udU1ZHT3G3VLpmjT77/Km6q954YuYd
+zT2Twp95W+8DUWkamtrdpM6NJhvu7utdZrHjex1jSUis7RoZd2JDkEccHb/epP21OSUFoV7k
+9WeZ3NnsY4WsueFl6rW/czK7t8tZM+5nXO6vTpSfU4ZpGcE/2acEb71Tbcf99U/G2ujmMCvs
+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
+neCeI5R17V0zpvGYRdG0n+phRqfV66muh6r4m8P/APCT2dt5U4hv7WMxxLIcJMmc7M9m+br0
+Oa8qvtPu9Nuntb23kgnT70ci4Nen6L4x0nW1EV80Wmage7f8e8h9j/yzP1+Wt3ULNLiBLPVr
+OK6tsbo956D1jkHT8OK8yhi62Dfsqy0/rbuevWwlDG3qYd+92PJ9D8U6v4djuU0+cJFcIUkj
+ZQynjGcdjz1rBNdn4j8FPpkMmo6W7Xenr/rFdf3kH+/6j/bH6VxmMmvbw86VS9Sn13/4J4la
+FSnLkqdBKKKK3MAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiitDS9IvdavUtbG3eeVuyjhR6k9h7mlJxjG7KjG56/YL/xT+i/9g+H+tSaprml+EtLgvbu
+BrzULkE2tqeECg43Ofr2pfKjtLa0s0lEgtLaO33r0cgcke2axPGukXmtaLp81hG1xLp6yJNC
+gy+wtuVwO46g4r5GlGnVxKVR+636dz6zFOrSwMeTfS55/wCIfEuqeJb77Vqd00rjhEHCRj0U
+dqx80lGK+uhGEFyQVkfJuV3qL/DXZ/DTjxBe/wDYPm/pXGfw16T4E0W602C51a8Qwrc23k28
+brtaRWKkvj+5hevfNceYTjHDzUup1YGDliIJdzrYxvtNTT+/p1yP/IZrwkcV7zZyRpcqspxD
+IjxOf7odSCf1rxzW9Av9Bvfs97CU3f6uReUlX1Ru4rzslnFOcH1t+p6mewftVPpYueCdXi0f
+xLFNdNttZ0aCc+iPxn8Dhvwr1doESWeyvP8AVTRvBNt5+Rx95fX+9+FeDA4r0Dwv41hjtodJ
+1x3WGP5La8UbjCP7jj+JP1Fb5lg5VH7anujmy3Fwp3o1fhZyGsaRc6Hqc1hdLiWM/eA4dezD
+1BHNZwwTzXuOqaLZ63pkYvU+02oH+jX9q4fy/YN0I/2D/wCO1wt38OL9HY2N/ZXUfbe/kv8A
+k3H5GtMNmdKcLVHaRlXy+pB3p+9HujiTgHAPFJ3rs4fh1q7nNxd6fbr6tPv/AEQGuy8MeB4L
+Cdbi0il1O9TkXEseyKI+oHr7k/hVV8zw9KN07/132M6eArT6WXd6D/D+jzaR4fstKZD9tlcz
+zR9w74wn+8AB/wB9GuX+Kl/G+uWejQOHXS4PLkI/57Odz/0H4V1HiHxnYeFYZodMuYr/AF6T
+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
+gSQFIFCh4RvRf4FVhj+6a4zSNGt7jRNR1i8aY2li8aNHAyq7u+dvJztHynnHpU3CxT1LRL7S
+YLKe7jRFvIfPh2yK+UzjPHSsuu48S20N9L4PtLOO9eGbT0WNNqyTYaeX5QBgMfTpVPxNoNlp
+el6bd2qzRNczXEMkUk8c2PLK4O5OAfn5Xtii4WOTor0O58K+Hku7+0iudSSS20uPUgzeWQwM
+aOyY9fn49KxNT0XTYbjQZ7W4uVsdUjWR/NUPJD+8KP0+/wDdz0ouFjl6K6rxVoNnpMVrcaYH
+lspmkSK6W6SeObGMY2qpR8H5kYVytUIKKKKBBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRR
+QAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAb7+M9dkSFJL5XSFNkSvBGQg9B8vAqs/iH
+VX1pdYN9N/aQxtnDYZcDaMY7beMVk0UuUq5s3/ifWdStHtLq8L20j+a8SoiKX9cKBzVe81e9
+v7a1guJg0VpH5cAEaDYvXGQPXms6imFzWuvEOq3uoQ6hPfObyAqUnAAcMvQ7l6n3NM1LW9Q1
+eRXvrlpGDbhgBBnucKOvvWZRQI6GXxn4injcSapI/mR+TIxRN0iejNjLdO9c9RRQBsjxRrS2
+NvZrfusNuhihwih0RuoV8bgPxqbQNQi0Qz6ql00eowLss4UB5LqQzsem1R27lh2rAopco7il
+mdtzsST1Oa6vQNb0bQLZNSgjvn16NJogG2fZsOjIG/vcA9O9cnRTC5e0/VL3S5nlsbl4WdDG
++3o6HqrDoR7Gnz6ve3FzDcTTs8luB5PA2ooOQAvQDPbFZ1FAjal8UatNNezSXheW+TZdOY0z
+Mvvx/nAqCPXdRTS49NWcfYo5fOSFo0ID+vIrMooAu6lql5rF/Je38oluJOXk2AZ+uBW9p2ta
+PouizPYR3x1i7spLO483Z5IDnl0I5+7xiuUopWHcv6dq19pvmrZ3BiSdPLmRgCki+jKeD+NS
+rrupx6rHqIvH+1xDbHLx8gxtwF6bdvGOlZdFMLmjc6xf3FzBO9y4a2P7jywI1h+bd8gXheee
+Kk1HXNS1uRP7QvPN+fO5lAGT1Y7RyffrWVRQFzs/GviWS91idNO1SOawkhijDQx7DtCKChJV
+WK5HT7tc5DrF9baXPpkU22zncPLFsBV2XoelZ9FLlC5f1HVbzV50mvpvOkSNYlbYF+QdBwKf
+p+tX+lw3MNlcLFFdJ5cy7EbzF9DuHSs2imI0NK1i/wBCvVvNMuGt7lRgShQSPpkcVPZ+IdVs
+L25urS8MMl1nz8IuyXvhkxtPPtWRRQBrXPiPWbq4sribUJWmsubZ1wDF82flx70ah4h1TVLd
+Le8u/MhjkaZE2Iqq7dThRWTRQO5tv4q1mWeed73Ms8H2aRvKT5ov7nTp/gKgbXtUdtPf7Wc6
+dj7IQgHk87vl49eay6KXKFzRv9XvtTVFupgyKzMEVFRFLdThQBk+tZ1FFMQUUUUCCiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoo
+ooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//9k=</binary>
+</FictionBook>

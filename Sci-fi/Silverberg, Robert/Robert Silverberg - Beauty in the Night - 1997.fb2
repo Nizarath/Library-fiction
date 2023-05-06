@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>Beauty in the Night</book-title>
+   <date>1997-09-01</date>
+   <coverpage>
+    <image l:href="#beauty_in_the_night.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-04-01">01.04.2012</date>
+   <id>FBD-EA5F22-197E-FA4D-FCB7-0CDD-DD7F-4831B2</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Science Fiction Age, September 1997</book-name>
+   <publisher>Sovereign Media Co.</publisher>
+   <year>1997</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Beauty in the Night</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <title>
+    <p>ONE:</p>
+    <p>NINE YEARS FROM NOW</p>
+   </title>
+   <p>He was a Christmas child, was Khalid—Khalid the Entity-Killer, the first to raise his hand against the alien invaders who had conquered Earth in a Single day, sweeping aside all resistance as though we were no more than ants to them. Khalid Haleem Burke, that was his name, English on his father’s side, Pakistani on his mother’s, born on Christmas Day amidst his mother’s pain and shame and his family’s grief. Christmas child though he was, nevertheless he was not going to be the new Savior of mankind, however neat a coincidence that might have been. But he would live, though his mother had not, and in the fullness of time he would do his little part, strike his little blow, against the awesome beings who had with such contemptuous ease taken possession of the world into which he had been born.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>To be born at Christmas time can be an awkward thing for mother and child, who even at the best of times must contend with the risks inherent in the general overcrowding and understaffing of hospitals at that time of year. But prevailing hospital conditions were not an issue for the mother of the child of uncertain parentage and dim prospects who was about to come into the world in unhappy and disagreeable circumstances in an unheated upstairs storeroom of a modest Pakistani restaurant grandly named Khan’s Mogul Palace in Salisbury, England, very early in the morning of this third Christmas since the advent of the conquering Entities from the stars.</p>
+   <p>Salisbury is a pleasant little city that lies to the south and west of London and is the principal town of the county of Wiltshire. It is noted particularly for its relatively unspoiled medieval charm, for its graceful and imposing 13th-century cathedral, and for the presence, eight miles away, of the celebrated prehistoric megalithic monument.</p>
+   <p>Which, in the darkness before the dawn of that Christmas Day, was undergoing one of the most remarkable events in its long history; and, despite the earliness (or lateness) of the hour, a goodly number of Salisbury’s inhabitants had turned out to witness the spectacular goings-on.</p>
+   <p>But not Haleem Khan, the owner of Khan’s Mogul Palace, nor his wife Aissha, both of them asleep in their beds. Neither of them had any interest in the pagan monument that was Stonehenge, let alone the strange thing that was happening to it now. And certainly not Haleem’s daughter Yasmeena Khan, who was 17 years old and cold and frightened, and who was lying half-naked on the bare floor of the upstairs storeroom of her father’s restaurant, hidden between a huge sack of raw lentils and an even larger sack of flour, writhing in terrible pain as shame and illicit motherhood came sweeping down on her like the avenging sword of angry Allah.</p>
+   <p>She had sinned. She knew that. Her father, her plump, reticent, overworked, mortally weary, and in fact already dying father, had several times in the past year warned her of sin and its consequences, speaking with as much force as she had ever seen him muster; and yet she had chosen to take the risk. Just three times, three different boys, only one time each, all three of them English and white. Andy. Eddie. Richie. Names that blazed like bonfires in the neural pathways of her soul.</p>
+   <p>Her mother—no, not really her mother; her true mother had died when Yasmeena was three; this was Aissha, her father’s second wife, the robust and stolid woman who had raised her, had held the family and the restaurant together all these years—had given her warnings too, but they had been couched in entirely different terms. “You are a woman now, Yasmeena, and a woman is permitted to allow herself some pleasure in life,” Aissha had told her. “But you must be careful.” Not a word about sin, just taking care not to get into trouble.</p>
+   <p>Well, Yasmeena had been careful, or thought she had, but evidently not careful enough. Therefore she had failed Aissha. And failed her sad quiet father too, because she had certainly sinned despite all his warnings to remain virtuous, and Allah now would punish her for that. Was punishing her already. Punishing her terribly.</p>
+   <p>She had been very late discovering she was pregnant. She had not expected to be. Yasmeena wanted to believe that she was still too young for bearing babies, because her breasts were so small and her hips were so narrow, almost like a boy’s. And each of those three times when she had done It with a boy—impulsively, furtively, half-reluctantly, once in a musty cellar and once in a ruined omnibus and once right here in this very storeroom—she had taken precautions afterward, diligently swallowing the pills she had secretly bought from the smirking Hindu woman at the shop in Winchester, two tiny green pills in the morning and the big yellow one at night, five days in a row.</p>
+   <p>The pills were so nauseating that they had to work. But they hadn’t. She should never have trusted pills provided by a Hindu, Yasmeena would tell herself a thousand times over; but by then it was too late.</p>
+   <p>The first sign had come only about four months before. Her breasts suddenly began to fill out, That had pleased her, at first. She had always been so scrawny; but now it seemed that her body was developing at last. Boys liked breasts. You could see their eyes quickly flicking down to check out your chest, though they seemed to think you didn’t notice it when they did. All three of her lovers had put their hands into her blouse to feel hers, such as they were; and at least one—Eddie, the second—had actually been disappointed at what he found there. He had said so, just like that: “Is that <emphasis>all</emphasis>?”</p>
+   <p>But now her breasts were growing fuller and heavier every week, and they started to ache a little, and the dark nipples began to stand out oddly from the smooth little circles in which they were set. So Yasmeena began to feel fear; and when her bleeding did not come on time, she feared even more. But her bleeding had never come on time. Once last year it had been almost a whole month late, and she an absolute pure virgin then.</p>
+   <p>Still, there were the breasts; and then her hips seemed to be getting wider. Yasmeena said nothing, went about her business, chatted pleasantly with the customers, who liked her because she was slender and pretty and polite, and pretended all was well. Again and again at night her hand would slide down her flat boyish belly, anxiously searching for hidden life lurking beneath the taut skin. She felt nothing.</p>
+   <p>But something was there, all right, and by early October it was making the faintest of bulges, only a tiny knot pushing upward below her navel, but a little bigger every day. Yasmeena began wearing her blouses untucked, to hide the new fullness of her breasts and the burgeoning rondure of her belly. She opened the seams of her trousers and punched two new holes in her belt. It became harder for her to do her work, to carry the heavy trays of food all evening long and to put in the hours afterward washing the dishes, but she forced herself to be strong. There was no one else to do the job. Her father took the orders and Aissha did the cooking and Yasmeena served the meals and cleaned up after the restaurant closed. Her brother Khalid was gone, killed defending Aissha from a mob of white men during the riots that had broken out after the Entities came, and her sister Leila was too small, only five, no use in the restaurant.</p>
+   <p>No one at home commented on the new way Yasmeena was dressing. Perhaps they thought it was the current fashion. Life was very strange, in these early years of the Conquest.</p>
+   <p>Her father scarcely glanced at anyone these days; preoccupied with his failing restaurant and his failing health, he went about bowed over, coughing all the time, murmuring prayers endlessly under his breath. He was 40 years old and looked 60. Khan’s Mogul Palace was nearly empty, night after night, even on the weekends. People did not travel any more, now that the Entities were here. No rich foreigners came from distant parts of the world to spend the night at Salisbury before going on to visit Stonehenge. The inns and hotels closed; so did most of the restaurants, though a few, like Khan’s, struggled on because their proprietors had no other way of earning a living. But the last thing on Haleem Khan’s mind was his daughter’s changing figure.</p>
+   <p>As for her stepmother, Yasmeena imagined that she saw her giving her sideways looks now and again, and worried over that. But Aissha said nothing. So there was probably no suspicion. Aissha was not the sort to keep silent, if she suspected something.</p>
+   <p>The Christmas season drew near. Now Yasmeena’s swollen legs were as heavy as dead logs and her breasts were hard as boulders and she felt sick all the time. It was not going to be long, now. She could no longer hide from the truth. But she had no plan. If her brother Khalid were here, he would know what to do. Khalid was gone, though. She would simply have to let things happen and trust that Allah, when He was through punishing her, would forgive her and be merciful.</p>
+   <p>Christmas Eve, there were four tables of customers. That was a surprise, to be so busy on a night when most English people had dinner at home. Midway through the evening Yasmeena thought she would fall down in the middle of the room and send her tray, laden with chicken biriani and mutton vindaloo and boti kebabs and schooners of lager, spewing across the floor. She steadied herself then; but an hour later she did fall or, rather, sagged to her knees, in the hallway between the kitchen and the garbage bin where no one could see her. She crouched there, dizzy, sweating, gasping, nauseated, feeling her bowels quaking and strange spasms running down the front of her body and into her thighs; and after a time she rose and continued on with her tray toward the bin.</p>
+   <p>It will be this very night, she thought. And for the thousandth time that week she ran through the little calculation in her mind: <emphasis>December 24 minus nine months is March 24; therefore it is Richie Burke, the father. At least he was the one who gave me pleasure also.</emphasis></p>
+   <p>Andy, he had been the first. Yasmeena couldn’t remember his last name. Pale and freckled and very thin, with a beguiling smile, and on a humid summer night just after her 16th birthday when the restaurant was closed because her father was in the hospital for a few days with the beginning of his trouble, Andy invited her dancing and treated her to a couple of pints of brown ale and then, late in the evening, told her of a special party at a friend’s house that he was invited to, only there turned out to be no party, just a shabby stale-smelling cellar room and an old spavined couch, and Andy’s busy hands roaming the front of her blouse and then going between her legs and her trousers coming off and then, quick, <emphasis>quick!</emphasis>, the long hard narrow reddened thing emerging from him and sliding into her, done and done and done in just a couple of moments, a gasp from him and a shudder and his head buried against her cheek and that was that, all over and done with. She had thought it was supposed to hurt, the first time, but she had felt almost nothing at all, neither pain nor anything that might have been delight. The next time Yasmeena saw him in the street Andy grinned and turned crimson and winked at her, but said nothing to her, and they had never exchanged a word since.</p>
+   <p>Then Eddie Glossop, in the autumn, the one who had found her breasts insufficient and told her so. Big broad-shouldered Eddie, who worked for the meat merchant and who had an air of great worldliness about him. He was old, almost 25. Yasmeena went with him because she knew there was supposed to be pleasure in it and she had not had it from Andy. But there was none from Eddie either, just a lot of huffing and puffing as he lay sprawled on top of her in the aisle of that burned-out omnibus by the side of the road that went toward Shaftesbury. He was much bigger down there than Andy, and it hurt when he went in, and she was glad that this had not been her first time. But she wished she had not done it at all.</p>
+   <p>And then Richie Burke, in this very storeroom on an oddly warm night in March, with everyone asleep in the family apartments downstairs at the back of the restaurant. She tiptoeing up the stairs, and Richie clambering up the drainpipe and through the window, tall, lithe, graceful Richie who played the guitar so well and sang and told everyone that some day he was going to be a general in the war against the Entities and wipe them from the face of the Earth. A wonderful lover, Richie. Yasmeena kept her blouse on because Eddie had made her uneasy about her breasts. Richie caressed her and stroked her for what seemed like hours, though she was terrified that they would be discovered and wanted him to get on with it; and when he entered her, it was like an oiled shaft of smooth metal gliding into her, moving so easily, easily, easily, one gentle thrust after another, on and on and on until marvelous palpitations began to happen inside her and then she erupted with pleasure, moaning so loud that Richie had to put his hand over her mouth to keep her from waking everyone up.</p>
+   <p>That was the time the baby had been made. There could be no doubt of that. All the next day she dreamed of marrying Richie and spending the rest of the nights of her life in his arms. But at the end of that week Richie disappeared from Salisbury —some said he had gone off to join a secret underground army that was going to launch guerrilla warfare against the Entities—and no one had heard from him again.</p>
+   <p>Andy. Eddie. Richie.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>And here she was on the floor of the storeroom again, with her trousers off and the shiny swollen hump of her belly sending messages of agony and shame through her body. Her only covering was a threadbare blanket that reeked of spilled cooking oil. Her water had burst about midnight. That was when she had crept up the stairs to wait in terror for the great disaster of her life to finish happening. The contractions were coming closer and closer together, like little earthquakes within her. Now the time had to be two, three, maybe four in the morning. How long would it be? Another hour? Six? Twelve?</p>
+   <p>Relent and call Aissha to help her?</p>
+   <p>No. No. She didn’t dare. Earlier in the night voices had drifted up from the streets to her. The sound of footsteps. That was strange, shouting and running in the street, this late. The Christmas revelry didn’t usually go on through the night like this. It was hard to understand what they were saying, but then out of the confusion there came, with sudden clarity:</p>
+   <p>“The aliens! They’re pulling down Stonehenge, taking it apart!”</p>
+   <p>“Get your wagon, Charlie, we’ll go and see!”</p>
+   <p>Pulling down Stonehenge. Strange. Strange. Why would they do that? Yasmeena wondered. But the pain was becoming too great for her to be able to give much thought to Stonehenge just now, or to the Entities who had somehow overthrown the invincible white men in the twinkling of an eye and now ruled the world, or to anything else except what was happening within her, the flames dancing through her brain, the ripplings of her belly, the implacable downward movement of—of—</p>
+   <p>Something.</p>
+   <p>“Praise be to Allah, Lord of the Universe, the Compassionate, the Merciful,” she murmured timidly. “There is no god but Allah, and Mohammed is His prophet.”</p>
+   <p>And again: “Praise be to Allah, Lord of the Universe.”</p>
+   <p>And again.</p>
+   <p>And again.</p>
+   <p>The pain was terrible. She was splitting wide open.</p>
+   <p>“Abraham, Isaac, Ishmael!” That <emphasis>something</emphasis> had begun to move in a spiral through her now, like a corkscrew driving a hot track in her flesh. “Mohammed! Mohammed! Mohammed! There is no god but Allah!” The words burst from her with no timidity at all, now. Let Mohammed and Allah save her, if they really existed. What good were they, if they would not save her, she so innocent and ignorant, her life barely begun? And then, as a spear of fire gutted her and her pelvic bones seemed to crack apart, she let loose a torrent of other names—Moses, Solomon, Jesus, Mary, and even the forbidden Hindu names, Shiva, Krishna, Shakti, Kali—anyone at all who would help her through this, anyone, anyone, anyone, anyone—</p>
+   <p>She screamed three times, short, sharp, piercing screams.</p>
+   <p>She felt a terrible inner wrenching and the baby came spurting out of her with astonishing swiftness. A gushing Ganges of blood followed it, a red river that spilled out over her thighs and would not stop flowing.</p>
+   <p>Yasmeena knew at once that she was going to die.</p>
+   <p>Something wrong had happened. Everything would come out of her insides and she would die. That was absolutely clear to her. Already, just moments after the birth, an eerie new calmness was enfolding her. She had no energy left now for further screaming, or even to look after the baby. It was somewhere down between her spread thighs, that was all she knew. She lay back, drowning in a rising pool of blood and sweat. She raised her arms toward the ceiling and brought them down again to clutch her throbbing breasts, stiff now with milk. She called now upon no more holy names. She could hardly remember her own.</p>
+   <p>She sobbed quietly. She trembled. She tried not to move, because that would surely make the bleeding even worse.</p>
+   <p>An hour went by, or a week, or a year.</p>
+   <p>Then an anguished voice high above her in the dark: “What? Yasmeena? Oh, my god, my god, my god! Your father will perish!”</p>
+   <p>Aissha, it was. Bending to her, engulfing her. The strong arm raising her head, lifting it against the warm motherly bosom, holding her tight.</p>
+   <p>“Can you hear me, Yasmeena? Oh, Yasmeena! My god, my god!” And then an ululation of grief rising from her stepmother’s throat like some hot volcanic geyser bursting from the ground. “Yasmeena! Yasmeena!”</p>
+   <p>“The baby?” Yasmeena said, in the tiniest of voices. “Yes! Here! Here! Can you see?”</p>
+   <p>Yasmeena saw nothing but a red haze.</p>
+   <p>“A boy?” she asked, very faintly.</p>
+   <p>“A boy, yes.”</p>
+   <p>In the blur of her dimming vision she thought she saw something small and pinkish-brown, smeared with scarlet, resting in her stepmother’s hands. Thought she could hear him crying, even.</p>
+   <p>“Do you want to hold him?”</p>
+   <p>“No. No.” Yasmeena understood clearly that she was going. The last of her strength had left her. She was moored now to the world by a mere thread. “He is strong and beautiful,” said Aissha. “A splendid boy.”</p>
+   <p>“Then I am very happy.” Yasmeena fought for one last fragment of energy. “His name—is—Khalid. Khalid Haleem Burke.”</p>
+   <p>“Burke?”</p>
+   <p>“Yes. Khalid Haleem Burke.”</p>
+   <p>“Is that the father’s name, Yasmeena? Burke?”</p>
+   <p>“Burke. Richie Burke.” With her final sliver of strength she spelled the name.</p>
+   <p>“Tell me where he lives, this Richie Burke. I will get him. This is shameful, giving birth by yourself, alone in the dark, in this awful room! Why did you never say anything? Why did you hide it from me? I would have helped. I would—”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>But Yasmeena Khan was already dead. The first shaft of morning light now came through the grimy window of the upstairs storeroom. Christmas Day had begun.</p>
+   <p>Eight miles away, at Stonehenge, the Entities had finished their night’s work. Three of the towering alien creatures had supervised while a human work crew, using hand-held pistol-like devices that emitted a bright violet glow, had uprooted every single one of the ancient stone slabs of the celebrated megalithic monument on windswept Salisbury Plain as though they were so many jackstraws. And had rearranged them so that what had been the outer circle of immense sandstone blocks now had become two parallel rows running from north to south; the lesser inner ring of blue slabs had been moved about to form an equilateral triangle; and the 16-foot-long block of sandstone at the center of the formation that people called the Altar Stone had been raised to an upright position at the center.</p>
+   <p>A crowd of perhaps two thousand people from the adjacent towns had watched through the night from a judicious distance as this inexplicable project was being carried out. Some were infuriated; some were saddened; some were indifferent; some were fascinated. Many had theories about what was going on, and one theory was as good as another, no better, no worse.</p>
+  </section>
+  <section>
+   <title>
+    <p>TWO:</p>
+    <p>SIXTEEN YEARS FROM NOW</p>
+   </title>
+   <p>You could still see the ghostly lettering over the front door of the former restaurant, if you knew what to look for, the pale greenish outlines of the words that once had been painted there in bright gold: KHAN’S MOGUL PALACE. The old swinging sign that had dangled above the door was still lying out back, too, in a clutter of cracked basins and discarded stewpots and broken crockery.</p>
+   <p>But the restaurant itself was gone, long gone, a victim of the Great Plague that the Entities had casually loosed upon the world as a warning to its conquered people, after an attempt had been made at an attack on an Entity encampment. Half the population of Earth had died so that the Entities could teach the other half not to harbor further rebellious thoughts. Poor sad Haleem Khan himself was gone too, the ever-weary little brown-skinned man who in 10 years had somehow saved five thousand pounds from his salary as a dishwasher at the Lion and Unicorn Hotel and had used that, back when England had a queen and Elizabeth was her name, as the seed money for the unpretentious little restaurant that was going to rescue him and his family from utter hopeless poverty. Four days after the Plague had hit Salisbury, Haleem was dead. But if the Plague hadn’t killed him, the tuberculosis that he was already harboring probably would have done the job soon enough. Or else simply the shock and disgrace and grief of his daughter Yasmeena’s ghastly death in childbirth two weeks earlier, at Christmas time, in an upstairs room of the restaurant, while bringing into the world the bastard child of the long-legged English boy, Richie Burke, the future traitor, the future quisling.</p>
+   <p>Haleem’s other daughter, the little girl Leila, had died in the Plague also, three months after her father and two days before what would have been her sixth birthday. As for Yasmeena’s older brother, Khalid, he was already two years gone by then. That was during the time that now was known as the Troubles. A gang of long-haired yobs had set forth late one Saturday afternoon in fine English wrath, determined to vent their resentment over the conquest of the Earth by doing a lively spot of Paki-bashing in the town streets, and they had encountered Khalid escorting Aissha home from the market. They had made remarks; he had replied hotly; and they beat him to death.</p>
+   <p>Which left, of all the family, only Aissha, Haleem’s hardy and tireless second wife. She came down with the Plague, too, but she was one of the lucky ones, one of those who managed to fend the affliction off and survive—for whatever that was worth—into the new and transformed and diminished world. But she could hardly run the restaurant alone, and in any case, with three quarters of the population of Salisbury dead in the Plague, there was no longer much need for a Pakistani restaurant there.</p>
+   <p>Aissha found other things to do. She went on living in a couple of rooms of the now gradually decaying building that had housed the restaurant, and supported herself, in this era when national currencies had ceased to mean much and strange new sorts of money circulated in the land, by a variety of improvised means. She did house cleaning and laundry for those people who still had need of such services. She cooked meals for elderly folks too feeble to cook for themselves. Now and then, when her number came up in the labor lottery, she put in time at a factory that the Entities had established just outside town, weaving little strands of colored wire together to make incomprehensibly complex mechanisms whose nature and purpose were never disclosed to her.</p>
+   <p>And when there was no such work of any of those kinds available, Aissha would make herself available to the truck drivers who passed through Salisbury, spreading her powerful muscular thighs in return for meal certificates or corporate scrip or barter units or whichever other of the new versions of money they would pay her in. That was not something she would have chosen to do, if she had had her choices. But she would not have chosen to have the invasion of the Entities, for that matter, nor her husband’s early death and Leila’s and Khalid’s, nor Yasmeena’s miserable lonely ordeal in the upstairs room, but she had not been consulted about any of those things, either. Aissha needed to eat in order to survive; and so she sold herself, when she had to, to the truck drivers, and that was that.</p>
+   <p>As for why survival mattered, why she bothered at all to care about surviving in a world that had lost all meaning and just about all hope, it was in part because survival for the sake of survival was in her genes, and—mostly—because she wasn’t alone in the world. Out of the wreckage of her family she had been left with a child to look after—her grandchild, her dead stepdaughter’s baby, Khalid Haleem Burke, the child of shame. Khalid Haleem Burke had survived the Plague too. It was one of the ugly little ironies of the epidemic that the Entities had released upon the world that children who were less than six months old generally did not contract it. Which created a huge population of healthy but parentless babes.</p>
+   <p>He was healthy, all right, was Khalid Haleem Burke. Through every deprivation of those dreary years, the food shortages and the fuel shortages and the little outbreaks of diseases that once had been thought to be nearly extinct, he grew taller and straighter and stronger all the time. He had his mother’s wiry strength and his father’s long legs and dancer’s grace. And he was lovely to behold. His skin was tawny golden-brown, his eyes were a glittering blue-green, and his hair, glossy and thick and curly, was a wonderful bronze color, a magnificent Eurasian hue. Amidst all the sadness and loss of Aissha’s life, he was the one glorious beacon that lit the darkness for her.</p>
+   <p>There were no real schools, not any more. Aissha taught little Khalid herself, as best she could. She hadn’t had much schooling, but she could read and write, and showed him how, and begged or borrowed books for him wherever she might. She found a woman who understood arithmetic, and scrubbed her floors for her in return for Khalid’s lessons. There was an old man at the south end of town who knew the Koran by heart, and Aissha, though she was not a strongly religious woman herself, sent Khalid to him once a week for instruction in Islam. The boy was, after all, half Moslem. Aissha felt no responsibility for the Christian part of him, but she did not want to let him go into the world unaware that there was—somewhere, <emphasis>somewhere!</emphasis>— a god known as Allah, a god of justice and compassion and mercy, to whom obedience was owed, and that he would, like all people, ultimately come to stand before that god upon the Day of Judgment.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>“And the Entities?” Khalid asked her. He was six, then. “Will they be judged by Allah too?”</p>
+   <p>“The Entities are not people. They are jinn.”</p>
+   <p>“Did Allah make them?”</p>
+   <p>“Allah made all things in Heaven and on Earth. He made us out of potter’s clay and the jinn out of smokeless fire.”</p>
+   <p>“But the Entities have brought evil upon us. Why would Allah make evil things, if He is a merciful god?”</p>
+   <p>“The Entities,” Aissha said uncomfortably, aware that wiser heads than hers had grappled in vain with that question, “<emphasis>do</emphasis> evil. But they are not evil themselves. They are merely the instruments of Allah.”</p>
+   <p>“Who has sent them to us to do evil,” said Khalid. “What kind of god is that, who sends evil among His own people, Aissha?”</p>
+   <p>She was getting beyond her depth in this conversation, but she was patient with him. “No one understands Allah’s ways, Khalid. He is the One God and we are nothing before him. If He had reason to send the Entities to us, they were good reasons, and we have no right to question them.” <emphasis>And also to send sickness,</emphasis> she thought, <emphasis>and hunger, and death, and the English boys who killed your uncle Khalid in the street, and even the English boy who put you into your mother’s belly and then ran away. Allah sent all of those into the world, too.</emphasis> But then she reminded herself that if Richie Burke had not crept secretly into this house to sleep with Yasmeena, this beautiful child would not be standing here before her at this moment. And so good sometimes could come forth from evil. Who were we to demand reasons from Allah? Perhaps even the Entities had been sent here, ultimately, for our own good.</p>
+   <p>Perhaps.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Of Khalid’s father, there was no news all this while. He was supposed to have run off to join the army that was fighting the Entities; but Aissha had never heard that there was any such army, anywhere in the world.</p>
+   <p>Then, not long after Khalid’s seventh birthday, when he returned in midafternoon from his Thursday Koran lesson at the house of old Iskander Mustafa Ali, he found an unknown white man sitting in the room with his grandmother, a man with a great untidy mass of light-colored curling hair and a lean, angular, almost fleshless face with two cold, harsh blue-green eyes looking out from it as though out of a mask. His skin was so white that Khalid wondered whether he had any blood in his body. It was almost like chalk. The strange white man was sitting in his grandmother’s own armchair, and his grandmother was looking very edgy and strange, a way Khalid had never seen her look before, with glistening beads of sweat along her forehead and her lips clamped together in a tight thin line.</p>
+   <p>The white man said, leaning back in the chair and crossing his legs, which were the longest legs Khalid had ever seen, “Do you know who I am, boy?”</p>
+   <p>“How would he know?” his grandmother said.</p>
+   <p>The white man looked toward Aissha and said, “Let me do this, if you don’t mind.” And then, to Khalid: “Come over here, boy. Stand in front of me. Well, now, aren’t we the little beauty? What’s your name, boy?”</p>
+   <p>“Khalid.”</p>
+   <p>“Khalid. Who named you that?”</p>
+   <p>“My mother. She’s dead now. It was my uncle’s name. He’s dead too.”</p>
+   <p>“Devil of a lot of people are dead who used to be alive, all right. Well, Khalid, my name is Richie.”</p>
+   <p>“Richie,” Khalid said, in a very small voice, because he had already begun to understand this conversation.</p>
+   <p>“Richie, yes. Have you ever heard of a person named Richie? Richie Burke.”</p>
+   <p>“My—father.” In an even smaller voice.</p>
+   <p>“Right you are! The grand prize for that lad! Not only handsome but smart, too! Well, what would one expect, eh? Here I be, boy, your long-lost father! Come here and give your long-lost father a kiss.”</p>
+   <p>Khalid glanced uncertainly toward Aissha. Her face was still shiny with sweat, and very pale. She looked sick. After a moment she nodded, a tiny nod.</p>
+   <p>He took half a step forward and the man who was his father caught him by the wrist and gathered him roughly in, pulling him inward and pressing him up against him, not for an actual kiss but for what was only a rubbing of cheeks. The grinding contact with that hard, stubbly cheek was painful for Khalid.</p>
+   <p>“There, boy. I’ve come back, do you see? I’ve been away seven worm-eaten miserable years, but now I’m back, and I’m going to live with you and be your father. You can call me ‘dad.’ ”</p>
+   <p>Khalid stared, stunned.</p>
+   <p>“Go on. Do it. Say, “I’m so very glad that you’ve come back, dad.’ ”</p>
+   <p>“Dad,” Khalid said uneasily.</p>
+   <p>“The rest of it too, if you please.”</p>
+   <p>“ I’m so very glad—” He halted.</p>
+   <p>“That I’ve come back.”</p>
+   <p>“That you’ve come back—”</p>
+   <p>“Dad.”</p>
+   <p>Khalid hesitated. “Dad,” he said.</p>
+   <p>“There’s a good boy! It’ll come easier to you after a while. Tell me, did you ever think about me while you were growing up, boy?”</p>
+   <p>Khalid glanced toward Aissha again. She nodded surreptitiously.</p>
+   <p>Huskily he said, “Now and then, yes.”</p>
+   <p>“Only now and then? That’s all?”</p>
+   <p>“Well, hardly anybody has a father. But sometimes I met someone who did, and then I thought of you. I wondered where you were. Aissha said you were off fighting the Entities. Is that where you were, dad? Did you fight them? Did you kill any of them?”</p>
+   <p>“Don’t ask stupid questions. Tell me, boy, do you go by the name of Burke or Khan?”</p>
+   <p>“Burke. Khalid Haleem Burke.”</p>
+   <p>“Call me <emphasis>‘sir’</emphasis> when you’re not calling me <emphasis>‘dad.’</emphasis> Say, “Khalid Haleem Burke, sir.’ ”</p>
+   <p>“Khalid Haleem Burke, sir. Dad.”</p>
+   <p>“One or the other. Not both.” Richie Burke rose from the chair, unfolding himself as though in sections, up and up and up. He was enormously tall, very thin. His slenderness accentuated his great height. Khalid, though tall for his age, felt dwarfed beside him. The thought came to him that this man was not his father at all, not even a man, but some sort of demon, rather, a jinni, a jinni that had been let out of its bottle, as in the story that Iskander Mustafa Ali had told him. He kept that thought to himself. “Good,” Richie Burke said. “Khalid Haleem Burke. I like that. Son should have his father’s name. But not the Khalid Haleem part. From now on your name is—ah— Kendall. Ken for short.”</p>
+   <p>“Khalid was my—”</p>
+   <p>“—uncle’s name, yes. Well, your uncle is dead. Practically everybody is dead, Kenny. Kendall Burke, good English name. Kendall Hamilton Burke, same initials, even, only English. Is that all right, boy? What a pretty one you are, Kenny! I’ll teach you a thing or two, I will. I’ll make a man out of you.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Here I be, boy, your long-lost father!</p>
+   <p>Khalid had never known what it meant to have a father, nor ever given the idea much examination. He had never known hatred before, either, because Aissha was a fundamentally calm, stable, accepting person, too steady in her soul to waste time or valuable energy hating anything, and Khalid had taken after her in that. But Richie Burke, who taught Khalid what it meant to have a father, made him aware of what it was like to hate, also.</p>
+   <p>Richie moved into the bedroom that had been Aissha’s, sending Aissha off to sleep in what had once had been Yasmeena’s room. It had long since gone to rack and ruin, but they cleaned it up, some, chasing the spiders out and taping oilcloth over the missing windowpanes and nailing down a couple of floorboards that had popped up out of their proper places. She carried her clothes-cabinet in there by herself, and set up on it the framed photographs of her dead family that she had kept in her former bedroom, and draped two of her old saris that she never wore any more over the bleak places on the wall where the paint had flaked away.</p>
+   <p>It was stranger than strange, having Richie living with them. It was a total upheaval, a dismaying invasion by an alien lifeform, in some ways as shocking in its impact as the arrival of the Entities had been.</p>
+   <p>He was gone most of the day. He worked in the nearby town of Winchester, driving back and forth in a small, brown, pre-Conquest automobile. Winchester was a place where Khalid had never been, though his mother had, to purchase the pills that were meant to abort him. Khalid had never been far from Salisbury, not even to Stonehenge, which now was a center of Entity activity anyway, and not a tourist sight. Few people in Salisbury traveled anywhere these days. Not many had automobiles, because of the difficulty of obtaining petrol, but Richie never seemed to have any problem with that.</p>
+   <p>Sometimes Khalid wondered what sort of work his father did in Winchester; but he asked about it only once. The words were barely out of his mouth when his father’s long arm came snaking around and struck him across the face, splitting his lower lip and sending a dribble of blood down his chin.</p>
+   <p>Khalid staggered back, astounded. No one had ever hit him before. It had not occurred to him that anyone would.</p>
+   <p>“You must never ask that again!” his father said, looming mountain-high above him. His cold eyes were even colder, now, in his fury. “What I do in Winchester is no business of yours, nor anyone else’s, do you hear me, boy? It is my own private affair. My own—private—affair.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Khalid rubbed his cut lip and peered at his father in bewilderment. The pain of the slap had not been so great; but the surprise of it, the shock—that was still reverberating through his consciousness. And went on reverberating for a long while thereafter.</p>
+   <p>He never asked about his father’s work again, no. But he was hit again, more than once, indeed with fair regularity. Hitting was Richie’s way of expressing irritation. And it was difficult to predict what sort of thing might irritate him. Any sort of intrusion on his father’s privacy, though, seemed to do it. Once, while talking with his father in his bedroom, telling him about a bloody fight between two boys that he had witnessed in town, Khalid unthinkingly put his hand on the guitar that Richie always kept leaning against his wall beside his bed, giving it only a single strum, something that he had occasionally wanted to do for months; and instantly, hardly before the twanging note had died away, Richie unleashed his arm and knocked Khalid back against the wall. “You keep your filthy fingers off that instrument, boy!” Richie said; and after that Khalid did. Another time Richie struck him for leafing through a book he had left on the kitchen table, that had pictures of naked women in it; and another time, it was for staring too long at Richie as he stood before the mirror in the morning, shaving. So Khalid learned to keep his distance from his father; but still he found himself getting slapped for this reason and that, and sometimes for no reason at all. The blows were rarely as hard as the first one had been, and never ever created in him that same sense of shock. But they were blows, all the same. He stored them all up in some secret receptacle of his soul.</p>
+   <p>Occasionally Richie hit Aissha, too—when dinner was late, or when she put mutton curry on the table too often, or when it seemed to him that she had contradicted him about something. That was more of a shock to Khalid than getting slapped himself, that anyone should dare to lift his hand to Aissha.</p>
+   <p>The first time it happened, which occurred while they were eating dinner, a big carving knife was lying on the table near Khalid, and he might well have reached for it had Aissha not, in the midst of her own fury and humiliation and pain, sent Khalid a message with her furious blazing eyes that he absolutely was not to do any such thing. And so he controlled himself, then and any time afterward when Richie hit her. It was a skill that Khalid had, controlling himself—one that in some circuitous way he must have inherited from the everpatient, all-enduring grandparents whom he had never known and the long line of oppressed Asian peasants from whom they descended. Living with Richie in the house gave Khalid daily opportunity to develop that skill to a fine art.</p>
+   <p>Richie did not seem to have many friends, at least not friends who visited the house. Khalid knew of only three.</p>
+   <p>There was a man named Arch who sometimes came, an older man with greasy ringlets of hair that fell from a big bald spot on the top of his head. He always brought a bottle of whiskey, and he and Richie would sit in Richie’s room with the door closed, talking in low tones or singing raucous songs. Khalid would find the empty whiskey bottle the following morning, lying on the hallway floor. He kept them, setting them up in a row amidst the restaurant debris behind the house, though he did not know why.</p>
+   <p>The only other man who came was Syd, who had a flat nose and amazingly thick fingers, and gave off such a bad smell that Khalid was able to detect it in the house the next day. Once, when Syd was there, Richie emerged from his room and called to Aissha, and she went in there and shut the door behind her and was still in there when Khalid went to sleep. He never asked her about that, what had gone on while she was in Richie’s room. Some instinct told him that he would rather not know.</p>
+   <p>There was also a woman: Wendy, her name was, tall and gaunt and very plain, with a long face like a horse’s and very bad skin, and stringy tangles of reddish hair. She came once in a while for dinner, and Richie always specified that Aissha was to prepare an English dinner that night, lamb or roast beef, none of your spicy Paki curries tonight, if you please. After they ate, Richie and Wendy would go into Richie’s room and not emerge again that evening, and the sounds of the guitar would be heard, and laughter, and then low cries and moans and grunts.</p>
+   <p>One time in the middle of the night when Wendy was there, Khalid got up to go to the bathroom just at the time she did, and encountered her in the hallway, stark naked in the moonlight, a long white ghostly figure. He had never seen a woman naked until this moment, not a real one, only the pictures in Richie’s magazine; but he looked up at her calmly, with that deep abiding steadiness in the face of any sort of surprise that he had mastered so well since the advent of Richie. Coolly he surveyed her, his eyes rising from the long thin legs that went up and up and up from the floor and halting for a moment at the curious triangular thatch of woolly hair at the base of her flat belly, and from there his gaze mounted to the round little breasts set high and far apart on her chest, and at last came to her face, which, in the moonlight had unexpectedly taken on a sort of handsomeness if not actual comeliness, though before this Wendy had always seemed to him to be tremendously ugly. She didn’t seem displeased at being seen like this. She smiled and winked at him, and ran her hand almost coquettishly through her straggly hair, and blew him a kiss as she drifted on past him toward the bathroom. It was the only time that anyone associated with Richie had ever been nice to him, had even appeared to notice him at all.</p>
+   <p>But life with Richie was not entirely horrid. There were some good aspects.</p>
+   <p>One of them was simply being close to so much strength and energy, what Khalid might have called <emphasis>virility</emphasis>, if he had known there was any such word. He had spent all his short life thus far among people who kept their heads down and went soldiering along obediently, people like patient plodding Aissha, who took what came to her and never complained; and shriveled old Iskander Mustafa Ali, who understood that Allah determined all things and one had no choice but to comply, and the quiet, tight-lipped English people of Salisbury, who had lived through the Conquest, and the Great Silence when the aliens had turned off all the electrical power in the world, and the Troubles, and the Plague, and who were prepared to be very, very English about whatever horror was coming next.</p>
+   <p>Richie was different, though. Richie hadn’t a shred of passivity in him. “We shape our lives the way we want them to be, boy,” Richie would say again and again. “We write our own scripts. It’s all nothing but a bloody television show, don’t you see that, Kenny-boy?”</p>
+   <p>That was a startling novelty to Khalid, that you might actually have any control over your own destiny: that you could say “no” to this and “yes” to that and “not right now” to this other thing, and that if there was something you wanted, you could simply reach out and take it. There was nothing Khalid wanted. But the <emphasis>idea</emphasis> that he might even have it, if only he could figure out what it was, was fascinating to him.</p>
+   <p>Then, too, for all of Richie’s roughness of manner, his quickness to curse you or kick out at you or slap you when he had had a little too much to drink, he did have an affectionate side, even a charming one. He often sat with them and played his guitar, and taught them the words of songs, and encouraged them to sing along with them, though Khalid had no idea what the songs were about and Aissha did not seem to know either. It was fun, all the same, the singing; and Khalid had known very little fun. Richie was immensely proud of Khalid’s good looks and agile, athletic grace, also, and would praise him for them, something that no one had ever done before, not even Aissha. Even though Khalid understood in some way that Richie was only praising himself, really, he was grateful even so.</p>
+   <p>Richie took him out behind the building and showed him how to throw and catch a ball. How to kick one, too, a different kind of ball. And sometimes there were cricket matches in a field at the edge of town; and when Richie played in these, which he occasionally did, he brought Khalid along to watch. Later, at home, he showed Richie how to hold the bat, how to guard a wicket.</p>
+   <p>Then there were the drives in the car. These were rare, a great privilege. But sometimes, of a sunny Sunday, Richie would say, “Let’s take the old flivver for a spin, eh, Kenny, lad?” And off they would go into the green countryside, usually no special destination in mind, only driving up and down the quiet lanes, Khalid gawking in wonder at this new world beyond the town. It made his head whirl in a good way, as he came to understand that the world actually did go on and on past the boundaries of Salisbury, and was full of marvels and splendors.</p>
+   <p>So, though at no point did he stop hating Richie, he could see at least some mitigating benefits that had come from his presence in their home. Not many. Some.</p>
+  </section>
+  <section>
+   <title>
+    <p>THREE:</p>
+    <p>NINETEEN YEARS FROM NOW</p>
+   </title>
+   <p>Once Richie took him to Stonehenge. Or as near to it as was possible now for humans to go. It was the year Khalid turned 10: a special birthday treat.</p>
+   <p>“Do you see it out there in the plain, boy? Those big stones? Built by a bunch of ignorant prehistoric buggers who painted themselves blue and danced widdershins in the night. Do you know what ‘widdershins’ means, boy? No, neither do I. But they did it, whatever it was. Danced around naked with their thingummies jiggling around, and then at midnight they’d sacrifice a virgin on the big altar stone. Long, long ago. Thousands of years. Come on, let’s get out and have a look.”</p>
+   <p>Khalid stared. Huge gray slabs, set out in two facing rows flanking smaller slabs of blue stone set in a three-cornered pattern, and a big stone standing upright in the middle. And some other stones lying sideways on top of a few of the gray ones. A transparent curtain of flickering reddish-green light surrounded the whole thing, rising from hidden vents in the ground to nearly twice the height of a man. Why would anyone have wanted to build such a thing? It all seemed like a tremendous waste of time.</p>
+   <p>“Of course, you understand this isn’t what it looked like back then. When the Entities came, they changed the whole business around from what it always was, buggered it all up. Got laborers out here to move every single stone. And they put in the gaudy lighting effects, too. Never used to be lights, certainly not that kind. You walk through those lights, you die, just like a mosquito flying through a candle flame. Those stones there, they were set in a circle originally, and those blue ones there—hey, now, lad, look what we have! You ever see an Entity before, Ken?”</p>
+   <p>Actually, Khalid had: twice. But never this close. The first one had been right in the middle of the town at noontime. It had been standing outside the entrance of the cathedral cool as you please, as though it happened to be in the mood to go to church: a giant purple thing with orange spots and big yellow eyes. But Aissha had put her hand over his face before he could get a good look, and had pulled him quickly down the street that led away from the cathedral, dragging him along as fast as he was able to go. Khalid had been about five then. He dreamed of the Entity for months thereafter.</p>
+   <p>The second time, a year later, he had been with friends, playing within sight of the main highway, when a strange vehicle came down the road, an Entity car that floated on air instead of riding on wheels, and two Entities were standing in it, looking right out at them for a moment as they went floating by. Khalid saw only the tops of their heads that time: their great eyes again, and a sort of a curving beak below, and a great V-shaped slash of a mouth, like a frog’s. He was fascinated by them. Repelled, too, because they were so bizarre, these strange alien beings, these enemies of mankind, and he knew he was supposed to loathe and disdain them. But fascinated. Fascinated. He wished he had been able to see them better.</p>
+   <p>Now, though, he had a clear view of the creatures, three of them. They had emerged from what looked like a door that was set right in the ground, out on the far side of the ancient monument, and were strolling casually among the great stones like lords or ladies inspecting their estate, paying no heed whatever to the tall man and the small boy standing beside the car parked just outside the fiery barrier. It amazed Khalid, watching them teeter around on the little ropy legs that supported their immense tubular bodies, that they were able to keep their balance, that they didn’t simply topple forward and fall with a crash.</p>
+   <p>It amazed him, too, how beautiful they were. He had suspected that from his earlier glances, but now their glory fell upon him with full impact.</p>
+   <p>The luminous golden-orange spots on the glassy, gleaming purple skin—like fire, those spots were. And the huge eyes, so bright, so keen: you could read the strength of their minds in them, the power of their souls. Their gaze engulfed you in a flood of light. Even the air about the Entities partook of their beauty, glowing with a liquid turquoise radiance.</p>
+   <p>“There they be, boy. Our lords and masters. You ever see anything so bloody hideous?”</p>
+   <p>“Hideous?”</p>
+   <p>“They ain’t pretty, isn’t that right?” Khalid made a noncommittal noise. Richie was in a good mood; he always was, on these Sunday excursions. But Khalid knew only too well the penalty for contradicting him in anything. So he looked upon the Entities in silence, lost in wonder, awed by the glory of these strange gigantic creatures, never voicing a syllable of his admiration for their elegance and majesty.</p>
+   <p>Expansively Richie said, “You heard correctly, you know, when they told you that when I left Salisbury just before you were born, it was to go off and join an army that meant to fight them. There was nothing I wanted more than to kill Entities, nothing. Christ Eternal, boy, did I ever hate those creepy bastards! Coming in like they did, taking our world away quick as you please. But I got to my senses pretty fast, let me tell you. I listened to the plans the underground army people had for throwing off the Entity yoke, and I had to laugh. I had to <emphasis>laugh</emphasis>! I could see right away that there wasn’t a hope in hell of it. This was even before they put the Great Plague upon us, you understand. I knew. I damn well knew, I did. They’re as powerful as gods. You want to fight against a bunch of gods, lots of luck to you. So I quit the underground then and there. I still hate the bastards, mind you, make no mistake about that, but I know it’s foolish even to dream about overthrowing them. You just have to fashion your accommodation with them, that’s all there is. You just have to make your peace within yourself and let them have their way. Because anything else is a fool’s own folly.”</p>
+   <p>Khalid listened. what Richie was saying made sense. Khalid understood about not wanting to fight against gods. He understood also how it was possible to hate someone and yet go on unprotestingly living with him.</p>
+   <p>“Is it all right, letting them see us like this?” he asked. “Aissha says that sometimes when they see you, they reach out from their chests with the tongues that they have there and snatch you up, and they take you inside their buildings and do horrible things to you there.”</p>
+   <p>Richie laughed harshly. “It’s been known to happen. But they won’t touch Richie Burke, lad, and they won’t touch the son of Richie Burke at Richie Burke’s side. I guarantee you that. We’re absolutely safe.”</p>
+   <p>Khalid did not ask why that should be. He hoped it was true, that was all.</p>
+   <p>Two days afterward, while he was coming back from the market with a packet of lamb for dinner, he was set upon by two boys and a girl, all of them about his age or a year or two older, whom he knew only in that guest way. They formed themselves into a loose ring just beyond his reach and began to chant in a high-pitched, nasal way: “<emphasis>Quisling, quisling, your father is a quisling!</emphasis>”</p>
+   <p>“What’s that you call him?”</p>
+   <p>“Quisling.”</p>
+   <p>“He is not.”</p>
+   <p>“He is! He is! <emphasis>Quisling, quisling, your father is a quisling!</emphasis>”</p>
+   <p>Khalid had no idea what a quisling was. But no one was going to call his father names. Much as he hated Richie, he knew he could not allow that. It was something Richie had taught him: Defend yourself against scorn, boy, at all times. He meant against those who might be rude to Khalid because he was part Pakistani; but Khalid had experienced very little of that. Was a quisling someone who was English but had had a child with a Pakistani woman? Perhaps that was it. Why would these children care, though? Why would anyone?</p>
+   <p>“Quisling, quisling—”</p>
+   <p>Khalid threw down his package and lunged at the closest boy, who darted away. He caught the girl by the arm, but he would not hit a girl, and so he simply shoved her into the other boy, who went spinning up against the side of the market building. Khalid pounced on him there, holding him close to the wall with one hand and furiously hitting him with the other.</p>
+   <p>His two companions seemed unwilling to intervene. But they went on chanting, from a safe distance, more nasally than ever.</p>
+   <p>“Quis-ling, quis-ling, your father is a quis-ling!”</p>
+   <p>“Stop that!” Khalid cried. “You have no right!” He punctuated his words with blows. The boy he was holding was bleeding, now, his nose, the side of his mouth. He looked terrified.</p>
+   <p>“Quis-ling, quis-ling—”</p>
+   <p>They would not stop, and neither would Khalid. But then he felt a hand seizing him by the back of his neck, a big adult hand, and he was yanked backward and thrust against the market wall himself. A vast meaty man, a navvy, from the looks of him, loomed over Khalid. “What do you think you’re doing, you dirty Paki garbage? You’ll kill the boy!”</p>
+   <p>“He said my father was a quisling!”</p>
+   <p>“Well, then, he probably is. Get on with you, now, boy! Get on with you!”</p>
+   <p>He gave Khalid one last hard shove, and spat and walked away. Khalid looked sullenly around for his three tormentors, but they had run off already. They had taken the packet of lamb with them, too.</p>
+   <p>That night, while Aissha was improvising something for dinner out of yesterday’s rice and some elderly chicken, Khalid asked her what a quisling was. She spun around on him as though he had cursed Allah to her ears. Her face all ablaze with a ferocity he had not seen in it before, she said, “Never use that word in this house, Khalid. Never! Never!” And that was all the explanation she would give. Khalid had to learn, on his own, what a quisling was; and when he did, which was soon thereafter, he understood why his father had been unafraid, that day at Stonehenge when they stood outside that curtain of light and looked upon the Entities who were strolling among the giant stones. And also why those three children had mocked him in the street. <emphasis>You just have to fashion your accommodation with them, that’s all there is.</emphasis> Yes. Yes. Yes. To fashion your accommodation.</p>
+  </section>
+  <section>
+   <title>
+    <p>FOUR:</p>
+    <p>TWENTY YEARS FROM NOW</p>
+   </title>
+   <p>It was after the time that Richie beat Aissha so severely, and then did worse than that—violated her, raped her—that Khalid definitely decided that he was going to kill an Entity. Not kill Richie. Kill an Entity.</p>
+   <p>It was a turning point in Khalid’s relationship with his father, and indeed in Khalid’s whole life, and in the life of any number of other citizens of Salisbury, Wiltshire, England, that time when Richie hurt Aissha so. Richie had been treating Aissha badly all along, of course. He treated everyone badly. He had moved into her house and had taken possession of it as though it were his own. He regarded her as a servant, there purely to do his bidding, and woe betide her if she failed to meet his expectations. She cooked; she cleaned the house; Khalid understood now that sometimes, at his whim, Richie would make her come into his bedroom to amuse him or his friend Syd or both of them together. And there was never a word of complaint from her. She did as he wished; she showed no sign of anger or even resentment; she had given herself over entirely to the will of Allah. Khalid, who had not yet managed to find any convincing evidence of Allah’s existence, had not. But he had learned the art of accepting the unacceptable from Aissha. He knew better than to try to change what was unchangeable. So he lived with his hatred of Richie, and that was merely a fact of daily existence, like the fact that rain did not fall upward.</p>
+   <p>Now, though, Richie had gong too far.</p>
+   <p>Coming home plainly drunk, red-faced, enraged over something, muttering to himself. Greeting Aissha with a growling curse, Khalid with a stinging slap. No apparent reason for either. Demanding his dinner early. Getting it, not liking what he got. Aissha offering mild explanations of why beef had not been available today. Richie shouting that beef bloody well <emphasis>should</emphasis> have been available to the household of Richie Burke.</p>
+   <p>So far, just normal Richie behavior when Richie was having a bad day. Even sweeping the serving bowl of curried mutton off the table, sending it shattering, thick oily brown sauce splattering everywhere, fell within the normal Richie range.</p>
+   <p>But then, Aissha saying softly, despondently, looking down at what had been her prettiest remaining said now spotted in 20 places, “You have stained my clothing.” And Richie going over the top. Erupting. Berserk. Wrath out of all measure to the offense, if offense there had been.</p>
+   <p>Leaping at her, bellowing, shaking her, slapping her. Punching her, even. In the face. In the chest. Seizing the sari at her midriff, ripping it away, tearing it in shreds, crumpling them and hurling them at her. Aissha backing away from him, trembling, eyes bright with fear, dabbing at the blood that seeped from her cut lower lip with one hand, spreading the other one out to cover herself at the thighs.</p>
+   <p>Khalid staring, not knowing what to do, horrified, furious.</p>
+   <p>Richie yelling. “I’ll stain you, I will! I’ll give you a sodding stain!” Grabbing her by the wrist, pulling away what remained of her clothing, stripping her all but naked right there in the dining room. Khalid covering his face. His own grandmother, 40 years old, decent, respectable, naked before him: How could he look? And yet how could he tolerate what was happening? Richie dragging her out of the room, now, toward his bedroom, not troubling even to close the door. Hurling her down on his bed, falling on top of her. Grunting like a pig, a pig, a pig, a pig.</p>
+   <p>I must not permit this.</p>
+   <p>Khalid’s breast surged with hatred: a cold hatred, almost dispassionate. The man was inhuman, a jinni. Some jinn were harmless, some were evil; but Richie was surely of the evil kind, a demon.</p>
+   <p>His father. An evil jinni.</p>
+   <p>But what did that make him? What? What? What? What?</p>
+   <p>Khalid found himself going into the room after them, against all prohibitions, despite all risks. Seeing Richie plunked between Aissha’s legs, his shirt pulled up, his trousers pulled down, his bare buttocks pumping in the air. And Aissha staring upward past Richie’s shoulder at the frozen Khalid in the doorway, her face a rigid mask of horror and shame: gesturing to him, making a repeated brushing movement of her hand through the air, wordlessly telling him to go away, to get out of the room, not to watch, not to intervene in any way.</p>
+   <p>He ran from the house and crouched cowering amid the rubble in the rear yard, the old stewpots and broken jugs and his own collection of Arch’s empty whiskey bottles. When he returned, an hour later, Richie was in his room, chopping malevolently at the strings of his guitar, singing some droning tune in a low, boozy voice. Aissha was dressed again, moving about in a slow, downcast way, cleaning up the mess in the dining room. Sobbing softly. Saying nothing, not even looking at Khalid as he entered. A sticking-plaster on her lip. Her cheeks looked puffy and bruised. There seemed to be a wall around her. She was sealed away inside herself, sealed from all the world, even from him. “I will kill him,” Khalid said quietly to her.</p>
+   <p>“No. That you will not do.” Aissha’s voice was deep and remote, a voice from the bottom of the sea.</p>
+   <p>She gave him a little to eat, a cold chapati and some of yesterday’s rice, and sent him to his room. He lay awake for hours, listening to the sounds of the house, Richie’s endless drunken droning song, Aissha’s barely audible sobs. In the morning nobody said anything about anything.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Khalid understood that it was impossible for him to kill his own father, however much he hated him. But Richie had to be punished for what he had done. And so, to punish him, Khalid was going to kill an Entity. The Entities were a different matter. They were fair game.</p>
+   <p>For some time now, on his better days, Richie had been taking Khalid along with him as he drove through the countryside, doing his quisling tasks, gathering information that the Entities wanted to know and turning it over to them by some process that Khalid could not even begin to understand, and by this time Khalid had seen Entities on so many different occasions that he had grown quite accustomed to being in their presence.</p>
+   <p>And had no fear of them. To most people, apparently, Entities were scary things, ghastly alien monsters, evil, strange; but to Khalid they still were, as they always had been, creatures of enormous beauty. Beautiful the way a god would be beautiful. How could you be frightened by anything so beautiful? How could you be frightened of a god?</p>
+   <p>They didn’t ever appear to notice him at all. Richie would go up to one of them and stand before it, and some kind of transaction would take place. While that was going on, Khalid simply stood to one side, looking at the Entity, studying it, lost in admiration of its beauty. Richie offered no explanations of these meetings and Khalid never asked.</p>
+   <p>The Entities grew more beautiful in his eyes every time he saw one. They were beautiful beyond belief. He could almost have worshipped them. It seemed to him that Richie felt the same way about them: that he was caught in their spell, that he would gladly fall down before them and bow his forehead to the ground. And so…</p>
+   <p>I will kill one of them, Khalid thought.</p>
+   <p>Because they are so beautiful. Because my father, who works for them, must love them almost as much as he loves himself, and I will kill the thing he loves. He says be hates them, but I think it is not so. I think he loves them, and that is why he works for them. Or else he loves them and hates them both. He may feel the same way about himself. But I see the light that comes into his eyes when he looks upon them.</p>
+   <p>So I will kill one, yes. Because by killing one of them I will be killing some part of him. And maybe there will be some other value in my doing it, besides.</p>
+  </section>
+  <section>
+   <title>
+    <p>FIVE:</p>
+    <p>TWENTY-TWO YEARS FROM NOW</p>
+   </title>
+   <p>Richie Burke said, “Look at this goddamned thing, will you, Ken? Isn’t it the goddamnedest fantastic piece of shit anyone ever imagined?”</p>
+   <p>They were in what had once been the main dining room of the old defunct restaurant. It was early afternoon. Aissha was elsewhere, Khalid had no idea where. His father was holding something that seemed something like a rifle, or perhaps a highly streamlined shotgun, but it was like no rifle or shotgun he had ever seen. It was a long, slender tube of greenish-blue metal with a broad flaring muzzle and what might have been some type of gunsight mounted midway down the barrel, and a curious sort of computerized trigger arrangement on the stock. A one-of-a-kind sort of thing, custom made, a home inventor’s pride and joy.</p>
+   <p>“Is it a weapon, would you say?”</p>
+   <p>“A weapon? A weapon? what the bloody hell do you think it is, boy? It’s a fucking Entity-killing gun! Which I confiscated this very day from a nest of conspirators over Warminster way. The whole batch of them are under lock and key this very minute, thank you very much, and I’ve brought Exhibit A home for safe-keeping. Have a good look, lad. Ever seen anything so diabolical?”</p>
+   <p>Khalid realized that Richie was actually going to let him handle it. He took it with enormous care, letting it rest on both his outstretched palms. The barrel was cool and very smooth, the gun lighter than he had expected it to be. “How does it work, then?”</p>
+   <p>“Pick it up. Sight along it. You know how it’s done. Just like an ordinary gunsight.”</p>
+   <p>Khalid put it to his shoulder, right there in the room. Aimed at the fireplace. Peered along the barrel.</p>
+   <p>A few inches of the fireplace were visible in the crosshairs, in the most minute detail. Keen magnification, wonderful optics. Touch the right stud, now, and the whole side of the house would be blown out, was that it? Khalid ran his hand along the butt.</p>
+   <p>“There’s a safety on it,” Richie said. “The little red button. There. That. Mind you don’t hit it by accident. What we have here, boy, is nothing less than a rocket-powered grenade gun. A bomb-throwing machine, virtually. You wouldn’t believe it, because it’s so skinny, but what it hurls is a very graceful little projectile that will explode with almost incredible force and cause an extraordinary amount of damage, altogether extraordinary. I know because I tried it. It was amazing, seeing what that thing could do.”</p>
+   <p>“Is it loaded now?”</p>
+   <p>“Oh, yes, yes, you bet your little brown rump it is! Loaded and ready! An absolutely diabolical Entity-killing machine, the product of months and months of loving work by a little band of desperadoes with marvelous mechanical skills. As stupid as they come, though, for all their skills… Here, boy, let me have that thing before you set it off somehow.”</p>
+   <p>Khalid handed it over.</p>
+   <p>“Why stupid?” he asked. “It seems very well made.”</p>
+   <p>“I <emphasis>said</emphasis> they were skillful. This is a goddamned triumph of miniaturization, this little cannon. But what makes them think they could kill an Entity at all? Don’t they imagine anyone’s ever tried? Can’t be done, Ken, boy. Nobody ever has, nobody ever will.”</p>
+   <p>Unable to take his eyes from the gun, Khalid said obligingly, “And why is that, sir?”</p>
+   <p>“Because they’re bloody unkillable!”</p>
+   <p>“Even with something like this? Almost incredible force, you said, sir. An extraordinary amount of damage.”</p>
+   <p>“It would fucking well blow an Entity to smithereens, it would, if you could ever hit one with it. Ah, but the trick is to succeed in firing your shot, boy! Which cannot be done. Even as you’re taking your aim, they’re reading your bloody mind, that’s what they do. They know exactly what you’re up to, because they look into our minds the way we would look into a book. They pick up all your nasty little unfriendly thoughts about them. And then—bam!— they give you the bloody Push, the thing they do to people with their minds, you know, and you’re done for, piff paff poof. We’ve heard of four cases, at least. Attempted Entity assassination. Trying to take a shot as an Entity went by. Found the bodies, the weapons, just so much trash by the roadside.” Richie ran his hands up and down the gun, fondling it almost lovingly. “This gun here, it’s got an unusually great range, terrific sight, will fire upon the target from an enormous distance. Still wouldn’t work, I wager you. They can do their telepathy on you from three hundred yards away. Maybe five hundred. Who knows, maybe a thousand. Still, a damned good thing that we broke this ring up in time just in case they could have pulled it off somehow.”</p>
+   <p>“It would be bad if an Entity was killed, is that it?” Khalid asked.</p>
+   <p>Richie guffawed. “Bad? Bad? It would be a bloody catastrophe. You know what they did, the one time anybody managed to damage them in any way? No, how in hell would you know? It was right around the moment you were getting born. Some buggerly American idiots launched a laser attack from space on an Entity building. Maybe killed a few, maybe didn’t, but the Entities paid us back by letting loose a plague on us that wiped out damn near every other person there was in the world. Right here in Salisbury they were keeling over like flies. Had it myself. Thought I’d die. Damned well hoped I would, I felt so bad. Then I arose from my bed of pain and threw it off. But we don’t want to risk bringing down another plague, do we, now? Or any other sort of miserable punishment that they might choose to inflict. Because they certainly will inflict one. One thing that has been clear from the beginning is that our masters will take no shit from us, no, lad, not one solitary molecule of shit.”</p>
+   <p>He crossed the room and unfastened the door of the cabinet that had held Khan’s Mogul Palace’s meager stock of wine in the long-gone era when this building had been a licensed restaurant. Thrusting the weapon inside, Richie said, “This is where it’s going to spend the night. You will make no reference to its presence when Aissha gets back. I’m expecting Arch to come here tonight, and you will make no reference to it to him, either. It is a top secret item, do you hear me? I show it to you because I love you, boy, and because I want you to know that your father has saved the world this day from a terrible disaster, but I don’t want a shred of what I have shared with you just now to reach the ears of another human being. Or another inhuman being for that matter. Is that clear, boy? Is it?”</p>
+   <p>“I will not say a word,” said Khalid.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>And said none. But thought quite a few.</p>
+   <p>All during the evening, as Arch and Richie made their methodical way through Arch’s latest bottle of rare pre-Conquest whiskey, salvaged from some vast horde found by the greatest of good luck in a Southampton storehouse, Khalid clutched to his own bosom the knowledge that there was, right there in that cabinet, a device that was capable of blowing the head off an Entity, if only one could manage to get within firing range without announcing one’s lethal intentions.</p>
+   <p>Was there a way of achieving that? Khalid had no idea.</p>
+   <p>But perhaps the range of this device was greater than the range of the Entities’ mind-reading capacities. Or perhaps not. Was it worth the gamble? Perhaps it was. Or perhaps not.</p>
+   <p>Aissha went to her room soon after dinner, once she and Khalid had cleared away the dinner dishes. She said little these days, kept mainly to herself, drifted through her life like a sleepwalker. Richie had not laid a violent hand on her again since that savage evening several years back, but Khalid understood that she still harbored the pain of his humiliation of her, that in some ways she had never really recovered from what Richie had done to her that night. Nor had Khalid.</p>
+   <p>He hovered in the hall, listening to the sounds from his father’s room until he felt certain that Arch and Richie had succeeded in drinking themselves into their customary stupor. Ear to the door: Silence. A faint snore or two, maybe.</p>
+   <p>He forced himself to wait another 10 minutes. Still quiet in there. Delicately he pushed the door, already slightly ajar, another few inches open. Peered cautiously within.</p>
+   <p>Richie slumped head down at the table, clutching in one hand a glass that still had a little whiskey in it, cradling his guitar between his chest and knee with the other. Arch on the floor opposite him, head dangling to one side, eyes closed, limbs sprawled every which way. Snoring, both of them. Snoring. Snoring. Snoring.</p>
+   <p>Good. Let them sleep very soundly.</p>
+   <p>Khalid took the Entity-killing gun now from the cabinet. Caressed its satiny barrel. It was an elegant thing, this weapon. He admired its design. He had an artist’s eye for form and texture and color, did Khalid: some fugitive gene out of forgotten antiquity miraculously surfacing in him after a dormancy of centuries, the eye of a Gandharan sculptor, of a Rajput architect, a Gujarati miniaturist coming to the fore in him after passing through all those generations of the peasantry. Lately he had begun doing little sketches, making some carvings. Hiding everything away so that Richie would not find it. That was the sort of thing that might offend Richie, his taking up such piffling pastimes. Sports, drinking, driving around—those were proper amusements for a man.</p>
+   <p>On one of his good days last year Richie had brought a bicycle home for him: a startling gift, for bicycles were rarities, nowadays, none having been available, let alone manufactured, in England in ages. Where Richie had obtained it, from whom, with what brutality, Khalid did not like to think. But he loved his bike. Rode long hours through the countryside on it, every chance he had. It was his freedom; it was his wings. He went outside now, carrying the grenade gun, and carefully strapped it to the bicycle’s basket.</p>
+   <p>He had waited nearly three years for this moment to make itself possible.</p>
+   <p>Nearly every night nowadays, Khalid knew, one could usually see Entities traveling about on the road between Salisbury and Stonehenge, one or two at a time, riding in those cars of theirs that floated a little way above the ground on cushions of air. Stonehenge was a major center of Entity activities nowadays and there were more and more of them in the vicinity all the time. Perhaps there would be one out there this night, he thought. It was worth the chance: he would not get a second opportunity with this captured gun that his father had brought home.</p>
+   <p>About halfway out to Stonehenge there was a place on the plain where he could have a good view of the road from a little copse several hundred yards away. Khalid had no illusion that hiding in the copse would protect him from the mind-searching capacities the Entities were said to have. If they could detect him at all, the fact that he was standing in the shadow of a leafy tree would not make the slightest difference. But it was a place to wait, on this bright moonlit night. It was a place where he could feel alone, unwatched.</p>
+   <p>He went to it. He waited there.</p>
+   <p>He listened to night-noises: an owl; the rustling of the breeze through the trees; some small nocturnal animal scrabbling in the underbrush.</p>
+   <p>He was utterly calm.</p>
+   <p>Khalid had studied calmness all his life, with his grandmother Aissha as his tutor. From his earliest days he had watched her stolid acceptance of poverty, of shame, of hunger, of loss, of all kinds of pain. He had seen her handling the intrusion of Richie Burke into her household and her life with philosophical detachment, with stoic patience. To her it was all the will of Allah, not to be questioned. Allah was less real to Khalid than He was to Aissha, but Khalid had drawn from her her infinite patience and tranquility, at least, if not her faith in God. Perhaps he might find his way to God later on. At any rate, he had long ago learned from Aissha that yielding to anguish was useless, that inner peace was the only key to endurance, that everything must be done calmly, unemotionally, because the alternative was a life of unending chaos and suffering. And so he had come to understand from her that it was possible even to hate someone in a calm, unemotional way. And had contrived thus to live calmly, day by day, with the father whom he loathed.</p>
+   <p>For the Entities he felt no loathing at all. Far from it. He had never known a world without them, the vanished world where humans had been masters of their own destinies. The Entities, for him, were an innate aspect of life, simply there, as were hills and trees, the moon, or the owl that roved the night above him now, cruising for squirrels or rabbits. And they were very beautiful to behold, like the moon, like an owl moving silently overhead, like a massive chestnut tree.</p>
+   <p>He waited, and the hours passed, and in his calm way he began to realize that he might not get his chance tonight, for he knew he needed to be home and in his bed before Richie awakened and could find him and the weapon gone. Another hour, two at most, that was all he could risk out here.</p>
+   <p>Then he saw turquoise light on the highway, and knew that an Entity vehicle was approaching, coming from the direction of Salisbury. It pulled into view a moment later, carrying two of the creatures standing serenely upright, side by side, in their strange wagon that floated on a cushion of air.</p>
+   <p>Khalid beheld it in wonder and awe. And once again marveled, as ever, at their elegance of these Entities, their grace, their luminescent splendor.</p>
+   <p>How beautiful you are! Oh, yes. Yes.</p>
+   <p>They moved past him on their curious cart as though traveling on a river of light, and it seemed to him, dispassionately studying the one on the side closer to him, that what he beheld here was surely a jinni of the jinn: Allah’s creature, a thing made of smokeless fire, a separate creation. Which nonetheless must in the end stand before Allah in judgment, even as we.</p>
+   <p>How beautiful. How beautiful.</p>
+   <p>I love you.</p>
+   <p>He loved it, yes. For its crystalline beauty. A jinni? No, it was a higher sort of being than that; it was an angel. It was a being of pure light—of cool clear fire, without smoke. He was lost in rapt admiration of its angelic perfection.</p>
+   <p>Loving it, admiring it, even worshipping it, Khalid calmly lifted the grenade gun to his shoulder, calmly aimed, calmly stared through the gunsight. Saw the Entity, distant as it was, transfixed perfectly in the crosshairs. Calmly he released the safety, as Richie had inadvertently showed him how to do. Calmly put his finger to the firing stud.</p>
+   <p>His soul was filled all the while with love for the beautiful creature before him as—calmly, calmly, calmly—he pressed the stud. He heard a whooshing sound and felt the weapon kicking back against his shoulder with astonishing force, sending him thudding into a tree behind him and for a moment knocking the breath from him; and an instant later the left side of the beautiful creature’s head exploded into a cascading fountain of flame, a shower of radiant fragments. A greenish-red mist of what must be alien blood appeared and went spreading outward into the air.</p>
+   <p>The stricken Entity swayed and fell backward, dropping out of sight on the floor of the wagon.</p>
+   <p>In that same moment the second Entity, the one that was riding on the far side, underwent so tremendous a convulsion that Khalid wondered if he had managed to kill it, too, with that single shot. It tumbled forward, then back, and crashed against the railing of the wagon with such violence that Khalid imagined he could hear the thump. Its great tubular body writhed and shook, and seemed even to change color, the purple hue deepening almost to black for an instant and the orange spots becoming a fiery red. At so great a distance it was hard to be sure, but Khalid thought, also, that its leathery hide was rippling and puckering as if in a demonstration of almost unendurable pain.</p>
+   <p>It must be feeling the agony of its companion’s death, he realized. Watching the Entity lurch around blindly on the platform of the wagon in what had to be terrible pain, Khalid’s soul flooded with compassion for the creature, and sorrow, and love. It was unthinkable to fire again. He had never had any intention of killing more than one; but in any case he knew that he was no more capable of firing a shot at this stricken survivor now than he would be of firing at Aissha.</p>
+   <p>During all this time the wagon had been moving silently onward as though nothing had happened; and in a moment more it turned the bend in the road and was gone from Khalid’s sight, down the road that led toward Stonehenge.</p>
+   <p>He stood for a while watching the place where the vehicle had been when he had fired the fatal shot. There was nothing there now, no sign that anything had occurred. <emphasis>Had</emphasis> anything occurred? Khalid felt neither satisfaction nor grief nor fear nor, really, any emotion of any other sort. His mind was all but blank. He made a point of keeping it that way, knowing he was as good as dead if he relaxed his control even for a fraction of a second.</p>
+   <p>Strapping the gun to the bicycle basket again, he pedaled quietly back toward home. It was well past midnight; there was no one at all on the road. At the house, all was as it had been; Arch’s car parked in front, the front lights still on, Richie and Arch snoring away in Richie’s room.</p>
+   <p>Only now, safely home, did Khalid at last allow himself the luxury of letting the jubilant thought cross his mind, just for a moment, that had been flickering at the threshold of his consciousness for an hour:</p>
+   <p>Got you, Richie! Got you, you bastard!</p>
+   <p>He returned the grenade gun to the cabinet and went to bed, and was asleep almost instantly, and slept soundly until the first bird-song of dawn.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>In the tremendous uproar that swept Salisbury the next day, with Entity vehicles everywhere and platoons of the glossy balloonlike aliens that everybody called Spooks going from house to house, it was Khalid himself who provided the key clue to the mystery of the assassination that had occurred in the night.</p>
+   <p>“You know, I think it might have been my father who did it,” he said almost casually, in town, outside the market, to a boy named Thomas whom he knew in a glancing sort of way. “He came home yesterday with a strange sort of big gun. Said it was for killing Entities with, and put it away in a cabinet in our front room.”</p>
+   <p>Thomas would not believe that Khalid’s father was capable of such a gigantic act of heroism as assassinating an Entity. No, no, no, Khalid argued eagerly, in a tone of utter and sublime disingenuousness: He did it, I know he did it, he’s always talked of wanting to kill one of them one of these days, and now he has.</p>
+   <p>He <emphasis>has</emphasis>?</p>
+   <p>Always his greatest dream, yes, indeed.</p>
+   <p>Well, then—</p>
+   <p><emphasis>Yes</emphasis>. Khalid moved along. So did Thomas. Khalid took care to go nowhere near the house all that morning. The last person he wanted to see was Richie. But he was safe in that regard. By noon Thomas evidently had spread the tale of Khalid Burke’s wild boast about the town with great effectiveness, because word came traveling through the streets around that time that a detachment of Spooks had gone to Khalid’s house and had taken Richie Burke away.</p>
+   <p>“What about my grandmother?” Khalid asked. “She wasn’t arrested too, was she?”</p>
+   <p>“No, it was just him,” he was told. “Billy Cavendish saw them taking him, and he was all by himself. Yelling and screaming, he was, the whole time, like a man being hauled away to be hanged.”</p>
+   <p>Khalid never saw his father again.</p>
+   <p>During the course of the general reprisals that followed the killing, the entire population of Salisbury and five adjacent towns was rounded up and transported to walled detention camps near Portsmouth. A good many of the deportees were executed within the next few days, seemingly by random selection, no pattern being evident in the choosing of those who were put to death. At the beginning of the following week the survivors were sent on from Portsmouth to other Places, some of them quite remote, in various parts of the world.</p>
+   <p>Khalid was not among those executed. He was merely sent very far away.</p>
+   <p>He felt no guilt over having survived the death-lottery while others around him were being slain for his murderous act. He had trained himself since childhood to feel very little indeed, even while aiming a rifle at one of Earth’s beautiful and magnificent masters. Besides, what affair was it of his, that some of these people were dying and he was allowed to live? Everyone died, some sooner, some later. Aissha would have said that what was happening was the will of Allah. Khalid more simply put it that the Entities did as they pleased, always, and knew that it was folly to ponder their motives.</p>
+   <p>Aissha was not available to discuss these matters with. He was separated from her before reaching Portsmouth and Khalid never saw her again, either. From that day on it was necessary for him to make his way in the world on his own.</p>
+   <p>He was not quite 13 years old. Often, in the years ahead, he would look back at the time when he had slain the Entity; but he would think of it only as the time when he had rid himself of Richie Burke, for whom he had had such hatred. For the Entities he had no hatred at all, and when his mind returned to that event by the roadside on the way to Stonehenge, to the alien being centered in the crosshairs of his weapon, he would think only of the marvelous color and form of the two starborn creatures in the floating wagon, of that passing moment of beauty in the night.</p>
+  </section>
+ </body>
+ <binary id="beauty_in_the_night.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEOAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwCK+uJ7iYyTzSSP/ediTjr/AI/nWvP4J8Sw
+aPHrdxp4j02RYmS4+0REESFQny7s8llHTvWFOfrj1r2nx9OsPwn8KRDXre0L2tj5emybPMvi
+Ht+V3Hd+7zu+UHrz2r5TD0Y1uZyvoj9ZzLH1MH7KNNL3nbW/4WPM9e8DeK9DsvtmqaRJBa5C
+mVZEkVSemSrHGTxziptS+HfjDTTaJeaV5Ju7hbaAfaYTvkYEheH44UnJ44r2b4l3LaV4e8UT
+6neC7tL1oLSxtEJka3l2DO7svUOeeig8lsUnxPeA+NfCETa0jS/2rbY0wuu5R+9/0jH3ufuZ
+6c+td0supxvq+nY8GlxNiqij7sVe+tpW0SdlrvrZ9DyK2+GHi99YttLvLW2sLi5ikkh8+4Rl
+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
+6Cio3Hex/9k=</binary>
+</FictionBook>

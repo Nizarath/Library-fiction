@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Short Happy Life of the Brown Oxford and Other Classic Stories</book-title>
+   <annotation>
+    <p>Philip K. Dick.<emphasis> Prize Ship</emphasis> (“Globe From Ganymede”) 8/14/52. <emphasis>Thrilling Wonder Stories, </emphasis>Winter 1954.</p>
+   </annotation>
+   <date>1952-1955</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="1"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-10">18.04.2005</date>
+   <id>Stranger-2005-04-19-Collected_Stories_1_by_Philip_Dick_1955</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Short Happy Life of the Brown Oxford and Other Classic Stories</book-name>
+   <publisher>Citadel Press</publisher>
+   <city>New York</city>
+   <year>1990</year>
+   <isbn>0806511532</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Prize Ship </p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>General Thomas Groves gazed glumly up at the battle maps on the wall. The thin black line, the iron ring around Ganymede, was still there. He waited a moment, vaguely hoping, but the line did not go away. At last he turned and made his way out of the chart wing, past the rows of desks.</p>
+   <p>At the door Major Siller stopped him. “What’s wrong, sir? No change in the war?”</p>
+   <p>“No change.”</p>
+   <p>“What’ll we do?”</p>
+   <p>“Come to terms. Their terms. We can’t let it drag on another month. Everybody knows that. <emphasis>They </emphasis>know that.”</p>
+   <p>“Licked by a little outfit like Ganymede.”</p>
+   <p>“If only we had more time. But we don’t. The ships must be out in deep-space again, right away. If we have to capitulate to get them out, then let’s do it. Ganymede!” He spat. “If we could only break them. But by that time—”</p>
+   <p>“By that time the colonies won’t exist.”</p>
+   <p>“We have to get our cradles back in our own hands,” Groves said grimly. “Even if it takes capitulation to do it.”</p>
+   <p>“No other way will do?”</p>
+   <p>“You find another way.” Groves pushed past Siller, out into corridor. “And if you find it, let me know.”</p>
+   <empty-line/>
+   <p>The war had been going on for two Terran months, with no sign of a break. The System Senate’s difficult position came from the fact that Ganymede was the jump-off point between the System and its precarious network of colonies at Proxima Centauri. All ships leaving the System for deep-space were launched from the immense space cradles on Ganymede. There were no other cradles. Ganymede had been agreed on as the jump-off point, and the cradles had been constructed there.</p>
+   <p>The Ganymedeans became rich, hauling freight and supplies in their tubby little ships. Over a period of time more and more Gany ships took to the sky, freighters and cruisers and patrol ships.</p>
+   <p>One day this odd fleet landed among the space cradles, killed and imprisoned the Terran and Martian guards, and proclaimed that Ganymede and the cradles were their property. If the Senate wanted to use the cradles they paid, and paid plenty. Twenty per cent of all freighted goods turned over to the Gany Emperor, left on the moon. And full Senate representation.</p>
+   <p>If the Senate fleet tried to take back the cradles by force the cradles would be destroyed. The Ganymedeans had already mined them with H-bombs. The Gany fleet surrounded the moon, a little ring of hard steel. If the Senate fleet tried to break through, seize the moon, it would be the end of the cradles. What could the System do?</p>
+   <p>And at Proxima, the colonies were starving.</p>
+   <p>“You’re certain we can’t launch ships into deep-space from regular fields,” a Martian Senator asked.</p>
+   <p>“Only Class-One ships have any chance to reach the colonies,” Commander James Carmichel said wearily. “A Class-One ship is ten times the size of a regular intra-system ship. A Class-One ship needs a cradle miles deep. Miles wide. You can’t launch a ship that size from a meadow.”</p>
+   <p>There was silence. The great Senate chambers were full, crowded to capacity with representatives from all the nine planets.</p>
+   <p>“The Proxima colonies won’t last another twenty days,” Doctor Basset testified. “That means we must get a ship on the way sometime next week. Otherwise, when we do get there we won’t find anyone alive.”</p>
+   <p>“When will the new Luna cradles be ready?”</p>
+   <p>“A month,” Carmichel answered.</p>
+   <p>“No sooner?”</p>
+   <p>“No.”</p>
+   <p>“Then apparently we’ll have to accept Ganymede’s terms.” The Senate Leader snorted with disgust. “Nine planets and one wretched little moon! How dare they want equal voice with the System members!”</p>
+   <p>“We could break their ring,” Carmichel said, “but they’ll destroy the cradles without hesitation if we do.”</p>
+   <p>“If only we could get supplies to the colonies without using space cradles,” a Plutonian Senator said.</p>
+   <p>“That would mean without using Class-One ships.”</p>
+   <p>“And nothing else will reach Proxima?”</p>
+   <p>“Nothing that we know of.”</p>
+   <p>A Saturnian Senator arose. “Commander, what kind of ships does Ganymede use? They’re different from your own?”</p>
+   <p>“Yes. But no one knows anything about them.”</p>
+   <p>“How are they launched?”</p>
+   <p>Carmichel shrugged. “The usual way. From fields.”</p>
+   <p>“Do you think—”</p>
+   <p>“I don’t think they’re deep-space ships. We’re beginning to grasp at straws. There simply is no ship large enough to cross deep-space that doesn’t require a space cradle. That’s the fact we must accept.”</p>
+   <p>The Senate Leader stirred. “A motion is already before the Senate that we accept the proposal of the Ganymedeans and conclude the war. Shall we take the vote, or are there any more questions?”</p>
+   <p>No one blinked his light.</p>
+   <p>“Then we’ll begin. Mercury. What is the vote of the First Planet?”</p>
+   <p>“Mercury votes to accept the enemy’s terms.”</p>
+   <p>“Venus. What does Venus vote?”</p>
+   <p>“Venus votes—”</p>
+   <p><emphasis>“Wait!” </emphasis>Commander Carmichel stood up suddenly. The Senate Leader raised his hand.</p>
+   <p>“What is it? The Senate is voting.”</p>
+   <p>Carmichel gazed down intently at a foil strip that had been shot to him across the chamber, from the chart wing. “I don’t know how important this is, but I think perhaps the Senate should know about it before it votes.”</p>
+   <p>“What is it?”</p>
+   <p>“I have a message from the first line. A Martian raider has surprised and captured a Gany Research Station, on an asteroid between Mars and Jupiter. A large quantity of Gany equipment has been taken intact.” Carmichel looked around the hall. “Including a Gany ship, a new ship, undergoing tests at the Station. The Gany staff was destroyed, but the prize ship is undamaged. The raider is bringing it here so it can be examined by our experts.”</p>
+   <p>A murmur broke through the chamber.</p>
+   <p>“I put forth a motion that we withhold our decision until the Ganymedean ship has been examined,” a Uranian Senator shouted. “Something might come of this!”</p>
+   <p>“The Ganymedeans have put a lot of energy into designing ships,” Carmichel murmured to the Senate Leader. “Their ships are strange. Quite different from ours. Maybe…”</p>
+   <p>“What is the vote on this motion?” the Senate Leader asked. “Shall we wait until this ship can be examined?”</p>
+   <p>“Let’s wait!” voices cried. “Wait! Let’s see.”</p>
+   <p>Carmichel rubbed his paw thoughtfully. “It’s worth a try. But if nothing comes of this we’ll have to go ahead and capitulate.” He folded up the foil strip. “Anyhow, it’s worth looking into. A Gany ship. I wonder…”</p>
+   <empty-line/>
+   <p>Doctor Earl Basset’s face was red with exitement. “Let me by.” He pushed through the row of uniformed officers. “Please let me by.” Two shiny Lieutenants stepped out of his way and he saw, for the first time, the great globe of steel and rexenoid that was the captured Ganymedean ship.</p>
+   <p>“Look at it,” Major Siller whispered. “Nothing at all like our own ships. What makes it run?”</p>
+   <p>“No drive jets,” Commander Carmichel said. “Only landing jets to set her down. What makes her go?”</p>
+   <p>The Ganymedean globe rested quietly in the center of the Terran Experimental laboratory, rising up from the circle of men like a great bubble. It was a beautiful ship, glimmering with an even metallic fire, shimmering and radiating a cold light.</p>
+   <p>“It gives you a strange feeling,” General Groves said. Suddenly he caught his breath. “You don’t suppose this—this could be a gravity drive ship? The Ganys were supposed to be experimenting with gravity.”</p>
+   <p>“What’s that?” Basset said.</p>
+   <p>“A gravity drive ship would reach its destination without time lapse. The velocity of gravity is infinite. Can’t be measured. If this globe is—”</p>
+   <p>“Nonsense,” Carmichel said. “Einstein showed gravity isn’t a force but a warpage, a space warpage.”</p>
+   <p>“But couldn’t a ship be built using—”</p>
+   <p>“Gentlemen!” The Senate Leader came quickly into the laboratory, surrounded by his guards. “Is this the ship? This globe?” The officers pulled back and the Senate Leader went gingerly up to the great gleaming side. He touched it.</p>
+   <p>“It’s undamaged,” Siller said. “They’re translating the control markings so we can use it.”</p>
+   <p>“So this is the Ganymedean ship. Will it help us?”</p>
+   <p>“We don’t know yet,” Carmichel said.</p>
+   <p>“Here come the think-men,” Groves said. The hatch of the globe had opened, and two men in white lab uniforms were stepping carefully down, carrying a semantibox.</p>
+   <p>“What are the results?” the Senate Leader asked.</p>
+   <p>“We’ve made the translations. A Terran crew could operate the ship now. All the controls are marked.”</p>
+   <p>“We should make a study of the engines before we try the ship out,” Doctor Basset said. “What do we know about it? We don’t know what makes it run, or what fuel it uses.”</p>
+   <p>“How long will such a study take?” the Leader asked.</p>
+   <p>“Several days, at least,” Carmichel said.</p>
+   <p>“That long?”</p>
+   <p>“There’s no telling what we’ll run into. We may find a radically new type of drive and fuel. It might even take several weeks to finish the analysis.”</p>
+   <p>The Senate Leader pondered.</p>
+   <p>“Sir,” Carmichel said, “I think we should go ahead and have a test run. We can easily raise a volunteer crew.”</p>
+   <p>“A trial run could begin at once,” Groves said. “But we might have to wait weeks for the drive analysis.”</p>
+   <p>“You believe a complete crew would volunteer?”</p>
+   <p>Carmichel rubbed his hands together. “Don’t worry about that. Four men would do it. Three, outside of me.”</p>
+   <p>“Two,” General Groves said. “Count me in.”</p>
+   <p>“How about me, sir?” Major Siller asked hopefully.</p>
+   <p>Doctor Basset pushed up nervously. “Is it all right for a civilian to volunteer? I’m curious as hell about this.”</p>
+   <p>The Senate Leader smiled. “Why not? If you can be of use, go along. So the crew is already here.”</p>
+   <p>The four men grinned at each other.</p>
+   <p>“Well?” Groves said. “What are we waiting for? Let’s get her started!”</p>
+   <empty-line/>
+   <p>The linguist traced a meter reading with his finger. “You can see the Gany markings. Next to each we’ve put the Terran equivalent. There’s one hitch, though. We know the Gany word for, say, five. <emphasis>Zahf. </emphasis>So where we find <emphasis>zahf </emphasis>wemark a five for you. See this dial? Where the arrow’s at <emphasis>nesi? </emphasis>At zero. See how it’s marked?”</p>
+   <empty-line/>
+   <p>100 = liw</p>
+   <p>50 = ka</p>
+   <p>5 = zahf</p>
+   <p>0 = nesi</p>
+   <p>5 = zahf</p>
+   <p>50 = ka</p>
+   <p>100 = liw</p>
+   <empty-line/>
+   <p>Carmichel nodded. “So?”</p>
+   <p>“This is the problem. We don’t know what the units refer to. Five, but five what? Fifty, but fifty what? Presumably velocity. Or is it distance? Since no study has been made of the workings of this ship—”</p>
+   <p>“You can’t interpret?”</p>
+   <p>“How?” The linguist tapped a switch. “Obviously, this throws the drive on. <emphasis>Mel—</emphasis>start. You close the switch and it indicates <emphasis>io—</emphasis>stop. But how you guide the ship is a different matter. We can’t tell you what the meter is for.”</p>
+   <p>Groves touched a wheel. “Doesn’t this guide her?”</p>
+   <p>“It governs the brake rockets, the landing jets. As for the central drive we don’t know what it is or how you control it, once you’re started. Semantics won’t help you. Only experience. We can translate numbers only into numbers.”</p>
+   <p>Groves and Carmichel looked at each other.</p>
+   <p>“Well?” Groves said. “We may find ourselves lost in space. Or falling into the sun. I saw a ship spiral into the sun, once. Faster and faster, down and down—”</p>
+   <p>“We’re a long way from the sun. And we’ll point her out, toward Pluto. We’ll get control eventually. You don’t want to unvolunteer, do you?”</p>
+   <p>“Of course not.”</p>
+   <p>“How about the rest of you?” Carmichel said, to Basset and Siller. “You’re still coming along?”</p>
+   <p>“Certainly.” Basset was stepping cautiously into his spacesuit. “We’re coming.”</p>
+   <p>“Make sure you seal your helmet completely.” Carmichel helped him fasten his leggings. “Your shoes, next.”</p>
+   <p>“Commander,” Groves said, “they’re finishing on the vidscreen. I wanted it installed so we could establish contact. We might need some help getting back.”</p>
+   <p>“Good idea.” Carmichel went over, examining the leads from the screen. “Self-contained power unit?”</p>
+   <p>“For safety’s sake. Independent from the ship.”</p>
+   <p>Carmichel sat down before the vidscreen, clicking it on. The local monitor appeared. “Get me the Garrison Station on Mars. Commander Vecchi.”</p>
+   <p>The call locked through. Carmichel began to lace his boots and leggings while he waited. He was lowering his helmet into place when the screen I glowed into life. Vecchi’s dark features formed, lean-jawed above his scarlet uniform.</p>
+   <p>“Greetings, Commander Carmichel,” he murmured. He glanced curiously at Carmichel’s suit. “You are going on a trip, Commander?”</p>
+   <p>“We may visit you. We’re about to take the captured Gany ship up. If everything goes right I hope to set her down at your field, sometime later today.”</p>
+   <p>“We’ll have the field cleared and ready for you.”</p>
+   <p>“Better have emergency equipment on hand. We’re still unsure of the controls.”</p>
+   <p>“I wish you luck.” Vecchi’s eyes flickered. “I can see the interior of your ship. What drive is it?”</p>
+   <p>“We don’t know yet. That’s the problem.”</p>
+   <p>“I hope you will be able to land, Commander.”</p>
+   <p>“Thanks. So do we.” Carmichel broke the connection. Groves and Siller were already dressed. They were helping Basset tighten the screw locks of his earphones.</p>
+   <p>“We’re ready,” Groves said. He looked through the port. Outside a circle of officers watched silently.</p>
+   <p>“Say good-bye,” Siller said to Basset. “This may be our last minute on Terra.”</p>
+   <p>“Is there really much danger?”</p>
+   <p>Groves sat down beside Carmichel at the control board. “Ready?” His voice came to Carmichel through his phones.</p>
+   <p>“Ready.” Carmichel reached out his gloved hand, toward the switch marked <emphasis>mel. </emphasis>“Here we go. Hold on tight!”</p>
+   <p>He grasped the switch firmly and pulled.</p>
+   <empty-line/>
+   <p>They were falling through space.</p>
+   <p>“Help!” Doctor Basset shouted. He slid across the up-ended floor, crashing against a table. Carmichel and Groves hung on grimly, trying to keep their places at the board.</p>
+   <p>The globe was spinning and dropping, settling lower and lower through a heavy sheet of rain. Below them, visible through the port, was a vast rolling ocean, an endless expanse of blue water, as far as the eye could see. Siller stared down at it, on his hands and knees, sliding with the globe.</p>
+   <p>“Commander, where—where should we be?”</p>
+   <p>“Someplace off Mars. But this can’t be Mars!”</p>
+   <p>Groves flipped the brake rocket switches, one after another. The globe shuddered as the rockets came on, bursting into life around them.</p>
+   <p>“Easy does it,” Carmichel said, craning his neck to see through the port. “Ocean? What the hell—”</p>
+   <p>The globe leveled off, shooting rapidly above the water, parallel to the surface. Siller got slowly to his feet, hanging onto the railing. He helped Basset up. “Okay, Doc?”</p>
+   <p>“Thanks.” Basset wobbled. His glasses had come off inside his helmet. “Where are we? On Mars already?’</p>
+   <p>“We’re there,” Groves said, “but it isn’t Mars.”</p>
+   <p>“But I thought we were going to Mars.”</p>
+   <p>“So did the rest of us.” Groves decreased the speed of the globe cautiously. “You can see this isn’t Mars.”</p>
+   <p>“Then what is it?”</p>
+   <p>“I don’t know. We’ll find out, though. Commander, watch the starboard jet. It’s overbalancing. Your switch.”</p>
+   <p>Carmichel adjusted. “Where do you think we are? I don’t understand it. Are we still on Terra? Or Venus?”</p>
+   <p>Groves flicked the vidscreen on. “I’ll soon find out if we’re on Terra.” He raised the all-wave control. The screen remained blank. Nothing formed.</p>
+   <p>“We’re not on Terra.”</p>
+   <p>“We’re not anywhere in the System.” Groves spun the dial. “No response.”</p>
+   <p>“Try the frequency of the big Mars Sender.”</p>
+   <p>Groves adjusted the dial. At the spot where the Mars Sender should have come in there was—nothing. The four men gaped foolishly at the screen. All their lives they had received the familiar sanguine faces of Martian announcers on that wave. Twenty-four hours a day. The most powerful sender in the System. Mars Sender reached all the nine planets, and even out into deep-space. And it was always on the air.</p>
+   <p>“Lord,” Basset said. “We’re out of the System.”</p>
+   <p>“We’re not in the System,” Groves said. “Notice the horizontal curve—This is a small planet we’re on. Maybe a moon. But it’s no planet or moon I’ve ever seen before. Not in the System, and not the Proxima area either.”</p>
+   <p>Carmichel stood up. “The units must be big multiples, all right. We’re out of the System, perhaps all the way around the galaxy.” He peered out the port at the rolling water.</p>
+   <p>“I don’t see any stars,” Basset said.</p>
+   <p>“Later on we can get a star reading. When we’re on the other side, away from the sun.”</p>
+   <p>“Ocean,” Siller murmured. “Miles of it. And a good temperature.” He removed his helmet cautiously. “Maybe we won’t need these after all.”</p>
+   <p>“Better leave them on until we can make an atmosphere check,” Groves said. “Isn’t there a check tube on this bubble?”</p>
+   <p>“I don’t see any,” Carmichel said.</p>
+   <p>“Well, it doesn’t matter. If we—”</p>
+   <p>“Sir!” Siller exclaimed. “Land.”</p>
+   <p>They ran to the port. Land was rising into view, on the horizon of the planet. A long low strip of land, a coastline. They could see green; the land was fertile.</p>
+   <p>“I’ll turn her a little right,” Groves said, sitting down at the board. He adjusted the controls. “How’s that?”</p>
+   <p>“Heading right toward it,” Carmichel sat down beside him. “Well, at least we won’t drown. I wonder where we are. How will we know? What if the star map can’t be equated? We can take a spectroscopic analysis, try to find a known star—”</p>
+   <p>“We’re almost there,” Basset said nervously. “You better slow us down, General. We’ll crash.”</p>
+   <p>“I’m doing the best I can. Any mountains or peaks?”</p>
+   <p>“No. It seems quite flat. Like a plain.”</p>
+   <p>The globe dropped lower and lower, slowing down. Green scenery whipped past below them. Far off a row of meager hills came finally into view. The globe was barely skimming, now, as the two pilots fought to bring it to a stop.</p>
+   <p>“Easy, easy,” Groves murmured. “Too fast.”</p>
+   <p>All the brakes were firing. The globe was a bedlam of noise, knocked back and forth as the jets fired. Gradually it lost velocity, until it was almost hanging in the sky. Then it sank, like a toy balloon, settling slowly down to the green plain below.</p>
+   <p>“Cut the rockets!”</p>
+   <p>The pilots snapped their switches. Abruptly all sound ceased. They looked at each other.</p>
+   <p>“Any moment…” Carmichel murmured.</p>
+   <p><emphasis>Plop!</emphasis></p>
+   <p>“We’re down,” Basset said. “We’re down.”</p>
+   <p>They unscrewed the hatch cautiously, their helmets tightly in place. Siller held a Boris gun ready, as Groves and Carmichel swung the heavy rexenoid disc back. A blast of warm air rolled into the globe, swelling around them.</p>
+   <p>“See anything?” Basset said.</p>
+   <p>“Nothing. Level fields. Some kind of planet.” The General stepped down onto the ground. “Tiny plants! Thousands of them. I don’t know what kind.”</p>
+   <p>The other men stepped out, their boots sinking into the moist soil. They looked around them.</p>
+   <p>“Which way?” Siller said. “Toward those hills?”</p>
+   <p>“Might as well. What a flat planet!” Carmichel strode off, leaving deep tracks behind him. The others followed.</p>
+   <p>“Harmless looking place,” Basset said. He picked a handful of the little plants. “What are they? Some kind of weed.” He stuffed them into the pocket of his spacesuit.</p>
+   <p><emphasis>“Stop” </emphasis>Siller froze, rigid, his gun raised.</p>
+   <p>“What is it?”</p>
+   <p>“Something moved. Through that patch of shrubbery over there.”</p>
+   <p>They waited. Everything was quiet around them. A faint breeze eddied through the surface of green. The sky overhead was a clear, warm blue, with a few faint clouds.</p>
+   <p>“What did it look like?” Basset said.</p>
+   <p>“Some insect. Wait.” Siller crossed to the patch of plants. He kicked at them. All at once a tiny creature rushed out, scuttling away. Siller fired. The bolt from the Boris gun ignited the ground, a roar of white fire. When the cloud dissipated there was nothing but a seared pit.</p>
+   <p>“Sorry.” Siller lowered the gun shakily.</p>
+   <p>“It’s all right. Better to shoot first, on a strange planet.” Groves and Carmichel went on ahead, up a low rise.</p>
+   <p>“Wait for me,” Basset called. He fell behind the others. “I have something in my boot.”</p>
+   <p>“You can catch up.” The three went on, leaving the Doctor alone. He sat down on the moist ground, grumbling. He began to unlace his boot slowly, carefully.</p>
+   <p>Around him the air was warm. He sighed, relaxing. After a moment he removed his helmet and adjusted his glasses. Smells of plants and flowers were heavy in the air. He took a deep breath, letting it out again slowly. Then he put his helmet back on and finished lacing up his boot.</p>
+   <p>A tiny man, not six inches high, appeared from a clump of weeds and shot an arrow at him.</p>
+   <p>Basset stared down. The arrow, a minute splinter of wood, was sticking in the sleeve of his spacesuit. He opened and closed his mouth but no sounds came.</p>
+   <p>A second arrow glanced off the transparent shield of his helmet. Then a third and a fourth. The tiny man had been joined by companions, one of them on a tiny horse.</p>
+   <p>“Mother of Heaven!” Basset said.</p>
+   <p>“What’s the matter?” General Groves’ voice came in his earphones. “Are you all right, Doctor?”</p>
+   <p>“Sir, a tiny man just fired an arrow at me.”</p>
+   <p>“Really?”</p>
+   <p>“There’s—there’s a whole bunch of them, now.”</p>
+   <p>“Are you out of your mind?”</p>
+   <p>“No!” Basset scrambled to his feet. A volley of arrows rose up, sticking into his suit, glancing off his helmet. The shrill voices of the tiny men came to his ears, an excited, penetrating sound. “General, please come back here!”</p>
+   <p>Groves and Siller appeared at the top of the ridge. “Basset, you must be out of—”</p>
+   <p>They stopped, transfixed. Siller raised the Boris gun, but Groves pushed the muzzle down. “Impossible.” He advanced, staring down at the ground. An arrow pinged against his helmet. “Little men. With bows and arrows.”</p>
+   <p>Suddenly the little men turned and fled. They raced off, some on foot, some on horseback, back through the weeds and out the other side.</p>
+   <p>“There they go,” Siller said. “Should we follow them? See where they live?”</p>
+   <p>“It isn’t possible.” Groves shook his head. “No planet has yielded tiny human beings like this. So <emphasis>small!”</emphasis></p>
+   <p>Commander Carmichel strode down the ridge to them. “Did I really see it? You men saw it, too? Tiny figures, racing away?”</p>
+   <p>Groves pulled an arrow from his suit. “We saw. And felt.” He held the arrow close to the plate of his helmet, examining it. “Look—the tip glitters. Metal tipped.”</p>
+   <p>“Did you notice their costumes?” Basset said. “In a storybook I once read. Robin Hood. Little caps, boots.”</p>
+   <p>“A story…” Groves rubbed his jaw, a strange look suddenly glinting in his eyes. “A book.”</p>
+   <p>“What, sir?” Siller said.</p>
+   <p>“Nothing.” Groves came suddenly to life, moving away. “Let’s follow them. I want to see their city.”</p>
+   <p>He increased his pace, walking with great strides after the tiny men, who had not got very far off, yet.</p>
+   <p>“Come on,” Siller said. “Before they get away.” He and Carmichel and Basset followed behind Groves, catching up with him. The four of them kept pace with the tiny men, who were hurrying away as fast as they could. After a time one of the tiny men stopped, throwing himself down on the ground. The others hesitated, looking back.</p>
+   <p>“He’s tired out,” Siller said. “He can’t make it.”</p>
+   <p>Shrill squeaks rose. He was being urged on.</p>
+   <p>“Give him a hand,” Basset said. He bent down, picking the tiny figure up. He held him carefully between his gloved fingers, turning him around and around.</p>
+   <p>“Ouch!” He set him down quickly.</p>
+   <p>“What is it?” Groves came over.</p>
+   <p>“He stung me.” Basset massaged his thumb.</p>
+   <p>“Stung you?”</p>
+   <p>“Stabbed, I mean. With his sword.”</p>
+   <p>“You’ll be all right.” Groves went on, after the tiny figures.</p>
+   <p>“Sir,” Siller said to Carmichel, “this certainly makes the Ganymede problem seem remote.”</p>
+   <p>“It’s a long way off.”</p>
+   <p>“I wonder what their city will be like,” Groves said.</p>
+   <p>“I think I know,” Basset said.</p>
+   <p>“You know? How?”</p>
+   <p>Basset did not answer. He seemed to be deep in thought, watching the figures on the ground intently.</p>
+   <p>“Come on,” he said. “Let’s not lose them.”</p>
+   <empty-line/>
+   <p>They stood together, none of them speaking. Ahead, down a long slope, lay a miniature city. The tiny figures had fled into it, across a drawbridge. Now the bridge was rising, lifted by almost invisible threads. Even as they watched, the bridge snapped shut.</p>
+   <p>“Well, Doc?” Siller said. “This what you expected?”</p>
+   <p>Basset nodded. “Exactly.”</p>
+   <p>The city was walled, built of gray stone. It was surrounded by a little moat. Countless spires rose up, a conglomeration of peaks and gables, tops of buildings. There was furious activity going on inside the city. A cacophony of shrill sounds from countless throats drifted across the moat to the four men, growing louder each moment. At the walls of the city figures appeared, soldiers in armor, peering across the moat at them.</p>
+   <p>Suddenly the drawbridge quivered. It began to slide down, descending into position. There was a pause. Then—</p>
+   <p>“Look!” Groves exclaimed. “Here they come.”</p>
+   <p>Siller raised his gun. “My Lord! Look at them!”</p>
+   <p>A horde of armed men on horseback clattered across the drawbridge, spilling out onto the ground beyond. They came straight toward the four spacesuited men, the sun sparkling against their shields and spears. There were hundreds of them, decked with streamers and banners and pennants of all colors and sizes. An impressive sight, on a small scale.</p>
+   <p>“Get ready,” Carmichel said. “They mean business. Watch your legs.” He tightened the bolts of his helmet.</p>
+   <p>The first wave of horsemen reached Groves, who was standing a little ahead of the others. A ring of warriors surrounded him, little glittering armored and plumed figures, hacking furiously at his ankles with miniature swords.</p>
+   <p>“Cut it out!” Groves howled, leaping back. “Stop!”</p>
+   <p>“They’re going to give us trouble,” Carmichel said.</p>
+   <p>Siller began to giggle nervously, as arrows flew around him. “Shall I give it to them, sir? One blast from the Boris gun and—”</p>
+   <p>“No! Don’t fire—that’s an order.” Groves moved back as a phalanx of horses rushed toward him, spears lowered. He swung his leg, spilling them over with his heavy boot. A frantic mass of men and horses struggled to right themselves.</p>
+   <p>“Back,” Basset said. “Those damn archers.”</p>
+   <p>Countless men on foot were rushing from the city with long bows and quivers strapped to their backs. A chaos of shrill sound filled the air.</p>
+   <p>“He’s right,” Carmichel said. His leggings had been hacked clean through by determined knights who had dismounted and were swinging again and again, trying to chop him down. “If we’re not going to fire we better retreat. They’re tough.”</p>
+   <p>Clouds of arrows rained down on them.</p>
+   <p>“They know how to shoot,” Groves admitted. “These men are trained soldiers.”</p>
+   <p>“Watch out,” Siller said “They’re trying to get between us. Pick us off one by one.” He moved toward Carmichel nervously. “Let’s get out of here.”</p>
+   <p>“Hear them?” Carmichel said. “They’re mad. They don’t like us.”</p>
+   <p>The four men retreated, backing away. Gradually the tiny figures stopped following, pausing to reorganize their lines.</p>
+   <p>“It’s lucky for us we have our suits on,” Groves said. “This isn’t funny anymore.”</p>
+   <p>Siller bent down and pulled up a clump of weeds. He tossed the clump at the line of knights. They scattered.</p>
+   <p>“Let’s go,” Basset said. “Let’s leave.”</p>
+   <p>“Leave?”</p>
+   <p>“Let’s get out of here.” Basset was pale. “I can’t believe it. Must be some kind of hypnosis. Some kind of control of our minds. It can’t be real.”</p>
+   <p>Siller caught his arm. “Are you all right? What’s the matter?”</p>
+   <p>Basset’s face was contorted strangely. “I can’t accept it,” he muttered thickly. “Shakes the whole fabric of the universe. All basic beliefs.”</p>
+   <p>“Why? What do you mean?”</p>
+   <p>Groves put his hand on Basset’s shoulder. “Take it easy, Doctor.”</p>
+   <p>“But General—”</p>
+   <p>“I know what you’re thinking. But it can’t be. There must be some rational explanation. There has to be.”</p>
+   <p>“A fairy tale,” Basset muttered. “A story.”</p>
+   <p>“Coincidence. The story was a social satire, nothing more. A social satire, a work of fiction. It just seems like this place. The resemblance is only—”</p>
+   <p>“What are you two talking about?” Carmichel said.</p>
+   <p>“This place.” Bassett pulled away. “We’ve got to get out of here. We’re caught in a mind web of some sort.”</p>
+   <p>“What’s he talking about?” Carmichel looked from Basset to Groves. “Do you know where we are?”</p>
+   <p>“We can’t be there,” Basset said.</p>
+   <p><emphasis>‘Where?”</emphasis></p>
+   <p>“He made it up. A fairy tale. A child’s tale.”</p>
+   <p>“No, a social satire, to be exact,” Groves said.</p>
+   <p>“What are they talking about, sir?” Siller said to Commander Carmichel. “Do you know?”</p>
+   <p>Carmichel grunted. A slow light dawned in his face. “What?”</p>
+   <p>“Do you know where we are, sir?”</p>
+   <p>“Let’s get back to the globe,” Carmichel said.</p>
+   <empty-line/>
+   <p>Groves paced nervously. He stopped by the port, looking out intently, peering into the distance.</p>
+   <p>“More coming?” Basset said.</p>
+   <p>“Lots more.”</p>
+   <p>“What are they doing out there <emphasis>now?”</emphasis></p>
+   <p>“Still working on their tower.”</p>
+   <p>The little people were erecting a tower, a scaffolding up the side of the globe. Hundreds of them were working together, knights, archers, even women and boys. Horses and oxen pulling tiny carts were drawing supplies from the city. A shrill hubbub penetrated the rexenoid hull of the globe, filtering to the four men inside.</p>
+   <p>“Well?” Carmichel said. “What’ll we do? Go back?”</p>
+   <p>“I’ve had enough,” Groves said. “All I want now is to go back to Terra.”</p>
+   <p>“Where are we?” Siller demanded, for the tenth time. “Doc, you know. Tell me, damn it! All three of you know. Why won’t you say?”</p>
+   <p>“Because we want to keep our sanity,” Basset said, his teeth clenched. “That’s why.”</p>
+   <p>“I’d sure like to know,” Siller murmured. “If we went over in the corner would you tell me?”</p>
+   <p>Basset shook his head. “Don’t bother me, Major.”</p>
+   <p>“It just can’t be,” Groves said. “How <emphasis>could </emphasis>it be?”</p>
+   <p>“And if we leave, we’ll never know. We’ll never be sure. It’ll haunt us all our lives. Were we really—<emphasis>here? </emphasis>Does this place really exist? And is this place really—”</p>
+   <p>“There was a second place,” Carmichel said abruptly.</p>
+   <p>“A second place?”</p>
+   <p>“In the story. A place where the people were big.”</p>
+   <p>Basset nodded. “Yes. It was called—What?”</p>
+   <p>“Brobdingnag.”</p>
+   <p>“Brobdingnag. Maybe it exists, too.”</p>
+   <p>“Then you really think this is—”</p>
+   <p>“Doesn’t it fit his description?” Basset waved toward the port. “Isn’t that what he described? Everything small, tiny soldiers, little walled cities, oxen, horses, knights, kings, pennants. Drawbridge. Moat. And their damn towers. Always building towers—and shooting arrows.”</p>
+   <p>“Doc,” Siller said. “Whose description?”</p>
+   <p>No answer.</p>
+   <p>“Could—could you whisper it to me?”</p>
+   <p>“I don’t see how it can be,” Carmichel said flatly. “I remember the book, of course. I read it when I was a child, as we all did. Later on I realized it was a satire of the manners of the times. But good Lord, it’s either one or the other! Not a real place!”</p>
+   <p>“Maybe he had a sixth sense. Maybe he really was there. Here. In a vision. Maybe he had a vision. They say that he was supposed to have been psychotic, toward the end.”</p>
+   <p>“Brobdingnag. The other place.” Carmichel pondered. “If this exists, maybe that exists. It might tell us… We might know, for sure. Some sort of verification.”</p>
+   <p>“Yes, our theory. Hypothesis. We predict that it should exist, too. Its existence would be a kind of proof.”</p>
+   <p>“The <emphasis>L </emphasis>theory, which predicts the existence of <emphasis>B</emphasis>.”</p>
+   <p>“We’ve got to be sure,” Basset said. “If we go back without being sure, we’ll always wonder. When we’re fighting the Ganymedeans we’ll stop suddenly and wonder—was I really there? Does it really exist? All these years we thought it was just a story. But now—”</p>
+   <p>Groves walked over to the control board and sat down. He studied the dials intently. Carmichel sat down beside him.</p>
+   <p>“See this,” Groves said, touching the big central meter with his finger. “The reading is up to <emphasis>liw, </emphasis>100. Remember where it was when we started?”</p>
+   <p>“Of course. At <emphasis>nesi. </emphasis>At zero. Why?”</p>
+   <p><emphasis>“Nesi </emphasis>is neutral position. Our starting position, back on Terra. We’ve gone the limit one way. Carmichel, Basset is right. We’ve got to find out. We can’t go back to Terra without knowing if this really is… <emphasis>You know.”</emphasis></p>
+   <p>“You want to throw it back all the way? Not stop at zero? Go on to the other end? To the other <emphasis>liw?”</emphasis></p>
+   <p>Groves nodded.</p>
+   <p>“All right.” The Commander let his breath out slowly. “I agree with you. I want to know, too. I have to know.”</p>
+   <p>“Doctor Basset.” Groves brought the Doctor over to the board. “We’re not going back to Terra, not yet. The two of us want to go on.”</p>
+   <p>“On?” Basset’s face twitched. “You mean on beyond? To the other side?”</p>
+   <p>They nodded. There was silence. Outside the globe the pounding and ringing had ceased. The tower had almost reached the level of the port.</p>
+   <p>“We must know,” Groves said.</p>
+   <p>“I’m for it,” Basset said.</p>
+   <p>“Good,” Carmichel said.</p>
+   <p>“I wish one of you would tell me what it is you’re talking about,” Siller said plaintively. “Can’t you tell me?”</p>
+   <p>“Then here goes.” Groves took hold of the switch. He held it for a moment, sitting silently. “Are we ready?”</p>
+   <p>“Ready,” Basset said.</p>
+   <p>Groves threw the switch, all the way down.</p>
+   <empty-line/>
+   <p>Shapes, enormous and confused.</p>
+   <p>The globe floundered, trying to right itself. Again they were falling, sliding about. The globe was lost in a sea of vague misty forms, immense dim figures that moved on all sides of them, beyond the port.</p>
+   <p>Basset stared out, his jaws slack. “What—”</p>
+   <p>Faster and faster the globe fell. Everything was diffused, unformed. Shapes like shadows drifted and flowed outside, shapes so huge that their outlines were lost.</p>
+   <p>“Sir!” Siller muttered. “Commander! Hurry! Look!”</p>
+   <p>Carmichel made his way to the port.</p>
+   <p>They were in a world of giants. A towering figure walked past them, a torso so large that they could see only a portion of it. There were other shapes, but so vast and dim they could not be identified. All around the globe was a roaring, a deep undercurrent of sound like the waves of a monstrous ocean. An echoing sound, a booming that tossed and bounced the globe around and around.</p>
+   <p>Groves looked up at Basset and Carmichel.</p>
+   <p>“Then it’s true,” Basset said.</p>
+   <p>“This confirms it.”</p>
+   <p>“I can’t believe it,” Carmichel said. “But this is the proof we asked for. Here it is—out there.”</p>
+   <p>Outside the globe something was coming closer, coming ponderously toward them. Siller gave a sudden shout, moving back from the port. He grabbed up the Boris gun, his face ashen.</p>
+   <p>“Groves!” Basset cried. “Throw it to neutral! Quick! We’ve got to get away.”</p>
+   <p>Carmichel pushed Siller’s gun down. He grinned fixedly at him. “Sorry. This time it’s too small.”</p>
+   <p>A hand was reached toward them, a hand so large that it blotted out the light. Fingers, skin with gaping pores, nails, great tufts of hair. The globe shuddered as the hand closed around them from all sides.</p>
+   <p>“General! Quick!”</p>
+   <p>Then it was gone. The pressure ceased, winking out. Beyond the port was—nothing. The dials were in motion again, the pointer rising up toward <emphasis>nesi. </emphasis>Toward neutral. Toward Terra.</p>
+   <p>Basset breathed a sigh of relief. He removed his helmet and mopped his forehead.</p>
+   <p>“We got away,” Groves said. “Just in time.”</p>
+   <p>“A hand,” Siller said. “Reaching for us. A big hand. Where were we? Tell me!”</p>
+   <p>Carmichel sat down beside Groves. They looked silently at each other.</p>
+   <p>Carmichel grunted. “We mustn’t tell anyone. No one. They wouldn’t believe us, and anyhow, it would be very damaging if they did. A society can’t learn something like this. Too much would totter.”</p>
+   <p>“He must have seen it in a vision. Then he wrote it up as a children’s story. He knew he could never put it down as fact.”</p>
+   <p>“Something like that. So it really exists. Both exist. And perhaps others. Wonderland, Oz, Pellucidar, Erewhon, all the fantasies, dreams—”</p>
+   <p>Groves put his hand on the Commander’s arm. “Take it easy. We’ll simply tell them the ship didn’t work. As far as they’re concerned we didn’t go anywhere. Right?”</p>
+   <p>“Right.” Already, the vidscreen was sputtering, coming to life. An image was forming. “Right. We won’t say anything. Just the four of us will know.” He glanced at Siller. “Just the three of us, I mean.”</p>
+   <p>On the vidscreen the image of the Senate Leader was fully formed. “Commander Carmichel! Are you safe? Were you able to land? Mars sent us no report. Is your crew all right?”</p>
+   <p>Basset peered out the port. “We’re hanging about a mile up from the city. Terra City. Dropping slowly down. The sky is full of ships. We don’t need help, do we?”</p>
+   <p>“No,” Carmichel said. He began to fire the brake rocket slowly, easing the ship down.</p>
+   <p>“Someday, when the war is over,” Basset said, “I want to ask the Ganymedeans about this. I’d like to find out the whole story.”</p>
+   <p>“Maybe you’ll get your chance,” Groves said, suddenly sobered. “That’s right. Ganymede! Our chance to win the war certainly fizzled.”</p>
+   <p>“The Senate Leader is going to be disappointed,” Carmichel said grimly. “You may get your wish very soon, Doctor. The war will probably be over shortly, now that we’re back— empty handed.”</p>
+   <empty-line/>
+   <p>The slender yellow Ganymedean moved slowly into the room, his robes slithering across the floor after him. He stopped, bowing.</p>
+   <p>Commander Carmichel nodded stiffly.</p>
+   <p>“I was told to come here,” the Ganymedean lisped softly. “They tell me that some of our property is in this laboratory.”</p>
+   <p>“That’s right.”</p>
+   <p>“If there are no objections, we would like to—”</p>
+   <p>“Go ahead and take it.”</p>
+   <p>“Good. I am glad to see there is no animosity on your part. Now that we are all friends again, I hope that we can work together in harmony, on an equal basis of—”</p>
+   <p>Carmichel turned abruptly away, walking toward the door. “Your property is this way. Come along.”</p>
+   <p>The Ganymedean followed him into the central lab building. There, resting silently in the center of the vast room, was the globe.</p>
+   <p>Groves came over. “I see they’ve come for it.”</p>
+   <p>“Here it is,” Carmichel said to the Ganymedean. “Your spaceship. Take it.”</p>
+   <p>“Our time ship, you mean.”</p>
+   <p>Groves and Carmichel jerked. “Your <emphasis>what?”</emphasis></p>
+   <p>The Ganymedean smiled quietly. “Our time ship.” He indicated the globe. “There it is. May I begin moving it onto our transport?”</p>
+   <p>“Get Basset,” Carmichel said. “Quick!”</p>
+   <p>Groves hurried from the room. A moment later he returned with Doctor Basset.</p>
+   <p>“Doctor, this Gany is after his property.” Carmichel took a deep breath. “His— his time machine.”</p>
+   <p>Basset leaped. “His <emphasis>what? </emphasis>His time machine?” His face twitched. Suddenly he backed away. “This? A time machine? Not what we— Not—”</p>
+   <p>Groves calmed himself with an effort. He addressed the Ganymedean as casually as he could, standing to one side, a little dismayed. “May we ask you a couple of questions before you take your—your time ship?”</p>
+   <p>“Of course. I will answer as best I can.”</p>
+   <p>“This globe. It— it goes through time? Not space? It’s a time machine? Goes into the past? Into the future?”</p>
+   <p>“That is correct.”</p>
+   <p>“I see. And <emphasis>nesi </emphasis>on the dial, that’s the present.”</p>
+   <p>“Yes.”</p>
+   <p>“The upward reading is the past?”</p>
+   <p>“Yes.”</p>
+   <p>“The downward reading is the future, then. One more thing. Just one more. A person going back into the past would find that because of the expansion of the universe—”</p>
+   <p>The Ganymedean reacted. A smile crossed his face, a subtle, knowing smile. “Then you have tried out the ship?”</p>
+   <p>Groves nodded.</p>
+   <p>“You went into the past and found everything much smaller? Reduced in size?”</p>
+   <p>“That’s right— because the universe is expanding! And the future. Everything increased in size. Expanded.”</p>
+   <p>“Yes.” The Ganymedean’s smile broadened. “It is a shock, is it not? You are astonished to find your world reduced in size, populated by minute beings. But size, of course, is relative. As you discover when you go into the future.”</p>
+   <p>“So that’s it.” Groves let out his breath. “Well, that’s all. You can have your ship.”</p>
+   <p>“Time travel,” the Ganymedean said regretfully, “is not a successful undertaking. The past is too small, the future too expanded. We considered this ship a failure.”</p>
+   <p>The Gany touched the globe with his feeler.</p>
+   <p>“We could not imagine why you wanted it. It was even suggested that you stole the ship to use—” the Gany smiled— “to use to reach your colonies in deep-space. But that would have been <emphasis>too </emphasis>amusing. We could not really believe that.”</p>
+   <p>No one said anything.</p>
+   <p>The Gany made a whistling signal. A work crew came filing in and began to load the globe onto an enormous flat truck.</p>
+   <p>“So that’s it,” Groves muttered. “It was Terra all the time. And those people, they were our ancestors.”</p>
+   <p>“About fifteenth century,” Basset said. “Or so I’d say by their costumes. Middle Ages.”</p>
+   <p>They looked at each other.</p>
+   <p>Suddenly Carmichel laughed. “And we thought it was— We thought we were at—”</p>
+   <p>“I knew it was only a child’s story,” Basset said.</p>
+   <p>“A social satire,” Groves corrected him.</p>
+   <p>Silently they watched the Ganymedeans trundle their globe out of the building, onto the waiting cargo ship.</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick.<emphasis> Prize Ship</emphasis> (“Globe From Ganymede”) 8/14/52. <emphasis>Thrilling Wonder Stories, </emphasis>Winter 1954.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
+JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIo
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAAR
+CALaAfIDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAAAAECAwQFBgf/xABOEAABAwIE
+BAMFBAYGCAQHAQEBAAIDBBEFEiExBhNBUSJhcQcUMoGRI6GxwRUWM0JS0SQ0YnLh8DZDU3OC
+kpPxJjVjdBclRVRVZKJEsv/EABoBAAMBAQEBAAAAAAAAAAAAAAABAgMEBQb/xAApEQACAgEE
+AgICAgMBAQAAAAAAAQIRAwQSITFBURMiFGEFMkJxgSOR/9oADAMBAAIRAxEAPwDz0/D2KjJN
+9yn5miwIIsmHLuLrb5Je2Z7V6Eue5Rc9yhCe+fsW1egue5Si5/et80iEfJP2G1ehxJHU/VNu
+e5RdCN8/YbV6C57lFz3KEI3z9htXoLnuUXPcoQjfP2G1egue5Rc9yhCN8/YbV6C57lFz3KEI
+3z9htXoLnuUXPcoQjfP2G1egue5RmPcoQjfP2G1egue5Rc9yhCN8/YbV6C57lFz3KElwjfP2
+G1ehbnuUXPcoQjfP2G1egzHuUXPcoQjfP2G1egue5Rc9yhCN8/YbV6DMe5Rc9ymj4inI3z9h
+tXoLnuUZiepQkG5Rvn7DavQtz3KLnuUIRvn7DavQXPcoue5QhG+fsNq9COc62hKUONh4vvSH
+8kgv2CN8vY9qrodc9yi57lCEb5+xbV6C57lFz3KEI3z9htXoLnuUXPcoQjfP2G1egue5Rc9y
+hCN8/YbV6C57lFz3KEI3z9htXoLnuUXPcoQjfP2G1egue5Rc9yhCN8/YbV6DMe5Rc9yktulR
+vl7DavQXPcoue5QhG+fsNq9Bc9yi57lCEb5+w2r0Fz3KLnuUIRvn7DavQXPcoQhG+fsNq9Ah
+B3KFAwQhCABCEIAEIQgAQhCABCEIAEIQgAQhCABCEhF0AKhCEACEIQAIRpZCABJrdKhAAhCE
+ACEIQAIQhACJUIQAIQhAAhCEACEIQAIQhAAhCEACEIQAIQhAAhCEACEIQAIQhAAhCEACEIQA
+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
+QhCAP//Z</binary>
+</FictionBook>

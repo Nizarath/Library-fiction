@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_fantasy</genre>
+   <genre>sf_heroic</genre>
+   <genre>sf_social</genre>
+   <author>
+    <first-name>Michael</first-name>
+    <last-name>Moorcock</last-name>
+   </author>
+   <book-title>Elric at the End of Time</book-title>
+   <annotation>
+    <p>Цикл о Крае Времени весьма необычен. Это не фэнтези, это не научная фантастика в обычном смысле этого термина, это - нечто иное. </p>
+    <p>Край Времени - это когда "дни вселенной были сочтены". Герои этого цикла - люди, хотя человеческого в них не сильно много. Они всемогущи, а если их настигает смерть, то они легко могут возродиться, а главное - они не живут, они скорее играют в жизнь. Играют в любовь, в страдания, играют во что угодно, лишь бы занять время. Беспрерывные развлечения - вот смысл их жизни. Цикл полон языковых изысков, необычных способов построения речи и сюжета, странных имен героев, но при этом читается просто отлично.</p>
+    <p>Повесть <strong>Эльрик на Краю Времени</strong>, как по замыслу, так и по содержанию, представляется ответом читателям, которые в то время закидывали Муркока письмами с просьбами написать еще что-нибудь про Эльрика. Это не героика, как большая часть книг об Эльрике, это - фарс. Сюжетная фабула понятна из названия, но дело не в сюжете - дело в том издевательстве, через которое проходит Эльрик в течении всей повести, начиная от его встречи с Вертером и до разговора с Джеггедом - Ариохом. И этот разговор - очередная самопародия на общение с Ариохом. В общем, повесть получилась весьма своеобразной.</p>
+    <p>"Танелорн: Всё о Майкле Муркоке" <a l:href="http://www.moorcock.narod.ru/">http://www.moorcock.narod.ru/</a></p>
+   </annotation>
+   <date>1984</date>
+   <coverpage>
+    <image l:href="#legends_end_timesm.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Tales from the End of Time" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Nina</first-name>
+    <last-name></last-name>
+    <nickname>El</nickname>
+    <email>nina.el@gmail.com</email>
+   </author>
+   <program-used>FB Tools, FictionBook Editor Release 2.6</program-used>
+   <date value="2015-02-18">2006-01-11</date>
+   <src-ocr>"Танелорн: Всё о Майкле Муркоке" http://www.moorcock.narod.ru/</src-ocr>
+   <id>C3F34866-F1E7-4235-83F0-F44D9A5D4570</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Elric at the End of Time</p>
+   <p>BY MICHAEL MOORCOCK </p>
+   <p>Book Five of the End of Time</p>
+   <p>Book One of Elric Apocryphal Storyes</p>
+  </title>
+  <section>
+   <p><emphasis>For Terry Pratchett </emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>1 In which Mrs Persson Detects an Above Average Degree of Chaos in the Megaflow </p>
+   </title>
+   <p>Returning from China to London and the Spring of 1936, Una Persson found an unfamiliar quality of pathos in most of the friends she had last seen, as far as she recalled, during the Blitz on her way back from 1970. Then they had been desperately hearty: it was a comfort to understand that the condition was not permanent. Here, at present, Pierrot ruled and she felt she possessed a better grip on her power. This was, she admitted with shame, her favourite moral climate for it encouraged in her an enormously gratifying sense of spiritual superiority: the advantage of having been born, originally, into a later and probably more sophisticated age. The 1960s. Some women, she reflected, were forced to have children in order to enjoy this pleasure. </p>
+   <p>But she was uneasy, so she reported to the local Time Centre and the bearded, sullen features of Sergeant Alvarez who welcomed her in white, apologizing for the fact that he had himself only just that morning left the Lower Devonian and had not had time to change. </p>
+   <p>"It's the megaflow, as you guessed, " he told her, operating toggles to reveal his crazy display systems. "We've lost control." </p>
+   <p>"We never really had it." She lit a Sherman's and shook her long hair back over the headrest of the swivel chair, opening her military overcoat and loosening her webbing. "Is it worse than usual?" </p>
+   <p>"Much." He sipped cold coffee from his battered silver mug. "It cuts through every plane we can pick up — a rogue current swerving through the dimensions. Something of a twister." </p>
+   <p>"Jerry?" </p>
+   <p>"He's dormant. We checked. But it's like him, certainly. Most probably another aspect." </p>
+   <p>"Oh, sod." Una straightened her shoulders. </p>
+   <p>"That's what I thought, " said Alvarez. "Someone's going to have to do a spot of rubato." He studied a screen. It was Greek to Una. For a moment a pattern formed. Alvarez made a note. "Yes. It can either be fixed at the nadir or the zenith. It's too late to try anywhere in between. I think it's up to you, Mrs P." </p>
+   <p>She got to her feet. "Where's the zenith?" </p>
+   <p>"The End of Time." </p>
+   <p>"Well, " she said, "that's something." </p>
+   <p>She opened her bag and made sure of her jar of instant coffee. It was the one thing she couldn't get at the End of Time. </p>
+   <p>"Sorry, " said Alvarez, glad that the expert had been there and that he could remain behind. </p>
+   <p>"It's just as well, " she said. "This period's no good for my moral well-being. I'll be off, then." </p>
+   <p>"Someone's got to." Alvarez failed to seem sympathetic. "It's Chaos out there." </p>
+   <p>"You don't have to tell me." </p>
+   <p>She entered the make-shift chamber and was on her way to the End of Time. </p>
+  </section>
+  <section>
+   <title>
+    <p>2 In which The Eternal Champion Finds Himself at the End of Time </p>
+   </title>
+   <p>Elric of Melnibone shook a bone-white fist at the greedy, glaring stars — the eyes of all those men whose souls he had stolen to sustain his own enfeebled body. He looked down. Though it seemed he stood on something solid, there was only more blackness falling away below him. It was as if he hung at the centre of the universe. And here, too, were staring points of yellow light. Was he to be judged? </p>
+   <p>His half-sentient runesword, Stormbringer, in its scabbard on his left hip, murmured like a nervous dog. </p>
+   <p>He had been on his way to Imrryr, to his home, to reclaim his kingdom from his cousin Yyrkoon; sailing from the Isle of the Purple Towns where he had guested with Count Smiorgan Baldhead. Magic winds had caught the Filkharian trader as she crossed the unnamed water between the Vilmirian peninsula and the Isle of Melnibone. She had been borne into the Dragon Sea and thence to The Sorcerer's Isle, so-called because that barren place had been the home of Cran Liret, the Thief of Spells, a wizard infamous for his borrowings, who had, at length, been dispatched by those he sought to rival. But much residual magic had been left behind. Certain spells had come into the keeping of the Krettii, a tribe of near-brutes who had migrated to the island from the region of The Silent Land less than fifty years before. Their shaman, one Grrodd Ybene Eenr, had made unthinking use of devices buried by the dying sorcerer as the spells of his peers sucked life and sanity from them. Elric had dealt with more than one clever wizard, but never with so mindless a power. His battle had been long and exhausting and had required the sacrifice of most of the Filkharians as well as the entire tribe of Krettii. His sorcery had become increasingly desperate. Sprite fought sprite, devil fell upon devil, in planes both physical and astral, all around the region of The Sorcerer's Isle. Eventually Elric had mounted a massive Summoning against the allies of Grrodd Ybene Eenr with the result that the shaman had been at last overwhelmed and his remains scattered in Limbo. But Elric, captured by his own monstrous magickings, had followed his enemy and now he stood in the Void, crying out into appalling silence, hearing his words only in his skull: </p>
+   <p>"Arioch! Arioch! Aid me! " </p>
+   <p>But his patron Duke of Hell was absent. He could not exist here. He could not, for once, even hear his favourite protege. </p>
+   <p>"Arioch! Repay my loyalty! I have given you blood and souls! " </p>
+   <p>He did not breathe. His heart had stopped. All his movements were sluggish. </p>
+   <p>The eyes looked down at him. They looked up at him. Were they glad? Did they rejoice in his terror? </p>
+   <p>"Arioch! " </p>
+   <p>He yearned for a reply. He would have wept, but no tears would come. His body was cold; less than dead, yet not alive. A fear was in him greater than any fear he had known before. </p>
+   <p>"Oh, Arioch! Aid me! " </p>
+   <p>He forced his right hand towards the pulsing pommel of Stormbringer which, alone, still possessed energy. The hilt of the sword was warm to his touch and, as slowly he folded his fingers around it, it seemed to swell in his fist and propel his arm upwards so that he did not draw the sword. Rather the sword forced his limbs into motion. And now it challenged the void, glowing with black fire, singing its high, gleeful battlesong. </p>
+   <p>"Our destinies are intertwined, Stormbringer, " said Elric. "Bring us from this place, or those destinies shall never be fulfilled." </p>
+   <p>Stormbringer swung like the needle of a compass and Elric's unfeeling arm was wrenched round to go with it. In eight directions the sword swung, as if to the eight points of Chaos. It was questing — like a hound sniffing a trail. Then a yell sounded from within the strange metal of the blade; a distant cry of delight, it seemed to Elric. The sound one would hear if one stood above a valley listening to children playing far below. </p>
+   <p>Elric knew that Stormbringer had sensed a plane they might reach. Not necessarily their own, but one which would accept them. And, as a drowning mariner must yearn for the most inhospitable rock rather than no rock at all, Elric yearned for that plane. </p>
+   <p>"Stormbringer. Take us there! " </p>
+   <p>The sword hesitated. It moaned. It was suspicious. </p>
+   <p>"Take us there! " whispered the albino to his runesword. </p>
+   <p>The sword struck back and forth, up and down, as if it battled invisible enemies. Elric scarcely kept his grip on it. It seemed that Stormbringer was frightened of the world it had detected and sought to drive it back but the act of seeking had in itself set them both in motion. Already Elric could feel himself being drawn through the darkness, towards something he could see very dimly beyond the myriad eyes, as dawn reveals clouds undetected in the night sky. </p>
+   <p>Elric thought he saw the shapes of crags, pointed and crazy. He thought he saw water, flat and ice-blue. The stars faded and there was snow beneath his feet, mountains all around him, a huge, blazing sun overhead — and above that another landscape, a desert, as a magic mirror might reflect the contrasting character of he who peered into it — a desert, quite as real as the snowy peaks in which he crouched, sword in hand, waiting for one of these landscapes to fade so that he might establish, to a degree, his bearings. Evidently the two planes had intersected. </p>
+   <p>But the landscape overhead did not fade. He could look up and see sand, mountains, vegetation, a sky which met his own sky at a point halfway along the curve of the huge sun — and blended with it. He looked about him. Snowy peaks in all directions. Above — desert everywhere. He felt dizzy, found that he was staring downwards, reaching to cup some of the snow in his hand. It was ordinary snow, though it seemed reluctant to melt in contact with his flesh. </p>
+   <p>"This is a world of Chaos, " he muttered. "It obeys no natural laws." His voice seemed loud, amplified by the peaks, perhaps. "That is why you did not want to come here. This is the world of powerful rivals." </p>
+   <p>Stormbringer was silent, as if all its energy were spent. But Elric did not sheath the blade. He began to trudge through the snow towards what seemed to be an abyss. Every so often he glanced upward, but the desert overhead had not faded, sun and sky remained the same. He wondered if he walked around the surface of a miniature world. That if he continued to go forward he might eventually reach the point where the two landscapes met. He wondered if this were not some punishment wished upon him by his untrustworthy allies of Chaos. Perhaps he must choose between death in the snow or death in the desert. He reached the edge of the abyss and looked down. </p>
+   <p>The walls of the abyss fell for all of five feet before reaching a floor of gold and silver squares which stretched for perhaps another seven feet before they reached the far wall, where the landscape continued — snow and crags — uninterrupted. </p>
+   <p>"This is undoubtedly where Chaos rules, " said the Prince of Melnibone. He studied the smooth, chequered floor. It reflected parts of the snowy terrain and the desert world above it. It reflected the crimson-eyed albino who peered down at it, his features drawn in bewilderment and tiredness. </p>
+   <p>"I am at their mercy, " said Elric. "They play with me. But I shall resist them, even as they destroy me." And some of his wild, careless spirit came back to him as he prepared to lower himself onto the chequered floor and cross to the opposite bank. </p>
+   <p>He was halfway over when he heard a grunting sound in the distance and a beast appeared, its paws slithering uncertainly on the smooth surface, its seven savage eyes glaring in all directions as if it sought the instigator of its terrible indignity. </p>
+   <p>And, at last, all seven eyes focused on Elric and the beast opened a mouth in which row upon row of thin, vicious teeth were arranged, and uttered a growl of unmistakable resentment. </p>
+   <p>Elric raised his sword. "Back creature of Chaos. You threaten the Prince of Melnibone! " </p>
+   <p>The beast was already propelling itself towards him. Elric flung his body to one side, aiming a blow with the sword as he did so, succeeding only in making a thin incision in the monster's heavily muscled hind leg. It shrieked and began to turn. </p>
+   <p>"Back! " </p>
+   <p>Elric's voice was the brave, thin squeak of a lemming attacked by a hawk. He drove at the thing's snout with Stormbringer. The sword was heavy. It had spent all its energy and there was no more to give. Elric wondered why he, himself, did not weaken. Possibly the laws of nature were entirely abolished in the Realm of Chaos. He struck and drew blood. The beast paused, more in astonishment than fear. </p>
+   <p>Then it opened its jaws, pushed its back legs against the snowy bank, and shot towards the albino who tried to dodge it, lost his footing, and fell, sprawling backwards, on the gold and silver surface. </p>
+  </section>
+  <section>
+   <title>
+    <p>3 In which Una Persson Discovers an Unexpected Snag </p>
+   </title>
+   <p>The gigantic beetle, rainbow carapace glittering, turned as if into the wind, which blew from the distant mountains, its thick, flashing wings beating rapidly as it bore its single passenger over the queer landscape. </p>
+   <p>On its back Mrs Persson checked the instruments on her wrist. Ever since Man had begun to travel in time it had become necessary for the Guild to develop techniques to compensate for the fluctuations and disruptions in the space-time continua; perpetually monitoring the chronoflow and megaflow. She pursed her lips. She had picked up the signal. She made the semi-sentient beetle swing a degree or two SSE and head directly for the mountains. She was in some sort of enclosed (but vast) environment. These mountains, as well as everything surrounding them, lay in the territory most utilized by the gloomy, natural-born Werther de Goethe, poet and romantic, solitary seeker after truth in a world no longer differentiating between the degrees of reality. He would not remember her, she knew, because, as far as Werther was concerned, they had not met yet. Had Werther even experienced his adventure with Mistress Christia, the Everlasting Concubine? A story on which she had dined out more than once, in duller eras. </p>
+   <p>The mountains drew closer. From here it was possible to see the entire arrangement (a creation of Werther's very much in character): a desert landscape, a central sun, and, inverted above it, winter mountains. Werther strove to make statements, like so many naive artists before him, by presenting simple contrasts: The World is Bleak/The World is Cold/Barren am I As I Grow Old/Tomorrow I Die, Entombed in Cold/For Silver My Poor Soul Was Sold — she remembered he was perhaps the worst poet she had encountered in an eternity of meetings with bad poets. He had taught himself to read and write in old, old English so that he might carve those words on one of his many abandoned tombs (half his time was spent in composing obituaries for himself). Like so many others he seemed to equate self-pity with artistic inspiration. In an earlier age he might have discovered his public and become quite rich (self-pity passing for passion in the popular understanding). Sometimes she regretted the passing of Wheldrake, so long ago, so far away, in a universe bearing scarcely any resemblances to those in which she normally operated. </p>
+   <p>She brought her wavering mind back to the problem. The beetle dipped and circled over the desert, but there was no sight of her quarry. </p>
+   <p>She was about to abandon the search when she heard a faint roaring overhead and she looked up to see another characteristic motif of Werther's — a gold and silver chessboard on which, upside down, a monstrous doglike creature was bearing down on a tiny white-haired man dressed in the most abominable taste Una had seen for some time. </p>
+   <p>She directed the air car upwards and then, reversing the machine as she entered the opposing gravity, downwards to where the barbarically costumed swordsman was about to be eaten by the beast. </p>
+   <p>"Shoo! " cried Una commandingly. </p>
+   <p>The beast raised a befuddled head. </p>
+   <p>"Shoo." </p>
+   <p>It licked its lips and returned its seven-eyed gaze to the albino, who was now on his knees, using his large sword to steady himself as he climbed to his feet. </p>
+   <p>The jaws opened wider and wider. The pale man prepared, shakily, to defend himself. </p>
+   <p>Una directed the air car at the beast's unkempt head. The great beetle connected with a loud crack. The monster's eyes widened in dismay. It yelped. It sat on its haunches and began to slide away, its claws making an unpleasant noise on the gold and silver tiles. </p>
+   <p>Una landed the air car and gestured for the stranger to enter. She noticed with distaste that he was a somewhat unhealthy looking albino with gaunt features, exaggeratedly large and slanting eyes, ears that were virtually pointed, and glaring, half-mad red pupils. </p>
+   <p>And yet, undoubtedly, it was her quarry and there was nothing for it but to be polite. </p>
+   <p>"Do, please, get in, " she said. "I am here to rescue you." </p>
+   <p>" Shaarmraaam torjistoo quellahm vyeearrr ," said the stranger in an accent that seemed to Una to be vaguely Scottish. </p>
+   <p>"Damn, " she said, "that's all we need." She had been anxious to approach the albino in private, before one of the denizens of the End of Time could arrive and select him for a menagerie, but now she regretted that Werther or perhaps Lord Jagged were not here, for she realized that she needed one of their translation pills, those tiny tablets which could "engineer" the brain to understand a new language. By a fluke — or perhaps because of her presence here so often — the people at the End of Time currently spoke formal early twentieth-century English. </p>
+   <p>The albino — who wore a kind of tartan divided kilt, knee-length boots, a blue and white jerkin, a green cloak and a silver breastplate, with a variety of leather belts and metal buckles here and there upon his person — was vehemently refusing her offer of a lift. He raised the sword before him as he backed away, slipped once, reached the bank, scrambled through snow and disappeared behind a rock. </p>
+   <p>Mrs Persson sighed and put the car into motion again. </p>
+  </section>
+  <section>
+   <title>
+    <p>4 In which The Prince of Melnibone Encounters Further Terrors </p>
+   </title>
+   <p>Xiombarg herself, thought Elric as he slid beneath the snows into the cave. Well, he would have no dealings with the Queen of Chaos; not until he was forced to do so. </p>
+   <p>The cave was large. In the thin light from the gap above his head he could not see far. He wondered whether to return to the surface or risk going deeper into the cave. There was always the hope that he would find another way out. He was attempting to recall some rune that would aid him, but all he knew depended either upon the aid of elementals who did not exist on this plane, or upon the Lords of Chaos themselves — and they were unlikely to come to his assistance in their own realm. He was marooned here: the single mouse in a world of cats. </p>
+   <p>Almost unconsciously, he found himself moving downwards, realizing that the cave had become a tunnel. He was feeling hungry but, apart from the monster and the woman in the magical carriage, had seen no sign of life. Even the cavern did not seem entirely natural. </p>
+   <p>It widened; there was phosphorescent light. He realized that the walls were of transparent crystal and, behind the walls, were all manner of artefacts. He saw crowns, sceptres and chains of precious jewels; cabinets of complicated carving; weapons of strangely turned metal; armour, clothing, things whose use he could not guess — and food. There were sweetmeats, fruits, flans and pies, all out of reach. </p>
+   <p>Elric groaned. This was torment. Perhaps deliberately planned torment. A thousand voices whispered to him in a beautiful, alien language. </p>
+   <p>"Bie-meee … Bie-meee …" the voices murmured. " Baa-gen baa-gen …" </p>
+   <p>They seemed to be promising every delight, if only he could pass through the walls; but they were of transparent quartz, lit from within. He raised Stormbringer, half-tempted to try to break down the barrier, but he knew that even his sword was, at its most powerful, incapable of destroying the magic of Chaos. </p>
+   <p>He paused, gasping with astonishment at a group of small dogs which looked at him with large brown eyes, tongues lolling, and jumped up at him. </p>
+   <p>"O, Nee Tubbens! " intoned one of the voices. </p>
+   <p>"Gods! " screamed Elric. "This torture is too much! " He swung his body this way and that, threatening with his sword, but the voices continued to murmur and promise, displaying their riches but never allowing him to touch. </p>
+   <p>The albino panted. His crimson eyes glared about him. "You would drive me insane, eh? Well, Elric of Melnibone has witnessed more frightful threats than this. You will need to do more if you would destroy his mind! " </p>
+   <p>And he ran through the whispering passages, looking to neither his right nor his left, until, quite suddenly, he had run into blazing daylight and stood staring down into pale infinity — a blue and endless void. </p>
+   <p>He looked up. And he screamed. </p>
+   <p>Overhead were the gentle hills and dales of a rural landscape, with rivers, grazing cattle, woods and cottages. He expected to fall, headlong, but he did not. He was on the brink of the abyss. The cliff-face of red sandstone fell immediately below and then was the tranquil void. He looked back: </p>
+   <p>"Baa-gen … O, Nee Tubbens …" </p>
+   <p>A bitter smile played about the albino's bloodless lips as, decisively, he sheathed his sword. </p>
+   <p>"Well, then, " he said. "Let them do their worst! " </p>
+   <p>And, laughing, he launched himself over the brink of the cliff. </p>
+  </section>
+  <section>
+   <title>
+    <p>5 In which Werther de Goethe Makes a Wonderful Discovery </p>
+   </title>
+   <p>With a gesture of quiet pride, Werther de Goethe indicated his gigantic skull. </p>
+   <p>"It is very large, Werther, " said Mistress Christia, the Everlasting Concubine, turning a power ring to adjust the shade of her eyes so that they perfectly matched the day. </p>
+   <p>"It is monstrous, " said Werther modestly. "It reminds us all of the Inevitable Night." </p>
+   <p>"Who was that?" enquired golden-haired Gaf the Horse in Tears, at present studying ancient legendry. "Sir Lew Grady?" </p>
+   <p>"I mean Death, " Werther told him, "which overwhelms us all." </p>
+   <p>"Well, not us, " pointed out the Duke of Queens, as usual a trifle literal minded. "Because we're immortal, as you know." </p>
+   <p>Werther offered him a sad, pitying look and sighed briefly. "Retain your delusions, if you will." </p>
+   <p>Mistress Christia stroked the gloomy Werther's long, dark locks. "There, there, " she said. "We have compensations, Werther." </p>
+   <p>"Without Death, " intoned the Last Romantic, "there is no point to Life." </p>
+   <p>As usual, they could not follow him, but they nodded gravely and politely. </p>
+   <p>"The skull, " continued Werther, stroking the side of his air car (which was in the shape of a large flying reptile) to make it circle and head for the left eye-socket, "is a Symbol not only of our Mortality, but also of our Fruitless Ambitions." </p>
+   <p>"Fruit?" Bishop Castle, drowsing at the rear of the vehicle, became interested. His hobby was currently orchards. "Less? My pine-trees, you know, are proving a problem. The apples are much smaller than I was led to believe." </p>
+   <p>"The skull is lovely, " said Mistress Christia with valiant enthusiasm. "Well, now that we have seen it…" </p>
+   <p>"The outward shell, " Werther told her. "It is what it hides which is more important. Man's Foolish Yearnings are all encompassed therein. His Greed, his Need for the Impossible, the Heat of his Passions, the Coldness which must Finally Overtake him. Through this eye-socket you will encounter a little invention of my own called The Bargain Basement of the Mind…" </p>
+   <p>He broke off in astonishment. </p>
+   <p>On the top edge of the eye-socket a tiny figure had emerged. </p>
+   <p>"What's that?" enquired the Duke of Queens, craning his head back. "A random thought?" </p>
+   <p>"It is not mine at all! " </p>
+   <p>The figure launched itself into the sky and seemed to fly, with flailing limbs, towards the sun. </p>
+   <p>Werther frowned, watching the tiny man disappear. "The gravity field is reversed there, " he said absently, "in order to make the most of the paradox, you understand. There is a snowscape, a desert…" But he was much more interested in the newcomer. "How do you think he got into my skull?" </p>
+   <p>"At least he's enjoying himself. He seems to be laughing." Mistress Christia bent an ear towards the thin sound, which grew fainter and fainter at first, but became louder again. "He's coming back." </p>
+   <p>Werther nodded. "Yes. The field's no longer reversed." He touched a power ring. </p>
+   <p>The laughter stopped and became a yell of rage. The figure hurtled down on them. It had a sword in one white hand and its red eyes blazed. </p>
+   <p>Hastily, Werther stroked another ring. The stranger tumbled into the bottom of the air car and lay there panting, cursing and groaning. </p>
+   <p>"How wonderful! " cried Werther. "Oh, this is a traveller from some rich, romantic past. Look at him! What else could he be? What a prize! " </p>
+   <p>The stranger rose to his feet and raised the sword high above his head, defying the amazed and delighted passengers as he screamed at the top of his voice: </p>
+   <p>"Heeshgeegrowinaz! " </p>
+   <p>"Good afternoon, " said Mistress Christia. She reached in her purse for a translation pill and found one. "I wonder if you would care to swallow this — it's quite harmless…" </p>
+   <p>"Yakoom, oom glallio ", said the albino contemptuously. </p>
+   <p>"Aha, " said Mistress Christia. "Well, just as you please." </p>
+   <p>The Duke of Queens pointed towards the other socket. A huge, whirring beetle came sailing from it. In its back was someone he recognized with pleasure. "Mrs Persson! " </p>
+   <p>Una brought her air car alongside. </p>
+   <p>"Is he in your charge?" asked Werther with undisguised disappointment. "If so, I could offer you…" </p>
+   <p>"I'm afraid he means a lot to me, " she said. </p>
+   <p>"From your own age?" Mistress Christia also recognized Una. She still offered the translation pill in the palm of her hand. "He seems a mite suspicious of us." </p>
+   <p>"I'd noticed, " said Una. "It would be useful if he would accept the pill. However, if he will not, one of us…" </p>
+   <p>"I would be happy, " offered the generous Duke of Queens. He tugged at his green and gold beard. "Werther de Goethe, Mrs Persson." </p>
+   <p>"Perhaps I had better, " said Una nodding to Werther. The only problem with translation pills was that they did their job so thoroughly. You could speak the language perfectly, but you could speak no other. </p>
+   <p>Werther was, for once, positive. "Let's all take a pill, " he suggested. </p>
+   <p>Everyone at the End of Time carried translation pills, in case of meeting a visitor from Space or the Past. </p>
+   <p>Mistress Christia handed hers to Una and found another. They swallowed. </p>
+   <p>"Creatures of Chaos, " said the newcomer with cool dignity, "I demand that you release me. You cannot hold a mortal in this way, not unless he has struck a bargain with you. And no bargain was struck which would bring me to the Realm of Chaos." </p>
+   <p>"It's actually more orderly than you'd think, " said Werther apologetically. "Your first experience, you see, was the world of my skull, which was deliberately muddled. I meant to show what Confusion was the Mind of Man…" </p>
+   <p>"May I introduce Mistress Christia, the Everlasting Concubine, " said the Duke of Queens, on his best manners. "This is Mrs Persson, Bishop Castle, Gaf the Horse in Tears. Werther de Goethe — your unwitting host — and I am the Duke of Queens. We welcome you to our world. Your name, sir…?" </p>
+   <p>"You must know me, my lord duke, " said Elric. "For I am Elric of Melnibone, Emperor by Right of Birth, Inheritor of the Ruby Throne, Bearer of the Actorios, Wielder of the Black Sword…" </p>
+   <p>"Indeed! " said Werther de Goethe. In a whispered aside to Mrs Persson: "What a marvellous scowl! What a noble sneer! " </p>
+   <p>"You are an important personage in your world, then?" said Mistress Christia, fluttering the eyelashes she had just extended by half an inch. "Perhaps you would allow me…" </p>
+   <p>"I think he wishes to be returned to his home, " said Mrs Persson hastily. </p>
+   <p>"Returned?" Werther was astonished. "But the Morphail Effect! It is impossible." </p>
+   <p>"Not in this case, I think, " she said. "For if he is not returned there is no telling the fluctuations which will take place throughout the dimensions…" </p>
+   <p>They could not follow her, but they accepted her tone. </p>
+   <p>"Aye, " said Elric darkly, "return me to my realm, so that I may fulfil my own doom-laden destiny…" </p>
+   <p>Werther looked upon the albino with affectionate delight. "Aha! A fellow spirit! I, too, have a doom-laden destiny." </p>
+   <p>"I doubt it is as doom-laden as mine." Elric peered moodily back at the skull as the two air cars fled away towards a gentle horizon where exotic trees bloomed. </p>
+   <p>"Well, " said Werther with an effort, "perhaps it is not, though I assure you…" </p>
+   <p>"I have looked upon hell-born horror, " said Elric, "and communicated with the very Gods of the Uttermost Darkness. I have seen things which would turn other men's minds to useless jelly…" </p>
+   <p>"Jelly?" interrupted Bishop Castle. "Do you, in your turn, have any expertise with, for instance, blackbird trees?" </p>
+   <p>"Your words are meaningless, " Elric told him, glowering. "Why do you torment me so, my lords? I did not ask to visit your world. I belong in the world of men, in the Young Kingdoms, where I seek my weird. Why, I have but lately experienced adventures…" </p>
+   <p>"I do think we have one of those bores, " murmured Bishop Castle to the Duke of Queens, "so common amongst time travellers. They all believe themselves unique." </p>
+   <p>But the Duke of Queens refused to be drawn. He had developed a liking for the frowning albino. Gaf the Horse in Tears was also plainly impressed, for he had fashioned his own features into a rough likeness of Elric's. The Prince of Melnibone pretended insouciance, but it was evident to Una that he was frightened. She tried to calm him. </p>
+   <p>"People here at the End of Time…" she began. </p>
+   <p>"No soft words, my lady." A cynical smile played about the albino's lips. "I know you for that great unholy temptress, Queen of the Swords, Xiombarg herself." </p>
+   <p>"I assure you, I am as human as you, sir…" </p>
+   <p>"Human? I, human? I am not human, madam — though I be a mortal, 'tis true. I am of older blood, the blood of the Bright Empire itself, the Blood of R'lin K'ren A'a which Cran Liret mocked, not understanding what it was he laughed at. Aye, though forced to summon aid from Chaos, I made no bargain to become a slave in your realm…" </p>
+   <p>"I assure you — um — your majesty, " said Una, "that we had not meant to insult you and your presence here was no doing of ours. I am, as it happens, a stranger here myself. I came especially to see you, to help you escape…" </p>
+   <p>"Ha! " said the albino. "I have heard such words before. You would lure me into some worse trap than this. Tell me, where is Duke Arioch? He, at least, I owe some allegiance to." </p>
+   <p>"We have no-one of that name, " apologized Mistress Christia. She enquired of Gaf, who knew everyone. "No time traveller?" </p>
+   <p>"None, " Gaf studied Elric's eyes and made a small adjustment to his own. He sat back, satisfied. </p>
+   <p>Elric shuddered and turned away mumbling. </p>
+   <p>"You are very welcome here, " said Werther. "I cannot tell you how glad I am to meet one as essentially morbid and self-pitying as myself! " </p>
+   <p>Elric did not seem flattered. </p>
+   <p>"What can we do to make you feel at home?" asked Mistress Christia. She had changed her hair to a rather glossy blue in the hope, perhaps, that Elric would find it more attractive. "Is there anything you need?" </p>
+   <p>"Need? Aye. Peace of mind. Knowledge of my true destiny. A quiet place where I can be with Cymoril, whom I love." </p>
+   <p>"What does this Cymoril look like?" Mistress Christia became just a trifle over-eager. </p>
+   <p>"She is the most beautiful creature in the universe, " said Elric. </p>
+   <p>"It isn't very much to go on, " said Mistress Christia. "If you could imagine a picture, perhaps? There are devices in the old cities which could visualize your thoughts. We could go there. I should be happy to fill in for her, as it were…" </p>
+   <p>"What? You offer me a simulacrum? Do you not think I should detect such witchery at once? Ah, this is loathsome! Slay me, if you will, or continue the torment. I'll listen no longer! " </p>
+   <p>They were floating now, between high cliffs. On a ledge far below a group of time travellers pointed up at them. One waved desperately. </p>
+   <p>"You've offended him, Mistress Christia, " said Werther pettishly. "You don't understand how sensitive he is." </p>
+   <p>"Yes I do." She was aggrieved. "I was only being sympathetic." </p>
+   <p>"Sympathy! " Elric rubbed at his long, somewhat pointed jaw. "Ha! What do I want with sympathy?" </p>
+   <p>"I never heard anyone who wanted it more." Mistress Christia was kind. "You're like a little boy, really, aren't you?" </p>
+   <p>"Compared to the ancient Lords of Chaos, I am a child, aye. But my blood is old and cold, the blood of decaying Melnibone, as well you know." And with a huge sigh the albino seated himself at the far end of the car and rested his head on his fist. "Well? What is your pleasure, my lords and ladies of Hell?" </p>
+   <p>"It is your pleasure we are anxious to achieve, " Werther told him. "Is there anything at all we can do? Some environment we can manufacture? What are you used to?" </p>
+   <p>"Used to? I am used to the crack of leathery dragon wings in the sweet, sharp air of the early dawn. I am used to the sound of red battle, the drumming of hooves on bloody earth, the screams of the dying, the yells of the victorious. I am used to warring against demons and monsters, sorcerers and ghouls. I have sailed on magic ships and fought hand to hand with reptilian savages. I have encountered the Jade Man himself. I have fought side by side with the elementals, who are my allies. I have battled black evil…" </p>
+   <p>"Well, " said Werther, "that's something to go on, at any rate. I'm sure we can…" </p>
+   <p>"Lord Elric won't be staying, " began Una Persson politely. "You see — these fluctuations in the megaflow — not to mention his own destiny… He should not be here, at all, Werther." </p>
+   <p>"Nonsense! " Werther flung a black velvet arm about the stiff shoulders of his new friend. "It is evident that our destinies are one. Lord Elric is as grief-haunted as myself! " </p>
+   <p>"How can you know what it is to be haunted by grief?" murmured the albino. His face was half-buried in Werther's generous sleeve. </p>
+   <p>Mrs Persson controlled herself. She rose from Werther's air car and made for her own. "Well, " she said, "I must be off. I hope to see you later, everybody." </p>
+   <p>They sang out their farewells. </p>
+   <p>Una Persson turned her beetle westward, towards Castle Canaria, the home of her old friend Lord Jagged. </p>
+   <p>She needed help and advice. </p>
+  </section>
+  <section>
+   <title>
+    <p>6 In which Elric of Melnibone Resists the Temptations of the Chaos Lords </p>
+   </title>
+   <p>Elric reflected on the subtle way in which laughing Lords of Chaos had captured him. Apparently, he was merely a guest and quite free to wander where he would in their realm. Actually, he was in their power as much as if they had chained him, for he could not flee this flying dragon and they had already demonstrated their enormous magical gifts in subtle ways, primarily with their shapechanging. Only the one who called himself Werther de Goethe (plainly a leader in the hierarchy of Chaos) still had the face and clothing he had worn when first encountered. </p>
+   <p>It was evident that this realm obeyed no natural laws, that it was mutable according to the whims of its powerful inhabitants. They could destroy him with a breath and had, subtly enough, given him evidence of that fact. How could he possibly escape such danger? By calling upon the Lords of Law for aid? But he owed them no loyalty and they, doubtless, regarded him as their enemy. But if he were to transfer his allegiance to Law… </p>
+   <p>These thoughts and more continued to engage him, while his captors chatted easily in the ancient High Speech of Melnibone, itself a version of the very language of Chaos. It was one of the other ways in which they revealed themselves for what they were. He fingered his runesword, wondering if it would be possible to slay such a lord and steal his energy, giving himself enough power for a little while to hurl himself back to his own sphere… </p>
+   <p>The one called Lord Werther was leaning over the side of the beast-vessel. "Oh, come and see, Elric. Look! " </p>
+   <p>Reluctantly, the albino moved to where Werther peered and pointed. </p>
+   <p>The entire landscape was filled with a monstrous battle. Creatures of all kinds and all combinations tore at one another with huge teeth and claws. Shapeless things slithered and hopped; giants, naked but for helmets and greaves, slashed at these beasts with great broadswords and axes, but were borne down. Flame and black smoke drifted everywhere. There was a smell. The stink of blood? </p>
+   <p>"What do you miss most?" asked the female. She pressed a soft body against him. He pretended not to be aware of it. He knew what magic flesh could hide on a she-witch. </p>
+   <p>"I miss peace, " said Elric almost to himself, "and I miss war. For in battle I find a kind of peace…" </p>
+   <p>"Very good! " Bishop Castle applauded. "You are beginning to learn our ways. You will soon become one of our best conversationalists." </p>
+   <p>Elric touched the hilt of Stormbringer, hoping to feel it grow warm and vibrant under his hand, but it was still, impotent in the Realm of Chaos. He uttered a heavy sigh. </p>
+   <p>"You are an adventurer, then, in your own world?" said the Duke of Queens. He was bluff. He had changed his beard to an ordinary sort of black and was wearing a scarlet costume; quilted doublet and tight-fitting hose, with a blue and white ruff, an elaborately feathered hat on his head. "I, too, am something of a vagabond. As far, of course, as it is possible to be here. A buccaneer, of sorts. That is, my actions are in the main bolder than those of my fellows. More spectacular. Vulgar. Like yourself, sir. I admire your costume." </p>
+   <p>Elric knew that this Duke of Hell was referring to the fact that he affected the costume of the southern barbarian, that he did not wear the more restrained colours and more cleverly wrought silks and metals of his own folk. He gave tit for tat at this time. He bowed. </p>
+   <p>"Thank you, sir. Your own clothes rival mine." </p>
+   <p>"Do you think so?" The hell-lord pretended pleasure. If Elric had not known better, the creature would seem to be swelling with pride. </p>
+   <p>"Look! " cried Werther again. "Look, Lord Elric — we are attacked." </p>
+   <p>Elric whirled. </p>
+   <p>From below were rising oddly wrought vessels — something like ships, but with huge round wheels at their sides, like the wheels of water-clocks he had seen once in Pikarayd. Coloured smoke issued from chimneys mounted on their decks which swarmed with huge birds dressed in human clothing. The birds had multicoloured plumage, curved beaks, and they held swords in their claws, while on their heads were strangely shaped black hats on which were blazed skulls with crossed bones beneath. </p>
+   <p>"Heave to! " squawked the birds. "Or we'll put a shot across your bowels! " </p>
+   <p>"What can they be?" cried Bishop Castle. </p>
+   <p>"Parrots, " said Werther de Goethe soberly. "Otherwise known as the hawks of the sea. And they mean us no good." </p>
+   <p>Mistress Christia blinked. </p>
+   <p>"Don't you mean pirates, dear?" </p>
+   <p>Elric took a firm grip on his sword. Some of the words the Chaos Lords used were absolutely meaningless to him. But whether the attacking creatures were of their own conception, or whether they were true enemies of his captors, Elric prepared to do bloody battle. His spirits improved. At least here was something substantial to fight. </p>
+  </section>
+  <section>
+   <title>
+    <p>7 In which Mrs Persson Becomes Anxious about the Future of the Universe </p>
+   </title>
+   <p>Lord Jagged of Canaria was nowhere to be found. His huge castle, of gold and yellow spires, an embellished replica of Kings Cross station, was populated entirely by his quaint robots, whom Jagged found at once more mysterious and more trustworthy than android or human servants, for they could answer only according to a limited programme. </p>
+   <p>Una suspected that Jagged was, himself, upon some mission, for he, too, was a member of the Guild of Temporal Adventurers. But she needed aid. Somehow she had to return Elric to his own dimension without creating further disruptions in the fabric of Time and Space. The Conjunction was not due yet and, if things got any worse, might never come. So many plans depended on the Conjunction of the Million Spheres that she could not risk its failure. But she could not reveal too much either to Elric or his hosts. As a Guild member she was sworn to the utmost and indeed necessary secrecy. Even here at the End of Time there were certain laws which could be disobeyed only at enormous risk. Words alone were dangerous when they described ideas concerning the nature of Time. </p>
+   <p>She racked her brains. She considered seeking out Jherek Carnelian, but then remembered that he had scarcely begun to understand his own destiny. Besides, there were certain similarities between Jherek and Elric which she could only sense at present. It would be best to go cautiously there. </p>
+   <p>She decided that she had no choice. She must return to the Time Centre and see if they could detect Lord Jagged for her. </p>
+   <p>She brought the necessary coordinates together in her mind and concentrated. For a moment all memories, all sense of identity left her. </p>
+   <p>Sergeant Alvarez was beside himself. His screens were no longer completely without form. Instead, peculiar shapes could be seen in the arrangements of lines. Una thought she saw faces, beasts, landscapes. That had never occurred before. The instruments, at least, had remained sane, even as they recorded insanity. </p>
+   <p>"It's getting worse, " said Alvarez. "You've hardly any Time left. What there is, I've managed to borrow for you. Did you contact the rogue?" </p>
+   <p>She nodded. "Yes. But getting him to return … I want you to find Jagged." </p>
+   <p>"Jagged? Are you sure?" </p>
+   <p>"It's our only chance, I think." </p>
+   <p>Alvarez sighed and bent a tense back over his controls. </p>
+  </section>
+  <section>
+   <title>
+    <p>8 In which Elric and Werther Fight Side by Side Against Almost Overwhelming Odds </p>
+   </title>
+   <p>Somewhere, it seemed to Elric, as he parried and thrust at the attacking bird-monsters, rich and rousing music played. It must be a delusion, brought on by battle-madness. Blood and feathers covered the carriage. He saw the one called Christia carried off screaming. Bishop Castle had disappeared. Gaf had gone. Only the three of them, shoulder to shoulder, continued to fight. What was disconcerting to Elric was that Werther and the Duke of Queens bore swords absolutely identical to Stormbringer. Perhaps they were the legendary Brothers of the Black Sword, said to reside in Chaos? </p>
+   <p>He was forced to admit to himself that he experienced a sense of comradeship with these two, who were braver than most in defending themselves against such dreadful unlikely monsters — perhaps some creation of their own which had turned against them. </p>
+   <p>Having captured the Lady Christia, the birds began to return to their own craft. </p>
+   <p>"We must rescue her! " cried Werther as the flying ships began to retreat. "Quickly! In pursuit! " </p>
+   <p>"Should we not seek reinforcements?" asked Elric, further impressed by the courage of this Chaos Lord. </p>
+   <p>"No time! " cried the Duke of Queens. "After them! " </p>
+   <p>Werther shouted to his vessel. "Follow those ships! " </p>
+   <p>The vessel did not move. </p>
+   <p>"It has an enchantment on it, " said Werther. "We are stranded! Ah, and I loved her so much! " </p>
+   <p>Elric became suspicious again. Werther had shown no signs, previously, of any affection for the female. </p>
+   <p>"You loved her?" </p>
+   <p>"From a distance, " Werther explained. "Duke of Queens, what can we do? Those parrots will ransom her savagely and mishandle her objects of virtue! " </p>
+   <p>"Dastardly poltroons! " roared the huge duke. </p>
+   <p>Elric could make little sense of this exchange. It dawned on him, then, that he could still hear the rousing music. He looked below. On some sort of dais in the middle of the bizarre landscape a large group of musicians was assembled. They played on, apparently oblivious of what happened above. This was truly a world dominated by Chaos. </p>
+   <p>Their ship began slowly to fall towards the band. It lurched. Elric gasped and clung to the side as they struck yielding ground and bumped to a halt. </p>
+   <p>The Duke of Queens, apparently elated, was already scrambling overboard. "There! We can follow on those mounts." </p>
+   <p>Tethered near the dais was a herd of creatures bearing some slight resemblance to horses but in a variety of dazzling, metallic colours, with horns and bony ridges on their backs. Saddles and bridles of alien workmanship showed that they were domestic beasts, doubtless belonging to the musicians. </p>
+   <p>"They will want some payment from us, surely, " said Elric, as they hurried towards the horses. </p>
+   <p>"Ah, true! " Werther reached into a purse at his belt and drew forth a handful of jewels. Casually he flung them towards the musicians and climbed into the saddle of the nearest beast. Elric and the Duke of Queens followed his example. Then Werther, with a whoop, was off in the direction in which the bird-monsters had gone. </p>
+   <p>The landscape of this world of Chaos changed rapidly as they rode. They galloped through forests of crystalline trees, over fields of glowing flowers, leapt rivers the colour of blood and the consistency of mercury, and their tireless mounts maintained a headlong pace which never faltered. Through clouds of boiling gas which wept, through rain, through snow, through intolerable heat, through shallow lakes in which oddly fashioned fish wriggled and gasped, until at last a range of mountains came in sight. </p>
+   <p>"There! " panted Werther, pointing with his own runesword. "Their lair. Oh, the fiends! How can we climb such smooth cliffs?" </p>
+   <p>It was true that the base of the cliffs rose some hundred feet before they became suddenly ragged, like the rotting teeth of the beggars of Nadsokor. They were of dusky, purple obsidian and so smooth as to reflect the faces of the three adventurers who stared at them in despair. </p>
+   <p>It was Elric who saw the steps put into the side of the cliff. </p>
+   <p>"These will take us up some of the way, at least." </p>
+   <p>"It could be a trap, " said the Duke of Queens. He, too, seemed to be relishing the opportunity to take action. Although a Lord of Chaos there was something about him that made Elric respond to a fellow spirit. </p>
+   <p>"Let them trap us, " said Elric laconically. "We have our swords." </p>
+   <p>With a wild laugh, Werther de Goethe was the first to swing himself from his saddle and run towards the steps, leaping up them almost as if he had the power of flight. Elric and the Duke of Queens followed more slowly. </p>
+   <p>Their feet slipping in the narrow spaces not meant for mortals to climb, ever aware of the dizzying drop on their left, the three came at last to the top of the cliff and stood clinging to sharp crags, staring across a plain at a crazy castle rising into the clouds before them. </p>
+   <p>"Their stronghold, " said Werther. </p>
+   <p>"What are these creatures?" Elric asked. "Why do they attack you? Why do they capture the Lady Christia?" </p>
+   <p>"They nurse an abiding hatred for us, " explained the Duke of Queens, and looked expectantly at Werther, who added: </p>
+   <p>"This was their world before it became ours." </p>
+   <p>"And before it became theirs, " said the Duke of Queens, "it was the world of the Yargtroon." </p>
+   <p>"The Yargtroon?" Elric frowned. </p>
+   <p>"They dispossessed the bodiless vampire goat-folk of Kia, " explained Werther. "Who, in turn, destroyed — or thought they destroyed — the Grash-Tu-Xem, a race of Old Ones older than any Old Ones except the Elder Old Ones of Ancient Thriss." </p>
+   <p>"Older even than Chaos?" asked Elric. </p>
+   <p>"Oh, far older, " said Werther. </p>
+   <p>"It's almost completely collapsed, it's so old, " added the Duke of Queens. </p>
+   <p>Elric was baffled. "Thriss?" </p>
+   <p>"Chaos, " said the Duke. </p>
+   <p>Elric let a thin smile play about his lips. "You still mock me, my lord. The power of Chaos is the greatest there is, only equalled by the power of Law." </p>
+   <p>"Oh, certainly, " agreed the Duke of Queens. </p>
+   <p>Elric became suspicious again. "Do you play with me, my lord?" </p>
+   <p>"Well, naturally, we try to please our guests…" </p>
+   <p>Werther interrupted. "Yonder doomy edifice holds the one I love. Somewhere within its walls she is incarcerated, while ghouls taunt at her and devils threaten." </p>
+   <p>"The bird-monsters…?" began Elric. </p>
+   <p>"Chimerae, " said the Duke of Queens. "You saw only one of the shapes they assume." </p>
+   <p>Elric understood this. "Aha! " </p>
+   <p>"But how can we enter it?" Werther spoke almost to himself. </p>
+   <p>"We must wait until nightfall, " said Elric, "and enter under the cover of darkness." </p>
+   <p>"Nightfall?" Werther brightened. </p>
+   <p>Suddenly they were in utter darkness. </p>
+   <p>Somewhere the Duke of Queens lost his footing and fell with a muffled curse. </p>
+  </section>
+  <section>
+   <title>
+    <p>9 In which Mrs Persson At Last Makes Contact with Her Old Friend </p>
+   </title>
+   <p>They stood together beneath the striped awning of the tent while a short distance away armoured men, mounted on armoured horses, jousted, were injured or died. The two members wore appropriate costumes for the period. Lord Jagged looked handsome in his surcoat and mail, but Una Persson merely looked uncomfortable in her wimple and kirtle. </p>
+   <p>"I can't leave just now, " he was saying. "I am laying the foundations for a very important development." </p>
+   <p>"Which will come to nothing unless Elric is returned, " she said. </p>
+   <p>A knight with a broken lance thundered past, covering them in dust. </p>
+   <p>"Well played Sir Holger! " called Lord Jagged. "An ancestor of mine, you know, " he told her. </p>
+   <p>"You will not be able to recognize the world of the End of Time when you return, if this is allowed to continue, " she said. </p>
+   <p>"It's always difficult, isn't it?" But he was listening to her now. </p>
+   <p>"These disruptions could as easily affect us and leave us stranded, " she added. "We would lose any freedom we have gained." </p>
+   <p>He bit into a pomegranate and offered it to her. "You can only get these in this area. Did you know? Impossible to find in England. In the thirteenth century, at any rate. The idea of freedom is such a nebulous one, isn't it? Most of the time when angry people are speaking of 'freedom' what they are actually asking for is much simpler — respect. Do those in authority or those with power ever really respect those who do not have power?" He paused. "Or do they mean 'power' and not 'freedom'. Or are they the same…?" </p>
+   <p>"Really, Jagged, this is no time for self-indulgence." </p>
+   <p>He looked about him. "There's little else to do in the Middle East in the thirteenth century, I assure you, except eat pomegranates and philosophize…" </p>
+   <p>"You must come back to the End of Time." </p>
+   <p>He wiped his handsome chin. "Your urgency, " he said, "worries me, Una. These matters should be handled with delicacy — slowly…" </p>
+   <p>"The entire fabric will collapse unless he is returned to his own dimension. He is an important factor in the whole plan." </p>
+   <p>"Well, yes, I understand that." </p>
+   <p>"He is, in one sense at least, your protege." </p>
+   <p>"I know. But not my responsibility." </p>
+   <p>"You must help." </p>
+   <p>There was a loud bang and a crash. </p>
+   <p>A splinter flew into Mrs Persson's eye. </p>
+   <p>"Oh, zounds! " she said. </p>
+  </section>
+  <section>
+   <title>
+    <p>10 In which The Castle is Assaulted and The Plot Thickened </p>
+   </title>
+   <p>A moon had appeared above the spires of the castle which seemed to Elric to have changed its shape since he had first seen it. He meant to ask his companions for an explanation, but at present they were all sworn to silence as they crept nearer. From within the castle burst light, emanating from guttering brands stuck into brackets on the walls. There was laughter, noise of feasting. Hidden behind a rock they peered through one large window and inspected the scene within. </p>
+   <p>The entire hall was full of men wearing identical costumes. They had black skull caps, loose white blouses and trousers, black shoes. Their eyebrows were black in dead white faces, even paler than Elric's and they had bright red lips. </p>
+   <p>"Aha, " whispered Werther, "the parrots are celebrating their victory. Soon they will be too drunk to know what is happening to them." </p>
+   <p>"Parrots?" said Elric. "What is that word?" </p>
+   <p>"Pierrots, he means, " said the Duke of Queens. "Don't you, Werther?" There were evidently certain words which did not translate easily into the High Speech of Melnibone. </p>
+   <p>"Ssh, " said the Last Romantic, "they will capture us and torture us to death if they detect our presence." </p>
+   <p>They worked their way around the castle. It was guarded at intervals by gigantic warriors whom Elric at first mistook for statues, save that, when he looked closely, he could see them breathing very slowly. They were unarmed, but their fists and feet were disproportionately large and could crush any intruder they detected. </p>
+   <p>"They are sluggish, by the look of them, " said Elric. "If we are quick, we can run beneath them and enter the castle before they realize it. Let me try first. If I succeed, you follow." </p>
+   <p>Werther clapped his new comrade on the back. "Very well." </p>
+   <p>Elric waited until the nearest guard halted and spread his huge feet apart, then he dashed forward, scuttling like an insect between the giant's legs and flinging himself through a dimly lit window. He found himself in some sort of store-room. He had not been seen, though the guard cocked his ear for half a moment before resuming his pace. </p>
+   <p>Elric looked cautiously out and signalled to his companions. The Duke of Queens waited for the guard to stop again, then he, too, made for the window and joined Elric. He was panting and grinning. "This is wonderful, " he said. </p>
+   <p>Elric admired his spirit. There was no doubt that the guard could crush any of them to a pulp, even if (as still nagged at his brain) this was all some sort of complicated illusion. </p>
+   <p>Another dash, and Werther was with them. </p>
+   <p>Cautiously, Elric opened the door of the store-room. They looked onto a deserted landing. They crossed the landing and looked over a balustrade. They had expected to see another hall, but instead there was a miniature lake on which floated the most beautiful miniature ship, all mother-of-pearl, brass and ebony, with golden sails and silver masts. Surrounding this ship were mermaids and mermen bearing trays of exotic food (reminding Elric how hungry he still was) which they fed to the ship's only passenger, Mistress Christia. </p>
+   <p>"She is under an enchantment, " said Elric. "They beguile her with illusions so that she will not wish to come with us even if we do rescue her. Do you know no counter-spells?" </p>
+   <p>Werther thought for a moment. Then he shook his head. </p>
+   <p>"You must be very minor Lords of Chaos, " said Elric, biting his lower lip. </p>
+   <p>From the lake, Mistress Christia giggled and drew one of the mermaids towards her. "Come here, my pretty piscine! " </p>
+   <p>"Mistress Christia! " hissed Werther de Goethe. </p>
+   <p>"Oh! " The captive widened her eyes (which were now both large and blue). "At last! " </p>
+   <p>"You wish to be rescued?" said Elric. </p>
+   <p>"Rescued? Only by you, most alluring of albinos! " </p>
+   <p>Elric hardened his features. "I am not the one who loves you, madam." </p>
+   <p>"What? I am loved? By whom? By you, Duke of Queens?" </p>
+   <p>"Sshh, " said Elric. "The demons will hear us." </p>
+   <p>"Oh, of course, " said Mistress Christia gravely, and fell silent for a second. "I'll get rid of all this, shall I?" </p>
+   <p>And she touched one of her rings. </p>
+   <p>Ship, lake and merfolk were gone. She lay on silken cushions, attended by monkeys. </p>
+   <p>"Sorcery! " said Elric, "if she has such power, then why —?" </p>
+   <p>"It is limited, " explained Werther. "Merely to such tricks." </p>
+   <p>"Quite, " said Mistress Christia. </p>
+   <p>Elric glared at them. "You surrounded me with illusions. You make me think I am aiding you, when really…" </p>
+   <p>"No, no! " cried Werther. "I assure you, Lord Elric, you have our greatest respect — well, mine at least — we are only attempting to —" </p>
+   <p>There was a roar from the gallery above. Rank upon rank of grinning demons looked down upon them. They were armed to the teeth. </p>
+   <p>"Hurry! " The Duke of Queens leapt to the cushions and seized Mistress Christia, flinging her over his shoulder. "We can never defeat so many! " </p>
+   <p>The demons were already rushing down the circular staircase. Elric, still not certain whether his new friends deceived him or not, made a decision. He called to the Duke of Queens. "Get her from the castle. We'll keep them from you for a few moments, at least." He could not help himself. He behaved impulsively. </p>
+   <p>The Duke of Queens, sword in hand, Mistress Christia over the other shoulder, ran into a narrow passage. Elric and Werther stood together as the demons rushed down on them. Blade met blade. There was an unbearable shrilling of steel mingled with the cacklings and shrieks of the demons as they gnashed their teeth and rolled their eyes and slashed at the pair with swords, knives and axes. But worst of all was the smell. The dreadful smell of burning flesh which filled the air and threatened to choke Elric. It came from the demons. The smell of Hell. He did his best to cover his nostrils as he fought, certain that the smell must overwhelm him before the swords. Above him was a set of metal rungs fixed into the stones, leading high into a kind of chimney. As a pause came he pointed upward to Werther, who understood him. For a moment they managed to drive the demons back. Werther jumped onto Elric's shoulders (again displaying a strange lightness) and reached down to haul the albino after him. </p>
+   <p>While the demons wailed and cackled below, they began to climb the chimney. </p>
+   <p>They climbed for nearly fifty feet before they found themselves in a small, round room whose windows looked out over the purple crags and, beyond them, to a scene of bleak rocky pavements pitted with holes, like some vast unlikely cheese. </p>
+   <p>And there, rolling over this relatively flat landscape, in full daylight (for the sun had risen) was the Duke of Queens in a carriage of brass and wood, studded with jewels, and drawn by two bovine creatures which looked to Elric as if they might be the fabulous oxen of mythology who had drawn the war-chariot of his ancestors to do battle with the emerging nations of mankind. </p>
+   <p>Mistress Christia was beside the Duke of Queens. They seemed to be waiting for Elric and Werther. </p>
+   <p>"It's impossible, " said the albino. "We could not get out of this tower, let alone those crags. I wonder how they managed to move so quickly and so far. And where did the chariot itself come from?" </p>
+   <p>"Stolen, no doubt, from the demons, " said Werther. "See, there are wings here." He indicated a heap of feathers in the corner of the room. "We can use those." </p>
+   <p>"What wizardry is this?" said Elric. "Man cannot fly on bird wings." </p>
+   <p>"With the appropriate spell he can, " said Werther. "I am not that well versed in the magic arts, of course, but let me see…" He picked up one set of wings. They were soft and glinted with subtle, rainbow colours. He placed them on Elric's back, murmuring his spell: </p>
+   <p>"Oh, for the wings, for the wings of a dove , </p>
+   <p>To carry me to the one I love…" </p>
+   <p>"There! " He was very pleased with himself. Elric moved his shoulders and his wings began to flap. "Excellent! Off you go, Elric. I'll join you in a moment." </p>
+   <p>Elric hesitated, then saw the head of the first demon emerging from the hole in the floor. He jumped to the window ledge and leapt into space. The wings sustained him. Against all logic he flew smoothly towards the waiting chariot and behind him came Werther de Goethe. At the windows of the tower the demons crowded, shaking fists and weapons as their prey escaped them. </p>
+   <p>Elric landed rather awkwardly beside the chariot and was helped aboard by the Duke of Queens. Werther joined them, dropping expertly amongst them. He removed the wings from the albino's back and nodded to the Duke of Queens who yelled at the oxen, cracking his whip as they began to move. </p>
+   <p>Mistress Christia flung her arms about Elric's neck. "What courage! What resourcefulness! " she breathed. "Without you, I should now be ruined! " </p>
+   <p>Elric sheathed Stormbringer. "We all three worked together for your rescue, madam." Gently he removed her arms. Courteously he bowed and leaned against the far side of the chariot as it bumped and hurtled over the peculiar rocky surface. </p>
+   <p>"Swifter! Swifter! " called the Duke of Queens, casting urgent looks backwards. "We are followed! " </p>
+   <p>From the disappearing tower there now poured a host of flying, gibbering things. Once again the creatures had changed shape and had assumed the form of striped, winged cats, all glaring eyes, fangs and extended claws. </p>
+   <p>The rock became viscous, clogging the wheels of the chariot, as they reached what appeared to be a silvery road, flowing between the high trees of an alien forest already touched by a weird twilight. </p>
+   <p>The first of the flying cats caught up with them, slashing. </p>
+   <p>Elric drew Stormbringer and cut back. The beast roared in pain, blood streaming from its severed leg, its wings flapping in Elric's face as it hovered and attempted to snap at the sword. </p>
+   <p>The chariot rolled faster, through the forest to green fields touched by the moon. The days were short, it seemed, in this part of Chaos. A path stretched skyward. The Duke of Queens drove the chariot straight up it, heading for the moon itself. </p>
+   <p>The moon grew larger and larger and still the demons pursued them, but they could not fly as fast as the chariot which went so swiftly that sorcery must surely speed it. Now they could only be heard in the darkness behind and the silver moon was huge. </p>
+   <p>"There! " called Werther. "There is safety! " </p>
+   <p>On they raced until the moon was reached, the oxen leaping in their traces, galloping over the gleaming surface to where a white palace awaited them. </p>
+   <p>"Sanctuary, " said the Duke of Queens. And he laughed a wild, full laugh of sheer joy. </p>
+   <p>The palace was like ivory, carved and wrought by a million hands, every inch covered with delicate designs. </p>
+   <p>Elric wondered. "Where is this place?" he asked. "Does it lie outside the Realm of Chaos?" </p>
+   <p>Werther seemed nonplussed. "You mean our world?" </p>
+   <p>"Aye." </p>
+   <p>"It is still part of our world, " said the Duke of Queens. </p>
+   <p>"Is the palace to your liking?" asked Werther. </p>
+   <p>"It is lovely." </p>
+   <p>"A trifle pale for my own taste, " said the Last Romantic. "It was Mistress Christia's idea." </p>
+   <p>"You built this?" The albino turned to the woman. "When?" </p>
+   <p>"Just now." She seemed surprised. </p>
+   <p>Elric nodded. "Aha. It is within the power of Chaos to create whatever whims it pleases." </p>
+   <p>The chariot crossed a white drawbridge and entered a white courtyard. In it grew white flowers. They dismounted and entered a huge hall, white as bone, in which red lights glowed. Again Elric began to suspect mockery, but the faces of the Chaos lords showed only pleasure. He realized that he was dizzy with hunger and weariness, as he had been ever since he had been flung into this terrible world where no shape was constant, no idea permanent. </p>
+   <p>"Are you hungry?" asked Mistress Christia. </p>
+   <p>He nodded. And suddenly the room was filled by a long table on which all kinds of food were heaped — and everything, meats and fruits and vegetables, was white. </p>
+   <p>Elric moved to take the seat she indicated and he put some of the food on a silver plate and he touched it to his lips and he tasted it. It was delicious. Forgetting suspicion, he began to eat heartily, trying not to consider the colourless quality of the meal. Werther and the Duke of Queens also took some food, but it seemed they ate only from politeness. Werther glanced up at the faraway roof. "What a wonderful tomb this would make, " he said. "Your imagination improves, Mistress Christia." </p>
+   <p>"Is this your domain?" asked Elric. "The moon?" </p>
+   <p>"Oh no, " she said. "It was all made for the occasion." </p>
+   <p>"Occasion?" </p>
+   <p>"For your adventure, " she said. Then she fell silent. </p>
+   <p>Elric became grave. "Those demons? They were not your enemies. They belong to you! " </p>
+   <p>"Belong?" said Mistress Christia. She shook her head. </p>
+   <p>Elric frowned and pushed back his plate. "I am, however, most certainly your captive." He stood up and paced the white floor. "Will you not return me to my own plane?" </p>
+   <p>"You would come back almost immediately, " said Werther de Goethe. "It is called the Morphail Effect. And if you did not come here, you would yet remain in your own future. It is in the nature of Time." </p>
+   <p>"This is nonsense, " said Elric. "I have left my own realm before and returned — though admittedly memory becomes weak, as with dreams poorly recalled." </p>
+   <p>"No man can go back in Time, " said the Duke of Queens. "Ask Brannart Morphail." </p>
+   <p>"He, too, is a Lord of Chaos?" </p>
+   <p>"If you like. He is a colleague." </p>
+   <p>"Could he not return me to my realm? He sounds a clever being." </p>
+   <p>"He could not and he would not, " said Mistress Christia. "Haven't you enjoyed your experiences here so far?" </p>
+   <p>"Enjoyed?" Elric was astonished. "Madam, I think … Well, what has happened this day is not what we mortals would call 'enjoyment'! " </p>
+   <p>"But you seemed to be enjoying yourself, " said the Duke of Queens in some disappointment. "Didn't he, Werther?" </p>
+   <p>"You were much more cheerful through the whole episode, " agreed the Last Romantic. "Particularly when you were fighting the demons." </p>
+   <p>"As with many time travellers who suffer from anxieties, " said Mistress Christia, "you appeared to relax when you had something immediate to capture your attention…" </p>
+   <p>Elric refused to listen. This was clever Chaos talk, meant to deceive him and take his mind from his chief concern. </p>
+   <p>"If I was any help to you, " he began, "I am, of course…" </p>
+   <p>"He isn't very grateful, " Mistress Christia pouted. </p>
+   <p>Elric felt madness creeping nearer again. He calmed himself. </p>
+   <p>"I thank you for the food, madam. Now, I would sleep." </p>
+   <p>"Sleep?" she was disconcerted. "Oh! Of course. Yes. A bedroom?" </p>
+   <p>"If you have such a thing." </p>
+   <p>"As many as you like." She moved a stone on one of her rings. The walls seemed to draw back to show bedchamber after bedchamber, in all manner of styles, with beds of every shape and fashion. Elric controlled his temper. He bowed, thanked her, said goodnight to the two lords and made for the nearest bed. </p>
+   <p>As he closed the door behind him, he thought he heard Werther de Goethe say: "We must try to think of a better entertainment for him when he wakes up." </p>
+  </section>
+  <section>
+   <title>
+    <p>11 In which Mrs Persson Witnesses the First Sign of the Megaflow's Disintegration </p>
+   </title>
+   <p>In Castle Canaria Lord Jagged unrolled his antique charts. He had had them drawn for him by a baffled astrologer in 1950. They were one of his many affectations. At the moment, however, they were of considerably greater use than Alvarez's electronics. </p>
+   <p>While he used a wrist computer to check his figures, Una Persson looked out of the window of Castle Canaria and wondered who had invented this particular landscape. A green and orange sun cast sickening light over the herds of grazing beasts who resembled, from this distance at any rate, nothing so much as gigantic human hands. In the middle of the scene was raised some kind of building in the shape of a vast helmet, vaguely Greek in conception. Beyond that was a low, grey moon. She turned away. </p>
+   <p>"I must admit, " said Lord Jagged, "that I had not understood the extent…" </p>
+   <p>"Exactly, " she said. </p>
+   <p>"You must forgive me. A certain amount of amnesia — euphoria, perhaps? — always comes over one in these very remote periods." </p>
+   <p>"Quite." </p>
+   <p>He looked up from the charts. "We've a few hours at most." </p>
+   <p>Her smile was thin, her nod barely perceptible. </p>
+   <p>While she made the most of having told him so, Lord Jagged frowned, turned a power ring and produced an already lit pipe which he placed thoughtfully in his mouth, taking it out again almost immediately. "That wasn't Dunhill Standard Medium." He laid the pipe aside. </p>
+   <p>There came a loud buzzing noise from the window. The scene outside was disintegrating as if melting on glass. An eerie golden light spread everywhere, flooding from an apex of deeper gold, as if forming a funnel. </p>
+   <p>"That's a rupture, " said Lord Jagged. His voice was tense. He put his arm about her shoulders. "I've never seen anything of the size before." </p>
+   <p>Rushing towards them along the funnel of light there came an entire city of turrets and towers and minarets in a wide variety of pastel colours. It was set into a saucer-shaped base which was almost certainly several miles in circumference. </p>
+   <p>For a moment the city seemed to retreat. The golden light faded. The city remained, some distance away, swaying a little as if on a gentle tide, a couple of thousand feet above the ground, the grey moon below it. </p>
+   <p>"That's what I call megaflow distortion, " said Una Persson in that inappropriately facetious tone adopted by those who are deeply frightened. </p>
+   <p>"I recognize the period." Jagged drew a telescope from his robes. "Second Candlemaker's Empire, mainly based in Arcturus. This is a village by their standards. After all, Earth was merely a rural park during that time." He retreated into academe, his own response to fear. </p>
+   <p>Una craned her head. "Isn't that some sort of vehicle heading towards the city. From the moon — good heavens, they've spotted it already. Are they going to try to put the whole thing into a menagerie?" </p>
+   <p>Jagged had the advantage of the telescope. "I think not." He handed her the instrument. </p>
+   <p>Through it she saw a scarlet and black chariot borne by what seemed to be some form of flying fairground horses. In the chariot, armed to the teeth with lances, bows, spears, swords, axes, morningstars, maces and almost every other barbaric hand-weapon, clad in quasi-mythological armour, were Werther de Goethe, the Duke of Queens and Elric of Melnibone. </p>
+   <p>"They're attacking it! " she said faintly. "What will happen when the two groups intersect?" </p>
+   <p>"Three groups, " he pointed out. "Untangling that in a few hours is going to be even harder." </p>
+   <p>"And if we fail?" </p>
+   <p>He shrugged. "We might just as well give ourselves up to the biggest chronoquake the universe has ever experienced." </p>
+   <p>"You're exaggerating, " she said. </p>
+   <p>"Why not? Everyone else is." </p>
+  </section>
+  <section>
+   <title>
+    <p>12 The Attack on the Citadel of the Skies </p>
+   </title>
+   <p>"Melnibone! Melnibone! " cried the albino as the chariot circled over the spires and turrets of the city. They saw startled faces below. Strange engines were being dragged through the narrow streets. </p>
+   <p>"Surrender! " Elric demanded. </p>
+   <p>"I do not think they can understand us, " said the Duke of Queens. "What a find, eh? A whole city from the past! " </p>
+   <p>Werther had been reluctant to embark on an adventure not of his own creation, but Elric, realizing that here at last was a chance of escape, had been anxious to begin. The Duke of Queens had, in an instant, aided the albino by producing costumes, weapons, transport. Within minutes of the city's appearance, they had been on their way. </p>
+   <p>Exactly why Elric wished to attack the city, Werther could not make out, unless it was some test of the Melnibonean's to see if his companions were true allies or merely pretending to have befriended him. Werther was learning a great deal from Elric, much more than he had ever learned from Mongrove, whose ideas of angst were only marginally less notional than Werther's own. </p>
+   <p>A broad, flat blue ray beamed from the city. It singed one wheel of the chariot. </p>
+   <p>"Ha! They make sorcerous weapons, " said Elric. "Well, my friends. Let us see you counter with your own power." </p>
+   <p>Werther obediently imitated the blue ray and sent it back from his fingers, slicing the tops off several towers. The Duke of Queens typically let loose a different coloured ray from each of his extended ten fingers and bored a hole all the way through the bottom of the city so that fields could be seen below. He was pleased with the effect. </p>
+   <p>"This is the power of the Gods of Chaos! " cried Elric, a familiar elation filling him as the blood of old Melnibone was fired. "Surrender! " </p>
+   <p>"Why do you want them to surrender?" asked the Duke of Queens in some disappointment. </p>
+   <p>"Their city evidently has the power to fly through the dimensions. If I became its lord I could force it to return to my own plane, " said Elric reasonably. </p>
+   <p>"The Morphail Effect…" began Werther, but realized he was spoiling the spirit of the game. "Sorry." </p>
+   <p>The blue ray came again, but puttered out and faded before it reached them. </p>
+   <p>"Their power is gone! " cried Elric. "Your sorcery defeats them, my lords. Let us land and demand they honour us as their new rulers." </p>
+   <p>With a sigh, Werther ordered the chariot to set down in the largest square. Here they waited until a few of the citizens began to arrive, cautious and angry, but evidently in no mood to give any further resistance. </p>
+   <p>Elric addressed them. "It was necessary to attack and conquer you, for I must return to my own realm, there to fulfil my great destiny. If you will take me to Melnibone, I will demand nothing further from you." </p>
+   <p>"One of us really ought to take a translation pill, " said Werther. "These people probably have no idea where they are." </p>
+   <p>A meaningless babble came from the citizens. Elric frowned. "They understand not the High Speech, " he said. "I will try the Common Tongue." He spoke in a language neither Werther, the Duke of Queens nor the citizens of this settlement could understand. </p>
+   <p>He began to show signs of frustration. He drew his sword Stormbringer. "By the Black Sword, know that I am Elric, last of the royal line of Melnibone! You must obey me. Is there none here who understands the High Speech?" </p>
+   <p>Then, from the crowd, stepped a being far taller than the others. He was dressed in robes of dark blue and deepest scarlet and his face was haughty, beautiful and full of evil. </p>
+   <p>"I speak the High Tongue, " he said. </p>
+   <p>Werther and the Duke of Queens were nonplussed. This was no-one they recognized. </p>
+   <p>Elric gestured. "You are the ruler of the city?" </p>
+   <p>"Call me that, if you will." </p>
+   <p>"Your name?" </p>
+   <p>"I am known by many names. And you know me, Elric of Melnibone, for I am your lord and your friend." </p>
+   <p>"Ah, " said Elric lowering his sword, "this is the greatest deception of them all. I am a fool." </p>
+   <p>"Merely a mortal, " said the newcomer, his voice soft, amused and full of a subtle arrogance. "Are these the renegades who helped you?" </p>
+   <p>"Renegades?" said Werther. "Who are you, sir?" </p>
+   <p>"You should know me, rogue lords. You aid a mortal and defy your brothers of Chaos." </p>
+   <p>"Eh?" said the Duke of Queens. "I haven't got a brother." </p>
+   <p>The stranger ignored him. "Demigods who thought that by helping this mortal they could threaten the power of the Greater Ones." </p>
+   <p>"So you did aid me against your own, " said Elric. "Oh, my friends! " </p>
+   <p>"And they shall be punished! " </p>
+   <p>Werther began: "We regret any damage to your city. After all, you were not invited…" </p>
+   <p>The Duke of Queens was laughing. "Who are you? What disguise is this?" </p>
+   <p>"Know me for your master." The eyes of the stranger glowed with myriad fires. "Know me for Arioch, Duke of Hell! " </p>
+   <p>"Arioch! " Elric became filled with a strange joy. "Arioch! I called upon thee and was not answered! " </p>
+   <p>"I was not in this realm, " said the Duke of Hell. "I was forced to be absent. And while I was gone, fools thought to displace me." </p>
+   <p>"I really cannot follow all this, " said the Duke of Queens. He set aside his mace. "I must confess I become a trifle bored, sir. If you will excuse me." </p>
+   <p>"You will not escape me." Arioch lifted a languid hand and the Duke of Queens was frozen to the ground, unable to move anything save his eyes. </p>
+   <p>"You are interfering, sir, with a perfectly —" Werther too was struck dumb and paralysed. </p>
+   <p>But Elric refused to quail. "Lord Arioch, I have given you blood and souls. You owe me…" </p>
+   <p>"I owe you nothing, Elric of Melnibone. Nothing I do not choose to owe. You are my slave…" </p>
+   <p>"No, " said Elric. "I serve you. There are old bonds. But you cannot control me, Lord Arioch, for I have a power within me which you fear. It is the power of my very mortality." </p>
+   <p>The Duke of Hell shrugged. "You will remain in the Realm of Chaos forever. Your mortality will avail you little here." </p>
+   <p>"You need me in my own realm, to be your agent. That, too, I know, Lord Arioch." </p>
+   <p>The handsome head lowered a fraction as if Arioch considered this. The beautiful lips smiled. "Aye, Elric. It is true that I need you to do my work. For the moment it is impossible for the Lords of Chaos to interfere directly in the world of mortals, for we should threaten our own existence. The rate of entropy would increase beyond even our control. The day has not yet come when Law and Chaos must decide the issue once and for all. But it will come soon enough for you, Elric." </p>
+   <p>"And my sword will be at your service, Lord Arioch." </p>
+   <p>"Will it, Elric?" </p>
+   <p>Elric was surprised by this doubting tone. He had always served Chaos, as his ancestors had. "Why should I turn against you? Law has no attractions for one such as Elric of Melnibone." </p>
+   <p>The Duke of Hell was silent. </p>
+   <p>"And there is the bargain, " added Elric. "Return me to my own realm, Lord Arioch, so that I might keep it." </p>
+   <p>Arioch sighed. "I am reluctant." </p>
+   <p>"I demand it, " bravely said the albino. </p>
+   <p>"Oho! " Arioch was amused. "Well, mortal, I'll reward your courage and I'll punish your insolence. The reward will be that you are returned whence you came, before you called on Chaos in your battle with that pathetic wizard. The punishment is that you will recall every incident that occurred since then — but only in your dreams. You will be haunted by the puzzle for the rest of your life — and you will never for a moment be able to express what mystifies you." </p>
+   <p>Elric smiled. "I am already haunted by a curse of that kind, my lord." </p>
+   <p>"Be that as it may, I have made my decision." </p>
+   <p>"I accept it, " said the albino, and he sheathed his sword, Stormbringer. </p>
+   <p>"Then come with me, " said Arioch, Duke of Hell. And he drifted forward, took Elric by the arm, and lifted them both high into the sky, floating over distorted scenes, half-formed dream-worlds, the whims of the Lords of Chaos, until they came to a gigantic rock shaped like a skull. And through one of the eye-sockets Lord Arioch bore Elric of Melnibone. And down strange corridors that whispered and displayed all manner of treasures. And up into a landscape, a desert in which grew many strange plants, while overhead could be seen a land of snow and mountains, equally alien. And from his robes Arioch, Duke of Hell, produced a wand and he bade Elric to take hold of the wand, which was hot to the touch and glittered, and he placed his own slender hand at the other end, and he murmured words which Elric could not understand and together they began to fade from the landscape, into the darkness of limbo where many eyes accused them, to an island in a grey and storm-tossed sea; an island littered with destruction and with the dead. </p>
+   <p>Then Arioch, Duke of Hell, laughed a little and vanished, leaving the Prince of Melnibone sprawled amongst corpses and ruins while heavy rain beat down upon him. </p>
+   <p>And in the scabbard at Elric's side, Stormbringer stirred and murmured once more. </p>
+  </section>
+  <section>
+   <title>
+    <p>13 In which There is a Small Celebration at the End of Time </p>
+   </title>
+   <p>Werther de Goethe and the Duke of Queens blinked their eyes and found that they could move their heads. They stood in a large, pleasant room full of charts and ancient instruments. Mistress Christia was there, too. </p>
+   <p>Una Persson was smiling as she watched golden light fade from the sky. The city had disappeared, hardly any the worse for its experience. She had managed to save the two friends without a great deal of fuss, for the citizens had still been bewildered by what had happened to them. Because of the megaflow distortion, the Morphail Effect would not manifest itself. They would never understand where they had been or what had actually happened. </p>
+   <p>"Who on earth was that fellow who turned up?" asked the Duke of Queens. "Some friend of yours, Mrs Persson? He's certainly no sportsman." </p>
+   <p>"Oh, I wouldn't agree. You could call him the ultimate sportsman, " she said. "I am acquainted with him, as a matter of fact." </p>
+   <p>"It's not Jagged in disguise is it?" said Mistress Christia who did not really know what had gone on. "This is Jagged's castle — but where is Jagged?" </p>
+   <p>"You are aware how mysterious he is, " Una answered. "I happened to be here when I saw that Werther and the Duke were in trouble in the city and was able to be of help." </p>
+   <p>Werther scowled (a very good copy of Elric's own scowl). "Well, it isn't good enough." </p>
+   <p>"It was a jolly adventure while it lasted, you must admit, " said the Duke of Queens. </p>
+   <p>"It wasn't meant to be jolly, " said Werther. "It was meant to be significant." </p>
+   <p>Lord Jagged entered the room. He wore his familiar yellow robes. "How pleasant, " he said. "When did all of you arrive?" </p>
+   <p>"I have been here for some time, " Mrs Persson explained, "but Werther and the Duke of Queens…" </p>
+   <p>"Just got here, " explained the Duke. "I hope we're not intruding. Only we had a slight mishap and Mrs Persson was good enough…" </p>
+   <p>"Always delighted, " said the insincere lord. "Would you care to see my new —?" </p>
+   <p>"I'm on my way home, " said the Duke of Queens. "I just stopped by. Mrs Persson will explain." </p>
+   <p>"I, too, " said Werther suspiciously, "am on my way back." </p>
+   <p>"Very well. Goodbye." </p>
+   <p>Werther summoned an air car, a restrained figure of death, in rags with a sickle, who picked the three up in his hand and bore them towards a bleak horizon. </p>
+   <p>It was only days later, when he went to visit Mongrove to tell him of his adventures and solicit his friend's advice, that Werther realized he was still speaking High Melnibonean. Some nagging thought remained with him for a long while after that. It concerned Lord Jagged, but he could not quite work out what was involved. </p>
+   <p>After this incident there were no further disruptions at the End of Time until the conclusion of the story concerning Jherek Carnelian and Mrs Amelia Underwood. </p>
+  </section>
+  <section>
+   <title>
+    <p>14 In which Elric of Melnibone Recovers from a Variety of Enchantments and Becomes Determined to Return to the Dreaming City </p>
+   </title>
+   <p>Elric was awakened by the rain on his face. Wearily he peered around him. To left and right there were only the dismembered corpses of the dead, the Krettii and the Filkharian sailors destroyed during his battle with the half-brute who had somehow gained so much sorcerous power. He shook his milk-white hair and he raised crimson eyes to the grey, boiling sky. </p>
+   <p>It seemed that Arioch had aided him, after all. The sorcerer was destroyed and he, Elric, remained alive. He recalled the sweet, bantering tones of his patron demon. Familiar tones, yet he could not remember what the words had been. </p>
+   <p>He dragged himself over the dead and waded through the shallows towards the Filkharian ship which still had some of its crew. They were, by now, anxious to head out into open sea again rather than face any more terrors on The Sorcerer's Isle. </p>
+   <p>He determined to see Cymoril, whom he loved, to regain his throne from Yyrkoon, his cousin… </p>
+  </section>
+  <section>
+   <title>
+    <p>15 In which a Brief Reunion Takes Place at the Time Centre</p>
+   </title>
+   <p>With the manuscript of Colonel Pyat's rather dangerous volume of memoirs safely back in her briefcase, Una Persson decided it was the right moment to check into the Time Centre. Alvarez should be on duty again and his instruments should be registering any minor imbalances resulting from the episode concerning the gloomy albino. </p>
+   <p>Alvarez was not alone. Lord Jagged was there, in a disreputable Norfolk jacket and smoking a battered briar. He had evidently been holidaying in Victorian England. He was pleased to see her. </p>
+   <p>Alvarez ran his gear through all functions. "Sweet and neat, " he said. "It hasn't been as good since I don't know when. We've you to thank for that, Mrs P." </p>
+   <p>She was modest. </p>
+   <p>"Certainly not. Jagged was the one. Your disguise was wonderful, Jagged. How did you manage to imitate that character so thoroughly? It convinced Elric. He really thought you were whatever it was — a Chaos Duke?" </p>
+   <p>Jagged waved a modest hand. </p>
+   <p>"I mean, " said Una, "it's almost as if you were this fellow 'Arioch'…" </p>
+   <p>But Lord Jagged only puffed on his pipe and smiled a secret and superior smile.</p>
+  </section>
+ </body>
+ <binary id="legends_end_timesm.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAgEAUABQAAD/7RLOUGhvdG9zaG9wIDMuMAA4QklNA+0KUmVzb2x1dGlv
+bgAAAAAQAFAAAAABAAIAUAAAAAEAAjhCSU0EDRhGWCBHbG9iYWwgTGlnaHRpbmcgQW5nbGUA
+AAAABAAAAHg4QklNBBkSRlggR2xvYmFsIEFsdGl0dWRlAAAAAAQAAAAeOEJJTQPzC1ByaW50
+IEZsYWdzAAAACQAAAAAAAAAAAQA4QklNBAoOQ29weXJpZ2h0IEZsYWcAAAAAAQAAOEJJTScQ
+FEphcGFuZXNlIFByaW50IEZsYWdzAAAAAAoAAQAAAAAAAAACOEJJTQP1F0NvbG9yIEhhbGZ0
+b25lIFNldHRpbmdzAAAASAAvZmYAAQBsZmYABgAAAAAAAQAvZmYAAQChmZoABgAAAAAAAQAy
+AAAAAQBaAAAABgAAAAAAAQA1AAAAAQAtAAAABgAAAAAAAThCSU0D+BdDb2xvciBUcmFuc2Zl
+ciBTZXR0aW5ncwAAAHAAAP////////////////////////////8D6AAAAAD/////////////
+////////////////A+gAAAAA/////////////////////////////wPoAAAAAP//////////
+//////////////////8D6AAAOEJJTQQIBkd1aWRlcwAAAAAQAAAAAQAAAkAAAAJAAAAAADhC
+SU0EHg1VUkwgb3ZlcnJpZGVzAAAABAAAAAA4QklNBBoGU2xpY2VzAAAAAIEAAAAGAAAAAAAA
+AAAAAACMAAAAVwAAABAAbABlAGcAZQBuAGQAcwBfAGUAbgBkAF8AdABpAG0AZQAAAAEAAAAA
+AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAVwAAAIwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAOEJJTQQUF0xheWVyIElEIEdlbmVyYXRvciBCYXNlAAAABAAAAAE4QklN
+BAwVTmV3IFdpbmRvd3MgVGh1bWJuYWlsAAAPOAAAAAEAAABGAAAAcAAAANQAAFzAAAAPHAAY
+AAH/2P/gABBKRklGAAECAQBIAEgAAP/uAA5BZG9iZQBkgAAAAAH/2wCEAAwICAgJCAwJCQwR
+CwoLERUPDAwPFRgTExUTExgRDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwB
+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
+dy5pZWMuY2gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+ZGVzYwAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2UgLSBz
+UkdCAAAAAAAAAAAAAAAuSUVDIDYxOTY2LTIuMSBEZWZhdWx0IFJHQiBjb2xvdXIgc3BhY2Ug
+LSBzUkdCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRlc2MAAAAAAAAALFJlZmVyZW5jZSBWaWV3
+aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAACxSZWZlcmVuY2UgVmll
+d2luZyBDb25kaXRpb24gaW4gSUVDNjE5NjYtMi4xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAB2aWV3AAAAAAATpP4AFF8uABDPFAAD7cwABBMLAANcngAAAAFYWVogAAAAAABMCVYAUAAA
+AFcf521lYXMAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAKPAAAAAnNpZyAAAAAAQ1JUIGN1
+cnYAAAAAAAAEAAAAAAUACgAPABQAGQAeACMAKAAtADIANwA7AEAARQBKAE8AVABZAF4AYwBo
+AG0AcgB3AHwAgQCGAIsAkACVAJoAnwCkAKkArgCyALcAvADBAMYAywDQANUA2wDgAOUA6wDw
+APYA+wEBAQcBDQETARkBHwElASsBMgE4AT4BRQFMAVIBWQFgAWcBbgF1AXwBgwGLAZIBmgGh
+AakBsQG5AcEByQHRAdkB4QHpAfIB+gIDAgwCFAIdAiYCLwI4AkECSwJUAl0CZwJxAnoChAKO
+ApgCogKsArYCwQLLAtUC4ALrAvUDAAMLAxYDIQMtAzgDQwNPA1oDZgNyA34DigOWA6IDrgO6
+A8cD0wPgA+wD+QQGBBMEIAQtBDsESARVBGMEcQR+BIwEmgSoBLYExATTBOEE8AT+BQ0FHAUr
+BToFSQVYBWcFdwWGBZYFpgW1BcUF1QXlBfYGBgYWBicGNwZIBlkGagZ7BowGnQavBsAG0Qbj
+BvUHBwcZBysHPQdPB2EHdAeGB5kHrAe/B9IH5Qf4CAsIHwgyCEYIWghuCIIIlgiqCL4I0gjn
+CPsJEAklCToJTwlkCXkJjwmkCboJzwnlCfsKEQonCj0KVApqCoEKmAquCsUK3ArzCwsLIgs5
+C1ELaQuAC5gLsAvIC+EL+QwSDCoMQwxcDHUMjgynDMAM2QzzDQ0NJg1ADVoNdA2ODakNww3e
+DfgOEw4uDkkOZA5/DpsOtg7SDu4PCQ8lD0EPXg96D5YPsw/PD+wQCRAmEEMQYRB+EJsQuRDX
+EPURExExEU8RbRGMEaoRyRHoEgcSJhJFEmQShBKjEsMS4xMDEyMTQxNjE4MTpBPFE+UUBhQn
+FEkUahSLFK0UzhTwFRIVNBVWFXgVmxW9FeAWAxYmFkkWbBaPFrIW1hb6Fx0XQRdlF4kXrhfS
+F/cYGxhAGGUYihivGNUY+hkgGUUZaxmRGbcZ3RoEGioaURp3Gp4axRrsGxQbOxtjG4obshva
+HAIcKhxSHHscoxzMHPUdHh1HHXAdmR3DHeweFh5AHmoelB6+HukfEx8+H2kflB+/H+ogFSBB
+IGwgmCDEIPAhHCFIIXUhoSHOIfsiJyJVIoIiryLdIwojOCNmI5QjwiPwJB8kTSR8JKsk2iUJ
+JTglaCWXJccl9yYnJlcmhya3JugnGCdJJ3onqyfcKA0oPyhxKKIo1CkGKTgpaymdKdAqAio1
+KmgqmyrPKwIrNitpK50r0SwFLDksbiyiLNctDC1BLXYtqy3hLhYuTC6CLrcu7i8kL1ovkS/H
+L/4wNTBsMKQw2zESMUoxgjG6MfIyKjJjMpsy1DMNM0YzfzO4M/E0KzRlNJ402DUTNU01hzXC
+Nf02NzZyNq426TckN2A3nDfXOBQ4UDiMOMg5BTlCOX85vDn5OjY6dDqyOu87LTtrO6o76Dwn
+PGU8pDzjPSI9YT2hPeA+ID5gPqA+4D8hP2E/oj/iQCNAZECmQOdBKUFqQaxB7kIwQnJCtUL3
+QzpDfUPARANER0SKRM5FEkVVRZpF3kYiRmdGq0bwRzVHe0fASAVIS0iRSNdJHUljSalJ8Eo3
+Sn1KxEsMS1NLmkviTCpMcky6TQJNSk2TTdxOJU5uTrdPAE9JT5NP3VAnUHFQu1EGUVBRm1Hm
+UjFSfFLHUxNTX1OqU/ZUQlSPVNtVKFV1VcJWD1ZcVqlW91dEV5JX4FgvWH1Yy1kaWWlZuFoH
+WlZaplr1W0VblVvlXDVchlzWXSddeF3JXhpebF69Xw9fYV+zYAVgV2CqYPxhT2GiYfViSWKc
+YvBjQ2OXY+tkQGSUZOllPWWSZedmPWaSZuhnPWeTZ+loP2iWaOxpQ2maafFqSGqfavdrT2un
+a/9sV2yvbQhtYG25bhJua27Ebx5veG/RcCtwhnDgcTpxlXHwcktypnMBc11zuHQUdHB0zHUo
+dYV14XY+dpt2+HdWd7N4EXhueMx5KnmJeed6RnqlewR7Y3vCfCF8gXzhfUF9oX4BfmJ+wn8j
+f4R/5YBHgKiBCoFrgc2CMIKSgvSDV4O6hB2EgITjhUeFq4YOhnKG14c7h5+IBIhpiM6JM4mZ
+if6KZIrKizCLlov8jGOMyo0xjZiN/45mjs6PNo+ekAaQbpDWkT+RqJIRknqS45NNk7aUIJSK
+lPSVX5XJljSWn5cKl3WX4JhMmLiZJJmQmfyaaJrVm0Kbr5wcnImc951kndKeQJ6unx2fi5/6
+oGmg2KFHobaiJqKWowajdqPmpFakx6U4pammGqaLpv2nbqfgqFKoxKk3qamqHKqPqwKrdavp
+rFys0K1ErbiuLa6hrxavi7AAsHWw6rFgsdayS7LCszizrrQltJy1E7WKtgG2ebbwt2i34LhZ
+uNG5SrnCuju6tbsuu6e8IbybvRW9j74KvoS+/796v/XAcMDswWfB48JfwtvDWMPUxFHEzsVL
+xcjGRsbDx0HHv8g9yLzJOsm5yjjKt8s2y7bMNcy1zTXNtc42zrbPN8+40DnQutE80b7SP9LB
+00TTxtRJ1MvVTtXR1lXW2Ndc1+DYZNjo2WzZ8dp22vvbgNwF3IrdEN2W3hzeot8p36/gNuC9
+4UThzOJT4tvjY+Pr5HPk/OWE5g3mlucf56noMui86Ubp0Opb6uXrcOv77IbtEe2c7ijutO9A
+78zwWPDl8XLx//KM8xnzp/Q09ML1UPXe9m32+/eK+Bn4qPk4+cf6V/rn+3f8B/yY/Sn9uv5L
+/tz/bf///+4AIUFkb2JlAGSAAAAAAQMAEAMCAwYAAAAAAAAAAAAAAAD/2wCEAAwICAgJCAwJ
+CQwRCwoLERUPDAwPFRgTExUTExgRDAwMDAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwBDQsLDQ4NEA4OEBQODg4UFA4ODg4UEQwMDAwMEREMDAwMDAwRDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDP/CABEIAIwAVwMBIgACEQEDEQH/xADBAAACAwEBAAAAAAAAAAAAAAAE
+BQACAwEGAQADAQEBAAAAAAAAAAAAAAACAwQBAAUQAAICAgICAQMDBQAAAAAAAAIDAQQRBQAS
+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
+/oGH6BlwoY2x0t865Ov4caf+7i1r/L96v//Z</binary>
+</FictionBook>

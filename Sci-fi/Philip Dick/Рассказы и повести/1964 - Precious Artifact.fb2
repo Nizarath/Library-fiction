@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>Precious Artefact</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>Precious Artifact</emphasis> 12/9/63. <emphasis>Galaxy, </emphasis>Oct 1964.</p>
+   </annotation>
+   <date>1964</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-14">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Precious Artifact</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>Below the ‘copter of Milt Biskle lay newly fertile lands. He had done well with his area of Mars, verdant from his reconstruction of the ancient water-network. Spring, two springs each year, had been brought to this autumn world of sand and hopping toads, a land once made of dried soil cracking with the dust of former times, of a dreary and unwatered waste. Victim of the recent Prox-Terra conflict.</p>
+   <p>Quite soon the first Terran emigrants would appear, stake their claims and take over. He could retire. Perhaps he could return to Terra or bring his own family here, receive priority of land-acquisition—as a reconstruct engineer he deserved it. Area Yellow had progressed far faster than the other engineers’ sections. And now his reward came.</p>
+   <p>Reaching forward, Milt Biskle touched the button of his long-range transmitter. “This is Reconstruct Engineer Yellow,” he said. “I’d like a psychiatrist. Any one will do, so long as he’s immediately available.”</p>
+   <empty-line/>
+   <p>When Milt Biskle entered the office Dr. DeWinter rose and held out his hand. “I’ve heard,” Dr. DeWinter said, “that you, of all the forty odd reconstruct engineers, have been the most creative. It’s no wonder you’re tired. Even God had to rest after six days of such work, and you’ve been at it for years. As I was waiting for you to reach me I received a news memo from Terra that will interest you.” He picked the memo up from his desk. “The initial transport of settlers is about to arrive here on Mars . . . and they’ll go directly into your area. Congratulations, Mr. Biskle.”</p>
+   <p>Rousing himself Milt Biskle said, “What if I returned to Earth?”</p>
+   <p>“But if you mean to stake a claim for your family, here—”</p>
+   <p>Milt Biskle said, “I want you to do something for me. I feel too tired, too—” He gestured. “Or depressed, maybe. Anyhow I’d like you to make arrangements for my gear, including my wug-plant, to be put aboard a transport returning to Terra.”</p>
+   <p>“Six years of work,” Dr. DeWinter said. “And now you’re abandoning your recompense. Recently I visited Earth and it’s just as you remember—”</p>
+   <p>“How do you know how I remember it?”</p>
+   <p>“Rather,” DeWinter corrected himself smoothly, “I should say it’s just as it was. Overcrowded, tiny conapts with seven families to a single cramped kitchen. Autobahns so crowded you can’t make a move until eleven in the morning.”</p>
+   <p>“For me,” Milt Biskle said, “the overcrowding will be a relief after six years of robot autonomic equipment.” He had made up his mind. In spite of what he had accomplished here, or perhaps because of it, he intended to go home. Despite the psychiatrist’s arguments.</p>
+   <p>Dr. DeWinter purred, “What if your wife and children, Milt, are among the passengers of this first transport?” Once more he lifted a document from his neatly-arranged desk. He studied the paper, then said, “Biskle, Fay, Mrs. Laura C. June C. Woman and two girl children. Your family?”</p>
+   <p>“Yes,” Milt Biskle admitted woodenly; he stared straight ahead.</p>
+   <p>“So you see you can’t head back to Earth. Put on your hair and prepare to meet them at Field Three. And exchange your teeth. You’ve got the stainless steel ones in, at the moment.”</p>
+   <p>Chagrined, Biskle nodded. Like all Terrans he had lost his hair and teeth from the fallout during the war. For everyday service in his lonely job of re-reconstructing Yellow Area of Mars he made no use of the expensive wig which he had brought from Terra, and as to the teeth he personally found the steel ones far more comfortable than the natural-color plastic set. It indicated how far he had drifted from social interaction. He felt vaguely guilty; Dr. DeWinter was right.</p>
+   <p>But he had felt guilty ever since the defeat of the Proxmen. The war had embittered him; it didn’t seem fair that one of the two competing cultures would have to suffer, since the needs of both were legitimate.</p>
+   <p>Mars itself had been the locus of contention. Both cultures needed it as a colony on which to deposit surplus populations. Thank God Terra had managed to gain tactical mastery during the last year of the war . . . hence it was Terrans such as himself, and not Proxmen, patching up Mars.</p>
+   <p>“By the way,” Dr. DeWinter said. “I happen to know of your intentions regarding your fellow reconstruct engineers.”</p>
+   <p>Milt Biskle glanced up swiftly.</p>
+   <p>“As a matter of fact,” Dr. DeWinter said, “we know they’re at this moment gathering in Red Area to hear your account.” Opening his desk drawer he got out a yo-yo, stood up and began to operate it expertly doing <emphasis>walking the dog.</emphasis></p>
+   <p>“Your panic-stricken speech to the effect that something is wrong, although you can’t seem to say just what it might be.”</p>
+   <p>Watching the yo-yo Biskle said, “That’s a toy popular in the Prox system. At least so I read in a homeopape article, once.”</p>
+   <p>“Hmm. I understood it originated in the Philippines.” Engrossed, Dr. DeWinter now did <emphasis>around the world. </emphasis>He did it well. “I’m taking the liberty of sending a disposition to the reconstruct engineers’ gathering, testifying to your mental condition. It will be read aloud—sorry to say.”</p>
+   <p>“I still intend to address the gathering,” Biskle said.</p>
+   <p>“Well, then there’s a compromise that occurs to me. Greet your little family when it arrives here on Mars and then we’ll arrange a trip to Terra for you. At our expense. And in exchange you’ll agree not to address the gathering of reconstruct engineers or burden them in any way with your nebulous forebodings.” DeWinter eyed him keenly. “After all, this is a critical moment. The first emigrants are arriving. We don’t want trouble; we don’t want to make anyone uneasy.”</p>
+   <p>“Would you do me a favor?” Biskle asked. “Show me that you’ve got a wig on. And that your teeth are false. Just so I can be sure that you’re a Terran.”</p>
+   <p>Dr. DeWinter tilted his wig and plucked out his set of false teeth.</p>
+   <p>“I’ll take the offer,” Milt Biskle said. “If you’ll agree to make certain that my wife obtains the parcel of land I set aside for her.”</p>
+   <p>Nodding, DeWinter tossed him a small white envelope. “Here’s your ticket. Round trip, of course, since you’ll be coming back.”</p>
+   <p>I hope so, Biskle thought as he picked up the ticket. But it depends on what I see on Terra. Or rather on what they <emphasis>let </emphasis>me see.</p>
+   <p>He had a feeling they’d let him see very little. In fact as little as Proxmanly possible.</p>
+   <empty-line/>
+   <p>When his ship reached Terra a smartly uniformed guide waited for him. “Mr. Biskle?” Trim and attractive and exceedingly young she stepped forward alertly. “I’m Mary Ableseth, your Tourplan companion. I’ll show you around the planet during your brief stay here.” She smiled brightly and very professionally. He was taken aback. “I’ll be with you constantly, night and day.”</p>
+   <p>“Night, too?” he managed to say.</p>
+   <p>“Yes, Mr. Biskle. That’s my job. We expect you to be disoriented due to your years of labor on Mars . . . labor we of Terra applaud and honor, as is right.” She fell in beside him, steering him toward a parked ‘copter. “Where would you like to go first? New York City? Broadway? To the night clubs and theaters and restaurants . . . ”</p>
+   <p>“No, to Central Park. To sit on a bench.”</p>
+   <p>“But there is no more Central Park, Mr. Biskle. It was turned into a parking lot for government employees while you were on Mars.”</p>
+   <p>“I see,” Milt Biskle said. “Well, then Portsmouth Square in San Francisco will do.” He opened the door of the ‘copter.</p>
+   <p>“That, too, has become a parking lot,” Miss Ableseth said, with a sad shake of her long, luminous red hair. “We’re so darn over-populated. Try again, Mr. Biskle; there are a few parks left, one in Kansas, I believe, and <emphasis>two </emphasis>in Utah in the south part near St. George.”</p>
+   <p>“This is bad news,” Milt said. “May I stop at that amphetamine dispenser and put in my dime? I need a stimulant to cheer me up.”</p>
+   <p>“Certainly,” Miss Ableseth said, nodding graciously.</p>
+   <p>Milt Biskle walked to the spaceport’s nearby stimulant dispenser, reached into his pocket, found a dime, and dropped the dime in the slot.</p>
+   <p>The dime fell completely through the dispenser and bounced onto the pavement.</p>
+   <p>“Odd,” Biskle said, puzzled.</p>
+   <p>“I think I can explain that,” Miss Ableseth said. “That dime of yours is a Martian dime, made for a lighter gravity.”</p>
+   <p>“Hmm,” Milt Biskle said, as he retrieved the dime. As Miss Ableseth had predicted he felt disoriented. He stood by as she put in a dime of her own and obtained the small tube of amphetamine stimulants for him.. Certainly her explanation seemed adequate. But—</p>
+   <p>“It is now eight P.M. local time,” Miss Ableseth said. “And I haven’t had dinner, although of course you have, aboard your ship. Why not take me to dinner? We can talk over a bottle of Pinot Noir and you can tell me these vague forebodings which have brought you to Terra, that something dire is wrong and that all your marvelous reconstruct work is pointless. I’d adore to hear about it.” She guided him back to the ‘copter and the two of them entered, squeezing into the back seat together. Milt Biskle found her to be warm and yielding, decidedly Terran; he became embarrassed and felt his heart pounding in effort-syndrome. It had been some time since he had been this close to a woman.</p>
+   <empty-line/>
+   <p>“Listen,” he said, as the automatic circuit of the ‘copter caused it to rise from the spaceport parking lot, “I’m married. I’ve got two children and I came here on business. I’m on Terra to prove that the Proxmen really won and that we few remaining Terrans are slaves of the Prox authorities, laboring for—” He gave up; it was hopeless. Miss Ableseth remained pressed against him.</p>
+   <p>“You really think,” Miss Ableseth said presently, as the ‘copter passed above New York City, “that I’m a Prox agent?”</p>
+   <p>“N-no,” Milt Biskle said. “I guess not.” It did not seem likely, under the circumstances.</p>
+   <p>“While you’re on Terra,” Miss Ableseth said, “why stay in an overcrowded, noisy hotel? Why not stay with me at my conapt in New Jersey? There’s plenty of room and you’re more than welcome.”</p>
+   <p>“Okay,” Biskle agreed, feeling the futility of arguing.</p>
+   <p>“Good.” Miss Ableseth gave an instruction to the ‘copter; it turned north. “We’ll have dinner there. It’ll save money, and at all the decent restaurants there’s a two-hour line this time of night, so it’s almost impossible to get a table. You’ve probably forgotten. How wonderful it’ll be when half our population can emigrate!”</p>
+   <p>“Yes,” Biskle said tightly. “And they’ll like Mars; we’ve done a good job.” He felt a measure of enthusiasm returning to him, a sense of pride in the reconstruct work he and his compatriots had done. “Wait until you see it, Miss Ableseth.”</p>
+   <p>“Call me Mary,” Miss Ableseth said, as she arranged her heavy scarlet wig; it had become dislodged during the last few moments in the cramped quarters of the ‘copter.</p>
+   <p>“Okay,” Biskle said, and, except for a nagging awareness of disloyalty to Fay, he felt a sense of well-being.</p>
+   <p>“Things happen fast on Terra,” Mary Ableseth said. “Due to the terrible pressure of over-population.” She pressed her teeth in place; they, too, had become dislodged</p>
+   <p>“So I see,” Milt Biskle agreed, and straightened his own wig and teeth, too. <emphasis>Could I have been mistaken? </emphasis>he asked himself. After all he could see the lights of New York below; Terra was decidedly not a depopulated ruin and its civilization was intact.</p>
+   <p>Or was this all an illusion, imposed on his percept-system by Prox psychiatric techniques unfamiliar to him? It was a fact that his dime had fallen completely through the amphetamine dispenser. Didn’t that indicate something was subtly, terribly wrong?</p>
+   <p>Perhaps the dispenser hadn’t really been there.</p>
+   <empty-line/>
+   <p>The next day he and Mary Ableseth visited one of the few remaining parks. In the southern part of Utah, near the mountains, the park although small was bright green and attractive. Milt Biskle lolled on the grass watching a squirrel progressing toward a tree in wicket-like leaps, its tail flowing behind it in a gray stream.</p>
+   <p>“No squirrels on Mars,” Milt Biskle said sleepily.</p>
+   <p>Wearing a slight sunsuit, Mary Ableseth stretched out on her back, eyes shut. “It’s nice here, Milt. I imagine Mars is like this.” Beyond the park heavy traffic moved along the freeway; the noise reminded Milt of the surf of the Pacific Ocean. It lulled him. All seemed well, and he tossed a peanut to the squirrel. The squirrel veered, wicket-hopped toward the peanut, its intelligent face twitching in response.</p>
+   <p>As it sat upright, holding the nut, Milt Biskle tossed a second nut off to the right. The squirrel heard it land among the maple leaves; its ears pricked up, and this reminded Milt of a game he once had played with a cat, an old sleepy tom which had belonged to him and his brother in the days before Terra had been so overpopulated, when pets were still legal. He had waited until Pumpkin—the tomcat—was almost asleep and then he had tossed a small object into the corner of the room. Pumpkin woke up. His eyes had flown open and his ears had pricked, turned, and he had sat for fifteen minutes listening and watching, brooding as to what had made the noise. It was a harmless way of teasing the old cat, and Milt felt sad, thinking how many years Pumpkin had been dead, now, his last legal pet. On Mars, though, pets would be legal again. That cheered him.</p>
+   <p>In fact on Mars, during his years of reconstruct work, he had possessed a pet. A Martian plant. He had brought it with him to Terra and it now stood on the living room coffee table in Mary Ableseth’s conapt, its limbs draped rather unhappily. It had not prospered in the unfamiliar Terran climate.</p>
+   <p>“Strange,” Milt murmured, “that my wug-plant isn’t thriving. I’d have thought in such a moist atmosphere . . . ”</p>
+   <p>“It’s the gravity,” Mary said, eyes still shut, her bosom rising and falling regularly. She was almost asleep. “Too much for it.”</p>
+   <p>Milt regarded the supine form of the woman, remembering Pumpkin under similar circumstances. The hypnogogic moment, between waking and sleeping, when consciousness and unconsciousness became blended . . . reaching, he picked up a pebble.</p>
+   <p>He tossed the pebble into the leaves near Mary’s head.</p>
+   <p>At once she sat up, eyes open startled, her sunsuit falling from her.</p>
+   <p>Both her ears pricked up.</p>
+   <p>“But we Terrans,” Milt said, “have lost control of the musculature of our ears, Mary. On even a reflex basis.”</p>
+   <p>“What?” she murmured, blinking in confusion as she retied her sunsuit.</p>
+   <p>“Our ability to prick up our ears has atrophied,” Milt explained. “Unlike the dog and cat. Although to examine us morphologically you wouldn’t know because the muscles are still there. So you made an error.”</p>
+   <p>“I don’t know what you’re talking about,” Mary said, with a trace of sullenness. She turned her attention entirely to arranging the bra of her sunsuit, ignoring him.</p>
+   <p>“Let’s go back to the conapt,” Milt said, rising to his feet. He no longer felt like lolling in the park, because he could no longer believe in the park. Unreal squirrel, unreal grass . . . was it actually? Would they ever show him the substance beneath the illusion? He doubted it.</p>
+   <p>The squirrel followed them a short way as they walked to their parked ‘copter, then turned its attention to a family of Terrans which included two small boys; the children threw nuts to the squirrel and it scampered in vigorous activity.</p>
+   <p>“Convincing,” Milt said. And it really was.</p>
+   <p>Mary said, “Too bad you couldn’t have seen Dr. DeWinter more, Milt. He could have helped you.” Her voice was oddly hard.</p>
+   <p>“I have no doubt of that,” Milt Biskle agreed as they re-entered the parked ‘copter.</p>
+   <empty-line/>
+   <p>When they arrived back at Mary’s conapt he found his Martian wug-plant dead. It had evidently perished of dehydration.</p>
+   <p>“Don’t try to explain this,” he said to Mary as the two of them stood gazing down at the parched, dead stalks of the once active plant. “You know what it shows. Terra is supposedly more humid than Mars, even reconstructed Mars at its best. Yet this plant has completely dried out. There’s no moisture left on Terra because I suppose the Prox blasts emptied the seas. Right?”</p>
+   <p>Mary said nothing.</p>
+   <p>“What I don’t understand,” Milt said, “is why it’s worth it to you people to keep the illusion going. <emphasis>I’ve finished my job</emphasis>.”</p>
+   <p>After a pause Mary said, “Maybe there’re more planets requiring reconstruct work, Milt.”</p>
+   <p>“Your population is that great?”</p>
+   <p>“I was thinking of Terra. Here,” Mary said. “Reconstruct work on it will take generations; all the talent and ability you reconstruct engineers possess will be required.” She added, “I’m just following your hypothetical logic, of course.”</p>
+   <p>“So Terra’s our next job. That’s why you let me come here. In fact I’m going to <emphasis>stay </emphasis>here.” He realized that, thoroughly and utterly, in a flash of insight. “I won’t be going back to Mars and I won’t see Fay again. You’re replacing her.” It all made sense.</p>
+   <p>“Well,” Mary said, with a faint wry smile, “let’s say I’m attempting to.” She stroked his arm. Barefoot, still in her sunsuit, she moved slowly closer and closer to him.</p>
+   <p>Frightened, he backed away from her. Picking up the dead wug-plant he numbly carried it to the apt’s disposal chute and dropped the brittle, dry remains in. They vanished at once.</p>
+   <p>“And now,” Mary said busily, “we’re going to visit the Museum of Modern Art in New York and then, if we have time, the Smithsonian in Washington, D.C. They’ve asked me to keep you busy so you don’t start brooding.”</p>
+   <p>“But I am brooding,” Milt said as he watched her change from her sunsuit to a gray wool knit dress. Nothing can stop that, he said to himself. And you know it now. And as each reconstruct engineer finishes his area it’s going to happen again. I’m just the first.</p>
+   <p>At least I’m not alone, he realized. And felt somewhat better.</p>
+   <p>“How do I look?” Mary asked as she put on lipstick before the bedroom mirror.</p>
+   <p>“Fine,” he said listlessly, and wondered if Mary would meet each reconstruct engineer in turn, become the mistress of each. Not only is she not what she seems, he thought, but I don’t even get to keep her.</p>
+   <p>It seemed a gratuitous loss, easily avoided.</p>
+   <p>He was, he realized, beginning to like her. <emphasis>Mary was alive</emphasis>; that much was real. Terran or not. At least they had not lost the war to shadows; they had lost to authentic living organisms. He felt somewhat cheered.</p>
+   <p>“Ready for the Museum of Modern Art?” Mary said briskly, with a smile.</p>
+   <empty-line/>
+   <p>Later, at the Smithsonian, after he had viewed the Spirit of St. Louis and the Wright brothers’ incredibly ancient plane—it appeared to be at least a million years old—he caught sight of an exhibit which he had been anticipating.</p>
+   <p>Saying nothing to Mary—she was absorbed in studying a case of semiprecious stones in their natural uncut state—he slipped off and, a moment later, stood before a glass-walled section entitled</p>
+   <empty-line/>
+   <p><strong>PROX MILITARY OF 2014</strong></p>
+   <empty-line/>
+   <p>Three Prox soldiers stood frozen, their dark muzzles stained and grimy, side arms ready, in a makeshift shelter composed of the remains of one of their transports. A bloody Prox flag hung drably. This was a defeated enclave of the enemy; these three creatures were about to surrender or be killed.</p>
+   <p>A group of Terran visitors stood before the exhibit, gawking. Milt Biskle said to the man nearest him, “Convincing, isn’t it?”</p>
+   <p>“Sure is,” the man, middle-aged, with glasses and gray hair, agreed. “Were you in the war?” he asked Milt, glancing at him.</p>
+   <p>“I’m in reconstruct,” Milt said. “Yellow Engineer.”</p>
+   <p>“Oh.” The man nodded, impressed. “Boy, these Proxmen look scary. You’d almost expect them to step out of that exhibit and fight us to the death.” He grinned. “They put up a good fight before they gave in, those Proxmen; you have to give ‘em credit for that.”</p>
+   <p>Beside him the man’s gray, taut wife said, “Those guns of theirs make me shiver. It’s too realistic.” Disapproving, she walked on.</p>
+   <p>“You’re right,” Milt Biskle said. “They do look frighteningly real, because of course they are.” There was no point in creating an illusion of this sort because the genuine thing lay immediately at hand, readily available. Milt swung himself under the guard rail, reached the transparent glass of the exhibit, raised his foot and smashed the glass; it burst and rained down with a furious racket of shivering fragments.</p>
+   <p>As Mary came running, Milt snatched a rifle from one of the frozen Proxmen in the exhibit and turned it toward her.</p>
+   <p>She halted, breathing rapidly, eyeing him but saying nothing.</p>
+   <p>“I am willing to work for you,” Milt said to her, holding the rifle expertly. “After all, if my own race no longer exists I can hardly reconstruct a colony world for them; even I can see that. But I want to know the truth. Show it to me and I’ll go on with my job.”</p>
+   <p>Mary said, “No, Milt, if you knew the truth you wouldn’t go on. You’d turn that gun on yourself.” She sounded calm, even compassionate, but her eyes were bright and enlarged, wary.</p>
+   <p>“Then I’ll kill you,” he said. And, after that, himself.</p>
+   <p>“Wait.” She pondered. “Milt—this is difficult. You know absolutely nothing and yet look how miserable you are. How do you expect to feel when you can see your planet as it is? It’s almost too much for me and I’m—” She hesitated.</p>
+   <p>“Say it.”</p>
+   <p>“I’m just a—” she choked out the word—“a visitor.”</p>
+   <p>“But I am right,” he said. “Say it. Admit it.”</p>
+   <p>“You’re right, Milt,” she sighed.</p>
+   <p>Two uniformed museum guards appeared, holding pistols. “You okay, Miss Ableseth?”</p>
+   <p>“For the present,” Mary said. She did not take her eyes off Milt and the rifle which he held. “Just wait,” she instructed the guards.</p>
+   <p>“Yes ma’am.” The guards waited. No one moved.</p>
+   <p>Milt said, “Did any Terran women survive?”</p>
+   <p>After a pause, Mary said, “No, Milt. But we Proxmen are within the same genus, as you well know. We can interbreed. Doesn’t that make you feel better?”</p>
+   <p>“Sure,” he said. “A lot better.” And he did feel like turning the rifle on himself now, without waiting. It was all he could do to resist the impulse. So he had been right; that thing had not been Fay, there at Field Three on Mars. “Listen,” he said to Mary Ableseth, “I want to go back to Mars again. I came here to learn something. I learned it, now I want to go back. Maybe I’ll talk to Dr. DeWinter again, maybe he can help me. Any objection to that?”</p>
+   <p>“No.” She seemed to understand how he felt. “After all, you did all your work there. You have a right to return. But eventually you have to begin here on Terra. We can wait a year or so, perhaps even two. But eventually Mars will be filled up and we’ll need the room. And it’s going to be so much harder here . . . as you’ll discover.” She tried to smile but failed; he saw the effort. “I’m sorry, Milt.”</p>
+   <p>“So am I,” Milt Biskle said. “Hell, I was sorry when that wug-plant died. I knew the truth then. It wasn’t just a guess.”</p>
+   <p>“You’ll be interested to know that your fellow reconstruct engineer Red, Cleveland Andre, addressed the meeting in your place. And passed your intimations on to them all, along with his own. They voted to send an official delegate here to Terra to investigate; he’s on his way now.”</p>
+   <p>“I’m interested,” Milt said. “But it doesn’t really matter. It hardly changes things.” He put down the rifle. “Can I go back to Mars now?” He felt tired. “Tell Dr. DeWinter I’m coming.” Tell him, he thought, to have every psychiatric technique in his repertory ready for me, because it will take a lot. “What about Earth’s animals?” he asked. “Did any forms at all survive? How about the dog and the cat?”</p>
+   <p>Mary glanced at the museum guards; a flicker of communication passed silently between them and then Mary said, “Maybe it’s all right after all.”</p>
+   <p>“What’s all right?” Milt Biskle said.</p>
+   <p>“For you to see. Just for a moment. You seem to be standing up to it better than we had expected. In our opinion you <emphasis>are </emphasis>entitled to that.” She added, “Yes, Milt, the dog and cat survived; they live here among the ruins. Come along and look.”</p>
+   <p>He followed after her, thinking to himself, Wasn’t she right the first time? Do I really want to look? Can I stand up to what exists in actuality—what they’ve felt the need of keeping from me up until now?</p>
+   <p>At the exit ramp of the museum Mary halted and said, “Go on outside, Milt. I’ll stay here. I’ll be waiting for you when you come back in.”</p>
+   <p>Haltingly, he descended the ramp.</p>
+   <p>And saw.</p>
+   <p>It was, of course, as she had said, ruins. The city had been decapitated, leveled three feet above ground-level; the buildings had become hollow squares, without contents, like some infinite arrangements of useless, ancient courtyards. He could not believe that what he saw was <emphasis>new</emphasis>; it seemed to him as if these abandoned remnants had always been there, exactly as they were now. And—how long would they remain this way?</p>
+   <p>To the right an elaborate but small-scale mechanical system had plopped itself down to a debris-filled street. As he watched, it extended a host of pseudopodia which burrowed inquisitively into the nearby foundations. The foundations, steel and cement, were abruptly pulverized; the bare ground, exposed, lay naked and dark brown, seared over from the atomic heat generated by the repair autonomic rig—a construct, Milt Biskle thought, not much different from those I employ on Mars. At least to some meager extent the rig had the task of clearing away the old. He knew from his own reconstruct work on Mars that it would be followed, probably within minutes, by an equally elaborate mechanism which would lay the groundwork for the new structures to come.</p>
+   <p>And, standing off to one side in the otherwise deserted street, watching this limited clearing-work in progress, two gray, thin figures could be made out. Two hawk-nosed Proxmen with their pale, natural hair arranged in high coils, their earlobes elongated with heavy weights.</p>
+   <p>The victors, he thought to himself. Experiencing the satisfaction of this spectacle, witnessing the last artifacts of the defeated race being obliterated. Some day a purely Prox city will rise up here: Prox architecture, streets of the odd, wide Prox pattern, the uniform box-like buildings with their many subsurface levels. And citizens such as these will be treading the ramps, accepting the high-speed runnels in their daily routines. And what, he thought, about the Terran dogs and cats which now inhabit these ruins, as Mary said? Will even they disappear? Probably not entirely. There will be room for them, perhaps in museums and zoos, as oddities to be gaped at. Survivals of an ecology which no longer obtained. Or even mattered.</p>
+   <p>And yet—Mary was right. The Proxmen were within the same genus. Even if they did not interbreed with the remaining Terrans the species as he had known it would go on. And they would interbreed, he thought. His own relationship with Mary was a harbinger. As individuals they were not so far apart. The results might even be good.</p>
+   <p>The results, he thought as he turned away and started back into the museum, may be a race not quite Prox and not quite Terran; something that is genuinely new may come from the melding. At least we can hope so.</p>
+   <p>Terra would be rebuilt. He had seen slight but real work in progress with his own eyes. Perhaps the Proxmen lacked the skill that he and his fellow reconstruct engineers possessed . . . but now that Mars was virtually done they could begin here. It was not absolutely hopeless. Not <emphasis>quite.</emphasis></p>
+   <p>Walking up to Mary he said hoarsely, “Do me a favor. Get me a cat I can take back to Mars with me. I’ve always liked cats. Especially the orange ones with stripes.”</p>
+   <p>One of the museum guards, after a glance at his companion, said, “We can arrange that, Mr. Biskle. We can get a—cub, is that the word?”</p>
+   <p>“Kitten, I think,” Mary corrected.</p>
+   <empty-line/>
+   <p>On the trip back to Mars, Milt Biskle sat with the box containing the orange kitten on his lap, working out his plans. In fifteen minutes the ship would land on Mars and Dr. DeWinter—or the thing that posed as Dr. DeWinter anyhow—would be waiting to meet him. And it would be too late. From where he sat he could see the emergency escape hatch with its red warning light. His plans had become focussed around the hatch. It was not ideal but it would serve.</p>
+   <p>In the box the orange kitten reached up a paw and batted at Milt’s hand. He felt the sharp, tiny claws rake across his hand and he absently disengaged his flesh, retreating from the probing reach of the animal. You wouldn’t have liked Mars anyhow, he thought, and rose to his feet.</p>
+   <p>Carrying the box he strode swiftly toward the emergency hatch. Before the stewardess could reach him he had thrown open the hatch. He stepped forward and the hatch locked behind him. For an instant he was within the cramped unit, and then he began to twist open the heavy outer door.</p>
+   <p>“Mr. Biskle!” the stewardess’s voice came, muffled by the door behind him. He heard her fumbling to reach him, opening the door and groping to catch hold of him.</p>
+   <p>As he twisted open the outer door the kitten within the box under his arm snarled.</p>
+   <p>You, too? Milt Biskle thought, and paused.</p>
+   <p>Death, the emptiness and utter lack of warmth of ‘tween space, seeped around him, filtering past the partly opened outer door. He smelled it and something within him, as in the kitten, retreated by instinct. He paused, holding the box, not trying to push the outer door any farther open, and in that moment the stewardess grabbed him.</p>
+   <p>“Mr. Biskle,” she said with a half-sob, “are you out of your mind? Good God, what are you doing?” She managed to tug the outer door shut, screw the emergency section back into shut position.</p>
+   <p>“You know exactly what I’m doing,” Milt Biskle said as he allowed her to propel him back into the ship and to his seat. And don’t think you stopped me, he said to himself. Because it wasn’t you. I could have gone ahead and done it. But I decided not to.</p>
+   <p>He wondered why.</p>
+   <empty-line/>
+   <p>Later, at Field Three on Mars, Dr. DeWinter met him as he had expected.</p>
+   <p>The two of them walked to the parked ‘copter and DeWinter in a worried tone of voice said, “I’ve just been informed that during the trip—”</p>
+   <p>“That’s right. I attempted suicide. But I changed my mind. Maybe you know why. You’re the psychologist, the authority as to what goes on inside us.” He entered the ‘copter, being careful not to bang the box containing the Terran kitten.</p>
+   <p>“You’re going to go ahead and stake your landparcel with Fay?” Dr. DeWinter asked presently as the ‘copter flew above green, wet fields of high protein wheat. “Even though—you know?”</p>
+   <p>“Yes.” He nodded. After all, there was nothing else for him, as far as he could make out.</p>
+   <p>“You Terrans.” DeWinter shook his head. “Admirable.” Now he noticed the box on Milt Biskle’s lap. “What’s that you have there? A creature from Terra?” He eyed it suspiciously; obviously to him it was a manifestation of an alien form of life. “A rather peculiar-looking organism.”</p>
+   <p>“It’s going to keep me company,” Milt Biskle said. “While I go on with my work, either building up my private parcel or—” Or helping you Proxmen with Terra, he thought.</p>
+   <p>“Is that what was called a ‘rattlesnake’? I detect the sound of its rattles.” Dr. DeWinter edged away.</p>
+   <p>“It’s purring.” Milt Biskle stroked the kitten as the autonomic circuit of the ‘copter guided it across the dully red Martian sky. Contact with the one familiar life-form, he realized, will keep me sane. It will make it possible for me to go on. He felt grateful. My race may have been defeated and destroyed, but not all Terran creatures have perished. When we reconstruct Terra maybe we can induce the authorities to allow us to set up game preserves. We’ll make that part of our task, he told himself, and again he patted the kitten. At least we can hope for that much.</p>
+   <p>Next to him, Dr. DeWinter was also deep in thought. He appreciated the intricate workmanship, by engineers stationed on the third planet, which had gone into the simulacrum resting in the box on Milt Biskle’s lap. The technical achievement was impressive, even to him, and he saw clearly—as Milt Biskle of course did not. This artifact, accepted by the Terran as an authentic organism from his familiar past, would provide a pivot by which the man would hang onto his psychic balance.</p>
+   <p>But what about the other reconstruct engineers? What would carry each of them through and past the moment of discovery as each completed his work and had to—whether he liked it or not—awake?</p>
+   <empty-line/>
+   <p>It would vary from Terran to Terran. A dog for one, a more elaborate simulacrum, possibly that of a nubile human female, for another. In any case each would be provided with an “exception” to the true state. One essential surviving entity, selected out of what had in fact totally vanished. Research into the past of each engineer would provide the clue, as it had in Biskle’s instance; the cat-simulacrum had been finished weeks before his abrupt, panic-stricken trip home to Terra. For instance, in Andre’s case a parrot-simulacrum was already under construction. It would be done by the time he made <emphasis>his </emphasis>trip home.</p>
+   <p>“I call him Thunder,” Milt Biskle explained.</p>
+   <p>“Good name,” Dr. DeWinter—as he titled himself these days—said. And thought, A shame we could not have shown him the real situation of Terra. Actually it’s quite interesting that he accepted what he saw, because on some level he must realize that nothing survives a war of the kind we conducted. Obviously he desperately wanted to believe that a remnant, even though no more than rubble, endures. But it’s typical of the Terran mind to fasten onto phantoms. That might help explain their defeat in the conflict; they were simply not realists.</p>
+   <p>“This cat,” Milt Biskle said, “is going to be a mighty hunter of Martian sneak-mice.”</p>
+   <p>“Right,” Dr. DeWinter agreed, and thought, <emphasis>As long as its batteries don’t run down. </emphasis>He, too, patted the kitten.</p>
+   <p>A switch closed and the kitten purred louder.</p>
+  </section>
+  <section>
+   <title>
+    <p>Commentary by Philip K. Dick</p>
+   </title>
+   <p><emphasis>This story utilized a peculiar logic which I generally employ, which Professor Patricia Warrick pointed out to me. First you have </emphasis>Y<emphasis>. Then you do a cybernetics flipflop and you have null-</emphasis>Y<emphasis>. Okay, now you reverse it again and have null-null-</emphasis>Y<emphasis>. Okay, the question is: Does null-null </emphasis>Y<emphasis> equal </emphasis>Y3<emphasis>? Or is it a deepening of null-</emphasis>Y<emphasis>? In this story, what appears to be the case is </emphasis>Y<emphasis> but we find out the opposite is true (null-</emphasis>Y<emphasis>). But then </emphasis>that <emphasis>turns out not to be true, so are we back to </emphasis>Y<emphasis>? Professor Warrick says that my logic winds up with </emphasis>Y<emphasis> equals null-</emphasis>Y<emphasis>. I don’t agree, but I’m not sure what I do wind up with. Whatever it is, in terms of logic, it is contained in this particular story. Either I’ve invented a whole new logic or, ahem, I’m not playing with a full deck. </emphasis>(1978).</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>Precious Artifact</emphasis> 12/9/63. <emphasis>Galaxy, </emphasis>Oct 1964.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

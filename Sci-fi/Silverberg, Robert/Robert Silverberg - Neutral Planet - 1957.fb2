@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>Neutral Planet</book-title>
+   <annotation>
+    <p>In the galactic war with the Rigelians, every allied system counts, so Earth sends the <emphasis>Peccable</emphasis> to contact the gnorph of planet Fafnir for a treaty. But there’s a Rigelian ship landing at the same time, so the two enemies must compete for the natives’ favor, rather like the Federation and the Klingons did in the classic Star Trek episode Friday’s Child.</p>
+   </annotation>
+   <date>1957</date>
+   <coverpage>
+    <image l:href="#godling_go_home.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Verdi1</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor 2.4</program-used>
+   <date value="2010-08-28">28.08.2010</date>
+   <id>FBD-6AB787-0F9A-0241-D587-30FF-73BC-6F0BA2</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Godling, Go Home!</book-name>
+   <publisher>Belmont</publisher>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Neutral Planet</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>“Fasolt dead ahead,” came the word from Navigation. “Prepare for decelerating orbit.”</p>
+   <p>From the fore viewing bay of the Terran starship Peccable, the twin planets Fasolt and Fafnir had become visible — uninhabited Fasolt a violet ball the size of a quarter-credit piece dead ahead, and Fafhir, home of the gnorphs, a bright-red dot far to the right, beyond the mighty curve of the big ship’s outsweeping wing.</p>
+   <p>The nameless, tiny blue sun about which both worlds orbited rode high above them, at a sharp 36 degrees off the ecliptic. And, majestic in its vastness, great Antares served as a huge bright-red backdrop for the entire scene.</p>
+   <p>The eighteen men who comprised the Terran mission to the gnorphs of Fafhir moved rapidly and smoothly toward their landing stations. This was a functioning team; they had a big job, and they were ready for it.</p>
+   <p>In Control Cabin, Shipmaster Deev Harskin was strapping himself into the acceleration cradle when the voice of Observer First Rank Snollgren broke in.</p>
+   <p>“Chief? Snollgren. Read me?”</p>
+   <p>“Go ahead, boy. What’s up?”</p>
+   <p>“That Rigelian ship — the one we saw yesterday? I just found it again. Ten light-seconds off starboard, and credits to crawfish it’s orbiting in on Fasolt!”</p>
+   <p>Harskin gripped the side of the cradle anxiously. “You sure it’s not Fafhir they’re heading for? How’s your depth-perception out there?”</p>
+   <p>“A-one. That boat’s going the same place we are, chief!”</p>
+   <p>Sighing, Harskin said, “It could have been worse, I guess.” He snapped on the all-ship communicator and said, “Gentlemen, our job has been complicated somewhat. Observer Snollgren reports a Rigelian ship orbiting in on Fasolt, and it looks likely they have the same idea we have. Well, this’ll be a test of our mettle. We’ll have a chance to snatch Fafhir right out from under their alleged noses!”</p>
+   <p>A voice said, “Why not blast the Rigelians first? They’re our enemies, aren’t they?”</p>
+   <p>Harskin recognized the voice as belonging to Leefman — a first-rate linguist, rather innocent of the niceties of interstellar protocol. No reply from Harskin was needed. The hoarse voice of Military Attache Ramos broke in.</p>
+   <p>“This is a neutral system, Leefman. Rigelian-Terran hostilities are suspended pending contact with the gnorphs. Someday you’ll understand that war has its code too.”</p>
+   <p>Alone in Control Cabin, Shipmaster Harskin smiled. It was a good crew; a little overspecialized, perhaps, but more than adequate for the purpose. Having Rigelians on hand would be just so much additional challenge. Shipmaster Harskin enjoyed challenges.</p>
+   <p>Beneath him, the engines of the Peccable throbbed magnificently. He was proud of his ship, proud of his crew. The Peccable swept into the deadly atmosphere of Fasolt, swung downward in big looping spirals, and headed for land.</p>
+   <p>Not too far behind came the Rigelians. Harskin leaned back and let the crash of deceleration eddy up over him, and waited.</p>
+   <p>Fasolt was mostly rock, except for the hydrogen-fluoride oceans and the hydrogenous air. It was not an appealing planet.</p>
+   <p>The spacesuited men of the Peccable were quick to debouch and extrude their dome. Atmosphere issued into it. “A little home away from home,” Harskin remarked.</p>
+   <p>Biochemist Carver squinted balefully at the choppy hydrofluoric-acid sea. “Nice world. Good thing these goldfish bowls aren’t made out of glass, yes? And better caution your men about using the dome airlock. A little of our oxygen gets out into that atmosphere and we’ll have the loveliest rainstorm you ever want to see — with us a thousand feet up, looking down.”</p>
+   <p>Harskin nodded. “It’s not a pleasant place at all. But it’s not a pleasant war we’re fighting.</p>
+   <p>He glanced up at the murky sky. Fafhir was full, a broad red globe barely a million miles away. And, completing the group, there was the faint blue sun about which both worlds revolved, the entire system forming a neat Trojan equilateral with vast Antares.</p>
+   <p>Snollgren appeared. The keen-eyed observer had been in the ship, and apparently had made it from the Peccable to the endomed temporary camp on a dead run, no little feat in Fasolt’s 1.5-g field.</p>
+   <p>“Well?” Harskin asked.</p>
+   <p>The observer opened his face plate and sucked in some of the dome’s high-oxygen atmosphere. “The Rigelians,” he gasped. “They’ve landed. I saw them in orbit.”</p>
+   <p>“Where?”</p>
+   <p>“I’d estimate five hundred miles westward. They’re definitely on this continent.”</p>
+   <p>Harskin glanced at the chronometer set in the wrist of Snollgren’s spacesuit. “We’ll give them an hour to set up their camp. Then we’ll contact them and find out what goes.</p>
+   <p>The Rigelian captain’s name was Fourteen Deathless. He spoke Galactic with a sharp, crisp accent that Harskin attributed to his ursine ancestry.</p>
+   <p>“Coincidence we’re both here at the same time, eh, Shipmaster Harskin? Strange are the ways of the Guiding Forces.”</p>
+   <p>“They certainly are,” Harskin said. He stared at the hand-mike, wishing it were a screen so he could see the sly, smug expression on the Rigelian’s furry face. Obviously, someone had intercepted Harskin’s allegedly secret orders and studied them carefully before forwarding them to their recipient.</p>
+   <p>Coincidences didn’t happen in interstellar war. The Rigelians were here because they knew the Earthmen were.</p>
+   <p>“We have arrived at a knotty problem in ethics,” remarked Captain Fourteen Deathless. “Both of us are here for the same purpose, that of negotiating trading rights with the gnorphs. Now — ah — which of us is to make the first attempt to deal with these people?”</p>
+   <p>“Obviously,” said Harskin, “the ship which landed on Fasolt first has prior claim.”</p>
+   <p>“This is suitable,” said the Rigelian.</p>
+   <p>“We’ll set out at once, then. Since the Peccable landed at least half an hour before your ship, we have clear priority.”</p>
+   <p>“Interesting,” Captain Fourteen Deathless said. “But just how do you compute you arrived before we did? By our instruments we were down long before you.”</p>
+   <p>Harskin started to sputter, then checked himself. “Impossible!”</p>
+   <p>“Oh? Cite your landing time, please, with reference to Galactic Absolute.”</p>
+   <p>“We put down at…” Harskin paused. “No. Suppose you tell me what time you landed, and then I’ll give you our figures.”</p>
+   <p>“That’s hardly fair,” said the Rigelian. “How do we know you won’t alter your figures once we’ve given ours?”</p>
+   <p>“And how do we know, on the other hand . . . ?”</p>
+   <p>“It won’t work,” said the alien. “Neither of us will allow the other priority.”</p>
+   <p>Shrugging, Harskin saw the truth of that. Regardless of the fact that the Peccable actually had landed first, the Rigelians would never admit it. It was a problem in simple relativity; without an external observer to supply impartial data, it was Fourteen Deathless’ word against Harskin’s.</p>
+   <p>“All right,” Harskin said wearily. “Call it a stalemate. Suppose we both go to Fafnir now, and have them choose between us.”</p>
+   <p>There was silence at the other end for a while. Then the Rigelian said, “This is acceptable. The rights of the neutral parties must be respected, of course.”</p>
+   <p>“Of course. Until this system is settled, we’re all neutrals, remember?”</p>
+   <p>“Naturally,” said the Rigelian.</p>
+   <p>It was not, thought Harskin, a totally satisfactory arrangement. Still, it could hardly be helped.</p>
+   <p>By the very strict rules with which the Terran-Rigelian “war” was being fought, a system was considered neutral until a majority of its intelligently inhabited worlds had declared a preference for one power or the other.</p>
+   <p>In the Antares system, a majority vote would have to be a unanimous one. Of the eleven highly variegated worlds that circled the giant red star, only Fafnir bore. life. The gnorphs were an intelligent race of biped humanoids — the classic shape of intelligent life. The Terrans were simian-oid; the Rigelians, ursinoid. But the gnorphs owed their appearance neither to apes nor bears; they were reptilians, erect and tailless. Fafnir was not hospitable to mammalian life.</p>
+   <p>Harskin stared broodingly out the viewing bay as the blood-red seas of Fafnir grew larger. The Rigelian ship could not be seen, but he knew it was on its way. He made a mental note to inform Terran Intelligence that the secrecy of the high command’s secret orders was open to some question.</p>
+   <p>It was a strange war — a war fought with documents rather than energy cannons. The shooting stage of the war between the galaxy’s two leading races had long since ended in sheer futility; the development of the Martineau Negascreen, which happily drank up every megawatt of a bombardment and fired it back at triple intensity, had quickly put an end to active hostility.</p>
+   <p>Now, the war was carried on at a subtler level — the economic one. Rigel and Terra strove to outdo each other in extracting exclusive trading rights from systems, hoping to choke each other’s lifelines. The universe was infinite, or close enough to infinite to keep both systems busy for quite a few millennia to come.</p>
+   <p>Harskin shrugged. Terran scouts had visited Fafnir and had reported little anxiety on the part of the gnorphs to take part in the Galactic stream of things. Presumably, Rigel IV had not yet visited the world; it was simpler to pirate the Terran scout reports.</p>
+   <p>Well, this would really be a test.</p>
+   <p>“Preparing to land, sir,” said Navigator Dominic. “Any instructions?”</p>
+   <p>“Yes,” Harskin said. “Bring us down where it’s dry.”</p>
+   <p>The landing was a good one, on the centermost of the island group that made up Fafnir’s main land mass. Harskin and his twelve men — he had left five behind in the dome on Fasolt to hedge his bet — left the ship.</p>
+   <p>It would not be necessary to erect a dome here; Fafnir’s air was breathable, more or less. It was 11 percent oxygen, 86 percent nitrogen, and a whopping 3 percent of inerts, but a decent filter system easily strained the excess nitro and argon out and pumped in oxygen.</p>
+   <p>Wearing breathing-masks and converters, the thirteen Terrans advanced inland. At their backs was the ocean, red and glimmering in Antares’ light.</p>
+   <p>“Here come the Rigelians,” Observer Snollgren cried.</p>
+   <p>“As usual, they’re hanging back and waiting to see what we do.” Harskin frowned. “This time, we won’t wait for them. Let’s take advantage of our head start.”</p>
+   <p>The gnorph village was five miles inland, but the party had not gone more than two miles when they were greeted by a group of aliens.</p>
+   <p>There were about a hundred of them, advancing in a wedge-shaped phalanx. They were moving slowly, without any overt belligerent ideas, but Harskin felt uneasy. A hundred aroused savages could make quick work of thirteen Terrans armed with handguns.</p>
+   <p>He glanced at Mawley, Contact Technician First Class. “Go ahead. Get up there and tell ’em we’re friends.”</p>
+   <p>Mawley was a tall redhead with knobby cheekbones and, at the moment, an expression of grave self-concern. He nodded, checked his lingual converter to make sure it was operating, and stepped forward, one hand upraised.</p>
+   <p>“Greetings,” he said loudly. “We come in peace.”</p>
+   <p>The gnorphs spread out into a loose formation and stared stolidly ahead. Harskin, waiting tensely for Mawley to achieve his rapport with the aliens, peered curiously at them.</p>
+   <p>They were short — five-six or so — and correspondingly broad-beamed. Their chocolate-brown skin was glossy and scaled; it hung loosely, in corrugated folds. Thick antennae twined upward from either side of their bald heads, and equally thick fleshy processes dangled comblike from their jaws. As for their eyes, Harskin was unable to see them; they were hidden in deep shadow, set back two inches in their skull and protected by projecting, brooding rims of bone that circled completely around each eye.</p>
+   <p>Three of the gnorphs stepped out of the ranks, and the middle alien stepped forward, flanked slightly to the rear by his companions. He spoke in a harsh, guttural voice.</p>
+   <p>The converter rendered it as “What do you want here?”</p>
+   <p>Mawley was prepared for the question. “Friendship. Peace. Mutual happiness of our worlds.”</p>
+   <p>“Where are you from?”</p>
+   <p>Mawley gestured to the sky. “Far away, beyond the sky. Beyond the stars. Much distance.”</p>
+   <p>The gnorph looked skeptical. “How many days’ sailing from here?”</p>
+   <p>“Many days. Many, many days.”</p>
+   <p>“Then why come to us?”</p>
+   <p>“To establish friendship,” said Mawley. “To build a bond between your world and ours.”</p>
+   <p>At that, the alien did an abrupt about-face and conferred with his two companions. Harskin kept an eye on the spears twitching in the alien hands.</p>
+   <p>The conference seemed to be prolonging itself indefinitely. Mawley glanced back at Harskin as if to ask what he should do next, but the shipmaster merely smiled in approval and encouragement.</p>
+   <p>Finally the aliens broke up their huddle and the lead man turned back to the Terrans. “We think you should leave us,” he grunted. “Go. At once.”</p>
+   <p>There was nothing in Mawley’s instructions to cover this. The contact technician opened and closed his mouth a few times without speaking. Gravely, the aliens turned and marched away, leaving the Terrans alone.</p>
+   <p>First Contact had been achieved.</p>
+   <p>“This has to be done in a very careful way,” Harskin said. “Any news from the Rigelians?”</p>
+   <p>“They’re situated about eight miles from here,” Snollgren said.</p>
+   <p>“Hmmm. That means they’re as far from the village as we are.” Harskin put his hands to his head. “The gnorphs are certainly not leaping all over the place to sign a treaty with us, that’s for sure. We’ll have to handle them gently or we may make them angry enough to sign up with the Rigelians.”</p>
+   <p>“I doubt that,” offered Sociologist Yang. “They probably won’t be any more anxious to deal with the Rigelians than they are with us. They’re neutrals, and they want to stay that way.”</p>
+   <p>Harskin leaned back. “This is a problem we haven’t hit before. None of the worlds in either sphere of influence ever had any isolationist ideas. What do we do? Just pull up and leave?”</p>
+   <p>The blue sun was setting. Antares still hovered on the horizon, a shapeless blob of pale red eating up half the sky. “Well have to send a man to spy on the Rigelians. Archer, you’re elected.”</p>
+   <p>The man in question rose. “Yes, sir.”</p>
+   <p>“Keep an eye on them, watch their dealings with the gnorphs, and above all don’t let the Rigelians see you.” Another idea occurred to the shipmaster. “Lloyd?”</p>
+   <p>“Yes, sir?”</p>
+   <p>“In all probability the Rigelians have slapped a spy on us. You’re our counterespionage man, effective now. Scout around and see if you can turn up their spy.”</p>
+   <p>Archer and Lloyd departed. Harskin turned to the sociologist. “Yang, there has to be some way of pushing these gnorphs to one side or the other.”</p>
+   <p>“Agreed. I’ll have to see more of a pattern, though, before lean help you.”</p>
+   <p>Harskin nodded. “Well make contact with the gnorphs again after Archer returns with the word of what the Rigelians are up to. We’ll profit by their mistakes.”</p>
+   <p>Antares had set as far as it was going to set, which was about three quarters of the way below the horizon, and the blue sun was spiraling its way into the heavens again, when the quiet air of Fafnir was split by an earth-shaking explosion.</p>
+   <p>The men of the Peccable were awake in an instant — those eight who had been sleeping, at any rate. A two-man skeleton team had been guarding the ship. Harskin had been meditating in Control Cabin, and Archer and Lloyd had not yet returned from their scouting missions.</p>
+   <p>Almost simultaneously with the explosion came the clangor of the alarm bell at the main airlock, signifying someone wanted in. A moment later, Observer First Class Snollgren was on the wire, excitedly jabbering something incoherent.</p>
+   <p>Harskin switched on the all-ship communicator and yelled, “Stop! Whoa! Halt!”</p>
+   <p>There was silence. He said, “Clyde, see what’s going on at the airlock. Snollgren, slow down and tell me what you just saw.”</p>
+   <p>“It was the Rigelian ship, sir!” the observer said. “It just left. That was the noise we heard.”</p>
+   <p>“You sure of that?”</p>
+   <p>“Double positive. It took off in one hell of a hurry and I caught it on a tangent bound out of here.”</p>
+   <p>“Okay. Clyde, what’s at the airlock?”</p>
+   <p>“It’s Lloyd, sir. He’s back, and he’s got a Rigelian prisoner with him.”</p>
+   <p>“Prisoner? What the — all right, have them both come up here.”</p>
+   <p>Radioman Klaristenfeld was next on the line. He said, “Sir, report coming in from the base on Fasolt. They confirm blast-off of a ship from Fafnir. They thought it might be us.”</p>
+   <p>“Tell the idiots it isn’t,” Harskin snapped. “And tell them to watch out for the Rigelian ship. It’s probably on its way back to Fasolt.”</p>
+   <p>The door-annunciator chimed. Harskin pressed admit and Lloyd entered, preceded at blaster-point by a very angry-looking Rigelian.</p>
+   <p>“Where’d you find him?” Harskin asked.</p>
+   <p>“Mousing around near the ship,” Lloyd said. The thin spaceman was pale and tense-looking. “I was patrolling the area as you suggested when I heard the explosion. I looked up and saw the Rigelian ship overhead and heading outward. And then this guy came crashing out of the underbrush and started cursing a blue streak in Rigelian. He didn’t even see me until I had the blaster pointing in his face.”</p>
+   <p>Harskin glanced at the Rigelian. “What’s your name and rank, Rigelian?”</p>
+   <p>“Three Ninety-Seven Indomitable,” the alien said. He was a formidably burly seven-footer, covered with stiff, coarse black hair and wearing a light-yellow leather harness. His eyes glinted coldly. He looked angry. “Espionage man first order,” he said.</p>
+   <p>“That explains what you were doing near our ship, then, Three Ninety-Seven Indomitable,” Harskin said. “What can you tell me about this quick blast-off?”</p>
+   <p>“Not a thing. The first I knew of it was when it happened. They marooned me! They left me here!” The alien slipped from Galactic into a Rigelian tongue and growled what must have been some highly picturesque profanity.</p>
+   <p>“They just left you?” Harskin repeated in amazement. “Something must have made them decide to clear out of here in an awful hurry, then.” He turned to Lloyd. “Convey the prisoner to the brig and see that he’s put there to stay. Then pick two men and start combing the countryside for Archer. I want to know what made the Rigelians get out of here so fast they didn’t have time to pick up their own spy.”</p>
+   <p>As it developed, very little countryside combing was necessary to locate Archer. Harskin’s spy returned to the Peccable about three quarters of an hour later, extremely winded after his long cross-country trot.</p>
+   <p>It took him five minutes to calm down enough to deliver his report.</p>
+   <p>“I tracked the Rigelians back to their ship,” he said. “They were all gathered around it, and I waited in the underbrush. After a while they proceeded to the gnorph village, and I followed them.”</p>
+   <p>“Any attempt at counterespionage?” Harskin asked.</p>
+   <p>“Yes, sir.” Archer grinned uncomfortably. “I killed him.”</p>
+   <p>Harskin nodded. “Go on.”</p>
+   <p>“They reached the village. I stayed about thirty yards behind them and switched on my converter so I could hear what they were saying.”</p>
+   <p>“Bad, but unavoidable,” Harskin said. “They might have had a man at the ship tracing the energy flow. I guess they didn’t, though. What happened to the village?”</p>
+   <p>“They introduced themselves, and gave the usual line — the same thing we said, about peace and friendship and stuff. Then they started handing out gifts. Captain Fourteen Deathless said this was to cement Rigel’s friendship with Fafhir — only he didn’t call it Famir, naturally.</p>
+   <p>“They handed mirrors all around, and little forcewave generators, and all sorts of trinkets and gadgets. The gnorphs took each one and stacked it in a heap off to one side. The Rigelians kept handing out more and more, and the stack kept growing. Then, finally, Fourteen Deathless said he felt the gifts had been sufficient. He started to explain the nature of the treaty. And one of the gnorphs stepped out and pointed to the stack of gifts. ‘Are you quite finished delivering things?’ he asked, in a very stuffy tone. The Rigelian looked flustered and said more gifts would be forthcoming after the treaty was signed. And that blew the roof off.”</p>
+   <p>“How do you mean?”</p>
+   <p>“It happened so fast I’m not sure. But suddenly all the gnorphs started waving their spears and looking menacing, and then someone threw a spear at a Rigelian. That started it. The Rigelians had some handguns with them, but they were so close they hardly had a chance to use them. It was a real massacre. About half the Rigelians escaped, including Captain Deathless. I hid in the underbrush till it was all over. Then I came back here.”</p>
+   <p>Harskin looked at Sociologist Yang. “Well? What do you make of it?”</p>
+   <p>“Obviously a greedy sort of culture,” the sociologist remarked. “The Rigelians made the mistake of being too stingy. I suggest we wait till morning and go to that village ourselves, and shoot the works. With the Rigelians gone we’ve got a clear field, and if we’re liberal enough the planet will be ours.”</p>
+   <p>“Don’t be too sure of that,” Harskin said broodingly. “That Rigelian was no bigger a fool than I am. When we go to that village, we’ll go well armed.”</p>
+   <p>The gnorph village was a cluster of thatched huts set in a wide semicircle over some extremely marshy swampland. Both Antares and the blue companion were in the sky when the Earthmen arrived; Fasolt was making its daily occultation of the giant sun.</p>
+   <p>Harskin had taken six of his men with him: Yang, Leefman, Archer, Mawley, Ramos, and Carver. Six more remained at the ship, seeing to it that the Peccable was primed for a quick getaway, if necessary.</p>
+   <p>The gifts of the Rigelians lay in a scattered heap in the center of the village, smashed and battered. Nearby lay half a dozen mutilated Rigelian bodies. Harskin shuddered despite himself; these gnorphs were cold-blooded in more than the literal biological sense!</p>
+   <p>A group of them filtered out of their huts and confronted the approaching Earthmen. In the mingled blue-and-red light of the two suns — one huge and dim, the other small and dim — the blank, scaly faces looked strange and menacing, the bone-hooded sockets cold and ugly.</p>
+   <p>“What do you want here, strangers?”</p>
+   <p>“We have come to thank you,” Mawley said, “for killing our enemies, the fur-men.” He had been instructed to stress the distinction between the group of Rigelians and the Earth-men. “The fur-men were here last night, bearing niggling gifts. They are our enemies. We of Earth offer you peace and goodwill.”</p>
+   <p>The gnorphs stared squarely at the tense little party of Earthmen. Each of the seven Terrans carried a powerful blaster set for wide-beam stunning, highly efficient if not particularly deadly as a close-range weapon. In the event of a battle, the Earthmen would at least be ready.</p>
+   <p>“What is it you want here?” the gnorph leader asked with thinly concealed impatience.</p>
+   <p>“We wish to sign a treaty between your world and ours,” said Mawley. “A bond of eternal friendship, of loyalty and fellowship between worlds.”</p>
+   <p>Somewhere in the distance an unseen beast emitted a rumbling reptilian honk — quite spoiling the effect, Harskin thought.</p>
+   <p>“Friendship? Fellowship?” the gnorph repeated, indicating by a quivering shake of his wattles that these were difficult concepts for him to grasp.</p>
+   <p>“Yes,” said Mawley. “And as signs of our friendship we bring you gifts — not piddling trinkets such as our enemies foisted on you last night, but gifts of incomparable richness, gifts which will be just part of the bounty to fall upon you if you will sign with us.”</p>
+   <p>At a signal from Harskin, they began unloading the gifts they had brought with them: miniaturized cameras, game-detectors, dozens of other treasures calculated to impress the gnorphs.</p>
+   <p>And then it began.</p>
+   <p>Harskin had been on the lookout for the explosion ever since they had arrived, and when he saw the spears beginning to bristle in the gnorph ranks, he yanked his blaster out and fired.</p>
+   <p>The stunning beam swept the front rank of gnorphs; they fell. The others growled menacingly and advanced.</p>
+   <p>The seven Earthmen jammed together in a unit and fired constantly; gnorphs lay unconscious all over, and still more came pouring from the huts. The Terrans started to run. Spears sailed past their heads.</p>
+   <p>It was a long, grim retreat to the ship.</p>
+   <p>They were still a quarter of a million miles from Fasolt when Radioman Klaristenfeld reported that Captain Fourteen Deathless of the Rigelian ship was calling.</p>
+   <p>“We see you have left also,” the Rigelian said when Harskin took the phone. “You were evidently as unsuccessful as we.”</p>
+   <p>“Not quite,” Harskin said. “At least we got out of there without any casualties. I counted six dead Rigelians outside that village — plus the man you left behind to watch over us. He’s in our brig.”</p>
+   <p>“Ah. I had wondered what became of him. Well, Harskin, do we declare Fafnir a neutral planet and leave it at that? It’s a rather unsatisfactory finish to our little encounter.”</p>
+   <p>“Agreed. But what can we do? We dumped nearly fifty thousand credits’ worth of trinkets when we escaped.”</p>
+   <p>“You Terrans are lavish,” the Rigelian observed. “Our goods were worth but half that.”</p>
+   <p>“That’s the way it goes,” Harskin said. “Well, best wishes, Fourteen Deathless.”</p>
+   <p>“One moment! Is the decision a dual withdrawal?”</p>
+   <p>“I’m not so sure,” Harskin said, and broke the contact.</p>
+   <p>When they reached Fasolt and rejoined the men in the dome, Harskin ordered a general meeting. He had an idea.</p>
+   <p>“The aliens,” he said, “offered the gnorphs twenty-five thousand credits of goods, and were repulsed angrily. We offered twice as much — and, if Archer’s account of the Rigelian incident was accurate, we were repulsed about twice as fast. Yang, does that suggest anything to you?”</p>
+   <p>The little sociologist wrinkled his head. “The pattern still is not clear,” he said.</p>
+   <p>“I didn’t think so.” Harskin knotted his fingers in concentration. “Let me put it this way: the degree of insult the gnorphs felt was in direct variance with the degree of wealth offered. That sound plausible?”</p>
+   <p>Yang nodded.</p>
+   <p>“Tell me: what happens when an isolated, biologically glum race is visited by warm-blooded aliens from the skies? Suppose those warm-blooded aliens want a treaty of friendship — and offer to pay for it? How will the natives react, Yang?”</p>
+   <p>“I see. They’ll get highly insulted. We’re treating them in a cavalier fashion.”</p>
+   <p>“More than that. We’re obliging them to us. We’re purchasing that treaty with our gifts. But obviously gifts are worth more than a treaty of friendship, so they feel they’ll still owe us something if they accept. They don’t want to owe us anything. So they chase us away.</p>
+   <p>“Now,” continued Harskin, “if we reverse the situation — if we make ourselves beholden to them, and beg for the signing of the treaty instead of trying to buy a treaty — why, that gives them a chance to seem lordly.” He turned to Ramos, the military attache. “Ramos, do you think a solar system is worth a spaceship?”</p>
+   <p>“Eh?”</p>
+   <p>“I mean, if it becomes necessary to sacrifice our ship in order to win the Antares system, will that be a strategically sound move?”</p>
+   <p>“I imagine so,” Ramos said cautiously.</p>
+   <p>Harskin flicked a bead of sweat from his forehead. “Very well, then. Mawley, you and I and Navigator Dominic are going to take the Peccable on her final cruise. Klaristenfeld, I want you to get a subradio sending set inside my spacesuit, and make damned sure you don’t put it where it’ll bother me. Snollgren, you monitor the area and keep me posted on what the Rigelians are doing, if anything.”</p>
+   <p>He pointed to the Navigator. “Come up to Control Cabin, Dominic. We’re going to work out the most precise orbit you’ll ever need to compute.”</p>
+   <p>Antares was sinking in the sky and the blue sun was in partial eclipse. Suddenly, the Peccable flashed across the sky of Fafhir, trailing smoke at both jets, roaring like a wounded giant as it circled in wildly for its crash landing.</p>
+   <p>The three men aboard were huddled in their acceleration cradles, groaning in pain as the increasing grav buffeted and bruised them. Below, Fafnir sprang up to meet the ship.</p>
+   <p>Harskin was bathed in his own sweat. So many things could go wrong. . . .</p>
+   <p>They might have computed one tenth-place decimal awry — and would land square in the heart of the swampland.</p>
+   <p>The stabilizer jets might be consumed by the blaze they had set too soon, and the impact of their landing would kill them.</p>
+   <p>The airlock might refuse to open.</p>
+   <p>The gnorphs might fail to act as expected. . . .</p>
+   <p>It was, he thought, an insane venture.</p>
+   <p>The ship throbbed suddenly as the stabilizer jets went into action. The Peccable froze for a fraction of a second, then began to glide.</p>
+   <p>It struck the blood-red ocean nose first. Furiously, Harskin climbed from his cradle and into his spacesuit. Now, if we only figured the buoyancy factor right. . .</p>
+   <p>Two spacesuited figures waited for him at the airlock. He grinned at them, threw open the hatch, and stepped into the outer chamber. The door opened; a wall of water rushed at him. He squirted out of the sinking ship and popped to the surface like a cork. A moment later he saw Mawley and Dominic come bobbing above the water nearby.</p>
+   <p>He turned. All that was visible of the Peccable was the rear jet assembly and the tips of the once-proud wings. An oily slick was starting to cover the bright-red water. The ship was sinking rapidly as water poured into the lock</p>
+   <p>“Look over there!” Mawley exclaimed.</p>
+   <p>Harskin looked. Something that looked like a small island with a neck was approaching him: a monstrous turtlelike thing with a thick, saurian neck and a crested unintelligent head, from which dangled seven or eight fleshy barbels.</p>
+   <p>And riding in a sort of howdah erected on the broad carapace were three gnorphs, peering curiously at the three spacesuited men bobbing in the water.</p>
+   <p>The rescue party was on time.</p>
+   <p>“Help!” cried Harskin. “Rescue us! Oh, I beg of you, rescue us, and we’ll be eternally obliged to you! Rescue us!”</p>
+   <p>He hoped the converter was translating the words with a suitable inflection of piteous despair.</p>
+   <empty-line/>
+   <p>DOUBLEPLUS PRIORITY 03-16-2952 ABS XPF32</p>
+   <p>EXP FORCE ANTARES SYSTEM TO HIGH COMMAND</p>
+   <p>TERRA:</p>
+   <p>BE ADVISED ANTARES SYSTEM IN TERRAN FOLD. RIGELIANS ON HAND HAVE VALIDATED OUR TREATY WITH INHABITANTS OF FAFNIR, ANTARES’ ONE WORLD. ALL IS WELL AND NO CASUALTIES EXCEPT SHIP PECCABLE ACCIDENTALLY DESTROYED. FIFTEEN MEMBERS OF CREW LIVING IN DOME ON COMPANION WORLD FASOLT, THREE OF US LIVING ON FAFNIR. PLEASE SEND PICKUP SHIP DOUBLE FAST AS WE ARE CURRENTLY IN MENIAL SERVITUDE.</p>
+   <p>ALL THE BEST, LOVE AND KISSES, ETC.</p>
+   <p>HARSKIN</p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="godling_go_home.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEkALQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwHUHSK4lJBZw5ITsRtfOR+I7Vl3w+aE8L
+lQBge2ePz/ya0dZ/c38rSouNksfzcgMUbafzGc+1Y2pS4S3QNmRF5watEsYZmV18zbgcDtkE
+k8+v+fSnzNmXaGZiVGF6H3/CmaetzdXkFtbxmSaaRYVXoWZ+Bz759vet/UvA3iW1juBcafCg
+t2j3k3kJBMo+QKd5Dk7W4UnofQ1nUr0qbtOST82CjJ6pHPtKI5CBGFUHPPUf5/rUZmfBdiDy
+B75+v0roNI8B+MNYdl03RprlheSaexV0AE6Rl2Tk9lBOenvUNt4E8X3K2bRaNLILuMyW+2RM
+soQSDIzkZQhgDgkHIzUPGYdOzqK/qh8k+zMOVmQcnI6cHJx/+oGiIoUZzgnoBnsa09T8Na3Y
+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
+FH//2Q==</binary>
+</FictionBook>

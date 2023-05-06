@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>How It Was When the Past Went Away</book-title>
+   <date value="1969-10-01">1969</date>
+   <coverpage>
+    <image l:href="#how_it_was_when.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-03-24">24.03.2012</date>
+   <id>FBD-821AD8-8BB1-7E46-4485-9D1D-05A6-6CD588</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Three for Tomorrow</book-name>
+   <publisher>Meredith Press</publisher>
+   <year>1969</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>How It Was When the Past Went Away</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>The day that an antisocial fiend dumped an amnesifacient drug into the city water supply was one of the finest that San Francisco had had in a long while. The damp cloud that had been hovering over everything for three weeks finally drifted across the bay into Berkeley that Wednesday, and the sun emerged, bright and warm, to give the old town its warmest day so far in 2003. The temperature climbed into the high twenties, and even those oldsters who hadn’t managed to learn to convert to the centigrade thermometer knew it was hot. Air-conditioners hummed from the Golden Gate to the Embarcadero. Pacific Gas &amp; Electric recorded its highest one-hour load in history between two and three in the afternoon. The parks were crowded. People drank a lot of water, some a good deal more than others. Toward nightfall, the thirstiest ones were already beginning to forget things. By the next morning, everybody in the city was in trouble, with a few exceptions. It had really been an ideal day for committing a monstrous crime.</p>
+   <empty-line/>
+   <p>On the day before the past went away, Paul Mueller had been thinking seriously about leaving the state and claiming refuge in one of the debtor sanctuaries—Reno, maybe, or Caracas. It wasn’t altogether his fault, but he was close to a million in the red, and his creditors were getting unruly. It had reached the point where they were sending their robot bill collectors around to harass him in person, just about every three hours.</p>
+   <p>“Mr. Mueller? I am requested to notify you that the sum of $8,005.97 is overdue in your account with Modem Age Recreators, Inc. We have applied to your financial representative and have discovered your state of insolvency, and therefore, unless a payment of $395.61 is made by the eleventh of this month, we may find it necessary to begin confiscation procedures against your person. Thus I advise you—”</p>
+   <p>“—the amount of $11,554.97, payable on the ninth of August, 2002, has not yet been received by Luna Tours, Ltd. Under the Credit Laws of ~ we have applied for injunctive relief against you and anticipate receiving a decree of personal service due, if no payment is received by—”</p>
+   <p>“—interest on the unpaid balance is accruing, as specified in your contract, at a rate of four percent per month—”</p>
+   <p>“—balloon payment now coming due, requiring the immediate payment of—”</p>
+   <p>Mueller was growing accustomed to the routine. The robots couldn’t call him—Pacific Tel &amp; Tel had cut him out of their data net months ago—and so they came around, polite blank-faced machines stenciled with corporate emblems, and in soft purring voices told him precisely how deep in the mire he was at the moment, how fast the penalty charges were piling up, and what they planned to do to him unless he settled his debts instantly. If he tried to duck them, they’d simply track him down in the streets like indefatigable process servers, and announce his shame to the whole city. So he didn’t duck them. But fairly soon their threats would begin to materialize.</p>
+   <p>They could do awful things to him. The decree of personal service, for example, would turn him into a slave; he’d become an employee of his creditor, at a court-stipulated salary, but every cent he earned would be applied against his debt, while the creditor provided him with minimal food, shelter, and clothing. He might find himself compelled to do menial jobs that a robot would spit at, for two or three years, just to clear that one debt. Personal confiscation procedures were even worse; under that deal he might well end up as the actual servant of one of the executives of a creditor company, shining shoes and folding shirts. They might also get an open-ended garnishment on him, under which he and his descendants, if any, would pay a stated percentage of their annual income down through the ages until the debt, and the compounding interest thereon, was finally satisfied. There were other techniques for dealing with delinquents, too.</p>
+   <p>He had no recourse to bankruptcy. The states and the federal government had tossed out the bankruptcy laws in 1995, after the so-called Credit Epidemic of the 1980’s, when for a while it was actually fashionable to go irretrievably into debt and throw yourself on the mercy of the courts. The haven of easy bankruptcy was no more; if you became insolvent, your creditors had you in their grip. The only way out was to jump to a debtor sanctuary, a place where local laws barred any extradition for a credit offense. There were about a dozen such sanctuaries, and you could live well there, provided you had some special skill that you could sell at a high price. You needed to make a good living, because in a debtor sanctuary everything was on a strictly cash basis—cash in advance, at that, even for a haircut. Mueller had a skill that he thought would see him through: he was an artist, a maker of sonic sculptures, and his work was always in good demand. All he needed was a few thousand dollars to purchase the basic tools of his trade—his last set of sculpting equipment had been repossessed a few weeks ago—and he could set up a studio in one of the sanctuaries, beyond the reach of the robot hounds. He imagined he could still find a friend who would lend him a few thousand dollars. In the name of art, so to speak. In a good cause.</p>
+   <p>If he stayed within the sanctuary area for ten consecutive years, he would be absolved of his debts and could come forth a free man. There was only one catch, not a small one. Once a man had taken the sanctuary route, he was forever barred from all credit channels when he returned to the outside world. He couldn’t even get a post office credit card, let alone a bank loan. Mueller wasn’t sure he could live that way, paying cash for everything all the rest of his life. It would be terribly cumbersome and dreary. Worse: it would be barbaric.</p>
+   <p>He made a note on his memo pad: <emphasis>Call Freddy Munson in morning and borrow three bigs. Buy ticket to Caracas. Buy sculpting stuff.</emphasis></p>
+   <p>The die was cast—unless he changed his mind in the morning. He peered moodily out at the row of glistening whitewashed just-post-Earthquake houses descending the steeply inclined street that ran down Telegraph Hill toward Fisherman’s Wharf. They sparkled in the unfamiliar sunlight. A beautiful day, Mueller thought. A beautiful day to drown yourself in the bay. Damn. Damn. Damn. He was going to be forty years old soon. He had come into the world on the same black day that President John Kennedy had left it. Born in an evil hour, doomed to a dark fate. Mueller scowled. He went to the tap and got a glass of water. It was the only thing he could afford to drink, just now. He asked himself how he had ever managed to get into such a mess. Nearly a million in debt!</p>
+   <p>He lay down dismally to take a nap.</p>
+   <p>‘When he woke, toward midnight, he felt better than he had felt for a long time. Some great cloud seemed to have lifted from him, even as it had lifted from the city that day. Mueller was actually in a cheerful mood. He couldn’t imagine why.</p>
+   <empty-line/>
+   <p>In an elegant townhouse on Marina Boulevard, The Amazing Montini was rehearsing his act. The Amazing Montini was a professional mnemonist: a small, dapper man of sixty, who never forgot a thing. Deeply tanned, his dark hair slicked back at a sharp angle, his small black eyes glistening with confidence, his thin lips fastidiously pursed. He drew a book from a shelf and let it drop open at random. It was an old one-volume edition of Shakespeare, a familiar prop in his nightclub act. He skimmed the page, nodded, looked briefly at another, then another, and smiled his inward smile. Life was kind to The Amazing Montini. He earned a comfortable $30,000 a week on tour, having converted a freakish gift into a profitable enterprise. Tomorrow night he’d open for a week at Vegas; then on to Manila, Tokyo, Bangkok, Cairo, on around the globe. In twelve weeks he’d earn his year’s take; then he’d relax once more.</p>
+   <p>It was all so easy. He knew so many good tricks. Let them scream out a twenty-digit number; he’d scream it right back. Let them bombard him with long strings of nonsense syllables; he’d repeat the gibberish flawlessly. Let them draw intricate mathematical formulas on the computer screen; he’d reproduce them down to the last exponent. His memory was perfect, both for visuals and auditories, and for the other registers as well.</p>
+   <p>The Shakespeare thing, which was one of the simplest routines he had, always awed the impressionable. It seemed so fantastic to most people that a man could memorize the complete works, page by page. He liked to use it as an opener.</p>
+   <p>He handed the book to Nadia, his assistant. Also his mistress; Montini liked to keep his circle of intimates close. She was twenty years old, taller than he was, with wide frost-gleamed eyes and a torrent of glowing, artificially radiant azure hair: up to the minute in every fashion. She wore a glass bodice, a nice container for the things contained. She was not very bright, but she did the things Montini expected her to do, and did them quite well. She would be replaced, he estimated, in about eighteen more months. He grew bored quickly with his women. His memory was too good.</p>
+   <p>“Let’s start,” he said.</p>
+   <p>She opened the book. “Page ~37, left-hand column.”</p>
+   <p>Instantly the page floated before Montini’s eyes. “Henry VI, Part Two,” he said. “King Henry: Say, man, were these thy words?</p>
+   <p>Homer: An’t shall please your majesty, I never said nor thought any such matter: God is my witness, I am falsely accused by the villain. Peter: By these ten bones, my lords, he did speak them~ to me in the garret one night, as we were scouring my Lord of York’s armour. York: Base dunghill villain, and—”</p>
+   <p>“Page 778, right-hand column,” Nadia said.</p>
+   <p>“Romeo and Juliet. Mercutio is speaking:… an eye would spy out such a quarrel? Thy head is as full of quarrels as an egg is full of meat, and yet thy head hath been beaten as addle as an egg for quarreling. Thou hast quarreled with a man for coughing in the street, because he hath wakened thy dog that hath lain asleep in the sun. Didst thou not—”</p>
+   <p>“Page 307, starting fourteen lines down on the right side.”</p>
+   <p>Montini smiled. He liked the passage. A screen would show it to his audience at the performance.</p>
+   <p>“Twelfth Night,” he said. “The Duke speaks: Too old, by heaven. Let still the woman take an elder than herself, so wears she to him, so sways she level in her husband’s heart: For, boy, however we do praise ourselves, our fancies are more giddy and unfirm—”</p>
+   <p>“Page 495, left-hand column.”</p>
+   <p>“Wait a minute,” Montini said. He poured himself a tall glass of water and drank it in three quick gulps. “This work always makes me thirsty.”</p>
+   <empty-line/>
+   <p>Taylor Braskett, Lt. Comdr., Ret., U.S. Space Service, strode with springy stride into his Oak Street home, just outside Golden Gate Park. At 71, Commander Braskett still managed to move in a jaunty way, and he was ready to step back into uniform at once if his country needed him. He believed his country did need him, more than ever, now that socialism was running like wildfire through half the nations of Europe. Guard the home front, at least. Protect what’s left of traditional American liberty. What we ought to have, Commander Braskett believed, is a network of C-bombs in orbit, ready to rain hellish death on the enemies of democracy. No matter what that treaty says, we must be prepared to defend ourselves.</p>
+   <p>Commander Braskett’s theories were not widely accepted. People respected him for having been one of the first Americans to land on Mars, of course, but he knew that they quietly regarded him as a crank, a crackpot, an antiquated Minute Man still fretting about the Redcoats. He had enough of a sense of humor to realize that he did cut an absurd figure to these young people. But he was sincere in his determination to help keep America free—to protect the youngsters from the lash of totalitarianism, whether they laughed at him or not. All this glorious sunny day he had been walking through the park, trying to talk to the young ones, attempting to explain his position. He was courteous, attentive, eager to find someone who would ask him questions. The trouble was that no one listened. And the young ones—stripped to the waist in the sunshine, girls as well as boys, taking drugs out in the open, using the foulest obscenities in casual speech—at times, Commander Braskett almost came to think that the battle for America had already been lost. Yet he never gave up all hope.</p>
+   <p>He had been in the park for hours. Now, at home, he walked past the trophy room, into the kitchen, opened the refrigerator, drew out a bottle of water. Commander Braskett had three bottles of mountain spring water delivered to his home every two days; it was a habit he had begun fifty years ago, when they had first started talking about putting fluorides in the water. He was not unaware of the little smiles they gave him when he admitted that he drank only bottled spring water, but he didn’t mind; he had outlived many of the smilers already, and attributed his perfect health to his refusal to touch the polluted, contaminated water that most other people drank. First chlorine, then fluorides— probably they were putting in some other things by now, Commander Braskett thought.</p>
+   <p>He drank deeply.</p>
+   <p>You have no way of telling what sort of dangerous chemicals they might be putting in the municipal water system these days, he told himself. Am I a crank? Then I’m a crank. But a sane man drinks only water he can trust.</p>
+   <empty-line/>
+   <p>Fetally curled, knees pressed almost to chin, trembling, sweating, Nate Haldersen closed his eyes and tried to ease himself of the pain of existence. Another day. A sweet, sunny day. Happy people playing in the park. Fathers and children. Husbands and wives. He bit his lip, hard, just short of laceration intensity. He was an expert at punishing himself.</p>
+   <p>Sensors mounted in his bed in the Psychotrauma Ward of Fletcher Memorial Hospital scanned him continuously, sending a constant flow of reports to Dr. Bryce and his team of shrinks. Nate Haldersen knew he was a man without secrets. His hormone count, enzyme ratios, respiration, circulation, even the taste of bile in his mouth—it all became instantaneously known to hospital personnel. When the sensors discovered him slipping below the depression line, ultrasonic snouts came nosing up from the recesses of the mattress, proximity nozzles that sought him out in the bed, found the proper veins, squirted him full of dynajuice to cheer him up. Modern science was wonderful. It could do everything for Haldersen except give him back his family.</p>
+   <p>The door slid open. Dr. Bryce came in. The head shrink looked his part: tall, solemn yet charming, gray at the temples, clearly a wielder of power and an initiate of mysteries. He sat down beside Haldersen’s bed. As usual, he made a big point of not looking at the row of computer outputs next to the bed that gave the latest details on Haldersen’s condition.</p>
+   <p>“Nate?” he said. “How goes?”</p>
+   <p>“It goes,” Haldersen muttered.</p>
+   <p>“Feel like talking a while?”</p>
+   <p>“Not specially. Get me a drink of water?”</p>
+   <p>“Sure,” the shrink said. He fetched it and said, “It’s a gorgeous day. How about a walk in the park?”</p>
+   <p>“I haven’t left this room in two and a half years, Doctor. You know that.”</p>
+   <p>“Always a time to break loose. There’s nothing physically wrong with you, you know.”</p>
+   <p>“I just don’t feel like seeing people,” Haldersen said. He handed back the empty glass. “More?”</p>
+   <p>“Want something stronger to drink?”</p>
+   <p>“Water’s fine.” Haldersen closed his eyes. Unwanted images danced behind the lids: the rocket liner blowing open over the pole, the passengers spilling out like autumn seeds erupting from a pod, Emily tumbling down, down, falling eighty thousand feet, her golden hair swept up by the thin cold wind, her short skirt flapping at her hips, her long lovely legs clawing at the sky for a place to stand. And the children falling beside her, angels dropping from heaven, down, down, down, toward the white soothing fleece of the polar ice. They sleep in peace, Haldersen thought, and I missed the plane, and I alone remain. And Job spake, and said, Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived.</p>
+   <p>“It was eleven years ago,” Dr. Bryce told him. “Won’t you let go of it?”</p>
+   <p>“Stupid talk coming from a shrink. Why won’t it let go of <emphasis>me?”</emphasis></p>
+   <p>“You don’t want it to. You’re too fond of playing your role.”</p>
+   <p>“Today is talking-tough day, eh? Get me some more water.”</p>
+   <p>“Get up and get it yourself,” said the shrink.</p>
+   <p>Haldersen smiled bitterly. He left the bed, crossing the room a little unsteadily, and filled his glass. He had had all sorts of therapy—sympathy therapy, antagonism therapy, drugs, shock, orthodox freuding, the works. They did nothing for him. He was left with the image of an opening pod, and falling figures against the iron-blue sky. The Lord gave, and the Lord hath taken away; blessed be the name of the Lord. My soul is weary of my life. He put the glass to his lips. Eleven years. I missed the plane. I sinned with Marie, and Emily died, and John, and Beth. What did it feel like to fall so far? Was it like flying? Was there ecstasy in it? Haldersen filled the glass again.</p>
+   <p>“Thirsty today, eh?”</p>
+   <p>“Yes,” Haldersen said.</p>
+   <p>“Sure you don’t want to take a little walk?”</p>
+   <p>“You know I don’t.” Haldersen shivered. He turned and caught the psychiatrist by the forearm. “When does it end, Tim? How long do I have to carry this thing around?”</p>
+   <p>“Until you’re willing to put it down.”</p>
+   <p>“How can I make a conscious effort to forget something? Tim, Tim, isn’t there some drug I can take, something to wash away a memory that’s killing me?”</p>
+   <p>“Nothing effective.”</p>
+   <p>“You’re lying,” Haldersen murmured. “I’ve read about the amnesifacients. The enzymes that eat memory-RNA. The experiments with di-isopropyl fluorophosphate. Puromycin. The—”</p>
+   <p>Dr. Bryce said, “We have no control over their operations. We can’t simply go after a single block of traumatic memories while leaving the rest of your mind unharmed. We’d have to bash about at random, hoping we got the trouble spot, but never knowing what else we were blotting out. You’d wake up without your trauma, but maybe without remembering anything else that happened to you between, say, the ages of 4 and 40. Maybe in fifty years we’ll know enough to be able to direct the dosage at a specific—”</p>
+   <p>“I can’t wait fifty years.”</p>
+   <p>“I’m sorry, Nate.”</p>
+   <p>“Give me the drug anyway. I’ll take my chances on what I lose.”</p>
+   <p>“We’ll talk about that some other time, all right? The drugs are experimental. There’d be months of red tape before I could get authorization to try them on a human subject. You have to realize—”</p>
+   <p>Haldersen turned him off. He saw only with his inner eye, saw the tumbling bodies, reliving his bereavement for the billionth time, slipping easily back into his self-assumed role of Job. I am a brother to dragons, and a companion to owls. My skin is black upon me, and my bones are burned with heat. He hath destroyed me on every side, and I am gone: and mine hope hath he removed like a tree.</p>
+   <p>The shrink continued to speak. Haldersen continued not to listen. He poured himself one more glass of water with a shaky hand.</p>
+   <empty-line/>
+   <p>It was close to midnight on Wednesday before Pierre Gerard, his wife, their two sons, and their daughter had a chance to have dinner. They were the proprietors, chefs, and total staff of the Petit Pois Restaurant on Sansome Street, and business had been extraordinarily, exhaustingly good all evening. Usually they were able to eat about half past five, before the dinner rush began, but today people had begun coming in early—made more expansive by the good weather, no doubt—and there hadn’t been a free moment for anybody since the cocktail hour. The Gerards were accustomed to brisk trade, for theirs was perhaps the most popular family-run bistro in the city, with a passionately devoted clientele. Still, a night like this was too much!</p>
+   <p>They dined modestly on the evening’s miscalculations: an overdone rack of lamb, some faintly corky Château Beychevelle ’97, a fallen soufflé, and such. They were thrifty people. Their one extravagance was the Evian water that they imported from France. Pierre Gerard had not set foot in his native Lyons for thirty years, but he preserved many of the customs of the motherland, including the traditional attitude toward water. A Frenchman does not drink much water; but what he does drink comes always from the bottle, never from the tap. To do otherwise is to risk a diseased liver. One must guard one’s liver.</p>
+   <empty-line/>
+   <p>That night Freddy Munson picked up Helene at her flat on Geary and drove across the bridge to Sausalito for dinner, as usual, at Ondine’s. Ondine’s was one of only four restaurants, all of them famous old ones, at which Munson ate in fixed rotation. He was a man of firm habits. He awakened religiously at six each morning, and was at his desk in the brokerage house by seven, plugging himself into the data channels to learn what had happened in the European finance markets while he slept. At half past seven local time the New York exchanges opened and the real day’s work began. By half past eleven, New York was through for the day, and Munson went around the corner for lunch, always at the Petit Pois, whose proprietor he had helped to make a millionaire by putting him into Consolidated Nucleonics’ several components two and a half years before the big merger. At half past one, Munson was back in the office to transact business for his own account on the Pacific Coast exchange; three days a week he left at three, but on Tuesdays and Thursdays he stayed as late as five in order to catch some deals on the Honolulu and Tokyo exchanges. Afterwards, dinner, a play or concert, always a handsome female companion. He tried to get to sleep, or at least to bed, by midnight.</p>
+   <p>A man in Freddy Munson’s position <emphasis>had </emphasis>to be orderly. At any given time, his thefts from his clients ranged from six to nine million dollars, and he kept all the details of his jugglings in his head. He couldn’t trust putting them on paper, because there were scanner eyes everywhere; and he certainly didn’t dare employ the data net, since it was well known that anything you confided to one computer was bound to be accessible to some other computer somewhere, no matter how tight a privacy seal you slapped on it. So Munson had to remember the intricacies of fifty or more illicit transactions, a constantly changing chain of embezzlements, and a man who practices such necessary disciplines of memory soon gets into the habit of extending discipline to every phase of his life.</p>
+   <p>Helene snuggled close. Her faintly psychedelic perfume drifted toward his nostrils. He locked the car into the Sausalito circuit and leaned back comfortably as the traffic-control computer took over the steering. Helene said, “At the Bryce place last night I saw two sculptures by your bankrupt friend.”</p>
+   <p>“Paul Mueller?”</p>
+   <p>“That’s the one. They were very good sculptures. One of them buzzed at me.”</p>
+   <p>“What were you doing at the Bryces?”</p>
+   <p>“I went to college with Lisa Bryce. She invited me over with Marty.”</p>
+   <p>“I didn’t realize you were that old,” Munson said.</p>
+   <p>Helene giggled. “Lisa’s a lot younger than her husband, dear. How much does a Paul Mueller sculpture cost?”</p>
+   <p>“Fifteen, twenty thousand, generally. More for specials.”</p>
+   <p>“And he’s broke, even so?”</p>
+   <p>“Paul has a rare talent for self-destruction,” Munson said. “He simply doesn’t comprehend money. But it’s his artistic salvation, in a way. The more desperately in debt he is, the finer his work becomes. He creates out of his despair, so to speak. Though he seems to have overdone the latest crisis. He’s stopped working altogether. It’s a sin against humanity when an artist doesn’t work.”</p>
+   <p>“You can be so eloquent, Freddy,” Helene said softly.</p>
+   <empty-line/>
+   <p>When The Amazing Montini woke Thursday morning, he did not at once realize that anything had changed. His memory, like a good servant, was always there when he needed to call on it, but the array of perfectly fixed facts he carried in his mind remained submerged until required. A librarian might scan shelves and see books missing; Montini could not detect similar vacancies of his synapses. He had been up for half an hour, had stepped under the molecular bath and had punched for his breakfast and had awakened Nadia to tell her to confirm the pod reservations to Vegas, and finally, like a concert pianist running off a few arpeggios to limber his fingers for the day’s chores, Montini reached into his memory bank for a little Shakespeare and no Shakespeare came.</p>
+   <p>He stood quite still, gripping the astrolabe that ornamented his picture window, and peered out at the bridge in sudden bewilderment. It had never been necessary for him to make a conscious effort to recover data. He merely looked and it was there; but where was Shakespeare? Where was the left-hand column of page 136, and the right-hand column of page 654, and the right-hand column of page 8o6, sixteen lines down? Gone? He drew blanks. The screen of his mind showed him only empty pages.</p>
+   <p>Easy. This is unusual, but it isn’t catastrophic. You must be tense, for some reason, and you’re forcing it, that’s all. Relax, pull something else out of storage— The New York <emphasis>Times, </emphasis>Wednesday, October 3, 1973. Yes, there it was, the front page, beautifully clear, the story on the baseball game down in the lower right-hand corner, the headline about the jet accident big and black, even the photo credit visible. Fine. Now let’s try— The St. Louis <emphasis>Post-Dispatch, </emphasis>Sunday, April 19, 1987. Montini shivered. He saw the top four inches of the page, nothing else. Wiped clean.</p>
+   <p>He ran through the files of other newspapers he had memorized for his act. Some were there. Some were not. Some, like the <emphasis>Post-Dispatch, </emphasis>were obliterated in part. Color rose to his cheeks. Who had tampered with his memory?</p>
+   <p>He tried Shakespeare again. Nothing.</p>
+   <p>He tried the 1997 Chicago data-net directory. It was there.</p>
+   <p>He tried his third-grade geography textbook. It was there, the big red book with smeary print.</p>
+   <p>He tried last Friday’s five-o’clock xerofax bulletin. Gone.</p>
+   <p>He stumbled and sank down on a divan he had purchased in Istanbul, he recalled, on the nineteenth of May, 1985, for 4,200 Turkish pounds. “Nadia!” he cried. “Nadia!” His voice was little more than a croak. She came running, her eyes only half frosted, her morning face askew.</p>
+   <p>“How do I look?” he demanded. “My mouth—is my mouth right? My eyes?”</p>
+   <p>“Your face is all flushed.”</p>
+   <p>“Aside from that!”</p>
+   <p>“I don’t know,” she gasped. “You seem all upset, but—”</p>
+   <p>“Half my mind is gone,” Montini said. “I must have had a stroke. Is there any facial paralysis? That’s a symptom. Call my doctor, Nadia! A stroke, a stroke! It’s the end for Montini!”</p>
+   <empty-line/>
+   <p>Paul Mueller, awakening at midnight on Wednesday and feeling strangely refreshed, attempted to get his bearings. Why was he fully dressed, and why had he been asleep? A nap, perhaps, that had stretched on too long? He tried to remember what he had been doing earlier in the day, but he was unable to find a clue. He was baffled but not disturbed; mainly he felt a tremendous urge to get to work. The images of five sculptures, fully planned and begging to be constructed, jostled in his mind. Might as well start right now, he thought. Work through till morning. That small twittering silvery one—that’s a good one to start with. I’ll block out the schematics, maybe even do some of the armature— “Carole?” he called. “Carole, are you around?”</p>
+   <p>His voice echoed through the oddly empty apartment.</p>
+   <p>For the first time Mueller noticed how little furniture there was. A bed—a cot, really, not their double bed—and a table, and a tiny insulator unit for food, and a few dishes. No carpeting. Where were his sculptures, his private collection of his own best work? He walked into his studio and found it bare from wall to wall, all of his tools mysteriously swept away, just a few discarded sketches on the floor. And his wife? “Carole? <emphasis>Carole?”</emphasis></p>
+   <p>He could not understand any of this. While he dozed, it seemed, someone had cleaned the place out, stolen his furniture, his sculptures, even the carpet. Mueller had heard of such thefts. They came with a van, brazenly, posing as moving men. Perhaps they had given him some sort of drug while they worked. He could not bear the thought that they had taken his sculptures; the rest didn’t matter, but he had cherished those dozen pieces dearly. I’d better call the police, he decided, and rushed toward the handset of the data unit, but it wasn’t there either. Would burglars take <emphasis>that </emphasis>too?</p>
+   <p>Searching for some answers, he scurried from wall to wall, and saw a note in his own handwriting. <emphasis>Call Freddy Munson in morning and borrow three bigs. Buy ticket to Caracas. Buy sculpting stuff.</emphasis></p>
+   <p>Caracas? A vacation, maybe? And why buy sculpting stuff? Obviously the tools had been gone before he fell asleep, then. Why? And where was his wife? What was going on? He wondered if he ought to call Freddy right now, instead of waiting until morning. Freddy might know. Freddy was always home by midnight, too. He’d have one of his damned girls with him and wouldn’t want to be interrupted, but to hell with that; what good was having friends if you couldn’t bother them in a time of crisis?</p>
+   <p>Heading for the nearest public communicator booth, he rushed out of his apartment and nearly collided with a sleek dunning robot in the hallway. The things show no mercy, Mueller thought. They plague you at all hours. No doubt this one was on its way to bother the deadbeat Nicholson family down the hall.</p>
+   <p>The robot said, “Mr. Paul Mueller? I am a properly qualified representative of International Fabrication Cartel, Amalgamated. I am here to serve notice that there is an unpaid balance in your account to the extent of $9,150.55, which as of o~oo hours tomorrow morning will accrue compounded penalty interest at the rate of ~ percent per month, since you have not responded to our three previous requests for payment. I must further inform you—”</p>
+   <p>“You’re off your neutrinos,” Mueller snapped. “I don’t owe a dime to I.F.C.! For once in my life I’m in the black, and don’t try to make me believe otherwise.”</p>
+   <p>The robot replied patiently, “Shall I give you a printout of the transactions? On the fifth of January, 2003, you ordered the following metal products from us: three 4-meter tubes of antiqued iridium, six io-centimeter spheres of—”</p>
+   <p>“The fifth of January, 2003, happens to be three months from now,” Mueller said, “and I don’t have time to listen to crazy robots. I’ve got an important call to make. Can I trust you to patch me into the data net without garbling things?”</p>
+   <p>“I am not authorized to permit you to make use of my facilities.”</p>
+   <p>“Emergency override,” said Mueller. “Human being in trouble. Go argue with that one!”</p>
+   <p>The robot’s conditioning was sound. It yielded at once to his assertion of an emergency and set up a relay to the main communications net. Mueller supplied Freddy Munson’s number. “I can provide audio only,” the robot said, putting the call through. Nearly a minute passed. Then Freddy Munson’s familiar deep voice snarled from the speaker grille in the robot’s chest, “Who is it and what do you want?”</p>
+   <p>“It’s Paul. I’m sorry to bust in on you, Freddy, but I’m in big trouble. I think I’m losing my mind, or else everybody else is.”</p>
+   <p>“Maybe everybody else is. What’s the problem?”</p>
+   <p>“All my furniture’s gone. A dunning robot is trying to shake me down for nine bigs. I don’t know where Carole is. I can’t remember what I was doing earlier today. I’ve got a note here about getting tickets to Caracas that I wrote myself, and I don’t know why. And—”</p>
+   <p>“Skip the rest,” Munson said. “I can’t do anything for you. I’ve got problems of my own.”</p>
+   <p>“Can I come over, at least, and talk?”</p>
+   <p>“Absolutely not!” In a softer voice Munson said, “Listen, Paul, I didn’t mean to yell, but something’s come up here, something very distressing—”</p>
+   <p>“You don’t need to pretend. You’ve got Helene with you and you wish I’d leave you alone. Okay.”</p>
+   <p>“No. Honestly,” Munson said. “I’ve got problems, suddenly. I’m in a totally ungood position to give you any help at all. I need help myself.”</p>
+   <p>“What sort? Anything I can do for you?”</p>
+   <p>“I’m afraid not. And if you’ll excuse me, Paul—”</p>
+   <p>“Just tell me one thing, at least. Where am I likely to find Carole? Do you have any idea?”</p>
+   <p>“At her husband’s place, I’d say.”</p>
+   <p><emphasis>“I’m </emphasis>her husband.”</p>
+   <p>There was a long pause. Munson said finally, “Paul, she divorced you last January and married Pete Castine in April.”</p>
+   <p>“No,” Mueller said.</p>
+   <p>“What, no?”</p>
+   <p>“No, it isn’t possible.”</p>
+   <p>“Have you been popping pills, Paul? Sniffing something? Smoking weed? Look, I’m sorry, but I can’t take time now to—”</p>
+   <p>“At least tell me what day today is.”</p>
+   <p>“Wednesday.”</p>
+   <p>“Which Wednesday?”</p>
+   <p>“Wednesday the eighth of May. Thursday the ninth, actually, by this time of night.”</p>
+   <p>“And the year?”</p>
+   <p>“For Christ’s sake, Paul—”</p>
+   <p>“The <emphasis>year?”</emphasis></p>
+   <p>“2003.”</p>
+   <empty-line/>
+   <p>Mueller sagged. “Freddy, I’ve lost half a year somewhere! For me it’s last October. 2002. I’ve got some weird kind of amnesia. It’s the only explanation.”</p>
+   <p>“Amnesia,” Munson said. The edge of tension left his voice. “Is that what you’ve got? Amnesia? Can there be such a thing as an epidemic of amnesia? Is it contagious? Maybe you better come over here after all. Because amnesia’s my problem too.”</p>
+   <empty-line/>
+   <p>Thursday, May 9, promised to be as beautiful as the previous day had been. The sun once again beamed on San Francisco; the sky was clear, the air warm and tender. Commander Braskett awoke early as always, punched for his usual spartan breakfast, studied the morning xerofax news, spent an hour dictating his memoirs, and, about nine, went out for a walk. The streets were strangely crowded, he found, when he got down to the shopping district along Haight Street. People were wandering about aimlessly, dazedly, as though they were sleepwalkers. Were they drunk? Drugged? Three times in five minutes Commander Braskett was stopped by young men who wanted to know the date. Not the time, the <emphasis>date. </emphasis>He told them, crisply, disdainfully; he tried to be tolerant, but it was difficult for him not to despise people who were so weak that they were unable to refrain from poisoning their minds with stimulants and narcotics and psychedelics and similar trash. At the corner of Haight and Masonic a forlorn-looking pretty girl of about seventeen, with wide blank blue eyes, halted him and said, “Sir, this city is San Francisco, isn’t it? I mean, I was supposed to move here from Pittsburgh in May, and if this is May, this is San Francisco, right?” Commander Braskett nodded brusquely and turned away, pained. He was relieved to see an old friend, Lou Sandier, the manager of the Bank of America office across the way. Sandier was standing outside the bank door. Commander Braskett crossed to him and said, “Isn’t it a disgrace, Lou, the way this whole street is filled with addicts this morning? “What is it, some historical pageant of the 1960’s?” And Sandier gave him an empty smile and said, “Is that my name? Lou? You wouldn’t happen to know the last name too, would you? Somehow it’s slipped my mind.” In that moment Commander Braskett realized that something terrible had happened to his city and perhaps to his country, and that the leftist takeover he had long dreaded must now be at hand, and that it was time for him to don his old uniform again and do what he could to strike back at the enemy.</p>
+   <empty-line/>
+   <p>In joy and in confusion, Nate Haldersen awoke that morning realizing that he had been transformed in some strange and wonderful way. His head was throbbing, but not painfully. It seemed to him that a terrible weight had been lifted from his shoulders, that the fierce dead hand about his throat had at last relinquished its grip.</p>
+   <p>He sprang from bed, full of questions.</p>
+   <p>Where am I? What kind of place is this? Why am I not at home? Where are my books? Why do I feel so happy?</p>
+   <p>This seemed to be a hospital room.</p>
+   <p>There was a veil across his mind. He pierced its filmy folds and realized that he had committed himself to—to Fletcher Memorial —last—August—no, the August before last—suffering with a severe emotional disturbance brought on by—brought on by— He had never felt happier than at this moment.</p>
+   <p>He saw a mirror. In it was the reflected upper half of Nathaniel Haldersen, Ph.D. Nate Haldersen smiled at himself. Tall, stringy, long-nosed man, absurdly straw-colored hair, absurd blue eyes, thin lips, smiling. Bony body. He undid his pajama top. Pale, hairless chest; bump of bone like an epaulet on each shoulder. I have been sick a long time, Haldersen thought. Now I must get out of here, back to my classroom. End of leave of absence. Where are my clothes?</p>
+   <p>“Nurse? Doctor?” He pressed his call button three times. “Hello? Anyone here?”</p>
+   <p>No one came. Odd; they always came. Shrugging, Haldersen moved out into the hall. He saw three orderlies, heads together, buzzing at the far end. They ignored him. A robot servitor carrying breakfast trays glided past. A moment later one of the younger doctors came running through the hall, and would not stop when Haldersen called to him. Annoyed, he went back into his room and looked about for clothing. He found none, only a little stack of magazines on the closet floor. He thumbed the call button three more times. Finally one of the robots entered the room.</p>
+   <p>“I am sorry,” it said, “but the human hospital personnel is busy at present. May I serve you, Dr. Haldersen?”</p>
+   <p>“I want a suit of clothing. I’m leaving the hospital.”</p>
+   <p>“I am sorry, but there is no record of your discharge. Without authorization from Dr. Bryce, Dr. Reynolds, or Dr. Kamakura, I am not permitted to allow your departure.”</p>
+   <p>Haldersen sighed. He knew better than to argue with a robot. “Where are those three gentlemen right now?”</p>
+   <p>“They are occupied, sir. As you may know, there is a medical emergency in the city this morning, and Dr. Bryce and Dr. Kamakura are helping to organize the committee of public safety. Dr. Reynolds did not report for duty today and we are unable to trace him. It is believed that he is a victim of the current difficulty.”</p>
+   <p><emphasis>“What </emphasis>current difficulty?”</p>
+   <p>“Mass loss of memory on the part of the human population,” the robot said.</p>
+   <p>“An epidemic of amnesia?”</p>
+   <p>“That is one interpretation of the problem.”</p>
+   <p>“How can such a thing—” Haldersen stopped. He understood now the source of his own joy this morning. Only yesterday afternoon he had discussed with Tim Bryce the application of memory-destroying drugs to his own trauma, and Bryce had said— Haldersen no longer knew the nature of his own trauma. “Wait,” he said, as the robot began to leave the room. “I need information. Why have I been under treatment here?”</p>
+   <p>“You have been suffering from social displacements and dysfunctions whose origin, Dr. Bryce feels, lies in a situation of traumatic personal loss.”</p>
+   <p>“Loss of what?”</p>
+   <p>“Your family, Dr. Haldersen.”</p>
+   <p>“Yes. That’s right. I recall, now—I had a wife and two children. Emily. And a little girl—Margaret, Elizabeth, something like that. And a boy named John. What happened to them?”</p>
+   <p>“They were passengers aboard Intercontinental Airways Flight 103, Copenhagen to San Francisco, September 5, 1991. The plane underwent explosive decompression over the Arctic Ocean and there were no survivors.”</p>
+   <p>Haldersen absorbed the information as calmly as though he were hearing of the assassination of Julius Caesar.</p>
+   <p>“Where was I when the accident occurred?”</p>
+   <p>“In Copenhagen,” the robot replied. “You had intended to return to San Francisco with your family on Flight 1o3; however, according to your data file here, you became invovled in an emotional relationship with a woman named Marie Rasmussen, whom you had met in Copenhagen, and failed to return to your hotel in time to go to the airport. Your wife, evidently aware of the situation, chose not to wait for you. Her subsequent death, and that of your children, produced a traumatic guilt reaction in which you came to regard yourself as responsible for their terminations.”</p>
+   <p>“I <emphasis>would </emphasis>take that attitude, wouldn’t I?” Haldersen said. “Sin and retribution. Mea culpa, mea maxima culpa. I always had a harsh view of sin, even while I was sinning. I should have been an Old Testament prophet.”</p>
+   <p>“Shall I provide more information, sir?”</p>
+   <p>“Is there more?”</p>
+   <p>“We have in the files Dr. Bryce’s report headed, <emphasis>The Job Complex: </emphasis>A <emphasis>Study in the Paralysis of Guilt.”</emphasis></p>
+   <p>“Spare me that,” Haldersen said. “All right, go.”</p>
+   <p>He was alone. The Job Complex, he thought. Not really appropriate, was it? Job was a man without sin, and yet he was punished grievously to satisfy a whim of the Almighty. A little presumptuous, I’d say, to identify myself with him. Cain would have been a better choice. Cain said unto the Lord, My punishment is greater than I can bear. But Cain was a sinner. I was a sinner. I sinned and Emily died for it. When, eleven, eleven-and-a-half years ago? And now I know nothing at all about it except what the machine just told me. Redemption through oblivion, I’d call it. I have expiated my sin and now I’m free. I have no business staying in this hospital any longer. Strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it. I’ve got to get out of here. Maybe I can be of some help to others.</p>
+   <p>He belted his bathrobe, took a drink of water, and went out of the room. No one stopped him. The elevator did not seem to be running, but he found the stairs, and walked down, a little creakily. He had not been this far from his room in more than a year. The lower floors of the hospital were in chaos—doctors, orderlies, robots, patients, all milling around excitedly. The robots were trying to calm people and get them back to their proper places. “Excuse me,” Haldersen said serenely. “Excuse me. Excuse me.” He left the hospital, unmolested, by the front door. The air outside was as fresh as young wine; he felt like weeping when it hit his nostrils. He was free. Redemption through oblivion. The disaster high above the Arctic no longer dominated his thoughts. He looked upon it precisely as if it had happened to the family of some other man, long ago. Haldersen began to walk briskly down Van Ness, feeling vigor returning to his legs with every stride. A young woman, sobbing wildly, erupted from a building and collided with him. He caught her, steadied her, was surprised at his own strength as he kept her from toppling. She trembled and pressed her head against his chest. “Can I do anything for you?” he asked. “Can I be of any help?”</p>
+   <empty-line/>
+   <p>Panic had begun to enfold Freddy Munson during dinner at Ondine’s Wednesday night. He had begun to be annoyed with Helene in the midst of the truffled chicken breasts, and so he had started to think about the details of business; and to his amazement he did not seem to have the details quite right in his mind; and so he felt the early twinges of terror.</p>
+   <p>The trouble was that Helene was going on and on about the art of sonic sculpture in general and Paul Mueller in particular. Her interest was enough to arouse faint jealousies in Munson. Was she getting ready to leap from his bed to Paul’s? Was she thinking of abandoning the wealthy, glamorous, but essentially prosaic stockbroker for the irresponsible, impecunious, fascinatingly gifted sculptor? Of course, Helene kept company with a number of other men, but Munson knew them and discounted them as rivals; they were nonentities, escorts to fill her idle nights when he was too busy for her. Paul Mueller, however, was another case. Munson could not bear the thought that Helene might leave him for Paul. So he shifted his concentration to the day’s maneuvers. He had extracted a thousand shares of the $5.87 convertible preferred of Lunar Transit from the Schaeffer account, pledging it as collateral to cover his shortage in the matter of the Comsat debentures, and then, tapping the Howard account for five thousand Southeast Energy Corporation warrants, he had—or had those warrants come out of the Brewster account? Brewster was big on utilities. So was Howard, but that account was heavy on Mid-Atlantic Power, so would it also be loaded with Southeast Energy? In any case, had he put those warrants up against the Zurich uranium futures, or were they riding as his markers in the Antarctic oil-lease thing? He could not remember.</p>
+   <p>He could not remember.</p>
+   <p>He could not remember.</p>
+   <p>Each transaction had been in its own compartment. The parti tions were down, suddenly. Numbers were spilling about in his mind as though his brain were in free fall. All of today’s deals were tumbling. It frightened him. He began to gobble his food, wanting now to get out of here, to get rid of Helene, to get home and try to reconstruct his activities of the afternoon. Oddly, he could remember quite clearly all that he had done yesterday— the Xerox switch, the straddle on Steel—but today was washing away minute by minute.</p>
+   <p>“Are you all right?” Helene asked.</p>
+   <p>“No, I’m not,” he said. “I’m coming down with something.”</p>
+   <p>“The Venus Virus. Everybody’s getting it.”</p>
+   <p>“Yes, that must be it. The Venus Virus. You’d better keep clear of me tonight.”</p>
+   <p>They skipped dessert and cleared out fast. He dropped Helene off at her flat; she hardly seemed disappointed, which bothered him, but not nearly so much as what was happening to his mind. Alone, finally, he tried to jot down an outline of his day, but even more had left him now. In the restaurant he had known which stocks he had handled, though he wasn’t sure what he had done with them. Now he couldn’t even recall the specific securities. He was out on the limb for millions of dollars of other people’s money, and every detail was in his mind, and his mind was falling apart. By the time Paul Mueller called, a little after midnight, Munson was growing desperate. He was relieved, but not exactly cheered, to learn that whatever strange thing had affected his mind had hit Mueller a lot harder. Mueller had forgotten everything since last October.</p>
+   <p>“You went bankrupt,” Munson had to explain to him. “You had this wild scheme for setting up a central clearing house for works of art, a kind of stock exchange—the sort of thing only an artist would try to start. You wouldn’t let me discourage you. Then you began signing notes, and taking on contingent liabilities, and before the project was six weeks old you were hit with half a dozen lawsuits and it all began to go sour.”</p>
+   <p>“When did this happen, precisely?”</p>
+   <p>“You conceived the idea at the beginning of November. By Christmas you were in severe trouble. You already had a bunch of personal debts that had gone unpaid from before, and your assets melted away, and you hit a terrible bind in your work and couldn’t produce a thing. You really don’t remember a thing of this, Paul?”</p>
+   <p>“Nothing.”</p>
+   <p>“After the first of the year the fastest-moving creditors started getting decrees against you. They impounded everything you owned except the furniture, and then they took the furniture. You borrowed from all of your friends, but they couldn’t give you nearly enough, because you were borrowing thousands and you owed hundreds of thousands.”</p>
+   <p>“How much did I hit you for?”</p>
+   <p>“Eleven bigs,” Munson said. “But don’t worry about that now.”</p>
+   <p>“I’m not. I’m not worrying about a thing. I was in a bind in my work, you say?” Mueller chuckled. “That’s all gone. I’m itching to start making things. All I need are the tools—I mean, money to buy the tools.”</p>
+   <p>“What would they cost?”</p>
+   <p>“Two-and-a-half bigs,” Mueller said.</p>
+   <p>Munson coughed. “All right. I can’t transfer the money to your account, because your creditors would lien it right away. I’ll get some cash at the bank. You’ll have three bigs tomorrow, and welcome to it.”</p>
+   <p>“Bless you, Freddy.” Mueller said, “This kind of amnesia is a good thing, eh? I was so worried about money that I couldn’t work. Now I’m not worried at all. I guess I’m still in debt, but I’m not fretting. Tell me what happened to my marriage, now.”</p>
+   <p>“Carole got fed up and turned off,” said Munson. “She opposed your business venture from the start. When it began to devour you, she did what she could to untangle you from it, but you insisted on trying to patch things together with more loans, and she filed for a decree. When she was free, Pete Castine moved in and grabbed her.”</p>
+   <p>“That’s the hardest part to believe. That she’d marry an art dealer, a totally noncreative person, a—a parasite, really—”</p>
+   <p>“They were always good friends,” Munson said. “I won’t say they were lovers, because I don’t know, but they were close. And Pete’s not that horrible. He’s got taste, intelligence, everything an artist needs except the gift. I think Carole may have been weary of gifted men, anyway.”</p>
+   <p>“How did I take it?” Mueller asked.</p>
+   <p>“You hardly seemed to notice, Paul. You were so busy with your financial shenanigans.”</p>
+   <p>Mueller nodded. He sauntered to one of his own works, a three-meter-high arrangement of oscillating rods that ran the whole sound spectrum into the high kilohertzes, and passed two fingers over the activator eye. The sculpture began to murmur.</p>
+   <p>After a few moments Mueller said, “You sounded awfully upset when I called, Freddy. You say you have some kind of amnesia too?”</p>
+   <p>Trying to be casual about it, Munson said, “I find I can’t remember some important transactions I carried out today. Unfortunately, my only record of them is in my head. But maybe the information will come back to me when I’ve slept on it.”</p>
+   <p>“There’s no way I can help you with that.”</p>
+   <p>“No. There isn’t.”</p>
+   <p>“Freddy, where is this amnesia coming from?”</p>
+   <p>Munson shrugged. “Maybe somebody put a drug in the water supply, or spiked the food, or something. These days, you never can tell. Look, I’ve got to do some work, Paul. If you’d like to sleep here tonight—”</p>
+   <p>“I’m wide awake, thanks. I’ll drop by again in the morning.”</p>
+   <p>When the sculptor was gone, Munson struggled for a feverish hour to reconstruct his data, and failed. Shortly before two he took a four-hour-sleep pill. When he awakened, he realized in dismay that he had no memories whatever for the period from April 1 to noon yesterday. During those five weeks he had engaged in countless securities transactions, using other people’s property as his collateral, and counting on his ability to get each marker in his game back into its proper place before anyone was likely to go looking for it. He had always been able to remember everything. Now he could remember nothing. He reached his office at seven in the morning, as always, and out of habit plugged himself into the data channels to study the Zurich and London quotes, but the prices on the screen were strange to him, and he knew that he was undone.</p>
+   <empty-line/>
+   <p>At the same moment of Thursday morning Dr. Timothy Bryce’s house computer triggered an impulse and the alarm voice in his pillow said quietly but firmly, “It’s time to wake up, Dr. Bryce.” He stirred but lay still. After the prescribed ten-second interval the voice said, a little more sharply, “It’s time to wake up, Dr. Bryce.” Bryce sat up, just in time; the lifting of his head from the pillow cut off the third, much sterner, repetition, which would have been followed by the opening chords of the <emphasis>Jupiter </emphasis>Symphony. The psychiatrist opened his eyes.</p>
+   <p>He was surprised to find himself sharing his bed with a strikingly attractive girl.</p>
+   <p>She was a honey blonde, deeply tanned, with light-brown eyes, full pale lips, and a sleek, elegant body. She looked to be fairly young, a good twenty years younger than he was—perhaps twenty-five, twenty-eight. She wore nothing, and she was in a deep sleep, her lower lip sagging in a sort of involuntary pout. Neither her youth nor her beauty nor her nudity surprised him; he was puzzled simply because he had no notion who she was or how she had come to be in bed with him. He felt as though he had never seen her before. Certainly he didn’t know her name. Had he picked her up at some party last night? He couldn’t seem to remember where he had been last night. Gently he nudged her elbow.</p>
+   <p>She woke quickly, fluttering her eyelids, shaking her head.</p>
+   <p>“Oh,” she said, as she saw him, and clutched the sheet up to her throat. Then, smiling, she dropped it again. “That’s foolish. No need to be modest <emphasis>now, </emphasis>I guess.”</p>
+   <p>“I guess. Hello.”</p>
+   <p>“Hello,” she said. She looked as confused as he was.</p>
+   <p>“This is going to sound stupid,” he said, “but someone must have slipped me a weird weed last night, because I’m afraid I’m not sure how I happed to bring you home. Or what your name is.”</p>
+   <p>“Lisa,” she said. “Lisa—Falk.” She stumbled over the second name. “And you’re—”</p>
+   <p>“Tim Bryce.”</p>
+   <p>“You don’t remember where we met?”</p>
+   <p>“No,” he said.</p>
+   <p>“Neither do I.”</p>
+   <p>He got out of bed, feeling a little hesitant about his own nakedness, and fighting the inhibition off. “They must have given us both the same thing to smoke, then. You know”—he grinned shyly—”I can’t even remember if we had a good time together last night. I hope we did.”</p>
+   <p>“I think we did,” she said. “I can’t remember it either. But I feel good~ inside—the way I usually do after I’ve—” She paused. “We couldn’t have met only just last night, Tim.”</p>
+   <p>“How can you tell?”</p>
+   <p>“I’ve got the feeling that I’ve known you longer than that.”</p>
+   <p>Bryce shrugged. “I don’t see how. I mean, without being too coarse about it, obviously we were both high last night, really floating, and we met and came here and—”</p>
+   <p>“No. I feel at home here. As if I moved in with you weeks and weeks ago.”</p>
+   <p>“A lovely idea. But I’m sure you didn’t.”</p>
+   <p>“Why do I feel so much at home here, then?”</p>
+   <p>“In what way?”</p>
+   <p>“In every way.” She walked to the bedroom closet and let her hand rest on the touchplate. The door slid open; evidently he had keyed the house computer to her fingerprints. Had he done that last night too? She reached in. “My clothing,” she said. “Look. All these dresses, coats, shoes. A whole wardrobe. There can’t be any doubt. We’ve been living together and don’t remember it!”</p>
+   <p>A chill swept through him. “What have they done to us? Listen, Lisa, let’s get dressed and eat and go down to the hospital together for a checkup. We—”</p>
+   <p>“Hospital?”</p>
+   <p>“Fletcher Memorial. I’m in the neurological department. Whatever they slipped us last night has hit us both with a lacunary retrograde amnesia—a gap in our memories—and it could be serious. If it’s caused brain damage, perhaps it’s not irreversible yet, but we can’t fool around.”</p>
+   <p>She put her hand to her lips in fear. Bryce felt a sudden warm urge to protect this lovely stranger, to guard and comfort her, and he realized he must be in love with her, even though he couldn’t remember who she was. He crossed the room to her and seized her in a brief, tight embrace; she responded eagerly, shivering a little. By a quarter to eight they were out of the house and heading for the hospital through unusually light traffic. Bryce led the girl quickly to the staff lounge. Ted Kamakura was there already, in uniform. The little Japanese psychiatrist nodded curtly and said, “Morning, Tim.” Then he blinked. “Good morning, Lisa. How come <emphasis>you’re </emphasis>here?”</p>
+   <p>“You know her?” Bryce asked.</p>
+   <p>“What kind of question is that?”</p>
+   <p>“A deadly serious one.”</p>
+   <p>“Of course I know her,” Kamakura said, and his smile of greeting abruptly faded. “Why? Is something wrong about that?”</p>
+   <p>“You may know her, but I don’t,” said Bryce.</p>
+   <p>“Oh, God. Not you too!”</p>
+   <p>“Tell me who she is, Ted.”</p>
+   <p>“She’s your wife, Tim. You married her five years ago.”</p>
+   <empty-line/>
+   <p>By half past eleven Thursday morning the Gerards had everything set up and going smoothly for the lunch rush at the Petit Pois. The soup caldron was bubbling, the escargot trays were ready to be popped in the oven, the sauces were taking form. Pierre Gerard was a bit surprised when most of the lunch-time regulars failed to show up. Even Mr. Munson, always punctual at half past eleven, did not arrive. Some of these men had not missed weekday lunch at the Petit Pois in fifteen years. Something terrible must have happened on the stock market, Pierre thought, to have kept all these financial men at their desks, and they were too busy to call him and cancel their usual tables. That must be the answer. It was impossible that any of the regulars would forget to call him. The stock market must be exploding. Pierre made a mental note to call his broker after lunch and find out what was going on.</p>
+   <empty-line/>
+   <p>About two Thursday afternoon, Paul Mueller stopped into Metchnikoff’s Art Supplies in North Beach to try to get a welding pen, some raw metal, loudspeaker paint, and the rest of the things he needed for the rebirth of his sculpting career. Metchnikoff greeted him sourly with, “No credit at all, Mr. Mueller, not even a nickel!”</p>
+   <p>“It’s all right. I’m a cash customer this time.”</p>
+   <p>The dealer brightened. “In that case it’s all right, maybe. You finished with your troubles?”</p>
+   <p>“I hope so,” Mueller said.</p>
+   <p>He gave the order. It came to about $2,300; when the time came to pay, he explained that he simply had to run down to Montgomery Street to pick up the cash from his friend Freddy Munson, who was holding three bigs for him. Metchnikoff began to glower again. “Five minutes!” Mueller called. “I’ll be back in five minutes!” But when he got to Munson’s office, he found the place in confusion, and Munson wasn’t there. “Did he leave an envelope for a Mr. Mueller?” he asked a distraught secretary. “I was supposed to pick something important up here this afternoon. Would you please check?” The girl simply ran away from him. So did the next girl. A burly broker told him to get out of the office. “We’re closed, fellow,” he shouted. Baffled, Mueller left.</p>
+   <p>Not daring to return to Metchnikoff’s with the news that he hadn’t been able to raise the cash after all, Mueller simply went home. Three dunning robots were camped outside his door, and each one began to croak its cry of doom as he approached. “Sorry,” Mueller said, “I can’t remember a thing about any of this stuff,” and he went inside and sat down on the bare floor, angry, thinking of the brilliant pieces he could be turning out if he could only get his hands on the tools of his trade. He made sketches instead. At least the ghouls had left him with pencil and paper. Not as efficient as a computer screen and a light-pen, maybe, but Michelangelo and Benvenuto Cellini had managed to make out all right without computer screens and light-pens.</p>
+   <p>At four o’clock the doorbell rang.</p>
+   <p>“Go <emphasis>away,” </emphasis>Mueller said through the speaker. “See my accountant! I don’t want to hear any more dunnings, and the next time I catch one of you idiot robots by my door I’m going to—”</p>
+   <p>“It’s me, Paul,” a nonmechanical voice said.</p>
+   <p>Carole.</p>
+   <p>He rushed to the door. There were seven robots out there, surrounding her, and they tried to get in; but he pushed them back so she could enter. A robot didn’t dare lay a paw on a human being. He slammed the door in their metal faces and locked it.</p>
+   <p>Carole looked fine. Her hair was longer than he remembered it, and she had gained about eight pounds in all the right places, and she wore an iridescent peekaboo wrap that he had never seen before, and which was really inappropriate for afternoon wear, but which looked splendid on her. She seemed at least five years younger than she really was; evidently a month and a half of marriage to Pete Castine had done more for her than nine years of marriage to Paul Mueller. She glowed. She also looked strained and tense, but that seemed superficial, the product of some distress of the last few hours.</p>
+   <p>“I seem to have lost my key,” she said.</p>
+   <p>“What are you doing here?”</p>
+   <p>“I don’t understand you, Paul.”</p>
+   <p>“I mean, why’d you come here?”</p>
+   <p>“I <emphasis>live </emphasis>here.”</p>
+   <p>“Do you?” He laughed harshly. “Very funny.”</p>
+   <p>“You always did have a weird sense of humor, Paul.” She stepped past him. “Only this isn’t any joke. Where <emphasis>is </emphasis>everything? The furniture, Paul. My things.” Suddenly she was crying. “I must be breaking up. I wake up this morning in a completely strange apartment, all alone, and I spend the whole day wandering in a sort of daze that I don’t understand at all, and now I finally come home and I find that you’ve pawned every damn thing we own, or something, and—” She bit her knuckles. “Paul?”</p>
+   <p>She’s got it too, he thought. The amnesia epidemic.</p>
+   <p>He said quietly, “This is a funny thing to ask, Carole, but will you tell me what today’s date is?”</p>
+   <p>“Why…the fourteenth of September—or is it the fifteenth—”</p>
+   <p>“2002?”</p>
+   <empty-line/>
+   <p>“What do you think? 1776?”</p>
+   <p>She’s got it worse than I have, Mueller told himself. She’s lost a whole extra month. She doesn’t remember my business venture. She doesn’t remember my losing all the money. <emphasis>She doesn’t remember divorcing me. </emphasis>She thinks she’s still my wife.</p>
+   <p>“Come in here,” he said, and led her to the bedroom. He pointed to the cot that stood where their bed had been. “Sit down, Carole. I’ll try to explain. It won’t make much sense, but I’ll try to explain.”</p>
+   <empty-line/>
+   <p>Under the circumstances, the concert by the visiting New York Philharmonic for Thursday evening was canceled. Nevertheless the orchestra assembled for its rehearsal at half past two in the afternoon. The union required so many rehearsals—with pay—a week; therefore the orchestra rehearsed, regardless of external cataclysms. But there were problems. Maestro Alvarez, who used an electronic baton and proudly conducted without a score, thumbed the button for a downbeat and realized abruptly, with a sensation as of dropping through a trapdoor, that the Brahms Fourth was wholly gone from his mind. The orchestra responded raggedly to his faltering leadership; some of the musicians had no difficulties, but the concertmaster stared in horror at his left hand, wondering how to finger the strings for the notes his violin was supposed to be yielding, and the second oboe could not find the proper keys, and the first bassoon had not yet even managed to remember how to put his instrument together.</p>
+   <empty-line/>
+   <p>By nightfall, Tim Bryce had managed to assemble enough of the story so that he understood what had happened, not only to himself and to Lisa, but to the entire city. A drug, or drugs, almost certainly distributed through the municipal water supply, had leached away nearly everyone’s memory. The trouble with modern life, Bryce thought, is that technology gives us the potential for newer and more intricate disasters every year, but doesn’t seem to give us the ability to ward them off. Memory drugs were old stuff, going back thirty, forty years. He had studied several types of them himself. Memory is partly a chemical and partly an electrical process; some drugs went after the electrical end, jamming the synapses over which brain transmissions travel, and some went after the molecular substrata in which long-term memories are locked up. Bryce knew ways of destroying short-term memories by inhibiting synapse transmission, and he knew ways of destroying the deep long-term memories by washing out the complex chains of ribonucleic acid, brain-RNA, by which they are inscribed in the brain. But such drugs were experimental, tricky, unpredictable; he had hesitated to use them on human subjects; he certainly had never imagined that anyone would simply dump them into an aqueduct and give an entire city a simultaneous lobotomy.</p>
+   <p>His office at Fletcher Memorial had become an improvised center of operations for San Francisco. The mayor was there, pale and shrunken; the chief of police, exhausted and confused, periodically turned his back and popped a pill; a dazed-looking representative of the communications net hovered in a corner, nervously monitoring the hastily rigged system through which the committee of public safety that Bryce had summoned could make its orders known throughout the city.</p>
+   <p>The mayor was no use at all. He couldn’t even remember having run for office. The chief of police was in even worse shape; he had been up all night because he had forgotten, among other things, his home address, and he had been afraid to query a computer about it for fear he’d lose his job for drunkenness. By now the chief of police was aware that he wasn’t the only one in the city having memory problems today, and he had looked up his address in the files and even telephoned his wife, but he was close to collapse. Bryce had insisted that both men stay here as symbols of order; he wanted only their faces and their voices, not their fumble-headed official services.</p>
+   <p>A dozen or so miscellaneous citizens had accumulated in Bryce’s office too. At five in the afternoon he had broadcast an all-media appeal, asking anyone whose memory of recent events was unimpaired to come to Fletcher Memorial. “If you haven’t had any city water in the past twenty-four hours, you’re probably all right. Come down here. We need you.” He had drawn a curious assortment. There was a ramrod-straight old space hero, Taylor Braskett, a pure-foods nut who drank only mountain water. There was a family of French restaurateurs, mother, father, three grown children, who preferred mineral water flown in from their native land. There was a computer salesman named McBumey who had been in Los Angeles on business and hadn’t had any of the drugged water. There was a retired cop named Adler who lived in Oakland, where there were no memory problems; he had hurried across the bay as soon as he heard that San Francisco was in trouble. That was before all access to the city had been shut off at Bryce’s orders. And there were some others, of doubtful value but of definitely intact memory.</p>
+   <p>The three screens that the communications man had mounted provided a relay of key points in the city. Right now one was monitoring the Fisherman’s Wharf district from a camera atop Ghirardelli Square, one was viewing the financial district from a helicopter over the old Ferry Building Museum, and one was relaying a pickup from a mobile truck in Golden Gate Park. The scenes were similar everywhere: people milling about, asking questions, getting no answers. There wasn’t any overt sign of looting yet. There were no fires. The police, those of them able to function, were out in force, and antiriot robots were cruising the bigger streets, just in case they might be needed to squirt their stifling blankets of foam at suddenly panicked mobs.</p>
+   <p>Bryce said to the mayor, “At half past six I want you to go on all media with an appeal for calm. We’ll supply you with everything you have to say.”</p>
+   <p>The mayor moaned.</p>
+   <p>Bryce said, “Don’t worry. I’ll feed you the whole speech by bone relay. Just concentrate on speaking clearly and looking straight into the camera. If you come across as a terrified man, it can be the end for all of us. If you look cool, we may be able to pull through.”</p>
+   <p>The mayor put his face in his hands.</p>
+   <p>Ted Kamakura whispered, “You can’t put him on the channels, Tim! He’s a wreck, and everyone will see it!”</p>
+   <p>“The city’s mayor has to show himself,” Bryce insisted. “Give him a double jolt of bracers. Let him make this one speech and then we can put him to pasture.”</p>
+   <p>“Who’ll be the spokesman, then?” Kamakura asked. “You? Me? Police Chief Dennison?”</p>
+   <p>“I don’t know,” Bryce muttered. “We need an authority-image to make announcements every half hour or so, and I’m damned if I’ll have time. Or you. And Dennison—”</p>
+   <p>“Gentlemen, may I make a suggestion?” It was the old spaceman, Braskett. “I wish to volunteer as spokesman. You must admit I have a certain look of authority. And I’m accustomed to speaking to the public.”</p>
+   <p>Bryce rejected the idea instantly. That right-wing crackpot, that author of passionate nut letters to every news medium in the state, that latter-day Paul Revere? Him, spokesman for the committee? But in the moment of rejection came acceptance. Nobody really paid attention to far-out political activities like that, probably nine people out of ten in San Francisco thought of Braskett, if at all, simply as the hero of the First Mars Expedition. He was a handsome old horse, too, elegantly upright and lean. Deep voice; unwavering eyes. A man of strength and presence.</p>
+   <p>Bryce said, “Commander Braskett, if we were to make you chairman of the committee of public safety—”</p>
+   <p>Ted Kamakura gasped.</p>
+   <p>“—would I have your assurance that such public announcements as you would make would be confined entirely to statements of the policies arrived at by the entire committee?”</p>
+   <p>Commander Braskett smiled glacially. “You want me to be a figurehead, is that it?”</p>
+   <p>“To be our spokesman, with the official title of chairman.”</p>
+   <p>“As I said: to be a figurehead. Very well, I accept. I’ll mouth my lines like an obedient puppet, and I won’t attempt to inject any of my radical, extremist ideas into my statements. Is that what you wish?”</p>
+   <p>“I think we understand each other perfectly,” Bryce said, and smiled, and got a surprisingly warm smile in return.</p>
+   <p>He jabbed now at his data board. Someone in the path lab eight stories below his office answered, and Bryce said, “Is there an up-to-date analysis yet?”</p>
+   <p>“I’ll switch you to Dr. Madison.”</p>
+   <p>Madison appeared on the screen. He ran the hospital’s radioisotope department, normally: a beefy, red-faced man who looked as though he ought to be a beer salesman. He knew his subject. “It’s definitely the water supply, Tim,” he said at once. “We tentatively established that an hour and a half ago, of course, but now there’s no doubt. I’ve isolated traces of two different memory-suppressant drugs, and there’s the possibility of a third. Whoever it was was taking no chances.”</p>
+   <p>“What are they?” Bryce asked.</p>
+   <p>“Well, we’ve got a good jolt of acetylcholine terminase,” Madison said, “which will louse up the synapses and interfere with short-term memory fixation. Then there’s something else, perhaps a puromycin-derivative protein dissolver, which is going to work on the brain-RNA and smashing up older memories. I suspect also that we’ve been getting one of the newer experimental amnesifacients, something that I haven’t isolated yet, capable of working its way deep and cutting out really basic motor patterns. So they’ve hit us high, low, and middle.”</p>
+   <p>“That explains a lot. The guys who can’t remember what they did yesterday, the guys who’ve lost a chunk out of their adult memories, and the ones who don’t even remember their names— this thing is working on people at all different levels.”</p>
+   <p>“Depending on individual metabolism, age, brain structure, and how much water they had to drink yesterday, yes.”</p>
+   <p>“Is the water supply still tainted?” Bryce asked.</p>
+   <p>“Tentatively, I’d say no. I’ve had water samples brought me from the upflow districts, and everything’s okay there. The water department has been running its own check; they say the same. Evidently the stuff got into the system early yesterday, came down into the city, and is generally gone by now. Might be some residuals in the pipes; I’d be careful about drinking water even today.”</p>
+   <p>“And what does the pharmacopoeia say about the effectiveness of these drugs?”</p>
+   <p>Madison shrugged. “Anybody’s guess. You’d know that better than I. Do they wear off?”</p>
+   <p>“Not in the normal sense,” said Bryce. “What happens is the brain cuts in a redundancy circuit and gets access to a duplicate set of the affected memories, eventually—shifts to another track, so to speak—provided a duplicate of the sector in question was there in the first place, and provided that the duplicate wasn’t blotted out also. Some people are going to get chunks of their memories back, in a few days or a few weeks. Others won’t.”</p>
+   <p>“Wonderful,” Madison said. “I’ll keep you posted, Tim.”</p>
+   <p>Bryce cut off the call and said to the communications man, “You have that bone relay? Get it behind His Honor’s ear.”</p>
+   <p>The mayor quivered. The little instrument was fastened in place.</p>
+   <p>Bryce said, “Mr. Mayor, I’m going to dictate a speech, and you’re going to broadcast it on all media, and it’s the last thing I’m going to ask of you until you’ve had a chance to pull yourself together. Okay? Listen carefully to what I’m saying, speak slowly, and pretend that tomorrow is election day and your job depends on how well you come across now. You won’t be going on live. There’ll be a fifteen-second delay, and we have a wipe circuit so we can correct any stumbles, and there’s absolutely no reason to be tense. Are you with me? Will you give it all you’ve got?”</p>
+   <p>“My mind is all foggy.”</p>
+   <p>“Simply listen to me and repeat what I say into the camera’s eye. Let your political reflexes take over. Here’s your chance to make a hero of yourself. We’re living history right now, Mr. Mayor. What we do here today will be studied the way the events of the 1906 fire were studied. Let’s go, now. Follow me. <emphasis>People of the wonderful city of San Francisco—”</emphasis></p>
+   <p>The words rolled easily from Bryce’s lips, and, wonder of wonders, the mayor caught them and spoke them in a clear, beautifully resonant voice. As he spun out his speech, Bryce felt a surging flow of power going through himself, and he imagined for the moment that he were the elected leader of the city, not merely a self-appointed emergency dictator. It was an interesting, almost ecstatic feeling. Lisa, watching him in action, gave him a loving smile.</p>
+   <p>He smiled at her. In this moment of glory he was almost able to ignore the ache of knowing that he had lost his entire memory archive of his life with her. Nothing else gone, apparently. But, neatly, with idiot selectivity, the drug in the water supply had sliced away everything pertaining to his five years of marriage. Kamakura had told him, a few hours ago, that it was the happiest marriage of any he knew. Gone. At least Lisa had suffered an identical loss, against all probabilities. Somehow that made it easier to bear; it would have been awful to have one of them remember the good times and the other know nothing. He was almost able to ignore the torment of loss, while he kept busy. Almost.</p>
+   <empty-line/>
+   <p>“The mayor’s going to be on in a minute,” Nadia said. “Will you listen to him? He’ll explain what’s been going on.”</p>
+   <p>“I don’t care,” said The Amazing Montini dully.</p>
+   <p>“It’s some kind of epidemic of amnesia. When I was out before, I heard all about it. <emphasis>Everyone’s </emphasis>got it. It isn’t just you! And you thought it was a stroke, but it wasn’t. You’re all right.”</p>
+   <p>“My mind is a ruin.”</p>
+   <p>“It’s only temporary.” Her voice was shrill and unconvincing. “It’s something in the air, maybe. Some drug they were testing that drifted in. We’re all in this together. I can’t remember last week at all.”</p>
+   <p>“What do I care?” Montini said. “Most of these people, they have no memories even when they are healthy. But me? Me? I am destroyed. Nadia, I should lie down in my grave now. There is no sense in continuing to walk around.”</p>
+   <p>The voice from the loudspeaker said, “Ladies and gentlemen, His Honor Elliot Chase, the Mayor of San Francisco.”</p>
+   <p>“Let’s listen,” Nadia said.</p>
+   <p>The mayor appeared on the wallscreen, wearing his solemn face, his we-face-a-grave-challenge-citizens face. Montini glanced at him, shrugged, looked away.</p>
+   <p>The mayor said, “People of the wonderful city of San Francisco, we have just come through the most difficult day in nearly a century, since the terrible catastrophe of April, 1906. The earth has not quaked today, nor have we been smitten by fire, yet we have been severely tested by sudden calamity.</p>
+   <p>“As all of you surely know, the people of San Francisco have been afflicted since last night by what can best be termed an epidemic of amnesia. There has been mass loss of memory, ranging from mild cases of forgetfulness to near-total obliteration of identity. Scientists working at Fletcher Memorial Hospital have succeeded in determining the cause of this unique and sudden disaster.</p>
+   <p>“It appears that criminal saboteurs contaminated the municipal water supply with certain restricted drugs that have the ability to dissolve memory structures. <emphasis>The effect of these drugs is temporary. </emphasis>There should be no cause for alarm. Even those who are most severely affected will find their memories gradually beginning to return, and there is every reason to expect full recovery in a matter of hours or days.”</p>
+   <p>“He’s lying,” said Montini.</p>
+   <p>“The criminals responsible have not yet been apprehended, but we expect arrests momentarily. The San Francisco area is the only affected region, which means the drugs were introduced into the water system just beyond city limits. Everything is normal in Berkeley, in Oakland, in Mann County, and other outlying areas.</p>
+   <p>“In the name of public safety I have ordered the bridges to San Francisco closed, as well as the Bay Area Rapid Transit and other means of access to the city. We expect to maintain these restrictions at least until tomorrow morning. The purpose of this is to prevent disorder and to avoid a possible influx of undesirable elements into the city while the trouble persists. We San Franciscans are self-sufficient and can look after our own needs without outside interference. However, I have been in contact with the President and with the Governor, and they both have assured me of all possible assistance.</p>
+   <p>“The water supply is at present free of the drug, and every precaution is being taken to prevent a recurrence of this crime against one million innocent people. However, I am told that some lingering contamination may remain in the pipes for a few hours. I recommend that you keep your consumption of water low until further notice, and that you boil any water you wish to use.</p>
+   <p>“Lastly. Police Chief Dennison, myself, and your other city officials will be devoting full time to the needs of the city so long as the crisis lasts. Probably we will not have the opportunity to go before the media for further reports. Therefore, I have taken the step of appointing a committee of public safety, consisting of distinguished laymen and scientists of San Francisco, as a coordinating body that will aid in governing the city and reporting to its citizens. The chairman of this committee is the well-known veteran of so many exploits in space, Commander Taylor Braskett. Announcements concerning the developments in the crisis will come from Commander Braskett for the remainder of the evening, and you may consider his words to be those of your city officials. Thank you.”</p>
+   <p>Braskett came on the screen. Montini grunted. “Look at the man they find! A maniac patriot!”</p>
+   <p>“But the drug will wear off,” Nadia said. “Your mind will be all right again.”</p>
+   <p>“I know these drugs. There is no hope. I am destroyed.” The Amazing Montini moved toward the door. “I need fresh air. I will go out. Good-bye, Nadia.”</p>
+   <p>She tried to stop him. He pushed her aside. Entering Marina Park, he made his way to the yacht club; the doorman admitted him, and took no further notice. Montini walked out on the pier. The drug, they say, is temporary. It will wear off. My mind will clear. I doubt this very much. Montini peered at the dark, oily water, glistening with light reflected from the bridge. He explored his damaged mind, scanning for gaps. Whole sections of memory were gone. The walls had crumbled, slabs of plaster falling away to expose bare lath. He could not live this way. Carefully, grunting from the exertion, he lowered himself via a metal ladder into the water, and kicked himself away from the pier.</p>
+   <p>The water was terribly cold. His shoes seemed immensely heavy. He floated toward the island of the old prison, but he doubted that he would remain afloat much longer. As he drifted, he ran through an inventory of his memory, seeing what remained to him and finding less than enough. To test whether even his gift had survived, he attempted to play back a recall of the mayor’s speech, and found the words shifting and melting. It is just as well, then, he told himself, and drifted on, and went under.</p>
+   <empty-line/>
+   <p>Carole insisted on spending Thursday night with him.</p>
+   <p>“We aren’t man and wife any more,” he had to tell her. “You divorced me.”</p>
+   <p>“Since when are you so conventional? We lived together before we were married, and now we can live together after we were married. Maybe we’re inventing a new sin, Paul. Post-marital sex.”</p>
+   <p>“That isn’t the point. The point is that you came to hate me because of my financial mess, and you left me. If you try to come back to me now, you’ll be going against your own rational and deliberate decision of last January.”</p>
+   <p>“For me last January is still four months away,” she said. “I don’t hate you. I love you. I always have and always will. I can’t imagine how I would ever have come to divorce you, but in any case I don’t remember divorcing you, and you don’t remember being divorced by me, and so why can’t we just keep going from the point where our memories leave off?”</p>
+   <p>“Among other things, because you happen to be Pete Castine’s wife now.”</p>
+   <p>“That sounds completely unreal to me. Something you dreamed.”</p>
+   <p>“Freddy Munson told me, though. It’s true.”</p>
+   <p>“If I went back to Pete now,” Carole said, “I’d feel sinful. Simply because I supposedly married him, you want me to jump into bed with him? I don’t want him. I want you. Can’t I stay here?”</p>
+   <p>“If Pete—”</p>
+   <p>“If Pete, if Pete, if Pete! In my mind I’m Mrs. Paul Mueller, and in your mind I am too, and to hell with Pete, and with whatever Freddy Munson told you, and everything else. This is a silly argument, Paul. Let’s quit it. If you want me to get out, tell me so right now in that many words. Otherwise let me stay.”</p>
+   <p>He couldn’t tell her to get out.</p>
+   <p>He had only the one small cot, but they managed to share it. It was uncomfortable, but in an amusing way. He felt twenty years old again for a while. In the morning they took a long shower together, and then Carole went out to buy some things for breakfast, since his service had been cut off and he couldn’t punch for food. A dunning robot outside the door told him, as Carole was leaving, “The decree of personal service due has been requested, Mr. Mueller, and is now pending a court hearing.”</p>
+   <p>“I know you not,” Mueller said. “Be gone!”</p>
+   <p>Today, he told himself, he would hunt up Freddy Munson somehow and get that cash from him, and buy the tools he needed, and start working again. Let the world outside go crazy; so long as he was working, all was well. If he couldn’t find Freddy, maybe he could swing the purchase on Carole’s credit. She was legally divorced from him and none of his credit taint would stain her; as Mrs… Peter Castine she should surely be able to get hold of a couple of bigs to pay Metchnikoff. Possibly the banks were closed on account of the memory crisis today, Mueller considered; but Metchnikoff surely wouldn’t demand cash from Carole. He closed his eyes and imagined how good it would feel to be making things once more.</p>
+   <p>Carole was gone an hour. When she came back, carrying groceries, Pete Castine was with her.</p>
+   <p>“He followed me,” Carole explained. “He wouldn’t let me alone.”</p>
+   <p>He was a slim, poised, controlled man, quite athletic, several years older than Mueller—perhaps into his fifties already—but seemingly very young. Calmly he said, “I was sure that Carole had come here. It’s perfectly understandable, Paul. She was here all night, I hope?”</p>
+   <p>“Does it matter?” Mueller asked.</p>
+   <p>“To some extent. I’d rather have had her spending the night with her former husband than with some third party entirely.”</p>
+   <p>“She was here all night, yes,” Mueller said wearily.</p>
+   <p>“I’d like her to come home with me now. She <emphasis>is </emphasis>my wife, after all.”</p>
+   <p>“She has no recollection of that. Neither do I.”</p>
+   <p>“I’m aware of that.” Castine nodded amiably. “In my own case, I’ve forgotten everything that happened to me before the age of twenty-two. I couldn’t tell you my father’s first name. However, as a matter of objective reality, Carole’s my wife, and her parting from you was rather bitter, and I feel she shouldn’t stay here any longer.”</p>
+   <p>“Why are you telling all this to me?” Mueller asked. “If you want your wife to go home with you, ask her to go home with you.”</p>
+   <p>“So I did. She says she won’t leave here unless you direct her to go.”</p>
+   <p>“That’s right,” Carole said. “I know whose wife I <emphasis>think </emphasis>I am. If Paul throws me out, I’ll go with you. Not otherwise.”</p>
+   <p>Mueller shrugged. “I’d be a fool to throw her out, Pete~ I need her and I want her, and whatever breakup she and I had isn’t real to us. I know it’s tough on you, but I can’t help that. I imagine you’ll have no trouble getting an annulment once the courts work out some law to cover cases like this.”</p>
+   <p>Castine was silent for a long moment.</p>
+   <p>At length he said, “How has your work been going, Paul?”</p>
+   <p>“I gather that I haven’t turned out a thing all year.”</p>
+   <p>“That’s correct.”</p>
+   <p>“I’m planning to start again. You might say that Carole has inspired me.”</p>
+   <p>“Splendid,” said Castine without intonation of any kind. “I trust this little mixup over our—ah—shared wife won’t interfere with the harmonious artist-dealer relationship we used to enjoy?”</p>
+   <p>“Not at all,” Mueller said. “You’ll still get my whole output. Why the hell should I resent anything you did? Carole was a free agent when you married her. There’s only one little trouble.”</p>
+   <p>“Yes?”</p>
+   <p>“I’m broke. I have no tools, and I can’t work without tools, and I have no way of buying tools.”</p>
+   <p>“How much do you need?”</p>
+   <p>“Two and a half bigs.”</p>
+   <p>Castine said, “Where’s your data pickup? I’ll make a credit transfer.”</p>
+   <p>“The phone company disconnected it a long time ago.”</p>
+   <p>“Let me give you a check, then. Say, three thousand even? An advance against future sales.” Castine fumbled for a while before locating a blank check. “First one of these I’ve written in five years, maybe. Odd how you get accustomed to spending by telephone. Here you are, and good luck. To both of you.” He made a courtly, bitter bow. “I hope you’ll be happy together. And call me up when you’ve finished a few pieces, Paul. I’ll send the van. I suppose you’ll have a phone again by then.” He went out.</p>
+   <empty-line/>
+   <p>“There’s a blessing in being able to forget,” Nate Haldersen said. “The redemption of oblivion, I call it. What’s happened to San Francisco this week isn’t necessarily a disaster. For some of us, it’s the finest thing in the world.”</p>
+   <p>They were listening to him—at least fifty people, clustering near his feet. He stood on the stage of the bandstand in the park, just across from the De Young Museum. Shadows were gathering. Friday, the second full day of the memory crisis, was ending. Haldersen had slept in the park last night, and he planned to sleep there again tonight; he had realized after his escape from the hospital that his apartment had been shut down long ago and his possessions were in storage. It did not matter. He would live off the land and forage for food. The flame of prophecy was aglow in him.</p>
+   <p>“Let me tell you how it was with me,” he cried. “Three days ago I was in a hospital for mental illness. Some of you are smiling, perhaps, telling me I ought to be back there now, but no! You don’t understand. I was incapable of facing the world. Wherever I went, I saw happy families, parents and children, and it made me sick with envy and hatred, so that I couldn’t function in society. Why? Why? Because my own wife and children were killed in an air disaster in 1991, that’s why, and I missed the plane because I was committing sin that day, and for my sin they died, and I lived thereafter in unending torment! But now all that is flushed from my mind. I have sinned, and I have suffered, and now I am redeemed through merciful oblivion!”</p>
+   <p>A voice in the crowd called, “If you’ve forgotten all about it, how come you’re telling the story to us?”</p>
+   <p>“A good question! An excellent question!” Haldersen felt sweat bursting from his pores, adrenalin pumping in his veins. “I know the story only because a machine in the hospital told it to me, yesterday morning. But it came to me from the outside, a secondhand tale. The experience of it within me, the scars, all that has been washed away. The pain of it is gone. Oh, yes, I’m sad that my innocent family perished, but a healthy man learns to control his grief after eleven years, he accepts his loss and goes on. I was sick, sick right <emphasis>here, </emphasis>and I couldn’t live with my grief, but now I can, <emphasis>I </emphasis>look on it objectively, do you see? And that’s why I say there’s a blessing in being able to forget. What about you, out there? There must be some of you who suffered painful losses too, and now can no longer remember them, now have been redeemed and released from anguish. Are there any? Are there? Raise your hands. Who’s been bathed in holy oblivion? Who out there knows that he’s been cleansed, even if he can’t remember what it is he’s been cleansed from?”</p>
+   <p>Hands were starting to go up.</p>
+   <p>They were weeping, now, they were cheering, they were waving at him. Haldersen felt a little like a charlatan. But only a little. He had always had the stuff of a prophet in him, even while he was posing as a harmless academic, a stuffy professor of philosophy. He had had what every prophet needs, a sharp sense of contrast between guilt and purity, an awareness of the existence of sin. It was that awareness that had crushed him for eleven years. It was that awareness that now drove him to celebrate his joy in public, to seek for companions in liberation—no, for disciples— to found the Church of Oblivion here in Golden Gate Park. The hospital could have given him these drugs years ago and spared him from agony. Bryce had refused, Kamakura, Reynolds, all the smooth-talking doctors; they were waiting for more tests, experiments on chimpanzees, God knows what. And God had said, Nathaniel Haldersen has suffered long enough for his sin, and so He had thrust a drug into the water supply of San Francisco, the same drug that the doctors had denied him, and down the pipes from the mountains had come the sweet draught of oblivion.</p>
+   <p>“Drink with me!” Haldersen shouted. “All you who are in pain, you who live with sorrow! We’ll get this drug ourselves! We’ll purify our suffering souls! Drink the blessed water, and sing to the glory of God who gives us oblivion!”</p>
+   <empty-line/>
+   <p>Freddy Munson had spent Thursday afternoon, Thursday night, and all of Friday holed up in his apartment with every communications link to the outside turned off. He neither took nor made calls, ignored the telescreens, and had switched on the xerofax only three times in the thirty-six hours.</p>
+   <p>He knew that he was finished, and he was trying to decide how to react to it.</p>
+   <p>His memory situation seemed to have stabilized. He was still missing only five weeks of market maneuvers. There wasn’t any further decay—not that that mattered; he was in trouble enough—and, despite an optimistic statement last night by Mayor Chase, Munson hadn’t seen any evidence that the memory loss was reversing itself. He was unable to reconstruct any of the vanished details.</p>
+   <p>There was no immediate peril, he knew. Most of the clients whose accounts he’d been juggling were wealthy old bats who wouldn’t worry about their stocks until they got next month’s account statements. They had given him discretionary powers, which was how he had been able to tap their resources for his own benefit in the first place. Up to now, Munson had always been able to complete each transaction within a single month, so the account balanced for every statement. He had dealt with the problem of the securities withdrawals that the statements ought to show by gimmicking the house computer to delete all such withdrawals provided there was no net effect from month to month; that way he could borrow io,ooo shares of United Spaceways or Comsat or IBM for two weeks, use the stock as collateral for a deal of his own, and get it back into the proper account in time with no one the wiser. Three weeks from now, though, the end-of-the-month statements were going to go out showing all of his accounts peppered by inexplicable withdrawals, and he was going to catch hell.</p>
+   <p>The trouble might even start earlier, and come from a different direction. Since the San Francisco trouble had begun, the market had gone down sharply, and he would probably be getting margin calls on Monday. The San Francisco exchange was closed, of course; it hadn’t been able to open Thursday morning because so many of the brokers had been hit hard by amnesia. But New York’s exchanges were open, and they had reacted badly to the news from San Francisco, probably out of fear that a conspiracy was afoot and the whole country might soon be pushed into chaos. When the local exchange opened again on Monday, if it opened, it would most likely open at the last New York prices, or near them, and keep on going down. Munson would be asked to put up cash or additional securities to cover his loans. He certainly didn’t have the cash, and the only way he could get additional securities would be to dip into still more of his accounts, compounding his offense; on the other hand, if he didn’t meet the margin calls they’d sell him out and he’d never be able to restore the stock to the proper accounts, even if he succeeded in remembering which shares went where.</p>
+   <p>He was trapped. He could stick around for a few weeks, waiting for the ax to fall, or he could get out right now. He preferred to get out right now.</p>
+   <p>And go where?</p>
+   <p>Caracas? Reno? São Paulo? No, debtor sanctuaries wouldn’t do him any good, because he wasn’t an ordinary debtor. He was a thief, and the sanctuaries didn’t protect criminals, only bankrupts. He had to go farther, all the way to Luna Dome. There wasn’t any extradition from the Moon. There’d be no hope of coming back, either.</p>
+   <p>Munson got on the phone, hoping to reach his travel agent. Two tickets to Luna, please. One for him, one for Helene; if she didn’t feel like coming, he’d go alone. No, not round trip. But the agent didn’t answer. Munson tried the number several times.</p>
+   <p>Shrugging, he decided to order direct, and called United Space-ways next. He got a busy signal. “Shall we wait-list your call?” the data net asked. “It will be three days, at the present state of the backlog of calls, before we can put it through.”</p>
+   <p>“Forget it,” Munson said.</p>
+   <p>He had just realized that San Francisco was closed off, anyway. Unless he tried to swim for it, he couldn’t get out of the city to go to the spaceport, even if he did manage to buy tickets to Luna. He was caught here until they opened the transit routes again. How long would that be? Monday, Tuesday, next Friday? They couldn’t keep the city shut forever—could they?</p>
+   <p>What it came down to, Munson saw, was a contest of probabilities. Would someone discover the discrepancies in his accounts before he found a way of escaping to Luna, or would his escape access become available too late? Put on those terms, it became an interesting gamble instead of a panic situation. He would spend the weekend trying to find a way out of San Francisco, and if he failed, he would try to be a stoic about facing what was to come.</p>
+   <p>Calm, now, he remembered that he had promised to lend Paul Mueller a few thousand dollars, to help him equip his studio again. Munson was unhappy over having let that slip his mind. He liked to be helpful. And, even now, what were two or three bigs to him? He had plenty of recoverable assets. Might as well let Paul have a little of the money before the lawyers start grabbing it.</p>
+   <p>One problem. He had less than a hundred in cash on him— who bothered carrying cash?—and he couldn’t telephone a transfer of funds to Mueller’s account, because Paul didn’t have an account with the data net any more, or even a phone. There wasn’t any place to get that much cash, either, at this hour of evening, especially with the city paralyzed. And the weekend was coming. Munson had an idea, though. What if he went shopping with Mueller tomorrow, and simply charged whatever the sculptor needed to his own account? Fine. He reached for the phone to arrange the date, remembered that Mueller could not be called, and decided to tell Paul about it in person. Now. He could use some fresh air, anyway.</p>
+   <p>He half expected to find robot bailiffs outside, waiting to arrest him. But of course no one was after him yet. He walked to the garage. It was a fine night, cool, starry, with perhaps just a hint of fog in the east. Berkeley’s lights glittered through the haze, though. The streets were quiet. In time of crisis people stay home, apparently. He drove quickly to Mueller’s place. Four robots were in front of it. Munson eyed them edgily, with the wary look of the man who knows that the sheriff will be after him too, in a little while. But Mueller, when he came to the door, took no notice of the dunners.</p>
+   <p>Munson said, “I’m sorry I missed connections with you. The money I promised to lend you—”</p>
+   <p>“It’s all right, Freddy. Pete Castine was here this morning and I borrowed the three bigs from him. I’ve already got my studio set up again. Come in and look.”</p>
+   <p>Munson entered. “Pete Castine?”</p>
+   <p>“A good investment for him. He makes money if he has work of mine to sell, right? It’s in his best interest to help me get started again. Carole and I have been hooking things up all day.”</p>
+   <p>“Carole?” Munson said. Mueller showed him into the studio. The paraphernalia of a sonic sculptor sat on the floor—a welding pen, a vacuum bell, a big texturing vat, some ingots and strands of wire, and such things. Carole was feeding discarded packing cases into the wall disposal unit. Looking up, she smiled uncertainly and ran her hand through her long dark hair.</p>
+   <p>“Hello, Freddy.”</p>
+   <p>“Everybody good friends again?” he asked, baffled.</p>
+   <p>“Nobody remembers being enemies,” she said. She laughed. “Isn’t it wonderful to have your memory blotted out like this?”</p>
+   <p>“Wonderful,” Munson said bleakly.</p>
+   <empty-line/>
+   <p>Commander Braskett said, “Can I offer you people any water?” Tim Bryce smiled. Lisa Bryce smiled. Ted Kamakura smiled. Even Mayor Chase, that poor empty husk, smiled. Commander Braskett understood those smiles. Even now, after three days of close contact under pressure, they thought he was nuts.</p>
+   <p>He had had a week’s supply of bottled water brought from his home to the command post here at the hospital. Everybody kept telling him that the municipal water was safe to drink now, that the memory drugs were gone from it; but why couldn’t they comprehend that his aversion to public water dated back to an era when memory drugs were unknown? There were plenty of other chemicals in the reservoir, after all.</p>
+   <p>He hoisted his glass in a jaunty toast and winked at them.</p>
+   <p>Tim Bryce said, “Commander, we’d like you to address the city again at half past ten this morning. Here’s your text.”</p>
+   <p>Braskett scanned the sheet. It dealt mostly with the relaxation of the order to boil water before drinking it. “You want me to go on all media,” he said, “and tell the people of San Francisco that it’s now safe for them to drink from the taps, eh? That’s a bit awkward for me Even a figurehead spokesman is entitled to some degree of personal integrity.”</p>
+   <p>Bryce looked briefly puzzled. Then he laughed and took the text back. “You’re absolutely right, Commander. I can’t ask you to make this announcement, in view of—ah—your particular beliefs. Let’s change the plan. You open the spot by introducing me, and <emphasis>I’ll </emphasis>discuss the no-boiling thing. Will that be all right?”</p>
+   <p>Commander Braskett appreciated the tactful way they deferred to his special obsession. “I’m at your service, Doctor,” he said gravely.</p>
+   <empty-line/>
+   <p>Bryce finished speaking and the camera lights left him. He said to Lisa, “What about lunch? Or breakfast, or whatever meal it is we’re up to now.”</p>
+   <p>“Everything’s ready, Tim. Whenever you are.”</p>
+   <p>They ate together in the holograph room, which had become the kitchen of the command post. Massive cameras and tanks of etching fluid surrounded them. The others thoughtfully left them alone. These brief shared meals were the only fragments of privacy he and Lisa had had, in the fifty-two hours since he had awakened to find her sleeping beside him.</p>
+   <p>He stared across the table in wonder at this delectable blond girl who they said was his wife. How beautiful her soft brown eyes were against that backdrop of golden hair! How perfect the line of her lips, the curve of her earlobes! Bryce knew that no one would object if he and Lisa went off and locked themselves into one of the private rooms for a few hours. He wasn’t that indispensable; and there was so much he had to begin relearning about his wife. But he was unable to leave his post. He hadn’t been out of the hospital or even off this floor for the duration of the crisis; he kept himself going by grabbing the sleep wire for half an hour every six hours. Perhaps it was an illusion born of too little sleep and too much data, but he had come to believe that the survival of the city depended on him. He had spent his career trying to heal individual sick minds; now he had a whole city to tend to.</p>
+   <p>“Tired?” Lisa asked.</p>
+   <p>“I’m in that tiredness beyond feeling tired. My mind is so clear that my skull wouldn’t cast a shadow. I’m nearing nirvana.”</p>
+   <p>“The worst is over, I think. The city’s settling down.”</p>
+   <p>“It’s still bad, though. Have you seen the suicide figures?”</p>
+   <p>“Bad?”</p>
+   <p>“Hideous. The norm in San Francisco is 220 a year. We’ve had close to five hundred in the last two and a half days. And that’s just the reported cases, the bodies discovered, and so on. Probably we can double the figure. Thirty suicides reported Wednesday night, about two hundred on Thursday, the same on Friday, and about fifty so far this morning. At least it seems as if the wave is past its peak.”</p>
+   <p>“But <emphasis>why, </emphasis>Tim?”</p>
+   <p>“Some people react poorly to loss. Especially the loss of a segment of their memories. They’re indignant—they’re crushed— they’re scared—and they reach for the exit pill. Suicide’s too easy now, anyway. In the old days you reacted to frustration by smashing the crockery; now you go a deadlier route. Of course, there are special cases. A man named Montini they fished out of the bay—a professional mnemonist, who did a trick act in nightclubs, total recall. I can hardly blame him for caving in. And I suppose there were a lot of others who kept their business in their heads— gamblers, stock-market operators, oral poets, musicians—who might decide to end it all rather than try to pick up the pieces.”</p>
+   <p>“But if the effects of the drug wear off—”</p>
+   <p>“Do they?” Bryce asked.</p>
+   <p>“You said so yourself.”</p>
+   <p>“I was making optimistic noises for the benefit of the citizens. We don’t have any experimental history for these drugs and human subjects. Hell, Lisa, we don’t even know the dosage that was administered; by the time we were able to get water samples most of the system had been flushed clean, and the automatic monitoring devices at the city pumping stations were rigged as part of the conspiracy so they didn’t show a thing out of the ordinary. I’ve got no idea at all if there’s going to be any measurable memory recovery.”</p>
+   <p>“But there is, Tim. I’ve already started to get some things back.”</p>
+   <p>“What?”</p>
+   <p>“Don’t scream at me like that! You scared me.”</p>
+   <p>He clung to the edge of the table. “Are you really recovering?”</p>
+   <p>“Around the edges. I remember a few things already. About us.”</p>
+   <p>“Like what?”</p>
+   <p>“Applying for the marriage license. I’m standing stark naked inside a diagnostat machine and a voice on the loudspeaker is telling me to look straight into the scanners. And I remember the ceremony, a little. Just a small group of friends, a civil ceremony. Then we took the pod to Acapulco.”</p>
+   <p>He stared grimly. “When did this start to come back?”</p>
+   <p>“About seven this morning, I guess.”</p>
+   <p>“Is there more?”</p>
+   <p>“A bit. Our honeymoon. The robot bellhop who came blundering in on our wedding night. You don’t—”</p>
+   <p>“Remember it? No. No. Nothing. Blank.”</p>
+   <p>“That’s all I remember, this early stuff.”</p>
+   <p>“Yes, of course,” he said. “The older memories are always the first to return in any form of amnesia. The last stuff in is the first to go.” His hands were shaking, not entirely from fatigue. A strange desolation crept over him. Lisa remembered. He did not.</p>
+   <p>Was it a function of her youth, or of the chemistry of her brain, or—?</p>
+   <p>He could not bear the thought that they no longer shared an oblivion. He didn’t want the amnesia to become one-sided for them; it was humiliating not to remember his own marriage when she did. You’re being irrational, he told himself. Physician, heal thyself!</p>
+   <p>“Let’s go back inside,” he said.</p>
+   <p>“You haven’t finished your—”</p>
+   <p>“Later.”</p>
+   <p>He went into the command room. Kamakura had phones in both hands and was barking data into a recorder. The screens were alive with morning scenes, Saturday in the city, crowds in Union Square. Kamakura hung up both calls and said, “I’ve got an interesting report from Dr. Klein at Letterman General. He says they’re getting the first traces of memory recovery this morning. Women under thirty, only.”</p>
+   <p>“Lisa says she’s beginning to remember too,” Bryce said.</p>
+   <p>“Women under thirty,” said Kamakura. “Yes. Also the suicide rate is definitely tapering. We may be starting to come out of it.”</p>
+   <p>“Terrific,” Bryce said hollowly.</p>
+   <empty-line/>
+   <p>Haldersen was living in a ten-foot-high bubble that one of his disciples had blown for him in the middle of Golden Gate Park, just west of the Arboretum. Fifteen similar bubbles had gone up around his, giving the region the look of an up-to-date Eskimo village in plastic igloos. The occupants of the camp, aside from Haldersen, were men and women who had so little memory left that they did not know who they were or where they lived. He had acquired a dozen of these lost ones on Friday, and by late afternoon on Saturday he had been joined by some forty more. The news somehow was moving through the city that those without moorings were welcome to take up temporary residence with the group in the park. It had happened that way during the 1906 disaster, too.</p>
+   <p>The police had been around a few times to check on them. The first time, a portly lieutenant had tried to persuade the whole group to move to Fletcher Memorial. “That’s where most of the victims are getting treatment, you see. The doctors give them something, and then we try to identify them and find their next of kin—”</p>
+   <p>“Perhaps it’s best for these people to remain away from their next of kin for a while,” Haldersen suggested. “Some meditation in the park—an exploration of the pleasures of having forgotten—that’s all we’re doing here.” He would not go to Fletcher Memorial himself except under duress. As for the others, he felt he could do more for them in the park than anyone in the hospital could.</p>
+   <p>The second time the police came, Saturday afternoon when his group was much larger, they brought a mobile communications system. “Dr. Bryce of Fletcher Memorial wants to talk to you,” a different lieutenant said.</p>
+   <p>Haldersen watched the screen come alive. “Hello, Doctor. Worried about me?”</p>
+   <p>“I’m worried about everyone, Nate. What the hell are you doing in the park?”</p>
+   <p>“Founding a new religion, I think.”</p>
+   <p>“You’re a sick man. You ought to come back here.”</p>
+   <p>“No, Doctor. I’m not sick any more. I’ve had my therapy and I’m fine. It was a beautiful treatment: selective obliteration, just as I prayed for. The entire trauma is gone.”</p>
+   <p>Biyce appeared fascinated by that; his frowning expression of official responsibility vanished a moment, giving place to a look of professional concern. “Interesting,” he said. “We’ve got people who’ve forgotten only nouns, and people who’ve forgotten who they married, and people who’ve forgotten how to play the violin. But you’re the first one who’s forgotten a trauma. You still ought to come back here, though. You aren’t the best judge of your fitness to face the outside environment.”</p>
+   <p>“Oh, but I am,” Haldersen said. “I’m doing fine. And my peopie need me.”</p>
+   <p>“Your people?”</p>
+   <p>“Waifs. Strays. The total wipeouts.”</p>
+   <p>“We want those people in the hospital, Nate. We want to get them back to their families.”</p>
+   <p>“Is that necessarily a good deed? Maybe some of them can use a spell of isolation from their families. These people look happy, Dr. Btyce. I’ve heard there are a lot of suicides, but not here. We’re practicing mutually supportive therapy. Looking for the joys to be found in oblivion. It seems to work.”</p>
+   <p>Bryce stared silently out of the screen for a long moment. Then he said impatiently, “All right, have it your own way for now. But I wish you’d stop coming on like Jesus and Freud combined, and leave the park. You’re still a sick man, Nate, and the people with you are in serious trouble. I’ll talk to you later.”</p>
+   <p>The contact broke. The police, stymied, left.</p>
+   <p>Haldersen spoke briefly to his people at five o’clock. Then he sent them out as missionaries to collect other victims. “Save as many as you can,” he said. “Find those who are in complete despair and get them into the park before they can take their own lives. Explain that the loss of one’s past is not the loss of all things.”</p>
+   <p>The disciples went forth. And came back leading those less fortunate than themselves. The group grew to more than one hundred by nightfall. Someone found the extruder again and blew twenty more bubbles as shelters for the night. Haldersen preached his sermon of joy, looking out at the blank eyes, the slack faces of those whose identities had washed away on Wednesday. “Why give up?” he asked them. “Now is your chance to create new lives for yourself. The slate is clean! Choose the direction you will take, define your new selves through the exercise of free will—you are reborn in holy oblivion, all of you. Rest, now, those who have just come to us. And you others, go forth again, seek out the wanderers, the drifters, the lost ones hiding in the corners of the city—”</p>
+   <p>As he finished, he saw a knot of people bustling toward him from the direction of the South Drive. Fearing trouble, Haldersen went out to meet them; but as he drew close he saw half a dozen disciples, clutching a scruffy, unshaven, terrified little man. They hurled him at Haldersen’s feet. The man quivered like a hare ringed by hounds. His eyes glistened; his wedge of a face, sharp-chinned, sharp of cheekbones, was pale.</p>
+   <p>“It’s the one who poisoned the water supply!” someone called. “We found him in a rooming house on Judah Street. With a stack of drugs in his room, and the plans of the water system, and a bunch of computer programs. He admits it. He admits it!”</p>
+   <p>Haldersen looked down. “Is this true?” he asked. “Are you the one?”</p>
+   <p>The man nodded.</p>
+   <p>“What’s your name?”</p>
+   <p>“Won’t say. Want a lawyer.”</p>
+   <p>“Kill him now!” a woman shrieked. “Pull his arms and legs off!”</p>
+   <p>“Kill him!” came an answering cry from the other side of the group. “Kill him!”</p>
+   <p>The congregation, Haldersen realized, might easily turn into a mob.</p>
+   <p>He said, “Tell me your name, and I’ll protect you. Otherwise I can’t be responsible.”</p>
+   <p>“Skinner,” the man muttered miserably. “Skinner. And you contaminated the water supply.” Another nod.</p>
+   <p>“Why?”</p>
+   <p>“To get even.”</p>
+   <p>“With whom?”</p>
+   <p>“Everyone. Everybody.”</p>
+   <p>Classic paranoid. Haldersen felt pity. Not the others; they were calling out for blood.</p>
+   <p>A tall man bellowed, “Make the bastard drink his own drug!”</p>
+   <p>“No, kill him! Squash him!”</p>
+   <p>The voices became more menacing. The angry faces came closer.</p>
+   <p>“Listen to me,” Haldersen called, and his voice cut through the murmurings. “There’ll be no killing here tonight.”</p>
+   <p>“What are you going to do, give him to the police?”</p>
+   <p>“No,” said Haldersen. “We’ll hold communion together. We’ll teach this pitiful man the blessings of oblivion, and then we’ll share new joys ourselves. We are human beings. We have the capacity to forgive even the worst of sinners. Where are the memory drugs? Did someone say you had found the memory drugs? Here. Here. Pass it up here. Yes. Brothers, sisters, let us show this dark and twisted soul the nature of redemption. Yes. Yes. Fetch some water, please. Thank you. Here, Skinner. Stand him up, will you? Hold his arms. Keep him from falling down. Wait a second, until I find the proper dose. Yes. Yes. Here, Skinner. Forgiveness. Sweet oblivion.”</p>
+   <empty-line/>
+   <p>It was so good to be working again that Mueller didn’t want to stop. By early afternoon on Saturday his studio was ready; he had long since worked out the sketches of the first piece; now it was just a matter of time and effort, and he’d have something to show Pete Castine. He worked on far into the evening, setting up his armature and running a few tests of the sound sequences that he proposed to build into the piece. He had some interesting new ideas about the sonic triggers, the devices that would set off the sound effects when the appreciator came within range. Carole had to tell him, finally, that dinner was ready. “I didn’t want to interrupt you,” she said, “but it looks like I have to, or you won’t ever stop.”</p>
+   <p>“Sorry. The creative ecstasy.”</p>
+   <p>“Save some of that energy. There are other ecstasies. The ecstasy of dinner, first.”</p>
+   <p>She had cooked everything herself. Beautiful. He went back to work again afterward, but at half past one in the morning Carole interrupted him. He was willing to stop, now. He had done an honest day’s work, and he was sweaty with the noble sweat of a job well done. Two minutes under the molecular cleanser and the sweat was gone, but the good ache of virtuous fatigue remained. He hadn’t felt his way in years.</p>
+   <p>He woke to Sunday thoughts of unpaid debts.</p>
+   <p>“The robots are still there,” he said. “They won’t go away, will they? Even though the whole city’s at a standstill, nobody’s told the robots to quit.”</p>
+   <p>“Ignore them,” Carole said.</p>
+   <p>“That’s what I’ve been doing. But I can’t ignore the debts. Ultimately there’ll be a reckoning.”</p>
+   <p>“You’re working again, though! You’ll have an income coming in.”</p>
+   <p>“Do you know what I owe?” he asked. “Almost a million. If I produced one piece a week for a year, and sold each piece for twenty bigs, I might pay everything off. But I can’t work that fast, and the market can’t possibly absorb that many Muellers, and Pete certainly can’t buy them all for future sale.”</p>
+   <p>He noticed the way Carole’s face darkened at the mention of Pete Castine.</p>
+   <p>He said, “You know what I’ll have to do? Go to Caracas, like I was planning before this memory thing started. I can work there, and ship my stuff to Pete. And maybe in two or three years I’ll have paid off my debt, a hundred cents on the dollar, and I can start fresh back here. Do you know if that’s possible? I mean, if you jump to a debtor sanctuary, are you blackballed for credit forever, even if you pay off what you owe?”</p>
+   <p>“I don’t know,” Carole said distantly.</p>
+   <p>“I’ll find that out later. The important thing is that I’m working again, and I’ve got to go someplace where I can work without being hounded. And then I’ll pay everybody off. You’ll come with me to Caracas, won’t you?”</p>
+   <p>“Maybe we won’t have to go,” Carole said.</p>
+   <p>“But how—”</p>
+   <p>“You should be working now, shouldn’t you?”</p>
+   <p>He worked, and while he worked he made lists of creditors in his mind, dreaming of the day when every name on every list was crossed off. When he got hungry he emerged from the studio and found Carole sitting gloomily in the living room. Her eyes were red and puffy-lidded.</p>
+   <p>“What’s wrong?” he asked. “You don’t want to go to Caracas?”</p>
+   <p>“Please, Paul—let’s not talk about it—”</p>
+   <p>“I’ve really got no alternative. I mean, unless we pick one of the other sanctuaries. São Paulo? Spalato?”</p>
+   <p>“It isn’t that, Paul.”</p>
+   <p>“What, then?”</p>
+   <p>“I’m starting to remember again.”</p>
+   <p>The air went out of him. “Oh,” he said.</p>
+   <p>“I remember November, December, January. The crazy things you were doing, the loans, the financial juggling. And the quarrels we had. They were terrible quarrels.”</p>
+   <p>“Oh.”</p>
+   <p>“The divorce. I remember, Paul. It started coming back last night, but you were so happy I didn’t want to say anything. And this morning it’s much clearer. You still don’t remember any of it?”</p>
+   <p>“Not a thing past last October.”</p>
+   <p>“I do,” she said, shakily. “You hit me, do you know that? You cut my lip. You slammed me against that wall, right over there, and then you threw the Chinese vase at me and it broke.”</p>
+   <p>“Oh. Oh.”</p>
+   <p>She went on, “I remember how good Pete was to me, too. I think I can almost remember marrying him, being his wife. Paul, I’m scared. I feel everything fitting into place in my mind, and it’s as scary as if my mind was breaking into pieces. It was so good, Paul, these last few days. It was like being a newlywed with you again. But now all the sour parts are coming back, the hate, the ugliness, it’s all alive for me again. And I feel so bad about Pete. The two of us, Friday, shutting him out. He was a real gentleman about it. But the fact is that he saved me when I was going under, and I owe him something for that.”</p>
+   <p>“What do you plan to do?” he asked quietly.</p>
+   <p>“I think I ought to go back to him. I’m his wife. I’ve got no right to stay here.”</p>
+   <p>“But I’m not the same man you came to hate,” Mueller protested. “I’m the old Paul, the one from last year and before. The man you loved. All the hateful stuff is gone from me.”</p>
+   <p>“Not from me, though. Not now.”</p>
+   <p>They were both silent.</p>
+   <p>“I think I should go back, Paul.”</p>
+   <p>“Whatever you say.”</p>
+   <p>“I think I should. I wish you all kinds of luck, but I can’t stay here. Will it hurt your work if I leave again?”</p>
+   <p>“I won’t know until you do.”</p>
+   <p>She told him three or four more times that she felt she ought to go back to Castine, and then, politely, he suggested that she should go back right now, if that was how she felt, and she did. He spent half an hour wandering around the apartment, which seemed so awfully empty again. He nearly invited one of the dun-fling robots in for company. Instead, he went back to work. To his surprise, he worked quite well, and in an hour he had ceased thinking about Carole entirely.</p>
+   <empty-line/>
+   <p>Sunday afternoon, Freddy Munson set up a credit transfer and managed to get most of his liquid assets fed into an old account he kept at the Bank of Luna. Toward evening, he went down to the wharf and boarded a three-man hovercraft owned by a fisherman willing to take his chances with the law. They slipped out into the bay without running lights and crossed the bay on a big diagonal, landing some time later a few miles north of Berkeley. Munson found a cab to take him to the Oakland airport, and caught the midnight shuttle to L.A., where, after a lot of fancy talking, he was able to buy his way aboard the next Luna-bound rocket, lifting off at ten o’clock Monday morning. He spent the night in the spaceport terminal. He had taken with him nothing except the clothes he wore; his fine possessions, his paintings, his suits, his Mueller sculptures, and all the rest remained in his apartment, and ultimately would be sold to satisfy the judgments against him. Too bad. He knew that he wouldn’t be coming back to Earth again, either, not with a larceny warrant or worse awaiting him. Also too bad. It had been so nice for so long, here, and who needed a memory drug in the water supply? Munson had only one consolation. It was an article of his philosophy that sooner or later, no matter how neatly you organized your life, fate opened a trapdoor underneath your feet and catapulted you into something unknown and unpleasant. Now he knew that it was true, even for him.</p>
+   <p>Too, too bad. He wondered what his chances were of starting over up there. Did they need stockbrokers on the Moon?</p>
+   <p>Addressing the citizenry on Monday night, Commander Braskett said, “The committee of public safety is pleased to report that we have come through the worst part of the crisis. As many of you have already discovered, memories are beginning to return. The process of recovery will be more swift for some than others, but great progress has been made. Effective at six A.M. tomorrow, access routes to and from San Francisco will reopen. There will be normal mail service and many businesses will return to normal. Fellow citizens, we have demonstrated once again the real fiber of the American spirit. The Founding Fathers must be smiling down upon us today! How superbly we avoided chaos, and how beautifully we pulled together to help one another in what could have been an hour of turmoil and despair!</p>
+   <p>“Dr. Bryce requests me to remind you that anyone still suffering severe impairment of memory—especially those experiencing loss of identity, confusion of vital functions, or other disability— should report to the emergency ward at Fletcher Memorial Hospital. Treatment is available there, and computer analysis is at the service of those unable to find their homes and loved ones. I repeat—”</p>
+   <p>Tim Bryce wished that the good commander hadn’t slipped in that plug for the real fiber of the American spirit, especially in view of the necessity to invite the remaining victims to the hospital with his next words. But it would be uncharitable to object. The old spaceman had done a beautiful job all weekend as the Voice of the Crisis, and some patriotic embellishments now were harmless.</p>
+   <p>The crisis, of course, was nowhere near as close to being over as Commander Braskett’s speech had suggested, but public confidence had to be buoyed.</p>
+   <p>Bryce had the latest figures. Suicides now totaled ~oo since the start of trouble on Wednesday; Sunday had been an unexpectedly bad day. At least 40,000 people were still unaccounted for, although they were tracing i,ooo an hour and getting them back to their families or else into an intensive-care section. Probably 750,000 more continued to have memory difficulties. Most children had fully recovered, and many of the women were mending; but older people, and men in general, had experienced scarcely any memory recapture. Even those who were nearly healed had no recall of events of Tuesday and Wednesday, and probably never would; for large numbers of people, though, big blocks of the past would have to be learned from the outside, like history lessons.</p>
+   <p>Lisa was teaching him their marriage that way.</p>
+   <p>The trips they had taken—the good times, the bad—the parties, the friends, the shared dreams—she described everything, as vividly as she could, and he fastened on each anecdote, trying to make it a part of himself again. He knew it was hopeless, really. He’d know the outlines, never the substance. Yet it was probably the best he could hope for.</p>
+   <p>He was so horribly tired, suddenly.</p>
+   <p>He said to Kamakura, “Is there anything new from the park yet? That rumor that Haldersen’s actually got a supply of the drug?”</p>
+   <p>“Seems to be true, Tim. The word is that he and his friends caught the character who spiked the water supply, and relieved him of a roomful of various amnesifacients.”</p>
+   <p>“We’ve got to seize them,” Bryce said.</p>
+   <p>Kamakura shook his head. “Not just yet. Police are afraid of any actions in the park. They say it’s a volatile situation.”</p>
+   <p>“But if those drugs are loose—”</p>
+   <p>“Let me worry about it, Tim. Look, why don’t you and Lisa go home for a while? You’ve been here without a break since Thursday.”</p>
+   <p>“So have—”</p>
+   <p>“No. Everybody else has had a breather. Go on, now. We’re over the worst. Relax, get some real sleep, make some love. Get to know that gorgeous wife of yours again a little.”</p>
+   <p>Bryce reddened. “I’d rather stay here until I feel I can afford to leave.”</p>
+   <p>Scowling, Kamakura walked away from him to confer with Commander Braskett. Bryce scanned the screens, trying to figure out what was going on in the park. A moment later, Braskett walked over to him.</p>
+   <p>“Dr. Bryce?”</p>
+   <p>“What?”</p>
+   <p>“You’re relieved of duty until sundown Tuesday.”</p>
+   <p>“Wait a second—”</p>
+   <p>“That’s an order, Doctor. I’m chairman of the committee of public safety, and I’m telling you to get yourself out of this hospital. You aren’t going to disobey an order, are you?”</p>
+   <p>“Listen, Commander—”</p>
+   <p>“Out. No mutiny, Bryce. Out! Orders.”</p>
+   <p>Bryce tried to protest, but he was too weary to put up much of a fight. By noon, he was on his way home, soupy-headed with fatigue. Lisa drove. He sat quite still, struggling to remember details of his marriage. Nothing came.</p>
+   <p>She put him to bed. He wasn’t sure how long he slept; but then he felt her against him, warm, satin-smooth.</p>
+   <p>“Hello,” she said. “Remember me?”</p>
+   <p>“Yes,” he lied gratefully. “Oh, yes, yes, yes!”</p>
+   <empty-line/>
+   <p>Working right through the night, Mueller finished his armature by dawn on Monday. He slept a while, and in early afternoon began to paint the inner strips of loudspeakers on: a thousand speakers to the inch, no more than a few molecules thick, from which the sounds of his sculpture would issue in resonant fullness. When that was done, he paused to contemplate the needs of his sculpture’s superstructure, and by seven that night was ready to move to the next phase. The demons of creativity possessed him; he saw no reason to eat and scarcely any to sleep.</p>
+   <p>At eight, just as he was getting up momentum for the long night’s work, he heard a knock at the door. Carole’s signal. He had disconnected the doorbell, and robots didn’t have the sense to knock. Uneasily, he went to the door. She was there.</p>
+   <p>“So?” he said.</p>
+   <p>“So I came back. So it starts all over.”</p>
+   <p>“What’s going on?”</p>
+   <p>“Can I come in?” she asked.</p>
+   <p>“I suppose. I’m working, but come in.”</p>
+   <p>She said, “I talked it all over with Pete. We both decided I ought to go back to you.”</p>
+   <p>“You aren’t much for consistency, are you?” he asked.</p>
+   <p>“I have to take things as they happen. When I lost my memory, I came to you. When I remembered things again, I felt I ought to leave. I didn’t <emphasis>want </emphasis>to leave. I felt I <emphasis>ought </emphasis>to leave. There’s a difference.”</p>
+   <p>“Really,” he said.</p>
+   <p>“Really. I went to Pete, but I didn’t want to be with him. I wanted to be here.”</p>
+   <p>“I hit you and made your lip bleed. I threw the Ming vase at you.”</p>
+   <p>“It wasn’t Ming, it was K’ang-hsi.”</p>
+   <p>“Pardon me. My memory still isn’t so good. Anyway, I did terrible things to you, and you hated me enough to want a divorce. So why come back?”</p>
+   <p>“You were right, yesterday. You aren’t the man I came to hate. You’re the old Paul.”</p>
+   <p>“And if my memory of the past nine months returns?”</p>
+   <p>“Even so,” she said. “People change. You’ve been through hell and come out the other side. You’re working again. You aren’t sullen and nasty and confused. We’ll go to Caracas, or wherever you want, and you’ll do your work and pay your debts, just as you said yesterday.”</p>
+   <p>“And Pete?”</p>
+   <p>“He’ll arrange an annulment. He’s being swell about it.”</p>
+   <p>“Good old Pete,” Mueller said. He shook his head. “How long will the neat happy ending last, Carole? If you think there’s a chance you’ll be bouncing back in the other direction by Wednesday, say so now. I’d rather not get involved again, in that case.”</p>
+   <p>“No chance. None.”</p>
+   <p>“Unless I throw the Ch’ien-lung vase at you.”</p>
+   <p>“K’ang-hsi,” she said.</p>
+   <p>“Yes. K’ang-hsi.” He managed to grin. Suddenly he felt the accumulated fatigue of these days register all at once. “I’ve been working too hard,” he said. “An orgy of creativity to make up for lost time. Let’s go for a walk.”</p>
+   <p>“Fine,” she said.</p>
+   <p>They went out, just as a dunning robot was arriving. “Top of the evening to you, sir,” Mueller said.</p>
+   <p>“Mr. Mueller, I represent the accounts receivable department of the Acme Brass and—”</p>
+   <p>“See my attorney,” he said.</p>
+   <p>Fog was rolling in off the sea now. There were no stars. The downtown lights were invisible. He and Carole walked west, toward the park. He felt strangely light-headed, not entirely from lack of sleep. Reality and dream had merged; these were unusual days. They entered the park from the Panhandle and strolled toward the museum area, arm in arm, saying nothing much to one another. As they passed the conservatory Mueller became aware of a crowd up ahead, thousands of people staring in the direction of the music shell. “What do you think is going on?” Carole asked. Mueller shrugged. They edged through the crowd.</p>
+   <p>Ten minutes later they were close enough to see the stage. A tall, thin, wild-looking man with unruly yellow hair was on the stage. Beside him was a small, scrawny man in ragged clothing, and there were a dozen other flanking them, carrying ceramic bowls.</p>
+   <p>“What’s happening?” Mueller asked someone in the crowd.</p>
+   <p>“Religious ceremony.”</p>
+   <p>“Eh?”</p>
+   <p>“New religion. Church of Oblivion. That’s the head prophet up there. You haven’t heard about it yet?”</p>
+   <p>“Not a thing.”</p>
+   <p>“Started around Friday. You see that ratty-looking character next to the prophet?”</p>
+   <p>“Yes.”</p>
+   <p>“He’s the one that put the stuff in the water supply. He confessed and they made him drink his own drug. Now he doesn’t remember a thing, and he’s the assistant prophet. Craziest damn stuff!”</p>
+   <p>“And what are they doing up there?”</p>
+   <p>“They’ve got the drug in those bowls. They drink and forget some more. They drink and forget some more.”</p>
+   <p>The gathering fog absorbed the sounds of those on the stage. Mueller strained to listen. He saw the bright eyes of fanaticism; the alleged contaminator of the water looked positively radiant. Words drifted out into the night.</p>
+   <p>“Brothers and sisters… the joy, the sweetness of forgetting come up here with us, take communion with us… oblivion redemption… even for the most wicked… forget… forget…”</p>
+   <p>They were passing the bowls around on stage, drinking, smiling. People were going up to receive the communion, taking a bowl, sipping, nodding happily. Toward the rear of the stage the bowls were being refilled by three sober-looking functionaries.</p>
+   <p>Mueller felt a chill. He suspected that what had been born in this park during this week would endure, somehow, long after the crisis of San Francisco had become part of history; and it seemed to him that something new and frightening had been loosed upon the land.</p>
+   <p>“Take… drink… forget…“ the prophet cried.</p>
+   <p>And the worshipers cried, <emphasis>“Take. </emphasis>.. <emphasis>drink. </emphasis>.. <emphasis>forget. </emphasis>..“ The bowls were passed.</p>
+   <p>“What’s it all <emphasis>about?” </emphasis>Carole whispered.</p>
+   <p>“Take… drink… forget…“ <emphasis>“Take. </emphasis>.. <emphasis>drink. </emphasis>.. <emphasis>forget. </emphasis>..“ “Blessed is sweet oblivion.”</p>
+   <p><emphasis>“Blessed is sweet oblivion.”</emphasis></p>
+   <p>“Sweet it is to lay down the burden of one’s soul.”</p>
+   <p><emphasis>“Sweet it is to lay down the burden of one’s soul.”</emphasis></p>
+   <p>“Joyous it is to begin anew.”</p>
+   <p><emphasis>“Joyous it is to begin anew.”</emphasis></p>
+   <p>The fog was deepening. Mueller could barely see the aquarium building just across the way. He clasped his hand tightly around Carole’s and began to think about getting out of the park.</p>
+   <p>He had to admit, though, that these people might have hit on something true. Was he not better off for having taken a chemical into his bloodstream, and thereby shedding a portion of his past? Yes, of course. And yet—to mutilate one’s mind this way, deliberately, happily, to drink deep of oblivion—</p>
+   <p>“Blessed are those who are able to forget,” the prophet said. <emphasis>“Blessed are those who are able to forget,” </emphasis>the crowd roared in response.</p>
+   <p>“Blessed are those who are able to forget,” Mueller heard his own voice cry. And he began to tremble. And he felt sudden fear. He sensed the power of this strange new movement, the gathering strength of the prophet’s appeal to unreason. It was time for a new religion, maybe, a cult that offered emancipation from all inner burdens. They would synthesize this drug and turn it out by the ton, Mueller thought, and repeatedly dose cities with it, so that everyone could be converted, so that everyone might taste the joys of oblivion. No one will be able to stop them. After a while, no one will <emphasis>want </emphasis>to stop them. And so we’ll go on, drinking deep, until we’re washed clean of all pain and all sorrow, of all sad recollection, we’ll sip a cup of kindness and part with auld lang syne, we’ll give up the griefs we carry around, and we’ll give up everything else, identity, soul, self, mind. We will drink sweet oblivion. Mueller shivered. Turning suddenly, tugging roughly at Carole’s arm, he pushed through the joyful worshiping crowd, and hunted somberly in the fogwrapped night, trying to find some way out of the park.</p>
+  </section>
+ </body>
+ <binary id="how_it_was_when.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAETAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDt/it8RvEniCE6L8IJ5TcwThb7VlVBHFly
+oC+YMFTgnI9u2SPLZdf/AGi9D1m5tr3xuZEtWG9pZLR0lRgCpjBRs5yOCODn0zVa91Lw7p3x
+Pk8E6jd6tbwWl/AbF4I9484O2/cuV3BgUALbiMHHBrsdatvD9tfo0t7bCxWWNlSSBoXlJAAW
+RiT9M56E124LDwqrmqO1jzsfia9KXJQjdtepFoPiP9ozX7WaXSdYie3jlEbSva2USjIGcnym
+AI49ql0+f493lxOG8R2zm3OxoX1KxiZzz93bbEAccZNdHf8AiOabS/tKXoGnBQGisIy8UYI4
+UrHnjoOfWuMh1rTb6+CW1xl3fCkxsvP1I4ruhgKFS95JHnVcfmVNrloN/K3+Z1fhuy/aF1uy
+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
+wBn8uKKKQmbC0UUUxH//2Q==</binary>
+</FictionBook>

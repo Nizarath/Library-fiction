@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>Defenders of the Frontier</book-title>
+   <annotation>
+    <p>Soldiers in every age have learned that the military’s unofficial motto is “Hurry up and wait.” But suppose all you ever did was wait? And wait. And<emphasis> wait…</emphasis></p>
+   </annotation>
+   <date value="2010-03-01">2010</date>
+   <coverpage>
+    <image l:href="#defenders_of_the_frontiers.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-04-05">05.04.2012</date>
+   <id>FBD-191087-BAD1-3042-EFB2-1CC2-1A79-F7C2B2</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Warriors</book-name>
+   <publisher>Tor Books</publisher>
+   <year>2010</year>
+   <isbn>978-0-765-32048-3</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Defenders of the Frontier</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>Seeker has returned to the fort looking flushed and exhilarated. “I was right,” he announces. “There is one of them hiding quite close by. I was certain of it, and now I know where he is. I can definitely feel directionality this time.”</p>
+   <p>Stablemaster, skeptical as always, lifts one eyebrow. “You were wrong the last time. You’re always too eager these days to find them out there.”</p>
+   <p>Seeker merely shrugs. “There can be no doubt,” he says.</p>
+   <p>For three weeks now, Seeker has been searching for an enemy spy—or straggler, or renegade, or whatever he may be—that he believes is camped in the vicinity of the fort. He has gone up to this hilltop and that one, to this watchtower and that, making his solitary vigil, casting forth his mind’s net in that mysterious way of his that none of us can begin to fathom. And each time he has come back convinced that he feels enemy emanations, but he has never achieved a strong enough sense of directionality to warrant our sending out a search party. This time he has the look of conviction about him. Seeker is a small, flimsy sort of man, as his kind often tends to be, and much of the time in recent months he has worn the slump-shouldered look of dejection and disappointment. His trade is in finding enemies for us to kill. Enemies have been few and far between of late. But now he is plainly elated. There is an aura of triumph about him, of vindication.</p>
+   <p>Captain comes into the room. Instantly he sizes up the situation. “What have we here?” he says brusquely. “Have you sniffed out something at last, Seeker?”</p>
+   <p>“Come. I’ll show you.”</p>
+   <p>He leads us all out onto the flat roof adjacent to our barracks. To the right and left, the huge turreted masses of the eastern and western redoubts, now unoccupied, rise above us like vast pillars, and before us lies the great central courtyard, with the massive wall of tawny brick that guards us on the north beyond it. The fort is immense, an enormous sprawling edifice designed to hold ten thousand men. I remember very clearly the gigantic effort we expended in the building of it, twenty years before. Today just eleven occupants remain, and we rattle about it like tiny pebbles in a colossal jug.</p>
+   <p>Seeker gestures outward, into the gritty yellow wasteland that stretches before us like an endless ocean on the far side of the wall. That flat plain of twisted useless shrubs marks the one gap in the line of precipitous cliffs that forms the border here between Imperial territory and the enemy lands. It has been our task these twenty years past—we were born to it; it is an obligation of our caste—to guard that gap against the eventual incursion of the enemy army. For two full decades we have inhabited these lonely lands. We have fortified that gap, we have patrolled it, we have dedicated our lives to guarding it. In the old days, entire brigades of enemy troops would attempt to breach our line, appearing suddenly like clouds of angry insects out of the dusty plain, and with great loss of life on both sides we would drive them back. Now things are quieter on this frontier, very much quieter indeed, but we are still here, watching for and intercepting the occasional spies that periodically attempt to slip past our defenses.</p>
+   <p>“There,” says Seeker. “Do you see those three little humps over to the northeast? He’s dug in not very far behind them. I know he is. I can feel him the way you’d feel a boil on the back of your neck.”</p>
+   <p>“Just one man?” Captain asks.</p>
+   <p>“One. Only one.”</p>
+   <p>Weaponsmaster says, “What would one man hope to accomplish? Do you think he expects to come tiptoeing into the fort and kill us one by one?</p>
+   <p>“There’s no need for us to try to understand them,” Sergeant says. “Our job is to find them and kill them. We can leave understanding them to the wiser heads back home.”</p>
+   <p>“Ah,” says Armorer sardonically. “Back home, yes. Wiser heads.”</p>
+   <p>Captain has walked to the rim of the roof and stands there with his back to us, clutching the rail and leaning forward into the dry, crisp wind that eternally blows across our courtyard. A sphere of impenetrable chilly silence seems to surround him. Captain has always been an enigmatic man, solitary and brooding, but he has become stranger than ever since the death of Colonel, three years past, left him the ranking officer of the fort. No one knows his mind now, and no one dares to attempt any sort of intimacy with it.</p>
+   <p>“Very well,” he says, after an interval that has become intolerably long. “A four-man search party: Sergeant to lead, accompanied by Seeker, Provisioner, and Surveyor. Set out in the morning. Take three days’ food. Search, find, and kill.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>It has been eleven weeks since the last successful search mission. That one ended in the killing of three enemies, but since then, despite Seeker’s constant efforts, there have been no signs of any hostile presence in our territory. Once, six or seven weeks back, Seeker managed to convince himself that he felt emanations coming from a site along the river, a strange place for an enemy to have settled because it was well within our defense perimeter, and a five-man party led by Stablemaster hastened out to look. But they found no one there except a little band of the Fisherfolk, who swore that they had seen nothing unusual thereabouts, and the fisherfolk do not lie. Upon their return, Seeker himself had to admit that he no longer felt the emanations and that he was now none too certain he had felt any in the first place.</p>
+   <p>There is substantial feeling among us that we have outlived our mission here, that few if any enemies still occupy the territory north of the gap, that quite possibly the war has long since been over. Sergeant, Quartermaster, Weaponsmaster, and Armorer are the chief proponents of this belief. They note that we have heard nothing whatsoever from the capital in years—no messengers have come, let alone reinforcements or fresh supplies—and that we have had no sign from the enemy, either, that any significant force of them is gathered anywhere nearby. Once, long ago, war seemed imminent, and indeed real battles often took place. But it has been terribly quiet here for a long time. There has been nothing like a real battle for six years, only a few infrequent skirmishes with small enemy platoons, and during the past two years we have detected just a few isolated outliers, usually no more than two or three men at a time, whom we catch relatively easily as they try to infiltrate our territory Armorer insists that they are not spies but stragglers, the last remnants of whatever enemy force once occupied the region to our north, who have been driven by hunger or loneliness or who knows what other compulsion to take up positions close to our fort. He argues that in the twenty years we have been here, our own numbers have dwindled from ten thousand men to a mere eleven, at first by losses in battle but later by the attrition of age and ill-health, and he thinks it is reasonable that the same dwindling has occurred on the other side of the border, so that we few defenders now confront an enemy that may be even fewer in number than ourselves.</p>
+   <p>I myself see much to concur with in Armorer’s position. I think it might very well be the case that we are a lost platoon, that the war is over and the Empire has forgotten us, and that there is no purpose at all in our continued vigilance. But if the Empire has forgotten us, who can give the order that withdraws us from our post? That is a decision that only Captain can make, and Captain has not given us the slightest impression of where he stands on the issue. And so we remain, and may remain to the end of our days. What folly that would be, says Armorer, to languish out here forever defending this forlorn frontier country against invaders that no longer choose to invade! And I half agree with him, but only half. I would not want to spend such time as remains to me working at a fool’s task; but equally I do not wish to be guilty of dereliction of duty, after having served so long and so honorably on this frontier. Thus I am of two minds on the issue.</p>
+   <p>There is, of course, the opposite theory that holds that the enemy is simply biding its time, waiting for us to abandon the fort, after which a great army will come pouring through the gap at long last and strike at the Empire from one of its most vulnerable sides. Engineer and Signalman are the most vocal proponents of this viewpoint. They think it would be an act of profound treason to withdraw, the negation of all that we have dedicated our lives to, and they become irate when the idea is merely suggested. When they propound this position, I find it hard to disagree.</p>
+   <p>Seeker is the one who works hardest to keep our mission alive, constantly striving to pick up threatening emanations. That has been his life’s work, after all. He knows no other vocation, that sad little man. So day by day Seeker climbs his hilltops and haunts his watchtowers and uses his one gift to detect the presence of hostile minds, and now and then he returns and sounds the alarm, and off we go on yet another search foray. More often than not, they prove to be futile, nowadays: either Seeker’s powers are failing or he is excessively anxious to interpret his inputs as the mental output from nearby enemies.</p>
+   <p>I confess I feel a certain excitement at being part of this latest search party. Our days are spent in such terrible empty routine, normally. We tend our little vegetable patch, we look after our animals, we fish and hunt, we do our regular maintenance jobs, we read the same few books over and again, we have the same conversations, chiefly reminiscing about the time when there were more than eleven of us here, recalling as well as we can the robust and earthy characters who once dwelled among us but are long since gone to dust. Tonight, therefore, I feel a quickening of the pulse. I pack my gear for the morning, I eat my dinner with unusual gusto, I couple passionately with my little Fisherfolk companion. Each of us, all but Seeker, who seems to know no needs of that sort, has taken a female companion from among the band of simple people who live along our one feeble river. Even Captain takes one sometimes into his bed, I understand, although unlike the rest of us, he has no regular woman. Mine is called Wendrit. She is a pale and slender creature, surprisingly skillful in the arts of love. The Fisherfolk are not quite human—we and they are unable to conceive children together, for example—but they are close enough to human to serve most purposes, and they are pleasant, unassuming, uncomplaining companions. So I embrace Wendrit vigorously this night, and in the dawn the four of us gather, Sergeant, Provisioner, Seeker, and I, by the northern portcullis.</p>
+   <p>It is a bright, clear morning, the sun a hard, sharp-edged disk in the eastern sky. The sun is the only thing that comes to us from the Empire, visiting us each day after it has done its work back there, uncountable thousands of miles to the east. Probably the capital is already in darkness by now, just as we are beginning our day. The world is so large, after all, and we are so very far from home.</p>
+   <p>Once there would have been trumpeters to celebrate our departure as we rode through the portcullis, hurling a brassy fanfare for us into the quiet air. But the last of our trumpeters died years ago, and though we still have the instruments, none of us knows how to play them. I tried once, and made a harsh squeaking sound like the grinding of metal against metal, nothing more. So the only sound we hear as we ride out into the desert is the soft steady thudding of our mounts’ hooves against the brittle sandy soil.</p>
+   <p>In truth, this is the bleakest of places, but we are used to it. I still have memories from my childhood of the floral splendor of the capital, great trees thick with juicy leaves, and shrubs clad in clusters of flowers, red and yellow and orange and purple, and the dense green lawns of the grand boulevards. But I have grown accustomed to the desert, which has become the norm for me, and such lush abundance as I remember out of my earlier life strikes me now as discomfortingly vulgar and excessive, a wasteful riot of energy and resources. All that we have here in the plain that runs out to the north between the wall of hills is dry yellow soil sparkling with the doleful sparkle of overabundant quartz, small gnarled shrubs and equally gnarled miniature trees, and occasional tussocks of tough, sharp-edged grass. On the south side of the fort the land is not quite so harsh, for our little river runs past us there, a weak strand of some much mightier one that must pour out of one of the big lakes in the center of the continent. Our river must be looking for the sea, as rivers do, but of course we are nowhere near the sea, and doubtless it exhausts itself in some distant reach of the desert. But as it passes our outpost, it brings greenery to its flanks, and some actual trees, and enough fish to support the tribe of primitive folk who are our only companions here.</p>
+   <p>Our route lies to the northeast, toward those three rounded hillocks behind which, so Seeker staunchly asserts, we will find the campsite of our solitary enemy. The little hills had seemed close enough when we viewed them from the barracks roof, but that was only an illusion, and we ride all day without visibly diminishing the span between them and us. It is a difficult trek. The ground, which is merely pebbly close by the fort, becomes rocky and hard to traverse farther out, and our steeds pick their way with care, heedful of their fragile legs. But this is familiar territory for us. Everywhere we see traces of hoofprints or tire tracks, five years old, ten, even twenty, the scars of ancient forays, the debris of half-forgotten battles of a decade and more ago. Rain comes perhaps twice a year here at best. Make a mark on the desert floor and it remains forever.</p>
+   <p>We camp as the first lengthening of the shadows begins, gather some scrubby wood for our fire, pitch our tent. There is not much in the way of conversation. Sergeant is a crude, inarticulate man at best; Seeker is too tense and fretful to be pleasant company; Provisioner, who has grown burly and red-faced with the years, can be jovial enough after a drink or two, but he seems uncharacteristically moody and aloof tonight. So I am left to my own resources, and once we have finished our meal, I walk out a short way into the night and stare, as I often do, at the glittering array of stars in this western sky of ours, wondering, as ever, whether each has its own collection of worlds, and whether those worlds are peopled, and what sort of lives the peoples of those worlds might lead. It is a perverse sort of amusement, I suppose: I who have spent half my life guarding a grim brick fort in this parched isolated outpost stare at the night sky and imagine the gleaming palaces and fragrant gardens of faraway worlds.</p>
+   <p>We rise early, make a simple breakfast, ride on through a cutting wind toward those three far-off hills. This morning, though, the perspective changes quickly: suddenly the hills are much closer, and then they are upon us, and Seeker, excited now, guides us toward the pass between the southernmost hill and its neighbor. “I feel him just beyond!” he cries. For Seeker, the sense that he calls directionality is like a compass, pointing the way toward our foes. “Come! This is the way! Hurry! Hurry!”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Nor has he led us wrongly this time. On the far side of the southernmost hill someone has built a little lean-to of twisted branches covered with a heaping of grass, no simple project in these stony ungenerous wastes. We draw our weapons and take up positions surrounding it, and Sergeant goes up to it and says, “You! Come out of there, and keep your hands in the air!”</p>
+   <p>There is a sound of stirring from within. In a moment or two a man emerges.</p>
+   <p>He has the classic enemy physiognomy: a short, stumpy body, sallow waxen skin, and heavy features with jutting cheekbones and icy blue eyes. At the sight of those eyes I feel an involuntary surge of anger, even hatred, for we of the Empire are a brown-eyed people and I have trained myself through many years to feel nothing but hostility for those whose eyes are blue.</p>
+   <p>But these are not threatening eyes. Obviously the man had been asleep, and he is still making the journey back into wakefulness as he comes forth from his shelter, blinking, shaking his head. He is trembling, too. He is one man and we are four, and we have weapons drawn and he is unarmed, and he has been taken by surprise. It is an unfortunate way to start one’s day. I am amazed to find my anger giving way to something like pity.</p>
+   <p>He is given little time to comprehend the gravity of his situation. “Bastard!” Sergeant says, and takes three strides forward. Swiftly he thrusts his knife into the man’s belly, withdraws it, strikes again, again.</p>
+   <p>The blue eyes go wide with shock. I am shocked myself, in a different way, and the sudden cruel attack leaves me gasping with amazement. The stricken enemy staggers, clutches at his abdomen as though trying to hold back the torrent of blood, takes three or four tottering steps, and falls in a series of folding ripples. There is a convulsion or two, and then he is still, lying face downward.</p>
+   <p>Sergeant kicks the entrance of the shelter open and peers within. “See if there’s anything useful in there,” he tells us.</p>
+   <p>Still astounded, I say, “Why did you kill him so quickly?”</p>
+   <p>“We came here to kill him.”</p>
+   <p>“Perhaps. But he was unarmed. He probably would have given himself up peacefully.”</p>
+   <p>“We came here to kill him,” Sergeant says again.</p>
+   <p>“We might have interrogated him first, at least. That’s the usual procedure, isn’t it? Perhaps there are others of his kind somewhere close at hand.”</p>
+   <p>“If there were any more of them around here,” Sergeant says scornfully, “Seeker would have told us, wouldn’t he have? Wouldn’t he have, Surveyor?”</p>
+   <p>There is more that I would like to say, about how it might have been useful or at any rate interesting to discover why this man had chosen to make this risky pilgrimage to the edge of our territory. But there is no point in continuing the discussion, because Sergeant is too stupid to care what I have to say, and the man is already dead, besides.</p>
+   <p>We knock the shelter apart and search it. Nothing much there: a few tools and weapons, a copper-plated religious emblem of the kind that our enemies worship, a portrait of a flat-faced blue-eyed woman who is, I suppose, the enemy’s wife or mother. It does not seem like the equipment of a spy. Even to an old soldier like me, it is all very sad. He was a man like us, enemy though he was, and he died far from home. Yes, it has long been our task to kill these people before they can kill us. Certainly I have killed more than a few of them myself. But dying in battle is one thing; being slaughtered like a pig while still half-asleep is something else again. Especially if your only purpose had been to surrender. Why else had this solitary man, this lonely and probably desperate man, crossed this unrelenting desert, if not to give himself up to us at the fort?</p>
+   <p>I am softening with age, I suppose. Sergeant is right that it was our assignment to kill him: Captain had given us that order in the most explicit way. Bringing him back with us had never been part of the plan. We have no way of keeping prisoners at the fort. We have little enough food for ourselves, and guarding him would have posed a problem. He had had to die; his life was forfeit from the moment he ventured within the zone bordering on the fort. That he might have been lonely or desperate, that he had suffered in crossing this terrible desert and perhaps had hoped to win shelter at our fort, that he had had a wife or perhaps a mother whom he loved, all of that was irrelevant. It did not come as news to me that our enemies are human beings not all that different from us except in the color of their eyes and the texture of their skins. They are, nevertheless, our enemies. Long ago they set their hands against us in warfare, and until the day arrives when they put aside their dream of destroying what we of the Empire have built for ourselves, it is the duty of people like us to slay men like him. Sergeant had not been kind or gentle about it. But there is no kind or gentle way, really, to kill.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>The days that followed were extremely quiet ones. Without so much as a discussion of what had taken place in the desert, we fell back into our routines: clean and polish this and that, repair whatever needs repair and still can be repaired, take our turns working in the fields alongside the river, wade in that shallow stream in quest of water-pigs for our table, tend the vats where we store the mash that becomes our beer, and so on, so forth, day in, day out. Of course I read a good deal, also. I have ever been a man for reading.</p>
+   <p>We have nineteen books; all the others have been read to pieces, or their bindings have fallen apart in the dry air, or the volumes have simply been misplaced somewhere about the fort and never recovered. I have read all nineteen again and again, even though five of them are technical manuals covering areas that never were part of my skills and which are irrelevant now anyway. (There is no point in knowing how to repair our vehicles when the last of our fuel supply was exhausted five years ago.) One of my favorite books is<emphasis> The Saga of the Kings,</emphasis> which I have known since childhood, the familiar account, probably wholly mythical, of the Empire’s early history, the great charismatic leaders who built it, their heroic deeds, their inordinately long lifespans. There is a religious text, too, that I value, though I have grave doubts about the existence of the gods. But for me the choice volume of our library is the one called<emphasis> The Register of Strange Things Beyond the Ranges,</emphasis> a thousand-year-old account of the natural wonders to be found in the outer reaches of the Empire’s great expanse. Only half the book remains to us now—perhaps one of my comrades ripped pages out to use as kindling, once upon a time—but I cherish that half, and read it constantly, even though I know it virtually by heart by this time.</p>
+   <p>Wendrit likes me to read to her. How much of what she hears she is capable of understanding, I have no idea: she is a simple soul, as all her people are. But I love the way she turns her big violet-hued eyes toward me as I read, and sits in total attention.</p>
+   <p>I read to her of the Gate of Ghosts, telling her of the customs shed there that spectral phantoms guard: “Ten men go out; nine men return.” I read to her of the Stones of Shao, two flat-sided slabs flanking a main highway that on a certain day every ten years would come crashing together, crushing any wayfarers who happened to be passing through just then, and of the bronze Pillars of King Mai, which hold the two stones by an incantation that forbids them ever to move again. I read to her of the Mountain of a Thousand Eyes, the granite face of which is pockmarked with glossy onyx boulders that gleam down upon passersby like stern black eyes. I tell her of the Forest of Cinnamon, and of the Grotto of Dreams, and of the Place of Galloping Clouds. Were such places real, or simply the fantasies of some ancient spinner of tall tales? How would I know, I who spent my childhood and youth at the capital, and have passed the rest of my years here at this remote desert fort, where there is nothing to be seen but sandy yellow soil, and twisted shrubs, and little scuttering scorpions that run before our feet? But the strange places described in<emphasis> The Register of Strange Things Beyond the Ranges</emphasis> have grown more real to me in these latter days than the capital itself, which has become in my mind a mere handful of vague and fragmentary impressions. So I read with conviction, and Wendrit listens in awe, and when I weary of the wonders of the<emphasis> Register,</emphasis> I put it aside and take her hand and lead her to my bed, and caress her soft pale-green skin and kiss the tips of her small round breasts, and so we pass another night.</p>
+   <p>In those quiet days that followed our foray, I thought often of the man Sergeant had killed. In the days when we fought battles here, I killed without compunction, five, ten, twenty men at a time, not exactly taking pleasure in it, but certainly feeling no guilt. But the killing in those days was done at a decent distance, with rifles or heavy guns, for we still had ammunition then and our rifles and guns were still in good repair. It was necessary now in our forays against the occasional spies who approached the fort to kill with spears or knives, and to kill at close range feels less like a deed of warfare to me and more like murder.</p>
+   <p>My mind went back easily to those battles of yesteryear: the sound of the sentry’s alarm, the first view of the dark line of enemy troops on the horizon, the rush to gather our weapons and start our vehicles. And out we would race through the portcullis to repel the invaders, rushing to take up our primary defensive formation, then advancing in even ranks that filled the entire gap in the hills, so that when the enemy entered that deadly funnel we could fall upon them and slaughter them. It was the same thing every time. They came; we responded; they perished. How far they must have traveled to meet their dismal deaths in our dreary desert! None of us had any real idea how far away the country of the enemy actually was, but we knew it had to be a great distance to the north and west, just as our own country is a great distance to the south and east. The frontier that our own outpost defends lies on the midpoint between one desert and another. Behind us is the almost infinite terrain of sparse settlements that eventually culminates in the glorious cities of the Empire. Before us are equally interminable wastes that give way, eventually, to the enemy homeland itself. For one nation to attack the other, it must send its armies far across an uncharted and unfriendly nothingness. Which our enemy was willing to do, the gods only knew why, and again and again their armies came, and again and again we destroyed them in the fine frenzy of battle. That was a long time ago. We were not much more than boys then. But finally the marching armies came no more, and the only enemies we had to deal with were those few infrequent spies or perhaps stragglers whom Seeker pinpointed for us, and whom we went out and slew at close range with our knives and spears, looking into their frosty blue eyes as we robbed them of their lives.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Seeker is in a bad way. He can go from one day to the next without saying a word. He still heads up to his watchtowers almost every morning, but he returns from his vigils in a black cloak of gloom and moves through our midst in complete silence. We know better than to approach him at such times, because, though he is a man of no great size and strength, he can break out in savage fury sometimes when his depressions are intruded upon. So we let him be; but as the days pass and his mood grows ever darker, we fear some sort of explosion.</p>
+   <p>One afternoon I saw him speaking with Captain out on the rooftop terrace. It appeared that Captain had initiated the conversation, and that Seeker was answering Captain’s questions with the greatest reluctance, staring down at his boots as he spoke. But then Captain said something that caused Seeker to react with surprising animation, looking up, gesticulating. Captain shook his head. Seeker pounded his fists together. Captain made a gesture of dismissal and walked away.</p>
+   <p>What they were saying to each other was beyond all guessing. And beyond all asking, too, for if anyone is more opaque than Seeker, it is Captain, and while it is at least possible at certain times to ask Seeker what is on his mind, making such an inquiry of Captain is inconceivable.</p>
+   <p>In recent days, Seeker has taken to drinking with us after dinner. That is a new thing for him. He has always disliked drinking. He says he despises the stuff we make that we call beer and wine and brandy. That is reasonable enough, because we make our beer from the niggardly sour grain of a weed that grows by the river, and we wrest our thin wine and our rough brandy from the bitter gray fruits of a different weed, and they are pitiful products indeed to anyone who remembers the foaming beers of the capital and the sweet vintages of our finest wine-producing districts. But we have long since exhausted the supplies of such things that we brought with us, and, of course, no replenishments from home ever come, and, since in this somber landscape there is comfort to be had from drinking, we drink what we can make. Not Seeker, no. Not until this week.</p>
+   <p>Now he drinks, though, showing no sign of pleasure, but often extending his glass for another round. And at last one night when he has come back with his glass more than once, he breaks his long silence.</p>
+   <p>“They are all gone,” he says, in a voice like the tolling of a cracked bell.</p>
+   <p>“Who are?” Provisioner asks. “The scorpions? I saw three scorpions only yesterday.” Provisioner is well along in his cups, as usual. His reddened, jowly face creases in a broad toothy smile, as if he has uttered the cleverest of witticisms.</p>
+   <p>“The enemy,” says Seeker. “The one we killed—he was the last one. There’s nobody left. Do you know how empty I feel, going up to the towers to listen, and hearing nothing? As if I’ve been hollowed out inside. Can you understand what sort of feeling that is? Can you? No, of course you can’t. What would any of you know?” He stares at us in agony. “The silence…the silence…”</p>
+   <p>Nobody seems to know how quite to respond to that, so we say nothing. And Seeker helps himself to yet another jigger of brandy, and full measure at that. This is alarming. The sight of Seeker drinking like this is as strange as the sight of a torrential downpour of rain would be.</p>
+   <p>Engineer, who is probably the calmest and most reasonable of us, says, “Ah, man, can you not be a bit patient? I know you want to do your task. But more of them will come. Sooner or later, there’ll be another, and another after that. Two weeks, three, six, who knows? But they’ll come. You’ve been through spells like this before.”</p>
+   <p>“No. This is different,” says Seeker sullenly. “But what would you know?”</p>
+   <p>“Easy,” Engineer says, laying his strong hand across the back of Seeker’s frail wrist. “Go easy, man. What do you mean, ‘this is different’?”</p>
+   <p>Carefully, making a visible effort at self-control, Seeker says, “All the other times when we’ve gone several weeks between incursions, I’ve always felt a low inner hum, a kind of subliminal static, a barely perceptible mental pressure, that tells me there are at least a few enemies out there somewhere, a hundred miles away, five hundred, a thousand. It’s just a kind of quiet buzz. It doesn’t give me any directionality. But it’s there, and sooner or later the signal becomes stronger, and then I know that a couple of them are getting close to us, and then I get directionality and I can lead us to them, and we go out and kill them. It’s been that way for years, ever since the real battles stopped. But now I don’t get anything. Not a thing. It’s absolutely silent in my head. Which means that either I’ve lost my power entirely, or else there aren’t any enemies left within a thousand miles or more.”</p>
+   <p>“And which is it that you think is so?”</p>
+   <p>Seeker scans us all with a haggard look. “That there are no enemies out there anymore. Which means that it is pointless to remain here. We should pack up, go home, make some sort of new lives for ourselves within the Empire itself. And yet we have to stay, in case they come. I must stay, because this is the only task that I know how to perform. What sort of new life could I make for myself back there? I never had a life. This is my life. So my choice is to stay here to no purpose, performing a task that does not need to be performed any longer, or to return home to no existence. Do you see my predicament?” He is shivering. He reaches for the brandy, pours yet another drink with a trembling hand, hastily downs it, coughs, shudders, lets his head drop to the tabletop. We can hear him sobbing.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>That night marks the beginning of the debate among us. Seeker’s breakdown has brought into the open something that has been on my own mind for some weeks now, and which Armorer, Weaponsmaster, Quartermaster, and even dull-witted Sergeant have been pondering also, each in his own very different way.</p>
+   <p>The fact is unanswerable that the frequency of enemy incursions has lessened greatly in the past two years, and when they do come, every five or six or ten weeks apart, they no longer come in bands of a dozen or so, but in twos or threes. This last man whom Sergeant slew by the three little hills had come alone. Armorer has voiced quite openly his notion that just as our own numbers have dwindled to next to nothing over the years, the enemy confronting us in this desert must have suffered great attrition, too, and like us, has had no reinforcement from the home country, so that only a handful of our foes remain—or, perhaps, as Seeker now believes, none at all. If that is true, says Armorer, who is a wry and practical man, why do we not close up shop and seek some new occupation for ourselves in some happier region of the Empire?</p>
+   <p>Sergeant, who loves the excitement of warfare, for whom combat is not an ugly necessity but an act of passionate devotion, shares Armorer’s view that we ought to move along. It is not so much that inactivity makes him restless—<emphasis>restlessness</emphasis> is not a word that really applies to a wooden block of a man like Sergeant—but that, like Seeker, he lives only to perform his military function. Seeker’s function is to seek and Sergeant’s function is to kill, and Seeker now feels that he will seek forever here and nevermore find, and Sergeant, in his dim way, believes that for him to stay here any longer would be a waste of his capability. He, too, wants to leave.</p>
+   <p>As does Weaponsmaster, who has had no weapons other than knives and spears to care for since our ammunition ran out and thus passes his days in a stupefying round of makework, and Quartermaster, who once presided over the material needs of ten thousand men and now, in his grizzled old age, lives the daily mockery of looking after the needs of just eleven. Thus we have four men—Armorer, Sergeant, Weaponsmaster, Quartermaster—fairly well committed to bringing the life of this outpost to an end, and one more, Seeker, who wants both to go and to stay. I am more or less of Seeker’s persuasion here myself, aware that we are living idle and futile lives at the fort but burdened at the same time with a sense of obligation to my profession that leads me to regard an abandonment of the fort as a shameful act. So I sway back and forth. When Armorer speaks, I am inclined to join his faction. But when one of the others advocates remaining here, I drift back in that direction.</p>
+   <p>Gradually it emerges in our circular nightly discussion that the other four of us are strongly committed to staying. Engineer enjoys his life here: there are always technical challenges for him, a new canal to design, a parapet in need of repair, a harness to mend. He also is driven by a strong sense of duty and believes it is necessary to the welfare of the Empire that we remain here. Stablemaster, less concerned about duty, is fond of his beasts and similarly has no wish to leave. Provisioner, who is rarely given to doubts of any sort, would be content to remain so long as our supply of food and drink remains ample, and that appears to be the case. And Signalman still believes, Seeker’s anguish to the contrary, that the desert beyond the wall is full of patient foes who will swarm through the gap and march against the capital like ravening beasts the moment we relinquish the fort.</p>
+   <p>Engineer, who is surely the most rational of us, has raised another strong point in favor of staying. We have scarcely any idea of how to get home. Twenty years ago we were brought here in a great convoy, and who among us bothered to take note of the route we traversed? Even those who might have paid attention to it then have forgotten almost every detail of the journey. But we do have a vague general idea of the challenge that confronts us. Between us and the capital lies, first of all, a great span of trackless dry wasteland and then forested districts occupied by autonomous savage tribes. Uncharted and, probably, well-nigh impenetrable tropical jungles are beyond those, and no doubt we would encounter a myriad other hazards. We have no maps of the route. We have no working communications devices. “If we leave here, we might spend the rest of our lives wandering around hopelessly lost in the wilderness,” Engineer says. “At least here we have a home, women, something to eat, and a place to sleep.”</p>
+   <p>I raise another objection. “You all speak as though this is something we could just put to a vote. ‘Raise hands, all in favor of abandoning the fort.’ ”</p>
+   <p>“If we did take a vote,” Armorer says, “We’d have a majority in favor of getting out of here. You, me, Sergeant, Quartermaster, Weaponsmaster, Seeker—that’s six out of eleven, even if Captain votes the other way.”</p>
+   <p>“No. I’m not so sure I’m with you. I don’t think Seeker is, either. Neither of us has really made up his mind.” We all looked toward Seeker, but Seeker was asleep at the table, lost in winy stupor. “So at best we’re equally divided right now, four for leaving, four for staying, and two undecided. But in any case this place isn’t a democracy and how we vote doesn’t matter. Whether we leave the fort is something for Captain to decide, and Captain alone. And we don’t have any idea what his feelings are.”</p>
+   <p>“We could ask him,” Armorer suggests.</p>
+   <p>“Ask my elbow,” Provisioner says, guffawing. “Who wants to ask Captain anything? The man who does will get a riding crop across the face.”</p>
+   <p>There is general nodding around the table. We all have tasted Captain’s unpredictable ferocity.</p>
+   <p>Quartermaster says, “If we had a majority in favor of going home, we could all go to him and tell him how we feel. He won’t try to whip us all. For all we know, he might even tell us that he agrees with us.”</p>
+   <p>“But you don’t have a majority,” Engineer points out.</p>
+   <p>Quartermaster looks toward me. “Come over to our side, Surveyor. Surely you see there’s more merit in our position than in theirs. That would make it five to four for leaving.”</p>
+   <p>“And Seeker?” Engineer asks. “When he sobers up, what if he votes the other way? That would make it a tie vote again.”</p>
+   <p>“We could ask Captain to break the tie, and that would settle the whole thing,” Armorer says.</p>
+   <p>That brings laughter from us all. Captain is very sensitive to anything that smacks of insubordination. Even the dullest of us can see that he will not react well to hearing that we are trying to determine a serious matter of policy by majority vote.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>I lie awake for hours that night, replaying our discussion in my mind. There are strong points on both sides. The idea of giving up the fort and going home has great appeal. We are all getting along in years; at best each of us has ten or fifteen years left to him, and do I want to spend those years doing nothing but hunting water-pigs in the river and toiling over our scrawny crops and rereading the same handful of books? I believe Seeker when he says that the man we killed a few weeks ago was the last of the enemy in our territory.</p>
+   <p>On the other hand, there is the question of duty. What are we to say when we show up in the capital? Simply announce that by our own authority we have abandoned the outpost to which we have devoted our lives, merely because in our opinion there is no further need for us to stay on at it? Soldiers are not entitled to opinions. Soldiers who are sent to defend a frontier outpost have no option but to defend that outpost until orders to the contrary are received.</p>
+   <p>To this argument I oppose another one, which is that duty travels both ways. We might be abandoning our fort, an improper thing for soldiers to be doing, but is it not true that the Empire has long ago abandoned us? There has been no word from home for ages. Not only have we had no reinforcements or fresh supplies from the Empire, but there has not been so much as an inquiry. They have forgotten we exist. What if the war ended years ago and nobody at the capital has bothered to tell us that? How much do we owe an Empire that does not remember our existence?</p>
+   <p>And, finally, there is Engineer’s point that going home might be impossible anyway, for we have no maps, no vehicles, no clear idea of the route we must follow, and we know that we are an almost unimaginable distance from any civilized district of the Empire. The journey will be a terrible struggle, and we may very well perish in the course of it. For me, in the middle of the night, that is perhaps the most telling point of all.</p>
+   <p>I realize, as I lie there contemplating these things, that Wendrit is awake beside me, and that she is weeping.</p>
+   <p>“What is it?” I asked. “Why are you crying?”</p>
+   <p>She is slow to answer. I can sense the troubled gropings of her mind. But at length she says, between sobs, “You are going to leave me. I heard things. I know. You will leave and I will be alone.”</p>
+   <p>“No,” I tell her, before I have even considered what I am saying. “No, that isn’t true. I won’t leave. And if I do, I’ll take you with me. I promise you that, Wendrit.” And I pull her into my arms and hold her until she is no longer sobbing.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>I awaken knowing that I have made my decision, and it is the decision to go home. Along with Armorer, Sergeant, Weaponsmaster, and Stablemaster, I believe now that we should assemble whatever provisions we can, choose the strongest of our beasts to draw our carts, and, taking our women with us, set out into the unknown. If the gods favor our cause, we will reach the Empire eventually, request retirement from active duty, and try to form some sort of new lives for ourselves in what no doubt is a nation very much altered from the one we left behind more than twenty years ago.</p>
+   <p>That night, when we gather over our brandy, I announce my conversion to Armorer’s faction. But Seeker reveals that he, too, has had an epiphany in the night, which has swung him to the other side: weak and old as he is, he fears the journey home more than he does living out the rest of his life in futility at the fort. So we still are stalemated, now five to five, and there is no point in approaching Captain, even assuming that Captain would pay the slightest attention to our wishes.</p>
+   <p>Then there is an event that changes everything. It is the day of our weekly pig-hunt, when four or five of us don our high boots and go down to the river with spears to refresh our stock of fresh meat. The water-pigs that dwell in the river are beasts about the size of cattle, big sleek purple things with great yellow tusks, very dangerous when angered but also very stupid. They tend to congregate just upriver from us, where a bend in the flow creates a broad pool thick with water-plants, on which they like to forage. Our hunting technique involves cutting one beast out of the herd with proddings of our spears and moving him downriver, well apart from the others, so that we can kill him in isolation, without fear of finding ourselves involved in a chaotic melee with seven or eight furious pigs snapping at us from all sides at once. The meat from a single pig will last the eleven of us a full week, sometimes more.</p>
+   <p>Today the hunting party is made up of Provisioner, Signalman, Weaponsmaster, Armorer, and me. We are all skilled hunters and work well together. As soon as the night’s chill has left the air, we go down to the river and march along its banks to the water-pig pool, choose the pig that is to be our prey, and arrange ourselves along the bank so that we will be in a semicircular formation when we enter the water. We will slip between the lone pig and the rest of his fellows and urge him away from them, and when we think it is safe to attack, we will move in for the kill.</p>
+   <p>At first everything goes smoothly. The river is hip-deep here. We form our arc, we surround our pig, we nudge him lightly with the tips of our spears. His little red-rimmed eyes glower at us in fury, and we can hear the low rumblings of his annoyance, but the half-submerged animal pulls back from the pricking without attempting to fight, and we prod him twenty, thirty, forty feet downstream, toward the killing-place. As usual, a few Fisherfolk have gathered on the bank to watch us, though there is, as ever, a paradoxical incuriosity about their bland stares.</p>
+   <p>And then, catastrophe. “Look out!” cries Armorer, and in the same moment I become aware of the water churning wildly behind me, and I see two broad purple backs breaching the surface of the river, and I realize that this time other pigs—at least a couple, maybe more, who knows?—have followed on downstream with our chosen one and intend to defend their grazing grounds against our intrusion. It is the thing we have always dreaded but never experienced, the one serious danger in these hunts. The surface of the water thrashes and boils. We see pigs leaping frenetically on all sides of us. The river is murky at best, but now, with maddened water-pigs snorting and snuffling all about us, we have no clear idea of what is happening, except that we have lost control of the situation and are in great jeopardy.</p>
+   <p>“Out of the water, everybody!” Weaponsmaster yells, but we are already scrambling for the riverbank. I clamber up, lean on my spear, catch my breath. Weaponsmaster and Armorer stand beside me. Provisioner has gone to the opposite bank. But there is no sign of Signalman, and the river suddenly is red with blood, and great yellow-tusked pig-snouts are jutting up everywhere, and then Signalman comes floating to the surface, belly upward, his body torn open from throat to abdomen.</p>
+   <p>We carry him back borne on our shoulders, like a fallen hero. It is our first death in some years. Somehow we had come to feel, in the time that has elapsed since that one, that we eleven who still remain would go on and on together forever, but now we know that that is not so. Weaponsmaster takes the news to Captain and reports back to us that that stony implacable man had actually seemed to show signs of real grief upon hearing of Signalman’s death. Engineer and Provisioner and I dig the grave, and Captain presides over the service, and for several days there is a funereal silence around the fort.</p>
+   <p>Then, once the shock of the death has begun to ebb a little, Armorer raises the point that none of us had cared to mention openly since the event at the river. Which is, that with Signalman gone, the stalemate has been broken. The factions stand now at five for setting out for home, four for remaining indefinitely at the fort. And Armorer is willing to force the issue on behalf of the majority by going to Captain and asking whether he will authorize an immediate retreat from the frontier.</p>
+   <p>For hours, there is an agitated discussion, verging sometimes into bitterness and rage. We all recognize that it must be one way or another, that we cannot divide: a little group of four or five would never be able to sustain itself at the fort, nor would the other group of about the same size have any hope of success in traversing the unknown lands ahead. We must all stay together or assuredly we will all succumb; but that means that the four who would remain must yield to the five who wish to leave, regardless of their own powerful desires in the matter. And the four who would be compelled to join the trek against their wishes are fiercely resentful of the five who insist on departure.</p>
+   <p>In the end, things grow calmer and we agree to leave the decision to Captain, in whose hands it belongs anyway. A delegation of four is selected to go to him: Engineer and Stablemaster representing those who would stay, and Armorer and me to speak for the other side.</p>
+   <p>Captain spends most of his days in a wing of the fort that the rest of us rarely enter. There, at a huge ornate desk in an office big enough for ten men, he studies piles of documents left by his predecessors as commanding officer, as though hoping to learn from the writings of those vanished colonels how best to carry out the responsibilities that the vagaries of time have placed upon his shoulders. He is a brawny, dour-faced man, thin-lipped and somber-eyed, with dense black eyebrows that form a single forbidding line across his forehead, and even after all these years he is a stranger to us all.</p>
+   <p>He listens to us in his usual cold silence as we set forth the various arguments: Seeker’s belief that there are no more enemies for us to deal with here, Armorer’s that we are absolved of our duty to the Empire by its long neglect of us, Engineer’s that the journey home would be perilous to the point of foolhardiness, and Signalman’s, offered on his behalf by Stablemaster, that the enemy is simply waiting for us to go and then will launch its long-awaited campaign of conquest in Imperial territory. Eventually we begin to repeat ourselves and realize that there is nothing more to say, though Captain has not broken his silence by so much as a single syllable. The last word is spoken by Armorer, who tells Captain that five of us favor leaving, four remaining, though he does not specify who holds which position.</p>
+   <p>Telling him that strikes me as a mistake. It implies—rightly—that a democratic process has gone on among us, and I expect Captain to respond angrily to the suggestion that any operational issue here can be decided, or even influenced, by a vote of the platoon. But there is no thunderstorm of wrath. He sits quietly, still saying nothing, for an almost unendurable span of time. Then he says, in a surprisingly moderate tone, “Seeker is unable to pick up any sign of enemy presence?” He addresses the question to Engineer, whom, apparently, he has correctly identified as one of the leaders of the faction favoring continued residence at the fort.</p>
+   <p>“This is so,” Engineer replies.</p>
+   <p>Captain is silent once again. But finally he says, to our universal amazement, “The thinking of those who argue for withdrawal from the frontier is in line with my own. I have considered for some time now that our services in this place are no longer required by the Empire, and that if we are to be of use to the country at all, we must obtain reassignment elsewhere.”</p>
+   <p>It is, I think, the last thing any of us had expected. Armorer glows with satisfaction. Engineer and Stablemaster look crestfallen. I, ambivalent even now, simply look at Captain in surprise.</p>
+   <p>Captain goes on, “Engineer, Stablemaster, make plans for our departure at the soonest possible date. I stipulate one thing, though: We go as a group, with no one to remain behind, and we must stay together as one group throughout what I know will be a long and arduous journey. Anyone who attempts to leave the group will be considered a deserter and treated accordingly. I will request that you all take an oath to that effect.”</p>
+   <p>That is what we had agreed among ourselves to do anyway, so there is no difficulty about it. Nor do our four recalcitrants indicate any opposition to the departure order, though Seeker is plainly terrified of the dangers and stress of the journey. We begin at once to make our plans for leaving.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>It turns out that we do have some maps of the intervening territory after all. Captain produces them from among his collection of documents, along with two volumes of a chronicle of our journey from the capital to the frontier that the first Colonel had kept. He summons me and gives me this material, ordering me to consult it and devise a plan of route for our journey.</p>
+   <p>But I discover quickly that it is all useless. The maps are frayed and cracked along their folds, and such information as they once might have held concerning the entire center of the continent has faded into invisibility. I can make out a bold star-shaped marker indicating the capital down in the lower right-hand corner, and a vague ragged line indicating the frontier far off to the left, and just about everything between is blank. Nor is the old Colonel’s chronicle in any way helpful. The first volume deals with the organization of the expeditionary force and the logistical problems involved in transporting it from the capital to the interior. The second volume that we have, which is actually the third of the original three, describes the building of the fort and the initial skirmishes with the enemy. The middle volume is missing, and that is the one, I assume, that speaks of the actual journey between the capital and the frontier.</p>
+   <p>I hesitate to tell Captain this, for he is not one who receives bad news with much equanimity. Instead I resolve that I will do my best to improvise a route for us, taking my cues from what we find as we make our way to the southeast. And so we get ourselves ready, choosing our best wagons and our sturdiest steeds and loading them with tools and weapons and with all we can carry by way of provisions: dried fruit and beans, flour, casks of water, cartons of preserved fish, parcels of the air-dried meat that Provisioner prepares each winter by laying out strips of pig-flesh in the sun. We will do as we can for fresh meat and produce on the march.</p>
+   <p>The women placidly accept the order to accompany us into the wilderness. They have already crossed over from their Fisherfolk lives to ours, anyway. There are only nine of them, for Seeker has never chosen to have one, and Captain has rarely shown more than fitful interest in them. Even so we have one extra: Sarkariet, Signalman’s companion. She has remained at the fort since Signalman’s death and says she has no desire to return to her village, so we take her along.</p>
+   <p>The day of our departure is fair and mild, the sun warm but not hot, the wind gentle. Perhaps that is a good omen. We leave the fort without a backward glance, going out by way of the eastern gate and descending to the river. A dozen or so of the Fisherfolk watch us in their blank-faced way as we cross the little wooden bridge upstream of their village. Once we are across, Captain halts our procession and orders us to destroy the bridge. From Engineer comes a quick grunt of shock: the bridge was one of his first projects, long ago. But Captain sees no reason to leave the enemy any easy path eastward, should the enemy still be lurking somewhere in the hinterlands. And so we ply our axes for half a morning until the bridge goes tumbling down into the riverbed.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>We have never had any reason in the past twenty years to venture very far into the districts east or south of the fort, but we are not surprised to find them pretty much the same as the region north and west of the fort that we have patrolled so long. That is, we are in a dry place of pebbly yellowish soil, with low hills here and there, gnarled shrubs, tussocks of saw-bladed grass. Now and again some scrawny beast scampers quickly across our path, or we hear the hissing of a serpent from the underbrush, and solitary melancholy birds sometimes go drifting high overhead, cawing raucously, but by and large the territory is deserted. There is no sign of water all the first day, nor midway through the second, but that afternoon Seeker reports that he detects the presence of Fisherfolk somewhere nearby, and before long we reach a straggling little stream that is probably another fork of the river whose other tributary runs close below our fort. On its farther bank we see a Fisherfolk camp, much smaller than the village on the banks of our river.</p>
+   <p>Wendrit and the other women become agitated at the sight of it. I ask her what the matter is, and she tells me that these people are ancient enemies of her people, that whenever the two tribes encounter each other, there is a battle. So even the passive, placid Fisherfolk wage warfare among themselves! Who would have thought it? I bring word of this to Captain, who looks untroubled. “They will not come near us,” he says, and this proves to be so. The river is shallow enough to ford; and the strange Fisherfolk gather by their tents and stand in silence as we pass by. On the far side we replenish our water-casks.</p>
+   <p>Then the weather grows unfriendly. We are entering a rocky, broken land, a domain of sandstone cliffs, bright red in color and eroded into jagged, fanciful spires and ridges, and here a hard, steady wind blows out of the south through a gap in the hills into our faces, carrying a nasty freight of tiny particles of pinkish grit. The sun now is as red as new copper in that pinkish sky, as though we have a sunset all day long. To avoid the sandstorm that I assume will be coming upon us, I swing the caravan around to due east, where we will be traveling along the base of the cliffs and perhaps will be sheltered from the worst of the wind. In this I am incorrect, because a cold, inexorable crosswind arises abruptly, bringing with it out of the north the very sandstorm that I had hoped to avoid, and we find ourselves pinned down for a day and a half just below the red cliffs, huddling together miserably with our faces masked by scarves. The wind howls all night; I sleep very badly. At last it dies down and we hurry through the gap in the cliffs and resume our plodding southeastward march.</p>
+   <p>Beyond, we find what is surely a dry lakebed, a broad flat expanse covered with a sparse incrustation of salt that glitters in the brutal sunlight like newly fallen snow. Nothing but the indomitable saw grass grows here, and doubtless the lake has been dry for millennia, for there is not even a skeletal trace of whatever vegetation, shrubs, and even trees might have bordered its periphery in the days when there was water here. We are three days crossing this dead lake. Our supply of fresh water is running troublesomely low already, and we have exhausted all of our fresh meat, leaving only the dried stuff that increases our thirst. Nor is there any game to hunt here, of course.</p>
+   <p>Is this what we are going to have to face, week after week, until eventually we reach some kinder terrain? The oldest men, Seeker and Quartermaster, are showing definite signs of fatigue, and the women, who have never been far from their river for even a day, seem fretful and withdrawn. Clearly dismayed and even frightened, they whisper constantly among themselves in the Fisherfolk language that none of us has ever bothered to learn, but draw away whenever we approach. Even our pack animals are beginning to struggle. They have had little to eat or drink since we set out, and the effects are only too apparent. They snap listlessly at the tufts of sharp gray grass and look up at us with doleful eyes, as though we have betrayed them.</p>
+   <p>The journey has only just begun, and already I am beginning to regret it.</p>
+   <p>One evening, when we are camped at some forlorn place near the farther end of the lake, I confess my doubts to Captain. Since he is our superior officer and I am the officer who is leading us on our route, I have come to assume some sort of equality of rank between us that will allow for confidential conversations. But I am wrong. When I tell him that I have started to believe that this enterprise may be beyond our powers of endurance, he replies that he has no patience with cowards, and turns his back on me. We do not speak again in the days that follow.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>There are indications of the sites of ancient villages in the region beyond, where the river that fed that dry lake must once have flowed. There is no river here now, though my practiced eye detects the faint curves of its prehistoric route, and the fragmentary ruins of small stone settlements can be seen on the ledges above what once were its banks. But nowadays all is desert here. Why did the Empire need us to defend the frontier, when there is this gigantic buffer zone of desert between its rich, fertile territories and the homeland of the enemy?</p>
+   <p>Later we come to what must have been the capital city of this long-abandoned province, a sprawling maze of crumbled stone walls and barely comprehensible multi-roomed structures. We find some sort of temple sanctuary where devilish statues still stand, dark stone idols with a dozen heads and thirty arms, each one grasping the stump of what must have been a sword. Carved big-eyed snakes twine about the waists of these formidable forgotten gods. The scholars of our nation surely would wish to collect these things for the museums of the capital, and I make a record of our position, so that I can file a proper report for them once we have reached civilization. But by now I have arrived at serious doubt that we ever shall.</p>
+   <p>I draw Seeker aside and ask him to cast his mind forth in the old way and see if he can detect any intimation of inhabited villages somewhere ahead.</p>
+   <p>“I don’t know if I can,” he says. He is terribly emaciated, trembling, pale. “It takes a strength that I don’t think I have anymore.”</p>
+   <p>“Try. Please. I need to know.”</p>
+   <p>He agrees to make the effort, and goes into his trance, and I stand by, watching, as his eyeballs roll up into his head and his breath comes in thick, hoarse bursts. He stands statue-still, utterly motionless for a very long while. Then, gradually, he returns to normal consciousness, and as he does so, he begins to topple, but I catch him in time and ease him to the ground. He sits blinking for a time, drawing deep breaths, collecting his strength. I wait until he seems to have regained himself.</p>
+   <p>“Well?”</p>
+   <p>“Nothing. Silence. As empty ahead as it is behind.”</p>
+   <p>“For how far?” I ask.</p>
+   <p>“How do I know? There’s no one there. That’s all I can say.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>We are rationing water very parsimoniously and we are starting to run short of provisions, too. There is nothing for us to hunt, and none of the vegetation, such as it is, seems edible. Even Sergeant, who is surely the strongest of us, now looks hollow-eyed and gaunt, and Seeker and Quartermaster seem at the verge of being unable to continue. From time to time we find a source of fresh water, brackish but at any rate drinkable, or slay some unwary wandering animal, and our spirits rise a bit, but the environment through which we pass is unremittingly hostile and I have no idea when things will grow easier for us. I make a show of studying my maps, hoping it will encourage the others to think that I know what I am doing, but the maps I have for this part of the continent are blank and I might just as well consult my wagon or the beasts that pull it as try to learn anything from those faded sheets of paper.</p>
+   <p>“This is a suicidal trek,” Engineer says to me one morning as we prepare to break camp. “We should never have come. We should turn back while we still can. At least at the fort we would be able to survive.”</p>
+   <p>“You got us into this,” Provisioner says, scowling at me. “You and your switched vote.” Burly Provisioner is burly no longer. He has become a mere shadow of his former self. “Admit it, Surveyor: We’ll never make it. It was a mistake to try.”</p>
+   <p>Am I supposed to defend myself against these charges? What defense can I possibly make?</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>A day later, with conditions no better, Captain calls the nine of us together and makes an astonishing announcement. He is sending the women back. They are too much of a burden on us. They will be given one of the wagons and some of our remaining provisions. If they travel steadily in the direction of the sunset, he says, they will sooner or later find their way back to their village below the walls of our fort.</p>
+   <p>He walks away from us before any of us can reply. We are too stunned to say anything, anyway. And how could we reply? What could we say? That we oppose this act of unthinkable cruelty and will not let him send the women to their deaths? Or that we have taken a new vote, and we are unanimous in our desire that all of us, not just the women, return to the fort? He will remind us that a military platoon is not a democracy. Or perhaps he will simply turn his back on us, as he usually does. We are bound on our path toward the inner domain of the Empire; we have sworn an oath to continue as a group; he will not release us.</p>
+   <p>“But he can’t mean it!” Stablemaster says. “It’s a death sentence for them!”</p>
+   <p>“Why should he care about that?” Armorer asks. “The women are just domestic animals to him. I’m surprised he doesn’t just ask us to kill them right here and now, instead of going to the trouble of letting them have some food for their trip back.”</p>
+   <p>It says much about how our journey has weakened us that none of us feels capable of voicing open opposition to Captain’s outrageous order. He confers with Provisioner and Stablemaster to determine how much of our food we can spare for them and which wagon to give them, and the conference proceeds precisely as though it is a normal order of business.</p>
+   <p>The women are unaware of the decision Captain has made. Nor can I say anything to Wendrit when I return to our tent. I pull her close against me and hold her in a long embrace, thinking that this is probably the last time.</p>
+   <p>When I step back and look into her eyes, my own fill with tears, and she stares at me in bewilderment. But how can I explain? I am her protector. There is no way to tell her that Captain has ordered her death and that I am prepared to be acquiescent in his monstrous decision.</p>
+   <p>Can it be said that it is possible to feel love for a Fisherfolk woman? Well, yes, perhaps. Perhaps I love Wendrit. Certainly it would cause me great pain to part from her.</p>
+   <p>The women will quickly lose their way as they try to retraverse the inhospitable desert lands that we have just passed through. Beyond doubt they will die within a few days. And we ourselves, in all likelihood, will be dead ourselves in a week or two as we wander ever onward in this hopeless quest for the settled districts of the Empire. I was a madman to think that we could ever succeed in that journey simply by pointing our noses toward the capital and telling ourselves that by taking one step after another we would eventually get there.</p>
+   <p>But there is a third way that will spare Wendrit and the other women, and my friends as well, from dying lonely deaths in these lonely lands. Sergeant had shown me, that day behind the three little hillocks north of the fort, how the thing is managed.</p>
+   <p>I leave my tent. Captain has finished his conference with Provisioner and Stablemaster and is standing off by himself to one side of our camp, as though he is alone on some other planet.</p>
+   <p>“Captain?” I say.</p>
+   <p>My blade is ready as he turns toward me.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Afterwards, to the shaken, astounded men, I say quietly, “I am Captain now. Is anyone opposed? Good.” And I point to the northwest, back toward the place of the serpent-wrapped stone idols, and the dry lakebed beyond, and the red cliffs beyond those. “We all know we won’t ever find the Empire. But the fort is still there. So come, then. Let’s break camp and get started. We’re going back. We’re going home.”</p>
+  </section>
+ </body>
+ <binary id="defenders_of_the_frontiers.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEPAPADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDz9nkjcbSR344xStcSYGXY+nNMbDMOp9KG
+HIAJ715bZ7kUKk0vaRvzqcXNztA81yPrUYUlQM1IE9KzubKIedO3Vmx70gllzw7A+xpSucAf
+nTCpXrmqTIcRWup4yHSWRXU5BDEEGuit9V1J7WENeTkFFzmQ+lcrKvG7B6V0enRM1pb4/wCe
+Yz+VZYh2SOnBL32XLR7iafDSHJ9eatzTTPN88jNt6HNRWkEouQEOzKn+HNWGsrgyHFww5/55
+iuSVS0T0UryGqZmAPmNj0zVi3jkbGWP51Lb6ddEf8fZ/79CtCz027YjF3j/tkK46le3U2Tt0
+K0UEueCfzq3bWk3B3NWhHpl2oH+mj/vyKtQ6deDpfD/vyK4J17/aE6j7EFvbTg5LsfxrQhin
+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
+mtPZWehKrcyP/9k=</binary>
+</FictionBook>
