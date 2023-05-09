@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+ <title-info>
+   <author>
+     <first-name>Антон</first-name>
+     <middle-name>Павлович</middle-name>
+     <last-name>Чехов</last-name>
+   </author>
+   <book-title>062) 1883 - Библиография</book-title>
+   <lang>ru</lang>
+ </title-info>
+ <document-info>
+   <author>
+     <first-name></first-name>
+     <last-name></last-name>
+   </author>
+   <program-used>htmlDocs2fb2</program-used>
+   <date value="2014-01-14">14.01.2014</date>
+   <id>53A194BB-45FB-4543-B819-A9B50396F0C3</id>
+   <version>1.0</version>
+ </document-info>
+</description>
+<body>
+<section>
+ <p>Вышли из печати и продаются новые книги:</p>
+ <p><emphasis>Об отмене пошлины на бамбуковые палки, вывозимые из Китая.</emphasis> Брошюра. Ц. 40 к.</p>
+ <p><emphasis>Искусственное разведение ежей.</emphasis> Для фабрикующих рукавицы. Соч. отставного прапорщика Раздавилова. Ц. 15 коп. Издание общедоступное.</p>
+ <p><emphasis>Путеводитель по Сибири и ее окраинам.</emphasis> С картой и портретом г. Юханцева*. Сод. I. Лучшие рестораны. II. Портные, каретники, куаферы. III. Адресы «этих дам». IV. Указатель богатых невест. V. Из записной книжки Юханцева (анекдоты, сценки, посвящения).</p>
+ <p><emphasis>Настольная книга для гг. интендантов и кассиров.</emphasis> Издание Буша и Макшеева. Ц. 3 р. 50 к.</p>
+ <p><emphasis>Есть ли в России деньги и где они?</emphasis> Соч. Рыкова. Ц. 1 р.</p>
+ <p><emphasis>Засаленный патриот.</emphasis> Ода. Посвящение самому себе. Соч. князя М. Е. Щерского*. Благонамеренные же благоволят высылать по 1 р. за экземпляр.</p>
+ <p><emphasis>Способ уловлять вселенную.</emphasis> Брошюра урядника Людоедова-Хватова. Ц. 60 к.</p>
+ <p> </p>
+ </section>
+</body>
+ 
+</FictionBook>

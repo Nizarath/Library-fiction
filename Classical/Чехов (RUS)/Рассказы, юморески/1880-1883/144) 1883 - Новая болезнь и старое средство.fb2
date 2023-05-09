@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose</genre>
+   <author>    
+    <first-name>Антон</first-name>
+    <last-name>Чехов</last-name>
+    <middle-name>Павлович</middle-name>
+   </author>
+   <book-title>144) 1883 - Новая болезнь и старое средство</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2007-06-11">2007-06-11</date>
+   <id>Mon Jun 11 00:17:46 2007</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Чехов Антон Павлович</p>
+<p>Новая болезнь и старое средство</p></title> 
+<section>
+<p>А.П.ЧЕХОВ </p>
+<p>НОВАЯ БОЛЕЗНЬ И СТАРОЕ СРЕДСТВО </p>
+<p>Сечение по своим симптомам аналогично премежающейся лихорадке (febris intermittens). Перед сечением больной бледен от спазма периферических сосудов. Зрачки его расширены. Нужно вообще заметить, что вид начальства раздражает вазомоторный центр и nervus oculomotoris. Больной чувствует озноб. Во время сечения мы замечаем повышение температуры и гиперестезию кожи. После сечения больной чувствует жар. Он весь в поту. </p>
+<p>На основании этой аналогии я советую учащимся перед уходом в училище принимать хинин. </p>
+</section>
+</body>
+</FictionBook>

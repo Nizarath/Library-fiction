@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Антон</first-name>
+    <middle-name>Павлович</middle-name>
+    <last-name>Чехов</last-name>
+   </author>
+   <book-title>011) 1881 - Петров день</book-title>
+   <date value="1881-01-01">1881</date>
+   <coverpage>
+    <image l:href="#_1000015260.jpg"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+   <sequence name="Рассказы"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Людмила</first-name>
+    <last-name>Трофимова</last-name>
+   </author>
+   <program-used>FB Tools</program-used>
+   <date value="2005-11-09">2005-11-09</date>
+   <src-url>http://ilibrary.ru/text/36/index.html</src-url>
+   <id>30D1F538-0ED9-4097-BD0A-39364CDF6B26</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>А.П. Чехов Полное собрание сочинений и писем в 30-ти томах. Сочинения. Том 1</book-name>
+   <publisher>Наука</publisher>
+   <city>Москва</city>
+   <year>1983</year>
+  </publish-info>
+  <custom-info info-type="">Права на этот электронный текст принадлежат Публичной электронной библиотеке (Евгению Пескину), 1994-1996 год. Разрешено свободное распространение при условии сохранения целостности текста (включая данную информацию). Разрешено свободное использование для некоммерческих целей при условии ссылки на источник. 
+Публичная Электронная Библиотека - товарный знак и знак обслуживания, принадлежащие Евгению Пескину. </custom-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Петров день</p>
+   </title>
+   <p id="AutBody_0DocRoot">Наступило утро желанного, давно снившегося дня, наступило — урааа, господа охотники!! — 29-е июня… Наступил день, в который забываются долги, жучки, дорогие харчи, тещи и даже молодые жены, — день, в который г. уряднику, запрещающему стрелять, можно показать двадцать кукишей…</p>
+   <p>Побледнели и затуманились звезды… Кое-где послышались голоса… Из деревенских труб повалил сизый, едкий дым. На серой колокольне показался не совсем еще проснувшийся пономарь и ударил к обедне… Послышалось храпенье растянувшегося под деревом ночного сторожа. Проснулись щуры, закопошились, залетали с одного конца сада на другой и подняли свое невыносимое, надоедливое чириканье… В терновнике запела иволга… Над людской кухней засуетились скворцы и удоды… Начался даровой утренний концерт…</p>
+   <p>К развалившемуся, живописно обросшему колючей крапивой крыльцу дома отставного гвардии корнета Егора Егорыча Обтемперанского подъехали две тройки. В доме и во дворе поднялась страшная кутерьма. Всё живущее вокруг Егора Егорыча заходило, забегало и застучало по всем лестницам, сараям и конюшням… Переменили одного коренного. У кучеров слетели с голов картузы, у лакея, Катькина прихвостня, засиял под носом красный фонарь, кухарок назвали «стервозами», послышалось имя сатаны и аггелов его… В пять минут тарантасы, наполнились коврами, полостями, кульками с провизией, ружейными чехлами.</p>
+   <p>— Готово-с! — пробасил Аввакум.</p>
+   <p>— Пожалуйте! Готово! — крикнул сладеньким голоском Егор Егорыч, и на крыльце показалась многочисленная публика. Первый вскочил в тарантас молодой доктор. За ним вполз архангельский мещанин Кузьма Больва, старичок в сапогах без каблуков, в рыжем цилиндре, с двадцатипятифунтовой двустволкой и с желто-зелеными пятнами на шее. Больва — плебей, но гг. помещики, из уважения к его преклонным летам (он родился в конце прошлого столетия) и уменью попадать в подброшенный двугривенный, не брезгуют его плебейством и берут с собой на охоту.</p>
+   <p>— Пожалуйте, ваше превосходительство! — обратился Егор Егорыч к маленькому седому толстячку в белом со светлыми пуговицами кителе и с аннинским крестом на шее. — Подвиньтесь, доктор!</p>
+   <p>Отставной генерал крякнул, стал одной ногой на подножку и, поддерживаемый Егором Егорычем, толкнул животом доктора и грузно уселся возле Больвы. За генералом вскочили генеральский щенок Тщетный и легавый Егора Егорыча, Музыкант.</p>
+   <p>— М-м-м… того, братец… Ваня! — обратился генерал к своему племяннику, юноше-гимназисту с длинной одностволкой через спину. — Ты можешь сесть здесь, возле меня. Иди сюда! Н-да… Вот здесь. Не шали, мой друг! Лошадь может испугаться!</p>
+   <p>Пустив еще раз в нос коренному табачного дыма, Ваня вскочил в тарантас, отодвинул Больву от генерала и, повертевшись, сел. Егор Егорыч перекрестился и сел рядом с доктором. На козлах, рядом с Аввакумом, примостился длинный и сухой преподаватель математики и физики в Ваниной гимназии, г. Манже.</p>
+   <p>Первый тарантас Наполнился. Началась нагрузка второго тарантаса.</p>
+   <p>— Готово! — крикнул Егор Егорыч, когда во второй тарантас, после долгих споров и беганья вокруг и около, поместились остальные восемь человек и три собаки.</p>
+   <p>— Готово! — крикнули гости.</p>
+   <p>— Ну? Итак, значит, трогать, ваше превосходительство? Господи благослови, — трогай, Аввакумка!</p>
+   <p>Первый тарантас покачнулся и тронулся с места. Второй, вмещавший в себе самых ярых охотников, покачнулся, отчаянно скрипнул, взял немного в сторону и, очутившись впереди первого, покатил к воротам. Охотники улыбнулись все разом и захлопали от восторга в ладоши. Все почувствовали себя на седьмом небе, но… злая судьба!.. не успели они выехать со двора, как случился скандал…</p>
+   <p>— Стой! Подожди! Стой!!! — раздался сзади троек пронзительный тенор.</p>
+   <p>Охотники оглянулись и побледнели. За тройками гнался невыносимейший в мире человек, известный всей губернии скандалист, брат Егора Егорыча, отставной капитан 2-го ранга Михей Егорыч… Он отчаянно махал руками. Тройки остановились.</p>
+   <p>— Что тебе? — спросил Егор Егорыч.</p>
+   <p>Михей Егорыч подбежал к тарантасу, стал на подножку и замахнулся на Егора Егорыча. Охотники зашумели.</p>
+   <p>— Что такое? — спросил покрасневший Егор Егорыч.</p>
+   <p>— То такое, — закричал Михей Егорыч, — что ты Иуда, скотина, свинья!.. Свинья, ваше превосходительство! Ты отчего не разбудил меня? Отчего ты не разбудил меня, осел, я тебя спрашиваю, подлеца этакого? Позвольте, господа… Я ничего… Я его только поучить хочу! Ты почему не разбудил меня? Не хочешь брать с собой? Я помешаю тебе? Напоил меня вчера вечером нарочно и думал, что я просплю до двенадцати часов! Каков молодец! Позвольте, ваше превосходительство… Я его только раз… смажу… Позвольте!</p>
+   <p>— Чего вы лезете? — крикнул генерал, растопыривая руки. — Разве не видите, что нет места? Вы уж слишком… позволяете…</p>
+   <p>— Напрасно ты бранишься, Михей, — сказал Егор Егорыч. — Я не разбудил тебя потому, что тебе незачем ехать с нами… Ты не умеешь стрелять. Зачем тебе ехать? Мешать? Ведь ты не умеешь стрелять!</p>
+   <p>— Не умею? Не умею я стрелять? — закричал Михей Егорыч так громко, что даже Больва заткнул уши. — Но, в таком случае, за каким чёртом доктор едет! Он тоже не умеет стрелять! Он лучше меня стреляет?</p>
+   <p>— Он прав, господа, — сказал доктор. — Я не умею стрелять, не умею ружья даже держать… Я терпеть не могу стрельбы… Я не знаю, зачем вы берете меня с собой… За каким дьяволом? Пусть он садится на мое место! Я остаюсь!.. Есть место, Михей Егорыч!</p>
+   <p>— Слышишь, слышишь? Зачем же ты его берешь?</p>
+   <p>Доктор поднялся с явным намерением вылезти из тарантаса. Егор Егорыч схватил доктора за фалду и потянул его вниз.</p>
+   <p>— Но… не рвите сюртука! Он тридцать рублей стоит… Пустите! И вообще, господа, я просил бы вас не беседовать со мной сегодня… Я не в духе и могу неприятностей наделать, сам того не желая. Пустите, Егор Егорыч! Садитесь на мое место, Михей Егорыч! Я спать пойду!</p>
+   <p>— Вы должны ехать, доктор! — сказал Егор Егорыч, не выпуская фалды. — Вы дали честное слово, что поедете!</p>
+   <p>— Это было вынужденное честное слово. Ну, для чего мне ехать, для чего?</p>
+   <p>— А для того, — запищал Михей Егорыч, — чтобы вы не остались с его женой! Вот для чего! Он ревнует к вам, доктор. Не езжайте, голубчик! Назло не езжайте! Ревнует, ей-богу ревнует!</p>
+   <p>Егор Егорыч густо покраснел и сжал кулаки.</p>
+   <p>— Эй, вы! — крикнули с другого тарантаса. — Михей Егорыч, будет вам ерундить! Идите сюда, нашлось место!</p>
+   <p>Михей Егорыч ехидно улыбнулся.</p>
+   <p>— А что, акула? — сказал он. — Чья взяла? Слышал? Нашлось место! Назло поеду! Поеду и буду мешать! Честное слово, буду мешать! Ни черта не убьешь! А вы, доктор, не езжайте. Пусть лопнет от ревности.</p>
+   <p>Егор Егорыч поднялся и потряс кулаками. Глаза его налились кровью.</p>
+   <p>— Негодяй! — сказал он, обращаясь к брату. — Ты не брат мне! Недаром прокляла тебя матушка покойница! Батюшка скончался во цвете лет чрез твое безнравственное поведение!</p>
+   <p>— Господа… — вмешался генерал. — Я полагаю… достаточно. Братья, рродные братья!</p>
+   <p>— Он родной осел, ваше превосходительство, а не брат! Не езжайте, доктор! Не езжайте!</p>
+   <p>— Трогай, чтобы чёрт побрал вас… А-а-а… Чёрт знает, что такое! Трогай! — крикнул генерал и ударил кулаком в спину Аввакума. — Тррогай!</p>
+   <p>Аввакум ударил по лошадям, и тройка тронулась с места. Во втором тарантасе писатель, капитан Кардамонов, взял себе на колени двух собак, а на их место усадил ретивого Михея Егорыча.</p>
+   <p>— Счастье его, что нашлось место! — сказал Михей Егорыч, усаживаясь в тарантасе, — а то бы я его… Опишите-ка этого разбойника, Кардамонов!</p>
+   <p>Кардамонов послал в прошлом году в «Ниву» статью под заглавием: «Интересный случай многоплодия среди крестьянского народонаселения», прочел в почтовом ящике неприятный для авторского самолюбия ответ, пожаловался соседям и прослыл писателем.</p>
+   <p>Согласно предначертанному плану действий, решено было ехать прежде всего на крестьянский сенокос, находящийся в семи верстах от имения Егора Егорыча, — ехать на перепелов. Приехавши на сенокос, охотники вылезли из тарантасов и разделились на две группы. Одна группа, имея во главе генерала и Егора Егорыча, направилась направо; другая, с Кардамоновым во главе, пошла налево. Больва отстал и пошел сам по себе. На охоте он любил тишину и молчание. Музыкант с лаем побежал вперед и через минуту согнал перепела. Ваня выстрелил и не попал.</p>
+   <p>— Высоко взял, чёрт возьми! — проворчал он.</p>
+   <p>Щенок Тщетный, взятый «приучаться», услышав первый раз в жизни выстрел, залаял и, поджав хвост, побежал к тарантасам. Манже выстрелил в жаворонка и попал.</p>
+   <p>— Нравится мне эта птичка! — сказал он, показывая доктору жаворонка.</p>
+   <p>— Проваливайте… — сказал тот. — Вообще я просил бы вас не беседовать со мною… Я сегодня не в духе. Отойдите от меня!</p>
+   <p>— Вы скептик, доктор!</p>
+   <p>— Я-то? Гм… А что значит скептик?</p>
+   <p>Манже задумался.</p>
+   <p>— Скептик значит человеко… человеко… нелюбец, — сказал он.</p>
+   <p>— Врете. Не употребляйте тех слов, которых вы не понимаете. Отойдите от меня! Я могу наделать неприятностей, сам того не желая… Я не в духе…</p>
+   <p>Музыкант сделал стойку. Генерал и Егор Егорыч побледнели и притаили дыхание.</p>
+   <p>— Я выстрелю! — прошептал генерал. — Я… я… позвольте! Вы во второй раз уж того…</p>
+   <p>Но не удалась стойка. Доктор от нечего делать пустил камешком в Музыканта и попал между ушей… Музыкант взвизгнул и подскочил. Генерал и Егор Его-рыч оглянулись. В траве послышался шорох и взлетел крупный стрепет. Во второй группе зашумели и указали на стрепета. Генерал, Манже и Ваня прицелились. Ваня выстрелил, у Манже осеклось… Поздно было! Стрепет полетел за курган и опустился в рожь.</p>
+   <p>— Полагаю, доктор, что… не время теперь шутить! — обратился генерал к доктору. — Не время-с!</p>
+   <p>— А?</p>
+   <p>— Не время теперь шутить.</p>
+   <p>— Я не шучу.</p>
+   <p>— Неловко, доктор! — заметил Егор Егорыч.</p>
+   <p>— Не брали бы… Кто вас просил брать меня? Впрочем… не желаю объясняться… Я не в духе сегодня…</p>
+   <p>Манже убил другого жаворонка. Ваня согнал молодого грача, выстрелил и не попал.</p>
+   <p>— Высоко взял, чёрт возьми! — проворчал он.</p>
+   <p>Послышались два подряд выстрела: Больва уложил за курганом своей тяжелой двустволкой двух перепелов и положил их в карман. Егор Егорыч согнал перепела и выстрелил. Подстреленная перепелка упала в траву. Торжествующий Егор Егорыч поднял ее и поднес генералу:</p>
+   <p>— В крылышко, ваше превосходительство! Жива еще-с!</p>
+   <p>— Н-да… Жива… Надо предать скорой смерти.</p>
+   <p>Сказавши это, генерал поднес перепелку ко рту и клыками перегрыз ей горло. Манже убил третьего жаворонка. Музыкант сделал другую стойку. Генерал сбросил с головы фуражку, навел ружье… «Пиль!» Взлетел крупный перепел, но… мерзавец доктор торчал как раз в области выстрела, почти перед дулом!</p>
+   <p>— Прочь! — крикнул генерал.</p>
+   <p>Доктор отскочил, генерал выстрелил, и, разумеется, дробь опоздала.</p>
+   <p>— Это низко, молодой человек! — крикнул генерал.</p>
+   <p>— Что такое? — спросил доктор.</p>
+   <p>— Вы мешаете! Чёрт вас просит мешать! По вашей милости я промахнулся! Чёрт знает что такое — из рук вон!</p>
+   <p>— Да вы-то чего кричите? Пфф… не боюсь! Я генералов не боюсь, ваше превосходительство, а в особенности отставных. Потише, пожалуйста!</p>
+   <p>— Удивительный человек! Ходит и мешает, ходит и мешает, — ангел выйдет из терпения!</p>
+   <p>— Не кричите, пожалуйста, генерал! Кричите вот на Манже! Он, кстати, боится генералов. Хорошему охотнику никто не помешает. Скажите лучше, что стрелять не умеете!</p>
+   <p>— Довольно-с! Вам слово — вы десять… Ваничка, дай-ка сюда пороховницу! — обратился генерал к Ване.</p>
+   <p>— Для чего ты пригласил на охоту этого бурбона? — спросил доктор Егора Егорыча.</p>
+   <p>— Нельзя, брат! — ответил Егор Егорыч. — Нельзя было не взять. Ведь я ему того… восемь тысяч… Э-хе-хе, братец! Не будь этих проклятых долгов…</p>
+   <p>Егор Егорыч не договорил и махнул рукою.</p>
+   <p>— Правда, что ты ревнуешь?</p>
+   <p>Егор Егорыч отвернулся и прицелился в высоко летевшего коршуна.</p>
+   <p>— Ты его потерял, молокосос! — раздался громовый голос генерала. — Ты потерял его! Он сто рублей стоит, поросенок!</p>
+   <p>Егор Егорыч подошел к генералу и осведомился, в чем дело. Оказалось, что Ваня потерял генеральский патронташ. Начались поиски за патронташем, и охота была прервана. Поиски продолжались час с четвертью и увенчались успехом. Нашедши патронташ, охотники сели отдохнуть.</p>
+   <p>Во второй группе перепелиная охота была тоже не совсем удачна. В этой группе Михей Егорыч был тем же, чем доктор в первой, даже хуже. Он выбивал из рук ружья, бранился, бил собак, рассыпал порох, словом — выделывал чёрт знает что… После неудачных выстрелов по перепелам, Кардамонов со своими собаками погнался за молодым коршуном. Коршуна подстрелили и не нашли. Капитан 2-го ранга убил камнем суслика.</p>
+   <p>— Господа, давайте анатомировать суслика! — предложил письмоводитель предводителя дворянства, Некричихвостов.</p>
+   <p>Охотники сели на траву, вынули перочинные ножи и занялись анатомией.</p>
+   <p>— Я в этом суслике ничего не нахожу, — сказал Некричихвостов, когда суслик был изрезан на мелкие кусочки. — Даже сердца нет. Вот кишки так есть. Знаете что, господа? Поедемте-ка на болота! Что мы тут можем убить? Перепела — не дичь; то ли дело кулички, бекасы… А? Едем!</p>
+   <p>Охотники поднялись и лениво направились к тарантасам. Приближаясь к тарантасам, они сделали залп по свойским голубям и убили одного.</p>
+   <p>— Ваше превосх… Егорыгорч! Ваше… Егорч… — закричала вторая группа, увидев отдыхающую первую. — Ау, ау!</p>
+   <p>Генерал и Егор Егорыч оглянулись. Вторая группа замахала фуражками.</p>
+   <p>— Зачем? — крикнул Егор Егорыч.</p>
+   <p>— Дело есть! Дрохву убили! Скорей сюда!</p>
+   <p>Первая группа дрохве не поверила, но к тарантасам пошла. Усевшись в тарантасы, охотники порешили оставить перепелов в покое и согласно маршруту проехать еще пять верст — к болотам.</p>
+   <p>— Я ужасно горяч на охоте, — обратился генерал к доктору, когда тройки отъехали версты на две от сенокоса. — Ужасно! Отца родного не пощажу. Уж вы того… извините старику!</p>
+   <p>— Гм…</p>
+   <p>— Каким добряком, шельмец, стал! — шепнул Егор Егорыч доктору на ухо. — Что значит мода пошла дочек за докторов отдавать! Хитер его превосходительство! Хе-хе-хе…</p>
+   <p>— А просторней стало! — заметил Ваня.</p>
+   <p>— Да.</p>
+   <p>— Отчего бы это? Совсем просторно…</p>
+   <p>— Господа, а Больва где? — хватился Манже.</p>
+   <p>Охотники посмотрели друг на друга.</p>
+   <p>— Где Больва? — повторил Манже.</p>
+   <p>— Должно быть, на той тройке. Господа, — крикнул Егор Егорыч, — Больва с вами?</p>
+   <p>— Нет, нету! — крикнул Кардамонов.</p>
+   <p>Охотники задумались.</p>
+   <p>— Ну, чёрт с ним! — порешил генерал. — Не ворочаться же за ним!</p>
+   <p>— Надо бы, ваше превосходительство, воротиться. Слаб уж очень! Без воды умрет. Не дойдет.</p>
+   <p>— Захочет, так дойдет.</p>
+   <p>— Умрет старичок. Ведь ему девяносто!</p>
+   <p>— Пустяки.</p>
+   <p>Подъехав к болотам, наши охотники вытянули физиономии… Болота были запружены охотниками, и вылезать из тарантасов поэтому не стоило. Немного подумав, охотники порешили проехать еще пять верст, к казенным лесам.</p>
+   <p>— Кого же вы там стрелять будете? — спросил доктор.</p>
+   <p>— Дроздов, орлиц… Ну, тетеревов.</p>
+   <p>— Так-с. Ну, а что поделывают теперь мои несчастные больные? И зачем вы меня взяли с собой, Егор Егорыч? Эх!</p>
+   <p>Доктор вздохнул и почесал затылок. Подъехав к первому попавшемуся леску, охотники повылезли из тарантасов и начали совещаться: кому идти направо и кому налево?</p>
+   <p>— Знаете что, господа? — предложил Некричихвостов. — В силу того закона, так сказать, в некотором роде природы, что дичь от нас не уйдет… Гм… Дичь от нас не уйдет, господа! Давайте-ка прежде всего подкрепимся! Винца, водочки, икорки… балычка… Вот тут, на травке! Вы какого мнения, доктор? Вам лучше это знать: вы доктор. Ведь нужно подкрепиться?</p>
+   <p>Предложение Некричихвостова было принято. Аввакум и Фирс разостлали два ковра и разложили вокруг них кульки со свертками и бутылками. Егор Егорыч порезал колбасу, сыр, балык, Некричихвостов раскупорил бутылки, Манже нарезал хлеба… Охотники облизнулись и возлегли.</p>
+   <p>— Ну-с, ваше превосходительство! По маленькой…</p>
+   <p>Охотники выпили и закусили. Доктор тотчас же налил себе другую и выпил. Ваня последовал его примеру.</p>
+   <p>— А ведь тут, надо полагать, и волки есть, — глубокомысленно заметил Кардамонов, посматривая искоса на деревья.</p>
+   <p>Охотники подумали, поговорили и минут через десять порешили, что волков, надо полагать, нет.</p>
+   <p>— Ну-с? По другой? Пропустим-ка! Егор Егорыч, вы чего смотрите?</p>
+   <p>Выпили по другой.</p>
+   <p>— Молодой человек! — обратился Егор Егорыч к Ване. — Вы-то чего думаете?</p>
+   <p>Ваня замотал головой.</p>
+   <p>— Но при мне можешь, — сказал генерал. — Без меня не пей, но при мне… Выпей немножко! Ваня налил рюмку и выпил.</p>
+   <p>— Ну-с? По третьей? Ваше превосходительство…</p>
+   <p>Выпили по третьей. Доктор выпил шестую.</p>
+   <p>— Молодой человек!</p>
+   <p>Ваня замотал головой.</p>
+   <p>— Пейте, Амфитеатров! — сказал покровительственным тоном Манже.</p>
+   <p>— При мне можешь, но без меня… Выпей немного!</p>
+   <p>Ваня выпил.</p>
+   <p>— Чего это небо сегодня такое синее? — спросил Кардамонов.</p>
+   <p>Охотники подумали, потолковали и через четверть часа порешили, что неизвестно, отчего это небо сегодня такое синее.</p>
+   <p>— Заяц… заяц… заяц!!! Держи!!!</p>
+   <p>За бугром показался заяц. За ним гнались две дворняги. Охотники повскакали и ухватились за ружья. Заяц пролетел мимо, помчался в лес, увлекая за собой дворняг, Музыканта и других собак. Тщетный подумал, посмотрел подозрительно на генерала и тоже помчался за зайцем.</p>
+   <p>— Крупный!.. Вот его бы того… Как это мы… прозевали?</p>
+   <p>— Да. Чего же эта бутылка тут того… Это вы не выпили, ваше высокопревосходительство? Э-э-э-э… Так вот вы как? Хо-ро-шо-с!</p>
+   <p>Выпили по четвертой. Доктор выпил девятую, с остервенением крякнул и отправился в лес. Выбрав самую широкую тень, он лег на травку, подложил под голову сюртук и тотчас же захрапел. Ваню развезло. Он выпил еще рюмочку, принялся за пиво, и в нем взыграла душа. Он стал на колени и продекламировал 20 стихов из Овидия.</p>
+   <p>Генерал заметил, что латинский язык очень похож на французский… Егор Егорыч согласился с ним и добавил, что при изучении французского языка необходимо знать похожий на него латинский. Манже не согласился с Егором Егорычем, заметив, что не место толковать там про языки, где сидит физико-математик и стоит так много бутылок, добавив, что ружье его прежде дорого стоило, что теперь нельзя найти хорошего ружья, что…</p>
+   <p>— По восьмой, господа?</p>
+   <p>— Не много ли будет?</p>
+   <p>— Ну-у-у… Что вы! Восемь, и много?! Вы, значит, не пили никогда!</p>
+   <p>Выпили по восьмой.</p>
+   <p>— Молодой человек!</p>
+   <p>Ваня замотал головой.</p>
+   <p>— Полно! Ну-ка, по-военному! Вы так хорошо стреляете…</p>
+   <p>— Выпейте, Амфитеатров! — сказал Манже.</p>
+   <p>— При мне пей, но без меня… Выпей немного!</p>
+   <p>Ваня отставил в сторону пиво и выпил еще рюмочку.</p>
+   <p>— По девятой, господа, а? Какого мнения? Терпеть не могу числа восемь. Восьмого числа у меня умер отец… Федор… то есть, Иван… Егор Егорыч! Наливайте!</p>
+   <p>Выпили по девятой.</p>
+   <p>— Жарко, однако.</p>
+   <p>— Да, жарко, но это не помешает нам выпить по десятой!</p>
+   <p>— Но…</p>
+   <p>— Плевать на жару! Докажем, господа, стихиям, что мы их не боимся! Молодой человек! Покажите-ка пример… Пристыдите вашего дядюшку! Не боимся ни хлада, ни жары…</p>
+   <p>Ваня выпил рюмочку. Охотники крикнули «ура» и последовали его примеру.</p>
+   <p>— Солнечный удар может приключиться, — сказал генерал.</p>
+   <p>— Не может.</p>
+   <p>— Не может… при нашем климате? Гм…</p>
+   <p>— Однако бывали же случаи… Мой крестный умер от солнечного удара…</p>
+   <p>— Вы, доктор, как думаете? Может ли при нашем климате удар приключиться… солнечный, а? Доктор!</p>
+   <p>Ответа не последовало.</p>
+   <p>— Вам не приходилось лечить, а? Мы про солнечный… Доктор, где же доктор?</p>
+   <p>— Где доктор? Доктор!</p>
+   <p>Охотники посмотрели вокруг себя: доктора не было.</p>
+   <p>— Где же доктор? Исчезоша? Яко воск от лица огня! Ха-ха-ха.</p>
+   <p>— К Егоровой жене отправился! — ляпнул Михей Егорыч.</p>
+   <p>Егор Егорыч побледнел и уронил бутылку.</p>
+   <p>— К жене его отправился! — продолжал Михей Егорыч, кушая балык.</p>
+   <p>— Чего же вы врете? — спросил Манже. — Вы видели?</p>
+   <p>— Видел. Ехал мимо мужик на таратайке… ну, а он сел и уехал. Ей-богу. По одиннадцатой, господа?</p>
+   <p>Егор Егорыч поднялся и потряс кулаками.</p>
+   <p>— Я спрашиваю: куда вы едете? — продолжал Михей Егорыч. — За клубникой, говорит. Рожки шлифовать. Я, говорит, уж наставил рожки, а теперь шлифовать еду. Прощайте, говорит, милый Михей Егорыч! Кланяйтесь, говорит, свояку Егору Егорычу! И этак еще глазом сделал. На здоровье… хе-хе-хе.</p>
+   <p>— Лошадей!! — крикнул Егор Егорыч и, покачиваясь, побежал к тарантасу.</p>
+   <p>— Скорей, а то опоздаешь! — крикнул Михей Егорыч.</p>
+   <p>Егор Егорыч втащил на козлы Аввакума, вскочил в тарантас и, погрозив охотникам кулаком, покатил домой…</p>
+   <p>— Что же всё это значит, господа? — спросил генерал, когда скрылась с глаз белая фуражка Егора Егорыча. — Он уехал… На чем же, чёрт возьми, я уеду? Он на моем тарантасе уехал! То есть не на моем, а на том, на котором мне нужно уехать… Это странно… Гм… Дерзко с его стороны…</p>
+   <p>С Ваней сделалось дурно. Водка, смешанная с пивом, подействовала как рвотное… Нужно было везти Ваню домой. После пятнадцатой охотники порешили тройку уступить генералу, с тем только условием, чтобы он, приехавши домой, немедленно выслал свежих лошадей за остальной компанией.</p>
+   <p>Генерал стал прощаться.</p>
+   <p>— Передайте ему, господа, — сказал он, — что… что так делают одне только свиньи.</p>
+   <p>— Вы, ваше превосходительство, векселя его протестуйте! — посоветовал Михей Егорыч.</p>
+   <p>— А? Векселя? Нда-с… Пора уже ему… Нужно честь знать… Я ждал, ждал и наконец утомился ждать… Скажите ему, что протест… Прощайте, господа! Прошу ко мне! А он свинья-с!</p>
+   <p>Охотники простились с генералом и положили его в тарантас рядом с заболевшим Ваней.</p>
+   <p>— Трогай!</p>
+   <p>Ваня и генерал уехали.</p>
+   <p>После восемнадцатой охотники отправились в лес и, постреляв немного в цель, улеглись спать. Перед вечером приехали за ними генеральские лошади. Фирс вручил Михею Егорычу письмо с передачей «братцу». В этом письме была просьба, за неисполнение которой грозилось судебным приставом. После третьей (проснувшись, охотники повели новый счет) генеральские кучера уложили охотников в тарантасы и развезли их по домам.</p>
+   <p>Егор Егорыч, приехавши домой, был встречен Музыкантом и Тщетным, для которых заяц был только предлогом, чтобы удрать домой. Посмотрев грозно на свою жену, Егор Егорыч принялся за поиски. Были обысканы все кладовые, шкафы, сундуки, комоды, — доктора не нашел Егор Егорыч. Он нашел другого: под жениной кроватью обрел он псаломщика Фортунатова…</p>
+   <p>Было уже темно, когда проснулся доктор… Поблуждав немного по лесу и вспомнивши, что он на охоте, доктор громко выругался и принялся аукать. Ответа на ауканье, разумеется, не последовало, и он порешил отправиться домой пешечком. Дорога была хорошая, безопасная, светлая. Двадцать четыре версты он отмахал в какие-нибудь четыре часа и к утру был уже в земской больнице. Побранившись всласть с фельдшерами, акушеркой и больными, он принялся сочинять огромнейшее письмо к Егору Егорычу. В этом письме требовалось «объяснение неблаговидных поступков», бранились ревнивые мужья и давалась клятва не ходить никогда более на охоту, — никогда! даже и двадцать девятого июня.</p>
+  </section>
+ </body>
+ <binary id="_1000015260.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>
