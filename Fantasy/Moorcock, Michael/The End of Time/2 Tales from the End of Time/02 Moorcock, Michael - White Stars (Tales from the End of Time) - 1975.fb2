@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <genre>sf_fantasy</genre>
+   <genre>sf_social</genre>
+   <author>
+    <first-name>Michael</first-name>
+    <last-name>Moorcock</last-name>
+   </author>
+   <book-title>White Stars</book-title>
+   <annotation>
+    <p>Цикл о Крае Времени весьма необычен. Это не фэнтези, это не научная фантастика в обычном смысле этого термина, это - нечто иное. </p>
+    <p>Край Времени - это когда "дни вселенной были сочтены". Герои этого цикла - люди, хотя человеческого в них не сильно много. Они всемогущи, а если их настигает смерть, то они легко могут возродиться, а главное - они не живут, они скорее играют в жизнь. Играют в любовь, в страдания, играют во что угодно, лишь бы занять время. Беспрерывные развлечения - вот смысл их жизни. Цикл полон языковых изысков, необычных способов построения речи и сюжета, странных имен героев, но при этом читается просто отлично.</p>
+    <p><strong>Легенды Края Времени</strong> - это сборник повестей о Крае Времени, позволяющий получше узнать обитателей этого столь необычного мира. Именно эти истории вскользь упоминались в Танцорах. Среди них: история греха Вертера де Гёте, рассказ о дуэли Лорда Акулы Неизвестного и, на мой взгляд, лучшая повесть о материнской любви и сыновнем непонимании...</p>
+    <p>"Танелорн: Всё о Майкле Муркоке" <a l:href="http://www.moorcock.narod.ru/">http://www.moorcock.narod.ru/</a></p>
+   </annotation>
+   <date>1976</date>
+   <coverpage>
+    <image l:href="#_04LegendsFromtheEndofTime1976.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="Tales from the End of Time" number="2"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Nina</first-name>
+    <last-name></last-name>
+    <nickname>El</nickname>
+    <email>nina.el@gmail.com</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2015-02-17">2006-01-11</date>
+   <src-ocr>"Танелорн: Всё о Майкле Муркоке" http://www.moorcock.narod.ru/</src-ocr>
+   <id>0F8ADFA6-520C-464E-BA14-F6259B6DD980</id>
+   <version>2</version>
+  </document-info>
+  <publish-info>
+   <book-name>Legends from the End of Time</book-name>
+   <year>1976</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The White Stars</p>
+   <p>BY MICHAEL MOORCOCK</p>
+   <p>Book 2 of the Legends from the End of Time</p>
+  </title>
+  <section>
+   <poem>
+    <stanza>
+     <v>Rose of all Roses, Rose of all the World! </v>
+     <v>You, too, have come where the dim tides are hurled </v>
+     <v>Upon the wharves of sorrow, and heard ring </v>
+     <v>The bell that calls us on; the sweet far thing . </v>
+     <v>Beauty grown sad with its eternity </v>
+     <v>Made you of us, and of the dim grey sea . </v>
+     <v>Our long ships loose thought-woven sails and wait , </v>
+     <v>For God has bid them share an equal fate; </v>
+     <v>And when at last, defeated in His wars , </v>
+     <v>They have gone down under the same white stars , </v>
+     <v>We shall no longer hear the little cry </v>
+     <v>Of our sad hearts, that may not live nor die . </v>
+    </stanza>
+   </poem>
+   <p>W. B. Yeats </p>
+   <p>"The Rose of Battle" </p>
+  </section>
+  <section>
+   <title>
+    <p>1. A Brief Word from our Auditor </p>
+   </title>
+   <p>If these fragments of tales from the End of Time appear to have certain themes in common, then it is the auditor and his informants who must be held responsible for the selection they have made from available information. A fashion for philosophical and sociological rediscovery certainly prevailed during this period but there must have been other incidents which did not reflect the fashion as strongly, and we promise the reader that if we should hear of some such story we shall not hesitate to present it. Yet legends — whether they come to us from past or future — have a habit of appealing to certain ages in certain interpretations, and that factor, too, must be considered, we suppose. </p>
+   <p>This story, said to involve among others the Iron Orchid, Bishop Castle and Lord Shark, is amended, interpreted, embellished by your auditor, but in its essentials is the same as he heard it from his most familiar source, the temporal excursionist, Mrs Una Persson. </p>
+  </section>
+  <section>
+   <title>
+    <p>2. A Stroll Across the Dark Continent </p>
+   </title>
+   <p>"We were all puzzled by him," agreed the Duke of Queens as he stepped carefully over an elephant, "but we put it down to an idiosyncratic sense of humour." He removed his feathered hat and wiped his brow. The redder plumes clashed horribly with his cerise skin. </p>
+   <p>"Some of his jokes," said the Iron Orchid with a glance of distaste at the crocodile clinging by its teeth to her left foot, "were rather difficult to see. However, he seems at one with himself now. Wouldn't you say?" She shook the reptile loose. </p>
+   <p>"Oh, yes! But then I'm notorious for my lack of insight." They strolled away from Southern Africa into the delicate knee-high forests of the Congo. The Iron Orchid smiled with delight at the brightly coloured little birds which flitted about her legs, sometimes clinging to the hem of her parchment skirt before flashing away again. Of all the expressions of the duke's obsession with the ancient nation called by him "Afrique", this seemed to her to be the sweetest. </p>
+   <p>They were discussing Lord Jagged of Canaria (who had vanished at about the same time as the Iron Orchid's son, Jherek). Offering no explanation as to how his friends might have found themselves, albeit for a very short while, in 19th-century London, together with himself, Jherek, some cyclopean aliens and an assortment of natives of the period, Jagged had returned, only to hide himself away underground. </p>
+   <p>"Well," said the duke, dismissing the matter, "it was rewarding, even if it does suggest, as Brannart Morphail somewhat emphatically pointed out, that Time itself is becoming unstable. It must be because of all these other disruptions in the universe we are hearing about." </p>
+   <p>"It is very confusing," said the Iron Orchid with disapproval. "I do hope the end of the world, when it comes, will be a little better organized." She turned. "Duke?" He had disappeared. </p>
+   <p>With a smile of apology he clambered back to land. "Lake Tanganyika," he explained. "I knew I'd misplaced it." He used one of his power rings to dissipate the water in his clothing. </p>
+   <p>"It is the trees," she said. "They are too tall." She was having difficulty in pressing on through the waist-high palms. "I do believe I've squashed one of your villages, Duke." </p>
+   <p>"Please don't concern yourself, lovely Iron Orchid. I've crowded too much in. You know how I respond to a challenge!" He looked vaguely about him, seeking a way through the jungle. "It is uncomfortably hot." </p>
+   <p>"Is not your sun rather close?" she suggested. </p>
+   <p>"That must be it." He made an adjustment to a ruby power ring and the miniature sun rose, then moved to the left, sinking again behind a hillock he had called Kilimanjaro, offering them a pleasant twilight. </p>
+   <p>"That's much better." </p>
+   <p>He took her hand and led her towards Kenya, where the trees were sparser. A cloud of tiny flamingoes fluttered around her, like midges, for a moment and then were gone on their way back to their nesting places. </p>
+   <p>"I do love this part of the evening, don't you?" he said. "I would have it all the time, were I not afraid it would begin to pall." </p>
+   <p>"One must orchestrate," she murmured, glad that his taste seemed, at long last, to be improving. </p>
+   <p>"One must moderate." </p>
+   <p>"Indeed." He helped her across the bridge over the Indian Ocean. He looked back on Afrique, his stance melancholy and romantic. "Farewell Cape City," he proclaimed, "farewell Byzantium, Dodge and Limoges; farewell the verdant plains of Chad and the hot springs of Egypt. Farewell!" </p>
+   <p>The Duke of Queens and the Iron Orchid climbed into his monoplane, parked nearby. Overhead now a bronze and distant sun brightened a hazy, yellow sky; on the horizon were old, worn mountains which, judging by their peculiar brown colouring, might even have been an original part of the Earth's topography, for hardly anyone visited this area. </p>
+   <p>As the duke pondered the controls, the Iron Orchid put her head to one side, thinking she had heard something. "Do you detect," she asked, "a sort of clashing sound?" </p>
+   <p>"I have not yet got the engine started." </p>
+   <p>"Over there, I mean." She pointed. "Are those people?" </p>
+   <p>He peered in the direction she indicated. "Some dust rising, certainly. And, yes, perhaps two figures. Who could it be?" </p>
+   <p>"Shall we see?" </p>
+   <p>"If you wish, we can —" He had depressed a button and the rest of his remark was drowned by the noise of his engine. The propeller began to spin and whine and then fell from the nose, bouncing over the barren ground and into the Indian Ocean. He pressed the button again and the engine stopped. "We can walk there," he concluded. They descended from the monoplane. </p>
+   <p>The ground they crossed was parched and cracked like old leather which had not been properly cared for. </p>
+   <p>"This needs a thorough restoration," said the Iron Orchid somewhat primly. "Who usually occupies this territory?" </p>
+   <p>"You see him," murmured the Duke of Queens, for now it was possible to recognize one of the figures. </p>
+   <p>"Aha!" She was not surprised. It had been two or three centuries since she had last seen the man who, with a bright strip of metal clutched in one gauntleted hand, capered back and forth in the dust, while a second individual, also clasping an identical strip, performed similar steps. From time to time they would bring their strips forcefully together, resulting in the clashing sound the Iron Orchid had heard originally. </p>
+   <p>"Lord Shark the Unknown," said the Duke of Queens. He called out, "Greetings to you, my mysterious Lord Shark!" </p>
+   <p>The man half-turned. The other figure leapt forward and touched his body with his metal strip. Lord Shark gasped and fell to one knee. Through the fishy mask he always wore, his red eyes glared at them. </p>
+   <p>They came up to him. He did not rise. Instead he presented his gauntleted palm. "Look!" Crimson liquid glistened. </p>
+   <p>The Iron Orchid inspected it. "Is it unusual?" </p>
+   <p>"It is blood, madam!" Lord Shark rose painfully to his feet. "My blood." </p>
+   <p>"Then you must repair yourself at once." </p>
+   <p>"It is against my principles." </p>
+   <p>Lord Shark's companion stood some distance away, wiping Lord Shark's blood from his weapon. </p>
+   <p>"That, I take it, is a sword," said the Iron Orchid. "I had always imagined them larger, and more ornate." </p>
+   <p>"I know such swords." Lord Shark the Unknown loosened the long white scarf he wore around his dark grey neck and applied it to the wound in his shoulder. "They are decadent. These," he held up his own, "are finely tempered, perfectly balanced epees. We were duelling," he explained, "my automaton and I." </p>
+   <p>Looking across at the machine, the Iron Orchid saw that it was a reproduction of Lord Shark himself, complete with fierce shark-mask. </p>
+   <p>"It could kill you, could it not?" she asked. "Is it programmed to resurrect you, Lord Shark?" </p>
+   <p>He dismissed her question with a wave of his blood-stained scarf. </p>
+   <p>"And strange, that you should be killed, as it were, by yourself," she added. </p>
+   <p>"When we fight, is it not always with ourselves, madam?" </p>
+   <p>"I really don't know, sir, for I have never fought and I know no-one who does." </p>
+   <p>"That is why I must make automata. You know my name, madam, but I fear you have the advantage of me." </p>
+   <p>"It has been so long. I looked quite different when we last met. At Mongrove's Black Ball, you'll recall. I am the Iron Orchid." </p>
+   <p>"Ah, yes." He bowed. </p>
+   <p>"And I am the Duke of Queens," said the duke kindly. </p>
+   <p>"I know you, Duke of Queens. But you had another name then, did you not?" </p>
+   <p>"Liam Ty Pam Caesar Lloyd George Zatopek Finsbury Ronnie Michelangelo Yurio Iopu 4578 Rew United," supplied the duke. "Would that be it?" </p>
+   <p>"As I remember, yes." A sigh escaped the gash which was the shark's mouth. "So there have been some few small changes in the outside world, in society. But I suppose you still while away your days with pretty conceits?" </p>
+   <p>"Oh, yes!" said the Iron Orchid enthusiastically. "They have been at their best this season. Have you seen the duke's 'Afrique'? All in miniature. Over there." </p>
+   <p>"Is that what it is called? I wondered. I had been growing lichen, but no matter." </p>
+   <p>"I spoiled a project of yours?" The duke was mortified. </p>
+   <p>Lord Shark shrugged. </p>
+   <p>"But, my lonely lord, I must make amends." </p>
+   <p>The eyes behind the mask became interested for a moment. "You would fight with me. A duel? Is that what you mean?" </p>
+   <p>"Well…" the Duke of Queens fingered his chin, "if that would placate you, certainly. Though I've had no practise at it." </p>
+   <p>The light in the eyes dimmed. "True. It would be no fight at all." </p>
+   <p>"But," said the duke, "lend me one of your machines to teach me, and I will return at an agreed hour. What say you?" </p>
+   <p>"No, no, sir. I took no umbrage. I should not have suggested it. Let us part, for I weary very swiftly of human company." Lord Shark sheathed his sword and snapped his fingers at his automaton, which copied the gesture. "Good day to you, Iron Orchid. And to you, Duke of Queens." He bowed again. </p>
+   <p>Ignoring the Iron Orchid's restraining hand upon his sleeve, the duke stepped forward as Lord Shark turned away. "I insist upon it, sir." </p>
+   <p>His dark grey, leathery cloak rustling, the masked recluse faced them again. "It would certainly fulfil an ambition. But it would have to be done properly, and only when you had thoroughly learned the art. And there would have to be an understanding as to the rules." </p>
+   <p>"Anything." The duke made an elaborate bow. "Send me, at your convenience, an instructor." </p>
+   <p>"Very well." Lord Shark the Unknown signed to his automaton and together they began to walk across the plain, towards the brown mountains. "You will hear from me soon, sir." </p>
+   <p>"I thank you, sir." </p>
+   <p>They strolled in the direction of the useless monoplane. The duke seemed very pleased. "What a wonderful new fashion," he remarked, "duelling. And this time, with the exception of Lord Shark, of course, I shall be the first." </p>
+   <p>The Iron Orchid was amused. "Shall we all, soon, be drawing one another's blood with those thin sticks of steel, extravagant duke?" </p>
+   <p>He laughed and kissed her cheek. "Why not? I tire of 'Cities', and even 'Continents' pall. How long is it since we have had a primitive sport?" </p>
+   <p>"Nothing since the ballhead craze," she confirmed. </p>
+   <p>"I shall learn all I can, and then I can teach others. When Jherek returns, we shall have something fresh for him to enjoy." </p>
+   <p>"It will, at least, be in keeping with his current obsessions, as I understand them." </p>
+   <p>Privately the Iron Orchid wondered if the duke would, at last, be responsible for an entirely new fashion. She hoped, for his sake, that he would, but it was hard, at the moment, to see the creative possibilities of the medium. She was afraid that it would not catch on. </p>
+  </section>
+  <section>
+   <title>
+    <p>3. Something of the History of Lord Shark the Unknown </p>
+   </title>
+   <p>If gloomy Mongrove, now touring what was left of the galaxy with the alien Yusharisp, had affected aloofness, then Lord Shark was, without question, genuinely reclusive. Absorbed in his duel, he had not noticed the approach of the Iron Orchid and the Duke of Queens, for if he had he would have made good his escape well before they could have hailed him. In all his life he had found pleasure in the company of only one human being: a short-lived time traveller who had refused immortality and died many centuries since. </p>
+   <p>Lord Shark was not merely contemptuous of the society which presently occupied the planet, he was contemptuous of the very planet, the universe, of the whole of existence. Compared with him, Werther de Goethe was an optimist (as, indeed, secretly he was). Werther had once made overtures to Lord Shark, considering him a fellow spirit, but Lord Shark would have none of him, judging him to be as silly and as affected as all the others. Lord Shark was the last true cynic to come into being at the End of Time and found no pleasure in any pursuit save the pursuit of death, and in this he must be thought the unluckiest man in the world, for everything conspired to thwart him. Wounded, he refused to treat the wounds, and they healed. Injured, his injuries were never critical. He considered suicide, as such, to be unworthy of him, feeble, but dangers which would have brought certain death to others only seemed to bring Lord Shark at best some passing inconvenience. </p>
+   <p>As he returned home, Lord Shark could feel the pain in his shoulder already subsiding and he knew that it would not be long before there would only be a small scar to show where the sword blade had entered. He was regretting his bargain with the Duke of Queens. He was sure that the duke would never attain the skill necessary to beat him, and, if he were not beaten, and killed, he would in his opinion have wasted his time. His pride now refused to let him go back on the bargain, for to do so would be to show him as feckless a fellow as any other and would threaten his confidence in his own superiority, his only consolation. It was the pride of the profoundly unimaginative man, for it was Lord Shark's lot to be without creative talent of any kind in a world where all were artists — good or bad, but artists, still. Even his mask was not of his own invention but had been made for him by his time-travelling friend shortly before that man's death (his name had come from the same source). He had taken both mask and name without humour, on good faith. It is perhaps unkind to speculate as to whether even this stalwart friend had been unable to resist playing one good joke upon poor Lord Shark, for it is a truism that those without humour find themselves the butts of all who possess even a spark of it themselves. </p>
+   <p>Whoever had created Lord Shark (and he had never been able to discover who his parents might be, perhaps because they were too embarrassed to claim him) might well have set out to create a perfect misanthrope, a person as unsuited to this particular society as was possible. If so, they had achieved their ambition absolutely. He had appeared in public only twice in the thousand or so years of his life, and the last time had been three hundred years ago at Mongrove's celebrated Black Ball. Lord Shark had stayed little more than half-an-hour at this, having rapidly reached the conclusion that it was as pointless as all the other social activities on the planet. He had considered time travel, as an escape, but every age he had studied seemed equally frivolous and he had soon ceased to entertain that scheme. He contented himself with his voluntary exile, his contempt, his conviction in the pointlessness of everything, and he continued to seek ways of dying suggested to him by his studies of history. His automata were created in his own image not from perversity, not from egocentricity, but because no other image presented itself to his mind. </p>
+   <p>Lord Shark trudged on, his grey-booted feet making the dust of his arid domain dance, giving the landscape a semblance of life, and came in a while to his rectangular domicile at the foot of those time-ground ridges, the ragged remains of the Rockies. Two guards, identical in appearance to each other and to Lord Shark, were positioned on either side of his single small door, and they remained rigid, only their eyes following him as he let himself in and marched up the long, straight, sparsely lit passage which passed through the centre of the internal grid (the house was divided into exactly equal sections, with rooms of exactly equal proportions) to the central chamber of the building, in which he spent the greater part of his days. There he sat himself down upon a chair of grey metal and began to brood. </p>
+   <p>Regretfully, he must pursue his agreement with the Duke of Queens, but he felt no demand to hurry the business through; the longer it took, the better. </p>
+  </section>
+  <section>
+   <title>
+    <p>4. In Which Unwilling Travellers Arrive at the End of Time </p>
+   </title>
+   <p>Walking slowly across the ceiling of his new palace, the Duke of Queens looked up to see that Bishop Castle had already arrived and was peering with some pleasure through a window. "Shall we join him?" asked the duke of the Iron Orchid and, at her nod of assent, turned a jewel on one of his rings. Elegantly they performed half a somersault so that they, too, were upside down and, from their new perspective, descending towards the floor. Bishop Castle hailed them. "Such a simple idea, duke, but beautiful." He waved a white-gloved hand at the view. The sky now lay like a sea, spread out below, while inverted trees and gardens and lawns were overhead. </p>
+   <p>"It is refreshing," confirmed the duke, pleased. "But I can take no credit. The idea was the Iron Orchid's." </p>
+   <p>"Nonsense, most dashing of dukes. Actually," she murmured to Bishop Castle, "I borrowed it from Sweet Orb Mace. How is she, by the by?" </p>
+   <p>"Recovered completely, though the resurrection was a little late. I believe the snow helped preserve her, for all its heat." </p>
+   <p>"We have just seen Lord Shark the Unknown," she announced. "And he challenged the Duke of Queens to, my lord bishop, a duel! " </p>
+   <p>"It was not exactly a challenge, luscious blossom. Merely an agreement to fight at some future date." </p>
+   <p>"To fight?" Bishop Castle's large eyebrows rose, almost touching the rim of his tall crown. "Would that involve 'violence'?" </p>
+   <p>"A degree of it, I believe," said the duke demurely. "Yes, blood will be spilled, if today's experience is typical. These little sticks…" He turned with a questioning frown to the Iron Orchid. </p>
+   <p>"Swords," she said. </p>
+   <p>"Yes, swords — with points, you know, to pierce the flesh. You will have seen them in the old pictures and possibly wondered at their function. We have used them for decoration, of course, in the past — many believing them to be some sort of ancient totem, some symbol of rank — but it emerges that they were meant to kill." </p>
+   <p>Bishop Castle was apologetic. "The conceptions involved are a little difficult to grasp, as with so many of these ancient pastimes, though of course I have witnessed, in visitors to our age, the phenomena. Does it not involve 'anger', however?" </p>
+   <p>"Not necessarily, from what little I know." </p>
+   <p>The conversation turned to other subjects; they discussed their recent adventures and speculated upon the whereabouts of the Iron Orchid's son, Jherek Carnelian, of Mrs Underwood, whom he loved, of Lord Jagged of Canaria, and the uncouth alien musicians who had called themselves the Lat. </p>
+   <p>"Brannart Morphail, querulous as ever, refuses to discuss any part he might have played in the affair," Bishop Castle told his friends. "He merely hints at the dangers of 'meddling with the fabric of Time', but I cannot believe he is entirely objective, for he has always affected a somewhat proprietorial attitude towards Time." </p>
+   <p>"Nonetheless, it is puzzling," said the Iron Orchid. "And I regret the disappearance of so many entertaining people. Those space travellers, the Lat, were they, do you think, 'violent'?" </p>
+   <p>"That would explain the difficulties we had in communicating with them, certainly. But we can talk further when we see My Lady Charlotina." Bishop Castle was evidently tiring of the discussion. "Shall we go?" </p>
+   <p>As they drifted, still upside down, from the house, Bishop Castle complimented the Iron Orchid on her costume. It was dark blue and derived from the clothing of some of those she had encountered at the Cafe Royal, in the 19th century. The helmet suited her particularly, but Bishop Castle was not sure he liked the moustache. </p>
+   <p>Righting themselves, they all climbed into Bishop Castle's air carriage, a reproduction of a space vehicle of the 300th Icecream Empire, all red-gold curlicues and silver body work, and set off for Lake Billy the Kid, where My Lady Charlotina's reception (to celebrate, as she put it, their safe return) had already started. </p>
+   <p>They had gone no more than a few hundred miles when they encountered Werther de Goethe, magnificently pale in black, voluminous satin robes, riding upon his monstrous tombstone, a slab of purple marble, and evidently recovered from his recent affair with Mistress Christia, the Everlasting Concubine, in such good spirits that he deigned to acknowledge their presence as they put their heads through the portholes and waved to him. The slab swung gracefully over the tops of some tall pine trees and came to rest, hovering near them. </p>
+   <p>"Do you go to My Lady Charlotina's, moody Werther?" asked the Iron Orchid. </p>
+   <p>"Doubtless to be insulted again by her, but, yes, I go," he confirmed. "I suppose you have seen the newcomers already?" </p>
+   <p>"Newcomers?" The light breeze curled the duke's feathers around his face. "From space?" </p>
+   <p>"Who knows? They are humanoid. My Lady Charlotina has endomed them, near Lake Billy the Kid. Her whole party has gone to watch. I will see you there, then?" </p>
+   <p>"You shall, sorrowing son of Nature," promised the Iron Orchid. </p>
+   <p>Werther was pleased with the appellation. He swept on. The spaceship turned to follow him. </p>
+   <p>Soon they saw the stretch of blue water which was My Lady Charlotina's home, the presence of her vast subaqueous palace marked only by a slight disturbance of the surface of the water in the middle of the lake where the energy-tube made its exit. They rose higher into the air, over the surrounding mountains, and at length saw the shimmering, green-tinted air indicating a force-dome. Descending, they saw that the dome, all but invisible, was surrounded by a large throng of people. They landed in the vicinity of a number of other air carriages of assorted designs and disembarked. </p>
+   <p>My Lady Charlotina, naked, with her skin coloured in alternate bands of black and white, saw them. She already had her arm through Werther's. "Come and see what I have netted for my menagerie," she called. "Time travellers. I have never seen so many at once." She laughed. "Brannart, of course, takes a very gloomy view, but I'm delighted! There isn't another set like it!" </p>
+   <p>Brannart Morphail, still in the traditional hump-back and club-foot of the scientist, limped towards them. He shook a bony finger at the Iron Orchid. "This is all your son's fault. And where is Lord Jagged to explain himself?" </p>
+   <p>"We have not seen him since our return," she said. "You fret so, Brannart. Think how entertaining life has become of late!" </p>
+   <p>"Not for long, delicate metal, fragile flower. Not for long." Grumbling to himself, he hobbled past them. "I must get my instruments." </p>
+   <p>They made their way through the gathering until they reached the wall of the force-dome. The Iron Orchid put her hand to her lips in astonishment. "Are they intelligent?" </p>
+   <p>"Oh, yes. Primitive, naturally, but otherwise…" My Lady Charlotina smiled. "They growl and rave so! We have not yet had a proper talk with them." </p>
+   <p>Orange fire splashed against the inner wall and spread across it, obscuring the scene within. </p>
+   <p>"They keep doing that," explained My Lady Charlotina. "I am not sure if they mean to burn us or the wall. A translator is in operation, though they are still a trifle incoherent. Their voices can be very loud." </p>
+   <p>As the fire dissipated, the Iron Orchid stared curiously at the twenty or thirty men inside the dome. Their faces were bruised, bleeding and smudged with oil; they wore identical costumes of mottled green and brown; there were metal helmets on their heads, and what she supposed to be some sort of breathing apparatus (unused) on their backs. In their hands were artefacts consisting basically of a metal tube to which was fixed a handle, probably of plastic. It was from these tubes that the flames occasionally gouted. </p>
+   <p>"They look tired," she said sympathetically. "Their journey must have been difficult. Where are they from?" </p>
+   <p>"They were not clear. We put the dome up because they seemed ill at ease in the open; they kept burning things. Four of my guests had to be taken away for resurrection. I think they must calm down eventually, don't you, Duke of Queens?" </p>
+   <p>"They invariably do," he agreed. "They'll exhaust themselves, I suppose." </p>
+   <p>"So many!" murmured Bishop Castle. He fingered the lobe of his ear. </p>
+   <p>"That is what makes them such a catch," said the Duke of Queens. "Well, Werther, you are an expert — what period would you say they were from?" </p>
+   <p>"Very early. The twentieth century?" </p>
+   <p>"A little later?" suggested Bishop Castle. </p>
+   <p>"The twenty-fifth, then." </p>
+   <p>Bishop Castle nodded. "That seems right. Are any of your guests, My Lady Charlotina, from that age?" </p>
+   <p>"Not really. You know how few we get from those Dawn Age periods. Doctor Volospion might have one, but…" </p>
+   <p>Mistress Christia approached, her eyes wide, her lips wet. "What brutes! " she gasped. "Oh, I envy you, My Lady Charlotina. When did you find them?" </p>
+   <p>"Not long ago. But I've no idea how much time they've been here." </p>
+   <p>More fire spread itself over the wall, but it seemed fainter. One of the time travellers flung down his tube, growling and glaring. Some of the audience applauded. </p>
+   <p>"If only Jherek were here," said the Iron Orchid. "He understands these people so well! Where is their machine?" </p>
+   <p>"That's the odd thing, Brannart has been unable to find a trace of one. He insists that one exists. He thinks that it might have returned to its period of origin — that sometimes happens, I gather. But he says that no machine registered on his detectors, and it has caused him to become even more bad-tempered than usual." My Lady Charlotina withdrew her arm from Werther's. "Ah, Gaf the Horse in Tears, have you seen my new time travellers yet?" </p>
+   <p>Gaf lifted his skirts. "Have you seen my new wheels , My Lady Charlotina?" </p>
+   <p>They wandered away together. </p>
+   <p>Bishop Castle was trying to address one of the nearest of the time travellers. "How do you do?" he began politely. "Welcome to the End of Time!" </p>
+   <p>The time travellers said something to him which defeated the normally subtle translator. </p>
+   <p>"Where are you from?" asked the Iron Orchid of one. </p>
+   <p>Another of the time travellers shouted to the man addressed. "Remember, trooper. Name, rank and serial number. It's all you have to tell 'em." </p>
+   <p>"Sarge, they must know we're from Earth." </p>
+   <p>"Okay," assented the other, "you can tell 'em that, too." </p>
+   <p>"Kevin O'Dwyer," said the man, "Trooper First Class, 0008859376." He added, "From Earth." </p>
+   <p>"What year?" asked the Duke of Queens. </p>
+   <p>Trooper First Class Kevin O'Dwyer looked pleadingly at his sergeant. "You're the ranking officer, sir. I shouldn't have to do this." </p>
+   <p>"Let them do the talking," snapped the sergeant. "We'll do the fighting." </p>
+   <p>"Fighting?" The Duke of Queens grinned with pleasure. "Ah, you'll be able to help me. Are you soldiers, then?" </p>
+   <p>Again the translation was muddy. </p>
+   <p>"Soldiers?" asked Bishop Castle, in case they had not heard properly. </p>
+   <p>The sergeant sighed. "What do you think, buddy?" </p>
+   <p>"This is splendid!" said the Duke of Queens. </p>
+  </section>
+  <section>
+   <title>
+    <p>5. In Which the Duke of Queens Seeks Instruction </p>
+   </title>
+   <p>As soon as it was evident that the soldiers had used up all their fire, My Lady Charlotina released the one called "sergeant", whose full name, on further enquiry, turned out to be Sergeant Henry Martinez, 0008832942. After listening in silence to their questions for a while he said: </p>
+   <p>"Look, I don't know what planet this is, or if you think you're fooling me with your disguise, but you're wasting your time. We're hip to every trick in the Alpha Centauran book." </p>
+   <p>"Who are the Alpha Centaurans?" asked My Lady Charlotina, turning to Werther de Goethe. </p>
+   <p>"They existed even before the Dawn Age," he explained. "They were intelligent horses of some kind." </p>
+   <p>"Very funny," said Sergeant Martinez flatly. "You know damn well who you are." </p>
+   <p>"He thinks we're horses? Perhaps some optical disturbance, coupled with…" Bishop Castle creased his brow. </p>
+   <p>"Stow it, will you?" asked the sergeant firmly. "We're prisoners of war. Now I know you guys don't pay too much attention to things like the Geneva Convention in Alpha Centauri, for all you —" </p>
+   <p>"It's a star system!" said Werther. "I remember. I think it was used for something a long while ago. It doesn't exist any more, but there was a war between Earth and this other system in the 24th century — you are 24th century, I take it, sir? — which went on for many years. These are typical warriors of the period. The Alpha Centaurans were, I thought, birdlike creatures…" </p>
+   <p>"The Vultures," supplied Sergeant Martinez. "That's what we call you." </p>
+   <p>"I assure you, we're as human as you are, sergeant," said My Lady Charlotina. "You are an ancestor of ours. Don't you recognize the planet? And we have some of your near-contemporaries with us. Li Pao? Where's Li Pao? He's from the 27th." But the puritanical Chinaman had not yet arrived. </p>
+   <p>"If I'm not mistaken," said Martinez patiently, "you're trying to convince me that the blast which got us out there beyond Mercury sent us into the future. Well, it's a good try — we'd heard your interrogation methods were pretty subtle and pretty damn elaborate — but it's too fancy to work. Save your time. Put us in the camp, knock us off, or do whatever you normally do with prisoners. We're Troopers and we're too tough and too tired to play this kind of fool game. Besides, I can tell you for nothing, we don't know nothing — we get sent on missions. We do what we're told. We either succeed, or we die or, sometimes, we get captured. We got captured. That's what we know. There's nothing else we can tell you." </p>
+   <p>Fascinated, the Iron Orchid and her friends listened attentively and were regretful when he stopped. He sighed. "Bad Sugar!" he exclaimed. "You're like kids, ain't you? Can you understand what I'm saying?" </p>
+   <p>"Not entirely," Bishop Castle told him, "but it's very interesting for us. To study you, you know." </p>
+   <p>Muttering, Sergeant Martinez sat down on the ground. </p>
+   <p>"Aren't you going to say any more?" Mistress Christia was extremely disappointed. "Would you like to make love to me, Sergeant Martinez?" </p>
+   <p>He offered her an expression of cynical contempt. "We're up to that one, too," he said. </p>
+   <p>She brightened, holding out her hand. "Wonderful! You don't mind, do you, My Lady Charlotina?" </p>
+   <p>"Of course not." </p>
+   <p>When Sergeant Martinez did not accept her hand, Mistress Christia sat down beside him and stroked his cropped head. </p>
+   <p>Firmly, he replaced the helmet he had been holding in his hands. Then he folded his arms across his broad chest and stared into the middle-distance. His colour seemed to have changed. Mistress Christia stroked his arm. He jerked it away. </p>
+   <p>"I must have misunderstood you," she said. </p>
+   <p>"I can take it or leave it alone," he told her. "You got it? Okay, I'll take it. When I want it. But if you expect to get any information from me that way, that's where you're wrong." </p>
+   <p>"Perhaps you'd rather do it in private?" </p>
+   <p>A mirthless grin appeared on his battered features. "Well, I sure ain't gonna do it out here, in front of all your friends, am I?" </p>
+   <p>"Oh, I see," she said, confused. "You must forgive me if I seem tactless, but it's so long since I entertained a time traveller. We'll leave it for a bit, then." </p>
+   <p>The Iron Orchid saw that some of the men inside the force-dome had stretched out on the ground and had shut their eyes. "They probably need to rest," she suggested, "and to eat something. Shouldn't we feed them, My Lady Charlotina?" </p>
+   <p>"I'll transfer them to my menagerie," agreed her hostess. "They'll probably be more at ease there. Meanwhile, we can continue with the party." </p>
+   <p>Some time went by; the world continued in pretty much its normal fashion, with parties, experiments, games and inventions. Eventually, so the Iron Orchid heard when she emerged from a particularly dull and enjoyable affair with Bishop Castle, the soldiers from the 24th century had become convinced that they had travelled into the future, but were not much reconciled. Some, it seemed, were claiming that they would rather have been captured by their enemies. No news came from Lord Shark, and the two or three messages the Duke of Queens had sent him had not been answered. Jherek Carnelian did not come back, and Lord Jagged of Canaria refused all visitors. Brannart Morphail bewailed the inconsistencies which he claimed had appeared in the fabric of Time. Korghon of Soth created a sentient kind of mould which he trained to do tricks; Mistress Christia, having listened to an old tape, became obsessed with learning the language of the flowers and spent hour after hour listening to them, speaking to them in simple words; O'Kala Incarnadine became a sea-lion and thereafter could not be found. The craze for "Cities" and "Continents" died and nothing replaced it. Visiting the Duke of Queens, the Iron Orchid mentioned this, and he revealed his growing impatience with Lord Shark. "He promised he would send me an instructor. I have had to fall back on Trooper O'Dwyer, who knows a little about knives, but nothing at all about swords. This is the perfect moment for a new fashion. Lord Shark has let me down." </p>
+   <p>Trooper O'Dwyer, ensconced in luxury at the duke's palace, had agreed to assist the duke, his sergeant having succumbed at last to the irresistible charms of Mistress Christia, but the duke confided to the Iron Orchid that he was not at all sure if bayonet drill were the same as fencing. </p>
+   <p>"However," he told her, "I am getting the first principles. You decide, to start, that you are superior to someone else — that is that you have more of these primitive attributes than the other person or persons — love, hate, greed, generosity and so on…" </p>
+   <p>"Are not some of these opposites?" Her conversations with her son had told her that much. </p>
+   <p>"They are…" </p>
+   <p>"And you claim you have all of them?" </p>
+   <p>" More of them than someone else." </p>
+   <p>"I see. Go on." </p>
+   <p>"Patriotism is difficult. With that you identify yourself with a whole country. The trick is to see that country as yourself so that any attack on the country is an attack on you." </p>
+   <p>"A bit like Werther's Nature?" </p>
+   <p>"Exactly. Patriotism, in Trooper O'Dwyer's case, can extend to the entire planet." </p>
+   <p>"Something of a feat!" </p>
+   <p>"He accomplishes it easily. So do his companions. Well, armed with all these emotions and conceptions you begin a conflict — either by convincing yourself that you have been insulted by someone (who often has something you desire to own) or by goading him to believe that he has been insulted by you (there are subtle variations, but I do not thoroughly understand them as yet). You then try to kill that person — or that nation — or that planet — or as many members as possible. That is what Trooper O'Dwyer and the rest are currently attempting with Alpha Centauri." </p>
+   <p>"They will succeed, according to Werther. But I understand that the rules do not allow resurrection." </p>
+   <p>"They are unable to accomplish the trick, most delectable of blossoms, most marvellous of metals." </p>
+   <p>"So the deaths are permanent?" </p>
+   <p>"Quite." </p>
+   <p>"How odd." </p>
+   <p>"They had much higher populations in those days." </p>
+   <p>"I suppose that must explain it." </p>
+   <p>"Yet, it appears, every time one of their members was killed, they grieved — a most unpleasant sensation, I gather. To rid themselves of this sense of grief, they killed more of the opposing forces, creating grief in them so that they would wish to kill more — and so on, and so on." </p>
+   <p>"It all seems rather — well — unaesthetic." </p>
+   <p>"I agree. But we must not dismiss their arts out of hand. One does not always come immediately to terms with the principles involved." </p>
+   <p>"Is it even Art?" </p>
+   <p>"They describe it as such. They use the very word." </p>
+   <p>One eyebrow expressed her astonishment. She turned as Trooper O'Dwyer shuffled into the room. He was eating a piece of brightly coloured fruit and he had an oddly shaped girl on his arm (created, whispered the duke, to the trooper's exact specifications). He nodded at them. "Duke," he said. "Lady." His stomach had grown so that it hung over his belt. He wore the same clothes he had arrived in, but his wounds had healed and he no longer had the respiratory gear on his back. </p>
+   <p>"Shall we go to the — um — 'gym', Trooper O'Dwyer?" asked the duke in what was, in the Iron Orchid's opinion, a rather unnecessarily agreeable tone. </p>
+   <p>"Sure." </p>
+   <p>"You must come and see this," he told her. </p>
+   <p>The "gym" was a large, bare room, designed by Trooper O'Dwyer, hung with various ropes, furnished with pieces of equipment whose function was, to her, unfathomable. For a while she watched as, enthusiastically, the Duke of Queens leapt wildly about, swinging from ropes, attacking large, stuffed objects with sharp sticks, yelling at the top of his voice, while, seated in a comfortable chair with the girl beside him, Trooper O'Dwyer called out guttural words in an alien tongue. The Iron Orchid did her best to be amused, to encourage the duke, but she found it difficult. She was glad when she saw someone enter the hall by the far door. She went to greet the newcomer. "Dear Lord Shark," she said, "the duke has been so looking forward to your visit." </p>
+   <p>The figure in the shark-mask stopped dead, pausing for a moment or two before replying. </p>
+   <p>"I am not Lord Shark. I am his fencing automaton, programmed to teach the Duke of Queens the secrets of the duel." </p>
+   <p>"I am very pleased you have come," she said in genuine relief. </p>
+  </section>
+  <section>
+   <title>
+    <p>6. Old-Fashioned Amusements </p>
+   </title>
+   <p>Sergeant Martinez and his twenty-five troopers relaxed in the comparative luxury of a perfect reproduction of a partially ruined Martian bunker, created for them by My Lady Charlotina. It was better than they had expected, so they had not complained, particularly since few of them had spent much of their time in the menagerie. </p>
+   <p>"The point is," Sergeant Martinez was saying, as he took a long toke on the large black Herodian cigar, "that we're all going soft and we're forgetting our duty." </p>
+   <p>"The war's over, sarge," Trooper Gan Hok reminded him. He grinned. "By a couple million years or so. Alpha Centauri's beaten." </p>
+   <p>"That's what they're telling us," said the sergeant darkly. "And maybe they're right. But what if this was all a mirage we're in? An illusion created by the Vultures to make us think the war's over, so we make no attempt to escape." </p>
+   <p>"You don't really believe that, do you, sarge?" enquired squat Trooper Pleckhanov. "Nobody could make an illusion this good. Could they?" </p>
+   <p>"Probably not, trooper, but it's our duty to assume they could and get back to our own time." </p>
+   <p>"That girl of yours dropped you, sarge?" enquired Trooper Denereaz, with the perspicacity for which he was loathed throughout the squad. Some of the others began to laugh, but stopped themselves as they noted the expression on the sergeant's face. </p>
+   <p>"Have you got a plan, sarge?" asked Trooper George diplomatically. "Wouldn't we need a time machine?" </p>
+   <p>"They exist. You've all talked with that Morphail guy." </p>
+   <p>"Right. But would he give us one?" </p>
+   <p>"He refused," Sergeant Martinez told them. "What does that suggest to you, Trooper Denereaz?" </p>
+   <p>"That they want us to remain here?" suggested Denereaz dutifully. </p>
+   <p>"Right." </p>
+   <p>"Then how are we going to get hold of one, sarge?" asked Trooper Gan Hok. </p>
+   <p>"We got to use our brains," he said sluggishly, staring hard at his cigar. "We got one chance of a successful bust-out. We're gonna need some hardware, hostages maybe." He yawned and slowly began to describe his scheme in broad outline while his men listened with different degrees of attention. Some of them were not at all happy with the sergeant's reminder of their duty. </p>
+   <p>Trooper O'Dwyer had not been present at the conference, but remained at the palace of the Duke of Queens, where he had become very comfortable. Occasionally he would stroll into the gym to see how the duke's fencing lessons were progressing. He was fascinated by the robot instructing the duke; it was programmed to respond to certain key commands, but within those terms could respond with rapid and subtle reflexes, while at the same time giving a commentary on the duke's proficiency, which currently afforded Trooper O'Dwyer some easy amusement. </p>
+   <p>The words Lord Shark used in his programming were in the ancient language of Fransai, authentic and romantic (though the romance had certainly escaped Lord Shark). To begin a duel the Duke of Queens would cry: </p>
+   <p>"En tou rage!" </p>
+   <p>— and if struck (the robot was currently set not to wound) he would retort gracefully: </p>
+   <p>"Toujours gai, mon coeur!" </p>
+   <p>Trooper O'Dwyer thought that he had noted an improvement in the duke's skill over the past week or so (not that weeks, as such, existed in this world, and he was having a hard time keeping track of days, let alone anything else) thanks, thought the trooper, to the original basic training. A good part of the duke's time was spent with the robot, and he had lost interest in all other activities, all relationships, including that with Trooper O'Dwyer, who was content to remain at the palace, for he was given everything his heart desired. </p>
+   <p>A month or two passed (by Trooper O'Dwyer's reckoning) and the Duke of Queens grew increasingly skilful. Now he cried "En tou rage!" more often than "Toujours gai!" and he confided, pantingly, one morning to the trooper that he felt he was almost ready to meet Lord Shark. </p>
+   <p>"You reckon you're as good as this other guy?" asked O'Dwyer. </p>
+   <p>"The automaton has taught me all it can. Soon I shall pay a visit to Lord Shark and display what I have learned." </p>
+   <p>"I wouldn't mind getting a gander at Lord Shark myself," said Trooper O'Dwyer, casually enough. </p>
+   <p>"Accompany me, by all means." </p>
+   <p>"Okay, duke." Trooper O'Dwyer winked and nudged the duke in the ribs. "It'll break the monotony. Get me?" </p>
+   <p>The Duke of Queens, removing his fencing mask (fashioned in gold filigree to resemble a fanciful fox), blinked but made no answer. O'Dwyer could be interestingly cryptic sometimes, he thought. He noticed that the automaton was still poised in the ready position and he commanded it to come to attention. It did, its sword pointing upwards and almost touching its fishy snout. </p>
+   <p>The duke drew O'Dwyer's attention to his new muscles. "I had nothing to do with their appearance," he said in delight. "They came — quite naturally. It was most surprising!" </p>
+   <p>The trooper nodded and bit into a fruit, reflecting that the duke now seemed to be in better shape than he was. </p>
+   <p>The Iron Orchid and My Lady Charlotina lay back upon the cushions of their slowly moving air carriage, which had been designed in the likeness of the long-extinct gryphon, and wondered where they might be. They had been making languid love. Eventually, My Lady Charlotina put her golden head over the edge of the gryphon's back and saw, not far off, the Duke of Queens' inverted palace. She suggested to her friend that they might visit the duke; the Iron Orchid agreed. They adjusted their gravity rings and flew towards the top-most (or the lowest) door, leaving the gryphon behind. </p>
+   <p>"You seem unenthusiastic, my dear," murmured My Lady Charlotina, "about the duke's current activities." </p>
+   <p>"I suppose I am," assented the Iron Orchid, brightening her silver skin a touch. "He has such hopes of beginning a fashion." </p>
+   <p>"And you think he will fail? I am quite looking forward to the — what is it — the fight?" </p>
+   <p>"The duel," she said. </p>
+   <p>"And many others I know await it eagerly." They floated down a long, curling passage whose walls were inset at regular intervals with cages containing pretty song-children. "When is it to take place, do you know?" </p>
+   <p>"We must ask the duke. I gather he practises wholeheartedly with the automaton Lord Shark sent him." </p>
+   <p>"Lord Shark is so mysterious, is he not?" whispered My Lady Charlotina with relish. "I suspect that the interest in the duel comes, as much as anything, from people's wish to inspect one so rarely seen in society. Is duelling his only pastime?" </p>
+   <p>"I know nothing at all of Lord Shark the Unknown, save that he affects a surly manner and that he is pleased to assume the role of a recluse. Ah, there is the 'gym'. Probably we shall find the Duke of Queens therein." </p>
+   <p>They came upon the duke as he divested himself of the last of his duelling costume. </p>
+   <p>"How handsome your body is, manly master of Queens," purred My Lady Charlotina. "Have you altered it recently?" </p>
+   <p>He kissed her hand. "It changed itself — a result of all my recent exercise." He inspected it with pleasure. "It is how they used to change their bodies, in the old days." </p>
+   <p>"We wondered when your duel with Lord Shark the Unknown was to take place," she said, "and came to ask. Everyone is anxious to watch." </p>
+   <p>He was flattered. "I go today to visit Lord Shark. It is for him to name the time and the location." The duke indicated Trooper O'Dwyer, who lay half-hidden upon an ermine couch. "Trooper O'Dwyer accompanies me. Would you care to come, too?" </p>
+   <p>"It is my understanding that Lord Shark does not encourage visitors," said the Iron Orchid. </p>
+   <p>"You think you would not be welcome, then?" </p>
+   <p>"It is best to assume that." </p>
+   <p>"Thank you, Iron Orchid, for saving me once again from a lapse of manners. I was ever tactless." He smiled. "It was that which led to this situation, really." </p>
+   <p>"Trooper O'Dwyer!" My Lady Charlotina drifted towards the reclining warrior. "Have you seen anything of your compatriots of late?" </p>
+   <p>"Nope. Have they gone missing?" He showed no great interest in his one-time messmates. </p>
+   <p>"They appear to have vanished, taking with them some power rings and a large air carriage I had given them for their own use. They have deserted my menagerie." </p>
+   <p>"I guess they'll come back when they feel like it." </p>
+   <p>"I do hope so. If they were not happy with their habitat they had only to tell me. Well," turning with a smile to the duke, "we shall not keep you. I hope your encounter with Lord Shark is satisfactory today. And you must tell us, at once, if you agree to the place and time, so that we can tell everyone to make plans to be there." </p>
+   <p>He bowed. "You will be the first, My Lady Charlotina, Iron Orchid." </p>
+   <p>"Is that your 'sword'?" </p>
+   <p>"It is." </p>
+   <p>She stroked the slender blade. "I must get one for myself," she said, "and then you can teach me, too." </p>
+   <p>As they returned to their gryphon, the Iron Orchid touched her friend's arm. "You could not have said a more pleasing thing to him." </p>
+   <p>My Lady Charlotina laughed. "Oh, we live to indulge such honest souls as he. Do we not, Iron Orchid?" </p>
+   <p>"Do I detect a slightly archaic note in your choice of phrase?" </p>
+   <p>"You do, my dear. I have been studying, too, you see!" </p>
+  </section>
+  <section>
+   <title>
+    <p>7. The Terms of the Duel </p>
+   </title>
+   <p>Lord Shark's warning devices apprised him of the approach of an air car, and his screens revealed the nature of that car, a large kitelike contraption from which hung a gondola — in the gondola, two figures. </p>
+   <p>"Two," murmured Lord Shark the Unknown to himself. Beneath his mask he frowned. The car drifted closer and was seen to contain the Duke of Queens and a plump individual in poorly fitting overalls of some description. </p>
+   <p>He instructed his automata, his servants, to admit the couple when they reached the building, then he sat back to wait. </p>
+   <p>Lord Shark's grey mind considered the information on the screens, but dismissed the questions raised until the Duke of Queens could supply answers. He hoped that the duke had come to admit himself incapable of learning the skills of the duel and that he need not, therefore, be further bothered by the business which threatened to interrupt the routines of all the dull centuries of his existence. The only person on his planet who had not heard the news that the universe was coming to an end, he was the only one who would have been consoled by the knowledge or, indeed, even interested, for nobody else had paid it too much attention, save perhaps Lord Jagged of Canaria. Yet, even had Lord Shark known, he would still have preferred to await the end by following his conventional pursuits, being too much of a cynic to believe news until it had been confirmed by the event itself. </p>
+   <p>He heard footfalls in the passage. He counted thirty-four before they reached his door. He touched a stud. The door opened and there stood the Duke of Queens, in feathered finery, and lace, and gold, bowing with elaborate and meaningless courtesy. </p>
+   <p>"Lord Shark, I am here to receive your instructions!" He straightened, stroking his large black beard and looking about the room with a curiosity Lord Shark found offensive. </p>
+   <p>"This other? Is he your second?" </p>
+   <p>"Trooper O'Dwyer." </p>
+   <p>"Of the 46th Star Squadron," said Trooper O'Dwyer by way of embellishment. "Nice to know you, Lord Shark." </p>
+   <p>Lord Shark's small sigh was not heard by his visitors as he rose from behind his consoles. "We shall talk in the gunroom," he said. "This way." </p>
+   <p>He led them along a perfectly straight corridor into a perfectly square room which was lined with all the weapons his long-dead companion had collected in his lifetime. </p>
+   <p>"Phew!" said Trooper O'Dwyer. "What an armoury!" He reached out and took down a heavy energy-rifle. "I've seen these. We were hoping for an allocation." He operated the moving parts, he sighted down the barrel. "Is it charged?" </p>
+   <p>Lord Shark said tonelessly, "I believe that they are all in working condition." While Trooper O'Dwyer whistled and enthused, Lord Shark drew the Duke of Queens to the far end of the room where stood a rack of swords. "If you feel that you wish to withdraw from our agreement, my lord duke, I should like you to know that I would also be perfectly happy to forget —" </p>
+   <p>"No, no! May I?" The Duke of Queens wrapped his heavy cloak over his arm and selected an ancient sabre from the rack, flexing it and testing it for balance. "Excellent!" He smiled. "You see, Lord Shark, that I know my blades now! I am ready to meet you at any time, anywhere you decide. Your automaton proved an excellent instructor and can best me no longer. I am ready. Besides," he added, "it would not do to call off the duel. So many of my friends intend to watch. They would be disappointed." </p>
+   <p>"Friends? Come to watch?" Lord Shark was in despair. The Duke of Queens was renowned for his vulgarity, but Lord Shark had not for a moment considered that he would turn such an event into a sideshow. </p>
+   <p>"So if you will name when and where…" the Duke of Queens replaced the sword in the rack. </p>
+   <p>"Very well. It might as easily be where we first met, on the plain, as anywhere." </p>
+   <p>"Good. Good." </p>
+   <p>"As to time — say a week from today?" </p>
+   <p>"A week? I know the expression. Let me think…" </p>
+   <p>"Seven days — seven rotations of the planet around the sun." </p>
+   <p>"Ah, yes…" The duke still seemed vague, so Lord Shark said impatiently: </p>
+   <p>"I will make you the loan of one of my chronometers. I will set it to indicate when you should leave to arrive at the appropriate time." </p>
+   <p>"You are generous, Lord Shark." </p>
+   <p>Lord Shark turned away. "I will be glad when this is over," he said. He glared at Trooper O'Dwyer, but the trooper was oblivious to his displeasure. He was now inspecting another weapon. </p>
+   <p>"I'd sure love the chance of trying one of these babies out," he hinted. </p>
+   <p>Lord Shark ignored him. </p>
+   <p>"We shall fight, Duke of Queens, until one of us is killed. Does that suit you?" </p>
+   <p>"Certainly. It is what I expected." </p>
+   <p>"You are not reluctant to die. I assumed…" </p>
+   <p>"I've died more than once, you know," said the duke airily. "The resurrection is sometimes a little disorientating, but it doesn't take long to —" </p>
+   <p>"I shall not expect to be resurrected," Lord Shark told him firmly. "I intend to make that one of the terms of this duel. If killed — then it is final." </p>
+   <p>"You are serious, sir?" The Duke of Queens was surprised. </p>
+   <p>"It is my nature to be ever serious, Duke of Queens." </p>
+   <p>The Duke of Queens considered for a moment, stroking his beard. "You would be annoyed with me if I did see to it that you were resurrected?" </p>
+   <p>"I would consider it extremely bad-mannered, sir." </p>
+   <p>The duke was conscious of his reputation for vulgarity. "Then, of course, I must agree." </p>
+   <p>"You may still withdraw." </p>
+   <p>"No. I stand by your terms, Lord Shark. Absolutely." </p>
+   <p>"You will accept the same terms for yourself, if I kill you?" </p>
+   <p>"Oh!" </p>
+   <p>"You will accept the same terms, sir?" </p>
+   <p>"To remain dead?" </p>
+   <p>Lord Shark was silent. </p>
+   <p>Then the Duke of Queens laughed. "Why not? Think of the entertainment it will provide for our friends!" </p>
+   <p>"Your friends," said Lord Shark the Unknown pointedly. </p>
+   <p>"Yes. It will give the duel an authentic flavour. And there would be no question that I would not have created a genuine stir, eh? Though, of course, I would not be in a position to enjoy my success." </p>
+   <p>"I gather, then," said Lord Shark in a peculiar voice, "that you are willing to die for the sake of this frivolity?" </p>
+   <p>"I am, sir. Though 'frivolity' is hardly the word. It is, at very least, an enjoyable jest — at best an act of original artistry. And that, I confide to you, Lord Shark, is what it has always been my ambition to achieve." </p>
+   <p>"Then we are agreed. There is no more to say. Would you choose a sword?" </p>
+   <p>"I'll leave that to you, sir, for I respect your judgement better than my own. If I might continue to borrow your automaton until the appointed time…?" </p>
+   <p>"Of course." </p>
+   <p>"Until then." The Duke of Queens bowed. "O'Dwyer?" </p>
+   <p>The trooper looked up from a gun he had partially dismantled. "Duke?" </p>
+   <p>"We can leave now." </p>
+   <p>Reluctantly, but with expert swiftness, Trooper O'Dwyer reassembled the weapon, cheerfully saluted Lord Shark and, as he left, said, "I'd like to come back and have another look at these some time." </p>
+   <p>Lord Shark ignored him. Trooper O'Dwyer shrugged and followed the Duke of Queens from the room. </p>
+   <p>A little later, watching the great kite float into the distance, Lord Shark tried to debate with himself the mysteries of the temperament the Duke of Queens had revealed, but an answer was beyond him; he merely found himself confirmed in his opinion of the stupidity of the whole cosmos. It would do no great harm, he thought, to extinguish one small manifestation of that stupidity: the Duke of Queens certainly embodied everything Lord Shark most loathed about his world. And, if he himself, instead, were slain, then that would be an even greater consolation — though he believed the likelihood was remote. </p>
+  </section>
+  <section>
+   <title>
+    <p>8. Matters of Honour </p>
+   </title>
+   <p>Not long after the exchange between the Duke of Queens and Lord Shark, Trooper Kevin O'Dwyer, becoming conscious of his own lack of exercise, waddled out for a stroll in the sweet-smelling forest which lay to the west of the duke's palace. </p>
+   <p>Trooper O'Dwyer was concerned for the duke's safety. It had only just dawned on him what the stakes were to be. He took a kindly and patronizing interest in the well-being of the Duke of Queens, regarding his host with the affection one might feel towards a large, stupid Labrador, an amiable Labrador. This was perhaps a naive view of the duke's character, but it suited the good-natured O'Dwyer to maintain it. Thus, he mulled the problem over as he sat down under a gigantic daffodil and rested a pair of legs which had become unused to walking. </p>
+   <p>The scent of the monstrous flowers was very heady and it made the already weary Trooper O'Dwyer rather drowsy, so that he had not accomplished very much thinking before he began to nod off, and would have fallen into a deep sleep had he not been tapped smartly on the shoulder. He opened his eyes with a grunt and looked into the gaunt features of his old comrade Trooper Gan Hok. With a gesture, Trooper Gan Hok cautioned O'Dwyer to silence, whispering, "Is anyone else with you?" </p>
+   <p>"Only you." Trooper O'Dwyer was pleased with his wit. He grinned. </p>
+   <p>"This is serious," said Trooper Gan Hok, wriggling the rest of his thin body from the undergrowth. "We've been trying to contact you for days. We're busting off. Sergeant Martinez sent me to find you. Didn't you know we'd escaped?" </p>
+   <p>"I heard you'd disappeared, but I didn't think much of it. Has something come up?" </p>
+   <p>"Nothing special, only we decided it was our duty to try to get back. Sergeant Martinez reckons that we're as good as deserters." </p>
+   <p>"I thought we were as good as POWs?" said O'Dwyer reasonably. "We can't get back. Only experienced time travellers can even attempt it. We've been told." </p>
+   <p>"Sergeant Martinez doesn't believe 'em." </p>
+   <p>"Well," said O'Dwyer, "I do. Don't you?" </p>
+   <p>"That's not the point, trooper," said Gan Hok primly. "Anyway, it's time to rejoin your squad. I've come to take you back to our HQ. We've got a foxhole on the other side of this jungle, but time's running out, and so are our supplies. We can't work the power rings. We need food and we need weapons before we can put the rest of the sergeant's plan into operation." </p>
+   <p>Through one of the gaps in his shirt Trooper O'Dwyer scratched his stomach. "It sounds crazy. What's your opinion? Is Martinez in his right mind?" </p>
+   <p>"He's in command. That's all we have to know." </p>
+   <p>Before he had become a guest of the Duke of Queens, Trooper O'Dwyer would have accepted this logic, but now he was not sure he found it palatable. "Tell the sergeant I've decided to stay. Okay?" </p>
+   <p>"That is desertion. Look at you — you've been corrupted by the enemy!" </p>
+   <p>"They're not the enemy, they're our descendants." </p>
+   <p>"And they wouldn't exist today if we hadn't done our duty and wiped out the Vultures — that's assuming what they say is true." Gan Hok's voice took on the hysterical tones of the very hungry. "If you don't come, you'll be treated as a deserter." Meaningly, Trooper Gan Hok fingered the knife at his belt. </p>
+   <p>O'Dwyer considered his position and then replied. "Okay, I'll come with you. There isn't a chance of this plan working anyhow." </p>
+   <p>"The sergeant's got it figured, O'Dwyer. There's a good chance." </p>
+   <p>With a sigh, Trooper O'Dwyer climbed to his feet and lumbered after Trooper Gan Hok as he moved with nervous stealth back into the forest. </p>
+   <empty-line/>
+   <p>"But, dearest of dukes, you cannot take such terms seriously!" The Iron Orchid's skin flickered through an entire spectrum of colour as, in agitation, she paced the floor of the "gym". </p>
+   <p>Embarrassed, he fingered the cloak of the dormant duelling automaton. "I have agreed," he said quietly. "I thought you would find it amusing — you, in particular, my petalled pride." </p>
+   <p>"I believe," she replied, "that I feel sad." </p>
+   <p>"You must tell Werther. He will be curious. It is the emotion he most yearns to experience." </p>
+   <p>"I would miss your company so much if Lord Shark kills you. And kill you he will, I am sure." </p>
+   <p>"Nonsense. I am the match for his automaton, am I not?" </p>
+   <p>"Who knows how Lord Shark programmed the beast? He could be deceiving you." </p>
+   <p>"Why should he? Like you, he tried to dissuade me from the duel." </p>
+   <p>"It might be a trick." </p>
+   <p>"Lord Shark is incapable of trickery. It is not in his nature to be devious." </p>
+   <p>"What do you know of his nature? What do any of us know?" </p>
+   <p>"True. But I have my instincts." </p>
+   <p>The Iron Orchid had a low opinion of those. </p>
+   <p>"If you wait," he said consolingly, "you will observe my skill. The automaton is programmed to respond to certain verbal commands. I intend, now, to allow it to try to wound me." He turned, presented his sword at the ready and said to the automaton, "We fight to wound." Immediately the mechanical duellist prepared itself, balancing on the balls of its feet in readiness for the duke's attack. </p>
+   <p>"Forgive me," said the Iron Orchid coldly, "if I do not watch. Farewell, Duke of Queens." </p>
+   <p>He was baffled by her manner. "Goodbye, lovely Iron Orchid." His sword touched the automaton's; the automaton feinted; the duke parried. The Iron Orchid fled from the hall. </p>
+   <p>Righting herself at the exit, she entered her little air car, the bird of paradise, and instructed it to carry her as rapidly as possible to the house of Lord Shark the Unknown. The car obeyed, flying over many partially built and partially destroyed scenes, several of them the duke's own, of mountains, luscious sunrises, cities, landscapes of all descriptions, until the barren plain came in sight and beyond it the brown mountains, under the shadow of which lay Lord Shark's featureless dwelling. </p>
+   <p>The bird of paradise descended completely to the ground, its scintillating feathers brushing the dust; out of it climbed the Iron Orchid, walking determinedly to the door and knocking upon it. </p>
+   <p>A masked figure opened it immediately. </p>
+   <p>"Lord Shark, I have come to beg —" </p>
+   <p>"I am not Lord Shark," said the figure in Lord Shark's voice. "I am his servant. My master is in his duelling room. Is your business important?" </p>
+   <p>"It is." </p>
+   <p>"Then I shall inform him of your presence." The machine closed the door. </p>
+   <p>Impatient and astonished, for she had had no real experience of such behaviour, the Iron Orchid waited until, in a while, the door was opened again. </p>
+   <p>"Lord Shark will receive you," the automaton told her. "Follow me." </p>
+   <p>She followed, remarking to herself on the unaesthetic symmetry of the interior. She was shown into a room furnished with a chair, a bench and a variety of ugly devices which she took to be crude machines. On one side of her stood Lord Shark the Unknown, a sword still in his gloved hand. </p>
+   <p>"You are the Iron Orchid?" </p>
+   <p>"You remember that we met when you challenged my friend the Duke of Queens?" </p>
+   <p>"I remember. But I did not challenge him. He asked how he might make amends for destroying the lichen I had been growing. He built his continent upon it." </p>
+   <p>"His Afrique." </p>
+   <p>"I do not know what he called it. I suggested a duel, because I wished to test my abilities against those of another mortal. I regretted this suggestion when I understood the light in which the duke accepted it." </p>
+   <p>"Then you would rather not continue with it?" </p>
+   <p>"It does not please me, madam, to be a clown, to be put to use for the entertainment of those foolish and capricious individuals you call your friends!" </p>
+   <p>"I do not understand you." </p>
+   <p>"Doubtless you do not." </p>
+   <p>"I regret, however, that you are displeased." </p>
+   <p>"Why should you regret that?" He seemed genuinely puzzled. "I regret only that my privacy has been disturbed. You are the third to visit me." </p>
+   <p>"You have only to refuse to fight and you are saved from enduring that which disturbs you." </p>
+   <p>The shark-mask looked away from her. "I must kill your Duke of Queens, as an example to the rest of you — as an example of the futility of all existence, particularly yours. If he should kill me, then I am satisfied, also. There is a question of honour involved." </p>
+   <p>"Honour? What is that?" </p>
+   <p>"Your ignorance confirms my point." </p>
+   <p>"So you intend to pursue this silly adventure to the bitter end?" </p>
+   <p>"Call it what you like." </p>
+   <p>"The duke's motives are not yours." </p>
+   <p>"His motives do not interest me." </p>
+   <p>"The duke loves life. You hate it." </p>
+   <p>"Then he can withdraw." </p>
+   <p>"But you will not?" </p>
+   <p>"You have presented no arguments to convince me that I should." </p>
+   <p>"But he seeks only to please his fellows. He agreed to the duel because he hoped it would please you." </p>
+   <p>"Then he deserves death." </p>
+   <p>"You are unkind, Lord Shark." </p>
+   <p>"I am a man of intellect, madam, whose misfortune it is to find himself alone in an irrational universe. I do you all the credit of having the ability to see what I see, but I despise you for your unwillingness to accept the truth." </p>
+   <p>"You see only one form of truth." </p>
+   <p>"There is only one form of truth." His grey shoulders shrugged. "I see, too, that your reasons for visiting me were whimsical, after all. I would be grateful if you would leave." </p>
+   <p>As she turned to go, something mechanical screamed from the desk. She paused. With a murmur of displeasure, Lord Shark the Unknown hurried to his consoles. </p>
+   <p>"This is intolerable!" He stared into a screen. "A horde has arrived! When you leave, please ask them to go away." </p>
+   <p>She craned her neck to look at the screen. "Why!" she exclaimed. "It is My Lady Charlotina's missing time travellers. What could their reason be, Lord Shark, for visiting you?" </p>
+  </section>
+  <section>
+   <title>
+    <p>9. Questions of Power </p>
+   </title>
+   <p>Brannart Morphail was not in a good temper. The scientist gesticulated at My Lady Charlotina, who had come to see him in his laboratories, which were attached to her own apartments at Below the Lake. "Another time machine? Why should I waste one? I have so few left!" </p>
+   <p>"Surely you have one which you like less than the others?" she begged. </p>
+   <p>"Big enough to take twenty-five men? It is impossible!" </p>
+   <p>"But they are so destructive!" </p>
+   <p>"What serious harm can they do if their demands are simply ignored?" </p>
+   <p>"The Iron Orchid and Lord Shark are their prisoners. They have all those weapons of Lord Shark's. They have already destroyed the mountains in a most dramatic way." </p>
+   <p>"I enjoyed the spectacle." </p>
+   <p>"So did I, dear Brannart." </p>
+   <p>"And if they destroy the Iron Orchid and Lord Shark, we can easily resurrect them again." </p>
+   <p>"They intend to subject them to pain , Brannart, and I gather that pain is enjoyable only up to a point. Please agree." </p>
+   <p>"The responsibility for those creatures was yours, My Lady Charlotina. You should not have let them wander about willy-nilly. Now look what has happened. They have invaded Lord Shark's home, captured both Lord Shark and the Iron Orchid (what on earth was she doing there?), seized those silly guns, and are now demanding a time machine in which to return to their own age. I have spoken to them already about the Morphail Effect, but they choose not to believe me." He limped away from her. "They shall not have a time machine." </p>
+   <p>"Besides," said My Lady Charlotina, "Lord Shark is due, very shortly, to fight his duel with the Duke of Queens. We have all been looking forward to it so much. Think of the disappointment. I know you wanted to watch." </p>
+   <p>His hump twitched. "That's a better reason, I'd agree." He frowned. "There might be a solution." </p>
+   <p>"Tell me what it is, most sagacious of scientists!" </p>
+   <p>Sergeant Martinez glared at Lord Shark and the Iron Orchid who, bound firmly, lay propped in a corner of the room. He and his men were armed with the pick of the weapons and they looked much more confident than when they had pushed past the Iron Orchid as she opened the door of Lord Shark's house. </p>
+   <p>"We don't like to do this," said Sergeant Martinez, "but we're running out of patience. Your friend Lady Charlotina is going to get your ear if someone doesn't deliver that time ship soon." </p>
+   <p>"Why should she need it?" The Iron Orchid was enjoying herself. Her sense of boredom had lifted completely and she felt that if they continued to be prisoners for a little longer, the duel would have to be forgotten about. She wished, however, that Sergeant Martinez had not taken all her power rings from her fingers. </p>
+   <p>"Tell your robot to get us some more grub," ordered the sergeant, digging Lord Shark in the ribs with the toe of his boot. Lord Shark complied. He seemed unmoved by what was happening; it rather confirmed his general view of an unreasonable and hostile universe. He felt vindicated. </p>
+   <p>A screen came to life. Trooper O'Dwyer, looking miserable, tuned the image with a manual control he had been playing with. "It's the old crippled guy," he informed his sergeant. </p>
+   <p>Sergeant Martinez said importantly, "I'll take over, trooper. Hi," he addressed Brannart Morphail. "Have you agreed to give us a ship?" </p>
+   <p>"One is on its way to you." </p>
+   <p>Sergeant Martinez looked pleased with himself. "Okay. We get the ship and you get the hostages back." </p>
+   <p>The Iron Orchid's heart sank. "Do not give in to them, Brannart!" she cried. "Let them do their worst!" </p>
+   <p>"I must warn you," said Brannart Morphail, "that it will do you little good. Time refuses paradox. You will not be able to return to your own age — or, at least, not for long. You would do better to forget this whole ridiculous venture…" </p>
+   <p>Sergeant Martinez switched him off. </p>
+   <p>"See?" he said to Trooper O'Dwyer. "I told you it would work. Like a dream." </p>
+   <p>"They must be treating it as a game," said O'Dwyer. "They've got nothing to fear. By using those power rings they could wipe us out in a second." </p>
+   <p>Sergeant Martinez looked at the rings he had managed to get onto his little finger. "I can't figure out why they don't work for me." </p>
+   <p>"They are, in essence, biological," said the Iron Orchid. "They work only for the individual who owns them, translating his desires much as a hand does — without conscious thought." </p>
+   <p>"Well, we'll see about that. What about the robots, will they obey anybody?" </p>
+   <p>"If so programmed," said Lord Shark. </p>
+   <p>"Okay" (of the automaton which had re-entered with a tray of food), "tell that one to obey me." </p>
+   <p>Lord Shark instructed the robot accordingly. "You will obey the soldiers," he said. </p>
+   <p>"There's some kind of vehicle arrived outside." O'Dwyer looked up from the screen. He addressed Lord Shark. "How come this equipment looks like it's out of a museum?" </p>
+   <p>"My companion," explained Lord Shark, "he built it." </p>
+   <p>"Funny-looking thing. More like a space ship than a time ship." Trooper Denereaz stared at the image: a long, tubular construction, tapering at both ends, hovering just above the ground. </p>
+   <p>"It's going to be good to get back amongst the cold, clean stars," said Sergeant Martinez sentimentally, "where the only things a man's got to trust is himself and a few buddies, and he knows he's fighting for something important. Maybe you people don't understand that. Maybe there's no need for you to understand. But it's because there are men like us, prepared to go out there and get their guts shot out of them in order to keep the universe a safe place to live in, that the rest of you sleep well in your beds at night, dreaming your nice, comfortable dreams…" </p>
+   <p>"Hadn't we better get going, Sergeant?" asked Trooper O'Dwyer. "If we're going." </p>
+   <p>"It could be a trap," said Sergeant Martinez grimly, "so we'd better go out in groups of five. First five occupies the ship, checks for occupants, booby traps and so on, then signals to the next five, until we're all out. Trooper O'Dwyer, keep a watch on that screen until you see we're all aboard and nobody's shooting at us, then follow — oh, and bring that robot with you. We can use him." </p>
+   <p>"Yes, sir." </p>
+   <p>"And if there's any smell of a set-up, kill the hostages." </p>
+   <p>"Yes, sir," said Trooper O'Dwyer sceptically. </p>
+   <p>A bell began to ring. </p>
+   <p>"What does that mean?" demanded Sergeant Martinez. </p>
+   <p>"It means that I shall be able to keep my appointment with the Duke of Queens," Lord Shark told him. </p>
+  </section>
+  <section>
+   <title>
+    <p>10. The Duel </p>
+   </title>
+   <p>The remains of the Rocky Mountains were still smouldering in the background as, from a safe distance, the crowd watched the ship containing the troopers rise into the air. Behind the crowd, feeling a little upset by the lack of attention, the Duke of Queens stood, sword in hand, awaiting his antagonist. The Duke was early. He had no interest in these other events, which he regarded as an unwelcome interruption, threatening to diffuse the drama of his duel with Lord Shark the Unknown; he thought that Sergeant Martinez and his men had behaved rather badly. Certainly, at any other time, he would have been as diverted by their actions as anyone, but, as it was, they had confused the presentation and robbed it of some of its tension. </p>
+   <p>At last the duke noticed that heads were beginning to turn in his direction, and he heard someone call: </p>
+   <p>"The Iron Orchid — Lord Shark — they emerge! They are saved!" </p>
+   <p>There came a chorus of self-conscious exultation. </p>
+   <p>The ranks parted; now the Iron Orchid, her slender fingers bare of rings, walked with a self-satisfied air beside Lord Shark the Unknown, stiff, sworded and stern. </p>
+   <p>They confronted each other over a narrow fissure in the earth. The Duke of Queens bowed. Lord Shark the Unknown, after a second's hesitation, bowed. </p>
+   <p>The Iron Orchid seemed reconciled. She took a step back. "May the best man win!" she said. </p>
+   <p>"My lord." The duke presented his sword. "To the death!" </p>
+   <p>Silently, Lord Shark the Unknown replied to the courtesy. </p>
+   <p>"En tou rage, mon coeur!" The Duke of Queens adopted the traditional stance, balancing on the balls of his feet, his body poised, one hand upon his hip, ready for the lunge. Lord Shark's body fell into the same position as precisely as that of one of his own automata. </p>
+   <p>The crowd moved forward, but kept its distance. </p>
+   <p>Lord Shark lunged. The Duke of Queens parried, at the same time leaning back to avoid the point of the blade. Lord Shark continued his forward movement, crossing the fissure, lunged again, was parried again. This time the Duke of Queens lunged and was parried. For a short while it was possible for the spectators to follow the stylized movements of the duellists, but gradually, as the combatants familiarized themselves with each other's method of fighting, the speed increased, until it was often impossible to see the thin blades, save for a gleaming blur as they met, parted, and met again. </p>
+   <p>Back and forth across the dry, dancing dust of that plain the two men moved, the duke's handsome, heavy features registering every escape, every minor victory, while the immobile mask of Lord Shark the Unknown gave no indication of how that strange, bleak recluse felt when his shoulder was grazed by the duke's blade, or when he came within a fraction of an inch of skewering his opponent's rapidly beating heart. </p>
+   <p>At first some of the crowd would applaud a near-miss or gasp as one of the duellists turned his body aside from a lunge which seemed unerring; soon, however, they fell silent, realizing that they must feel some of the tension the ancients had felt when they attended such games. </p>
+   <p>The duke, refusing in homage to those same ancestors to allow himself any energy boosts, understood that he was tiring much more than he had tired during his tuition, but he understood, also, that Lord Shark the Unknown had patterned his automata entirely after himself, for Lord Shark fought in exactly the same manner as had his mechanical servant, and this made the Duke of Queens more hopeful. Dimly he became aware of the implications of his bargain with Lord Shark: to die and never to be resurrected, to forego the rich enjoyment of life, to become unconscious forever. His attention wavered as these thoughts crept into his mind, he parried a lunge a little too late. He felt the sharp steel slide into his body. He knew pain. He gasped. Lord Shark the Unknown stepped back as the Duke of Queens staggered. </p>
+   <p>Lord Shark was expectant, and the duke realized that he had forgotten to acknowledge the wound. </p>
+   <p>"Toujours gai, mon coeur!" He wondered if he were dying, but no, the pain faded and became an unpleasant ache. He was still able to continue. He drew himself upright, conscious of the Iron Orchid's high-pitched voice in the background. </p>
+   <p>"En tou rage!" he warned, and lunged before he had properly regained his balance, falling sideways against Lord Shark's sword, but able to step back in time, recall his training and position himself properly so that when Lord Shark lunged again, he parried the stroke, returned it, parried again and returned again. </p>
+   <p>The Duke of Queens wondered at the temperature changes in his body. He had felt uncomfortably warm and now he felt a chill throughout, from head to toe, with only his wound glowing hot, but no longer very painful. </p>
+   <p>And Lord Shark the Unknown pushed past the duke's defence and the point of his sword gouged flesh from the duke's left arm, just below the shoulder. </p>
+   <p>"Oh!" cried the duke, and then, "Toujours gai!" </p>
+   <p>In grim silence, Lord Shark the Unknown gave him a few moments in which to recover. </p>
+   <p>The Duke of Queens was surprised at his own reaction now, for he quickly resumed his stance, coolly gave his warning, and found that a new emotion directed him. He believed that the emotion must be "fear". </p>
+   <p>And his lunges became more precise, his parries swifter, firmer, so that Lord Shark the Unknown lost balance time after time and was hard-pressed to regain it. It seemed to some of those who watched that Lord Shark was nonplussed by this new, cold attack. He began to lose ground, backing further and further away under the momentum of the duke's new-found energy. </p>
+   <p>And then the Duke of Queens, unthinking, merely a duellist, thrust once and struck Lord Shark the Unknown in the heart. </p>
+   <p>Although he must have been quite dead, Lord Shark stood erect for a little while, gradually lowering his sword and then falling, as stiff in death as he had been in life, onto the hard earth; his blood flooded from him, giving nourishment to the dust. </p>
+   <p>The Duke of Queens was astonished by what he had accomplished. Even as the Iron Orchid and his other friends came slowly towards him, he found that he was shaking. </p>
+   <p>The duke dropped his blade. His natural reaction, at this time, would have been to make immediate arrangements for Lord Shark's resurrection, but Lord Shark had been firm, remorseless in his affirmation that if death came to him he must remain dead through the rest of Time. The duke wondered at the thoughts and feelings, all unfamiliar, which filled him. </p>
+   <p>He could not understand why the Iron Orchid smiled and kissed him and congratulated him, why My Lady Charlotina babbled of the excitement he had provided, why Bishop Castle and his old acquaintance Captain Oliphaunt clapped him on the back and reminded him of his wounds. </p>
+   <p>"You are a Hero, darling duke!" cried the Everlasting Concubine. "You must let me nurse you back to health!" </p>
+   <p>"A fine display, glamorous Lord of Queens!" heartily praised the captain. "Not since 'Cannibals' has there been such entertainment!" </p>
+   <p>"Indeed, the fashion begins already! Look!" Bishop Castle displayed a long and jewelled blade. </p>
+   <p>The Duke of Queens groaned and fell to his knees. "I have killed Lord Shark," he said. A tear appeared on his cheek. </p>
+   <p>In the reproduction of what had been either a space- or air-ship, part of the collection long since abandoned by the Duke of Queens, Sergeant Martinez and his men peered through portholes at the distant ground. The ship had ceased to rise but now was borne by the currents of the wind. No response came from the engines; propellers did not turn, rockets did not fire — even the little sails rigged along the upper hull would not unfurl when Sergeant Martinez sent a reluctant Denereaz out to climb the ladder which clung to the surface of what was either a gas bag or a fuel tank. </p>
+   <p>"We have been suckered," announced Sergeant Martinez, after some thought. "This is not a time machine." </p>
+   <p>"Not so far," agreed Trooper Gan Hok, helping himself to exotic food paste from a cabinet. The ship was well stocked with provisions, with alcohol and dope. </p>
+   <p>"We could be up here forever," said Sergeant Martinez. </p>
+   <p>"Well, for a good while," agreed Trooper Smith. "After all, Sarge, what goes up must, eventually, come down — if we're still in this planet's gravity field, that is. Which we are." </p>
+   <p>Only Trooper Kevin O'Dwyer appeared to have accepted the situation with equanimity. He lay on a divan of golden plush while the stolen automaton brought him the finest food from the cabinets. </p>
+   <p>"And what I'd like to know, O'Dwyer, is why that damn robot'll only respond to your commands," said Sergeant Martinez darkly. </p>
+   <p>"Maybe it respects me, Sarge?" </p>
+   <p>Without much conviction, Sergeant Martinez said: "You ought to be disciplined for insubordination, O'Dwyer. You seem to be enjoying all this." </p>
+   <p>"We ought to make the best of it, that's all," said O'Dwyer. "Do you think there's any way of getting in touch with the surface? We could ask them to send up some girls." </p>
+   <p>"Be careful, O'Dwyer." Sergeant Martinez lay back on his own couch and closed his eyes, taking a strong pull on his cigar. "That sounds like fraternization to me. Don't forget that those people have to be regarded as alien belligerents." </p>
+   <p>"Sorry, Sarge. Robot, bring me another drink of that green stuff, will you?" </p>
+   <p>The automaton seemed to hesitate. </p>
+   <p>"Hurry it up," said O'Dwyer. </p>
+   <p>Returning with the drink, the automaton handed it to O'Dwyer and then hissed through its mask. "What purpose is there any longer to this deception, O'Dwyer?" </p>
+   <p>O'Dwyer rose and took the robot by the arm, leading it from the main passenger lounge into the control chamber, now unoccupied. "You must realize, Lord Shark, that if they realize I made a mistake and brought you up here instead of the robot, they'll use you as a bargaining counter." </p>
+   <p>"Should I care?" </p>
+   <p>"That's for you to decide." </p>
+   <p>"Your logic in substituting one of my automata for me and sending it out with the Iron Orchid to fight the Duke of Queens is still a mystery to me." </p>
+   <p>"Well, it's pretty simple to explain, Sharko. The duke was used to fighting robots — so I gave him a sporting chance. Also, when it's discovered it's a robot, and he's dead, they'll be able to bring him back to life — 'cause the rules will have been broken. Get it? If the robot's been put out of action, so what? Yeah?" </p>
+   <p>"Why should you have bothered to interfere?" </p>
+   <p>"I like the guy. I didn't want to see him killed. Besides, it was a favour to the Iron Orchid, too — and she looks like a lady who likes to return a favour. We worked it out between us." </p>
+   <p>"I heard you. Releasing me from my bonds when it was too late for me to return, then suggesting to your comrades that I was an automaton. Well, I shall tell them that you have deceived them." </p>
+   <p>"Go ahead. I'll deny it." </p>
+   <p>Lord Shark the Unknown walked to the porthole, studying the peculiar purple clouds which someone had created in this part of the sky. </p>
+   <p>"All my life I have been unable to see the point of human activity," he said. "I have found every experience further proof of the foolishness of my fellows, of the absolute uselessness of existence. I thought that no expression of that stupidity could bewilder me again. Now I must admit that my assumptions, my opinions, my most profound beliefs seem to dissipate and leave me as confused as I was when I first came into this tired and decadent universe. You are an alien here yourself. Why should you help the Duke of Queens?" </p>
+   <p>"I told you. I like him. He doesn't know when to come in out of the rain. I fixed things so nobody lost. Is that bad?" </p>
+   <p>"You did all that, including risking the disapproval of your fellows, out of an emotion of — what — affection? — for that buffoon?" </p>
+   <p>"Call it enlightened self-interest. The fact is that the whole thing's defused. I didn't think we'd get off this planet, or out of this age, and I'm glad we haven't. I like it here. But Sergeant Martinez had to make the attempt, and I had to go along with him, to keep him happy. Don't worry, we'll soon be on-planet again." </p>
+   <p>He gave Lord Shark the Unknown a friendly slap on the back. "All honour satisfied, eh?" </p>
+   <p>And Lord Shark laughed. </p>
+  </section>
+ </body>
+ <binary id="_04LegendsFromtheEndofTime1976.jpg" content-type="image/jpeg">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
+/////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////
+////////A+gAAAAA/////////////////////////////wPoAAA4QklNBAgAAAAAABAAAAAB
+AAACQAAAAkAAAAAAOEJJTQQeAAAAAAAEAAAAADhCSU0EGgAAAAADhQAAAAYAAAAAAAAAAAAA
+AZAAAADtAAAAKAAwADQAIAAtACAATABlAGcAZQBuAGQAcwAgAEYAcgBvAG0AIAB0AGgAZQAg
+AEUAbgBkACAAbwBmACAAVABpAG0AZQAgAC0AIAAxADkANwA2AAAAAQAAAAAAAAAAAAAAAAAA
+AAAAAAABAAAAAAAAAAAAAADtAAABkAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA
+AAAAABAAAAABAAAAAAAAbnVsbAAAAAIAAAAGYm91bmRzT2JqYwAAAAEAAAAAAABSY3QxAAAA
+BAAAAABUb3AgbG9uZwAAAAAAAAAATGVmdGxvbmcAAAAAAAAAAEJ0b21sb25nAAABkAAAAABS
+Z2h0bG9uZwAAAO0AAAAGc2xpY2VzVmxMcwAAAAFPYmpjAAAAAQAAAAAABXNsaWNlAAAAEgAA
+AAdzbGljZUlEbG9uZwAAAAAAAAAHZ3JvdXBJRGxvbmcAAAAAAAAABm9yaWdpbmVudW0AAAAM
+RVNsaWNlT3JpZ2luAAAADWF1dG9HZW5lcmF0ZWQAAAAAVHlwZWVudW0AAAAKRVNsaWNlVHlw
+ZQAAAABJbWcgAAAABmJvdW5kc09iamMAAAABAAAAAAAAUmN0MQAAAAQAAAAAVG9wIGxvbmcA
+AAAAAAAAAExlZnRsb25nAAAAAAAAAABCdG9tbG9uZwAAAZAAAAAAUmdodGxvbmcAAADtAAAA
+A3VybFRFWFQAAAABAAAAAAAAbnVsbFRFWFQAAAABAAAAAAAATXNnZVRFWFQAAAABAAAAAAAG
+YWx0VGFnVEVYVAAAAAEAAAAAAA5jZWxsVGV4dElzSFRNTGJvb2wBAAAACGNlbGxUZXh0VEVY
+VAAAAAEAAAAAAAlob3J6QWxpZ25lbnVtAAAAD0VTbGljZUhvcnpBbGlnbgAAAAdkZWZhdWx0
+AAAACXZlcnRBbGlnbmVudW0AAAAPRVNsaWNlVmVydEFsaWduAAAAB2RlZmF1bHQAAAALYmdD
+b2xvclR5cGVlbnVtAAAAEUVTbGljZUJHQ29sb3JUeXBlAAAAAE5vbmUAAAAJdG9wT3V0c2V0
+bG9uZwAAAAAAAAAKbGVmdE91dHNldGxvbmcAAAAAAAAADGJvdHRvbU91dHNldGxvbmcAAAAA
+AAAAC3JpZ2h0T3V0c2V0bG9uZwAAAAAAOEJJTQQoAAAAAAAMAAAAAT/wAAAAAAAAOEJJTQQR
+AAAAAAABAQA4QklNBBQAAAAAAAQAAAABOEJJTQQMAAAAABa4AAAAAQAAAF8AAACgAAABIAAA
+tAAAABacABgAAf/Y/+AAEEpGSUYAAQIBAEgASAAA/+0ADEFkb2JlX0NNAAL/7gAOQWRvYmUA
+ZIAAAAAB/9sAhAAMCAgICQgMCQkMEQsKCxEVDwwMDxUYExMVExMYEQwMDAwMDBEMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMAQ0LCw0ODRAODhAUDg4OFBQODg4OFBEMDAwMDBERDAwM
+DAwMEQwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCACgAF8DASIAAhEBAxEB/90A
+BAAG/8QBPwAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAAAAAAAAAB
+AAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGxQiMk
+FVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV
+xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgU1AQAC
+EQMhMRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1Sj
+F2RFVTZ0ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH
+/9oADAMBAAIRAxEAPwDmWNL3FrAXOM6NBcdNT7Wq1iY3Tr8G++3ProyWE+hjuiHgNY4Pc+d+
+2xz311+mz/BITcq+upttYrrDWnHfDB7xLcgOu3bt9m9m71P+CVuzq3V2tta+4FwNZc30q5cX
+ju7Zu9n/AFamMumgN1+PD/3UWEYzV0SKv/myn/6jyNMY9ZeWDJoIBb+k3HZDvztzWu/O9idu
+IHNLhk0GDBG4yNdsu9ntarf7RzvW9FuTLjY6y4mtgHqNDzubt+lX7rK9n/qLYm9Z6l6jLy5j
+7MkCRsDQS2xzhv8AS2+q51j/AH+okJA1XX+3/vFxxyjdjawaqXy8H7sv9bBpCgPq9X1qQIcS
+0vh0N/k/y/8AB/voMg8GfFaJ6llDItJbS01MLLJqD2vax7HN30yxjnbms/sIdvUPUNVz8bGd
+VRZt9Jtfpiz2f4Ytc72O2+p6P+DtS4x0F6X/AI3y6/1kHHIb6USD39Hz+n+qgyT+go1/NH/U
+VKt3Vva17ag4SPSscB5iljm/5qFWWDHY5zWEuv8ATc94mG7Wn+KECAKrqfxnJEt/oGu46QEw
+PlKuNayzJtYKK21UF8iDuECwVbnF25/vZ70AOpfiGyxjWH1AzfWILQWOfu2/n+5OEx2PT/n7
+LEUlKf8Aer+RW1l+PRVVW4XEBw2g7pc1vtefe1DyWY/2imtsNxNAyxvLmkxdY9/0nP37v6iE
+cgNafNf4Jf/Q53GspbQWWwWOeXFveWtD6/8APe30v7ae28F1tpcHPcaHxPLmgGyP6rkIMBwn
+2j/B2Cfg5sf9XsVqwfZfQYAD6m1twj6QAZuq/q7rXoy4RkJGsya4b09PBlP/ADYwZIcZxAGo
+44x4uOuKVZPd5eH+LOeXh/w2DfSryxYXMcx5e5vu4aQXNe+PofS9P3pq30/oLCAxtdbzsadd
+0kMDd5d7/dvRa2huY7EgGuiCzQfSbsLn/wDXd70N8s9Jm1otvdsv9oIDgGMe3+R7rPUds/wq
+aJCVDXWI4dd8fDOpf4kmQwMBKWgEZy4/TfDmjPFxQjL9KPu44cP+r/2ai2s2EtcLRZRETslz
+S1ha7cfY/wDR70H03Opc1jQC26S3cNBt/eJ9yNLXsvuLWg4pIqEDgk1sD9Pf6Th6nvUfa7GF
++1htAf7doEDcGvv2/Rds/wDUiIkR9sY69JfzkP3Y/IgwB+yc/TpxQ/mckhKXHP8AnePgh+mp
+hJNIjQ1vB1iAaWbnSQ76LUzWsbQ2utpua95c0D07HGA2l0MsYPbuc1Jji00kTu9N4btBJk0s
+azbt930k9OS2oVPu3uymCz6e6driwP5G51vo7vS/waOvQXvp/hZGjLf6BQt9E3WBvrNaA2y1
+rgfo/o4e3bse9vqfT/m7a0FzDfTXSzbX67t9e/a2du6mNlFe1SpNeFRbXa4OdftAbDhNbTtf
+u3Nb73Msd7fzNiKBWbcZ7fUDcUhjG+k87qw6PU3hv7n6X+2lsbA8pf3Y/wDfoA6Lm6y19TaW
+sFtlTvTvDiQK9W2enuY307Hem9u9zUC5rH5FeONhrYfRFTS4BoDocHWPYHOc97tz7WsT4l1L
+XYwLXutqqcx22TtJNnt9LZvf9P8AfU72trzqnhj277d5BD5PunRj66/8xnqJ0RUwKI3r7ZKf
+/9HncO2hrAy1w2PsO9s6xs3NP/bjGpPzADW5wba4NZYCT9GzXdMfS/4tddifVmjKJNTcjaDt
+L3ZD2tB7tk+7d/VQj0Tp+5433nY4sn1rBO07fouTDKJkZGJ1r9JkjPJGAgCBV61f/S/deUZm
+bXNcQHW+1r3l30mtIIaR+a72s3vURksLWh7Q4sALXbo9wHp73fvbmsq9v/Brrf2L0/ndfA5/
+TuUR0bp2p35AHj6x/iEfcj/m/wDnLby1XGCB3jGX+N+9L+s8r9qYZ2sGywk3N3fSLht9h/we
+36df0/epssqNmNG1jCXsc0umGvPpne4/vNO9dR+xOnlrxue4W1uq3OLHkbjv3tc5ntsb+ak/
+oGE4l2+4bjMBzY18vT+ikZR6RI3Hzf1eH/ukieS9SDqJfKBrGccnT+48vW2wtqLQSRW9st11
+NDdvH7yWM62t2LVa1wJ9Uw+Q5pj2v93u+ijdWpbi59lNDi81uIr9SHbmmmnfXwz813sWebnh
+tVrNrSwvAa1o2jcB7g3+U1PiDKPTW/t/Wf8AfNeYqXlTYfW4se6wtdvyt1ddm4hwBfWxnt+i
+y9/qe7/glJtL6Rcx/d24NAcGj9Hk+xm/81iqfash1zrSQ+x5Bgt3Q4aVurb+b6c/o0mvyw6x
+21wNh3Wezkw6vw/dsenGEqIJGoH/AHKz6OrTUxubdkTpaQ1n9YOH2n/z3/4Ist2PdXY1r2Fr
+nu9oPfVOcjMqsJLnMslzoc2ILtu87XD8702J77anOqdS2C1oNksY0F/L4bW331f8YjCMoy3E
+hIAf4uya/B//0u1cbNLQ0gEcmOfHb9JYlVbs3KyL9jmit+97CwmRP827Vu1+1n6RaWA+/Mqb
+bklzIc4Ct7dTDi3dtP8AJ+juVq2ttbq31TWAdr2AyHCDH9XhQAspajcTDta4OqYxz5DbGANI
+/dc3Z+7+6svFaa+o1MtLXOa8saAfb/X1H5v01tWYznNLqSK2iCWx7T/L2/4Oz+UgVYWK7IOQ
+6s+sPaTMN/laIGzseqQKvx0Z52Jg2EPd/OEiXsO0nyf+b/nLHyWuxrH1kENaZaSQSW+Ps3bl
+sXMxvWYDDmgElodtbIH52oWXldMybbHWYo3ixxJaYaGtj27dxb9JKz0/FQiOu3fq8V9YCTn3
+2s0DbGmQeJqo2O/q7lQcC5tjWGBa5hY3seXu/wC2mlXvrA22nqdwINVjHhpaNI/Q0SFV3gY1
+Ze9tT3bgHBsu2Tudsa32M/rq1jJGOPXX/uuJrS+YoHOLfY14qYBtIb9N2u6bdnu+l+bYmY5r
+WuewaM/OdqS8/QH8na3e9Tu9pmWenw1zaw6f6zy36X9r+womXsgu3hoL6y0QNP5ytzPbt9v6
+T/ztSDbzWFb0XASC1wjdAOsRv+iYUUapwfqXbS0Au7yG/Rsb/La39Fs/PUWiuPUcyQXOLaWj
+kAbvpf6NiPFvaqf/0+ys/Ry9pJ8RE/23Kpfk3l24HaBEDgAHX1fc33/SVzpua3IpscWCt1ZG
+6TuBBHsf2+ltf/bVn0Md7Wi1ge50ucT59v8ANVTJEkad2xGQG+rXqzamYIft9SxzZ9Fpgkn8
+3e/2N/rLnMzqedj5Dhkte0XAv2VREk7a66rfzWe130lvBzMb1G2vFba9d7/olvb+0h1bMnbl
+0kt0LWmPzD9Kt7XfmOThtqfr1Wka6NfHrYzpzS2LWmsPrsGpc8AEj3fQs/MV/Gy9tI9asV+3
+Qg9/3XM/N/zlWuoLNgYB6TrA4sIAEtDt2wN2+7/v6Z+XXjtDLGOLHwAxwnX+tq13/VpaEAgo
+OxBHV4b62u3dbziQNjrmSDx/MY/Fn0d39f8A7cWJlVua2t0ENADBOnmP7Lvctb6y2tyOtZV7
+bBSH2tjdzrTjtiP3VmONVe6l01uEwHAiskch1c7G1u/eqVrCfTCtfJgyD1SGzVa5zSS0wTzH
+f+sPzkWotLXkCHNaXho4JALXbP7LvexQdUZO0EEams6uA/eaf8LX/LUB4z9ynIEgxbNjGZvZ
+aziQ3WJ0B3Hj+qjtDdsBrmsDS3kl5Grpcxm30935jLP+2rFXdLGMraSCfe4gwZP0f81L1HR7
+/eR9FxncP6rwQmGJlZ6E/wDoKbp//9Tozj2MbNT3U2CYIbHOpY5sGqyt/wDqxWPt+a4172M9
+v0y1zhuBG39G17R6fu/eVgGhzYqPqPiBP0R5v27UAtsqsY8gvG6XWO5Jhza4b+b7voKmZ2zg
+U0sul2Vng3xU0D+amX6e6D/o9+79xaBqdWYrG2yB7GmA0RDd35u1rVn5bfRrZcNHgh5IbuJc
+dXOcdzd30vY1R6X142Xenk07PUbLXA6OPgydv5n+Df8A2ERqKtV+CTZktyS9+4un3EmGHjcW
+7Z3b/wBxGy9tlZa5hs9zdzNRBB3B/ua127arGT1HBqLcZzmeo/hjnBojzDjuVZ72PhmM7cNQ
++zsIB9Rzf6m5LHDgJ/JU5cQ1FU8F9Ymn9sX677W2sLB2fFWP7P6zvzFmAB21ocTVYS1hJ1In
+h7D9DIp+lu/w7Fq9d2jq+Ra2SGWMLfTgEA00ata/85n5v8tYfqPY9xa8kud7jxugz72uV3Fc
+oCujVnpIsWWEANcJDTIgwWnxrd+YiOa17dxI109SIBP7trf8FZ/L/m7EM6ucSPpEmBxqVJri
+0yPgR2I8HKauuxY7TXgizngRprwT3UD27SitaHsbLi2mYDnfmH87Zuj1WfyW+/8A9GQ/Rdy4
++EAAeE/Scmg0K7JO9v8A/9XumPBaJO7uGjuUrRWKy3Ic2A0l4cQG/wBZx+l7fzFQyOoNxSG2
+vAdE7GBziB8JLf8Aoqu51+Q03uLXB+0srcSACNGP0Fm//i1RbAC2ZZS8itjtIIa94iNxAdZ7
+hud9L85ZTcd72ij1GOghmrdO/s3bg31G7f8At2tTy7spj8h9fptura1119z4LK9fbQwhnqWb
+vp/zf6RT6W7KyqrbsmsV4tdZ9IEEEiBr7o+m5GlE9GWP0P8ATB72neDJc8tI3T/Od939ty2H
+UNNXpVj2RD7OBHg1yBRds2tu3AaBrzrzqN27dtV5rmPaHNeHjlruR8vzEbWEPmn1uOzruWK/
+aG2NDdogAehjNhZAdXcQLPa7jc2P+ju9v/W7P+t21/za3frRWyz6zZrLBLQ+SONRj437hWMB
+hurDxX9IH273z7Rvf/J+j/KV3FIe3EUbreNdeJrzHqOoq+qB7HNPiJgHjUdoP0X/AMhyJj0+
+oSSC5rfzGkBzjH5s/m/vowfj+mHOrAaRA3OcS4e7aw7S76Oz2f6NIWYpYGEbWj3Ab38nx2T7
+mwpDOVEcMvPT/vlvCL3CJ8tj1WnSWgDRgjlrHDemDm87Gx5yfx3Kx6mNzInud1kkfytPf/bU
+7KavWaA1oEBxc0jxIl1Tvzfb+YgJ9DEjz0CjHqCC/wD/1tnqIyLGWCiBY4yHGSBHtbWxn0dn
+8tWugYFlH2h1wd6uQWvdW5/qBhbI2+ttZvt2u/SbPoIj2nYWsJY4w7cBq1v8n+Xp+jTDIspI
+sawbwCw1g6Bv0nbf39ip+DM3H42I6ze6tr3ghwcQCJH5w3S3c383/RpXU+uC12lXLzMCPznF
+x/6pCxhk2t9a1wcbB7GVtIAE/nE+57mqxLbKyPpNaRp8PFBLWvqFgLwdrnAurAHEgsZb/Jpq
++l/wz1jdJry8X1LHmHV7WuaHF28S4epuIb7dg2fRW7kPLanku2usf73HsBPu/sVtVHI2U02v
+I26NGzuJLfSqd/wrtvu/ro9kcRojvv8AR436xua76yZ1jfokkj4fZ8ZYtVRBDWPH6LcHOc3Q
+F7dje7muY53sb/01r9abHXcph7SD8fs+NKyi65tFdskB7mmzZDR7v5ol7R9P2+7f/wAGrmL5
+QB1iB/zsjXnuT4/96ybuNZ3bS2tjXPMAFpILtrq9rv8AS/mfziG1lHtkOIc2Z40bv3H6Tve/
+0/ofQSstIvucJ3ExOhGh2n1G7A3Y5v5invsc0NpBaWsFjQ0jTcYIb7WbW+9yk1Ava/Guiyx9
+iNzaW7y5pDWxBDjJLhvZpHt9v00a+PtFemm1uk+bu6haLGs3OaXO1c4nbG4tZudYzb+kd7ka
+6vc+sj6QaO/IG4n+23/psSv1RJPQ9VVoQPB//9fq6WvncfM7u/hu/wDIqnn1W+mbaHenY0ew
+gTDR2/sq6G2HkfiNPxU7GOazdLWdhEk/1Wx7lTZ3Nx+n5GUxrHvtcIkue/bBBmBXV7fYtXHp
+rpq9JsMY3WXEAQNeS5Cxm2UtNdcWMazZLjqHAfR3D6Xv2sU31l77Hvgt9hrb2G5rXDd/U9yV
+KJthbY2yxvpHeGAkOPBfIaHf2PpqpdDmy0FwrMVA8ucT7nn+W935/wDg1ebT+kBPYHd5Ajah
+BgqD3Oj9ES1vyG7d/ZRpb3eC6+0s+sGa0mS0uk+f2fGlZLxWwOc8MLHNaG7SWuOteu8+17mN
++h/OLW60SfrFlOJhxcST4H0MUyslv2v2gXNl8FuvPm32K3h2Gv6I/wClNgnufNTmsDHbSDU4
+HfZwZ2ssZu930vV/wSg1ri36Ac/a3azUyzX9Js3e/wB23/0mpM9YWEDVzWPG1rZc0nd9Mbfz
+rP0jE4NT6vTfrv2ElrZduAf4D/C/zX/nCl1Hjss3Xft9P0WAl7wfa0ggEBvsG535iJY/bkt4
+LXMaCDx+dtd/YQ73Nex5kM3bnGsACRDdsbtr9rdv5qlf/Sa/6rf+/Jo1IvtJR2PmH//Q3HnI
+xvd6djah/hKHHIYB+++kCvKZ/wBsZCJV1AvrFjSyxr9BkVneDPb+T/V9ln/Bp25dYPDq3diP
+/JD/AL8h2VUPtN381cebmcOH7uQz6Lv66rmFswnHq6mIWvYPTcHA6bgIaP8AqfcjugmG/RkG
+fIANYsJmTZjXFp9odAc4ag/ui5n51bv9ItijJrtbI0ePptPIJ/77/KUet0dFxiALGoXB3NJY
+IaO51JjuZ/7+g21/oCwgnceO5n3O/wA93tVgFoYG6Q3QN7aIGQ5+wenBJnceTHHj+cnBaXgO
+uDd9Y82IJLnajifQxv8AorL9O40+k5lkODdYHshrGvH0ve230/er31maa+s5QDiHC0CQSD/M
+4/gsrfZ/pHfDe7+9W8UTwRII27fuyk1pyHER4pnUWvrbUW2NFfD4BJ/s7/bs/wAD7lK0ZFhh
+1b2sG0tgN3BwPvfo5u92xAD7P33/AOc7+9LfZ/pH/wCc7+9P4Zdx9n/oS2x4/amc2xzC0ssB
+DQxrgASGlobd7d/5zme3/jbU14P2pg77W/8Afu6F6l0Eeo//AD3f3qduQH5LbxWGRt9gc4g7
+Rt+m73+9IRkCNtjsokEfUP8A/9k4QklNBCEAAAAAAFMAAAABAQAAAA8AQQBkAG8AYgBlACAA
+UABoAG8AdABvAHMAaABvAHAAAAASAEEAZABvAGIAZQAgAFAAaABvAHQAbwBzAGgAbwBwACAA
+QwBTAAAAAQA4QklNBAYAAAAAAAcABAEBAAEBAP/hGAVodHRwOi8vbnMuYWRvYmUuY29tL3hh
+cC8xLjAvADw/eHBhY2tldCBiZWdpbj0n77u/JyBpZD0nVzVNME1wQ2VoaUh6cmVTek5UY3pr
+YzlkJz8+Cjx4OnhtcG1ldGEgeG1sbnM6eD0nYWRvYmU6bnM6bWV0YS8nIHg6eG1wdGs9J1hN
+UCB0b29sa2l0IDMuMC0yOCwgZnJhbWV3b3JrIDEuNic+CjxyZGY6UkRGIHhtbG5zOnJkZj0n
+aHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIycgeG1sbnM6aVg9
+J2h0dHA6Ly9ucy5hZG9iZS5jb20vaVgvMS4wLyc+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6
+YWJvdXQ9J3V1aWQ6NmE5MjUyYmUtODJkNi0xMWRhLWE1ZDAtY2I1NjM4NTRjYTg4JwogIHht
+bG5zOmV4aWY9J2h0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvJz4KICA8ZXhpZjpDb2xv
+clNwYWNlPjQyOTQ5NjcyOTU8L2V4aWY6Q29sb3JTcGFjZT4KICA8ZXhpZjpQaXhlbFhEaW1l
+bnNpb24+MjM3PC9leGlmOlBpeGVsWERpbWVuc2lvbj4KICA8ZXhpZjpQaXhlbFlEaW1lbnNp
+b24+NDAwPC9leGlmOlBpeGVsWURpbWVuc2lvbj4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxy
+ZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSd1dWlkOjZhOTI1MmJlLTgyZDYtMTFkYS1hNWQw
+LWNiNTYzODU0Y2E4OCcKICB4bWxuczpwZGY9J2h0dHA6Ly9ucy5hZG9iZS5jb20vcGRmLzEu
+My8nPgogPC9yZGY6RGVzY3JpcHRpb24+CgogPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9
+J3V1aWQ6NmE5MjUyYmUtODJkNi0xMWRhLWE1ZDAtY2I1NjM4NTRjYTg4JwogIHhtbG5zOnBo
+b3Rvc2hvcD0naHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyc+CiAgPHBob3Rv
+c2hvcDpIaXN0b3J5PjwvcGhvdG9zaG9wOkhpc3Rvcnk+CiA8L3JkZjpEZXNjcmlwdGlvbj4K
+CiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0ndXVpZDo2YTkyNTJiZS04MmQ2LTExZGEt
+YTVkMC1jYjU2Mzg1NGNhODgnCiAgeG1sbnM6dGlmZj0naHR0cDovL25zLmFkb2JlLmNvbS90
+aWZmLzEuMC8nPgogIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAg
+PHRpZmY6WFJlc29sdXRpb24+MjAwLzE8L3RpZmY6WFJlc29sdXRpb24+CiAgPHRpZmY6WVJl
+c29sdXRpb24+MjAwLzE8L3RpZmY6WVJlc29sdXRpb24+CiAgPHRpZmY6UmVzb2x1dGlvblVu
+aXQ+MjwvdGlmZjpSZXNvbHV0aW9uVW5pdD4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKIDxyZGY6
+RGVzY3JpcHRpb24gcmRmOmFib3V0PSd1dWlkOjZhOTI1MmJlLTgyZDYtMTFkYS1hNWQwLWNi
+NTYzODU0Y2E4OCcKICB4bWxuczp4YXA9J2h0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8n
+PgogIDx4YXA6Q3JlYXRlRGF0ZT4yMDA2LTAxLTExVDIyOjEzOjU2KzAzOjAwPC94YXA6Q3Jl
+YXRlRGF0ZT4KICA8eGFwOk1vZGlmeURhdGU+MjAwNi0wMS0xMVQyMjoxNDoxMyswMzowMDwv
+eGFwOk1vZGlmeURhdGU+CiAgPHhhcDpNZXRhZGF0YURhdGU+MjAwNi0wMS0xMVQyMjoxNDox
+MyswMzowMDwveGFwOk1ldGFkYXRhRGF0ZT4KICA8eGFwOkNyZWF0b3JUb29sPkFkb2JlIFBo
+b3Rvc2hvcCBDUyBXaW5kb3dzPC94YXA6Q3JlYXRvclRvb2w+CiA8L3JkZjpEZXNjcmlwdGlv
+bj4KCiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0ndXVpZDo2YTkyNTJiZS04MmQ2LTEx
+ZGEtYTVkMC1jYjU2Mzg1NGNhODgnCiAgeG1sbnM6eGFwTU09J2h0dHA6Ly9ucy5hZG9iZS5j
+b20veGFwLzEuMC9tbS8nPgogIDx4YXBNTTpEb2N1bWVudElEPmFkb2JlOmRvY2lkOnBob3Rv
+c2hvcDo2YTkyNTJiZC04MmQ2LTExZGEtYTVkMC1jYjU2Mzg1NGNhODg8L3hhcE1NOkRvY3Vt
+ZW50SUQ+CiA8L3JkZjpEZXNjcmlwdGlvbj4KCiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91
+dD0ndXVpZDo2YTkyNTJiZS04MmQ2LTExZGEtYTVkMC1jYjU2Mzg1NGNhODgnCiAgeG1sbnM6
+ZGM9J2h0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvJz4KICA8ZGM6Zm9ybWF0Pmlt
+YWdlL2pwZWc8L2RjOmZvcm1hdD4KIDwvcmRmOkRlc2NyaXB0aW9uPgoKPC9yZGY6UkRGPgo8
+L3g6eG1wbWV0YT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAog
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+IAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgCjw/eHBhY2tldCBlbmQ9J3cnPz7/7gAhQWRvYmUAZAAAAAABAwAQAwIDBgAAAAAAAAAA
+AAAAAP/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAEHBwcNDA0YEBAYFA4ODhQUDg4ODhQRDAwMDAwREQwMDAwM
+DBEMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM/8IAEQgBkADtAwERAAIRAQMRAf/EAPIA
+AAICAwEBAAAAAAAAAAAAAAQFAgMAAQYHCAEAAgMBAQAAAAAAAAAAAAAAAgMAAQQFBhAAAQQC
+AQIEBQMDAwUBAAAAAQACAwQRBRIhExAxMgYiMxQVByBBNCNEFjAkJUI1NhcIJhEAAgECBAMD
+BwcICQIFBQEAAQIDABEhMRIEQSITUWEycYGRQlIUBaGxwWJygiPRkqKywtIzJBDw4UNTY3Oz
+NJN08YNUFQbio2QlNZQSAAIBAQMJBAcGBgEFAQAAAAABAhEQIRIgMSIyQlJyggPwYsITMJKy
+0jNTc6Ijg5Ojs0DiQ2PTBPJBYXHD8+P/2gAMAwEBAhEDEQAAAPMOhzskypKpqSuFuTJNybkl
+VwuRlZJqW2w6RmqXaQjJuVhSF1XJuSUmSbgxstQZURwju5uTv872NXwr1VVC5c6KixDuiZFh
+UPB1I25+wTQhfoHLrJNXKoMLm5N1NQtybk3Juo3RbE4xCyau2EtIJXbASAlMJa0gtG1TBqqL
+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</binary>
+</FictionBook>
