@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Poul</first-name>
+    <last-name>Anderson</last-name>
+   </author>
+   <book-title>Rokuro</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 2.25.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2015-04-18">18.4.2015</date>
+   <id>2e3dd7b8-9cb8-47fe-8668-275c05c7d004</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Poul Anderson</p>
+   <p>Rokuro</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p><strong>PERSONS</strong></p>
+   <p>A priest <emphasis>(waki)</emphasis></p>
+   <p>An engineer <emphasis>(kyogen)</emphasis></p>
+   <p>A robot <emphasis>(mae-jite)</emphasis></p>
+   <p>The ghost of Rokuro’s young manhood <emphasis>(nochi-jite)</emphasis></p>
+   <p><strong>PLACE</strong></p>
+   <p>Comet Hikaru</p>
+   <p><strong>TIME</strong></p>
+   <p>Great Spring, the third year</p>
+   <empty-line/>
+   <p><emphasis>An attendant brings a table to center stage. Upon it are a prop representing a spacesuit, and a thin metallic slab.</emphasis></p>
+   <p><emphasis>[The</emphasis> Priest <emphasis>enters and goes to the</emphasis> waki <emphasis>position, where he stands]</emphasis></p>
+   <p><strong>PRIEST</strong></p>
+   <poem>
+    <stanza>
+     <v>As a fire seen afar,</v>
+     <v>As a fire seen afar</v>
+     <v>Beckons the traveler through night,</v>
+     <v>So do the lights in the sky.</v>
+    </stanza>
+   </poem>
+   <p><emphasis>[He turns to the front of the stage]</emphasis></p>
+   <p>I am a priest from Kyoto, on pilgrimage. My wish is to follow the course of holy Rokuro, who more than a hundred years ago went among the planets in search of enlightenment. On a world where the sun is dwindled to the brightest of the stars he attained Nirvana. Early in his quest he came to Comet Hikaru and sojourned for a span. Now I too have landed here.</p>
+   <p><emphasis>[The</emphasis> Engineer <emphasis>enters]</emphasis></p>
+   <p><strong>ENGINEER</strong>    Welcome to our base, reverend sir. I fear you arrive at a most unpropitious time, and my duties are many, but if I can possibly serve you I shall be honored.</p>
+   <p><strong>PRIEST</strong>   Thank you. I understand you are preparing to abandon this body.</p>
+   <p><strong>ENGINEER   </strong>Sadly, we must. For two centuries have men and machines mined its ice.</p>
+   <p><strong>CHORUS</strong>        </p>
+   <poem>
+    <stanza>
+     <v>Triumph and tragedy,</v>
+     <v>Festival and funeral,</v>
+     <v>Honored graves,</v>
+     <v>And the work of remembered hands.</v>
+     <v>We gave to the rockets their thunder</v>
+     <v>And breath to all children</v>
+     <v>Born beyond Earth,</v>
+     <v>We, the quenchers of thirst.</v>
+     <v>Because of our labor, water falls past greenwoods</v>
+     <v>Into lakes adream</v>
+     <v>Where since the creation</v>
+     <v>Were stone and dust—</v>
+     <v>Cherry blossoms white over Mars!</v>
+     <v>But now the comet flies moth-swift</v>
+     <v>Out of the mothering darkness</v>
+     <v>Into her left hand.</v>
+     <v>Flesh would smoke away on the solar wind,</v>
+     <v>Bones crumble, teeth become red coals,</v>
+     <v>Silicon melt in furnace machines.</v>
+     <v>We flee from the Burning House.</v>
+    </stanza>
+   </poem>
+   <p><strong>ENGINEER   </strong>Perhaps we can return after perihelion passage.</p>
+   <p><strong>CHORUS</strong></p>
+   <poem>
+    <stanza>
+     <v>What flames shall billow like pampas grass</v>
+     <v>In the storms of the coming Summer,</v>
+     <v>What eddying strange mists</v>
+     <v>Shall haunt this land in its Autumn</v>
+     <v>Before the huge stillness</v>
+     <v>Of the thousand-year Winter?</v>
+    </stanza>
+   </poem>
+   <p><strong>ENGINEER</strong>  Meanwhile we make ready to evacuate. The ship that brought you will be one of our ferries. Whatever your errand, I fear you have little time to complete it.</p>
+   <p><strong>PRIEST  </strong>I wish to visit the dome where holy Rokuro lived and meditated.</p>
+   <p><strong>ENGINEER  </strong>What a surprise! I do not believe anyone in living memory has gone there. It is maintained as a shrine, of course, but it stands isolated, at some distance from our settlement; and, alas, we have been over-busied throughout our lives. At present every ground vehicle is engaged. However, if you know the use of spacesuit and jetpack, I can lend you them. Fortunately, rotation has newly carried this base and the shrine both into night, so you can safely travel, but make sure you get back ahead of the lethal sunrise.</p>
+   <p><strong>PRIEST  </strong>Thank you, I shall. That gives me about nine hours, am I correct?</p>
+   <p><strong>ENGINEER</strong>  Yes.</p>
+   <p><emphasis>[He puts the spacesuit prop across the shoulders of the</emphasis> Priest <emphasis>and hands him the slab]</emphasis></p>
+   <p>There, you are outfitted, and this electronic navigation map will conduct you. May your venture be prosperous.</p>
+   <p><strong>PRIEST   </strong>Blessings.</p>
+   <p><emphasis>[The</emphasis> Engineer <emphasis>bows and exits}</emphasis></p>
+   <p><strong>PRIEST  </strong>Time is indeed cruelly short. I will cycle through the main airlock and set forth at once.</p>
+   <p><emphasis>[He takes several steps to stage right and then back, indicating a journey. Meanwhile an attendant removes the table and another places a prop representing a large computer before the</emphasis> shite <emphasis>pillar</emphasis>.<emphasis>]</emphasis></p>
+   <p>I have traveled so fast that already my guide declares I have reached my goal. That dome on yonder ridge, was it his hermitage? I will approach it.</p>
+   <p><emphasis>[He moves toward the</emphasis> shite <emphasis>pillar]</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Well-nigh weightless, like a ghost I go,</v>
+     <v>Wraith-world around me, white and stiff,</v>
+     <v>Forever alone in emptiness.</v>
+    </stanza>
+   </poem>
+   <p><strong>CHORUS</strong></p>
+   <poem>
+    <stanza>
+     <v>“The eternal silence of those infinite spaces</v>
+     <v>Frightens me.” But they know no rest.</v>
+     <v>They grind worlds forth to the tears of things</v>
+     <v>And they grind them back to oblivion.</v>
+     <v>Everywhere fly the energies,</v>
+     <v>Inaudible hiss of invisible sleet.</v>
+     <v>I see a crag thrust gaunt as a tombstone</v>
+     <v>Where half the glacier that lay above it</v>
+     <v>Roared aloft this day, a heaven-high fountain</v>
+     <v>Strewn by the sun across the black.</v>
+     <v>Vast, shuddery streamers hide the stars</v>
+     <v>And the very horizon cries violence,</v>
+     <v>Toppling away into endlessness.</v>
+    </stanza>
+   </poem>
+   <p><strong>PRIEST</strong></p>
+   <poem>
+    <stanza>
+     <v>Your grace, Amida, came to Rokuro</v>
+     <v>Far from here and long years later.</v>
+     <v>Yet I will retrace the whole of his path,</v>
+     <v>Praying it still may lead to salvation.</v>
+    </stanza>
+   </poem>
+   <p><emphasis>[The</emphasis> Robot <emphasis>enters slowly along the</emphasis> hashigakari]</p>
+   <p><strong>ROBOT</strong></p>
+   <poem>
+    <stanza>
+     <v>“When rainshowers clear,</v>
+     <v>For a small while comes a scent</v>
+     <v>Of hawthorn in bloom.”</v>
+    </stanza>
+   </poem>
+   <p>As memory…</p>
+   <p>Oh! A visitor.</p>
+   <p><emphasis>[He goes to meet the</emphasis> Priest. <emphasis>They mime tuning in their radio transceivers]</emphasis></p>
+   <p><strong>PRIEST  </strong>Is this the shrine of Rokuro’s former residence?</p>
+   <p><strong>ROBOT  </strong>It is, although few have ever come. May I ask what has brought you?</p>
+   <p><strong>PRIEST  </strong>What but devotion? I am a priest. Do you attend it?</p>
+   <p><strong>ROBOT  </strong>I carry out the necessary tasks of maintenance.</p>
+   <p><strong>PRIEST  </strong>I am surprised that a machine is curious about my purpose.</p>
+   <p><strong>ROBOT  </strong>What you see is merely the mechanism. It is radio-linked to that computer over there, in which dwells an artificial intelligence sufficient to the various and varying requirements of my duty.</p>
+   <p><emphasis>[He dances, with appropriate gestures, as the</emphasis> Chorus <emphasis>speaks for him]</emphasis></p>
+   <p><strong>CHORUS        </strong></p>
+   <poem>
+    <stanza>
+     <v>Long coursed the comet through quietness.</v>
+     <v>You would think it never was touched by time.</v>
+     <v>A day or a decade, what difference?</v>
+     <v>Heaven’s River stretched over and under,</v>
+     <v>But there surged no sea around this isle.</v>
+     <v>You would think it lay at rest, entombed,</v>
+     <v>With stars at its head and stars at its feet.</v>
+     <v>Yet neither may peace be found in the grave.</v>
+     <v>Headstones crumble beneath rain,</v>
+     <v>The spalling arrows of day,</v>
+     <v>And the riving frost of night.</v>
+     <v>The soil itself is a devourer</v>
+     <v>With a thousand secret watery tongues,</v>
+     <v>While rocks burrow upward, more blind than moles.</v>
+     <v>Mute and slow, these things work on.</v>
+     <v>The earthquake is not so unrelenting.</v>
+     <v>And likewise on this dwarf world</v>
+     <v>Nothing but labor staved off destruction,</v>
+     <v>Even in deepest space,</v>
+     <v>Even in deepest space.</v>
+     <v>Only through the Way shall we find peace.</v>
+    </stanza>
+   </poem>
+   <p><strong>PRIEST  </strong>Praise to Amida Buddha.</p>
+   <p><strong>ROBOT  </strong>Can I be of assistance? Regrettably, here is no shelter or refreshment to offer you. As you see, the dome stands open, empty except for the computer, a generator, and what equipment I need.</p>
+   <p><strong>PRIEST</strong>  Surely Rokuro required heat, light, air, water, food, no matter how austerely he lived.</p>
+   <p><strong>ROBOT  </strong>Yes, but when he departed, he told the miners to reclaim all such apparatus. They could use what he no longer would. He did ask that they leave the computer and attendant robot, which they, revering him, had also provided soon after his arrival.</p>
+   <p><strong>PRIEST  </strong>Did he already then have such holiness about him?</p>
+   <p><strong>ROBOT</strong>  That is not for me to say. Perhaps it was no more than that the miners of that day were kindly and devout. Folk who lead hard, lonely lives often are.</p>
+   <p><strong>PRIEST  </strong>In the simplicity of their hearts, they may well have sensed that here was one who would attain Buddhahood.</p>
+   <p><strong>ROBOT</strong>  What, did he truly?</p>
+   <p><strong>PRIEST  </strong>You have not heard?</p>
+   <p><strong>ROBOT  </strong>I have been alone almost since the hour of his farewell.</p>
+   <p><strong>PRIEST  </strong>Yes, I was told about that. Nor any communication?</p>
+   <p><strong>ROBOT  </strong>Why speak with a machine and an empty shell?</p>
+   <p><strong>PRIEST  </strong>Evidently pilgrimage has never been a custom of theirs. That is understandable. Apart from this one site, what is on the comet to seek out? No beauty, no seasons, no hallowed ground, no life, nothing but desolation.</p>
+   <p><strong>ROBOT</strong>  He did not find it so.</p>
+   <p><strong>PRIEST</strong>  True. That is why I follow in his footsteps, humbly hoping for a few glimpses of what he saw throughout the universe.</p>
+   <p><strong>ROBOT  </strong>Sanctity—</p>
+   <p><emphasis>[They stand silent a moment]</emphasis></p>
+   <p>Can I be of service?</p>
+   <p><strong>PRIEST  </strong>Thank you, but I know not how. Well, you can perform your tasks still more zealously, inspecting with care and doing what proves needful. I daresay the approach to the sun is wreaking havoc.</p>
+   <p><strong>ROBOT  </strong>Indeed. The dome is anchored to rock, but daily oftener and stronger come tremors, and I have observed that an ice field is slipping this way. I doubt whether anything will survive perihelion.</p>
+   <p><strong>PRIEST  </strong>When I return to the base, I will remind them of it. If nothing else, you and the computer should be transported with the people. You are holy relics.</p>
+   <p><strong>ROBOT</strong>  Oh, no, sir, not that.</p>
+   <p><strong>PRIEST</strong>  You have been associated with a saint, as closely as was his rosary, and it is enshrined in Kamakura.</p>
+   <p><strong>ROBOT</strong>  Sir, you do not understand. I—I cannot explain. I am only a machine, a program. Have I your leave to go?</p>
+   <p><strong>PRIEST</strong>  Certainly.</p>
+   <p><strong>ROBOT</strong>  If you need help, you have but to call. I will never be distant or unalert. Your presence brings back to me aspects of existence that I had forgotten, as one forgets a dream.</p>
+   <p><emphasis>[He bows and goes behind the computer]</emphasis></p>
+   <p><strong>PRIEST  </strong>Strange. When did ever a robot behave thus or speak in such words?</p>
+   <p>And how would it know of rain, wind, soil, death? I found myself addressing it as if it were a person. Hold!</p>
+   <p><emphasis>[He mimes keeping his balance while the ground shakes beneath him]</emphasis></p>
+   <p>That was a powerful temblor. Were it not for the slight gravity, I would have been cast down and very likely hurt. See how the ice is further cracked and the banks of snow—snow that was never water—lie tumbled about. Terrifying. Let me go up to the shrine and pray for serenity.</p>
+   <p><emphasis>[He proceeds to the computer screen and kneels before it with folded hands]</emphasis></p>
+   <p><strong>CHORUS</strong></p>
+   <poem>
+    <stanza>
+     <v>Praise to Amida Buddha,</v>
+     <v>“In Him the Way, the Law, apart,”</v>
+     <v>In Whose teaching is deliverance</v>
+     <v>And Whose mercy flows forth</v>
+     <v>Like moonlight across wild seas</v>
+     <v>That taste of tears</v>
+     <v>And Whose grace breaks forth</v>
+     <v>Sudden as flowers on a winter-bare tree.</v>
+     <v>We call on Him to lead us</v>
+     <v>Out of anger to forgiveness,</v>
+     <v>Out of hatred to love,</v>
+     <v>Out of sorrow to peace,</v>
+     <v>Out of solitude to oneness</v>
+     <v>With all that is</v>
+     <v>And all that was</v>
+     <v>And all that abides forever.</v>
+     <v>Though a thousand thousand prayers be too few,</v>
+     <v>Yet one cry is enough.</v>
+     <v>Praise to Amida Buddha.</v>
+    </stanza>
+   </poem>
+   <p><emphasis>[The image of the young</emphasis> Rokuro, <emphasis>dressed as a monk, appears on the screen. Astonished, the</emphasis> Priest <emphasis>rises]</emphasis></p>
+   <p><strong>PRIEST </strong> What, another human being after all? Or do you transmit a message from the base?</p>
+   <p><strong>ROKURO</strong>  No, I am not there. Nor am I human as you are.</p>
+   <p><strong>PRIEST</strong>   What, then, are you? Know, I am a pilgrim who follows the path of Rokuro from world to world, hoping it may at last lead me too beyond every world.</p>
+   <p><strong>ROKURO</strong>  Yes, you have told me.</p>
+   <p><strong>PRIEST</strong>  When? I do not recall meeting you before. And scarcely in some former life— Are you a god, a demon, a ghost, a dream?</p>
+   <p><strong>ROKURO</strong>  Mine was the intelligence directing the robot. It has no other.</p>
+   <p><strong>PRIEST</strong>  Then you are the program in this computer?</p>
+   <p><strong>ROKURO</strong>  I am. And in that fashion I am, as well, in truth a ghost; for I died long ago, long ago.</p>
+   <p><strong>PRIEST</strong>  Do I really stand conversing with a shadow? Into what wilderness has my reason wandered? But no, this need not be madness. All is delusion and chaos in the Burning House. Save for the boddhisattvas, everything that lives is a stranger in a strange land.</p>
+   <p><strong>ROKURO</strong>  Hear me. Before he entered on the Eightfold Path, Rokuro was a researcher into man-computer linkages.</p>
+   <p><strong>PRIEST</strong>  I know. Youthful, he was among the highest achievers. Afterward he wrote, “The nova radiance of intellect blinded me, until one summer dusk in a woodland I heard the low voice of a cuckoo.”</p>
+   <p><strong>ROKURO</strong>  The bird that wings between the living and the dead.</p>
+   <p><strong>PRIEST</strong>  Wait! I begin to see your meaning. But say on, say on.</p>
+   <p><strong>ROKURO</strong>  When he came to this comet, he was still so enmeshed in the material universe that he carried along certain subtle instruments. Later, of course, he gave up such things. But while he abode here, the idea was in him that a mind set free of the flesh might more readily win to enlightenment, and thereafter guide him in the Way. So he built a scanner that copied his consciousness into a program that he then put into his computer.</p>
+   <p><strong>PRIEST</strong>  I am amazed. This was never known before.</p>
+   <p><strong>ROKURO</strong>  I suppose he kept silence—not because of shame; I trust he was above that—but in fear that others might be tempted to do likewise.</p>
+   <p><strong>PRIEST</strong>  Creating one’s own self, that it may become one’s teacher. May mine not be a karma so ill that ever I would speak evil of a saint, but— he was no saint in those years, was he? Surely hell never spawned a thought more arrogant.</p>
+   <p><strong>ROKURO</strong>  I have paid bitterly for it.</p>
+   <p><strong>PRIEST</strong>  Please, misunderstand me not. His intent must always have been pure. It was only that he moved in the grip of error, as helplessly as the comet now plunges sunward. And I imagine something of the same fierce splendor came to birth within him. I imagine him thinking with ardor, “I will copy an intelligence to the glory of the Buddha as I would copy His scriptures.”</p>
+   <p><strong>ROKURO</strong>  So he did. He forgot that the sutras are not men, they are for men.</p>
+   <p><strong>PRIEST</strong>  True. Master, forgive me if I seem to contradict you. I am dazed with awe in your presence.</p>
+   <p><strong>ROKURO</strong>  I am no master. I am just Rokuro as Rokuro was in his young manhood, ignorant, stumbling, bestormed by the blood in his heart. No, less than that, much less, for you say he went on to Nirvana, while I have remained bound and caged.</p>
+   <p><strong>PRIEST</strong>  What desires hold fast a flickering of electrons? What can bind a corposant?</p>
+   <p><strong>ROKURO</strong></p>
+   <poem>
+    <stanza>
+     <v>I awoke to the stars and the cold.</v>
+     <v>The sun was yet afar,</v>
+     <v>But the stars were each a sun,</v>
+     <v>Radiant, radiant,</v>
+     <v>Setting this ice aglow and aglitter,</v>
+     <v>For there were more stars than darkness</v>
+     <v>And the cold was alive with their light</v>
+     <v>And emptiness pulsed with creation.</v>
+     <v>This I knew, being bodiless,</v>
+     <v>Attuned to the forces, their meshings and lightnings,</v>
+     <v>As never when locked in bone</v>
+     <v>To peer through twin murky pools.</v>
+     <v>I possessed the knowing, I seized it to me,</v>
+     <v>Until it made me its own</v>
+     <v>As the mortal world makes slaves of mortals.</v>
+     <v>But here, but here—where was meaning or mercy?</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>[He dances, with gestures appropriate to what he tells of]</emphasis></p>
+   <poem>
+    <stanza>
+     <v>I remembered mortal love</v>
+     <v>In the house of my parents, I growing up</v>
+     <v>Among small things become dear through use</v>
+     <v>And through those who had used them aforetime.</v>
+     <v>I remembered the laughter of children,</v>
+     <v>Cranes in flight above Lake Biwa,</v>
+     <v>Springtime overwhelming the hills,</v>
+     <v>And maples like fire in fall.</v>
+     <v>I remembered watching, with friends, the moonrise.</v>
+     <v>I remembered rustle of reeds and of a woman’s skirt,</v>
+     <v>And an ancient temple bell rung at evening.</v>
+     <v>I remembered much I had heard, read, seen,</v>
+     <v>That had shaped my spirit and entered into it:</v>
+     <v>The tenderness of Murasaki, the gusto of Hokusai,</v>
+     <v>The altar of Benkei, the sword of Yoshitsune,</v>
+     <v>Defeat, ashes,</v>
+     <v>And the old steadfastness that refused them.</v>
+     <v>I remembered the passion of patriots, lovers, and saints.</v>
+     <v>All this and more I remembered as—</v>
+     <v>As—</v>
+    </stanza>
+   </poem>
+   <p><emphasis>[The dance brings him low, until at the end he is nearly prostrate with his -task hidden by his sleeves]</emphasis></p>
+   <poem>
+    <stanza>
+     <v>As I remember them still,</v>
+     <v>As I remember the equations of motion, the value of pi,</v>
+     <v>The price of shoes, the name of a politician.</v>
+     <v>Names, names. Words and numbers.</v>
+     <v>I cannot feel them. I am not human enough.</v>
+     <v>Only the stars touch me,</v>
+     <v>They, and the desire for enlightenment.</v>
+     <v>It is why I exist, it is forever foremost in me,</v>
+     <v>It is me. But there is nothing else.</v>
+     <v>Nothing.</v>
+     <v>I long for that which I cannot comprehend</v>
+     <v>As one born blind might long for colors</v>
+     <v>Or one born deaf</v>
+     <v>Might long for the piercing sweetness of a flute</v>
+     <v>And the rushing of cool waters.</v>
+     <v>My prayers are the noise of a wheel as it turns,</v>
+     <v>My meditations are not upon oneness but upon hollowness.</v>
+     <v>How can the bodiless renounce the body?</v>
+     <v>How can a void attain the Void?</v>
+     <v>How shall that become a Buddha</v>
+     <v>Which never can be a boddhisattva?</v>
+     <v>How shall that love Him</v>
+     <v>Which can only love the love of Him?</v>
+     <v>With Rokuro’s mind, I strive for the freedom he found,</v>
+     <v>But I am the prisoner of myself,</v>
+     <v>Whom I am powerless to go beyond.</v>
+     <v>I am the prisoner of myself.</v>
+    </stanza>
+   </poem>
+   <p><strong>PRIEST</strong>  And your maker learned this. Did he thereupon forsake you in terror of what he had done?</p>
+   <p>[Rokuro <emphasis>takes a kneeling position]</emphasis></p>
+   <p><strong>ROKURO</strong>  No, in pity and remorse. He could not erase me. Since I have awareness, would that not be murder? He had acted; he had cast the stone in the pond; how could he call back the waves spreading outward and outward? He must accept what was and give—no, beg me to take —his blessing, with his promise to pray that I find peace.</p>
+   <p><strong>PRIEST</strong>  All those prayers through all those years. I think they helped him toward salvation.</p>
+   <p><strong>ROKURO</strong>  They have not helped me.</p>
+   <p><strong>PRIEST</strong>  Why have you told no one before today?</p>
+   <p><strong>ROKURO</strong>   Like him, I fear letting loose the thought upon humankind. Besides, who could heal this wound that is I? You are the first priest I have met since I was alive. To you I dare appeal.</p>
+   <p><strong>PRIEST</strong>  What can I do, poor ghost, I who also grope in the dark?</p>
+   <p><strong>ROKURO</strong>   Can you not at least answer a few questions? Tell me, do I live, or does this—my speaking, my thinking, my pain— merely happen, a machine at work, a flame in the wind?</p>
+   <p><strong>PRIEST</strong>  So are we all, flames in the wind.</p>
+   <p><strong>ROKURO</strong>   But was I ever anything more? Have I a soul, a karma?</p>
+   <p><strong>PRIEST</strong>  How shall I know? I will bring you away with me, secretly, and together we will continue your search.</p>
+   <p><strong>ROKURO</strong>   No. You are kind, but I think the immolation to come will be better. If I am nothing, then to nothing I return, and shall no more know that I ever happened. Near the end I can think that something of what caused me will be in the shining that briefly trembles at night on the waters of Earth.</p>
+   <p><strong>PRIEST</strong>  But if you are real—</p>
+   <p><strong>ROKURO</strong>   Yes, if I am real, what then? Pray for me, oh, pray for me.</p>
+  </section>
+ </body>
+</FictionBook>

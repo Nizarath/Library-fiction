@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Poul</first-name>
+    <last-name>Anderson</last-name>
+   </author>
+   <book-title>The Helping Hand</book-title>
+   <annotation>
+    <p>With this story, I’ve enter a future in which mankind has spread itself far out into the galaxy of which Earth’s sun — and Earth itself, of course — are such microscopically small bits of dust. In Anderson’s concept, most life forms encountered seem to be essentially humanoid. In this story, indeed, they are not only humanoid, but measurably “human” in their psychological reactions. If one wanted to draw some comparisons, one could, I suppose, compare Cundaloa in this tale with the islands of the Pacific, and Skontar with the Scandinavian countries. Sweden, for example, is Swedish through and through. Hawaii? Whatever Hawaii is, and it sounds wonderful for a vacation, it surely no longer belongs to the original Hawaiians… You will get the point of this analogy as you read on, of course.</p>
+    <p>Poul Anderson</p>
+   </annotation>
+   <date>1950</date>
+   <coverpage> <image l:href="#cover.jpg"/></coverpage> <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Haereticus</first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>doc2fb, FictionBook Editor Release 2.6, ImageFB2</program-used>
+   <date value="2012-04-13">2012-04-13</date>
+   <id>071AF8F1-5753-46DD-AA07-6F5D8E19D615</id>
+   <version>2</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Helping Hand</book-name>
+   <publisher>Astounding Science Fiction, May, 1950</publisher>
+   <year>1950</year>
+  </publish-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Poul Anderson</p>
+    <p>The Helping Hand</p>
+   </title>
+   <p>A MELLOW bell tone was followed by the flat voice of the roboreceptionist: “His Excellency Valka Vahino, Special Envoy from the League of Cundaloa to the Commonwealth of Sol.”</p>
+   <p>The Earthlings rose politely as he entered. Despite the heavy gravity and dry chill air of terrestrial conditions, he moved with the flowing grace of his species, and many of the humans were struck anew by what a handsome people his race was.</p>
+   <p>People — yes, the folk of Cundaloa were humanoid enough, mentally and physically, to justify the term. Their differences were not important; they added a certain charm, the romance of alienness, to the comforting reassurance that there was no really basic strangeness.</p>
+   <p>Ralph Dalton let his eyes sweep over the ambassador. Valka Vahino was typical of his race — humanoid mammal, biped, with a face that was very manlike, differing only in its beauty of finely chiseled features, high cheekbones, great dark eyes. A little smaller, more slender than the Earthlings, with a noiseless, feline ease of movement. Long shining blue hair swept back from his high forehead to his slim shoulders, a sharp and pleasing contrast to the rich golden skin color. He was dressed in the ancient ceremonial garb of Luai on Cundaloa — shining silvery tunic, deep-purple cloak from which little sparks of glittering metal swirled like fugitive stars, gold-worked boots of soft leather. One slender six-fingered hand held the elaborately carved staff of office which was all the credentials his planet had given him.</p>
+   <p>He bowed, a single rippling movement which had nothing of servility in it, and said in excellent Terrestrial, which still retained some of the lilting, singing accent of his native tongue: “Peace on your houses! The Great House of Cundaloa sends greetings and many well-wishings to his brothers of Sol. His unworthy member Valka Vahino speaks for him in friendship.”</p>
+   <p>Some of the Earthlings shifted stance, a little embarrassed. It did sound awkward in translation, thought Dalton. But the language of Cundaloa was one of the most beautiful sounds in the Galaxy.</p>
+   <p>He replied with an attempt at the same grave formality. “Greetings and welcome. The Commonwealth of Sol receives the representative of the League of Cundaloa in all friendship. Ralph Dalton, Premier of the Commonwealth, speaking for the people of the Solar System.”</p>
+   <p>He introduced the others then — cabinet ministers, technical advisers, military staff members. It was an important assembly. Most of the power and influence in the Solar System was gathered here.</p>
+   <p>He finished: “This is an informal preliminary conference on the economic proposals recently made to your gov… to the Great House of Cundaloa. It has no legal standing. But it is being televised, and I daresay the Solar Assembly will act on a basis of what is learned at these and similar hearings.”</p>
+   <p>“I understand. It is a good idea.” Vahino waited until the rest were seated before taking a chair.</p>
+   <p>There was a pause. Eyes kept going to the clock on the wall. Vahino had arrived punctually at the time set, but Skorrogan of Skontar was late, thought Dalton. Tactless, but then the manners of the Skontarans were notoriously bad. Not at all like the gentle deference of Cundaloa, which in no way indicated weakness.</p>
+   <p>There was aimless conversation, of the “How do you like it here?” variety. Vahino, it developed, had visited the Solar System quite a few times in the past decade. Not surprising, in view of the increasingly close economic ties between his planet and the Commonwealth. There were a great many Cundaloan students in Earthian universities, and before the war there had been a growing tourist traffic from Sol to AvaiH. It would probably revive soon — especially if the devastation were repaired and…</p>
+   <p>“Oh, yes,” smiled Vahino. “It is the ambition of all young <emphasis>anamaif </emphasis>men on Cundaloa, to come to Earth, if only for a visit. It is not mere flattery to say that our admiration for you and your achievements is boundless.”</p>
+   <p>“It’s mutual,” said Dalton. “Your culture, your art and music, your literature — all have a large following in the Solar System. Why, many men, and not just scholars, learn Luaian simply to read the <emphasis>Dvanagoa-Epai </emphasis>in the original. Cundaloan singers, from concert artists to night-club entertainers, get more applause than any others.” He grinned. “Your young men here have some difficulty keeping our terrestrial coeds off their necks. And your few young women here are besieged by invitations. I suppose only the fact that there cannot be issue has kept the number of marriages as small as it has been.”</p>
+   <p>“But seriously,” persisted Vahino, “we realize at home that your civilization sets the tone for the known Galaxy. It is not just that Solarian civilization is the most advanced technically, though that has, of course, much to do with it. <emphasis>You </emphasis>came to <emphasis>us, </emphasis>with your spaceships and atomic energy and medical science and all else — but, after all, we can learn that and go on with you from there. It is, however, such acts as… well, as your present offer of help: to rebuild ruined worlds light-years away, pouring your own skill and treasure into our homes, when we can offer you so little in return — it is that which makes you the leading race in the Galaxy.”</p>
+   <p>“We have selfish motives, as you well know,” said Dalton a little uncomfortably. “Many of them. There is, of course, simple humanitarianism. We could not let races very like our own know want when the Solar System and its colonies have more wealth than they know what to do with. But our own bloody history has taught us that such programs as this economic-aid plan redound to the benefit of the initiator. When we have built up Cundaloa and Skontar, got them producing again, modernized their backward industry, taught them our science — they will be able to trade with us. And our economy is still, after all these centuries, primarily mercantile. Then, too, we will have knitted them too closely together for a repetition of the disastrous war just ended. And they will be allies for us against some of the really alien and menacing cultures in the Galaxy, planets and systems and empires against which we may one day have to stand.”</p>
+   <p>“Pray the High One that that day never comes,” said Vahino soberly. “We have seen enough of war.”</p>
+   <p>The bell sounded again, and the robot announced in its clear inhuman tones: “His Excellency Skorrogan Valthak’s son, Duke of Kraakahaym, Special Envoy from the Empire of Skontar to the Commonwealth of Sol.”</p>
+   <p>They got up again, a little more slowly this time, and Dalton saw the expressions of dislike on several faces, expressions which smoothed into noncommittal blankness as the newcomer entered. There was no denying that the Skontarans were not very popular in the Solar System just now, and partly it was their own fault. But most of it they couldn’t help.</p>
+   <p>The prevailing impression was that Skontar had been at fault in the war with Cundaloa. That was plainly an error. The misfortune was that the suns Skang and Avaiki, forming a system about half a light-year apart, had a third companion which humans usually called Allan, after the captain of the first expedition to the system. And the planets of Allan were uninhabited.</p>
+   <p>When terrestrial technology came to Skontar and Cundaloa, its first result had been to unify both planets — ultimately — both systems into rival states which turned desirous eyes on the green new planets of Allan. Both had had colonies there, clashes had followed, ultimately the hideous five years’ war which had wasted both systems and ended in a peace negotiated with terrestrial help. It had been simply another conflict of rival imperialisms, such as had been common enough in human history before the Great Peace and the formation of the Commonwealth. The terms of the treaty were as fair as possible, and both systems were exhausted. They would keep the peace now, especially when both were eagerly looking for Solarian help to rebuild.</p>
+   <p>Still — the average human liked the Cundaloans. It was almost a corollary that he should dislike the Skontarans and blame them for the trouble. But even before the war they had not been greatly admired. Their isolationism, their clinging to outmoded traditions, their harsh accent, their domineering manner, even their appearance told against them.</p>
+   <p>Dalton had had trouble persuading the Assembly to let him include Skontar in the invitation to economic-aid conferences. He had finally persuaded them that it was essential — not only would the resources of Skang be a material help in restoration, particularly their minerals, but the friendship of a potentially powerful and hitherto aloof empire could be gained.</p>
+   <p>The aid program was still no more than a proposal. The Assembly would have to make a law detailing who should be helped, and how much, and then the law would have to be embodied in treaties with the planets concerned. The initial informal meeting here was only the first step. But — crucial.</p>
+   <p>Dalton bowed formally as the Skontaran entered. The envoy responded by stamping the butt of his huge spear against the floor, leaning the archaic weapon against the wall, and extending his bolstered blaster handle first. Dalton took it gingerly and laid it on the desk. “Greeting and welcome,” he began, since Skorrogan wasn’t saying anything. “The Commonwealth…”</p>
+   <p>“Thank you.” The voice was a hoarse bass, somehow metallic, and strongly accented. “The Valtam of the Empire of Skontar sends greetings to the Premier of Sol by Skorrogan Valthak’s son, Duke of Kraakahaym.”</p>
+   <p>He stood out in the room, seeming to fill it with his strong, forbidding presence. In spite of coming from a world of higher gravity and lower temperature, the Skontarans were a huge race, over two meters tall and so broad that they seemed stocky. They could be classed as humanoid, in that they were bipedal mammals, but there was not much resemblance beyond that. Under a wide, low forehead and looming eyebrow ridges, the eyes of Skorrogan were fierce and golden, hawk’s eyes. His face was blunt-snouted, with a mouthful of fangs in the terrific jaws; his ears were blunt and set high on the massive skull. Short brown fur covered his muscular body to the end of the long restless tail, and a ruddy mane flared from his head and throat. In spite of the, to him, tropical temperature, he wore the furs and skins of state occasions at home, and the acrid reek of his sweat hung about him.</p>
+   <p>“You are late,” said one of the ministers with thin politeness. “I trust you were not detained by any difficulties.”</p>
+   <p>“No, I underestimated the time needed to get here,” answered Skorrogan. “Please to excuse me.” He did not sound at all sorry, but lowered his great bulk into the nearest chair and opened his portfolio. “We have business now, my sirs?”</p>
+   <p>“Well… I suppose so.” Dalton sat down at the head of the long conference table. “Though we are not too concerned with facts and figures at this preliminary discussion. We want simply to agree on general aims, matters of basic policy.”</p>
+   <p>“Naturally, you will wish a full account of the available resources of AvaiM and Skang, as well as the Al-lanian colonies,” said Vahino in his soft voice. “The agriculture of Cundaloa, the mines of Skontar, will contribute much even at this early date, and, of course, in the end there must be economic self-sufficiency.”</p>
+   <p>“It is a question of education, too,” said Dalton. “We will send many experts, technical advisers, teachers…”</p>
+   <p>“And, of course, some question of military resources will arise…” began the Chief of Staff.</p>
+   <p>“Skontar have own army,” snapped Skorrogan. “No need of talk there yet.”</p>
+   <p>“Perhaps not,” agreed the Minister of Finance mildly. He took out a cigarette and lit it.</p>
+   <p>“Please, sir!” For a moment Skorrogan’s voice rose to a bull roar. “No smoke. You know Skontarans allergic to tobacco…”</p>
+   <p>“Sorry!” The Minister of Finance stubbed out the cylinder. His hand shook a little and he glared at the envoy. There had been little need for concern, the air-conditioning system swept the smoke away at once. And in any case — you don’t shout at a cabinet minister. Especially when you come to ask him for help…</p>
+   <p>“There will be other systems involved,” said Dalton hastily, trying with a sudden feeling of desperation to smooth over the unease and tension. “Not only the colonies of Sol. I imagine your two races will be expanding beyond your own triple system, and the resources made available by such colonization…”</p>
+   <p>“We will have to,” said Skorrogan sourly. “After treaty rob us of all fourth planet — No matter. Please to excuse. Is bad enough to sit at same table with enemy without being reminded of how short time ago he <emphasis>was </emphasis>enemy.”</p>
+   <p>This time the silence lasted a long while. And Dalton realized, with a sudden feeling almost of physical illness, that Skorrogan had damaged his own position beyond repair. Even if he suddenly woke up to what he was doing and tried to make amends — and who ever heard of a Skontaran noble apologizing for anything — it was too late. Too many millions of people, watching their telescreens, had seen his unpardonable arrogance. Too many important men, the leaders of Sol, were sitting in the same room with him, looking into his contemptuous eyes and smelling the sharp stink of unhuman sweat.</p>
+   <p>There would be no aid to Skontar.</p>
+   <empty-line/>
+   <p>With sunset, clouds piled up behind the dark line of cliffs which lay to the east of Geyrhaym, and a thin, chill wind blew down over the valley with whispers of winter. The first few snowflakes were borne on it, whirling across the deepening purplish sky, tinted pink by the last bloody light. There would be a blizzard before midnight.</p>
+   <p>The spaceship came down out of darkness and settled into her cradle. Beyond the little spaceport, the old town of Geyrhaym lay wrapped in twilight, huddling together against the wind. Firelight glowed rud-dily from the old peak-roofed houses, but the winding cobbled streets were like empty canyons, twisting up the hill on whose crest frowned the great castle of the old barons. The Valtam had taken it for his own use, and little Geyrhaym was now the capital of the Empire. For proud Skirnor and stately Thruvang were radioactive pits, and wild beasts howled in the burned ruins of the old palace.</p>
+   <p>Skorrogan Valthak’s son shivered as he came out of the airlock and down the gangway. Skontar was a cold planet. Even for its own people it was cold. He wrapped his heavy fur cloak more tightly about him.</p>
+   <p>They were waiting near the bottom of the gangway, the high chiefs of Skontar. Under an impassive exterior, Skorrogan’s belly muscles tightened. There might be death waiting in that silent, sullen group of men. Surely disgrace — and he couldn’t answer…</p>
+   <p>The Valtam himself stood there, his white mane blowing in the bitter wind. His golden eyes seemed luminous in the twilight, hard and fierce, a deep sullen hate smoldering behind them. His oldest son, the heir apparent, Thordin, stood beside him. The last sunlight gleamed crimson on the head of his spear; it seemed to drip blood against the sky. And there were the other mighty men of Skang, counts of the provinces on Skontar and the other planets, and they all stood waiting for him. Behind them was a line of imperial household guards, helmets and corselets shining in the dusk, faces in shadow, but hate and contempt like a living force radiating from them.</p>
+   <p>Skorrogan strode up to the Valtam, grounded his spear butt in salute, and inclined his head at just the proper degree. There was silence then, save for the whimpering wind. Drifting snow streamed across the field.</p>
+   <p>The Valtam spoke at last, without ceremonial greeting. It was like a deliberate slap in the face: “So you are back again.”</p>
+   <p>“Yes, sire.” Skorrogan tried to keep his voice stiff. It was difficult to do. He had no fear of death, but it was cruelly hard to bear this weight of failure. “As you know, I must regretfully report my mission unsuccessful.”</p>
+   <p>“Indeed. We receive telecasts here,” said the Valtam acidly.</p>
+   <p>“Sire, the Solarians are giving virtually unlimited aid to Cundaloa. But they refused any help at all to Skontar. No credits, no technical advisers — nothing. And we can expect little trade and almost no visitors.”</p>
+   <p>“I know,” said Thordin. “And <emphasis>you </emphasis>were sent to get their help.”</p>
+   <p>“I tried, sire.” Skorrogan kept his voice expressionless. He had to say something — <emphasis>but be forever dammed if I’ll plead! </emphasis>“But the Solarians have an unreasonable prejudice against us, partly related to their wholly emotional bias toward Cundaloa and partly, I suppose, due to our being unlike them in so many ways.”</p>
+   <p>“So they do,” said the Valtam coldly. “But it was not great before. Surely the Mingonians, who are far less human than we, have received much good at Solarian hands. They got the same sort of help that Cundaloa will be getting and that we might have had.</p>
+   <p>“We desire nothing but good relations with the mightiest power in the Galaxy. We might have had more than that. I know, from first-hand reports, what the temper of the Commonwealth was. They were ready to help us, had we shown any cooperativeness at all. We could have rebuilt, and gone farther than that…” His voice trailed off into the keening wind.</p>
+   <p>After a moment he went on, and the fury that quivered in his voice was like a living force: “I sent you as my special delegate to get that generously offered help. You, whom I trusted, who I thought was aware of our cruel plight — Arrrgh!” He spat, “And you spent your whole time there being insulting, arrogant, boorish. You, on whom all the eyes of Sol were turned, made yourself the perfect embodiment of all the humans think worst in us. No wonder our request was refused! You’re lucky Sol didn’t declare war!”</p>
+   <p>“It may not be too late,” said Thordin. “We could send another…”</p>
+   <p>“No.” The Valtam lifted his head with the inbred iron pride of his race, the haughtiness of a culture where for all history face had been more important than life. “Skorrogan went as our accredited representative. If we repudiated him, apologized for — not for any overt act but for bad manners! — if we crawled before the Galaxy — no! It isn’t worth that. We’ll just have to do without Sol.”</p>
+   <p>The snow was blowing thicker now, and the clouds were covering the sky. A few bright stars winked forth in the clear portions. But it was cold, cold.</p>
+   <p>“And what a price to pay for honor!” said Thordin wearily. “Our folk are starving — food from Sol could keep them alive. They have only rags to wear — Sol would send clothes. Our factories are devastated, are obsolete, our young men grow up in ignorance of Galactic civilization and technology — Sol would send us machines and engineers, help us rebuild. Sol would send teachers, and we could become great — Well, too late, too late.” His eyes searched through the gloom, puzzled, hurt. Skorrogan had been his friend. “But why did you do it? Why did you do it?”</p>
+   <p>“I did my best,” said Skorrogan stiffly. “If I was not fitted for the task, you should not have sent me.”</p>
+   <p>“But you were,” said Valtam. “You were out best diplomat. Your wiliness, your understanding of extra-Skontaran psychology, your personality — all were invaluable to our foreign relations. And then, on this simple and most tremendous mission — No more!” His voice rose to a shout against the rising wind. “No more will I trust you. Skontar will know you failed.”</p>
+   <p>“Sire…” Skorrogan’s voice shook suddenly. “Sire, I have taken words from you which from anyone else would have meant a death duel. If you have more to say, say it. Otherwise let me go.”</p>
+   <p>“I cannot strip you of your hereditary titles and holdings,” said the Valtam. “But your position in the imperial government is ended, and you are no longer to come to court or to any official function. Nor do I think you will have many friends left.”</p>
+   <p>“Perhaps not,” said Skorrogan. “I did what I did, and even if I could explain further, I would not after these insults. But if you ask my advice for the future of Skontar…”</p>
+   <p>“I don’t,” said the Valtam. “You have done enough harm already.”</p>
+   <p>“… then consider three things.” Skorrogan lifted his spear and pointed toward the remote glittering stars. “First, those suns out there. Second, certain new scientific and technological developments here at home — such as Dyrin’s work on semantics. And last — look about you. Look at the houses your fathers built, look at the clothes you wear, listen, perhaps, to the language you speak. And then come back in fifty years or so and beg my pardon!”</p>
+   <p>He swirled his cloak about him, saluted the Valtam again, and went with long steps across the field and into the town. They looked after him with incomprehension and bitterness in their eyes.</p>
+   <p>There was hunger in the town. He could almost feel it behind the dark walls, the hunger of ragged and desperate folk crouched over their fires, and wondered whether they could survive the winter. Briefly he wondered how many would die — but he didn’t dare follow the thought out.</p>
+   <p>He heard someone singing and paused. A wandering bard, begging his way from town to town, came down the street, his tattered cloak blowing fantastically about him. He plucked his harp with thin fingers, and his voice rose in an old ballad that held all the harsh ringing music, the great iron clamor of the old tongue, the language of Naarhaym on Skontar. Mentally, for a moment of wry amusement, Skorrogan rendered a few lines into Terrestrial:</p>
+   <poem>
+    <stanza>
+     <v>Wildly the winging</v>
+     <v>War birds, flying</v>
+     <v>wake the winter-dead</v>
+     <v>wish for the sea-road.</v>
+     <v>Sweetheart, they summon me,</v>
+     <v>singing of flowers</v>
+     <v>fair for the faring.</v>
+     <v>Farewell, I love you.</v>
+    </stanza>
+   </poem>
+   <p>It didn’t work. It wasn’t only that the metallic rhythm and hard barking syllables were lost, the intricate rhyme and alliteration, though that was part of it — but it just didn’t make sense in Terrestrial. The concepts were lacking. How could you render, well, such a word as <emphasis>vorkansraavin </emphasis>as “faring” and hope to get more than a mutilated fragment of meaning? Psychologies were simply too different.</p>
+   <p>And there, perhaps, lay his answer to the high chiefs. But they wouldn’t know. They couldn’t. And he was alone, and winter was coming again.</p>
+   <empty-line/>
+   <p>Valka Vahino sat in his garden and let sunlight wash over his bare skin. It was not often, these days, that he got a chance to <emphasis>aliacaui…</emphasis> What was that old Terrestrial word? “Siesta”? But that was wrong. A resting Cundaloan didn’t sleep in the afternoon. He sat or lay outdoors, with the sun soaking into his bones or a warm rain like a benediction over him, and he let his thoughts run free. Solarians called that daydreaming, but it wasn’t, it was, well — they had no real word for it. Psychic recreation was a clumsy term, and the Solarians never understood.</p>
+   <p>Sometimes it seemed to Vahino that he had never rested, not in an eternity of years. The grinding urgencies of wartime duty, and then his hectic journeys to Sol — and since then, in the past three years, the Great House had appointed him official liaison man at the highest level, assuming that he understood the Solarians better than anyone else in the League.</p>
+   <p>Maybe he did. He’d spent a lot of time with them and liked them as a race and as individuals. But — by all the spirits, how they worked! How they drove themselves! As if demons were after them.</p>
+   <p>Well, there was no other way to rebuild, to reform the old obsolete methods and grasp the dazzling new wealth which only lay waiting to be created. But right now it was wonderfully soothing to lie in his garden, with the great golden flowers nodding about him and filling the summer air with their drowsy scent, with a few honey insects buzzing past and a new poem growing in his head.</p>
+   <p>The Solarians seemed to have some difficulty in understanding a whole race of poets. When even the meanest and stupidest Cundaloan could stretch out in the sun and make lyrics — well, every race has its own peculiar talents. Who could equal the gadgeteering genius which the humans possessed?</p>
+   <p>The great soaring, singing lines thundered in his head. He turned them over, fashioning them, shaping every syllable, and fitting the pattern together with a dawning delight. This one would be — good! It would be remembered, it would be sung a century hence, and they wouldn’t forget Valka Vahino. He might even be remembered as a masterversemaker — <emphasis>Alia Amaui cau-ianriho, valana, valana, vro!</emphasis></p>
+   <p>“Pardon, sir.” The flat metal voice shook in his brain, he felt the delicate fabric of the poem tear and go swirling off into darkness and forgetfulness. For a moment there was only the pang of his loss; he realized dully that the interruption had broken a sequence which he would never quite recapture.</p>
+   <p>“Pardon, sir, but Mr. Lombard wishes to see you.”</p>
+   <p>It was a sonic beam from the roboreceptionist which Lombard himself had given Vahino. The Cundaloan had felt the incongruity of installing its shining metal among the carved wood and old tapestries of his house, but he had not wanted to offend the donor — and the thing was useful.</p>
+   <p>Lombard, head of the Solarian reconstruction commission, the most important human in the Avaikian System. Just now Vabino appreciated the courtesy of the man’s coming to him rather than simply sending for him. Only — why did he have to come exactly at this moment?</p>
+   <p>“Tell Mr. Lombard I’ll be there in a minute.”</p>
+   <p>Vahino went in the back way and put on some clothes. Humans didn’t have the completely casual attitude toward nakedness of Cundaloa. Then he went into the forehall. He had installed some chairs there for the benefit of Earthlings, who didn’t like to squat on a woven mat-^-another incongruity. Lombard got up as Vahino entered.</p>
+   <p>The human was short and stocky, with a thick bush of gray hair above a seamed face. He had worked his way up from laborer through engineer to High Commissioner, and the marks of his struggle were still on him. He attacked work with what seemed almost a personal fury, and he could be harder than tool steel. But most of the time he was pleasant, he had an astonishing range of interests and knowledge, and, of course, he had done miracles for the Avaikian System.</p>
+   <p>“Peace on your house, brother,” said Vahino.</p>
+   <p>“How do you do,” clipped the Solarian. As his host began to signal for servants, he went on hastily: “Please, none of your ritual hospitality. I appreciate it, but there just isn’t time to sit and have a meal and talk cultural topics for three hours before getting down to business. I wish… well, you’re a native here and I’m not, so I wish you’d personally pass the word around — tactfully, of course — to discontinue this sort of thing.”</p>
+   <p>“But… they are among our oldest customs…”</p>
+   <p>“That’s just it! Old — backward — delaying progress. I don’t mean to be disparaging, Mr. Vahino. I wish we Solarians had some customs as charming as yours. But — not during working hours. Please.”</p>
+   <p>“Well… I dare say you’re right. It doesn’t fit into the pattern of a modern industrial civilization. And that is what we are trying to build, of course.” Vahino took a chair and offered his guest a cigarette. Smoking was one of Sol’s characteristic vices, perhaps the most easily transmitted and certainly the most easily defensible. Vahino lit up with the enjoyment of the neophyte. “Quite. Exactly. And that is really what I came here about, Mr. Vahino. I have no specific complaints, but there has accumulated a whole host of minor difficulties which only you Cundaloans can handle for yourselves. We Solarians can’t and won’t meddle in your internal affairs. But you must change some things, or we won’t be able to help yon at all.”</p>
+   <p>Vahino had a general idea of what was coming. He’d been expecting it for some time, he thought grayly, and there was really nothing to be done about it. But he took another puff of smoke, let it trickle slowly out, and raised his eyebrows in polite inquiry. Then he remembered that Solarians weren’t used to interpreting nuances of expression as part of a language, and said aloud, “Please say what you like. I realize no offense is meant, and none will be taken.”</p>
+   <p>“Good.” Lombard leaned forward, nervously clasping and unclasping his big work-scarred hands. “The plain fact is that your whole culture, your whole psychology, is unfitted to modern civilization. It can be changed, but the change will have to be drastic. You can do it — pass laws, put on propaganda campaigns, change the educational system, and so on. But it <emphasis>must </emphasis>be done.</p>
+   <p>“For instance, just this matter of the siesta. Right now, all through this time zone on the planet, hardly a wheel is turning, hardly a machine is tended, hardly a man is at his work. They’re all lying in the sun making poems or humming songs or just drowsing. There’s a whole civilization to be built, Vahino! There are plantations, mines, factories, cities abuilding — you just can’t do it on a four-hour working day.”</p>
+   <p>“No. But perhaps we haven’t the energy of your race. You are a hyperthyroid species, you know.”</p>
+   <p>“You’ll just have to learn. Work doesn’t have to be backbreaking. The whole aim of mechanizing your culture is to release you from physical labor and the uncertainty of dependence on the land. And a mechanical civilization can’t be cluttered with as many old beliefs and rituals and customs and traditions as yours is. There just isn’t time. Life is too short. And it’s too incongruous. You’re still like the Skontarans, lugging their silly spears around after they’ve lost all practical value.”</p>
+   <p>“Tradition <emphasis>makes </emphasis>life — the meaning of life…”</p>
+   <p>“The machine culture has its own tradition. You’ll learn. It has its own meaning, and I think that is the meaning of the future. If you insist on clinging to outworn habits, you’ll never catch up with history. Why, your currency system…”</p>
+   <p>“It’s practical.”</p>
+   <p>In its own field. But how can you trade with Sol if you base your credits on silver and Sol’s are an abstract actuarial quantity? You’ll have to convert to our system for purpose of trade — so you might as well change over at home, too. Similarly, you’ll have to learn the metric system if you expect to use our machines or make sense to our scientists. You’ll have to adopt… oh, everything!</p>
+   <p>“Why, your very society — No wonder you haven’t exploited even the planets of your own system when every man insists on being buried at his birthplace. It’s a pretty sentiment, but it’s no more than that, and you’ll have to get rid of it if you’re to reach the stars.</p>
+   <p>“Even your religion.. excuse me… but you must realize that it has many elements which modern science has flatly disproved.”</p>
+   <p>“I’m an agnostic,” said Vahino quietly. “But the religion of Mauiroa means a lot to many people.”</p>
+   <p>“If the Great House will let us bring in some missionaries, we can convert them to, say, Neopantheism. Which, I, for one, think has a lot more personal comfort and certainly more scientific truth than your mythology. If your people are to have faith at all, it must not conflict with jfacts which experience in a modern technology will soon make self-evident.”</p>
+   <p>“Perhaps. And I suppose the system of familial — bonds is too complex and rigid for modern industrial society… Yes, yes — there is more than a simple conversion of equipment involved.”</p>
+   <p>“To be sure. There’s a complete conversion of minds,” said Lombard. And then, gently, “After all, you’ll do it eventually. You were building spaceships and atomic-power plants right after Allan left. I’m simply suggesting that you speed up the process a little.”</p>
+   <p>“And language…”</p>
+   <p>“Well, without indulging in chauvinism, I think all Cundaloans should be taught Solarian. They’ll use it at some time or other in their lives. Certainly all your scientists and technicians will have to use it professionally. The languages of Laui and Muara and the rest are beautiful, but they just aren’t suitable for scientific concepts. Why, the agglutination alone — Frankly, your philosophical books read to me like so much gibberish. Beautiful, but almost devoid of meaning. Your language lacks — <emphasis>precision.”</emphasis></p>
+   <p>“Aracles and Vranamaui were always regarded as models of crystal thought,” said Vahino wearily. “And I confess to not quite grasping your Kant and Russell and even KorzybskL — but then, I lack training in such lines of thought. No doubt you are right. The younger generation will certainly agree with you, “I’ll speak to the Great House and may be able to get something done now. But in any case you won’t have to wait many years. All our young men are striving to make themselves what you wish. It is the way to success.”</p>
+   <p>“It is,” said Lombard; and then, softly, “Sometimes I wish success didn’t have so high a price. But you need only look at Skontar to see how necessary it is.”</p>
+   <p>“Why — they’ve done wonders in the last three years. After the great famine they got bade on their feet, they’re rebuilding by themselves, they’ve even sent explorers looking for colonies out among the stars.” Vahino smiled wryly. “I don’t love our late enemies, but I must admire them.”</p>
+   <p>“They have courage,” admitted Lombard. “But what good is courage alone? They’re struggling in a tangle of obsolescence. Already the over-all production of Cundaloa is three times theirs. Their interstellar colonizing is no more than a feeble gesture of a few hundred individuals. Skontar can live, but it will always be a tenth-rate power. Before long it’ll be a Cundaloan satellite state.</p>
+   <p>“And it’s not that they lack resources, natural or otherwise. It’s that, having virtually flung our offer of help back in our faces, they’ve taken themselves out of the main stream of Galactic civilization. Why, they’re even trying to develop scientific concepts and devices we knew a hundred years ago, and are getting so far off the track that I’d laugh if it weren’t so pathetic. Their language, like yours, just isn’t adapted to scientific thought, and they’re carrying chains of rusty tradition around. I’ve seen some of the spaceships they’ve designed themselves, for instance, instead of copying Solarian models, and they’re ridiculous. Half a hundred different lines of approach, trying desperately to find the main line we took long ago. Spheres, ovoids, cubes — I hear someone even thinks he can build a tetrahedral spaceship!”</p>
+   <p>“It might just barely be possible,” mused Vahino. “The Riemannian geometry on which the interstellar drive itself is based would permit…”</p>
+   <p>“No, no! Earth tried that sort of thing and found it didn’t work. Only a crank — and, isolated, the scientists of Skontar are becoming a race of cranks — would think so.</p>
+   <p>“We humans were just fortunate, that’s all. Even we had a long history before a culture arose with the mentality appropriate to a scientific civilization. Before that, technological progress was almost at a standstill. Afterward, we reached the stars. Other races can do it, but first they’ll have to adopt the proper civilization, the proper mentality — and without our guidance, Skontar or any other planet isn’t likely to evolve that mentality for many centuries to come.</p>
+   <p>“Which reminds me…” Lombard fumbled in a pocket. “I have a journal here, from one of the Skontaran philosophical societies. A certain amount of communication still does take place, you know; there’s no official embargo on either side. It’s just that Sol has given Skang up as a bad job. Anyway” — he fished out a magazine…”there’s one of their philosophers, Dyrin, who’s doing some new work on general semantics which seems to be arousing quite a furor. You read Skontaran, don’t you?”</p>
+   <p>“Yes,” said Vahino. “I was in military intelligence during the war. Let me see…” He leafed through the journal to the article and began translating aloud:</p>
+   <p>“The writer’s previous papers show that the principle of nonelementalism is not itself altogether a universal, but must be subject to certain psychomathe-matical reservations arising from consideration of the <emphasis>broganar </emphasis>— that’s a word I don’t understand — field, which couples to electronic wave-nuclei and…”</p>
+   <p>“What is that jabberwocky?” exploded Lombard.</p>
+   <p>“I don’t know,” said Vahino helplessly. “The Skontaran mind is as alien to me as to you.”</p>
+   <p>“Gibberish,” said Lombard. “With the good old Skontaran to-hell-with-you dogmatism thrown in.” He threw the magazine on the little bronze brazier, and fire licked at its thin pages. “Utter nonsense, as anyone with any knowledge of general semantics, or even an atom of common sense, can see.” He smiled crookedly, a little sorrowfully, and shook his head. “A race of cranks!”</p>
+   <empty-line/>
+   <p>“I wish you could spare me a few hours tomorrow,” said Skorrogan.</p>
+   <p>“Well — I suppose so.” Thordin XI, Valtam of the Empire of Skontar, nodded his thinly maned head. “Though next week would be a little more convenient.”</p>
+   <p>“Tomorrow — please.”</p>
+   <p>The note of urgency could not be denied. “All right,” said Thordin. “But what will be going on?”</p>
+   <p>“I’d like to take you on a little jaunt over to Cundaloa.”</p>
+   <p>“Why there, of all places? And why must it be tomorrow, of all times?”</p>
+   <p>“I’ll tell you — then.” Skorrogan inclined his head, still thickly maned though it was quite white now, and switched off his end of the telescreen.</p>
+   <p>Thordin smiled in some puzzlement. Skorrogan was an odd fellow in many ways. But. . well. . we old men have to stick together. There is a new generation, and one after that, pressing on our heels.</p>
+   <p>No doubt thirty-odd years of living in virtual ostracism had changed the old joyously confident Skorrogan. But it had, at least, not embittered him. When the slow success of Skontar had become so plain that his own failure could be forgotten, the circle of his friends had very gradually included him again. He still lived much alone, but he was no longer unwelcome wherever he went. Thordin, in particular, had discovered that their old friendship could be as alive as ever before, and he was often over to the Citadel of Kraaka-haym, or Skorrogan to the palace. He had even offered the old noble a position back in the High Council, but it had been refused, and another ten years — or was it twenty? — had gone by with Skorrogan fulfilling no more than his hereditary duties as duke. Until now, for the first time, something like a favor was being asked… Yes, he thought, I’ll go tomorrow. To blazes with work. Monarchs deserve holidays, too.</p>
+   <p>Thordin got up from his chair and limped over to the broad window. The new endocrine treatments were doing wonders for his rheumatism, but their effect wasn’t quite complete yet. He shivered a little as he looked at the wind-driven snow sweeping down over the valley. Winter was coming again.</p>
+   <p>The geologists said that Skontar was entering another glacial epoch. But it would never get there. In another decade or so the climate engineers would have perfected their techniques and the glaciers would be driven back into the north. But meanwhile it was cold and white outside, and a bitter wind hooted around the palace towers.</p>
+   <p>It would be summer in the southern hemisphere now, fields would be green, and smoke would rise from freeholders’ cottages into a warm blue sky. Who had headed that scientific team? — Yes, Aesgayr Haasting’s son. His work on agronomics and genetics had made it possible for a population of independent smallholders to produce enough food for the new scientific civilization. The old freeman, the backbone of Skontar in all her history, had not died out.</p>
+   <p>Other things had changed, of course. Thordin smiled wryly as he reflected just how much the Valtamate had changed in the last fifty years. It had been Dyrin’s work in general semantics, so fundamental to all the sciences, which had led to the new psychosymbologi-cal techniques of government. Skontar was an empire in name only now. It had resolved the paradox of a libertarian state with a nonelective and efficient government. All to the good, of course, and really it was what past Skontaran history had been slowly and painfully evolving toward. But the new science had speeded up the process, compressed centuries of evolution into two brief generations. As physical and biological science had accelerated beyond belief — But it was odd that the arts, music, literature had hardly changed, that handicraft survived, that the old High Naarhaym was still spoken.</p>
+   <p>Well, so it went. Thordin turned back toward his desk. There was work to be done. Like that matter of the colony on Aesric’s Planet — You couldn’t expect to run several hundred thriving interstellar colonies without some trouble. But it was minor. The empire was safe. And it was growing.</p>
+   <p>They’d come a long way from the day of despair fifty years ago, and from the famine and pestilence and desolation which followed. A long way — Thordin wondered if even he realized just how far.</p>
+   <p>He picked up the microreader and glanced over the pages. His mind training came back to him and he arrished the material. He couldn’t handle the new techniques as easily as those of the younger generation, trained in them from birth, but it was a wonderful help to arrish, complete the integration in his subconscious, and indolate the probabilities. He wondered how he had ever survived the old days of reasoning on a purely conscious level.</p>
+   <p>Thordin came out of the warp just outside Kraaka-haym Citadel. Skorrogan had set the point of emergence there, rather than indoors, because he liked the view. It was majestic, thought the Valtam, but dizzying — a wild swoop of gaunt gray crags and wind-riven clouds down to the far green valley below. Above him loomed the old battlements, with the black-winged kraakar which had given the place its name hovering and cawing in the sky. The wind roared and boomed about him, driving dry white snow before it.</p>
+   <p>The guards raised their spears in salute. They were unarmed otherwise, and the vortex guns on the castle walls were corroding away. No need for weapons in the heart of an empire second only to Sol’s dominions. Skorrogan stood waiting in the courtyard. Fifty years had not bent his back much or taken the fierce golden luster from his eyes. It seemed to Thordin today, though, that the old being wore an air of taut and inwardly blazing eagerness: he seemed somehow to be looking toward the end of a journey.</p>
+   <p>Skorrogan gave conventional greeting and invited him in. “Not now, thanks,” said Thordin. “I really am very busy. I’d like to start the trip at once.”</p>
+   <p>The duke murmured the usual formula of polite regret, but it was plain that he could hardly wait, that he could ill have stood an hour’s dawdling indoors. “Then please come,” he said. “My cruiser is all set to go.”</p>
+   <p>It was cradled behind the looming building, a sleek little roboship with the bewildering outline of all tetra-hedral craft. They entered and took their seats at the center, which, of course, looked directly out beyond the hull.</p>
+   <p>“Now,” said Thordin, “perhaps you’ll tell me why you want to go to Cundaloa today?”</p>
+   <p>Skorrogan gave him a sudden look in which an old pain stirred.</p>
+   <p>“Today, he said slowly, “it is exactly fifty years since I came back from Sol.”</p>
+   <p>“Yes —?” Thordin was puzzled and vaguely uncomfortable. It wasn’t like the taciturn old fellow to rake up that forgotten score.</p>
+   <p>“You probably don’t remember,” said Skorrogan, “but if you want to vargan it from your subconscious, you’ll perceive that I said to them, then, that they could come back in fifty years and beg my pardon.”</p>
+   <p>“So now you want to vindicate yourself.” Thordin felt no surprise — it was typically Skontaran psychology — but he still wondered what there was to apologize for.</p>
+   <p>“I do. At that time I couldn’t explain. Nobody would have listened, and in any case I was not perfectly sure myself that I had done right.” Skorrogan smiled, and his thin hands set the controls. “Now I am. Time has justified me. And I will redeem what honor I lost then by showing you, today, that I didn’t really fail.</p>
+   <p>“Instead, I succeeded. You see, I alienated the Solarians on purpose.”</p>
+   <p>He pressed the main-drive stud, and the ship flashed through half a light-year of space. The great blue shield of Cundaloa rolled majestically before them, shining softly against a background of a million blazing stars.</p>
+   <p>Thordin sat quietly, letting the simple and tremendous statement filter through all the levels of his mind. His first emotional reaction was a vaguely surprised realization that, subconsciously, he had been expecting something like this. He hadn’t ever really believed, deep down inside himself, that Skorrogan could be an incompetent.</p>
+   <p>Instead — no, not a traitor. But — what, then? What had he meant? Had he been mad, all these years, or…</p>
+   <p>“You haven’t been to Cundaloa much since the war, have you?” asked Skorrogan.</p>
+   <p>“No — only three times, on hurried business. It’s a prosperous system. Solar help put them on their feet again.”</p>
+   <p>“Prosperous… yes, yes, they are.” For a moment a smile tugged at the corners of Skorrogan’s mouth, but it was a sad little smile, it was as if he were trying to cry but couldn’t quite manage it. “A bustling, successful little system, with all of three colonies among the stars.”</p>
+   <p>With a sudden angry gesture he slapped the short-range controls and the ship warped down to the surface. It landed in a corner of the great spaceport at Cundaloa City, and the robots about the cradle went to work, checking it in and throwing a protective force-dome about it.</p>
+   <p>“What — now?” whispered Thordin. He felt, suddenly, dimly afraid; he knew vaguely that he wouldn’t like what he was going to see.</p>
+   <p>“Just a little stroll through the capital,” said Skorrogan. “With perhaps a few side trips around the planet. I wanted us to come here unofficially, incognito, because that’s the only way we’ll ever see the real world, the day-to-day life of living beings which is so much more important and fundamental than any number of statistics and economic charts. I want to show you what I saved Skontar from.” He smiled again, wryly. “I gave my life for my planet, Thordin. Fifty years of it, anyway — fifty years of loneliness and disgrace.”</p>
+   <p>They emerged into the clamor of the great steel and concrete plain and crossed over the gates. There was a steady flow of beings in and out, a never-ending flux, the huge restless energy of Solarian civilization. A large proportion of the crowd was human, come to Avaiki on business or pleasure, and there were some representatives of other races. But the bulk of the throng was, naturally, native Cundaloans. Sometimes one had a little trouble telling them from the humans. After all, the two species looked much alike, and with the Cundaloans all wearing Solarian dress…</p>
+   <p>Thordin shook his head in some bewilderment at the roar of voices. “I can’t understand,” he shouted to Skorrogan. “I know Cundaloan, both Laui and Muasa tongues, but…”</p>
+   <p>“Of course not,” answered Skorrogan. “Most of them here are speaking Solarian. The native languages are dying out fast.”</p>
+   <p>A plump Solarian in shrieking sports clothes was yelling at an impassive native storekeeper who stood outside his shop. “Hey, you boy, gimme him fella souvenir chop-chop…”</p>
+   <p>“Pidgin Solarian,” grimaced Skorrogan. “It’s on its way out, too, what with all young Cundaloans being taught the proper speech from the ground up. But tourists never learn.” He scowled, and for a moment his hand shifted to his blaster.</p>
+   <p>But no — times changed. You did not wipe out someone who simply happened to be personally objectionable, not even on Skontar. Not any more.</p>
+   <p>The tourist turned and bumped him. “Oh, so sorry,” he exclaimed, urbanely enough. “I should have looked where I was going.”</p>
+   <p>“Is no matter,” shrugged Skorrogan.</p>
+   <p>The Solarian dropped into a struggling and heavily accented High Naarhaym: “I really must apologize, though. May I buy you a drink?”</p>
+   <p>“No matter,” said Skorrogan, with a touch of grimness.</p>
+   <p>“What a Planet! Backward as… as Pluto! I’m going on to Skontar from here. I hope to get a business contract — you know how to do business, you Skontarans!”</p>
+   <p>Skorrogan snarled and swung away, fairly dragging Thordin with him. They had gone half a block dSwn the motilator before the Valtam asked, “What happened to your manners? He was trying hard to be civil to us. Or do you just naturally hate humans?”</p>
+   <p>“I like most of them,” said Skorrogan. “But not their tourists. Praise the Fate, we don’t get many of that breed on Skontar. Their engineers and businessmen and students are all right. I’m glad that relations between Sol and Skang are close, so we can get many of that sort. But keep out the tourists!”</p>
+   <p>“Why?”</p>
+   <p>Skorrogan gestured violently at a flashing neon poster. “That’s why.” He translated the Solarian:</p>
+   <cite>
+    <p>SEE THE ANCIENT MAUIROA CEREMONIES!</p>
+    <p>COLORFUL! AUTHENTIC! THE MAGIC OF OLD CUNDALOA!</p>
+    <p>AT THE TEMPLE OF THE HIGH ONE ADMISSION REASONABLE</p>
+   </cite>
+   <p>“The religion of Mauiroa meant something, once,” said Skorrogan quietly. “It was a noble creed, even if it did have certain unscientific elements. Those could have been changed — But it’s too late now. Most of the natives are either Neopantheists or unbelievers, and they perform the old ceremonies for money. For a show.”</p>
+   <p>He grimaced. “Cundaloa hasn’t lost all its picturesque old buildings and folkways and music and the rest of its culture. But it’s become conscious that they are picturesque, which is worse.”</p>
+   <p>“I don’t quite see what you’re so angry about,” said Thordin. “Times have changed. But they have on Skontar, too.”</p>
+   <p>“Not in this way. Look around you, man! You’ve never been in the Solar System, but you must have seen pictures from it. Surely you realize that this is a typical Solarian city — a little backward, maybe, but typical. You won’t find a city in the Avaikian System which isn’t essentially — <emphasis>human.</emphasis></p>
+   <p>“You won’t find significant art, literature, music here any more — just cheap imitations of Solarian products, or else an archaistic clinging to outmoded native traditions, romantic counterfeiting of the past. You won’t find science that isn’t essentially Solarian, you won’t find machines basically different from Solarian, you’ll find fewer homesr-every year which can be told from human houses. The old society is dead; only a few fragments remain now. The familial bond, the very basis of native culture, is gone, and marriage relations are as casual as on Earth itself. The old feeling for the land is gone. There are hardly any tribal farms left; the young men are all coming to the cities to earn a million credits. They eat the products of Solarian-type food factories, and you can only get native cuisine in a few expensive restaurants.</p>
+   <p>“There are no more handmade pots, no more hand-woven cloths. They wear what the factories put out. There are no more bards chanting the old lays and making new ones. They look at die telescreen now. There are no more philosophers of the Araclean or Vranamauian schools, there are just second-rate commentaries on Aristotle versus Korzybski or the Russell theory of knowledge…”</p>
+   <p>Skorrogan’s voice trailed off. Thordin said softly, after a moment, “I see what you’re getting at. Cundaloa has made itself over to fit the Solarian pattern.”</p>
+   <p>“Just so. It was inevitable from the moment they accepted help from Sol. They’d <emphasis>have </emphasis>to adopt Solar science, Solar economics, ultimately the whole Solar culture. Because that would be the only pattern which would make sense to the humans who were taking the lead in reconstruction. And, since that culture was obviously successful, Cundaloa adopted it. Now it’s too late. They can never go back. They don’t even want to go back.</p>
+   <p>“It’s happened before, you know. I’ve studied the history of Sol. Back before the human race even reached the other planets of its system, there were many cultures, often radically different. But ultimately one of them, the so-called Western society, became so overwhelmingly superior technologically that.. well, no others could coexist with it. To compete, they had to adopt the very approach of the West. And when the West helped them from their backwardness, it necessarily helped them into a Western pattern. With the best intentions in the world, the West annihilated all other ways of life.”</p>
+   <p>“And you wanted to save us from that?” asked Thor-din. “I see your point, in a way. Yet I wonder if the sentimental value of old institutions was equal to some millions of lives lost, to a decade of sacrifice and suffering.”</p>
+   <p>“It was more than sentiment!” said Skorrogan tensely. “Can’t you see? Science is the future. To amount to anything, we <emphasis>had </emphasis>to become scientific. But was Solarian science the only way? Did we have to become second-rate humans to survive — or could we strike out on a new path, unhampered by the overwhelming helpfulness of a highly developed but essentially alien way of life? I thought we could. I thought we would have to.</p>
+   <p>“You see, no nonhuman race will ever make a really successful human. The basic psychologies — metabolic rates, instincts, logical patterns, <emphasis>everything </emphasis>— are too different. One race <emphasis>can </emphasis>think in terms of another’s mentality, but never too well. You know how much trouble there’s been in translating from one language to another. And all thought is in language, and language reflects the basic patterns of thought. The most precise, rigorous, highly thought out philosophy and science of one species will never quite make sense to another race. Because they are making somewhat different abstractions from the same great basic reality.</p>
+   <p>“I wanted to save us from becoming Sol’s spiritual dependents. Skang was backward. It <emphasis>had </emphasis>to change its ways. But — why change them into a wholly alien pattern? Why not, instead, force them rapidly along the natural path of evolution — our own path?”</p>
+   <p>Skorrogan shrugged. “I did,” he finished quietly. “It was a tremendous gamble, but it worked. We saved our own culture. It’s <emphasis>ours. </emphasis>Forced by necessity to become scientific on our own, we developed our own approach.</p>
+   <p>“You know the result. Dyrin’s semantics was developed — Solarian scientists would have laughed it to abortion. We developed the tetrahedral ship, which human engineers said was impossible, and now we can cross the Galaxy while an old-style craft goes from Sol to Alpha Centauri. We perfected the spacewarp, the psychosymbology of our own race — not valid for any other — the new agronomic system which preserved the freeholder who is basic to our culture — everything! In fifty years Cundaloa has been revolutionized, Skontar has revolutionized itself. There’s a universe of difference.</p>
+   <p>“And we’ve therefore saved the intangibles which are our own, the art and handicrafts and essential folkways, music, language, literature, religion. The <emphasis>balm </emphasis>of our success is not only taking us to the stars, making us one of the great powers in the Galaxy, but it is producing a renaissance in those intangibles equaling any Golden Age in history.</p>
+   <p>“And all because we remained ourselves.”</p>
+   <p>He fell into silence, and Thordin said nothing for a while. They had come into a quieter side street, an old quarter where most of the buildings antedated the coming of the Solarians, and many ancient-style native clothes were still to be seen. A party of human tourists was being guided through the district and had clustered about an open pottery booth.</p>
+   <p>“Well?” said Skorrogan after a while. “Well?”</p>
+   <p>“I don’t know.” Thordin rubbed his eyes, a gesture of confusion. “This is all so new to me. Maybe you’re right. Maybe not. I’ll have to think a while about it.”</p>
+   <p>“I’ve had fifty years to think about it,” said Skorrogan bleakly. “I suppose you’re entitled to <emphasis>a. </emphasis>few minutes.”</p>
+   <p>They drifted up to the booth. An old Cundaloan sat in it among a clutter of goods, brightly painted vases and bowls and cups. Native work. A woman was haggling over one of the items.</p>
+   <p>“Look at it,” said Skorrogan to Thordin. “Have you ever seen the old work? This is cheap stuff made by the thousands for the tourist trade. The designs are corrupt, the workmanship’s shoddy. But every loop and line in those designs had meaning once.”</p>
+   <p>Their eyes fell on one vase standing beside the old boothkeeper, and even the unimpressionable Valtam drew a shaky breath. It glowed, that vase. It seemed almost alive; in a simple shining perfection of clean lines and long smooth curves, someone had poured all his love and longing into it. Perhaps he had thought: This will live when I am gone.</p>
+   <p>Skorrogan whistled. “That’s an authentic old vase,” he said. “At least a century old — a museum piece! How’d it get in this junk shop?”</p>
+   <p>The clustered humans edged a little away from the two giant Skontarans, and Skorrogan read their expressions with a wry inner amusement: They stand in some awe of us. Sol no longer hates Skontar; it admires Us. It sends its young men to learn our science and language. But who cares about Cundaloa any more?</p>
+   <p>But the woman followed his eyes and saw the vase glowing beside the old vendor. She turned back to him: “How much?”</p>
+   <p>“No sell,” said the Cundaloan. His voice was a dusty whisper, and he hugged his shabby mantle closer about him.</p>
+   <p>“You sell.” She gave him a bright artificial smile. “I give you much money. I give you ten credits.”</p>
+   <p>“No sell.”</p>
+   <p>“I give you hundred credits. Sell!”</p>
+   <p>“This mine. Family have it since old days. No sell.”</p>
+   <p>“Five hundred credits!” She waved the money before him.</p>
+   <p>He clutched the vase to his thin chest and looked up with dark liquid eyes in which the easy tears of the old were starting forth. “No sell. Go‘way. No sell <emphasis>oomaui.”</emphasis></p>
+   <p>“Come on,” mumbled Thordin. He grabbed Skorrogan’s arm and pulled him away. “Let’s go. Let’s get back to Skontar.”</p>
+   <p>“So soon?”</p>
+   <p>“Yes. Yes. You were right, Skorrogan. You were right, and I am going to make public apology, and you are the greatest savior of history. But let’s get home!”</p>
+   <p>They hurried down the street. Thordin was trying hard to forget the old Cundaloan’s eyes. But he wondered if he ever would.</p>
+  </section>
+ </body>
+<binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAeAB4AAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4e
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAHaAVcDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwS2i8
+FQXEEtzpWrzwqp3p569T+FU7m28Lxh5LaxunAJ2hnHyg9M1fvNOsbQbbm/hYsBkKDVeysvtLTPbW
+7vHF1bIxivdpYHQTmZ4sNJKL+4b86e+labIuY4WHrWisCPETtw38NS2sbooDAEuduT61bwKEpmZ/
+ZNghOLc5xU1vZ2q2/EAz2rYuNPkt52huMGdRlgDxj/GqJ4XBUn69az+rQZSnYS3ltrWExy2qkkel
+QwT2gtmUWac1OwDAduKoEAMR1NP6oivaDttqGEhtFBrUsdXezjzDawMO2RzWQq/IflNTQj9z0qHg
+0HtWbM3ia/aVSVWLjpio5tWlv4/LureCVR/fWskRySjyxwKdGhjG0mn9WQe1YskOmrJxpVofwp00
+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
+OOfeiuQn+8v0ooEf/9k=</binary>
+</FictionBook>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Poul</first-name>
+    <last-name>Anderson</last-name>
+   </author>
+   <book-title>Life Cycle</book-title>
+   <annotation>
+    <p>From Robert Silverberg’s, “Earthmen and Strangers” anthology, 1966:</p>
+    <empty-line/>
+    <p>Earthly life has developed many methods of reproducing itself. The amoeba is content to split in half; the hydra produces a bud that develops into a new hydra; the small crustacean known as daphnia lays eggs that do not need to be fertilized in order to bring forth young daphnias. Most animals, though, rely on two sexes, female and male, one to produce eggs and the other to fertilize them.</p>
+    <p>The variations within this scheme are great—take, for example, the case of the oyster, which is male at one time of the year and female at another. Given such biological variations, it was inevitable that science-fiction writers would begin to speculate about the unearthly aspects reproduction might take among alien beings. Poul Anderson, a lanky chap of Viking descent who lives in California, is better qualified to make scientific speculations than most of his colleagues. He took a degree in physics at the University of Minnesota before turning to science fiction, and keeps abreast of the latest technical developments in a way that gives his stories the solid ring of authenticity.</p>
+    <p>In this example, he provides a convincing blend of science and imagination that yields insight into a wholly alien race. But because recent scientific research has given us a view of conditions on Mercury different from the one that was accepted in 1957, when this story was written, Anderson has added his own introduction to the story in the interest of maintaining accuracy. </p>
+   </annotation>
+   <date value="1957-07-01">1957</date>
+   <coverpage>
+    <image l:href="#life_cycle.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Verdi1</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-04-02">02.04.2011</date>
+   <id>6DFBA905-C358-4296-876C-7A6F6CCAA292</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Magazine of Fantasy and Science Fiction, July 1957</book-name>
+   <publisher>Fantasy House, Inc.</publisher>
+   <year>1957</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Life Cycle</p>
+   <p>by Poul Anderson</p>
+  </title>
+  <section>
+   <title>
+    <p>AUTHOR’S NOTE</p>
+   </title>
+   <p>A science-fiction writer may, of course, speculate about things that science has not yet discovered. But whenever he deals with what is already known, he should get his facts straight.</p>
+   <p>That’s what I tried to do in this story. The planet Mercury was depicted as accurately as possible by me, according to the best available data and theories, as of 1957.</p>
+   <p>The trouble is, scientific “facts” won’t stay put. In the spring of 1965, radar and radio observations indicated that Mercury does <emphasis>not</emphasis> eternally turn the same face toward the sun and that the dark side—even in the course of a very long night—does not get especially cold.</p>
+   <p>So perhaps this story should not now be reprinted, or perhaps it should at least have been rewritten. But information is still coming in; we are not quite sure that the new data mean what we think they mean; surely all our ideas are due for another upset or two before we get to Mercury and see for ourselves. It is not yet impossible that the older picture may turn out to have been right after all. Be that as it may, theory at the moment is in such a state of flux that one can’t say with any confidence what Mercury, or any other part of the universe, really is like.</p>
+   <p>Let this older story remain unchanged, then, as an intellectual exercise if nothing else.</p>
+   <empty-line/>
+   <p><emphasis>—Poul Anderson</emphasis></p>
+   <empty-line/>
+  </section>
+  <section>
+   <p>“Well, all right! I’ll go to their temple myself!”</p>
+   <p>“You must be crazy even to think of such a <emphasis>tonteria</emphasis>,” said Juan Navarro. He sucked hard on his pipe, decided it was finished, and knocked out the dottle. “They would tear you in pieces.”</p>
+   <p>“Quicker than starving to death on this hellhound lump of rock.”</p>
+   <p>“<emphasis>Very</emphasis> small pieces.” Navarro sat down on a workbench and swung his legs. He was a Basque, medium-sized, longheaded, dark-haired, with the mountaineer’s bony independence in his face. He was also a biologist of distinction, an amateur violinist, and a hungry man waiting to die. “You don’t understand, Joe. Those Dayside beings are not just another race. They are <emphasis>gods</emphasis>.”</p>
+   <p>Joe Kingsbury Thayendanegea, who was a stocky Mohawk from upper New York State, paced the caging space of the room, hands behind his back, and swore. If he had had a tail, he would have lashed it. He was the pilot and engineer, the only other Terrestrial on Mercury. When you dived this far down into the sun’s monstrous gravitational well, you couldn’t take a big crew along.</p>
+   <p>“So what else can you think of?” he challenged. “Shall we draw straws and barbecue the loser?”</p>
+   <p>Antella, the owl-faced Martian mineralogist, made a harsh cawing in his gray-feathered throat. “Best it be me,” he advised. “Then no one is technically guilty of cannibalism.”</p>
+   <p>“Not much meat on that skinny little frame of yours, <emphasis>amigo</emphasis>,” said Navarro. “And a human body would have so many other uses after one was finished with the organic parts. Make the vertebrae into chessmen—the ribs into Venetian blinds for bay windows—yes, and the skulls would make distinctive mousetraps.”</p>
+   <p>Kingsbury shook heavy shoulders and thrust his beaky face forward. “What are we yattering about?” he demanded. “We’ve got a week’s slim rations left aboard this clunk. After that we start starving.”</p>
+   <p>“So you are going to the temple and confront the gods and convince them of the error of their ways. Ka!”</p>
+   <p>Antella clicked his short, curved bill. “Or did you think to threaten them with our one solitary pistol?”</p>
+   <p>“I’m going to try and find out what the Twonks—or their gods, if you insist—have against us,” said Kingsbury. “Here’s the idea: It’s getting close to sunrise time, and there’ll be a crowd of ’em at the temple. I’ll go out on Dayside and find me an empty Twonk shell and get into it. With luck, I’ll pass unnoticed long enough to—”</p>
+   <p>Antella’s brass-colored eyes widened. “The scheme is a bold one,” he admitted. “As far as I know, there is strict silence during the ceremonies, whatever they are. You just might accomplish it.”</p>
+   <p>Navarro leered. “I know exactly what you would accomplish, Joe. Do you remember that story you tell me, oh, last year I think it was? About the tourist in the North forest, and the Canuck guide, and the moose call?”</p>
+   <p>“Yeah. ‘Ze moose, she—’ Hey! What do you mean?”</p>
+   <p>“Precisely. That temple is a breeding place. They go there to breed.”</p>
+   <p>“How do <emphasis>you</emphasis> know? I’ve been tramping around arguing with the Twonks, and you’ve just sat here <emphasis>in</emphasis> the lab.”</p>
+   <p>Navarro shrugged. “What else could I do but my research? I studied the biochemistry of Mercurian life. I worked out the life cycle of a few plants and one insectoidal form.”</p>
+   <p>“They all look like insects. But go on.”</p>
+   <p>“The first expedition established no more than that Mercurian life has a silicate base,” recapitulated Navarro. “Otherwise they were too busy staying alive and teaching English to the natives and making maps. But they brought home specimens, which were analyzed. And one strange fact became evident: Those specimens could not reproduce under Twilight Zone conditions. Yet they live here! And we see the natives lay eggs, which hatch; and lower forms bring forth their own kind in various ways—”</p>
+   <p>“I know,” grunted Kingsbury. “But why? I mean, what’s so puzzling about their reproduction?”</p>
+   <p>“The cells are totally different, both physically and chemically, from protoplasmic life,” said Navarro. “But there are analogues; there have to be. The basic process is the same, meiosis and mitosis, governed by a molecular ‘blue-print’ not unlike our chromosomes. However, though we know that such processes <emphasis>must</emphasis> take place, the silicate materials involved are too stable to undergo them. The ordinary exothermic reactions which fuel Mercurian life do not produce enough energy for the cell-duplication which is growth. In fact, adult Mercurians are even incapable of self-repair; wounds do not heal, they must depend on being so tough that in this low gravity they suffer few injuries.”</p>
+   <p>“So what happens?”</p>
+   <p>Navarro shrugged. “I do not know, except this much: that somehow, at breeding time, they must pick up an extra charge of energy. Analyzing small animals, I have identified the compound which is formed to store this energy and release it, by gradually breaking down, as the organism grows. It is all used up at maturity. But where is the temperature necessary to build up this molecule? Only on Dayside.</p>
+   <p>“Now these gods are said to live, on Dayside and meet the Twonks of Twilight at the temple. You know the breeding ceremonies take place when libration has brought the temple into the sunlight.”</p>
+   <p>“Go on,” said Antella thoughtfully.</p>
+   <p>“<emphasis>Pues</emphasis>, one of the plants, has this life cycle; it grows in the Twilight Zone, on the sunward side, and its vines are phototropic. Eventually their growth and the libration bring them into the light. The spore-pods burst and the spores are scattered into the air. A few are blown back into Twilight, and they are now fertile; radiation has formed the necessary compound. Or consider one of the small insectoids I studied. It breeds here in the. usual manner, then the female crawls out into the light to lay her eggs. When they hatch, the little ones scurry back to the shade, and some of them reach shelter before they fry. Wasteful, of course, but even on this barren planet nature is a notorious spendthrift.”</p>
+   <p>“Wait a minute!” interrupted Kingsbury. Navarre liked <strong>to</strong> hear himself talk, but there are limits. “Are you implying that the Dayside gods are merely the sun? That because the Twonks have to have light when they breed, they’ve built up a sort of Apollo-cum-fertility cult?”</p>
+   <p>“Why not? There are races on Earth and Mars with similar beliefs. To this day, here and there in my own Pyrenees, many women believe the wind can make them pregnant.” Navarro laughed. “It is a good excuse anyhow, no?”</p>
+   <p>“But there’s Dayside life too. Life that never comes into Twilight.”</p>
+   <p>“Yes, yes, of course. Quite different from Twilight biology—after all, it has to live at a temperature of four hundred degrees Centigrade. Possibly the Twonks regard some Dayside animal as a sort of fertility totem. I am only saying this—that if the gods are actually <emphasis>the</emphasis> sun, you will have Satan’s own time persuading the sun to take back its edict that we must die.”</p>
+   <p>In the end, there was a decision. Navarro thought Kings-bury a suicidal idiot… but what choice was there? They would go to the temple together, disguised, and find out what they could; if there were no gods, but only some fanatically conservative priestess behind the death sentence, a .20-caliber Magnum automatic might make her see reason. Antella would stay behind to guard the ship; he couldn’t take heat as well as an Earthling.</p>
+   <p>The humans donned their spacesuits and went through the air lock. Navarro had the gun, Kingsbury armed himself with a crowbar; at last and worst, he thought savagely, he’d crack a few Mercurian carapaces.</p>
+   <p>They stepped out into desolation. Behind them lay the <emphasis>Explorer</emphasis>, a crippled metal giant, no more to them than a shelter. In the end, perhaps, a coffin. There was no possibility of rescue from Earth—radio communication was out, with the sun so close, and Mercury Expedition Two wasn’t due back for six months. Earth wouldn’t even realize they were in trouble till they had already died.</p>
+   <p>To right and left, the dry valley lifted into gaunt ocherous peaks against a dusky sky where a few hard stars glittered. There were bushes scattered about, low things with blue metallic-looking leaves. A small animal bounded from them, its shell agleam in the wan light. The ground was slaty rubble, flaked off in departed ages when Mercury still had weather. Above the peaks to the left hung a white glare, the invisible sun. It would never be seen from here, but a few miles further west the planet’s libration would lift it briefly and unendurably over the near horizon.</p>
+   <p>There was a wind blowing; the wind is never quiet on Mercury, where one side is hot enough to melt lead and the other close to absolute zero. It sent a ghostly whirl of dust devils across the valley. There wasn’t much air—a man would have called it a soft vacuum and not fit to breathe at any density. Most of it had long ago escaped into space or frozen on Darkside, but now vapor pressure had struck a balance, and there was some carbon dioxide, nitrogen, ammonia, and inert gas free. Enough to blow fine dust up against the weak gravity and to form an ionosphere which made radio communication possible over the horizon.</p>
+   <p>Kingsbury shuddered, remembering green forests and clear streams under the lordly sky of Earth. What the devil had inspired him to come here? Money, he supposed. Earth needed fissionable ores, and Mercury had them, and Expedition Two was sent to negotiate an agreement with the natives. The pay was proportional to the risk—but what use is all the money in the cosmos to a dead man?</p>
+   <p>“When I get home,” said Navarro wistfully, “after the parades and banquets—yes, surely there will be parades, with all the pretty girls throwing flowers and kisses at us—after that I shall retire to my own village and sit down before the tavern and order a bottle of the best Amontillado. Three days later I will ask them to sweep the cobwebs off me. A week later I shall go home and sleep.”</p>
+   <p>“I’ll settle for a tall cold beer in Gavagan’s,” said Kingsbury. “You ought to let me take you pub crawling in New York sometime—bah!” His gauntleted hand made a vicious gesture at the tumbled ruin of a landscape. “What makes you think we ever will get home?”</p>
+   <p>“Nothing,” said Navarro gently, “except that I will not permit myself to think otherwise.”</p>
+   <p>They rounded a tall red crag and saw how the valley broadened into cultivated fields, ironberry bushes and flintgrain stalks. On the dusky edge of vision was the Mercurian hive, a giant dome of crushed rock in which several thousand natives dwelt There were hundreds of such barracks, scattered around the Twilight Zone, with a temple for every dozen or so. Apparently there was no variation in language or culture over the whole planet—understandable when the habitable area was so small. And it was an open question how much individual personality a Mercurian had, and how much of her belonged to the hive-mind.</p>
+   <p>Close at hand was the hut which held their lives. It was a crude, roofless structure, four stone walls and an open, doorway. The first expedition had erected it with native help, to store supplies and tools—it made the ship roomier. The <emphasis>Explorer’s</emphasis> crew had used it similarly, putting in most of their food and the bulky ion-control rings from the reaction drive. Again the natives had lent a willing hand.</p>
+   <p>There were four guards outside the hut. They were armed only with spears and clubs. It would be easy enough to shoot them down. But before anything could be transferred back to the ship, the entire hive would come swarming, and there weren’t that many bullets.</p>
+   <p>“Let’s go talk to them,” said Navarro.</p>
+   <p>“What’s the use?” asked Kingsbury. “I’ve talked to those animated hulks till my larynx needs a retread.”</p>
+   <p>“I have an idea—I want to check on it.” Navarro’s clumsy suit went skimming over the ashen ground. Kingsbury followed with a mumbled oath.</p>
+   <p>The nearest guard hefted her spear and swiveled antennae in their direction. Otherwise there was no movement in her. She stood six feet tall, broad as a space-suited man, her exoskeleton shimmering blue, her head featureless except for the glassy eyes. With four three-fingered arms, tightly curled ovipositor, and sliding joints of armor, she looked like a nightmare insect. But she wasn’t; a dragonfly or a beetle was man’s brother beside this creature of silicone cells and silicate blood and shell of beryllium alloy. Kingsbury thought of her as a kind of robot—well, yes, she was alive, but where did you draw the line between the robot and the animal?</p>
+   <p>Navarro stopped before her. She waited. None of her sisters moved. It was a disconcerting habit, never to open conversation.</p>
+   <p>The Basque cleared his throat. “I have come—oh, wait.” With his teeth he switched his helmet radio to the band the natives could sense. “I wish to ask again why you deny us permission to use our own food.”</p>
+   <p>The answer crackled in their earphones. “It is the command of the gods.”</p>
+   <p>Kingsbury stood listening to that nonhuman accent and speculating just what sort of religion these entities did have. They had emotions—they must, being alive—but the degree of correspondence to human or Martian feeling was doubtful.</p>
+   <p>It wasn’t strange that they communicated by organically generated FM radio pulses. The atmosphere didn’t carry enough sound to make ears worthwhile. But constant submergence in the thoughts of every other Mercurian within ten miles… it must do something to the personality. Make the society as a whole more intelligent, perhaps—the natives had readily learned English from the first expedition, while men hadn’t yet made sense out of the native language. But there was probably little individual awareness. A sort of ant mind—ants collectively did remarkable things but were hopeless when alone.</p>
+   <p>Navarro smiled, a meaningless automatic grimace behind his face plate. “Can you not tell my why the gods have so decreed? You were all friendly enough when my race last visited you. What made the gods change their minds?”</p>
+   <p>No answer. That probably meant the Twonk didn’t know either.</p>
+   <p>“You could at least let us have back our control rings and enough food for the journey home. I assure you, we would leave at once.”</p>
+   <p>“No.” The voice was alike empty of rancor and mercy. “It is required that you die. The next strangers to come will, then, not be forewarned, and we can dispose of them too. This land will be shunned.”</p>
+   <p>“If we get desperate enough, we will start fighting you. We will kill many.”</p>
+   <p>“That I—we do not understand. We are letting you die this way because it is easiest. If you fight us, then we shall fight you and overwhelm you with numbers; so why do you not die without making useless trouble for yourselves?”</p>
+   <p>“That isn’t in our nature.”</p>
+   <p>“I—we do not know what you mean by ‘nature.’ Every She, when she has laid as many eggs as she can, goes out to the sun and returns to those which you name gods. Death is a correct termination when there is no further use for the organism.”</p>
+   <p>“Men think differently,” said Navarro. “Of course, as a more or less good Catholic, I consider my body only a husk—but I still want to keep it as long as possible.”</p>
+   <p>No reply, except for some crackling gibberish. The Mercurians were talking to each other. Weaker overtones made Kingsbury suspect that several Twonks within the hive were joining the discussion—or the stream of consciousness, or whatever you wanted to call the rumination of a semicollective mind.</p>
+   <p>“Look here, my friend,” said Navarro. “You know our purposes. We want to get certain minerals from you. You have no use for them, and we would pay you well, in tools and machinery you cannot make for yourselves.”</p>
+   <p>“It would be mutually advantageous,” agreed the Twonk. “When the first ship came, we considered it an excellent idea. But since then the gods have told us your sort must not be allowed to live.”</p>
+   <p>“<emphasis>Por Dios!</emphasis> Why?”</p>
+   <p>“The gods did not say.”</p>
+   <p>“You serve these gods,” said Navarro harshly. “I believe you give them food—right? And tools and anything else they want. You obey their least whim. What do <emphasis>you</emphasis> gain from them?”</p>
+   <p>No answer.</p>
+   <p>“Can we talk to these gods? Maybe we can persuade them—”</p>
+   <p>“It is forbidden you to see the Living Light.” Another conference. “Perhaps you will agree to die and stop bothering us if we tell you the gods are needful to our life. They give us pure metal—”</p>
+   <p>“Most of which you make into tools for them,” snapped Navarro. “We could do the same for you.”</p>
+   <p>“That is a small thing. But the gods are needful to our life. It is the gods who put life into our eggs. Without them no young would be hatched. It is thus necessary that we obey them.”</p>
+   <p>“Cut it out, Juan,” snarled Kingsbury. “I’ve been through this rigmarole a hundred times. It’s no use.”</p>
+   <p>Navarro nodded absentmindedly and trudged off. They switched to a different radio band, one the natives could not “hear,” but said nothing for a while.</p>
+   <p>“Has it ever occurred to you,” asked Navarro finally, “that nobody has ever seen a male Mercurian?”</p>
+   <p>“Sure. They’re hermaphrodites.”</p>
+   <p>“That was assumed by the first expedition. An assumption only, of course. They could not vivisect a live Twonk—”</p>
+   <p>“<emphasis>I</emphasis> sure could!”</p>
+   <p>“—and the old ones all go out on Dayside to die. The only chance for anatomical studies would be to find one which had met a violent end here in Twilight, and there was always too much else to do.”</p>
+   <p>“Well, why shouldn’t they be hermaphrodites? Oysters are.”</p>
+   <p>“At certain times of the year. But oysters are a low form of life. On Earth, Mars, and Venus, the higher one goes on the evolutionary scale, the more sharp the distinction between the sexes.”</p>
+   <p>“All right, maybe their males are very small.”</p>
+   <p>“As with some fish? Possibly. But most improbable. All their eggs are about the same size, you know.”</p>
+   <p>“Who cares?” snorted Kingsbury. “I just want to go home.”</p>
+   <p>“I care. I have a tidy mind. And, too, Earth needs that uranium and thorium. We will never get it unless we can circumvent this religion of theirs, either by persuading the gods or by… hm… destroying the cult. But to accomplish the latter, we will first have to understand the creed.”</p>
+   <p>They came out on a road of sorts, a narrow track in the shale, stamped out by thousands of years of feet. There were natives working in the fields, and before the hive they could see smiths hammering cold iron and copper into implements. A few young were in sight, unhumanly solemn at their play. None paid any attention to the outworlders.</p>
+   <p>Navarro pointed to a smith. “It is true what the Twonk said, that the gods supply their metal?”</p>
+   <p>“Yes,” said Kingsbury. “At least, so I’ve been told, and I do think the Twonks are unable to tell a lie. Being radio-telepathic, y’know, they couldn’t lie to each other, so the idea would never occur to them.”</p>
+   <p>“Hm… they do not have fire here, not in this sleazy atmosphere. They must have been in a crude neolithic stage until the gods started smelting ores for them. I imagine that could be done with mirrors focusing the Dayside heat on—oh, a mixture of crushed hematite and some reducing material.”</p>
+   <p>“Uh-huh. And the gods get the pick of whatever the Twonks make out of the metal.” Kingsbury cleared his throat to spit, remembered he was in a space suit, and swallowed. “It’s perfectly clear, Juan. There are two intelligent races on Mercury. The Daysiders have set up in business as gods. They don’t want humans around because they’re afraid we’ll spoil their racket and make ’em work for a living.”</p>
+   <p>“Obviously,” said Navarro. “The problem is, how to convince the Twonks of this? To do that, we shall first have to study the nature of the Dayside beings.”</p>
+   <p>They mounted a razorback ridge and clapped down glare filters. Before them was the sun.</p>
+   <p>It burned monstrous on the horizon, a white fury that drowned the stars and leaped back off the withered land. Even here, with shadows lapping his feet and the refrigeration unit at full blast, Kingsbury felt how the heat licked at him.</p>
+   <p>“God!” he whispered. “How far can we go into that blazing hell?”</p>
+   <p>“Not very far,” said Navarro. “We shall have to hope some Twonks died close by. Come!” He broke into long low-gravity bounds, down the slope and out onto the plain.</p>
+   <p>Squinting through tormented eyes, Kingsbury made out a shimmering pool at the horizon. It spouted as he watched… molten lead? With the speed he had and the sharp curvature of the surface, the sun was rising visibly as he ran.</p>
+   <p>Even here there was life. A crystalline tree squatted near a raw pinnacle, stiff and improbable. A small thing with many legs scuttered away, shell too bright to look at. Basically, Dayside life had the silicate form of-Twilight, many of the compounds identical-—a common ancestry a billion years ago, when Mercury still had water—but this life was adapted to a heat that made lead run liquid.</p>
+   <p>“This… road… goes on,” panted Kingsbury. “Must be… a graveyard… somewhere…”</p>
+   <p>His skin was prickling now, as charged particles ate in through the armor. His underclothing was limp with sweat. His tongue felt like a swollen lump of wood.</p>
+   <p>This was farther into Dayside than men had ever gone before. Through the dizziness, he wondered how even a Twonk could survive the trip. Only, of course, they didn’t. The natives had told the first expedition that their old ones went out into the sunlight to die. There’d be no one to bury them, and the shells weren’t volatile—</p>
+   <p>He stumbled over the first one before he knew it. When his gauntlets touched the ground, he yelled. Navarro pulled him up again. There was a dazzle in their helmets, they squinted and gasped with dry lungs and thought they heard their brains sizzling.</p>
+   <p>Dead Twonks, thousands of them, scattered around like broken machines, empty-eyed, but the light demonic on their carapaces. Kingsbury picked one up. Even in Mercurian gravity, it seemed to have oddly little weight. Navarro took another. Its arms and legs flapped horribly as he ran back eastward.</p>
+   <p>They never remembered that running. After they had fallen on the dark side of the ridge, they must have fainted, for the next memory was of stirring and a slow awareness that they were embracing dead Mercurians.</p>
+   <p>Kingsbury put his lips to his canteen nozzle and sucked water up the hose. It was nearly scalding, but he had never drained so sweet a draught. Then he lay and shuddered for another long while.</p>
+   <p>“<emphasis>Bueno</emphasis>,” croaked his companion. “We made it”</p>
+   <p>They sat up and regarded their loot. Both shells had split open down the front, along the line of weakness where the ventral scutes joined. They had expected to find the shriveled remnants of “organic” material, dried flesh and blackened tendons and collapsed veins. But there was nothing.</p>
+   <p>The shells were empty.</p>
+   <p>It was a long circuitous walk back to the ship. They didn’t want any natives to see them. After that there was a wonderful time of sleeping while Antella worked.</p>
+   <p>They didn’t stop to think about the implications until it was too late to think very much at all. Sunrise would occur at the temple in a few hours, and it was quite a ways from here.</p>
+   <p>Antella’s claw-like hands gestured proudly at the shells. “See, I have hinged the front plates so you can get in and out Your radios are connected to the antennae, though how you expect to talk Mercurian if anyone converses with you, I do not understand. This harness will support the shells around your suits. Naturally, you cannot use the lower arms, but I have wired them into a lifelike position.”</p>
+   <p>Kingsbury drew hard on a cigarette. It might be the last one he ever smoked. “Nice work,” he said. “Now as for the plan itself, we’ll just have to play by ear. We’ll get inside the temple with the others, see what we can see, and hope to get out again undamaged. If necessary, we’ll shuck these disguises and fight our way back here. Even in space suits, we can outrun any Twonk.”</p>
+   <p>Navarro shook his head. “A most forlorn hope,” he muttered. “And if we should succeed, do you realize how many xenologists will pour the vials of wrath on our heads for disrupting native culture?”</p>
+   <p>“That bothers me a lot,” snorted Kingsbury.</p>
+   <p>“I, of course, can claim to be carrying out the historic traditions of my own people,” said Navarro blandly. “It was not the Saracens but the Basques who slew Roland at Roncesvalles.”</p>
+   <p>“Why’d they do that?”</p>
+   <p>“They didn’t like the way Charlemagne was throwing his weight around. Unfortunately, you, my friend, cannot say you are merely preserving your own culture. These Twonks have no scalps to lift.”</p>
+   <p>“That’s a laugh,” said Kingsbury, “my culture for the past hundred years has been building skyscrapers and bridges. Come on, let’s shove.”</p>
+   <p>It was a clumsy business getting into the shells, but once the plates were latched shut and the harness adjusted, it was not too awkward a disguise. The heads could not be turned on then- necks when you wore a space helmet inside, but Antella had filled the empty eye sockets with wide-angle lenses. Kingsbury hoped he wouldn’t be required to wink or move all four arms, or waggle the ovipositor or speak Mercurian; but otherwise, if he was careful, he ought to pass muster.</p>
+   <p>The humans left the ship and went down the valley, moving with the stiff native stride. Not till they were past the hive did they speak. Kingsbury’s belly muscles were taut, but none of the autochthones paid him any special heed. It was fortunate that the Mercurians were not given to idle gossip.</p>
+   <p>Presently he found himself on a broad, smoothly laid road. It ran straight northwest, through a forest of gleaming barrel-shaped plants where the small wildlife of Twilight scuttled off into the dusk. More and more natives joined them, tall solemn figures streaming in from side roads onto the highway. Many were laden with gifts, iron tools and flashing gems and exquisitely wrought stone vessels. Did the gods drink molten lead out of those? There was no speech on the communication band, only the quiet pulse of currents oscillating in nerves that were silver wires.</p>
+   <p>Ghostly journey, through a dark chaotic wilderness of rock and crystalline forest, among a swarm of creatures out of dreams. It shocked Kingsbury how small man and man’s knowledge were in the illimitable universe.</p>
+   <p>He switched to the other band and said harshly, “Juan, maybe we are nuts. Even if we get away with it, what can we hope to do? Suppose one of these Twonks pulled a similar stunt in your church—wouldn’t that just make you fighting mad?”</p>
+   <p>“Yes, of course,” answered the other man. “Unless by such means the Twonk proved to me that my faith was based on a fraud. Naturally, she would not be able to do so; but assuming for the sake of discussion that she did, my philosophy would come crashing down about my ears. Then I should be quite ready to listen to her.”</p>
+   <p>“But God! How can we imagine these critters think like us?”</p>
+   <p>“They don’t. But that is in our favor, because they are actually more logical than we humans. They have freely admitted that the only reason they obey the gods is that those are essential to fertility.”</p>
+   <p>“Well… maybe the gods are!”</p>
+   <p>“Yes, yes, I am quite sure of it. But I am equally sure that there is nothing supernatural about it. Suppose, for instance, that a dose of sunlight is necessary for reproduction. A class of priestesses may have capitalized on this fact—I am not sure how, given the Mercurian telepathy, but perhaps the priestesses can think on a different band. Now if we can show that the sunlight alone is required, and the priestesses are mere window dressing, then I am sure the Twonks will get rid of them.”</p>
+   <p>Kingsbury grinned with scant mirth. “And we’re supposed to find this out and prove it in one glimpse?”</p>
+   <p>“This was originally your idea, <emphasis>amigo</emphasis>.”</p>
+   <p>“Yeah. Please don’t rub it in.”</p>
+   <p>They walked on, silent, thinking of Earth’s remote loveliness. An hour passed. It grew hotter, and the western blaze climbed into the sky until you could see the great lens of zodiacal light just above the hills, and more natives joined the procession until there were several thousand pouring along the road. Kingsbury and Navarro stayed close together, near the middle of the crowd.</p>
+   <p>Black against the blinding sky, they saw the temple. It stood on a high ridge, a columned building of red granite, curiously reminiscent of old Egyptian work. A flat roof covered the front half; the rear was open, but walled off from sight.</p>
+   <p>The pilgrimage moved between basalt statues onto a flagged plaza before the temple. There it halted, motionless as only a nonbreathing Mercurian can be. Kingsbury tuned back to the communication band and heard that they were chanting—at least, he supposed the eerie whining rise-and-fall of radio pulses was music. He kept his own mouth shut; no one in that entranced collectivity would realize he wasn’t joining in.</p>
+   <p>A line of Mercurians emerged from the colonnade. They must be priestesses or servitors, for there were geometric patterns daubed on their shells. They halted before the worshipers. Gravely, those who bore gifts advanced, bowed down, and laid them at the feet of the clergy. The articles were picked up and carried back into the temple.</p>
+   <p>Kingsbury sweated and shivered in his spacesuit. What if the ritual included some fancy dance? He hoped Navarro, who had the gun, could break out of his shell fast enough to use it. None of the natives was armed, and a human was a match for any ten Mercurians, but there must be five thousand of them around him.</p>
+   <p>The glare became a sudden flame. Sunrise! The shadow of the temple fell over the plaza, but Kingsbury narrowed his eyes to slits, and still his head ached.</p>
+   <p>He was dimly aware of the priestesses returning. Their voices twittered, and the chant ended. A hundred Mercurians walked forth, up the stairs and into the doorway. Another hundred and another hundred… They were not quite so impassive now. Kingsbury could see that those near him were trembling with excitement.</p>
+   <p>Now his and Navarro’s line was on the move. He saw that one of the priestesses was leading them. They entered between the pillars and went across a room of mosaics and down a hall. At its end were passages leading to a number of roofless courts into which the sunlight fell. His party took one.</p>
+   <p>The priestess stood aside, and the procession went on in.</p>
+   <p>Against the radiance, Kingsbury could just see that there was a doorway on the western side and that daises were built into the floor. The Twonks were settling themselves on those, waiting. He switched to the private band: “Juan, what happens now?”</p>
+   <p>“What do you think?” answered the Basque. His voice shook, but there was a wryness in it. “This is where they breed, isn’t it?”</p>
+   <p>“If one of ’em makes a pass at me, shall I try to play along?”</p>
+   <p>“I think there is something against it in Leviticus—nor could you, ah, respond… We shall probably have to run for our lives. But they are all lying down. Find yourself a couch!”</p>
+   <p>There was a stillness that stretched. The heat blasted and gnawed. Even the Twonks couldn’t endure it for very long at a time. Something would have to take place soon, unless—</p>
+   <p>“Juan! Maybe they’re what-you-call-it, virgin birth. Maybe the sun fertilizes them.”</p>
+   <p>“No. Not parthenogenetic. It has not the evolutionary potentiality to produce intelligent life—it does not give variant zygotes. Sunlight is necessary but not sufficient, I think. And I still cannot believe they are true hermaphrodites. Somewhere there must be males.”</p>
+   <p>Almost, Kingsbury jerked. It was a tremendous effort to hold himself rigid, to wait in the shimmering, dazzling devil-dance of light as all the natives were waiting. “I’ve got it! The gods—<emphasis>they</emphasis> are the males!”</p>
+   <p>“That is clear enough,” said Navarro impatiently. “I deduced it hours ago. But if the case is so simple, I am not hopeful. The males can still claim to be a different, superior order of life, as they indeed already do. We shall need a more fundamental discovery to upset this male-worshiping cult.”</p>
+   <p>Navarro’s voice snapped off. Flame stood in the doorway.</p>
+   <p>No… the tall lizardlike forms, in burnished coppery scales, wreathed in silvery vapor—they glowed, walking dragons, but they did not burn. They advanced, through the doorway and into the courtyard. Their beaks gaped, and the small dark eyes held sun sparks, and the tails lashed their taloned feet. More and more of them, stalking in, one to a Twonk, and approaching with hands held out.</p>
+   <p>The males of Mercury… Dayside life, charged with the energy from the sun which made new life possible, sweating out pure quicksilver to cool them so they wouldn’t fry their mates. Was it any wonder they were thought divine?</p>
+   <p>But it wasn’t possible! Male and female had to come from the same race, evolving together—they <emphasis>couldn’t</emphasis> have arisen separately, one in the hell of dayside and one in the endless purgatorial dusk of Twilight. The same mothers had to bear them; and yet, and yet, Twonk eggs only brought forth Twonks…</p>
+   <p>Then—</p>
+   <p>The knowledge bit home as a dragon neared Kingsbury. The male was hesitating, the lean head wove back and forth… An alien smell? A subtle wrongness of posture?</p>
+   <p>The Mohawk sat up and yelled. The dragon spouted mercury vapor and crouched. Teeth made to shear through rock flashed in the open mouth.</p>
+   <p>“Juan, I’ve got it! I know what they are! Let’s get back!”</p>
+   <p>Navarro was on his feet, fumbling at the belly of his disguise. Latches clicked free, and he scrambled out of it. The nearest dragon leaped. Navarro’s gun bucked. The male fell with a hole blown through him. So much for the immortal gods, the heavenly showmen. Kingsbury was out of his own shell now. A female lunged at him. He got her around the waist and pitched her into the mob. Whirling, he slugged his way toward the door, Navarro covering his back.</p>
+   <p>The dragons snapped at them but didn’t dare attack. There was a moment of fury, then the humans were out on the plaza. They began running.</p>
+   <p>“Now we’ve got to beat them back to the ship,” panted Kingsbury.</p>
+   <p>“More than that,” said Navarro. “We must reach safety before they come near enough to call the hive and have us intercepted. I wonder if we can.”</p>
+   <p>“A man might try,” said Kingsbury.</p>
+   <p>The forward port showed some thousands of armed Mercurian females. They ringed in the ship, waiting, too rational to batter with useless clubs at the hull and too angry to depart. There were more of them arriving every minute.</p>
+   <p>“I wonder—” Antella peered out. He spoke coolly, but his feathers stood erect with tension. “I wonder if they can do worse to us than they have already done. We will starve no faster besieged in here than walking freely around.”</p>
+   <p>“They can get to us if they want to work at it,” said Kings-bury. “And I think they do. They could rig up some kind of battering ram—”</p>
+   <p>Navarro lighted his pipe and puffed hard. “It is our task to persuade them otherwise,” he said. “Do you believe they will listen?”</p>
+   <p>Kingsbury went over to the ship’s radio and sat down and operated the controls with nervous fingers. “Let’s hope so. It’s our only chance. Do you want to talk to “em?”</p>
+   <p>“Go ahead. You are better with the English language than I. I will perhaps put in an oar.”</p>
+   <p>Kingsbury switched on the speaker and brought his lips to the microphone. “Hello, out there,” he said.</p>
+   <p>His voice cut through the seething of Mercurian tones. It was weird how they snapped off all at once. English, clear and grammatical and subtly distorted, answered him:</p>
+   <p>“What do you wish to say? You have violated the temple. The gods order that you must die.”</p>
+   <p>“The gods would say that,” replied Kingsbury. “But they are not gods at all. They want to get rid of us because we can tell you the truth. They’ve lied and cheated you for I don’t know how many centuries.”</p>
+   <p>“Truth, lie, cheat. Those are words we do not know.”</p>
+   <p>“Well… uh… truth is a correct statement, a statement of what is real. A lie is a statement which is not truth, but made on purpose, knowing it to be false. Cheating is… well… curse it, I wish we had a dictionary along! The gods have lied to you so you would do what they wanted. That’s cheating.”</p>
+   <p>“We think we understand,” said the toneless voice. “It is a new concept to us, but a possible one. The gods do not speak so we can hear them. They—” Conference, presumably recalling what the first expedition had told about radio—“they use a different band. They communicate with us by gestures only. So are you implying that they are not what they claim to be and have made life unnecessarily difficult for us?”</p>
+   <p>“That’s it, pal.” Kingsbury still didn’t like the Twonks much, but he was grateful they were so quick on the uptake. “Having seen what goes on in the temple, we know what these self-appointed gods are. They’re nothing but the males of your own species.”</p>
+   <p>“What does the word ‘male’ denote?”</p>
+   <p>“Well—” Kingsbury ground to a halt. Precisely how did you explain it in nickel words when Junior asked where he came from? He gave Navarro a helpless look. The Basque grinned, leaned over the microphone, and gave a simple account.</p>
+   <p>The-female collectivity thought about it for a while, standing in burnished motionlessness, then said with an unaccustomed slowness: “That is logical. We have long observed that certain of the animals go through the same motions of fertilization as we with the gods. But whether you wish to call them gods or males makes no difference. They are still the great ones who give life.”</p>
+   <p>“They don’t give any more life than you do,” snapped Kingsbury. “They need you just as much as you need them. In fact… <emphasis>they are yourselves</emphasis> !”</p>
+   <p>“That is an irrational statement.” Was there a defensive overtone in the voice? “Our eggs bring forth only females, so it is reasonable to suppose that the gods are born directly of the sun. A Mercurian hatches from an egg after the god-male has given life. She grows up and in her turn visits the god-males and brings forth eggs. At last, grown old, she goes to the sunlands and dies. There is no missing period in which she could become a god-male.”</p>
+   <p>“Oh, yeah? What about after she’s gone sunside?”</p>
+   <p>Mercurian language gabbled at them.</p>
+   <p>Kingsbury spoke fast: “We went out there ourselves and found the shells of those you thought-had died. But the shells were empty! You know you have muscles, nerves, guts, organs. Those ought to remain in a dried-out condition. But I repeat, the shells were empty!”</p>
+   <p>“Then—But we have only your statement.”</p>
+   <p>“You can check up on it. We can rebuild a space suit for one of you, furnish enough protection from the sun for you to go out there a while, long enough to see.”</p>
+   <p>“But what happens? What is the significance of the empty shells?”</p>
+   <p>“Isn’t it obvious, you dunderheads? You’re a kind of larval stage. At the proper time, you go out into the sun. Its radiation changes you. You’re changed so much that all memory of your past state disappears—your whole bodies have to be reconstructed, to live on Dayside. But when the process is finished, you break out of the shell—and now you’re male.</p>
+   <p>“<emphasis>You</emphasis> don’t know that. The male comes out as if newly born—hatched, I mean. Probably his kind meet him and help him and teach him. The males discovered the truth somehow… well, it was easy enough for them, since they can watch the whole life cycle. Instead of helping you females, as nature intended, they set themselves up as gods and lived off you, taking more than they gave. And when they learned about us, they forbade you to have dealings with us—because they were afraid we’d learn the truth and expose them.</p>
+   <p>“But they need you! All you have to do is refuse to visit the temples for a few sunrises. Then see how fast they come to terms!”</p>
+   <p>For a time, then, the radio hissed and crackled with the thinking of many minds linked into one. Antella sat unmoving, Navarro fumbled with his pipe, Kingsbury gnawed his lips and drummed on the radio panel.</p>
+   <p>Finally: “This is astonishing news. We must investigate. You will provide one of us with a suit in which to inspect Dayside.”</p>
+   <p>“Easy enough,” said Kingsbury. His tone jittered. “And if you find the shells really are empty, as you will—what then?”</p>
+   <p>“We shall follow your advice. You will be given admittance to your supplies, and we will discuss arrangements for the mining of those ores which you desire.”</p>
+   <p>Navarro found himself uncontrollably shaking. “St. Nicholas, patron of wanderers,” he whispered, “I will build you a shrine for this.”</p>
+   <p>“The males may make trouble,” warned Amelia.</p>
+   <p>“If their nature is as you claim,” said the Twonk horde, “they will not be difficult to control.”</p>
+   <p>Kingsbury, the American, wondered if he had planted the seeds of another matriarchy. Underneath all the rejoicing, he felt a vague sense of guilt.</p>
+  </section>
+ </body>
+ <binary id="life_cycle.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEXAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD59+I3inWfFXisNd3ZAWSSK3RTtREDkAAD
+8vXgCuasYZLnX7ayvGkbzblY5vnyTlsNz/WodZldr+YsxLiZyecYO41LoUn/ABPtM9Vu42Y9
+z8wzW848lF8vY7KjlytnrVl4P8M6TqVpdfZ7nzI5kkAWdsjDDBPtnA/HjNZ8nh3QZLqZ9S06
+9i8x9zSvcs3Lc5bOD9cZwfzrsL6RrXUpFA2zyoq28ufukgADB4Pzbup/nWZcRz24uZdRggVJ
+i2I0kA8xwwKPnqo6+4656V8fTxVZrWb+8+cjiatrcz+8ZH4L0dAPLN4Fzx/pLEfqatah4Y02
+9t0guVllVBtXLnOPSt3wxYXF3a2tsgXcyqqh224yQFHP1ArTh0e6nkj2KGjaUxeYvIDAAn9G
+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</binary>
+</FictionBook>

@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Poul</first-name>
+    <last-name>Anderson</last-name>
+   </author>
+   <book-title>Snowball</book-title>
+   <date></date>
+   <coverpage>
+    <image l:href="#_0.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 3.26.1, FictionBook Editor Release 2.6</program-used>
+   <date value="2018-06-28">28.6.2018</date>
+   <id>de755738-e1f8-4bef-8f94-7d417f7158bc</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Snowball</p>
+   <p>BY POUL ANDERSON</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p><emphasis>Simon’s new source of power promised a new era for Mankind. But what happens to world economy when any one can manufacture it in the kitchen oven? .. . Here’s one answer!</emphasis></p>
+   <empty-line/>
+   <p>IT DID not come out of some government laboratory employing a thousand bright young technicians whose lives had been checked back to the crib; it was the work of one man and one woman. This is not the reversal of history you might think, for the truth is that all the really basic advances have been made by one or a few men, from the first to steal fire out of a volcano to E=mc<sup>2</sup>. Later, the bright young technicians get hold of it, and we have transoceanic airplanes and nuclear bombs; but the idea is always born in loneliness.</p>
+   <p>Simon Arch was thirty-two years old. He came from upstate Massachusetts, the son of a small-town doctor, and his childhood and adolescence were normal enough aside from tinkering with mathematics and explosive mixtures. In spite of shyness and an overly large vocabulary, he was popular, especially since he was a good basketball player. After high school, he spent a couple of tedious years in the tail-end of World War II clerking for the Army, somehow never getting overseas; weak eyes may have had something to do with that. In his spare time he read a great deal, and after the war he entered M.I.T. with a major in physics. Everybody and his dog was studying physics then, but Arch was better than average, and went on through a series of graduate assistantships to a Ph.D. He married one of his students and patented an electronic valve. Its value was limited to certain special applications, but the royalties provided a small independent income and he realized his ambition: to work for himself.</p>
+   <p>He and Elizabeth built a house in Westfield, which lies some fifty miles north of Boston and has a small college—otherwise it is only a shopping center for the local farmers. The house had a walled garden and a separate laboratory building. Equipment for the lab was expensive enough to make the Arches postpone children; indeed, after its requirements were met, they had little enough to live on, but they made sarcastic remarks about the installment-buying rat race and kept out of it. Besides, they had hopes for their latest project: there might be real money in that.</p>
+   <p>Colin Culquhoun, professor of physics at Westfield, was Arch’s closest friend—a huge, red-haired, boisterous man with radical opinions on politics which were always good for an argument. Arch, tall and slim and dark, with hornrimmed glasses over black eyes and a boyishly smooth face, labelled himself a reactionary.</p>
+   <p>“Dielectrics, eh?” rumbled Culquhoun one sunny May afternoon. “So that’s your latest kick, laddie. What about it?”</p>
+   <p>“I have some ideas on the theory of dielectric polarization,” said Arch. “It’s still not too well understood, you know.”</p>
+   <p>“Yeh?” Culquhoun turned as Elizabeth brought in a tray of dewed glasses. “Thank’ee kindly.” One hairy hand engulfed a goblet and he drank noisily. “Ahhhh! Your taste in beer is as good as your taste in politics is moldy. Go on.”</p>
+   <p>Arch looked at the floor. “Maybe I shouldn’t,” he said, feeling his old nervousness rise within him. “You see, I’m operating purely on a hunch. I’ve got the math pretty well whipped into shape, but it all rests on an unproven postulate about the nature of the electric field. I’ve tried to fit it in with both relativity and quantum mechanics and—well, like I said, it’s all just a notion of mine which demands experimental proof before I can even think about publishing.”</p>
+   <p>“What sort of proof?”</p>
+   <p>“It’s this way. By far the best dielectric found to date is a mixture of barium and strontium titanates. Under optimum conditions, the dielectric constant goes up to 11,600, though the loss rate is still pretty high. There’s a partial explanation for this on the basis of crystal theory, the dipole moment increases under an electric field .. . Well, you know all that. . My notion involves an assumption about the nature of the crystalline ionic bond; I threw in a correction for relativistic and quantum effects which <emphasis>looks</emphasis> kosher but really hasn’t much evidence to back it up. So—uh—”</p>
+   <p>Elizabeth sat down and crossed trim legs. She was a tall and rather spectacular blonde, her features so regular as to look almost cold till you got to know her. “Our idea suggests it should be possible to fit a crystalline system into an organic grid in such a way that a material can be made with just about any desired values of dielectricity and resistivity,” she said. “Constants up in the millions if you want. Physically and chemically stable. The problem is to find the conditions which will produce such an unorthodox linkage. We’ve been cooking batches of stuff for weeks now.”</p>
+   <p>Culquhoun lifted shaggy brows. “Any luck?”</p>
+   <p>“Not so far,” she laughed. “All we’ve gotten is smelly, sticky messes. The structure we’re after just doesn’t want to form. We’re trying different catalysts now, but it’s mostly cut and try; neither of us is enough of a chemist to predict what’ll work.”</p>
+   <p>“Come along and see,” offered Arch.</p>
+   <p>They went through the garden and into the long one-room building beyond. Culquhoun looked at the instruments with a certain wistfulness; he had trouble getting money to keep up any kind of lab. But the heart of the place was merely a second-hand gas stove, converted by haywiring into an airtight, closely regulated oven. It was hot in the room. Elizabeth pointed to a stack of molds covered with a pitchy tar. “Our failures,” she said. “Maybe we could patent the formula for glue. It certainly sticks tightly enough.”</p>
+   <p>Arch checked the gauges. “Got a while to go yet,” he said. “The catalyst this time is powdered ferric oxide—plain rust to you. The materials include aluminum oxide, synthetic rubber, and some barium and titanium compounds. I must admit that part of it is cheap.”</p>
+   <p>They wandered back toward the house. “What’ll you do with the material if it does come out?” asked Culquhoun.</p>
+   <p>“Oh—it’d make damn good condensers,” said Arch. “Insulation, too. There ought to be a lot of money in it. Really, though, the theory interests me more. Care to see it?”</p>
+   <p>Culquhoun nodded, and Arch pawed through the papers on his desk. The top was littered with his stamp collection, but an unerring instinct seemed to guide his hand to the desired papers. He handed over an untidy manuscript consisting chiefly of mathematical symbols. “But don’t bother with it now,” he said. “I blew us to a new Bach the other day—St. Matthew Passion.”</p>
+   <p>Culquhoun’s eyes lit up, and for a while the house was filled with a serene strength which this century had forgotten. “Mon, mon,” whispered the professor at last. “What he could have done with the bagpipes!”</p>
+   <p>“Barbarian,” said Elizabeth.</p>
+   <empty-line/>
+   <p>AS IT happened, that one test batch was successful. Arch took a slab of darkly shining material from the lab oven and sawed it up for tests. It met them all. Heat and cold had little effect, even on the electric properties. Ordinary chemicals did not react. The dielectric constant was over a million, and the charge was held without appreciable leakage.</p>
+   <p>“Why doesn’t it arc over?” wondered Elizabeth.</p>
+   <p>“Electric field’s entirely inside the slab,” said Arch absently. “You need a solid conductor, like a wire, between the poles to discharge it. The breakdown voltage is so high that you might as well forget about it.” He lifted a piece about ten inches square and two inches thick. “You could charge this hunk up with enough juice to run our house for a couple of years, I imagine; of course, it’d be D.C., so you'd have to drain it through a small A.G. generator. The material itself costs, oh, I’d guess fifty cents, a dollar maybe if you include labor.” He hesitated. “You know, it occurs to me we’ve just killed the wet-cell battery.”</p>
+   <p>“Good riddance,” said Elizabeth. “The first thing you do, my boy, is make a replacement for that so-called battery in our car. I’m tired of having the clunk die in the middle of traffic.”</p>
+   <p>“Okay,” said Arch mildly. “Then we see about patents. But—honey, don’t you think this deserves a small celebration of sorts?”</p>
+   <p>Arch spent a few days drawing up specifications and methods of manufacture. By giving the subject a little thought, he discovered that production could be fantastically cheap and easy. If you knew just what was needed, you had only to mix together a few chemicals obtainable in any drugstore, bake them in your oven for several hours, and saw the resulting chunk into pieces of suitable size. By adding resistances and inductances, which could be made if necessary from junkyard wire, you could bleed off the charge at any desired rate.</p>
+   <p>Culquhoun’s oldest son Robert dropped over to find Arch tinkering with his rickety ’48 Chevrolet. “Dad says you’ve got a new kind of battery,” he remarked.</p>
+   <p>“Uh ... Yes. I’ll make him one if he wants. All we’ll need to charge it is a rectifier and a voltmeter. Need a regulator for the discharge, of course.” Arch lifted out his old battery and laid it on the grass.</p>
+   <p>“I’ve got a better idea, sir,” said the boy. “I’d like to buy a <emphasis>big</emphasis> piece of the stuff from you.”</p>
+   <p>“Whatever for?” asked Arch.</p>
+   <p>“Run my hot rod off it,” said Bob from the lofty eminence of sixteen years. “Shouldn’t be too hard, should it? Rip out the engine; use the big condenser to turn a D.C. motor—it’d be a lot cheaper than gas, and no plugged fuel lines either.”</p>
+   <p>“You know,” said Arch, “I never thought of that.”</p>
+   <p>He lifted the ridiculously small object which was his new current source and placed it inside the hood. He had had to add two pieces of strap iron to hold it in position. “Why a regular motor?” he mused. “If you have D.C. coming out at a controlled rate, you could use it to turn your main drive shaft by a very simple and cheap arrangement.”</p>
+   <p>“Oh, sure,” said Robert scornfully. “That’s what I meant. Any backyard mechanic could fix that <sub>U</sub>p—if he didn’t electrocute himself first. But how about it, Dr. Arch? How much would you want for a piece like that?”</p>
+   <p>“I haven’t the time,” said the physicist. “Tell you what, though, I’ll give you a copy of the specs and you can make your own. There’s nothing to it, if your mother will let you have the oven for a day. Cost you maybe five dollars for materials.”</p>
+   <p>“Sell it for twenty-five,” said Bob dreamily. “Look, Dr. Arch, would you like to go into business with me? I’ll pay you whatever royalty seems right.”</p>
+   <p>“I’m going to Boston with just that in mind,” said Arch, fumbling with the cables. “However, go ahead. Consider yourself a licensee. I want ten percent of the selling price, and I’ll trust a Scotch Yankee like you to make me a million.”</p>
+   <p>He had no business sense. It would have saved him much grief if he had.</p>
+   <empty-line/>
+   <p>THE countryside looked clean, full of hope and springtime. Now and then a chrome-plated monster of an automobile whipped past Arch’s sedately chugging antique. He observed them with a certain contempt, an engineer’s eye for the Goldbergian inefficiency of a mechanism which turned this rod to push that cam to rotate such and such a gear, and needed a cooling system to throw away most of the energy generated. Bob Culquhoun, he reflected, had a saner outlook. Not only was electricity cheaper in the first place, but the wasted power would be minimal and the “prime mover”—the capacitor itself—simply would not wear out.</p>
+   <p>Automobiles could be sold for perhaps five hundred dollars and built to last, not to run up repair bills till the owner was driven to buying a new model. The world’s waning resources of petroleum could go into something useful: generating power at central stations, forming a base for organic syntheses; they would stretch out for centuries more. Coal could really come back into its own.</p>
+   <p>Hm . . . wait. There was no reason why you couldn’t power every type of vehicle with capacitors. Aircraft could stay aloft a month at a time if desired—a year if nothing wore out; ships could be five years at sea. You wouldn’t need those thousands of miles of power line littering the countryside and wasting the energy they carried; you could charge small capacitors for home use right at the station and deliver them to the consumer’s doorstep at a fraction of the present cost.</p>
+   <p>Come to think of it, there was a lot of remote power, in waterfalls for instance, unused now because the distance over which lines would have to be strung was too great. Not any longer! And the sunlight pouring from this cloudless sky— to dilute to run a machine of any size. But you could focus a lot of it on a generator whose output voltage was jacked up, and charge capacitors with thousands of kilowatt-hours each. Generators everywhere could be made a lot smaller, because they wouldn’t have to handle peak loads but only meet average demand.</p>
+   <p><emphasis>This thing is bigger than I realized, he thought with a tingle of excitement. My God, in a year I may be a millionaire!</emphasis></p>
+   <p>He got into Boston, only losing his way twice, which is a good record for anyone, and found the office of Addison, his patent attorney. It didn’t take him long to be admitted.</p>
+   <p>The dusty little man riffled through the pages. “It looks all right,” he said unemotionally. Nothing ever seemed to excite him. “For a change, this seems to be something which can be patented, even under our ridiculous laws. Not the law of nature you’ve discovered, of course, but the process—” He peered up, sharply. “Is there any alternative process?”</p>
+   <p>“Not that I know of,” said Arch. “On the basis of theory, I’m inclined to doubt it.”</p>
+   <p>“Very well, very well. I’ll see about putting it through. Hm—you say it’s quite simple and cheap? Better keep your mouth shut for a while, till the application has been approved. Otherwise everybody will start making it, and you’ll have a devil of a time collecting your royalties. A patent is only a license to sue, you know, and you can’t sue fifty million bathtub chemists.”</p>
+   <p>“Oh,” said Arch, taken aback. “I—well, I’ve told some of my neighbors, of course. One of the local teen-agers is going to make a car powered by—”</p>
+   <p>Addison groaned. “You would! Can’t you shoot the boy?”</p>
+   <p>“I don’t want to. For a person his age, he’s quite inoffensive.”</p>
+   <p>“Oh, well, you didn’t want a hundred million dollars anyway, did you? I’ll try to rush this for you, that may help.”</p>
+   <p>Arch went out again, some of the elation taken from him. But what the hell, he reflected. If he could collect on only one percent of all the capacitite which was going to be manufactured, he’d still have an unreasonable amount of money. And he wanted to publish as soon as possible in all events: he had the normal human desire for prestige.</p>
+   <p>He got a hamburger and coffee at a diner and went home. Nothing happened for a month except an interview in the local paper. Bob finished his hot rod and drove it all over town. The boy was a little disappointed at the quietness of the machine, but the interest it attracted was compensation. He began to build another: twenty-five dollars for an old chassis, another twenty-five or so for materials, tack on a hundred for labor and profits —the clunk might not look like much, but it would run for a year without fuel worries and would never need much repair or replacement. He also discovered, more or less clandestinely, that such a car would go up to 200 miles an hour on the straightaway. After selling it, he realized he could command a much bigger price, and set happily to work on another.</p>
+   <p>The physics journal to which Arch sent his manuscript was interested enough to rush printing. Between the time he submitted it and the time it came out some five weeks later, he found himself in lively correspondence with the editor.</p>
+   <p>“College will soon be letting out all over the country,” said Elizabeth. “Stand by to repel boarders!”</p>
+   <p>“Mmmm . . . yes, I suppose so.” Arch added up the cost of entertaining a rush of colleagues, but his worry was only a flicker across a somewhat bashful glow of pride. After all—he had done a big thing. His polarization theory cut a deep swath into what mystery remained about the atom. There might even be a Nobel Prize in it.</p>
+   <p>It was on the day of publication that his phone rang. He looked up from his stamps, swore, and lifted it. “Hello?”</p>
+   <p>“Dr. Arch?” The voice was smooth and cultivated, just a trace of upper-class New York accent. “How do you do, sir. My name is Gilmer, Linton Gilmer, and I represent several important corporations in the electricity field.” He named them, and Arch barely suppressed a whistle. “Dr. Bowyer of the <emphasis>Journal</emphasis> staff mentioned your work to one of his friends in an industrial research lab. He was quite excited, and you can understand that we are too. I believe I have some good news for you, if I may come to see you.”</p>
+   <p>“Eh—oh. Oh, sure!” Visions whirled across Arch’s eyes. Money! It represented a hi-fi set, a threepenny black, an automatic dishwasher, a reliable car, a new oscilloscope, a son and heir. “Come on up, b-by all means—Yes, right away if you like—Okay, I—I’ll be seeing you—” He set the receiver down with a shaking hand and bawled: “Betty! Company coming!”     ...             .</p>
+   <p>“Oh, damn!” said his wife, sticking a grease-smudged face in the door. She had been tinkering with the lab oven. “And the house in such a mess! So am I, for that matter. Hold the fort when he comes, darling.” She still didn’t know who “he” was, but whirled off in a cloud of profanity.</p>
+   <p>Arch thought about putting on a decent suit and decided to hell with it. Let them come to him and accept him as he was; he had the whip hand, for once in his life. He contented himself with setting out beer and clearing the littered coffee table.</p>
+   <p>Linton Gilmer was a big man, with a smooth well-massaged face, wavy gray hair, and large soft hands. His presence seemed to fill the room, hardly leaving space for anyone else.</p>
+   <p>“Very pleased to meet you, Dr. Arch . . . brilliant achievement . . . We borrowed proof sheets from the <emphasis>Journal</emphasis> and made tests for ourselves, of course. I’m sure you don’t mind. Thank you.” He seemed just a trifle shocked at being offered beer rather than Johnny Walker Black at four o’clock in the afternoon, but accepted gracefully. Arch felt excessively gauche.</p>
+   <p>“What did you want to s-see me about?” asked the physicist.</p>
+   <p>“Oh, well, sir, let’s get acquainted first,” said Gilmer heartily. “No rush. No hurry. I envy you scientific fellows. The unending quest, thrill of discovery, yes, science was my first love, but I’m afraid I sort of got steered off into the business administration end. I know you scientists don’t think much of us poor fellows behind the desks, you should hear how our boys gripe when we set the appropriations for their projects, but somebody has to do that, ha.” Gilmer made a bridge of plump fingers. “I do think, though, Dr. Arch, that this hostility is coming to an end. We’re both part of the team, you know; scientist and businessman both work inside our free enterprise system to serve the American public. And more and more scientists are coming to recognize this.”</p>
+   <p>Arch shifted uneasily in his chair. He couldn’t think of any response. But it was simple to converse with Gilmer: you just sat back, let him flow, and mumbled in the pauses.</p>
+   <p>Some data began to emerge: “—we didn’t want to trouble you with a dozen visitors, so it was agreed that I would represent the combine to, ah, sound you out, if I may so phrase it.”</p>
+   <p>Arch felt the stir of resentment which patronizing affability always evoked in him. He tried to be courteous: “Excuse me, but isn’t that sort of thing against the antitrust laws?”</p>
+   <p>“Oh, no!” Gilmer laughed. “Quite the opposite, I assure you. If one company tried to corner this product, or if all of them went together to drive the price up, that would be illegal, of course. But we all believe in healthy competition, and only want information at the moment. Negotiations can come later.”</p>
+   <p>“Okay,” said Arch. “I suppose you know I’ve already applied for a patent.”</p>
+   <p>“Oh, yes, of course. Very shrewd of you. I like to deal with a good businessman. I think you’re more broadminded than some of your colleagues, and can better understand the idea of teamwork between business and science.” Gilmer looked out the French doors to the building in the rear. “Is that your laboratory? I admire a , man who can struggle against odds. You have faith, and deserve to be rewarded for it. How would you like to work with some real money behind you?”</p>
+   <p>Arch paused. “You mean, take a job on somebody’s staff?”</p>
+   <p>“Not as a lab flunky,” said Gilmer quickly. “You’d have a free hand. American business recognizes ability. You’d plan your own projects, and head them yourself. My own company is prepared to offer you twenty thousand a year to start.”</p>
+   <p>Arch sat without moving.</p>
+   <p>“After taxes,” said Gilmer.</p>
+   <p>“How about this—capacitite, I call it?”</p>
+   <p>“Naturally, development and marketing would be in the hands of the company, or of several companies,” said Gilmer. “You wouldn’t want to waste your time on account books. You’d get proper payment for the assignment, of course—”</p>
+   <p>Elizabeth entered, looking stunning. Gilmer rose with elaborate courtesy, and the discussion veered to trivialities for awhile.</p>
+   <p>Then the girl lit a cigaret and watched them through a haze of smoke. “Your time is valuable, Mr. Gilmer,” she said abruptly. “Why don’t you make an offer and we’ll talk about that?”</p>
+   <p>“Oh, no hurry, Mrs. Arch. I was hoping you would be my guests tonight—”</p>
+   <p>“No, thanks. With all due regard for you, I don’t want to be put under a moral obligation before business is discussed.”</p>
+   <p>Gilmer chuckled amiably and repeated the idea he had broached.</p>
+   <p>“I like Westfield,” said Elizabeth. “I don’t like New York. It isn’t fit for human consumption.”</p>
+   <p>“Oh, I quite agree,” said Gilmer. “Once a year I have to break loose —cabin up in Maine, hunting, fishing, back to Nature—you really must come up sometime soon. Your objection can be answered easily enough. We could set up a laboratory for you here, if you really insist. You see, we’re prepared to be very generous.”</p>
+   <p>Arch shook his head. “No,” he said harshly. “No, thanks. I like being independent.”</p>
+   <p>Gilmer raised his brows. “I understand that. But after all, the only difference would be—”</p>
+   <p>Arch grinned. He was enjoying himself now. On a dark day some years ago, he had tried to raise a bank loan and had failed for lack of collateral and credit rating and his refusal to subject any friend to cosigning. Ever since, he had indulged daydreams about having finance come crawling to him. The reality was intoxicating.</p>
+   <p>“No,” he repeated. “That’s all I want to say about it, too. The income from capacitite will be quite enough for us. If you want to discuss a license to manufacture, go ahead.”</p>
+   <p>“Hrm! As you wish.” Gilmer smoothed the coldness out of his voice. “Maybe you’ll change your mind later. If so, feel free to call on me anytime. Now, for an assignment of rights, I think a sum of fifty thousand dollars could be arranged—”</p>
+   <p>Elizabeth drooped lids over startlingly blue eyes. “As an initial payment, perhaps,” she said gently. “But think what a royalty of, say, ten cents a pound would add up to even in a year.”</p>
+   <p>“Oh, yes, that would be negotiated too,” said Gilmer. “However, you realize manufacture could not start immediately, and would in any case be on a smaller scale than you perhaps think.”</p>
+   <p>“Eh?” Arch sat bolt upright. “What do you mean? Why, this stuff is going to revolutionize not only electronics, but all power— dammit, everything!”</p>
+   <p>“Dr. Arch,” said Gilmer regretfully, “you must not have considered the matter of capital investment. Do you know how many billions of dollars are sunk in generators, dams, lines, motors—”</p>
+   <p>“Gasoline,” said Elizabeth. “We’ve thought of that angle too.”</p>
+   <p>“W<emphasis>e can’t</emphasis> throw all that in the discard!” went on Gilmer earnestly. He seemed more human, all at once. “It may take twenty years to recover the investment in, say, a local transmission network. The company would go broke overnight if that investment were suddenly made valueless. Millions of people would be thrown out of work. Millions more would lose their savings in stocks and bonds—”</p>
+   <p>“I always said stocks were a mug’s game,” interrupted Arch. “If the two or three shares owned by the widow and orphan you’re leading up to go blooey, it won’t break her. For years, now, I’ve had ads dinning the wonders of the present economic system into my ears. One of its main features, I’m told, is progress. All right, here’s a chance to leap a hundred years ahead. Let’s see you take it.”</p>
+   <p>Gilmer’s pink cheeks reddened. “I’m afraid you still don’t understand,” he replied. “We have a responsibility. The world is watching us. Just imagine what those British Socialists would say if—”</p>
+   <p>“If you’re against socialism,” said Elizabeth with a laugh, “why not start at home? Public schools and federal highways, for instance. I fail to see where personal liberty is necessarily tied to any particular method of distribution.”</p>
+   <p>Gilmer seemed, for a moment, to lose his temper. “This is no place for radicals,” he said thickly.</p>
+   <p>“We’ve all got to have faith and put our shoulders to the wheel. We —” He paused, swallowed, and smiled rather stiffly. “Excuse me. I didn’t mean to get worked up. There are a lot of stories about wonderful new inventions which the greedy corporations have bought up and hidden away. They simply are not true. All I’m after is a gradual introduction of this material.”</p>
+   <p>“I know those wonderful inventions are pure rumor,” said Arch. “But I also know that just about everything I buy is made to wear out so I’ll have to buy some more. It’s cheaper, yes, but I’d rather pay twice as much to start with and have my purchase last ten times as long. Why can’t I buy a decent kitchen knife? There’s not one that keeps its edge. My wife finally made eyes at the butcher and got one of his old knives; <emphasis>it</emphasis> lasts.</p>
+   <p>“A big thing like capacitite represents a chance to change our whole philosophy into something more rational. That’s what I’m after—not just money. There needn’t be any unemployment. Capacitite makes increased production possible, so why not—well, why not drop the work day to four hours for the same wages? Then you can employ twice as many people.”</p>
+   <p>“It is not your or my place to make carping criticisms,” retorted Gilmer. “Fundamental changes aren’t as easy as you think. Dr. Arch, I’m sorry to say that unless you’ll agree to proper terms, none of the companies I represent will be interested in your material.”</p>
+   <p>“All right,” snapped Arch. “I can make it myself. Make it by the ton if I like, and sell it for a dollar a pound.”</p>
+   <p>“You may find yourself undersold.”</p>
+   <p>“My patent--”</p>
+   <p>“It hasn’t gone through yet. That takes time, plenty of time if you don’t want to cooperate. And even if it is granted, which I by no means guarantee, you’ll have to sue infringers; and do you know how crowded court calendars are? And how expensive a series of appeals can make such a suit?”</p>
+   <p>“Okay,” said Elizabeth sweetly. “Go ahead and make it. You just got through telling us why you can’t.</p>
+   <p>Gilmer looked out the window. “This is a great country,” he said, with more sincerity than Arch had expected. “No country on earth has ever been so rich and happy. Do you know how it got that way?”</p>
+   <p>“By progressing,” said Arch. “For your information, I am not a leftist; I’ll bet I’m far to the right of you. So far, that I still believe in full speed ahead and damn the torpedoes.”</p>
+   <p>Gilmer rose, with a certain dignity. “I’m afraid tempers are getting a little short,” he said quietly. “I beg of you to reconsider. We’ll fight for the public interest if we must, but we’d rather cooperate. May I leave my card? You can always get in touch with me.”</p>
+   <p>He made his farewells and left. Arch and Elizabeth looked somewhat blankly at each other.</p>
+   <p>“Well, Killer,” said the girl at last, “I hope we haven’t taken too big a chaw to swallow.”</p>
+   <empty-line/>
+   <p>CULQUHOUN dropped over in the evening and listened to their account. He shook his head dubiously. “You’re up against it, laddie,” he said. “They’ll defend their coffers to the bitter end.”</p>
+   <p>“It isn’t that.” Arch stared moodily into the darkness. “I don’t think they’re a bunch of monsters—no more than anybody else. They just believe in the status quo. So do you, you know.”</p>
+   <p>“How?” Culquhoun bristled. “I’ll admit I’m not the hell-fire revolutionary of my undergraduate days, but I still think a basic change is called for.”</p>
+   <p>“Not basic,” said Arch. “You just want to change part of the mechanism. But you’d keep the same ant-heap industrial society. I believe the heart went out of this land after the Civil War, and the death warrant was signed about 1910. Before then, a man was still an individual; he worked for himself, at something he understood, and wasn’t afraid to stand up and spit in the eye of the world. Now he spends his daily routine on an assembly line or behind a desk or counter, doing the same thing over and over for someone else. In the evening he watches the same pap on his television, and if something goes wrong he whines his way to the apartment superintendent or the VA or the Social Security office.</p>
+   <p>“Look at the progress of euphemism. Old people are Senior Citizens. Draft becomes Selective Service.</p>
+   <p>Graveyard to cemetery to memorial park. We’ve become a race of dependents. And we can’t break away: there isn’t any frontier left, there isn’t any alternative society, one man can’t compete with a corporation. Or with a commissar, for that matter.</p>
+   <p>“What we need is not to go back to living in log cabins, but to make the means of sustenance and the sources of energy so cheap that every man can have them in sufficient quantity to live and work. I don’t know—maybe I’m being vainglorious, but it does seem as if capacitite is a long step in that direction.”</p>
+   <p>“I warn you, you’re talking good Marxism,” said Culquhoun with a grin. “The means of production determine the type of society.”</p>
+   <p>“Which is pure hogwash,” answered Arch. “Egypt and Assyria had identical technologies. So did Athens and Sparta. So do America and Russia. The means of production only determine the <emphasis>possible </emphasis>societies, and there are always many possibilities.</p>
+   <p>“I’d like to see the possibility of individualism available again to the American people. If they’re too far gone to accept it, to hell with them.”</p>
+   <p>The government can work fast when it wants to. It was just the following afternoon when the phone rang again. Elizabeth came out to the lab, where Arch and Bob Gulquhoun were preparing a batch of capacitite, with a strained look on her face. “Come inside, dear,” she said thinly. “I’ve got some bad news.” When he was in the house, she added: “Two FBI men are on their way here.”</p>
+   <p>“What the devil?” Arch felt a gulp of fear. It was irrational he told himself. The FBI was no Gestapo; on the whole, he approved of it. Maybe some friend had given his name as a security reference. “All right. We’ll see what they want.”</p>
+   <p>“I’m going to start some coffee,” said Elizabeth. “Lucky we’ve got a cake too.”</p>
+   <p>“Huh?”</p>
+   <p>“You’ll see.” She patted his cheek and managed a smile. “You’re too innocent, sweetheart.” Sagdahl and Horrisford turned out to be hard young men with carefully expressionless faces. They introduced themselves very politely, and Arch led the way into the living room. Horrisford took out a notebook.</p>
+   <p>“Well,” said Arch a little huskily, “what can I do for you?”</p>
+   <p>“You can answer some questions, if you please,” said Sagdahl tonelessly. “You don’t have to answer any, and whatever you say can be used in evidence.”</p>
+   <p>“I haven’t broken any laws that I know of,” said Arch feebly.</p>
+   <p>“That remains to be seen. This is an investigation.”</p>
+   <p>“Whatever <emphasis>for?”</emphasis></p>
+   <p>“Dr. Arch,” said Sagdahl patiently, “yesterday you published an article on a discovery of potential military importance. It has upset a great many plans. Worse, it has been released with no discretion whatsoever, and the consequences aren’t easy to foresee. If we’d had any inkling, it would never have been published openly. As it is, you went outside regular channels and—”</p>
+   <p>“I didn’t have to go through channels,” said Arch. “I’ve never gotten any confidential data, or even applied for a clearance. I work for myself and—” He saw Horrisford busily writing, and his words dried up.</p>
+   <p>The realization was appalling. The military applications of capaci-tite had crossed his mind only vaguely and been dismissed with an escapist shrug.</p>
+   <p>“Let’s get down to business,” said Sagdahl. “Everything will be a lot easier if you cooperate. Now, where were you born?”</p>
+   <p>Arch hadn’t imagined anyone could be so thorough about tracking down a man’s entire life. He answered frankly, feeling he had nothing to hide. Of course, there <emphasis>had</emphasis> been his roommate at M.I.T., and the roommate had had a girl friend one of whose other friends was a Communist, and . . .</p>
+   <p>“I see. Now, when you graduated—”</p>
+   <p>Elizabeth entered from the kitchen with a tray. “Pardon me,” she smiled. “I think refreshments are in order.”</p>
+   <p>Sagdahl’s face didn’t change, but his eyes bugged slightly. Elizabeth put a coffee cup in his hand and a plate of cake on one knee. He looked unhappy, but mumbled dutiful thanks.</p>
+   <p>“Oh, it’s a pleasure,” said Elizabeth blandly. “You boys are doing your duty, and really, this is very exciting.”</p>
+   <p>Sagdahl got down a mouthful of cake. Valiantly, he tried to resume the staccato flow: “Now, when you graduated, Dr. Arch, you took a vacation, you say. Where was that?”</p>
+   <p>“Up in Quebec. About three months. Just driving around and …”</p>
+   <p>“I see. Then you returned to school for a master’s degree, right? Did you at this time know a Joseph Barrett?”</p>
+   <p>“Well, yes, I shared an office with him.”</p>
+   <p>“Did you ever discuss politics with him?”</p>
+   <p>“Drink your coffee before it gets cold,” said Elizabeth. “There’s plenty more.”</p>
+   <p>“Oh—thanks. Now, about this Barrett?”</p>
+   <p>“We argued a lot. You see, I’m frankly a reactionary—”</p>
+   <p>“Were you associated with any political-action group?”</p>
+   <p>“Mr. Horrisford,” said Elizabeth reproachfully, “you haven’t touched your cake.”</p>
+   <p>“No, I wasn’t that interested,” said Arch. “Didn’t even bother to vote in ’50.”</p>
+   <p>“Here, Mr. Sagdahl, do have some more cake.”</p>
+   <p>“Thanks!— You met some of Barrett’s friends?”</p>
+   <p>“Yes, I was at some parties and—”</p>
+   <p>“Excuse me, I’ll just warm your coffee.”</p>
+   <p>“Did you at this time know anyone who had worked in the Manhattan Project?”</p>
+   <p>“Of course. They were all over the place. But I never was told anything restricted, never asked for—”</p>
+   <p>“Please, Mr. Horrisford! It’s my favorite recipe.”</p>
+   <p>“Ummm. Thank you, but—”</p>
+   <p>“You met your future wife when?”</p>
+   <p>“In—”</p>
+   <p>“Excuse me, there’s the phone... Hello. Mrs. Arch speaking . . . Oh?. . . Yes, I’ll see. . . Pardon me. There’s a man from the Associated Press in town. He wants to see you, dear.”</p>
+   <p>Sagdahl flinched. “Stall him off,” he groaned. “Please.”</p>
+   <p>“Can’t do that forever,” said Arch. “Not under the circumstances.”</p>
+   <p>“I realize that, Dr. Arch.” Sagdahl clenched his jaw. “But this is unprecedented. As an American citizen, you’ll want to—”</p>
+   <p>“Certainly we’ll cooperate,” said Elizabeth brightly. “But what shall I tell the AP man? That we’re not supposed to say anything to anyone?”</p>
+   <p>“No! That won’t do, not now. But—are all the technical details of this public?”</p>
+   <p>“Why, yes,” said Arch. “Anybody can make capacitite.”</p>
+   <p>“If you issued a denial—”</p>
+   <p>“Too late, I’m afraid. Somebody’s bound to try it anyway.”</p>
+   <p>Sagdahl looked grim. “You can be held incommunicado,” he said. “This is a very serious matter.”</p>
+   <p>“Yes,” said Elizabeth. “The AP man will think so too, if he can’t get a story.”</p>
+   <p>“Well—”</p>
+   <p>“Oh, dear! My Russell Wright coffee cup!”</p>
+   <empty-line/>
+   <p>NOTHING happened overnight.</p>
+   <p>That was the hardest thing to believe. By all the rules, life should have been suddenly and dramatically transformed; but instead, there were only minor changes, day by day, small incidents. Meanwhile you ate, slept, worked, paid bills, made love and conversation, as you had always done.</p>
+   <p>The FBI held its hand as yet, but some quiet men checked into the town’s one hotel, and there was usually one of them hanging around Arch’s house, watching. Elizabeth would occasionally invite him in for a snack—she grew quite fond of them.</p>
+   <p>The newspapers ran feature articles, and for a while the house was overrun with reporters—then that too faded away. Editorials appeared, pointing out that capacitite had licked one of the Soviet Union’s major problems, fuel; and a syndicated columnist practically called for Arch’s immediate execution. He found some of his neighbors treating him coldly. The situation distressed him, too. “I never thought—” he began.</p>
+   <p>“Exactly,” rumbled Culquhoun. “People like you are one reason science is coming to be considered a Frankenstein. Dammit, man, the researcher has to have a social conscience like the rest of us.” Arch smiled wearily. “But I do,” he said. “I gave considerable thought to the social effects. I just imagined that they’d be good. That’s been the case with every major innovation, in the long run.”</p>
+   <p>“You’ve committed a crime,” said Culquhoun. “Idealism. It doesn’t fit the world we, inhabit.” Arch flushed angrily. “What was I supposed to do?” he snapped. “Bum my results and forget them? If the human race is too stupid to use the obvious advantages, that’s its own fault.”</p>
+   <p>“You’re making a common error, dear,” said Elizabeth. “You speak of the human race. There isn’t any. There are only individual people and groups of people, with their own conflicting interests.”</p>
+   <p>For a while, there was a big campaign to play down the effects of capacitite. It wasn’t important. It meant nothing, as our eminent columnist has so lucidly shown. Then the attempt switched: capacitite was dangerous. So-and-so had been electrocuted working with it. There was cumulative poisoning. . . Such propaganda didn’t work, not when some millions of people were seeing for themselves.</p>
+   <p>Petroleum stock began sagging. It didn’t nosedive—the SEC and a valiantly buying clique saw to that—but it slipped down day by day.</p>
+   <p>Arch happened to drop in at Hinkel’s garage. The old man looked up from a car on which he was laboring and smiled. “Hello, there,” he said. “Haven’t seen you in a long time.”</p>
+   <p>“I—well—” Arch looked guiltily at the oil-stained floor. “I’m afraid—your business—”</p>
+   <p>“Oh, don’t worry about me. I’ve got more business than I can handle. Everybody in town seems to want his car converted over to your type of engine. That young Bob is turning out the stuff like a printing press gone berserk.”</p>
+   <p>Arch couldn’t quite meet his eyes. “But—aren’t your gasoline sales dropping?”</p>
+   <p>“To be sure. But cars still need lubrication and— Look, you know the old watermill down by Ronson’s farm? I’m buying that, putting in a generator and a high- voltage transformer and rectifier. I’ll be selling packaged power. A lot easier than running a gas pump, at my age.”</p>
+   <p>“Won’t the power company be competing?”</p>
+   <p>“Eventually. Right now, they’re still waiting for orders from higher up, I guess. Some people can charge their capacitors right at home, but most would rather not buy the special equipment. They’ll come to me, and by the time the power outfit gets wise to itself, I’ll’ve come in on the ground floor.”</p>
+   <p>“Thanks,” said Arch, a little shakily. “It makes me feel a lot better.”</p>
+   <p>If only everybody had that Yankee adaptability, he thought as he walked home. But he saw now, as he wished he had seen earlier, that society had gone too far. With rare exceptions, progress was no longer a matter of individual readjustments. It was a huge and clumsy economic system which had to make the transformation ... a jerry-built system whose workings no one understood, even today.</p>
+   <p>He wanted to call up Gilmer and make what terms he could, but it was too late. The snowball was rolling.</p>
+   <p>He sighed his way into an armchair and picked up the paper.</p>
+   <p>Item: the bill before Congress to make capacitite a government monopoly like uranium, and to enforce all security restrictions on it, had been sent back to committee and would probably not pass. A few senators had had the nerve to point out that security was pointless when everybody could already make the stuff.</p>
+   <p>Item: the government was setting up a special laboratory to study the military applications. Arch could think of several for himself. Besides simplifying logistics, it could go into cheap and horrible weapons. A bomb loaded with several thousand coulombs, set to discharge instantaneously on striking—</p>
+   <p>Item: a well-known labor leader had denounced the innovation as a case of business blundering which was going to take bread from the working man. A corporation spokesman declared that it was all a leftist trick designed to cripple the private enterprise system.</p>
+   <p>Item: <emphasis>Pravda</emphasis> announced that Soviet scientists had discovered capacitite ten years ago and that full-scale production had long been under way for peaceful purposes only, such as making the Red Army still more invincible.</p>
+   <p>Item: two more men in America electrocuted due to incautious experiments. Nevertheless, capacitite was being manufactured in thousands of homes and workshops. Bills in various state legislatures to ban vehicles so powered were meeting indignant opposition everywhere save in Texas.</p>
+   <p>Arch reflected wryly that he wasn’t getting paid for any of this. All he’d gotten out of it so far was trouble. Trouble with the authorities, with crank letters, with his own conscience. There were, to be sure, some royalties from Bob Culquhoun, who was becoming quite an entrepreneur and hiring adults to take over when school opened in fall.</p>
+   <p>Speaking of tigers by the tail—</p>
+   <empty-line/>
+   <p>AUTUMN, the New England fall of rain and chill whistling wind, smoky days and flame-like leaves and the far wild honking of southbound geese. The crash came in late September: a reeling market hit bottom and stayed there. Gasoline sales were down twenty-five percent already, and the industry was laying men off by the hundreds of thousands. That cut out their purchasing power and hit the rest of the economy.</p>
+   <p>“It’s what you’d expect, laddie,” said Culquhoun. They were over at his house. Outside, a slow cold rain washed endlessly down the windows. “Over production—over- capitalization—I could have predicted all this.”</p>
+   <p>“Damn it to hell, it doesn’t make <emphasis>sense!”</emphasis> protested Arch. “A new energy source should make everything cheaper for everybody—more production available for less work.” He felt a nervous tic beginning in one cheek.</p>
+   <p>“Production for use instead of for profit—”</p>
+   <p>“Oh, dry up, will you? Any system is a profit system. It has to show a profit in some terms or other, or it would just be wasted effort. And the profit has to go to individuals, not to some mythical state. The state doesn’t eat—people do.”</p>
+   <p>“Would you have the oil interests simply write off their investment?”</p>
+   <p>“No, of course not. Why couldn’t they— Look. Gasoline can still run generators. Oil can still lubricate. Byproducts can still be synthesized. It’s a matter of shifting the emphasis of production, that’s all. All that’s needed is a little common sense.”</p>
+   <p>“Which is a rather scarce commodity.”</p>
+   <p>“There,” said Arch gloomily, “we find ourselves in agreement.”</p>
+   <p>“The trouble is,” said Bob earnestly, “we’re faced with a real situation, not a paper problem. It calls for a real solution. For an idea.”</p>
+   <p>“There aren’t any ideas,” said Elizabeth. “Not big sweeping ones to solve everything overnight. Man doesn’t work that way. What happens is that somebody solves his own immediate, personal problems, somebody else does the same, and eventually society as a whole fumbles its way out of the dilemma.” Arch sighed. “This is getting over my head,” he admitted. “Thanks for small blessings: the thing has grown so big that I, personally, am becoming forgotten.”</p>
+   <p>He rose. “I’m kind of tired tonight,” he went on. “Maybe we better be running along. Thanks for the drinks and all.”</p>
+   <p>He and his wife slipped into their raincoats and galoshes for the short walk home. The street outside was dark, a rare lamp glowing off slick wet concrete. Rain misted his face and glasses, he had trouble seeing.</p>
+   <p>“Poor darling,” Elizabeth took his arm. “Don’t worry. We’ll get through all right.”</p>
+   <p>“I hope so,” he said fervently. No money had come in for some time now. Bob’s enterprise was levelling off as initial demand was filled, and a lurching industry wasn’t buying many electronic valves. The bank account was getting low.</p>
+   <p>He saw the figure ahead as a vague shadow against the night. It stood waiting till they came up, and then stepped in their path. The voice was unfamiliar: “Arch?”</p>
+   <p>“Yes—”</p>
+   <p>He could see only that the face was heavy and unshaven, with something wild about the mouth. Then his eyes dropped to the revolver barrel protruding from the slicker. “What the devil—”</p>
+   <p>“Don’t move, you.” It was a harsh, broken tone. “Right now I’m aiming at your wife. I’d as soon shoot her, too.”</p>
+   <p>Fear leaped crazily in Arch’s breast. He stood unable to stir, coldness crawling in his guts. He tried to speak, and couldn’t.</p>
+   <p>“Not a word, you—. Not another word. You’ve said too goddam much already.” The gun poked forward, savagely. “I’m going to kill you. You did your best to kill me.”</p>
+   <p>Elizabeth’s face was white in the gloom. “What do you mean?” she whispered. “We never saw you before.”</p>
+   <p>“No. But you took away my job. I was in the breadlines back in the thirties. I’m there again, and it’s your fault, you— Got any prayers to say?”</p>
+   <p>A gibbering ran through Arch’s brain. He stood motionless, thinking through a lunatic mind-tilt that there must be some way to jump that gun, the heroes of stories always did it, that might—</p>
+   <p>Someone moved out of the night into the wan radiance. An arm went about the man’s throat, another seized his gun wrist and snapped it down. The weapon went off, sounding like the crack of doom in the stillness.</p>
+   <p>They struggled on the slippery sidewalk, panting, the rain running over dimly glimpsed faces. Arch’s paralysis broke, he moved in and circled around, looking for a chance to help. There! Crouching, he got hold of the assassin’s ankle and clung.</p>
+   <p>There was a meaty smack above him, and the body sagged.</p>
+   <p>Elizabeth held her hand over her mouth, as if to force back a scream. “Mr. Horrisford,” she whispered.</p>
+   <p>“The same,” said the FBI man. “That was a close one. You can be thankful you’re an object of suspicion, Arch. What was he after?”</p>
+   <p>Arch stared blankly at his rescuer. Slowly, meaning penetrated, “unemployed—” he mumbled. “Bitter about it—”</p>
+   <p>“Yeah. I thought so. You may be having more trouble of that sort. This depression, people have someone concrete to blame.” Horrisford stuck the gun in his pocket and helped up his half-conscious victim. “Let’s get this one down to the lockup. Here, you support him while I put on some handcuffs.”</p>
+   <p>“But I wanted to help his kind,” said Arch feebly.</p>
+   <p>“You didn’t,” said Horrisford. “I’d better arrange for a police guard.”</p>
+   <empty-line/>
+   <p>ARCH spent the following day in a nearly suicidal depression. Elizabeth tried to pull him out of it, failed, and went downtown after a fifth of whiskey. That helped. The hangover helped too. It’s hard to concentrate on remorse when ten thousand red-hot devils are building an annex to Hell in your skull. Toward evening, he was almost cheerful again. A certain casehardening was setting in.</p>
+   <p>After dark, there was a knock on the door. When he opened it, Horrisford and a stranger stood there.</p>
+   <p>“Oh—come in,” he said “Excuse the mess. I—haven’t been feeling so well.”</p>
+   <p>“Anyone here?” asked the agent.</p>
+   <p>“Just my wife.”</p>
+   <p>“She’ll be all right,” said the stranger impatiently. He was a big, stiff, gray-haired man. “Bring her in, please. This is important.” They were settled in the living room before Horrisford performed the introductions. “Major General Brackney of Strategic Services.” Arch’s hand was wet as he acknowledged the handclasp.</p>
+   <p>“This is most irregular,” said the general. “However, we’ve put through a special check on you. A fast but very thorough check. In spite of your errors of judgment, the FBI is convinced of your essential loyalty. Your discretion is another matter.”</p>
+   <p>“I can keep my mouth shut, if that’s what you mean,” said Arch.</p>
+   <p>“Yes. You kept one secret for ten years,” said Horrisford. “The business of Mrs. Ramirez.”</p>
+   <p>Arch started. “How the deuce—? That was a personal affair. I’ve never told a soul, not even my wife!”</p>
+   <p>“We have our little ways.” Horrisford grinned, humanly enough. “The point is that you could have gained somewhat by blabbing, but didn’t. It speaks well for you.”</p>
+   <p>General Brackney cleared his throat. “We want your help on a certain top-secret project,” he said. “You still know more about capacitite than anybody else. But if one word of this leaks out prematurely, it means war. Atomic war. It also means that all of us, and you particularly, will be crucified.”</p>
+   <p>“You’re an independent so-and- so, I realize. What we have in mind is a scheme to prevent such a war. We want you in on it both for your own value and because we can’t protect you forever from Soviet agents.” Brackney’s smile had no humor. “Didn’t know that, did you? It’s one reason you’re being co-opted, in spite of all you’ve done.</p>
+   <p>“I can’t say more till you take the oath, and once you’ve done that you’re under all the usual restrictions. Care to help out?”</p>
+   <p>Arch hesitated. He had little faith in government . . . any government. Still—Horrisford of the FBI had saved his life.</p>
+   <p>“I’m game,” he said.</p>
+   <p>Elizabeth nodded. The oath was administered.</p>
+   <p>Brackney leaned back and lit a cigar. “All right,” he said. “I’ll come to the point.</p>
+   <p>“Offhand, it looks as if you’ve done a grave disservice to your country. It’s been pointed out in the press that transporting fuel is the major problem of logistics. In fact, for the Russians it’s <emphasis>the</emphasis> problem, since they can live off the countries they invade to a degree we can’t match. You’ve solved that for them, and once they convert their vehicles we can expect them to start rolling. They and their allies—especially the Chinese. This discovery is going to make them a first-class power.”</p>
+   <p>“I’ve heard that,” said Arch thinly.</p>
+   <p>“However, we also know that the communist regimes are not popular. Look at the millions of refugees, look at all the prisoners who refused repatriation, look at the Ukranian insurrection—I needn’t elaborate. The trouble has been that the people aren’t armed. To say anything at home means the concentration camp.</p>
+   <p>“Now, then. Basically, the idea is this. We’ve got plants set up to turn out capacitite in trainload lots. We can, I think, make weapons capable of stopping a tank for a couple of dollars apiece. Do you agree?”</p>
+   <p>“Why—-yes,” said Arch. “I’ve been considering it lately. A rifle discharging its current through magnetic coils to drive a steel-jacketed bullet—the bullet could be loaded with electricity too. Or a Buck Rogers energy gun: a hand weapon with a blower run off the capacitor, sucking in air at the rear and spewing it out between two electrodes like a gigantic arc-welding flame. Or—yes, there are all kinds of possibilities.”</p>
+   <p>Brackney nodded with an air of satisfaction. “Good. I see you do have the kind of imagination we need.</p>
+   <p>“Now, we’ll be giving nothing away, because they already know how to make the stuff and can think up anything we can. But, we have a long jump as far as production facilities are concerned.</p>
+   <p>“The idea is this. We want to make really enormous quantities of such weapons. By various means— through underground channels, by air if necessary—we want to distribute them to all the Iron Curtain countries. The people will be armed, and hell is going to break loose!</p>
+   <p>“We want you in on it as design and production consultants. Leave tomorrow, be gone for several months probably. It’s going to have to be highly organized, so it can be sprung as a surprise; otherwise the Soviet bosses, who are no fools, will hit. But your part will be in production. Are you game?”</p>
+   <p>“It’s—astonishing,” said Elizabeth. “Frankly, I didn’t think the government had that much imagination.”</p>
+   <p>“We’re probably exceeding our authority,” admitted Brackney. “By rights, of course, Congress should be consulted, but this is like the Louisiana Purchase: there’s no time to do so.”</p>
+   <p>It was the historical note which decided Arch. Grade-school history, yes—but it didn’t fit in with his preconceptions of the red-necked militarist. Suddenly, almost hysterically, he was laughing.</p>
+   <p>“What’s so funny?” asked Horrisford sharply.</p>
+   <p>“The idea—what old Clausewitz would say—winning wars by arming the enemy! Sure—sure, I’m in. Gladly!”</p>
+   <empty-line/>
+   <p>SIX MONTHS on a secret reservation in Colorado which nobody but the top brass left, six months of the hardest, most concentrated work a man could endure, got Arch out of touch with the world. He saw an occasional newspaper, was vaguely aware of trouble on the outside, but there was too much immediately at hand for him to consider the reality. Everything outside the barbed-wire borders of his universe grew vague.</p>
+   <p>Designing and testing capacitite weapons was harder than he had expected, and took longer: though experienced engineers assured him the project was moving with unprecedented speed and ease. Production details were out of his department, but the process of tooling up and getting mass output going was not one for overnight solution.</p>
+   <p>The magnetic rifle; the arc gun; the electric bomb and grenade; the capacitite land mine, set to fry the crew of any tank which passed over—he knew their hideous uses, but there was a cool ecstasy in working with them which made him forget, most of the time. And after all, the idea was to arm men who would be free.</p>
+   <p>In March, General Brackney entered the Quonset hut which Arch and Elizabeth had been inhabiting and sat down with a weary smile. “I guess you’re all through now,” he said.</p>
+   <p>“About time,” grumbled the girl. “We’ve been sitting on our hands here for a month, just puttering.”</p>
+   <p>“The stuff had to be shipped out,” said the general mildly. “We didn’t dare risk having the secret revealed. But we’re rolling overseas, it’s to late to stop anything.”</p>
+   <p>He shrugged. “Naturally, the government isn’t admitting its part in this. Officially, the weapons were manufactured by independent operators in Europe and Asia, and you’ll have to keep quiet about the truth for a long time—not that the comrades won’t be pretty sure, but it just can’t be openly admitted. However, there are no security restrictions on the gadgets themselves, as of today.”</p>
+   <p>“That surprises me,” said Arch.</p>
+   <p>“It’s simple enough. Everything is so obvious, really—any handyman can make the same things for himself. A lot have been doing it, too. No secrets exist to be given away, that’s all.” Brackney hesitated. “We’ll fly you back home anytime you wish. But if you want to stay on a more permanent basis, we’ll be glad to have you.”</p>
+   <p>“No, thanks!” Elizabeth’s eyes went distastefully around the sleazy interior of the shack.</p>
+   <p>“This has all been temporary,” said the general. “We were in such a hell of a hurry. Better housing will be built now.”</p>
+   <p>“Nevertheless, no,” said Arch.</p>
+   <p>Brackney frowned. “I can’t stop you, of course. But I don’t think you realize how tough it’s getting outside, and how much worse it’s going to get. A revolution is starting, in more senses than one, and you’ll be safer here.”</p>
+   <p>“I heard something about that,” agreed Arch. “Discontented elements making their own weapons, similar to ours—what of it?”</p>
+   <p>“Plenty,” said the officer with a note of grimness. “It’s an ugly situation. A lot of people are out of work, and even those who still have jobs don’t feel secure in them. There are a dozen crank solutions floating around, everything from new political theories to new religious sects, and each one is finding wider acceptance than I’d have believed possible.”</p>
+   <p>“It doesn’t surprise me,” said Arch. “There’s a queer strain of the True Believer in American culture. You know how many utopian colonies we’ve had throughout our history? And the single tax party, and prohibition, and communism in the thirties. People in this country want something concrete to believe in, and all but a few of the churches have long ago degenerated into social clubs.”</p>
+   <p>“Whatever the cause,” said Brackney, “there are all these new groups, clashing with the old authorities and with each other. And the underworld is gleefully pitching in, and getting a lot of recruits from the ranks of hungry, frightened, embittered people.</p>
+   <p>“The regular armed forces have to be mobilized to stop anything the Soviets may try. The police and the National Guard have their hands full in the big cities. The result is, that authority is breaking down everywhere else. There’s real trouble ahead, I tell you.”</p>
+   <p>“All right,” said Arch. “That’s as may be. But our town is a collection of pretty solid folk—and we want to go home.”</p>
+   <p>“On your heads be it. There’ll be a plane at six tomorrow.”</p>
+   <p>—The fact did not strike home till they were stopping over at Idlewild and saw uniformed men and machine-gun emplacements. In the coffee shop, Arch asked the counterman just how bad things really were.</p>
+   <p>“Rough,” he answered. “See this?” He flipped back his jacket, showing a homemade capacitite pistol in a holster.</p>
+   <p>“Oh, look now—”</p>
+   <p>“Mister, I live in Brooklyn. I don’t get home till after dark, and the police cordons don’t go closer than six blocks to my place. I’ve had to shoot twice already in the past couple months.”</p>
+   <p>“Bandits?”</p>
+   <p>“In gangs, mister. If I could work somewhere closer to home, I’d be off like a shot.”</p>
+   <p>Arch set down his cup. Suddenly he didn’t want any more coffee. <emphasis>My God,</emphasis> he thought, <emphasis>am I responsible for that?</emphasis></p>
+   <p>A smaller plane carried them to Boston, where they caught a bus for Westfield. The driver had an automatic rifle by his seat. Arch huddled into himself, waiting for he knew not what; but the trip was uneventful.</p>
+   <p>The town didn’t seem to have changed much. Most of the cars were converted, but it didn’t show externally. The drug store still flashed neon at a drowsy sidewalk, the Carnegie library waited rather wistfully for someone to come in, the dress shop had the same old dummies in the window. Elizabeth pointed at them. “Look,” she said. “See those clothes?”</p>
+   <p>“They’re dresses,” said Arch moodily. “What about them?”</p>
+   <p>“No style change in six months, that’s all,” said Elizabeth. “It gives me the creeps.”</p>
+   <p>They walked along streets banked with dirty, half-melted snow, under a leaden sky and a small whimpering wind. Their house had not changed when they entered, someone had been in to dust and it looked like the home they remembered. Arch sank tiredly into his old armchair and accepted a drink. He studied the newspaper he’d bought at the depot. Screaming headlines announced revolt in Russia—mass uprisings in the Siberian prison camps — announcements from the Copenhagen office of the Ukrainian nationalist movement— It all seemed very far away. The fact that there were no new dress styles was somehow closer and more eerie.</p>
+   <p>A thunderous knock at the door informed him that Culquhoun had noticed their lights. “Mon, it’s guid to see ye again!” The great paw engulfed his hand. “Where’ve ye been a’ the while?”</p>
+   <p>“Can’t tell you that,” said Arch.</p>
+   <p>“Aweel, you’ll permit me to make my own guesses, then.” Culquhoun cocked an eye at the paper. “Who do they think they’re fooling, anyhow? We can look for the Russian bombers any day now.”</p>
+   <p>Arch considered his reply. That aspect had been thoroughly discussed at the project, but he wasn’t sure how much he could tell. “Quite possibly,” he said at last. “But with their internal troubles, they won’t be able to make many raids, or any big ones—and the little they will be able to throw at us should be stopped while they’re still over northern Canada.”</p>
+   <p>“Let’s hope so,” nodded Culquhoun. “But the people in the large cities won’t want to take the chance. There’s going to be an exodus of considerable dimensions in the next few days, with all that that implies.” He paused, frowning. “I’ve spent the last couple of months organizing a kind of local militia. Bob has been making capacitite guns, and there are about a hundred of us trying to train ourselves. Want in on it?”</p>
+   <p>“They’d probably shoot me first,” whispered Arch.</p>
+   <p>The red head shook, bear-like. “No. There’s less feeling against you locally than you seem to think. After all, few if any of the people in this area have been hurt—they’re farmers, small shopkeepers trading in the essentials, students, college employees. Many of them have actually benefited. You have your enemies here, but you have more friends.”</p>
+   <p>“I think,” said Arch thinly, “that I’m becoming one of my own enemies.”</p>
+   <p>“Ah, foosh, mon! If you hadn’t brought the stuff out, somebody else would have. It’s not your fault that we don’t have the kind of economy to absorb it smoothly.”</p>
+   <p>“All right,” said Arch without tone. “I’ll join your minute men. There doesn’t seem to be anything else to do.”</p>
+   <empty-line/>
+   <p>THE WAVE of automobiles began coming around noon of the next day. Westfield lay off the main highway, so it didn’t get the full impact of the jam which tied up traffic from Philadelphia to Boston; but there were some thousands of cars which passed through.</p>
+   <p>Arch stood in the ranks of men who lined Main Street. The gun felt awkward in his hands. Breath smoked from his nostrils, and the air was raw and damp. On one side of him was Mr. Hinkel, bundled up so that only the glasses and a long red nose seemed visible; on the other was a burly farmer whom he didn’t know.</p>
+   <p>Outside the city limits a sign had been planted, directing traffic to keep moving and to stay on the highway. There were barriers on all the side streets. Arch heard an occasional argument when someone tried to stop, to be urged on by a guard and by the angry horns behind him.</p>
+   <p>“But what’ll they do?” he asked blindly. “Where will they stay? My God, there are women and children in those cars!”</p>
+   <p>“Women and children here in town too,” said Hinkel. “We’ve got to look after our own. It won’t kill these characters to go a few days without eating. Every house here is filled already—there’ve been refugees trickling in for weeks.”</p>
+   <p>“We could bunk down a family in our place,” ventured Arch.</p>
+   <p>“Save that space,” answered Hinkel. “It’ll be needed later.” Briefly, a certain pride rose through the darkness of guilt which lay in Arch. These were the old Americans, the same folk who had stood at Concord and gone west into Indian country. They were a survivor type.</p>
+   <p>But most of their countrymen weren’t, he realized sickly. Urban civilization had become too big, too specialized. There were people in the millions who had never pitched a tent, butchered a pig, fixed a machine. What was going to become of them?</p>
+   <p>Toward evening, he was relieved and slogged home, too numb with cold and weariness to think much. He gulped down the dinner his wife had ready and tumbled into bed.</p>
+   <p>It seemed as if he had not slept at all when the phone was ringing. He groped toward it, cursing as he tried to unglue his eyes. Culquhoun’s voice rattled at him:</p>
+   <p>“You and Betty come up to the college, Somerset Hall, right away. There’s hell to pay.”</p>
+   <p>“How—?”</p>
+   <p>“Our lookout on the water tower has seen fires starting to the south. Something’s approaching, and it doesn’t look friendly.”</p>
+   <p>Sleep drained from Arch and he stood in a grayness where Satan jeered at him: <emphasis>“Si monumentum requiris, circumspice!”</emphasis> Slowly, he nodded. “We’ll be right along.”</p>
+   <p>The campus was jammed with townspeople. In the vague pre-dawn light, Arch saw them as a moving river of white, frightened faces. Farmer, merchant, laborer, student, teacher, housewife, they had all receded into a muttering anonymity through which he pushed toward the steps of the hall. The irregular militia was forming ranks there, with Culquhoun’s shaggy form dominating the scene.</p>
+   <p>“There you are,” he snapped. “Betty, can you help take charge of the women and children and old people? Get them inside-—this one building ought to hold them all, with some crowding. Kind of circulate around, keep them calm. We’ll pass out coffee and doughnuts as soon as the Salvation Army bunch can set up a canteen.”</p>
+   <p>“What’s the plan?” asked a guardsman. To Arch, his voice had a dim dreamlike quality, none of this was real, it couldn’t be.</p>
+   <p>“I don’t know what those arsonists intend or where they’re bound,” said Gulquhoun, “but we’d better be ready to meet them. The traffic through town stopped completely a few hours ago—I think there’s a gang of highwaymen operating.”</p>
+   <p>“Colin, it can’t be! Plain people like us—”</p>
+   <p>“Hungry, frightened, angry, desperate, confused people. A mob has nothing to do with the individuals in it, my friend. And one small push is enough to knock down a row of dominoes. Once lawlessness really gets started, a lot of others are driven into it in self-defense.”</p>
+   <p>They waited. The sun came up, throwing a pale bleak light over the late snow and the naked trees. The canteen handed out a sort of breakfast. Little was said.</p>
+   <p>At nine-thirty, a boy on a clumsy plowhorse came galloping up toward them. “About a hundred, marching down the highway,” he panted. “They threw a couple shots at me.”</p>
+   <p>“Stay here,” said Culquhoun. “I’m going down to see if we can’t parley. I’ll want about ten men with me. Volunteers?”</p>
+   <p>Arch found himself among the first. It didn’t matter much what happened to him, now when the work of his hands was setting aflame homes all across the land. They trudged down the hillside and out toward the viaduct leading south. Culquhoun broke into a deserted house and stationed them in its entrance hall.</p>
+   <p>Peering out, Arch saw the ragged column moving in. They were all men, unshaven and dirty. A few trucks accompanied them, loaded with a strange mass of plunder, but most were on foot and all were armed.</p>
+   <p>Culquhoun bound a towel to his rifle barrel and waved it through the front door. After what seemed like a long time, a voice outside said: “Okay, if yuh wanna talk, go ahead.”</p>
+   <p>“Cover me,” murmured Culquhoun, stepping onto the porch. Looking around his shoulder, Arch made out three of the invaders, with their troop standing in tired, slumped attitudes some yards behind. They didn’t look fiendish, merely worn and hungry.</p>
+   <p>“Okay, pal,” said the leader. “This is O’Farrell’s bunch, and we’re after food and shelter. What can yuh do for us?”</p>
+   <p>“Food and shelter?” Culquhoun glanced at the trucks. “You seem to’ve been helping yourselves pretty generously already.”</p>
+   <p>O’Farrell’s face darkened. “What’d yuh have us do? Starve?”</p>
+   <p>“You’re from the Boston area, I suppose. You could have stayed there.”</p>
+   <p>“And been blown off the map!”</p>
+   <p>“It hasn’t happened yet,” said Culquhoun mildly. “It’s not likely to happen, either. They have organized relief back there, you didn’t have to starve. But no, you panicked and then you turned mean.”</p>
+   <p>“It’s easy enough for yuh to say so. <emphasis>You’re</emphasis> safe. We’re here after our proper share, that’s all.”</p>
+   <p>“Your proper share is waiting in Boston,” said Culquhoun with a sudden chill. “Now, if you want to proceed through our town, we’ll let you; but we don’t want you to stay. Not after what you’ve been doing lately.”</p>
+   <p>O’Farrell snarled and brought up his gun. Arch fired from behind Culquhoun. The leader spun on his heel, crumpled, and sagged with a shriek. Arch felt sick.</p>
+   <p>His nausea didn’t last. It couldn’t, with the sudden storm of lead which sleeted against the house. Culquhoun sprang back, closing the door. “Out the rear!” he snapped. “We’ll have to fight!” They retreated up the hill, crouching, zigzagging, shooting at the disorderly mass which milled in slow pursuit. Culquhoun grinned savagely. “Keep drawing ’em on, boys,” he said as he knelt in the slush and snapped a shot. “If they spread through town, we’ll have hell’s own time routing ’em all out —but this way—”</p>
+   <p>Arch didn’t know if he was hitting anything. He didn’t hear the bullets which must be whining around him—another cliche that just wasn’t true, he thought somewhere in the back of his head. A fight wasn’t something you could oversee and understand. It was cold feet, clinging mud, whirling roaring confusion, it was a nightmare that you couldn’t wake up from.</p>
+   <p>Then the rest of the Westfield troop were there, circling around to flank the enemy and pumping death. It was a rout—in minutes, the gang had stampeded.</p>
+   <p>Arch leaned on his rifle and felt vomit rising in his throat. Culquhoun clapped his shoulder. “Ye did richt well, laddie,” he rumbled. “No bad at all.”</p>
+   <p>“What’s happening?” groaned Arch. “What’s become of the world?”</p>
+   <p>Culquhoun took out his pipe and began tamping it. “Why, a simple shift of the military balance of power,” he answered. “Once again we have cheap, easily operated weapons which everyone can own and which are the equal of anything it’s practical for a government to use. Last time it was the flintlock musket, right? And we got the American and French Revolutions. This time it’s capacitite.</p>
+   <p>“So the Soviet dictatorship is doomed. But we’ve got a rough time ahead of us, because there are enough unstable elements in our own society to make trouble. Our traditional organizations just aren’t prepared to handle them when they’re suddenly armed.</p>
+   <p>“We’ll learn how fast enough, I imagine. There’s going to be order again, if only because the majority of people are decent, hard-working fellows who won’t put up with much more of this sort of thing. But there has to be a transition period, and what counts is surviving that.”</p>
+   <p>“If I hadn’t—Colin, it’s enough to make a man believe in demoniac possession.”</p>
+   <p>“Nonsense!” snorted the other. “I told you before, if you hadn’t invented this stuff, somebody else would have. It wasn’t you that made it by the ton, all over the country. It wasn’t you that thought up this notion of finishing the Iron Curtain governments—a brilliant scheme, I might add, well worth whatever price we have to pay at home.</p>
+   <p>“But it <emphasis>is</emphasis> you, my boy, who’s going to have to get us tooled up to last the transition. Can you do it?”</p>
+   <p>Fundamental changes are seldom made consciously. Doubtless the man in the fifth-century Roman street grumbled about all these barbarian immigrants, but he did not visualize the end of an empire. The Lancashire industrialist who fired his craftsmen and installed mechanical looms was simply making a profitable investment. And Westfield, Massachusetts, was only adopting temporary survival measures.</p>
+   <p>They didn’t even look overwhelmingly urgent. Government had not broken down: if anything, it was working abnormally hard. News came through—ferocious air battles over the Canadian tundras; the Soviet armies rolling westward into Europe and southward into Asia, then pushed back with surprising ease and surrendering en masse as their own states collapsed behind them—it was turning out to be a war as remote and half-forgotten as Korea, and a much easier one, which lasted a few months and then faded into a multi-cornered struggle between communists, neo-czarists, and a dozen other elements. By Christmas time, a shaky democratic confederation in Moscow was negotiating with Ukrainia, the Siberian Convict Republic, and the Tartar Alliance. China was in chaos and eastern Europe was free.</p>
+   <p>And while the great powers were realizing that they were no longer great, now that a vast capital investment in armament had stopped paying off; and while they sought to forestall world upheaval by setting up a genuine international army with strength to enforce the peace—life went on. People still had to eat.</p>
+   <p>Arch stood by Hinkel’s watermill in the early spring. The ground glistened and steamed with wetness underfoot, sunlit clouds raced through a pale windy sky, and a mist of green was on the trees.</p>
+   <p>Near him the swollen millstream roared and brawled, the wheel flashed with its own swiftness, and a stack of capacitors lay awaiting their charges.</p>
+   <p>“All right,” he said. “We’ve got your generator going. But it isn’t enough, you know. It can’t supply the whole country; and power lines to the outside are down.”</p>
+   <p>“So what do we do?” asked Hinkel. He felt too proud of his new enterprise to care much about larger issues at the moment.</p>
+   <p>“We find other sources to supplement,” said Arch. “Sunlight, now. Approximately one horsepower per square yard, if you could only get at it.” He raised a face grown thin with overwork and with the guilt that always haunted him these days, up to the sky. The sun felt warm and live on his skin. “Trouble is, the potential’s so low. You’ve got to find a way to get a high voltage out of it before you can charge a capacitor decently. Now let me think—”</p>
+   <p>He spent most of his waking hours thinking. It helped hold off the memory of men lying dead on a muddy hillside.</p>
+   <p>When power was short, you couldn’t go back to oxcarts and kerosene lamps. There weren’t enough of either. The local machine shop made and sold quantities of home charging units, small primitive generators which could be turned by any mechanical source, and treadmills were built to drive them. But this was only an unsatisfactory expedient. Accompanied by several armed guards, Arch made a trip to Boston.</p>
+   <p>The city looked much quieter than he remembered, some of the streets deserted even at midday, but a subdued business went on. Food was still coming in to the towns, and manufactured goods flowing out; there was still trade, mail, transportation. They were merely irregular and slightly dangerous.</p>
+   <p>Stopping at M.I.T. Arch gave certain of his problems to the big computer, and then proceeded to an industrial supply house. The amount of selenium he ordered brought a gasp and a hurried conference.</p>
+   <p>“It will take some time to get all this together,” said a vice-president. “Especially with conditions as they are.”</p>
+   <p>“I know,” said Arch. “We’re prepared to make up truck convoys and furnish guards; what we want you for is negotiation.”</p>
+   <p>The vice-president blinked. “But . . . good heavens, man! Is your whole community in on this?”</p>
+   <p>“Just about. We have to be. There’s little help coming in from outside, so our area is thrown back on itself.”</p>
+   <p>“Ah—the cost of this operation—”</p>
+   <p>“Oh, we can meet that. Special assessment, voted at the last town meeting. They don’t care very much, because money has little value when you can’t buy more than the rationed necessities. And they’re getting tired of going on short rations of power.”</p>
+   <p>“I shouldn’t say this, because your proposal is a fine deal for us, but have you stopped to think? Both the REA and the private power concerns will be restoring service eventually, just as soon as civil order has been recreated.”</p>
+   <p>Arch nodded. “I know. But there are two answers to that. In the first place, we don’t know when that’ll be, and if we don’t have adequate energy sources by winter we’ll be up the creek. Also, we’re building a sun-power plant which will cost almost nothing to operate. In the long run, and not so terribly long at that, it’ll pay off.”</p>
+   <p>Bob Culquhoun, who went on the selenium convoy, reported an adventurous journey through hundreds of miles where gangs of extremists still ruled. “But they seem to be settling down,” he added. “Nobody likes to be a bandit, and anyhow the state militias are gradually subduing ’em. Most of the rural communities, though, are striking out on their own like us. There’s going to be a big demand for selenium.” Wistfulness flickered in his eyes. “Wonder if I can raise enough money to buy some stock?”</p>
+   <p>“It’ll take time,” said Elizabeth. “I know the sun-power generator is simple, but you still can’t design and build one overnight.”</p>
+   <p>As a matter of fact, fall had come again before Westfield’s plant was in full operation. It didn’t look impressive: great flat screens on top of hastily constructed buildings, and inside these the apparatus to raise voltage and charge capacitors. But in conjunction with the watermill, it furnished more than enough electricity to run the county’s machines.</p>
+   <p>Arch was kept busy all that summer, directing, advising, helping. It seemed that everybody had some scheme of his own for using capacitite. Energy cost nothing, and machinery could be built from junkyard scrap if nothing eke. Westfield was suddenly acquiring her own looms, mills, even a small foundry. Bob led a gang of young hellions who made an airplane and kept it aloft for days at a time. His father promptly confiscated it for the use of the civic guard, and after that there were no more surprise brushes with roving outlaws.</p>
+   <p>An eyewitness report was brought in from the air—a clash between state troops and one of the robber bands which still existed to the north. The gangmen had their own trucks and jeeps, their own guns, all operating off accumulators which could be charged at any of a thousand watermills. A rifleman could stop a tank, and aircraft were of limited value against guerrillas who crouched in brush and weeds. The battle was a draw, with both sides finally retreating.</p>
+   <p>Arch shuddered, alone with Elizabeth, and crept into her arms. “Did I do that?” he asked through his tears. “Did I do it?”</p>
+   <p>“No, darling,” she said. One hand ruffled his disordered hair. “Can’t you forget that side of it? Think of what you have done, with your own hands—built this town up again, given its people more than they ever had before.”</p>
+   <p>He set his teeth. “I’ll try,” he said.</p>
+   <p>Somewhat later, the government offered amnesty to those outlaws who would lay down their arms and come home. It had the desired effect; they had had enough of warring and insecurity. But Culquhoun scowled. “ ’Tis a vurra bad precedent,” he said. “Only a weak government makes such a move.”</p>
+   <p>Oddly, Arch felt a lightening within himself. “Maybe a weak government is what we need,” he answered.</p>
+   <p>News: Several southern states threaten secession unless court decisions concerning racial equality are withdrawn.</p>
+   <p>News: Uprisings in these same states. The Negro has had enough.</p>
+   <p>News: Capitulation of state governments. Constitutional conventions, transfer of power from state to local authorities.</p>
+   <p>News: The depression is not ending, but transforming itself: out-of-work men are starting to produce things for themselves with the help of capacitite-driven machinery often made at home, trading their surplus for whatever else they need. A mobile reclamation unit appears, costing little to operate, and families begin to irrigate and colonize desert areas. Big business, big labor, big government talk much and do nothing. effective— their day is past, but they simply cannot understand the new forces at work.</p>
+   <p>News: More and more city areas are becoming empty as their inhabitants take advantage of cheap, fast transportation and move into the rapidly expanding suburbs and even into the country. This migration is possible because with present energy sources, plastic board for home construction can be manufactured at very low cost.</p>
+   <p>News: There is a great deal of debate in Washington about redistricting to meet the new population pattern. It doesn’t seem too important, though, because a land of nearly self-sufficient communities, such as this is becoming, is much less dependent on central government.</p>
+   <p>News: Experiment and innovation in dress, work habits, manners and morals, grows ever more common. The basic cause of this is that few men need now be afraid of what the neighbors or the boss thinks. If you don’t like it where you are, you can easily go elsewhere and start over.</p>
+   <p>None of this happened at once. It would take a century or more for the change to complete itself. But even in the second year, the trend was obvious.</p>
+   <empty-line/>
+   <p>SNOW whirled against the house, blindingly, as if the world drew into itself and nothing lay beyond these walls. The muted skirl of wind came through, lonesome and shivering. But inside, there was warmth and a calm light.</p>
+   <p>Arch sat with a whiskey and soda in his hand, looking across the floor at his wife. He felt tired, but there was a relaxation in him, a sense of labor finished.</p>
+   <p>Not fully—there would be much to do yet. But power was there, machinery was there, food stored away; they would last the winter, and there would be another springtime.</p>
+   <p>“It’s settling down,” Elizabeth told him, putting her news magazine aside. “For once, I agree with the editor of this rag. The crisis is over, and now it’s a matter of readjustment. The world is never going to be the same, but it’ll be a better one . . . cleaner.”</p>
+   <p>“Perhaps,” said Arch. He didn’t feel so sharply the horror of guilt, not any more.</p>
+   <p>“Look around you,” she invited. “Look what you’ve done. I’m afraid, dear, that you’re going to be rediscovered. It won’t take long before people suddenly wake up to the fact that your invention did all this for them. Brace yourself— you’re going to be famous for life.”</p>
+   <p>Arch winced. “But I didn’t!” he protested. “They did it for themselves. One man never could—”</p>
+   <p>“I quite agree,” she smiled. “One man can neither make nor destroy a society. So why not give that conscience of yours a rest?”</p>
+   <p>“There’s been suffering,” he said, enough alcohol in him to break down his reserve. “People have died.”</p>
+   <p>“A lot of them needed killing,” she said earnestly. “Look what we’ve got. An end to dictatorship. Removal of the atomic-war threat. Cheap energy for a million new projects. A four-hour work day in prospect. Government, which was getting too big and officious in all countries, cut down to size again. The plain man standing on his own feet and working for himself. Natural resources conserved. If you must take either credit or blame, Si, then balance your books!”</p>
+   <p>“I know,” he said. “I know all that, up in my conscious mind. But down underneath—I’ll always see those houses burning, and those men shooting at each other.”</p>
+   <p>“You—” She hesitated. “I know what you need. Your trouble, my boy, is that underneath that Yankee conservatism, you’re a hopeless romantic. Your mind dwells on the sudden and dramatic. Now the positive benefits of capacitite aren’t anywhere near as quick and spectacular as the temporary evils were. What you have to do, to satisfy those Puritan chromosomes, is to produce something really big and fancy, something of immediate, large value.”</p>
+   <p>He chuckled, lifted out of his dark mood in spite of himself. “I imagine you’re right, Dr. Freud,” he said. “But what?”</p>
+   <p>“I don’t know.” She frowned with worry for him. “But think, man. We have leisure now—in another year or so, well, we won’t be the millionaires we once dreamed of, but like everybody else we’ll have real security and real time to ourselves. You could use that time to work on <emphasis>something”</emphasis> .</p>
+   <p>“Hm—” Automatically, his brain turned to practicalities. “Let’s see, now. Capacitite offers a way of concentrating energy enormously ... a very small packet will hold a hell of a lot—<emphasis>My God!”</emphasis> His yell shook the windows as he leaped to his feet.</p>
+   <p>“What the devil—something wrong?” Elizabeth got up too.</p>
+   <p>“No!” He was running toward the phone. “Got to get hold of Colin—M.I.T.—don’t you see, darling?” His hands trembled as he dialed, but there was laughter in his voice. “Don’t you see it? Spaceships!” </p>
+   <p>             • • •</p>
+   <empty-line/>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="_0.jpg" content-type="image/jpeg">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
+1ISomclJKj//2Q==</binary>
+</FictionBook>
