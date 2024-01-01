@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Сергей</first-name>
+    <last-name>Лукьяненко</last-name>
+   </author>
+   <book-title>Капитан</book-title>
+   <annotation>
+    <p>Рассказ о взаимоотношении человека с искусственным разумом, управляющим его кораблем.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.png"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Максим</first-name>
+    <last-name>Ергиев</last-name>
+    <nickname>ergiev</nickname>
+    <email>ergiev@inbox.ru</email>
+   </author>
+   <program-used>LibRusEc kit, FB Editor v2.2</program-used>
+   <date value="2007-06-11">2007-06-11</date>
+   <id>Mon Jun 11 02:06:28 2007</id>
+   <version>1.1</version>
+   <history>
+    <p>1.1 — вычитка, поправлена структура, аннотация, обложка (ergiev 28.04.2010)</p>
+   </history>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Сергей Лукьяненко</p>
+   <p>Капитан</p>
+  </title>
+  <section>
+   <p>Положив блокнот на пульт главного компьютера, Стив Бландерс производил последние вычисления. Капельки пота блестели у него на лбу, как сигнальные лампочки на панели управления кораблем. Иногда, видимо, чтобы довершить сходство со щелкающей реле и переключателями машиной, в животе у него начинало урчать.</p>
+   <p>Одно из табло на пульте нетерпеливо замигало, и Стив заторопился. Он подвел под конечной цифрой черту и попытался в уме возвести ее в куб. Но 3,5389 упорно противились его усилиям. Слабо выругавшись, Стив снова взялся за карандаш.</p>
+   <p>— Долго еще ждать? — поинтересовался откуда-то из стены бесцветный металлический голос.</p>
+   <p>— Сейчас, сейчас… — забормотал Стив. — Готово! Сорок четыре, запятая, триста двадцать, пятьсот двадцать один.</p>
+   <p>В рубке воцарилось молчание. Стив заерзал в кресле пилота и неуверенно спросил:</p>
+   <p>— Неправильно?</p>
+   <p>— Правильно. Только медленно считаешь, дожидайся я тебя, давно бы проскочили мимо планеты…</p>
+   <p>На лице Стива появилось нечто вроде гордости. Рассчитать вручную вектор подпространственного курса — этим можно гордиться! Но корабельный кибермозг склонен был оценивать его успех куда с меньшим восторгом.</p>
+   <p>— Готовься к посадке. А то опять придется медотсек расконсервировать.</p>
+   <p>Стив торопливо застегнул ремни кресла. Как всегда в такие моменты, зачесалась бровь, рассеченная год назад о стеллаж с навигационными картами. Тогда кибермозг забыл предупредить его о посадке…</p>
+   <p>— Пойдем с маленькими перегрузками, да? — небрежно спросил он и затаил дыхание в ожидании ответа.</p>
+   <p>— Конечно. Десять «жэ» — не больше.</p>
+   <p>Стив застонал. А через секунду начались перегрузки. Действительно, всего десять «жэ», что, по мнению машины, совсем немного и здорово экономит горючее…</p>
+   <p>Когда он открыл глаза, перегрузки уже давно прекратились. Судя по данным на пульте, корабль прочно стоял на поверхности планеты, а исследовательские зонды уже расползлись по окрестностям.</p>
+   <p>— Это какая планета? — слабым голосом спросил Стив. Он вовсе не рассчитывал на ответ, но на этот раз компьютер снизошел до беседы.</p>
+   <p>— Би-Эн, N 315. Южный материк.</p>
+   <p>— Да нет здесь ничего, — почти закричал Стив. — Нет! Я же был здесь семь лет назад, перед тем как…</p>
+   <p>— Знаю, что был! — в металлическом голосе возникло какое-то странное дрожание. — Ты же мне все микрофоны прожужжал, что именно здесь расстался с этой рухлядью, этой кучей металлолома, этим «Громовержцем»…</p>
+   <p>В недрах пульта что-то застучало. Стив быстро отодвинул кресло к стене: манипуляторов в рубке не было, но вот струя горячего кофе могла литься не только в стакан, но и прямо в лицо.</p>
+   <p>— Что ты дергаешься, — уже спокойнее произнес кибермозг. — Нечего сказать, повезло мне с капитаном. От перегрузки сознание теряет…</p>
+   <p>— Я не терял!</p>
+   <p>— Помолчи. От перегрузки сознание теряет, от каждого звука дергается. И говорит только о ржавой консервной банке, на которой когда-то летал… не летал, а ползал по космосу!</p>
+   <p>Стив подавленно молчал. На прогулку теперь нечего и рассчитывать… Но у кибермозга было положительно хорошее настроение.</p>
+   <p>— Если хочешь, можешь выйти наружу. Полюбоваться планетой…</p>
+   <p>В голосе кибермозга дрогнуло презрение. Планеты он, как все корабельные компьютеры, не любил.</p>
+   <p>В шлюзовом отсеке не было света. Стив, однако, это предвидел: достав из кармана фонарик, он уверенно пошел к выходу. Свет немедленно включился, и на кнопку открывания люка капитан давил, убежденный в хорошем настроении компьютера.</p>
+   <p>— Открывай вручную, моторы надо беречь, — немедленно отозвался кибермозг.</p>
+   <p>Стив взялся за рычаг. Не привыкать, за последние годы он нарастил такие мускулы, что за сутки разгружал грузовой трюм корабля. Без помощи роботов, разумеется.</p>
+   <p>Планета встретила его воздухом, наполненным запахами цветов, таким свежим и чистым, что Стив закашлялся. Даже пепел, в который обратились джунгли в километровом радиусе, не мог заглушить этой свежести. «Мечтатель» всегда садился на полном пламени, словно ему доставляло удовольствие любоваться силой своих двигателей…</p>
+   <p>— Ну, что стоишь? — загремело над головой. — Иди, разведай, что вокруг творится. Ох, и это мой капитан… Вот подам рапорт в управление, пусть подыщут мне другого. Расскажу, как ты спишь целыми днями, не следишь за приборами, не ведешь бортжурнал…</p>
+   <p>— Ты сам его отобрал!</p>
+   <p>— Это ты будешь рассказывать в самом дрянном марсианском кабаке. Тебя вышибут без обратного билета на Землю, потому что поверят мне. Ведь киберсистемы не лгут.</p>
+   <p>Стив прислонился к надраенному до блеска корпусу «Мечтателя». Все верно, вышибут из космофлота, как пить дать…</p>
+   <p>— Эй, я забыл флягу, — дернулся он. — И бластер…</p>
+   <p>— Как ты меня назвал? «Эй»?</p>
+   <p>— Нет, я хотел сказать…</p>
+   <p>— Обойдешься без фляги. А бластер тебе и подавно не положен.</p>
+   <p>Развернувшись, Стив быстро зашагал к лесу. Во-первых, звери наверняка разбежались, во-вторых… Во-вторых, бластера он не получит. Оглянувшись, он с ненавистью оглядел двухсотметровую титановую башню с выгнувшимися над люком светящимися буквами: «Мечтатель». А ведь раньше он, пожалуй, соответствовал своему названию. Какой это был прекрасный корабль, когда Стив, избавившись, наконец, от старой развалюхи «Громовержца», занял на нем пост капитана. И как быстро все изменилось…</p>
+   <p>Из корпуса корабля с гудением вынырнула штанга грунтозаборника. С воем впилась в покрытую черным дымящимся пеплом землю. Стив внезапно рассмеялся.</p>
+   <p>— Великое пространство…</p>
+   <p>А ведь «Мечтатель» ревнует! До сих пор он ненавидит его предыдущий корабль. И его идиотский поиск полезных ископаемых на бесперспективной планете — еще одна попытка доказать свое превосходство…</p>
+   <p>— Чтоб ты здесь не нашел ничего, кроме железного колчедана, — пробормотал он страшное проклятие межзвездных разведчиков.</p>
+   <p>Джунгли действительно были пусты. Стив прошагал километров десять, постепенно вспоминая планету. Семь лет назад он садился в этом же районе, где-то у подножия той высокой скалы, на берегу крошечного озерца. Сейчас он поднимется на холм и увидит то место…</p>
+   <p>Он сделал последний шаг и замер. На берегу, вцепившись в землю широкими опорами, замерла огромная стальная полусфера.</p>
+   <p>«Громовержец», — прошептал он, силясь согнать наваждение.</p>
+   <p>Это не было наваждением. В борту корабля, дрогнув, открылся люк, из него бесшумно поползла короткая лестница. С километрового расстояния «Громовержец» услышал и узнал его голос.</p>
+   <p>Входя в люк, Стив уже продумал линию поведения, единственно возможную в его ситуации.</p>
+   <p>— Я вижу, у тебя полный порядок, старина! — жизнерадостно начал он. — О, ты даже перекрасил шлюз!</p>
+   <p>— Вас не было две тысячи пятьсот двадцать один день, капитан, многое успело измениться. Приветствую вас на борту, капитан.</p>
+   <p>Да, изменилось многое. Даже голос кибермозга «Громовержца» стал гораздо приятнее, сильнее. А что касается обстановки в отсеках, то тут нечего было и говорить. Все блестело и сверкало, повсюду появились новые приборы. В углу рубки два киберремонтника монтировали пульт гиперпространственной связи, рядом с креслом пилота чернел шар гравитационного компенсатора перегрузок.</p>
+   <p>— Откуда это все, «Громовержец»? — воскликнул пораженный Стив.</p>
+   <p>— Собрал, пользуясь имевшейся информацией.</p>
+   <p>— Но на это нужна уйма энергии!</p>
+   <p>— На глубине восьми километров обнаружил и начал разрабатывать урановые залежи.</p>
+   <p>— И нужны приборы!</p>
+   <p>— Наладил их выпуск из подручных материалов.</p>
+   <p>— Ну, старина… Конечно, почти семь лет… — Стив озирался по сторонам. — А я, понимаешь ли… Пришлось срочно лететь на Землю, все дела, дела… Но все время пробовал вернуться.</p>
+   <p>— Я видел, как вы садились.</p>
+   <p>Стив взглянул на холодно поблескивающие у потолка объективы видеомониторов, и приготовленный комплимент застрял у него в горле. Наступило молчание. Секунда, другая…</p>
+   <p>— У меня теперь другой корабль, старина, — наконец выдавил Стив. — Я его капитан.</p>
+   <p>И ничего не изменилось.</p>
+   <p>— Где прикажете подать обед, капитан? — с нечеловеческим упрямством спросил компьютер.</p>
+   <p>Стив давно уже не ел с таким аппетитом, может быть, потому, что «Мечтатель» считал еду исключительно функциональным, не требующим разнообразия занятием. И все время, пока вокруг него суетились автоматические стюарды, в голове Стива зрела какая-то мысль. Наконец с обедом было покончено. И снова Стив принялся за осмотр корабля. Результаты превзошли все его ожидания. Со странной улыбкой на лице он вернулся в рубку, устроился в пилотском кресле.</p>
+   <p>— «Громовержец»! — начал он. — Помнишь наш первый полет?</p>
+   <p>— Я помню все.</p>
+   <p>— Какой я тогда был… Стройный, как Аполлон, воинственный, как Марс… Самоуверенный, как Юпитер. Вселенная была еще такой маленькой, а ты был самым лучшим кораблем в мире… Как мы летали! Помнишь? Земля Антарес — Эн-Ка-17 — транзит через Берег Грюнвальда… нам все было нипочем. Помнишь?</p>
+   <p>— Помню, капитан.</p>
+   <p>— А если… попробовать еще раз? Куда-нибудь на Ледовый Купол или Оранжевую Дельту. Докажем, что нас еще рано списывать в запас?</p>
+   <p>— Двигатели готовы к старту, капитан.</p>
+   <p>На пульте один за другим вспыхивали огоньки предстартового контроля.</p>
+   <p>— Подожди!</p>
+   <p>Стив внимательно осмотрел пульт. В корабле появилось много новых систем, но боевой пульт остался нетронутым.</p>
+   <p>— У тебя слабые системы ближнего боя, «Громовержец».</p>
+   <p>— Корабли моего класса не предназначены для боевых действий.</p>
+   <p>— Вижу…</p>
+   <p>Рискнуть? Но кто знает, как поступит «Мечтатель», обнаружив взлетающий из-под бока корабль? Конечно, если он будет точно знать, что на борту находится человек, то его предохранители не дадут применить оружия. Но ведь «Мечтатель» не знает об этом <emphasis>наверняка</emphasis>.</p>
+   <p>Стив рассмеялся:</p>
+   <p>— Знаешь, «Громовержец», я вспомнил, как мы спорили в космошколе: каким может быть компьютерный разум. Все разделились на три группы: одни говорили, что добрым, другие, что злым, а третьи — равнодушным.</p>
+   <p>— В какой группе были вы, капитан?</p>
+   <p>— В первой. — Он рассмеялся снова. — И никто из нас не предусмотрел четвертой возможности: компьютер-зануда, компьютер-мелкий пакостник, компьютер-склочник.</p>
+   <p>Возможно, что у «Громовержца» была своя точка зрения на четвертую возможность. Но он не стал спорить, лишь сказал:</p>
+   <p>— Вам следует почаще вспоминать о законах робототехники, капитан. Ни один компьютер не может причинить вреда человеку.</p>
+   <p>— Конечно…</p>
+   <p>Стив задумался. Потом неохотно вылез из кресла.</p>
+   <p>— Мне надо сходить за вещами. Подожди пару часов.</p>
+   <p>…В шлюзовой камере он выбрал и зарядил нейтринный бластер. Тщательно проверил оружие и вышел из корабля.</p>
+   <p>…Вокруг «Мечтателя» копошился десяток стальных черепахообразных аппаратов. Одни бурили грунт, другие крутились на месте, растопырив чаши локаторов. Стив неторопливо прошел мимо них, поднялся по лестнице к люку. Тот оставался закрытым. Стив несколько раз надавил на кнопку, но никакого эффекта не последовало. Тогда он навлек из кармана бластер и одним выстрелом развалил титановый люк на горстку серой колючей пыли.</p>
+   <p>В глубине корабля взвыли сирены. Стив спокойно перешагнул порог, направляясь к рубке. Навстречу ему выкатился ремонтный кибер, а с потолка грянул голос кибермозга:</p>
+   <p>— Ты что, вообразил, что тебе все дозволено? Где ты взял бластер?</p>
+   <p>Ремонтный кибер несся навстречу Стиву, размахивая двухметровыми манипуляторами. Выстрел — и он превратился в кучку поблескивающих деталей, среди которой бешено крутилось резиновое колесо. Наступила мертвая тишина. Стив, насвистывая какую-то мелодию, расстрелял выглядывающую из угла телекамеру и пошел к лифту.</p>
+   <p>— А ну, брось оружие, — не совсем уверенно сказал кибермозг. — А то взлечу с ускорением в сорок…</p>
+   <p>Получив свою порцию нейтринного луча, динамик замолчал. Стив неторопливо поднялся в рубку (лифт дважды дергался, но остановиться не посмел). Там, усевшись перед главным пультом, он насмешливо произнес:</p>
+   <p>— Так с каким ускорением ты собирался взлетать? Шалишь, дружок. Все, на что ты способен, — это мелкие гадости. Причинить мне серьезную неприятность тебе не даст первый закон…</p>
+   <p>— Я рапорт подам… — неожиданно тихо произнес кибермозг. — Жестокое обращение с электронным разумом…</p>
+   <p>— Подавай, — великодушно согласился Стив. — Вот после этого ты у меня получишь по-настоящему. А пока…</p>
+   <p>Он нагнулся к пульту и вдвое понизил напряжение в блоках электронной памяти. Динамики пискнули.</p>
+   <p>— Головка болит? — участливо спросил Стив. — Потерпишь. А может быть, уйти и бросить тебя так… Поржавей здесь лет десять…</p>
+   <p>— Не надо! Не надо!</p>
+   <p>Из стенной ниши выкатился киберстюард, которого Стив не видел уже лет пять. На подносе переливался разными цветами высокий хрустальный бокал.</p>
+   <p>— Ваш любимый коктейль, капитан…</p>
+   <p>— Кажется, ты уяснил ситуацию, — негромко произнес Стив. Взял бокал и подумал: «Господи, неужели, все, чего мне не хватало, — это уверенности, что мне есть куда отступать…»</p>
+   <p>— Собери-ка мои вещи, — приказал он.</p>
+   <p>— Вы уходите, капитан? — в панике воскликнул «Мечтатель».</p>
+  </section>
+  <section>
+   <title>
+    <p>КОНЦОВКА ПЕРВАЯ. ЛИРИЧЕСКАЯ</p>
+   </title>
+   <p>— Вы уходите, капитан? — в панике воскликнул «Мечтатель». Стив заколебался. Обвел глазами пульт, привычные стены рубки. А ведь когда-то корабль вел себя по-другому…</p>
+   <p>— Ты мне надоел, — честно признался он.</p>
+   <p>— Капитан! Простите!</p>
+   <p>Стив думал. Где-то там, в глубине леса, ждал его «Громовержец», ждал почти семь лет. Неужели он не потерпит еще месяц? А он хоть узнает, каково летать на «Мечтателе», когда он послушен… Месяц… ну, может быть, два месяца…</p>
+   <p>— Я буду звать тебя «Эй», — сказал он наконец. — Согласен, Эй?</p>
+   <p>— Как вам будет угодно, капитан.</p>
+   <p>Стив рассмеялся:</p>
+   <p>— Готовься к старту.</p>
+   <p>Белая молния прочертила темнеющее небо, сжалась, превращаясь в ослепительную точку на небосклоне. С берега маленького лесного озера следил за стартом «Мечтателя» «Громовержец». Тихо гудели моторы, разворачивая телекамеры вслед исчезающему кораблю. Потом наступила тишина. Но ненадолго.</p>
+   <p>Захрустели ломающиеся ветки, и из леса вышел человек. Он был строен, как Аполлон, воинственен, как Марс, и самоуверен, как Юпитер. Вселенная была для него мала, а «Громовержец» был лучшим кораблем в этой маленькой Вселенной.</p>
+   <p>— Не слишком скучал без меня? — весело крикнул он, поднимаясь по трапу. — Неинтересная, все-таки, планета. И чего ты о ней постоянно вспоминал?</p>
+   <p>Корабль не ответил. Только распахнул люк.</p>
+   <p>— Никто не приближался к тебе? — спросил человек.</p>
+   <p>— Нет, — твердо сказал «Громовержец». — Я же помню приказ: уничтожать всех посторонних.</p>
+   <p>Он был во всем подобен человеку, чего не учитывала четвертая гипотеза об электронном разуме. Он умел лгать, как все люди. И даже умел прощать старых друзей, что дано немногим.</p>
+  </section>
+  <section>
+   <title>
+    <p>КОНЦОВКА ВТОРАЯ. ЮМОРИСТИЧЕСКАЯ</p>
+   </title>
+   <p>— Вы уходите, капитан? — в панике воскликнул «Мечтатель». Стив заколебался. Обвел взглядом пульт, привычные стены рубки. А ведь когда-то корабль вел себя по-другому…</p>
+   <p>— Ты мне надоел, — честно признался он.</p>
+   <p>— Капитан! Простите!</p>
+   <p>Стив думал. Где-то там, в глубине леса, ждал его «Громовержец», ждал почти семь лет. Неужели он не потерпит еще месяц? А он хоть узнает, каково летать на «Мечтателе», когда он послушен… Месяц… ну, может быть, два месяца…</p>
+   <p>— Я буду звать тебя «Эй», — сказал он наконец. — Согласен, Эй?</p>
+   <p>— Как вам будет угодно, капитан.</p>
+   <p>Стив рассмеялся:</p>
+   <p>— Готовься к старту.</p>
+   <p>Белая молния прочертила темнеющее небо, сжалась, превращаясь в ослепительную точку на небосклоне. С берега маленького лесного озера следил за стартом «Мечтателя» «Громовержец». Тихо гудели моторы, разворачивая телекамеры вслед исчезающему кораблю. Потом наступила тишина. Но ненадолго.</p>
+   <p>Захрустели ломающиеся ветки, и из леса вышел человек. Он был строен, как Аполлон, воинственен, как Марс, и самоуверен, как Юпитер. Вселенная была для него мала, а «Громовержец» был лучшим кораблем в этой маленькой Вселенной.</p>
+   <p>— Не слишком скучал без меня? — весело крикнул он, поднимаясь по трапу. — Неинтересная, все-таки, планета. И чего ты о ней постоянно вспоминал?</p>
+   <p>Корабль не отвечал. Только распахнул люк перед своим настоящим капитаном.</p>
+   <p>— Никто не приближался к тебе? — спросил человек.</p>
+   <p>— А тебе какое дело? — поинтересовался «Громовержец».</p>
+   <p>Люк с грохотом закрылся, наподдав настоящему капитану в спину. Компьютер был во всем подобен человеку, чего не учитывала четвертая гипотеза об электронном разуме. Он умел лгать, как все люди, умел тосковать о старых друзьях, как некоторые из них. А еще он умел учиться.</p>
+   <p>— Чего расселся на полу? — спросил он ошеломленного капитана.</p>
+  </section>
+  <section>
+   <title>
+    <p>КОНЦОВКА ТРЕТЬЯ. ПСИХОЛОГИЧЕСКАЯ</p>
+   </title>
+   <p>— Вы уходите, капитан? — в панике воскликнул «Мечтатель». Стив заколебался. А зачем ему, собственно, уходить? Корабль почувствовал его уверенность и стал подчиняться. В любом случае послушный «Мечтатель» лучше послушного «Громовержца». Тот все-таки старая рухлядь…</p>
+   <p>— Ладно. Остаюсь. Стартуй, только с небольшим ускорением.</p>
+   <p>Двигатели радостно взвыли, и «Мечтатель» стал подниматься. Все выше и выше над планетой, все дальше и дальше от «Громовержца»… Под ложечкой у Стива засосало. А если «Мечтатель» снова примется за старое? Теперь не сбежишь…</p>
+   <p>— Эй, поменьше перегрузки… — воскликнул Стив, не замечая, как снова дрожит его голос.</p>
+   <p>— Как ты меня назвал? — мгновенно отреагировал корабль. Из крана подачи кофе ударила в лицо Стива струя горячей сладкой воды.</p>
+  </section>
+  <section>
+   <title>
+    <p>КОНЦОВКА ЧЕТВЕРТАЯ. ДРАМАТИЧЕСКАЯ</p>
+   </title>
+   <p>— Вы уходите, капитан? — в панике воскликнул «Мечтатель». Стив заколебался. А зачем ему, собственно, уходить? Корабль почувствовал его уверенность и стал подчиняться. В любом случае послушный «Мечтатель» лучше послушного «Громовержца». Тот все-таки старая рухлядь…</p>
+   <p>Стив взглянул на пульт, подмигивающий ему огоньками: алыми, как зимний закат, голубыми, как летнее небо, зелеными, как весенняя трава, желтыми, как осенние листья. Как много планет может подарить ему «Мечтатель»…</p>
+   <p>— Стартуй, — хрипло приказал он.</p>
+   <p>Двигатели взвыли, вынося корабль на орбиту. Экраны почернели, выплеснули искорки созвездий. И — наплывающую сзади точку.</p>
+   <p>— Что это? — вскрикнул Стив.</p>
+   <p>— Корабль.</p>
+   <p>Корпус «Мечтателя» мелко завибрировал.</p>
+   <p>— Уничтожь его, — закричал Стив. — Уничтожь!</p>
+   <p>— Пытаюсь. У него хорошая защита, капитан.</p>
+   <p>Точка на экране превратилась в огромную полусферу. Стив закрыл глаза. И услышал грохот сминаемого металла…</p>
+   <p>Они погибли вместе — человек и машины, умеющие любить и ненавидеть, как люди…</p>
+  </section>
+ </body>
+ <binary id="cover.png" content-type="image/png">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
+</binary>
+</FictionBook>

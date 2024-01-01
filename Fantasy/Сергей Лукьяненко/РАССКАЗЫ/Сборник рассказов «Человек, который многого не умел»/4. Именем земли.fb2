@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Сергей</first-name>
+    <last-name>Лукьяненко</last-name>
+   </author>
+   <book-title>Именем земли</book-title>
+   <annotation>
+    <p>Люди создали космическую империю и поддерживают ее стабильность с помощью оружия, подавляя мятежи на ее планетах. Никто не видел Землю, но все знали о ней. Когда вспыхнул очередной мятеж на 156-й населенной планете седьмой галактической зоны, во время военных действий капитан понимает, что это Земля.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>ergiev</nickname>
+   </author>
+   <program-used>LibRusEc kit, FB Editor v2.3</program-used>
+   <date value="2007-06-11">2007-06-11</date>
+   <id>Mon Jun 11 02:06:25 2007</id>
+   <version>1.1</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Сергей Лукьяненко</p>
+   <p>Именем земли</p>
+  </title>
+  <section>
+   <cite>
+    <p>Центральный штаб Сообщества</p>
+    <p>Капитану крейсера «Рубеж».</p>
+    <p>Срочно. Секретно. Голубой шифр.</p>
+    <p>Файл распечатки 23-А:</p>
+    <p>«Получением настоящего приказа немедленно вывести крейсер в двенадцатый планетарный сектор восьмой галактической зоны. 16 марта, 38.09.17 единого времени ожидается прохождение в секторе конвоя Лотанского десанта. Конвой и охрану уничтожить.</p>
+    <p>Именем Земли.»</p>
+   </cite>
+   <p>Они разворачивались. В космосе нет веса, но остается масса, и двести тысяч тонн металла не затормозить мгновенно. Они разворачивались, и пальцы, вдавленные в клавиши форсажа двигателей, уже не могли ничем помочь. Неделю назад на далекой планете Лотан земной агент равнодушно взглянул на маршрутную карту конвоя. Три дня назад в Центральном штабе защиты Земли антенны грависвязи приняли его короткий доклад. Кто-то из офицеров сверился с компьютером и пожал плечами — на перехват успевал лишь один крейсер — «Рубеж». Возможно, он даже посоветовался с начальником штаба, и тот с сожалением вздохнул. Но слишком несоизмеримы цены крейсер, один из сотен, несущих патрульную службу, и набитый десантниками конвой врага. И их бросили в бой — в бой без надежды победить и без надежды выжить…</p>
+   <p>Они разворачивались. Вряд ли хоть половина людей в рубке понимала, что это значит. И уж точно не подозревали о происходящем сотни астронавтов на боевых постах корабля. В наушниках бились, мешая друг другу, их крики, просьбы, доклады…</p>
+   <p>— Главный пост, главный…</p>
+   <p>— Он уходит из сектора поражения, подбавьте же…</p>
+   <p>— Рубка, у нас плывет защита, до двух рентген в максимуме, ждем разрешения на эвакуацию…</p>
+   <p>— Главный пост…</p>
+   <p>— Да влепите же ему кто-нибудь, он в мертвой зоне!</p>
+   <p>— Почему молчит правый сектор?!</p>
+   <p>— Капитан, двигатели на пределе, можно ли снять форсаж?</p>
+   <p>— Главный пост…</p>
+   <p>— Правый сектор! Он же прет на тебя!</p>
+   <p>Виктор повернулся в кресле. Руки соскользнули с пульта, расслабились впервые после двухчасового бега по клавиатуре. Он посмотрел на первого помощника и поразился его позе: спокойной, отдыхающей, такой нелепой среди скорчившихся над пультами командиров… И поймал его взгляд.</p>
+   <p>Первый помощник тоже все понимал. Они разворачивались прямо под удар лотанского линкора, разворачивались правым бортом, ослепшим, оглохшим, онемевшим в самом начале боя, после сильнейшего радиационного удара. Если там, среди оплавленной брони и застывшей серыми буграми противопожарной пены, и остались орудия, ими уже некому было управлять. И ничего не оставалось, кроме как ждать, ждать те последние секунды, пока враг не выйдет на дистанцию абсолютного поражения, и тот, неведомый ему лотанский капитан, не скажет в микрофон: «Всем бортовым — залп!»</p>
+   <p>— Мы же лезем под удар! — вдруг вскрикнул за спиной кто-то из штурманской группы. И сразу же в наушниках наступила тишина неестественная, нереальная… Один за другим люди отрывались от пультов, с пробуждающимся ужасом вглядывались в экраны. Там, среди немигающих, застывших звезд, разгоралась ослепительная точка — приближающийся линкор.</p>
+   <p>«Он пройдет мимо нас на расстоянии пяти-шести километров. И ударит при максимальном сближении. Элементарный прием, я поступил бы так же, подумал Виктор. — Они давно поняли, что наш правый борт небоеспособен, и ждали только удобного момента…» На мгновение ему стало жалко — нет, не себя, и не корабль, и не идущий на смерть экипаж, — ему стало безумно жалко его крошечного шанса на победу, который они едва не использовали. Они почти могли победить… Виктор закрыл глаза и поразился длящейся до сих пор тишине. Ему захотелось, чтобы эта тишина осталась до самого конца…</p>
+   <p>Корабль вздрогнул, и наушники взревели. Виктор дернулся в кресле, стягивая с головы гибкую дугу, наполненную чужими голосами. Но так и застыл, глядя на экран, где разваливалась, расползалась багровым шаром черточка вражеского линкора…</p>
+   <p>…Он шел по главному коридору, где уже включили гравитацию, и ненужные теперь магнитные ботинки звонко цокали по полу. Навстречу то и дело пробегали люди, неразличимые в жидком свете уцелевших ламп, громоздкие и неуклюжие от боевых скафандров. Несколько раз Виктора толкали, однажды даже сбили с ног, ругнувшись, помогли встать. Сзади беззвучной тенью шел первый помощник. Виктор терпел до тех пор, пока тот не втиснулся вместе с ним в узкую кабинку аварийного лифта.</p>
+   <p>— Карлос, ваше место в рубке.</p>
+   <p>— Как и ваше, капитан.</p>
+   <p>Корианец первый раз посмел ответить ему так дерзко. Его смуглое лицо с короткой бородкой оставалось, впрочем, почтительным, как и раньше.</p>
+   <p>— Карлос, в отсутствии меня, вашего <emphasis>капитана</emphasis>, вы должны быть в рубке.</p>
+   <p>— В боевой обстановке. Но бой кончился.</p>
+   <p>Да, бой кончился. Они победили.</p>
+   <p>Уже не оглядываясь на помощника, Виктор вышел из лифта. Здесь, на распределительной площадке правого сектора, по крайней мере было светло. Два или три ремонтных робота стояли в углах, задрав в потолок наплечные прожекторы. Потолок, еще утром гладкий, сделался рифленым, а темные диски плафонов свисали с него на блестящих бронированных кабелях. Возле черных провалов транспортных коридоров медленно ворочались черепахообразные роботы-дезактиваторы. Кто-то из управляющих ими людей повернулся на звук открывающихся дверей, закричал:</p>
+   <p>— Оденьте шлем, вы что, ошалели? Здесь все «светится»!</p>
+   <p>Виктор торопливо защелкнул шлем — наручный индикатор радиации действительно наливался красным. Подошел к одернувшему его человеку — это был начальник ремонтников Ольсон.</p>
+   <p>— Капитан? — похоже, Ольсон чуть смутился. — Ремонтная группа крейсера выполняет задание по…</p>
+   <p>— Погоди. Где остальные? Почему вас только… — Виктор обвел взглядом помещение, — трое?</p>
+   <p>— Остальные у двигателистов. Реакторы едва не пошли вразнос. А здесь… здесь нечего ремонтировать, капитан.</p>
+   <p>Виктор посмотрел в дрожащую мглу коридоров, поверх выпуклых корпусов роботов. В глубине угадывались неясные отблески.</p>
+   <p>— Оттуда хоть кто-нибудь вышел?</p>
+   <p>— Нет. Там нет живых, капитан.</p>
+   <p>— Есть.</p>
+   <p>Если Ольсон и хотел возразить, он не успел этого сделать. Ближайший робот вдруг предостерегающе загудел, рванулся в проем коридора. Из его корпуса выдвигались вверх, расходились павлиньим хвостом разноцветные полупрозрачные пластины.</p>
+   <p>— В лифт!</p>
+   <p>Ольсон толкнул Виктора назад.</p>
+   <p>— Радиационный пик, видимо, где-то не выдержали переборки…</p>
+   <p>Еще два робота подъехали к ним, прикрыли радужными защитными экранами. Карлос поежился, ощутимо даже под скафандром, посмотрел на раскрытые двери лифта, но не сделал ни шагу. Виктор коротко бросил ему: «В рубку!» — и посмотрел на Ольсона:</p>
+   <p>— Вы остаетесь?</p>
+   <p>— У меня усиленный скафандр.</p>
+   <p>— Ольсон, где-то там, в первом секторе, человек, который спас крейсер. Даже если он уже мертв, его надо найти.</p>
+   <p>Ольсон ответил не сразу. Посмотрел в сторону мертвых коридоров, замотал головой. Потом перевел взгляд на Виктора и смешался.</p>
+   <p>— Ольсон, объясните своим людям, добровольцы должны найтись…</p>
+   <p>— Я пойду сам.</p>
+   <p>Виктор кивнул, словно и не ожидал другого ответа. Добавил:</p>
+   <p>— Его надо искать где-то возле главных излучателей правого борта. Только залпом главного калибра можно было разнести линкор.</p>
+   <p>Конвой они настигли после двухчасовой погони. За время короткого боя охраны с крейсером десантные корабли пытались скрыться. Они шли с максимальной скоростью, похожие на стаю жирных, покрытых блестящей чешуей, спешащих на нерест рыб. Каждый из десантных кораблей едва ли не в два раза превосходил по размерам крейсер. Но, несмотря на свои размеры, на набитые танками и вымуштрованными солдатами трюмы, сейчас они были абсолютно беззащитны. Когда Виктор вернулся в рубку, там заканчивали последние расчеты оружейники. Десантные корабли на экранах уже лежали в ажурной сеточке прицелов. Энергетик негромко спорил с оружейниками о мощности, которую он может дать на уничтожение десанта. Все было как-то буднично и деловито и ничуть не походило на безумную горячку боя, во время которого они уничтожили эсминцы и линкор охраны. Устроившись в своем кресле, Виктор привычно посмотрел в сторону помощника. Карлос явно почувствовал его слабость, его секундное отключение в конце боя, когда Виктор поверил в неизбежность поражения. Он очень хотел занять его место, этот смуглый, подтянутый офицер, которого ждали на Кориане полторы сотни родственников из фамильного клана, пославшие его когда-то с отсталой, полудикой планеты в Академию Центрального Штаба…</p>
+   <p>На пульте замигал сигнал вызова.</p>
+   <p>— Капитан…</p>
+   <p>Виктор даже не сразу узнал голос Ольсона:</p>
+   <p>— Мы нашли его.</p>
+   <p>— Кто?</p>
+   <p>— Наводчик третьей батареи Демченко. Он действительно был у главного излучателя.</p>
+   <p>Что-то знакомое послышалось Виктору в этом имени. Он пришел на крейсер недавно и не знал еще всех своих подчиненных, но это имя почему-то не было для него пустым звуком. Демченко… Наводчик…</p>
+   <p>— Землянин?!</p>
+   <p>— Да.</p>
+   <p>— Он… жив?</p>
+   <p>— Да.</p>
+   <p>Что-то, похожее на суеверный ужас, коснулось Виктора. Уничтожить вражеский корабль да еще и выжить в радиоактивном хаосе — на такое способен только землянин.</p>
+   <p>— Капитан…</p>
+   <p>— Я слушаю вас, Ольсон.</p>
+   <p>— Он хочет увидеть вас.</p>
+   <p>— Меня?</p>
+   <p>— Да. Он сейчас в реанимационном боксе номер 3.</p>
+   <p>— Я приду. А где вы, Ольсон?</p>
+   <p>Виктору послышался слабый смешок.</p>
+   <p>— В соседнем боксе. Мне удалось протащить с собой фон.</p>
+   <p>— Вы будете представлены к награде.</p>
+   <p>Голос Ольсона посерьезнел. Он четко выговорил:</p>
+   <p>— Во имя Земли.</p>
+   <p>— Именем Земли.</p>
+   <p>Виктор отключил связь. Подумал секунду и набрал на пульте номер первого помощника. Сидящий в двух метрах от него Карлос дернулся, осознавая оскорбление, но ответил без промедления.</p>
+   <p>— Первому помощнику, — выговаривая каждую букву, произнес Виктор. — Принять командование боем на время моего отсутствия. Перед уничтожением десантных кораблей дать им время на спуск шлюпок.</p>
+   <p>Подумал и добавил:</p>
+   <p>— Согласно 16 параграфу Конвенции о гуманности в ведении межзвездной войны.</p>
+   <p>Врач шел рядом, похрустывая белым одноразовым комбинезоном, процеживая слова сквозь закрывающую почти все лицо маску. К Виктору он вышел прямо из операционной, не переодеваясь, лишь скинув заляпанный кровью пластиковый фартук.</p>
+   <p>— Я бы мог отказать вам в посещении — медицинская служба не подчинена командованию в этих вопросах…</p>
+   <p>Они прошли узеньким коридорчиком с густо-оливковыми стенами, испещренными маленькими дырочками. Стены слабо гудели, обдавая их волнами озона и фиолетового света. Возле наглухо закрытой двери медицинский робот — узенький, высокий, неизбежно белый, похожий на нескладного подростка-акселерата — провел по их одежде длинными гибкими манипуляторами, проверяя качество дезинфекции.</p>
+   <p>— Но вряд ли ваш визит ухудшит…</p>
+   <p>— Скажите, — Виктор протянул руку к двери и та, не ожидая его прикосновения, уползла вбок, — у него есть шанс?</p>
+   <p>— Ни малейшего. Поэтому я вас пускаю.</p>
+   <p>Он шел не к богу и не к сверхчеловеку. Землянин умирал, и, поняв это, Виктор ощутил противоестественное облегчение.</p>
+   <p>Землянин лежал перед ним — обнаженная кукла, окутанная проводами и трубочками, с серым диском кардиомонитора на груди. Он был в сознании, без малейших следов ожогов, которых подсознательно ожидал Виктор, и лишь странная неподвижность крепкого мускулистого тела выдавала подползающую к нему смерть.</p>
+   <p>— Вы пришли потому, что это ваш долг, капитан?</p>
+   <p>Это были первые слова землянина, и Виктор вздрогнул.</p>
+   <p>— Нет. Не только.</p>
+   <p>— Потому, что я попросил вас прийти?</p>
+   <p>— Наверное, нет…</p>
+   <p>Демченко вздохнул, и Виктору послышалось удовлетворение.</p>
+   <p>— Тогда садитесь. Да, на койку, больше здесь ничего нет… Так зачем же вы пришли?</p>
+   <p>Странный разговор. Демченко словно допрашивал его.</p>
+   <p>— Потому, что это мой долг, и потому, что вы просили, и потому, что мне захотелось взглянуть на человека, сумевшего сделать то, что сделали вы. Удовлетворены?</p>
+   <p>Землянин слабо кивнул.</p>
+   <p>— Тогда встречный вопрос: зачем вы меня звали?</p>
+   <p>С минуту Демченко молчал. Потом спросил:</p>
+   <p>— Бой еще идет?</p>
+   <p>— Да. Мы только что догнали десант.</p>
+   <p>— Мне страшно умирать одному, — просто сказал наводчик. — Наверное, это признание не украшает офицера, но теперь уже все равно. А самый бесполезный человек во время боя — капитан. Вы можете посидеть со мной без ущерба для крейсера.</p>
+   <p>Виктор вздрогнул.</p>
+   <p>— Я не хотел вас обидеть. Вы хороший капитан, Виктор. Вас не оскорбит, что я называю вас по имени?</p>
+   <p>— Нет. На моей планете нет фамилий.</p>
+   <p>— Алькор-туманный?</p>
+   <p>— Да. Как вы уцелели, Демченко?</p>
+   <p>— Излишняя дисциплинированность. Я был единственным, кто надел перед боем скафандр. Там же жуткая теснота, в боевых постах… — Теперь он говорил очень тихо, и Виктору приходилось напрягаться, чтобы разобрать слова. — А когда я очнулся и увидел, что поганец несется на нас… Честь планеты. Я же единственный землянин на корабле, я обязан был сделать больше, чем другие…</p>
+   <p>— Я представляю вас к ордену Солнца, Демченко. Уж на это капитан еще нужен, — Виктор попробовал улыбнуться.</p>
+   <p>— Мне уже не одеть никакого ордена. А Солнце… Оно всегда со мной. А вы видели Солнце, капитан?</p>
+   <p>Виктор покачал головой.</p>
+   <p>— Даже смешно… Мы воюем во имя Земли и именем Земли. Усмиряем колонии, требующие независимости, мотаемся из одного конца Галактики в другой… Умираем и убиваем… То есть убиваем и умираем… — Демченко на секунду прикрыл глаза, облизнул губы. — А Землю, Солнце видел только я, один из всего экипажа…</p>
+   <p>— Земля — это символ, Демченко. Колыбель всех планет, всех цивилизаций. Наш флаг, если хотите.</p>
+   <p>— Для меня Земля — это не флаг. Это голубое небо… вы знаете, как красиво, когда небо… да, у вас оно тоже голубое. Это зеленые леса. Это снег и холод… И раскаленный жарой песок тоже… Это мой город… города могут быть красивыми, когда им больше тысячи лет, когда один город не похож на другой…</p>
+   <p>Одна из трубочек, впившихся в тело Демченко, запульсировала, впрыскивая в кровь лекарство, и голос наводчика окреп.</p>
+   <p>— Знаете, я рос в маленьком городке. Вокруг тайга, лес на сотни километров. Город старый-престарый, каменные дома, бетонные дороги… кроме станции космической связи — никаких следов цивилизации. На любой планете таких городов тысячи. А для меня он единственный.</p>
+   <p>— Я понимаю, — осторожно сказал Виктор. — Для меня, например, есть лишь один островок из тысяч островов Алькора-туманного… А для Ольсона один из этажей мегаполиса в Порт-Альве. А для Карлоса — одна из башен кланового замка на Кориане.</p>
+   <p>— Я вообще попал в космос случайно. Не проходил ни по здоровью, ни по интеллектуальным тестам, — все показатели средние… Но очень уж рвался. И смог всех переубедить.</p>
+   <p>— Это счастье для крейсера, что смогли, — искренне сказал Виктор.</p>
+   <p>— Да… Знаете, как я решил, что непременно буду офицером космофлота, стану защищать Землю от врагов? Обыкновенная мальчишеская мечта, только у других это проходит, а у меня осталось. Вы не играли в детстве в космическую войну?</p>
+   <p>— Играл.</p>
+   <p>— Вот и я играл… Я жил в старом доме, ему лет триста, не меньше. А напротив стояло совсем уж древнее здание, там, конечно, никто не жил. Из кирпича… Знаете, что это такое? Да, в отсталых колониях иногда строят из него… Однажды мы играли, что на наш город напали космические захватчики. Меня поставили охранять наш дом. Ну я и додумался — залез в эту кирпичную развалину, поднялся на крышу. Там по краям крыши были маленькие башенки, не представляю, для чего их сделали… Я подергал на одной дверь — она отлетела, там все уже проржавело насквозь. Вошел. Маленькая комнатка, по стенам узкие окошки, как амбразуры. Лучшего и не придумаешь. Весь наш двор был виден как на ладони. Я встал у окна с пистолетом и жду. И вот пока стоял там, словно случилось что-то. Смотрю с высоты на город, на полоску леса вдали, на серую трубу гравиантенны… И чувство, что я действительно все это защищаю. Это словами не выразишь.</p>
+   <p>Демченко замолчал, и Виктор тихо спросил:</p>
+   <p>— А потом?</p>
+   <p>— Потом мои друзья вбегали во двор, а я палил по ним с крыши. У нас были игрушечные пистолеты, стреляющие ампулами с краской. Так полдвора забрызгало красным, словно действительно шел бой. А они даже не могли сообразить, откуда по ним стреляют… Правила у нас были строгие: те, в кого попала хоть капля краски, садились и ждали конца боя. Зеленая трава, дорожки из белого кварцевого песка, десяток неподвижных пацанов, ждущих конца игры… И все в красных пятнах. Это было так похоже на настоящую войну, которую мы только в кино и видели, что мне стало страшно. Я даже радоваться своей победе не мог. — Демченко перевел дыхание и закончил: — С этого все и началось, с детской игры… И теперь должно кончиться…</p>
+   <p>Он вдруг дернулся и судорожным рывком повернул голову вбок. Его тошнило. Виктор потянулся было к нему, но из стены уже выскользнули гибкие щупальца манипуляторов, подхватили тело наводчика. Через минуту Демченко снова лежал неподвижно.</p>
+   <p>— Капитан, вас кто-нибудь ждет дома?</p>
+   <p>Виктор кивнул.</p>
+   <p>— Ждут. — Он вспомнил низкое серое небо и шум набегающих на берег волн, и мелкую привычную морось, беззвучно ложащуюся на скалы. — У нас нет семей в земном понимании, но…</p>
+   <p>— А меня ждет только Земля.</p>
+   <p>Демченко улыбнулся и закрыл глаза. А в стене отчаянно заверещал зуммер, снова выметнулись манипуляторы. Коснулись тела наводчика — и медленно поползли обратно.</p>
+   <p>В рубке было тихо. Почти половина кресел пустовала — командиры расходились. На экранах внешнего обзора плыли розовые, нежно мерцающие облачка пыли. Секунду Виктор постоял, глядя на экраны, потом спросил:</p>
+   <p>— Вы дали им сигнал о спуске шлюпок?</p>
+   <p>— Дали, — с готовностью произнес кто-то.</p>
+   <p>— Ну и?..</p>
+   <p>— Лотанцы гордый народ. Они умеют воевать до конца.</p>
+   <p>Розовые облачка на экране медленно угасали. Виктор сел в свое кресло, включил общую трансляцию. Произнес, наклоняясь над микрофоном:</p>
+   <p>— Экипаж крейсера «Рубеж», за мужество и героизм, проявленные в бою с превосходящими силами противника, я благодарю вас от имени Главного штаба… и от себя лично. Весь личный состав будет представлен к наградам. Именем Земли!</p>
+   <p>— Во имя Земли… — разноголосо отозвались наушники, лежащие на краю пульта.</p>
+   <empty-line/>
+   <cite>
+    <p>Центральный штаб Сообщества</p>
+    <p>Капитану крейсера «Рубеж».</p>
+    <p>Срочно. Секретно. Синий шифр.</p>
+    <p>Файл распечатки 8-Н:</p>
+    <p>«Получением настоящего приказа немедленно вывести крейсер к 156 населенной планете седьмой галактической зоны. На планете поднят мятеж против Центрального штаба.</p>
+    <p>Ваша задача — захватить и удерживать до подхода главных сил станцию грависвязи, не допуская связи планеты с неблагонадежными цивилизациями в составе Сообщества.</p>
+    <p>Именем Земли.»</p>
+   </cite>
+   <p>Крейсера редко садятся на планеты. Им тесно даже на самых больших космодромах, их двигатели выжигают леса и отравляют атмосферу даже на самом тихом режиме. Но иного пути для высадки десанта крейсер не имеет…</p>
+   <p>Они опустились в лесу на маленькое озерцо. Вода закипела, колонной белого пара поднялась в небо, навстречу серой металлической громаде. Когда опоры коснулись дна озера, лишь черные, обугленные рыбы напоминали о том, что еще недавно в маленькой котловине были вода и жизнь.</p>
+   <p>С высоты главной рубки Виктор видел место приземления во всех деталях. Серовато-белесое, в черных кляксах, дно озера. Опоясывающее озеро, выжженное до белизны, кольцо пепла. Черные, как бы съежившиеся, скелеты деревьев. А за ними, до самого горизонта, до недалекого городка, вначале робко, а затем все более торжествующе зеленели уцелевшие деревья.</p>
+   <p>— Мы неудачно сели, — ни к кому не обращаясь, сказал Виктор. Он посмотрел туда, где на стыке зеленого леса и голубого неба вставали кажущиеся отсюда игрушечными дома. — Город лежит между нами и станцией связи, придется идти через него…</p>
+   <p>— С других сторон станцию окружают болота, — отпарировал навигатор. — Ничего. Я не думаю, что с городом будет много возни.</p>
+   <p>Он ошибся.</p>
+   <p>Машину начальника командира десанта сбили еще на окраине. Сейчас она горела — дымно, неохотно, она вообще не должна была гореть…</p>
+   <p>Самого командира Виктор увидел на пороге занятого под временный штаб особняка. Грузный, широкоплечий Вольф Шнайдер что-то говорил в зажатый в ладони передатчик. Передатчик был совсем крошечным и казалось, что Вольф вполголоса ругается, яростно размахивая перед лицом кулаком. Увидев Виктора, он нахмурился.</p>
+   <p>— Вам следует руководить боем с крейсера, капитан. Здесь опасно.</p>
+   <p>Словно подтверждая его слова, невдалеке грохнул короткий, но сильный взрыв.</p>
+   <p>— На корабле остался Карлос. Почему вы остановились?</p>
+   <p>— Это сумасшедшая планета, капитан. В нас палят из каждого окна… Вольф поднес к губам микрофон, бросил туда: — Третий и пятый, сближайтесь… — и снова повернулся к капитану: — Не представляю, где они раскопали столько старого оружия. Один из бронеходов подбили из пороховой пушки. Защита не отреагировала на снаряд — тот летел слишком медленно. Но броню разнес не хуже, чем боевой лазер… Да, лазеры у них есть тоже…</p>
+   <p>Виктор медленно посмотрел по сторонам и почувствовал, как наплывает смутная тревога. Притихшие дома с попрятавшимися жителями, стилизованные под старину, сложенные из камня особняки, даже яростное сопротивление десантникам — все это было знакомо и привычно. Но что-то настораживало…</p>
+   <p>— Если бы дать по городу из главного калибра, — негромко произнес Вольф.</p>
+   <p>— Нет.</p>
+   <p>— Или по станции… Разнести антенну…</p>
+   <p>Серая колонна гравиантенны была видна даже отсюда. Она вставала из-за домов и на вершине ее, вознесенной на двухкилометровую высоту, подрагивали голубые молнии — станция работала.</p>
+   <p>— Нельзя, — с искренним сожалением ответил Виктор. — Станцию приказано захватить, а не уничтожить…</p>
+   <p>Вдоль улицы с визгом пронесся огненный клубок — выстрелили из плазмомета. Следом прогрохотал бронеход. За ним устало и безмолвно пробежали несколько десантников. Виктор взглянул на Вольфа, снова уткнувшегося в передатчик, на свой вездеход с замершей возле него охраной… И бросился вслед десантникам.</p>
+   <p>Он не заметил, как остался один. Еще недавно вместе со смутно знакомыми ребятами из пилотажной группы Виктор палил по высокому зданию из бетона и черного зеркального стекла. Из здания огрызались — разрывы самонаводящихся ракет ложились все ближе и ближе. Потом лучи их бластеров подрубили здание, разнесли в пыль первые этажи, и вся бетонная коробка обрушилась вниз, погребая стрелявших… Они бежали дальше, и никому из десантников не было дела до того, что рядом с ними — капитан крейсера, самый бесполезный человек в бою… А потом он остался один.</p>
+   <p>Улочка была узкой, извилистой, зажатая между глухими стенами домов. Редкие окна, еще более редкие двери, выходящие в эту бетонную расселину в теле города… Виктор шел, держа бластер наизготовку, время от времени щелкая переключателем рации. Связи не было. Наверное, мешали дома…</p>
+   <p>Улица кончилась неожиданно. Дома словно расступились, и Виктор оказался на маленькой площади, а может быть, большом дворе. Скорее, дворе — здесь было слишком много газонов, дорожек из белого песка, беседок, скамеечек… С одной стороны на площадку выходил торец странного, явно заброшенного здания, — шесть или семь этажей из красно-коричневого кирпича, маленькие декоративные башенки на крыше…</p>
+   <p>Виктор сделал несколько шагов, выходя на середину двора, и остановился. Где же он видел этот двор? Где? Видел… или слышал о нем?</p>
+   <p>На одной из башенок вдруг полыхнула яркая, ослепительная точка. Виктор не почувствовал ни толчка, ни боли. Просто в ушах зазвенело, а ноги стали подкашиваться. Он поднял руку, ловя башенку в прицел бластера… и неожиданно словно бы увидал себя со стороны. Сверху. Из этой башенки. Глазами мальчишки с игрушечным пистолетом в руках…</p>
+   <p>— Демченко…</p>
+   <p>Он опустился на колени, так и не выстрелив в ответ. Песок вокруг был алым — и почему он раньше этого не замечал? И земля раскачивается, как от близких взрывов — почему он этого не чувствовал?.. Земля.</p>
+   <p>Виктор подтянул руку с передатчиком к лицу. И не удивился, что тот заработал — должно же было ему повезти хоть в чем-то.</p>
+   <p>— В связи с отсутствием капитана на связи в течение девяноста минут, в соответствии с уставом, беру командование крейсером, — шипел в рации голос Карлоса, — на себя…</p>
+   <p>Откуда-то со стороны Виктор услышал свой голос:</p>
+   <p>— Говорит капитан.</p>
+   <p>Голос Карлоса исчез, растворился. Сквозь подплывающую сонливость Виктор подумал, что теперь он знает, что надо было ответить Демченко, когда тот назвал капитана самым бесполезным человеком в бою. Да, капитан не нужен, чтобы вести бой. Он нужен, чтобы вовремя его остановить. И пока первый помощник не поймет этого, он не станет настоящим капитаном…</p>
+   <p>— Прекратить огонь. Именем Земли.</p>
+   <p>Он произнес эти слова и замер, словно надеясь услышать подтверждение. Но сквозь звон в ушах уже не пробивались ничьи голоса. И лишь Земля — его мать, его родина, его знамя, все сильней и сильней тянула его к себе…</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="application/octet-stream">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
+</binary>
+</FictionBook>
