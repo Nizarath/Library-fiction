@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Dan</first-name>
+    <last-name>Simmons</last-name>
+   </author>
+   <book-title>Hugh Selwyn Mauberly</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 3.34.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2018-11-22">22.11.2018</date>
+   <id>EB21589F-B98F-4DF0-8FA4-1424E19BDA4B</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>HUGH SELWYN MAUBERLY</p>
+   <p>Dan Simmons</p>
+   <p>(a poem of sorts)</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p><strong>Introduction</strong></p>
+   <p>(from <emphasis>Lovedeath</emphasis>, numbered edition)</p>
+   <empty-line/>
+   <p>The following is two excerpts from my poem “Hugh Selwyn Mauberly”.</p>
+   <p>I thought twenty-two years ago, that it was a good parable . . . for the tragedy of America’s experience in Vietnam.</p>
+   <p>I still think that is true.</p>
+   <empty-line/>
+   <empty-line/>
+   <poem>
+    <stanza>
+     <v>These fought in any case,</v>
+     <v>and some believing,</v>
+     <v>pro domo, in any case . . .</v>
+    </stanza>
+    <stanza>
+     <v>Some quick to arm,</v>
+     <v>some for adventure,</v>
+     <v>some from fear of weakness,</v>
+     <v>some from fear of censure,</v>
+     <v>some for love of slaughter, in imagination,</v>
+     <v>learning later . . .</v>
+     <v>some in fear, learning love of slaughter;</v>
+     <v>Died some, pro patria</v>
+     <v>non “dulce” non “et decor” . . .</v>
+    </stanza>
+    <stanza>
+     <v>Walked eye-deep in hell</v>
+     <v>believing in old men’s lies, then unbelieving,</v>
+     <v>came home, home to a lie,</v>
+     <v>home to many deceits,</v>
+     <v>home to old lies and new infamy;</v>
+     <v>usury age-old and age-thick</v>
+     <v>and liars in public places.</v>
+    </stanza>
+    <stanza>
+     <v>Daring as never before, wastage as never before.</v>
+     <v>Young blood and high blood,</v>
+     <v>fair cheeks, and fine bodies;</v>
+     <v>fortitude as never before</v>
+     <v>frankness as never before,</v>
+     <v>disillusions as never told in the old days,</v>
+     <v>hysterias, trench confessions,</v>
+     <v>laughter out of dead bellies.</v>
+    </stanza>
+    <stanza>
+     <v>There died a myriad,</v>
+     <v>And of the best, among them,</v>
+     <v>For an old bitch gone in the teeth,</v>
+     <v>For a botched civilization,</v>
+     <v>Charm, smiling at the good mouth,</v>
+     <v>Quick eyes gone under earth’s lid,</v>
+     <v>For two gross of broken statues,</v>
+     <v>For a few thousand battered books.</v>
+    </stanza>
+    <stanza>
+     <v>And so we return to “Liebestod.”</v>
+     <v>To love. And to death.</v>
+     <v>And, I hope, to love again.</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+  </section>
+ </body>
+</FictionBook>
