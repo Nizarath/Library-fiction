@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert </first-name>
+    <last-name>Sheckley</last-name>
+   </author>
+   <book-title>Bad Medicine</book-title>
+   <annotation>
+    <p>A man looking for psychotherapy is accidentally sold a Martian therapeutic machine — with unexpected consequences.</p>
+    <empty-line/>
+    <p>First published in <emphasis>Galaxy 1956/7</emphasis></p>
+    <p>The story was published in 1957 by Bantam Books as a part of<emphasis> the Pilgrimage to Earth</emphasis> collection of science fiction short stories by Robert Sheckley.</p>
+    <empty-line/>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#sheckley_bad_medicine.jpg"/></coverpage>
+   <lang>en</lang>
+   <src-lang>en</src-lang>
+   <sequence name="Pilgrimage to Earth" number="9"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>FB Editor v2.0</program-used>
+   <date value="2010-04-02">02 April 2010</date>
+   <id>F3156F48-735F-4A93-B2E4-6F1724E55C7C</id>
+   <version>1.0</version>
+   <history>
+    <p>v 1.0 создание fb2 quiritius</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Galaxy 1956/7</book-name>
+   <year>1956</year>
+  </publish-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Robert Sheckley</p>
+    <p>Bad Medicine</p>
+   </title>
+   <p>On May 2, 2103, Elwood Caswell walked rapidly down Broadway with a loaded revolver hidden in his coat pocket. He didn't want to use the weapon, but feared he might anyhow. This was a justifiable assumption, for Caswell was a homicidal maniac.</p>
+   <p>It was a gentle, misty spring day and the air held the smell of rain and blossoming-dogwood. Caswell gripped the revolver in his sweaty right hand and tried to think of a single valid reason why he should not kill a man named Magnessen, who, the other day, had commented on how well Caswell looked.</p>
+   <p><emphasis>What business was it of Magnessen's how he looked? Damned busybodies, always spoiling things for everybody….</emphasis></p>
+   <p>Caswell was a choleric little man with fierce red eyes, bulldog jowls and ginger-red hair. He was the sort you would expect to find perched on a detergent box, orating to a crowd of lunching businessmen and amused students, shouting, "Mars for the Martians, Venus for the Venusians!"</p>
+   <p>But in truth, Caswell was uninterested in the deplorable social conditions of extraterrestrials. He was a jetbus conductor for the New York Rapid Transit Corporation. He minded his own business. And he was quite mad.</p>
+   <p>Fortunately, he knew this at least part of the time, with at least half of his mind.</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>Perspiring freely, Caswell continued down Broadway toward the 43rd Street branch of Home Therapy Appliances, Inc. His friend Magnessen would be finishing work soon, returning to his little apartment less than a block from Caswell's. How easy it would be, how pleasant, to saunter in, exchange a few words and….</p>
+   <p>No! Caswell took a deep gulp of air and reminded himself that he didn't <emphasis>really</emphasis> want to kill anyone. It was not right to kill people. The authorities would lock him up, his friends wouldn't understand, his mother would never have approved.</p>
+   <p>But these arguments seemed pallid, over-intellectual and entirely without force. The simple fact remained — he wanted to kill Magnessen.</p>
+   <p>Could so strong a desire be wrong? Or even unhealthy?</p>
+   <p>Yes, it could! With an agonized groan, Caswell sprinted the last few steps into the Home Therapy Appliances Store.</p>
+   <p>Just being within such a place gave him an immediate sense of relief. The lighting was discreet, the draperies were neutral, the displays of glittering therapy machines were neither too bland nor obstreperous. It was the kind of place where a man could happily lie down on the carpet in the shadow of the therapy machines, secure in the knowledge that help for any sort of trouble was at hand.</p>
+   <p>A clerk with fair hair and a long, supercilious nose glided up softly, but not <emphasis>too</emphasis> softly, and murmured, "May one help?"</p>
+   <p>"Therapy!" said Caswell.</p>
+   <p>"Of course, sir," the clerk answered, smoothing his lapels and smiling winningly. "That is what we are here for." He gave Caswell a searching look, performed an instant mental diagnosis, and tapped a gleaming white-and-copper machine.</p>
+   <p>"Now this," the clerk said, "is the new Alcoholic Reliever, built by IBM and advertised in the leading magazines. A handsome piece of furniture, I think you will agree, and not out of place in any home. It opens into a television set."</p>
+   <p>With a flick of his narrow wrist, the clerk opened the Alcoholic Reliever, revealing a 52-inch screen.</p>
+   <p>"I need —" Caswell began.</p>
+   <p>"Therapy," the clerk finished for him. "Of course. I just wanted to point out that this model need never cause embarrassment for yourself, your friends or loved ones. Notice, if you will, the recessed dial which controls the desired degree of drinking. See? If you do not wish total abstinence, you can set it to heavy, moderate, social or light. That is a new feature, unique in mechanotherapy."</p>
+   <p>"I am not an alcoholic," Caswell said, with considerable dignity. "The New York Rapid Transit Corporation does not hire alcoholics."</p>
+   <p>"Oh," said the clerk, glancing distrustfully at Caswell's bloodshot eyes. "You seem a little nervous. Perhaps the portable Bendix Anxiety Reducer —"</p>
+   <p>"Anxiety's not my ticket, either. What have you got for homicidal mania?"</p>
+   <p>The clerk pursed his lips. "Schizophrenic or manic-depressive origins?"</p>
+   <p>"I don't know," Caswell admitted, somewhat taken aback.</p>
+   <p>"It really doesn't matter," the clerk told him. "Just a private theory of my own. From my experience in the store, redheads and blonds are prone to schizophrenia, while brunettes incline toward the manic-depressive."</p>
+   <p>"That's interesting. Have you worked here long?"</p>
+   <p>"A week. Now then, here is just what you need, sir." He put his hand affectionately on a squat black machine with chrome trim.</p>
+   <p>"What's that?"</p>
+   <p>"That, sir, is the Rex Regenerator, built by General Motors. Isn't it handsome? It can go with any decor and opens up into a well-stocked bar. Your friends, family, loved ones need never know —"</p>
+   <p>"Will it cure a homicidal urge?" Caswell asked. "A <emphasis>strong</emphasis> one?"</p>
+   <p>"Absolutely. Don't confuse this with the little ten amp neurosis models. This is a hefty, heavy-duty, twenty-five amp machine for a really deep-rooted major condition."</p>
+   <p>"That's what I've got," said Caswell, with pardonable pride.</p>
+   <p>"This baby'll jolt it out of you. Big, heavy-duty thrust bearings! Oversize heat absorbers! Completely insulated! Sensitivity range of over —"</p>
+   <p>"I'll take it," Caswell said. "Right now. I'll pay cash."</p>
+   <p>"Fine! I'll just telephone Storage and —"</p>
+   <p>"This one'll do," Caswell said, pulling out his billfold. "I'm in a hurry to use it. I want to kill my friend Magnessen, you know."</p>
+   <p>The clerk clucked sympathetically. "You wouldn't want to do that … Plus five percent sales tax. Thank you, sir. Full instructions are inside."</p>
+   <p>Caswell thanked him, lifted the Regenerator in both arms and hurried out.</p>
+   <p>After figuring his commission, the clerk smiled to himself and lighted a cigarette. His enjoyment was spoiled when the manager, a large man impressively equipped with pince-nez, marched out of his office.</p>
+   <p>"Haskins," the manager said, "I thought I asked you to rid yourself of that filthy habit."</p>
+   <p>"Yes, Mr. Follansby, sorry, sir," Haskins apologized, snubbing out the cigarette. "I'll use the display Denicotinizer at once. Made rather a good sale, Mr. Follansby. One of the big Rex Regenerators."</p>
+   <p>"Really?" said the manager, impressed. "It isn't often we — wait a minute! You didn't sell the <emphasis>floor model</emphasis>, did you?"</p>
+   <p>"Why — why, I'm afraid I did, Mr. Follansby. The customer was in such a terrible hurry. Was there any reason —"</p>
+   <p>Mr. Follansby gripped his prominent white forehead in both hands, as though he wished to rip it off. "Haskins, I told you. I <emphasis>must</emphasis> have told you! That display Regenerator was a <emphasis>Martian</emphasis> model. For giving mechanotherapy to <emphasis>Martians</emphasis>."</p>
+   <p>"Oh," Haskins said. He thought for a moment. "Oh."</p>
+   <p>Mr. Follansby stared at his clerk in grim silence.</p>
+   <p>"But does it really matter?" Haskins asked quickly. "Surely the machine won't discriminate. I should think it would treat a homicidal tendency even if the patient were not a Martian."</p>
+   <p>"The Martian race has never had the slightest tendency toward homicide. A Martian Regenerator doesn't even process the concept. Of course the Regenerator will treat him. It has to. <emphasis>But what will it treat?"</emphasis></p>
+   <p>"Oh," said Haskins.</p>
+   <p>"That poor devil must be stopped before — you say he was <emphasis>homicidal?</emphasis> I don't know what will happen! Quick, what is his address?"</p>
+   <p>"Well, Mr. Follansby, he was in such a terrible hurry —"</p>
+   <p>The manager gave him a long, unbelieving look. "Get the police! Call the General Motors Security Division! Find him!"</p>
+   <p>Haskins raced for the door.</p>
+   <p>"Wait!" yelled the manager, struggling into a raincoat. "I'm coming, too."</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>Elwood Caswell returned to his apartment by taxicopter. He lugged the Regenerator into his living room, put it down near the couch and studied it thoughtfully.</p>
+   <p>"That clerk was right," he said after a while. "It <emphasis>does</emphasis> go with the room."</p>
+   <p>Esthetically, the Regenerator was a success.</p>
+   <p>Caswell admired it for a few more moments, then went into the kitchen and fixed himself a chicken sandwich. He ate slowly, staring fixedly at a point just above and to the left of his kitchen clock.</p>
+   <p><emphasis>Damn you, Magnessen! Dirty no-good lying shifty-eyed enemy of all that's decent and clean in the world….</emphasis></p>
+   <p>Taking the revolver from his pocket, he laid it on the table. With a stiffened forefinger, he poked it into different positions.</p>
+   <p>It was time to begin therapy.</p>
+   <p>Except that….</p>
+   <p>Caswell realized worriedly that he didn't want to lose the desire to kill Magnessen. What would become of him if he lost that urge? His life would lose all purpose, all coherence, all flavor and zest. It would be quite dull, really.</p>
+   <p>Moreover, he had a great and genuine grievance against Magnessen, one he didn't like to think about.</p>
+   <p>Irene!</p>
+   <p>His poor sister, debauched by the subtle and insidious Magnessen, ruined by him and cast aside. What better reason could a man have to take his revolver and….</p>
+   <p>Caswell finally remembered that he did not have a sister.</p>
+   <p>Now was <emphasis>really</emphasis> the time to begin therapy.</p>
+   <p>He went into the living room and found the operating instructions tucked into a ventilation louver of the machine. He opened them and read:</p>
+   <p>To Operate All Rex Model Regenerators:</p>
+   <p>1. Place the Regenerator near a comfortable couch. (A comfortable couch can be purchased as an additional accessory from any General Motors dealer.)</p>
+   <p>2. Plug in the machine.</p>
+   <p>3. Affix the adjustable contact-band to the forehead.</p>
+   <p>And that's all! Your Regenerator will do the rest! There will be no language bar or dialect problem, since the Regenerator communicates by Direct Sense Contact (Patent Pending). All you must do is cooperate.</p>
+   <p>Try not to feel any embarrassment or shame. Everyone has problems and many are worse than yours! Your Regenerator has no interest in your morals or ethical standards, so don't feel it is 'judging' you. It desires only to aid you in becoming well and happy.</p>
+   <p>As soon as it has collected and processed enough data, your Regenerator will begin treatment. You make the sessions as short or as long as you like. You are the boss! And of course you can end a session at any time.</p>
+   <p>That's all there is to it! Simple, isn't it? Now plug in your General Motors Regenerator and GET SANE!</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>"Nothing hard about that," Caswell said to himself. He pushed the Regenerator closer to the couch and plugged it in. He lifted the headband, started to slip it on, stopped.</p>
+   <p>"I feel so silly!" he giggled.</p>
+   <p>Abruptly he closed his mouth and stared pugnaciously at the black-and-chrome machine.</p>
+   <p>"So you think you can make me sane, huh?"</p>
+   <p>The Regenerator didn't answer.</p>
+   <p>"Oh, well, go ahead and try." He slipped the headband over his forehead, crossed his arms on his chest and leaned back.</p>
+   <p>Nothing happened. Caswell settled himself more comfortably on the couch. He scratched his shoulder and put the headband at a more comfortable angle. Still nothing. His thoughts began to wander.</p>
+   <p><emphasis>Magnessen! You noisy, overbearing oaf, you disgusting —</emphasis></p>
+   <p>"Good afternoon," a voice murmured in his head. "I am your mechanotherapist."</p>
+   <p>Caswell twitched guiltily. "Hello. I was just — you know, just sort of —"</p>
+   <p>"Of course," the machine said soothingly. "Don't we all? I am now scanning the material in your preconscious with the intent of synthesis, diagnosis, prognosis, and treatment. I find…."</p>
+   <p>"Yes?"</p>
+   <p>"Just one moment." The Regenerator was silent for several minutes. Then, hesitantly, it said, "This is beyond doubt a most unusual case."</p>
+   <p>"Really?" Caswell asked, pleased.</p>
+   <p>"Yes. The coefficients seem — I'm not sure…." The machine's robotic voice grew feeble. The pilot light began to flicker and fade.</p>
+   <p>"Hey, what's the matter?"</p>
+   <p>"Confusion," said the machine. "Of course," it went on in a stronger voice, "the unusual nature of the symptoms need not prove entirely baffling to a competent therapeutic machine. A symptom, no matter how bizarre, is no more than a signpost, an indication of inner difficulty. And <emphasis>all</emphasis> symptoms can be related to the broad mainstream of proven theory. Since the theory is effective, the symptoms must relate. We will proceed on that assumption."</p>
+   <p>"Are you sure you know what you're doing?" asked Caswell, feeling lightheaded.</p>
+   <p>The machine snapped back, its pilot light blazing. "Mechanotherapy today is an exact science and admits no significant errors. We will proceed with a word-association test."</p>
+   <p>"Fire away," said Caswell.</p>
+   <p>"House?"</p>
+   <p>"Home."</p>
+   <p>"Dog?"</p>
+   <p>"Cat."</p>
+   <p>"Fleefl?"</p>
+   <p>Caswell hesitated, trying to figure out the word. It sounded vaguely Martian, but it might be Venusian or even —</p>
+   <p>"Fleefl?" the Regenerator repeated.</p>
+   <p>"Marfoosh," Caswell replied, making up the word on the spur of the moment.</p>
+   <p>"Loud?"</p>
+   <p>"Sweet."</p>
+   <p>"Green?"</p>
+   <p>"Mother."</p>
+   <p>"Thanagoyes?"</p>
+   <p>"Patamathonga."</p>
+   <p>"Arrides?"</p>
+   <p>"Nexothesmodrastica."</p>
+   <p>"Chtheesnohelgnopteces?"</p>
+   <p>"Rigamaroo latasentricpropatria!" Caswell shot back. It was a collection of sounds he was particularly proud of. The average man would not have been able to pronounce them.</p>
+   <p>"Hmm," said the Regenerator. "The pattern fits. It always does."</p>
+   <p>"What pattern?"</p>
+   <p>"You have," the machine informed him, "a classic case of feem desire, complicated by strong dwarkish intentions."</p>
+   <p>"I do? I thought I was homicidal."</p>
+   <p>"That term has no referent," the machine said severely. "Therefore I must reject it as nonsense syllabification. Now consider these points: The feem desire is perfectly normal. Never forget that. But it is usually replaced at an early age by the hovendish revulsion. Individuals lacking in this basic environmental response —"</p>
+   <p>"I'm not absolutely sure I know what you're talking about," Caswell confessed.</p>
+   <p>"Please, sir! We must establish one thing at once. <emphasis>You</emphasis> are the patient. <emphasis>I</emphasis> am the mechanotherapist. You have brought your troubles to me for treatment. But you cannot expect help unless you cooperate."</p>
+   <p>"All right," Caswell said. "I'll try."</p>
+   <p>Up to now, he had been bathed in a warm glow of superiority. Everything the machine said had seemed mildly humorous. As a matter of fact, he had felt capable of pointing out a few things wrong with the mechanotherapist.</p>
+   <p>Now that sense of well-being evaporated, as it always did, and Caswell was alone, terribly alone and lost, a creature of his compulsions, in search of a little peace and contentment.</p>
+   <p>He would undergo anything to find them. Sternly he reminded himself that he had no right to comment on the mechanotherapist. These machines knew what they were doing and had been doing it for a long time. He would cooperate, no matter how outlandish the treatment seemed from his layman's viewpoint.</p>
+   <p>But it was obvious, Caswell thought, settling himself grimly on the couch, that mechanotherapy was going to be far more difficult than he had imagined.</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>The search for the missing customer had been brief and useless. He was nowhere to be found on the teeming New York streets and no one could remember seeing a red-haired, red-eyed little man lugging a black therapeutic machine.</p>
+   <p>It was all too common a sight.</p>
+   <p>In answer to an urgent telephone call, the police came immediately, four of them, led by a harassed young lieutenant of detectives named Smith.</p>
+   <p>Smith just had time to ask, "Say, why don't you people put tags on things?" when there was an interruption.</p>
+   <p>A man pushed his way past the policeman at the door. He was tall and gnarled and ugly, and his eyes were deep-set and bleakly blue. His clothes, unpressed and uncaring, hung on him like corrugated iron.</p>
+   <p>"What do you want?" Lieutenant Smith asked.</p>
+   <p>The ugly man flipped back his lapel, showing a small silver badge beneath. "I'm John Rath, General Motors Security Division."</p>
+   <p>"Oh … Sorry, sir," Lieutenant Smith said, saluting. "I didn't think you people would move in so fast."</p>
+   <p>Rath made a noncommittal noise. "Have you checked for prints, Lieutenant? The customer might have touched some other therapy machine."</p>
+   <p>"I'll get right on it, sir," Smith said. It wasn't often that one of the operatives from GM, GE, or IBM came down to take a personal hand. If a local cop showed he was really clicking, there just might be the possibility of an Industrial Transfer….</p>
+   <p>Rath turned to Follansby and Haskins, and transfixed them with a gaze as piercing and as impersonal as a radar beam. "Let's have the full story," he said, taking a notebook and pencil from a shapeless pocket.</p>
+   <p>He listened to the tale in ominous silence. Finally he closed his notebook, thrust it back into his pocket and said, "The therapeutic machines are a sacred trust. To give a customer the wrong machine is a betrayal of that trust, a violation of the Public Interest, and a defamation of the Company's good reputation."</p>
+   <p>The manager nodded in agreement, glaring at his unhappy clerk.</p>
+   <p>"A Martian model," Rath continued, "should never have been on the floor in the first place."</p>
+   <p>"I can explain that," Follansby said hastily. "We needed a demonstrator model and I wrote to the Company, telling them —"</p>
+   <p>"This might," Rath broke in inexorably, "be considered a case of gross criminal negligence."</p>
+   <p>Both the manager and the clerk exchanged horrified looks. They were thinking of the General Motors Reformatory outside of Detroit, where Company offenders passed their days in sullen silence, monotonously drawing microcircuits for pocket television sets.</p>
+   <p>"However, that is out of my jurisdiction," Rath said. He turned his baleful gaze full upon Haskins. "You are certain that the customer never mentioned his name?"</p>
+   <p>"No, sir. I mean yes, I'm sure," Haskins replied rattledly.</p>
+   <p>"Did he mention any names at all?"</p>
+   <p>Haskins plunged his face into his hands. He looked up and said eagerly, "Yes! He wanted to kill someone! A friend of his!"</p>
+   <p>"Who?" Rath asked, with terrible patience.</p>
+   <p>"The friend's name was — let me think — Magneton! That was it! Magneton! Or was it Morrison? Oh, dear…."</p>
+   <p>Mr. Rath's iron face registered a rather corrugated disgust. People were useless as witnesses. Worse than useless, since they were frequently misleading. For reliability, give him a robot every time.</p>
+   <p>"Didn't he mention <emphasis>anything</emphasis> significant?"</p>
+   <p>"Let me <emphasis>think!</emphasis>" Haskins said, his face twisting into a fit of concentration.</p>
+   <p>Rath waited.</p>
+   <p>Mr. Follansby cleared his throat. "I was just thinking, Mr. Rath. About that Martian machine. It won't treat a Terran homicidal case as homicidal, will it?"</p>
+   <p>"Of course not. Homicide is unknown on Mars."</p>
+   <p>"Yes. But what will it do? Might it not reject the entire case as unsuitable? Then the customer would merely return the Regenerator with a complaint and we would —"</p>
+   <p>Mr. Rath shook his head. "The Rex Regenerator must treat if it finds evidence of psychosis. By Martian standards, the customer is a very sick man, a psychotic — <emphasis>no matter what is wrong with him</emphasis>."</p>
+   <p>Follansby removed his pince-nez and polished them rapidly. "What will the machine do, then?"</p>
+   <p>"It will treat him for the Martian illness most analogous to his case. Feem desire, I should imagine, with various complications. As for what will happen once treatment begins, I don't know. I doubt whether anyone knows, since it has never happened before. Offhand, I would say there are two major alternatives: the patient may reject the therapy out of hand, in which case he is left with his homicidal mania unabated. Or he may accept the Martian therapy and reach a cure."</p>
+   <p>Mr. Follansby's face brightened. "Ah! A cure is possible!"</p>
+   <p>"You don't understand," Rath said. "He may effect a cure <emphasis>of his nonexistent Martian psychosis</emphasis>. But to cure something that is not there is, in effect, to erect a gratuitous delusional system. You might say that the machine would work in reverse, producing psychosis instead of removing it."</p>
+   <p>Mr. Follansby groaned and leaned against a Bell Psychosomatica.</p>
+   <p>"The result," Rath summed up, "would be to convince the customer that he was a Martian. A <emphasis>sane</emphasis> Martian, naturally."</p>
+   <p>Haskins suddenly shouted, "I remember! I remember now! He said he worked for the New York Rapid Transit Corporation! I remember distinctly!"</p>
+   <p>"That's a break," Rath said, reaching for the telephone.</p>
+   <p>Haskins wiped his perspiring face in relief. "And I just remembered something else that should make it easier still."</p>
+   <p>"What?"</p>
+   <p>"The customer said he had been an alcoholic at one time. I'm sure of it, because he was interested at first in the IBM Alcoholic Reliever, until I talked him out of it. He had red hair, you know, and I've had a theory for some time about red-headedness and alcoholism. It seems —"</p>
+   <p>"Excellent," Rath said. "Alcoholism will be on his records. It narrows the search considerably."</p>
+   <p>As he dialed the NYRT Corporation, the expression on his craglike face was almost pleasant.</p>
+   <p>It was good, for a change, to find that a human <emphasis>could</emphasis> retain some significant facts.</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>"But surely you remember your goricae?" the Regenerator was saying.</p>
+   <p>"No," Caswell answered wearily.</p>
+   <p>"Tell me, then, about your juvenile experiences with the thorastrian fleep."</p>
+   <p>"Never had any."</p>
+   <p>"Hmm. Blockage," muttered the machine. "Resentment. Repression. Are you sure you don't remember your goricae and what it meant to you? The experience is universal."</p>
+   <p>"Not for me," Caswell said, swallowing a yawn.</p>
+   <p>He had been undergoing mechanotherapy for close to four hours and it struck him as futile. For a while, he had talked voluntarily about his childhood, his mother and father, his older brother. But the Regenerator had asked him to put aside those fantasies. The patient's relationships to an imaginary parent or sibling, it explained, were unworkable and of minor importance psychologically. The important thing was the patient's feelings — both revealed and repressed — toward his goricae.</p>
+   <p>"Aw, look," Caswell complained, "I don't even know what a goricae is."</p>
+   <p>"Of course you do. You just won't <emphasis>let</emphasis> yourself know."</p>
+   <p>"I don't know. Tell me."</p>
+   <p>"It would be better if you told me."</p>
+   <p>"How can I?" Caswell raged. "I don't know!"</p>
+   <p>"What do you <emphasis>imagine</emphasis> a goricae would be?"</p>
+   <p>"A forest fire," Caswell said. "A salt tablet. A jar of denatured alcohol. A small screwdriver. Am I getting warm? A notebook. A revolver —"</p>
+   <p>"These associations are meaningful," the Regenerator assured him. "Your attempt at randomness shows a clearly underlying pattern. Do you begin to recognize it?"</p>
+   <p>"What in hell is a goricae?" Caswell roared.</p>
+   <p>"The tree that nourished you during infancy, and well into puberty, if my theory about you is correct. Inadvertently, the goricae stifled your necessary rejection of the feem desire. This in turn gave rise to your present urge to dwark someone in a vlendish manner."</p>
+   <p>"No tree nourished <emphasis>me</emphasis>."</p>
+   <p>"You cannot recall the experience?"</p>
+   <p>"Of course not. It never happened."</p>
+   <p>"You are sure of that?"</p>
+   <p>"Positive."</p>
+   <p>"Not even the tiniest bit of doubt?"</p>
+   <p>"No! No goricae ever nourished me. Look, I can break off these sessions at any time, right?"</p>
+   <p>"Of course," the Regenerator said. "But it would not be advisable at this moment. You are expressing anger, resentment, fear. By your rigidly summary rejection —"</p>
+   <p>"Nuts," said Caswell, and pulled off the headband.</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>The silence was wonderful. Caswell stood up, yawned, stretched and massaged the back of his neck. He stood in front of the humming black machine and gave it a long leer.</p>
+   <p>"You couldn't cure me of a common cold," he told it.</p>
+   <p>Stiffly he walked the length of the living room and returned to the Regenerator.</p>
+   <p>"Lousy fake!" he shouted.</p>
+   <p>Caswell went into the kitchen and opened a bottle of beer. His revolver was still on the table, gleaming dully.</p>
+   <p><emphasis>Magnessen! You unspeakable treacherous filth! You fiend incarnate! You inhuman, hideous monster! Someone must destroy you, Magnessen! Someone….</emphasis></p>
+   <p>Someone? He himself would have to do it. Only he knew the bottomless depths of Magnessen's depravity, his viciousness, his disgusting lust for power.</p>
+   <p>Yes, it was his duty, Caswell thought. But strangely, the knowledge brought him no pleasure.</p>
+   <p>After all, Magnessen was his friend.</p>
+   <p>He stood up, ready for action. He tucked the revolver into his right-hand coat pocket and glanced at the kitchen clock. Nearly six-thirty. Magnessen would be home now, gulping his dinner, grinning over his plans.</p>
+   <p>This was the perfect time to take him.</p>
+   <p>Caswell strode to the door, opened it, started through, and stopped.</p>
+   <p>A thought had crossed his mind, a thought so tremendously involved, so meaningful, so far-reaching in its implications that he was stirred to his depths. Caswell tried desperately to shake off the knowledge it brought. But the thought, permanently etched upon his memory, would not depart.</p>
+   <p>Under the circumstances, he could do only one thing.</p>
+   <p>He returned to the living room, sat down on the couch and slipped on the headband.</p>
+   <p>The Regenerator said, "Yes?"</p>
+   <p>"It's the damnedest thing," Caswell said, "but do you know, I think I <emphasis>do</emphasis> remember my goricae!"</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>John Rath contacted the New York Rapid Transit Corporation by televideo and was put into immediate contact with Mr. Bemis, a plump, tanned man with watchful eyes.</p>
+   <p>"Alcoholism?" Mr. Bemis repeated, after the problem was explained. Unobtrusively, he turned on his tape recorder. "Among <emphasis>our</emphasis> employees?" Pressing a button beneath his foot, Bemis alerted Transit Security, Publicity, Intercompany Relations, and the Psychoanalysis Division. This done, he looked earnestly at Rath. "Not a chance of it, my dear sir. Just between us, why does General Motors <emphasis>really</emphasis> want to know?"</p>
+   <p>Rath smiled bitterly. He should have anticipated this. NYRT and GM had had their differences in the past. Officially, there was cooperation between the two giant corporations. But for all practical purposes —</p>
+   <p>"The question is in terms of the Public Interest," Rath said.</p>
+   <p>"Oh, certainly," Mr. Bemis replied, with a subtle smile. Glancing at his tattle board, he noticed that several company executives had tapped in on his line. This might mean a promotion, if handled properly.</p>
+   <p>"The Public Interest of GM," Mr. Bemis added with polite nastiness. "The insinuation is, I suppose, that drunken conductors are operating our jetbuses and helis?"</p>
+   <p>"Of course not. I was searching for a single alcoholic predilection, an individual latency —"</p>
+   <p>"There's no possibility of it. We at Rapid Transit do not hire people with even the merest tendency in that direction. And may I suggest, sir, that you clean your own house before making implications about others?"</p>
+   <p>And with that, Mr. Bemis broke the connection.</p>
+   <p>No one was going to put anything over on <emphasis>him</emphasis>.</p>
+   <p>"Dead end," Rath said heavily. He turned and shouted, "Smith! Did you find any prints?"</p>
+   <p>Lieutenant Smith, his coat off and sleeves rolled up, bounded over. "Nothing usable, sir."</p>
+   <p>Rath's thin lips tightened. It had been close to seven hours since the customer had taken the Martian machine. There was no telling what harm had been done by now. The customer would be justified in bringing suit against the Company. Not that the money mattered much; it was the bad publicity that was to be avoided at all costs.</p>
+   <p>"Beg pardon, sir," Haskins said.</p>
+   <p>Rath ignored him. What next? Rapid Transit was not going to cooperate. Would the Armed Services make their records available for scansion by somatotype and pigmentation?</p>
+   <p>"Sir," Haskins said again.</p>
+   <p>"What is it?"</p>
+   <p>"I just remembered the customer's friend's name. It was Magnessen."</p>
+   <p>"Are you sure of that?"</p>
+   <p>"Absolutely," Haskins said, with the first confidence he had shown in hours. "I've taken the liberty of looking him up in the telephone book, sir. There's only one Manhattan listing under that name."</p>
+   <p>Rath glowered at him from under shaggy eyebrows. "Haskins, I hope you are not wrong about this. I sincerely hope that."</p>
+   <p>"I do too, sir," Haskins admitted, feeling his knees begin to shake.</p>
+   <p>"Because if you are," Rath said, "I will … Never mind. Let's go!"</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>By police escort, they arrived at the address in fifteen minutes. It was an ancient brownstone and Magnessen's name was on a second-floor door. They knocked.</p>
+   <p>The door opened and a stocky, crop-headed, shirt-sleeved man in his thirties stood before them. He turned slightly pale at the sight of so many uniforms, but held his ground.</p>
+   <p>"What is this?" he demanded.</p>
+   <p>"You Magnessen?" Lieutenant Smith barked.</p>
+   <p>"Yeah. What's the beef? If it's about my hi-fi playing too loud, I can tell you that old hag downstairs —"</p>
+   <p>"May we come in?" Rath asked. "It's important."</p>
+   <p>Magnessen seemed about to refuse, so Rath pushed past him, followed by Smith, Follansby, Haskins, and a small army of policemen. Magnessen turned to face them, bewildered, defiant and more than a little awed.</p>
+   <p>"Mr. Magnessen," Rath said, in the pleasantest voice he could muster, "I hope you'll forgive the intrusion. Let me assure you, it is in the Public Interest, as well as your own. Do you know a short, angry-looking, red-haired, red-eyed man?"</p>
+   <p>"Yes," Magnessen said slowly and warily.</p>
+   <p>Haskins let out a sigh of relief.</p>
+   <p>"Would you tell us his name and address?" asked Rath.</p>
+   <p>"I suppose you mean — hold it! What's he done?"</p>
+   <p>"Nothing."</p>
+   <p>"Then what you want him for?"</p>
+   <p>"There's no time for explanations," Rath said. "Believe me, it's in his own best interest, too. What is his name?"</p>
+   <p>Magnessen studied Rath's ugly, honest face, trying to make up his mind.</p>
+   <p>Lieutenant Smith said, "Come on, talk, Magnessen, if you know what's good for you. We want the name and we want it quick."</p>
+   <p>It was the wrong approach. Magnessen lighted a cigarette, blew smoke in Smith's direction and inquired, "You got a warrant, buddy?"</p>
+   <p>"You bet I have," Smith said, striding forward. "I'll warrant you, wise guy."</p>
+   <p>"Stop it!" Rath ordered. "Lieutenant Smith, thank you for your assistance. I won't need you any longer."</p>
+   <p>Smith left sulkily, taking his platoon with him.</p>
+   <p>Rath said, "I apologize for Smith's over-eagerness. You had better hear the problem." Briefly but fully, he told the story of the customer and the Martian therapeutic machine.</p>
+   <p>When he was finished, Magnessen looked more suspicious than ever. "You say he wants to kill <emphasis>me?</emphasis>"</p>
+   <p>"Definitely."</p>
+   <p>"That's a lie! I don't know what your game is, mister, but you'll never make me believe that. Elwood's my best friend. We been best friends since we was kids. We been in service together. Elwood would cut off his arm for me. And I'd do the same for him."</p>
+   <p>"Yes, yes," Rath said impatiently, "in a sane frame of mind, he would. But your friend Elwood — is that his first name or last?"</p>
+   <p>"First," Magnessen said tauntingly.</p>
+   <p>"Your friend Elwood is psychotic."</p>
+   <p>"You don't know him. That guy loves me like a brother. Look, what's Elwood really done? Defaulted on some payments or something? I can help out."</p>
+   <p>"You thickheaded imbecile!" Rath shouted. "I'm trying to save your life, and the life and sanity of your friend!"</p>
+   <p>"But how do I know?" Magnessen pleaded. "You guys come busting in here —"</p>
+   <p>"You can trust me," Rath said.</p>
+   <p>Magnessen studied Rath's face and nodded sourly. "His name's Elwood Caswell. He lives just down the block at number 341."</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>The man who came to the door was short, with red hair and red-rimmed eyes. His right hand was thrust into his coat pocket. He seemed very calm.</p>
+   <p>"Are you Elwood Caswell?" Rath asked. "The Elwood Caswell who bought a Regenerator early this afternoon at the Home Therapy Appliances Store?"</p>
+   <p>"Yes," said Caswell. "Won't you come in?"</p>
+   <p>Inside Caswell's small living room, they saw the Regenerator, glistening black and chrome, standing near the couch. It was unplugged.</p>
+   <p>"Have you used it?" Rath asked anxiously.</p>
+   <p>"Yes."</p>
+   <p>Follansby stepped forward. "Mr. Caswell, I don't know how to explain this, but we made a terrible mistake. The Regenerator you took was a Martian model — for giving therapy to Martians."</p>
+   <p>"I know," said Caswell.</p>
+   <p>"You do?"</p>
+   <p>"Of course. It became pretty obvious after a while."</p>
+   <p>"It was a dangerous situation," Rath said. "Especially for a man with your — ah — troubles." He studied Caswell covertly. The man seemed fine, but appearances were frequently deceiving, especially with psychotics. Caswell had been homicidal; there was no reason why he should not still be.</p>
+   <p>And Rath began to wish he had not dismissed Smith and his policemen so summarily. Sometimes an armed squad was a comforting thing to have around.</p>
+   <p>Caswell walked across the room to the therapeutic machine. One hand was still in his jacket pocket; the other he laid affectionately upon the Regenerator.</p>
+   <p>"The poor thing tried its best," he said. "Of course, it couldn't cure what wasn't there." He laughed. "But it came very near succeeding!"</p>
+   <empty-line/>
+   <subtitle>* * * * *</subtitle>
+   <p>Rath studied Caswell's face and said, in a trained, casual tone, "Glad there was no harm, sir. The Company will, of course, reimburse you for your lost time and for your mental anguish —"</p>
+   <p>"Naturally," Caswell said.</p>
+   <p>"— and we will substitute a proper Terran Regenerator at once."</p>
+   <p>"That won't be necessary."</p>
+   <p>"It <emphasis>won't?</emphasis>"</p>
+   <p>"No." Caswell's voice was decisive. "The machine's attempt at therapy forced me into a compete self-appraisal. There was a moment of absolute insight, during which I was able to evaluate and discard my homicidal intentions toward poor Magnessen."</p>
+   <p>Rath nodded dubiously. "You feel no such urge now?"</p>
+   <p>"Not in the slightest."</p>
+   <p>Rath frowned deeply, started to say something, and stopped. He turned to Follansby and Haskins. "Get that machine out of here. I'll have a few things to say to you at the store."</p>
+   <p>The manager and the clerk lifted the Regenerator and left.</p>
+   <p>Rath took a deep breath. "Mr. Caswell, I would strongly advise that you accept a new Regenerator from the Company, gratis. Unless a cure is effected in a proper mechanotherapeutic manner, there is always the danger of a setback."</p>
+   <p>"No danger with me," Caswell said, airily but with deep conviction. "Thank you for your consideration, sir. And good night."</p>
+   <p>Rath shrugged and walked to the door.</p>
+   <p>"Wait!" Caswell called.</p>
+   <p>Rath turned. Caswell had taken his hand out of his pocket. In it was a revolver. Rath felt sweat trickle down his arms. He calculated the distance between himself and Caswell. Too far.</p>
+   <p>"Here," Caswell said, extending the revolver butt-first. "I won't need this any longer."</p>
+   <p>Rath managed to keep his face expressionless as he accepted the revolver and stuck it into a shapeless pocket.</p>
+   <p>"Good night," Caswell said. He closed the door behind Rath and bolted it.</p>
+   <p>At last he was alone.</p>
+   <p>Caswell walked into the kitchen. He opened a bottle of beer, took a deep swallow and sat down at the kitchen table. He stared fixedly at a point just above and to the left of the clock.</p>
+   <p>He had to form his plans now. There was no time to lose.</p>
+   <p><emphasis>Magnessen! That inhuman monster who cut down the Caswell goricae! Magnessen! The man who, even now, was secretly planning to infect New York with the abhorrent feem desire! Oh, Magnessen, I wish you a long, long life, filled with the torture I can inflict on you. And to start with….</emphasis></p>
+   <p>Caswell smiled to himself as he planned exactly how he would dwark Magnessen in a vlendish manner.</p>
+  </section>
+ </body>
+ <binary id="sheckley_bad_medicine.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgAR
+CAH0AUQDASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAQFBgEDAgf/xAAaAQEBAQEB
+AQEAAAAAAAAAAAAAAgEDBAUG/9oADAMBAAIQAxAAAAHcj5FgAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHSYqL
+XX0IACg6NBzBbTrkkebQAAAAAAAAAAAAHO5joiV23wP1Z0FPy93NMqsx8+t19Ym9Ln8495Pu
+nbj49gAAAAAAAAAAAAAMrqvnqrMFf0v142eX+rqFPPzUb0P0LMz8zza6bgtfz3Vj41AAAAAA
+AAAAAAAAAeXz7qc6Y8Xsp3w9mPL1MBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAV9LHxydF7
+5/SvTO2nl30k/lv6n1B49EalHU/O++jNJdVNt4qDipLynuO7g4AAAAAAAAAAGL2nn3R8Fv8A
+Fe6bLPQdD7Z+NtS03irvrF0/TI2VsvGlrnv0PAxuwprSFxVHn+iYLqn5/wDQMBeWX1O6TsrX
+aOl7bfH38awgAAAAAAApbql7KDSTfbrmNpv0qP2yJiP0H0nch6677Z+cVH6q9Cswf6zF4MW3
+kWlbi/1KLG1OW/SPjGEstJIrPyXTaiZbn0fNoMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHWuOjjo46OOjjo46
+OOjjo46OOjjo46OOjjo46OOjjo46OOjjoph+k+eAAAAAAAAAAAAAAAAAAAAQ07MQxMQxMQxM
+QxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxMQxmh8f3AAAAAAAAJfpbSznzo
+IBXJUWgAAAAAAAAAAAAAAAAAFnPzqVjaVsMeBQAAAAAAAAAAAAAB6yLmWZXHmQ/q1hFatfUp
+V5R6+vq6jY+K2+gEBPU+ol/EhChWEjVOmQ6AAAAAAAAAAWl5j/SFv5/FZrQTMmxaKprQVEb0
+1ZSaqLi/l5ZK+8qblLz7r0r3Px7GnpTffxoNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAf/xAAsEAACAgMAAQMDAgYDAAAAAAADBAECAAUUERITQAYQFSAjISIkMVBwJYCg
+/9oACAEBAAEFAv8AsEVtcExtEpytotX9Ox2PJhkduSy9SUX+ZMxWLsM7QzYxau4UxO63QFv0
+/bzHn7J27d787eGtRNVeqq28J632dvEp6ZYI13nqJCartOfQ0m5Ni/VIbKbsq/T4/n72ludF
+6joVP6zc7UAyI/T9vDCPnY7j6gN6Qakfs6xO35Ldb43pU04/b1vzprFqtuKJB1DCqpHXr7PF
+9fKms1z/AA2ese7C/ayDXvcJdgRgpkZbZt8+BDiZCKciIrGQIUWkIrXyAii9hDvb/S0kHGUv
+UlcOwJYcT5j9DmxJ0QHde+HaLsNfe+1XG58d1uqa4lGdlXbKgTNpJ861tqigBWJstn+hkvOt
+oaSRjF9assf7/jV+v4/1D59CjFWltn++7ob+EnDX2JNALyc5qLh9bmxX0TBi2f2EhvsF3Qi1
+fpU07rzhY1nr/HHdZdZhTbAYc2TTFNaxIdU+69N+1sqOjMcrOy2EIieq6EGsKQ2v+CQdC0vI
+1FaCtOhAUsg2g6pazSi9vXb88zcIHXVKiDqkdGKTH+oC+pgAvZX21pZ2myLyazQiiiOb8v8A
+OoH2Un/Lm6200U1mhD6U2GLNbSuua2Bq1rSvwb7ZMZmGL7hh0da6vRJ+K7s/uvqtKejdxMbK
+22M1RxW62kQ2kqLSS3ehZwxRtRXYvjdvrdftxLJJXdObYlidwkZouaivRtfqG0yxryMHhJnj
+dkzW3tWPTT4JdUoYogCBW1YtWlajpyrzNFFxXKuE+DGMVZiLQNYAZhYEFyqoBktWLRRRcdsl
+YEln+MVHSmFXCfIiIiya17xERH/hc6g51BzqDnUHOoOdQc6g51BzqDnUHOoOdQc6g51BzqDn
+UHOoOdQc6g51BzqDnUHOoOdQc6g51BzqDnUHOoOdQc6g51BzqDnUHOoOdQc6g51BzqDnUHOo
+PxIVNOWrNbf4aJ9hfn9QTVGy7Vb+BR0oP/CC8s0apcrjhoI054nDD9ov+GkAR4UtjE+dA7zH
+2EGxcMOg5/RWtrzal6Zy1iv3orHpoKSlMGg6fGH+2Awi+G4hh3lrIRD8awqdqMWT/alMYoIE
+I0srS34sVugx1/eIFb3IlW3TIBzh14YbS/bABb3Y4PN/Y/pfiKxc0WvJmEa5WeVW4bGCIkMH
+LS9yv39bT4vEiBc+a694aX9MN1pP4y8XqANPWkoD0uMXkq1R/wDGFqSogW9Db3gfxqktW/SK
+Sf3+0TMff++UJYdrMltH28znmfsseB4TnqGsTe3s1Vve8kv/AKF//8QAIxEAAQQBAwQDAAAA
+AAAAAAAAAAIRElEBEDFBIDBAYFBhgP/aAAgBAwEBPwH2HGfAzpnI5v4GTPRz8w45jXcx3smT
+g403OD6GYzpv22GGGGGGGGGG/C8VURVRFVEVURVRFVEVURVRFVEVURVRFVEVURVRFVEVURVR
+FVEVURVRFVe//wD/xAAqEQACAQMEAQMEAgMAAAAAAAABAgADERIEEzFRIRAUMCIjQEEyUGBw
+gf/aAAgBAgEBPwH/ABxVZuI1N1/kPWnTao2KytQFMeGv89JNxws0rB6uCj6RKt0osX/fEo6V
+qlifF5U0xWrtL5lOmtCi73ufwKNTbcNKKYo9RRzFO3Q26h5goH3AP6ESn5qMD9UrUcNMFv8A
+g5t3CbzcbuBiIWJ/olUscRKOjR328vMeiRVNNZqtOKACnn0VSxsJVcaZttReVtvL7fpV2/GH
+yaertVAxmjIVzUE2xT1F/wBmVF9zq8ZWKBTTHMoAU6opKOOZpnWpXYkQABWrn/k0tcVqgDLN
+MUeuxtHKe3ZgOeIlNdOq5SowZyR8NHav92PqBkMOBE1v3jUaUdSlKrmBPdKHGA8T39IMWC8y
+jrFQsSOZ7ym1PB1lHVrTctjF1YAaw5h1a7QS0ra1H8hfMJv/ALsxMxMxMxMxMxMxMxMxMxMx
+MxMxMxMxMxMxMxMxMxMxMtLS0tLS0tLS0tLS0tLS0tLS0tLS03E7m4nc3E7m4nc3E7m4nc3E
+7m4nc3E7m4nc3E7m4nc3E7m4nc3E7m4nc3E7m4nc3E7m4nc3E7+JmtMvxMfN5jx+AWAmUyEz
+EBvMoG8X9MvF5cDn5GS8x7mExEAtMZhLTH9CY+IosLf2H//EADoQAAIBAgQFAQUGBQMFAAAA
+AAECAwARBBIhMhMxQVGhIhBAQlJhFCAjM3GBQ1CCkcE0U3CAoLHR8f/aAAgBAQAGPwL/AKgr
+STIp7Xr/AFC+aDKbg9R95YohnnfkO1Xaa/6SWtUaytmkC+o++3JsKaHCnhYcc5O9BFwySZh+
+ZKb3/ag80UaOwJDItrU0V/QVvb6+21xft7eKeV8/9uXv6xrzla1JEvTn+tZf9tQP80MNhlYD
+LlLNRljkEjtoT2+lfNI2xe9NiZcRwlGuRTb/AMVPiHZmbZcmtPVK21abFYnElSNclTTf0+/x
+Sr/De9Zx6WXeO1BuhkL/ALVKzgZlFw1TXPo4dzT4h9qaj/FRQ31Zsx/SkJ+L1mjM2qJ6h/il
+i+J28Ck7sS3v5Ui4PSpoMItpW9JyjlTyzvla1l0vQw+EicpfU96nXnPIhvb9OVP+GZM4tb60
+WxIyyEcuwrNrHAsRVE+bSmOXPmFrVnxAykrdV7CoX/Iw0YsF+f8AkBIRQTz0rWJD/TVlAA+n
+szCNA3fLrWdo0LdyPZnESBu+XWszRqzDqR/wvrIo/esyMGHcH2Z5nyrQI6/d+yYNc0569qUl
+25/OLV9nTPm720P3PsxD5rhbgaX94Mrc+SjuaE2LmdIztjXTSo44V+G5uaH0Y0ZH/pHc1FxT
+e55dh92SX5VvU2IbU25/U+wzRqc31PL7n2kgl731Ol/eMOfhub0kqiwPSsTJ8MOVamudFe9/
+2qWblh4RpUsvyjLTSvtWpsTx+BCgOUDrUqSSM6AX9WtqGHw4z4hvFcTE4jNnOwMaM7g2JL0J
+CWhifYoNr1CZGLMRe5o4XA+kLulrNxXYDUtnuLUzxZosNe1+RJqTE4hnZQ2nWhnLQBhdUBtp
+VsNfLFH+JM3M1Lnkd0y39R60LayttHb61FiJcW+eT+GDa1RvIbt37+5ZZEDL2IpmChUjF7Cs
+TO++Vs/n/wC0cHFzmYVDhE5s12Peg3+42ao8OOQGY1Hh1UQYYDUn4qcoNouSfiNTYuX1NyB+
+tRQ/KLn96ji+VQKWBelkFNk0Nsi1xOrt7IoB0Gaoorcl1oxD5hHQw8YsGOW30oy9ZG8CuKEz
++r0oOtq42PbKo5RigqiyjkB7k0bSG6mx9NLhsNcQg3d6mRRZVj0r7W41Oif+6KA6Ri1RQRTq
+xC2ApieRUWpYcHC3EI1btTqzmRywZzRgWLiOWutq4mJBLiS7inxGI9ETCyR0cSylznJy/XpX
+FxJ14l8ttgoQujFl2260Z5hw4bemO2tSM+qqwFvoKkxWI/Dgt6Y7ea4ja5bvUKdAt6jSFcmG
+jWxJG80sjrfLcGskSmHDdW70Fvewt7kZGQ3bU2assSBR9KKsLgixoIosqiwFMTBGS2puo1rP
+HBGrdwtDixq9u4rLGioOyi1WYXB6Grxwoh7haMohTiH4ra+wyLCgfuBVmAIPQ1mSCMHvl9nF
+MMZk+bLrVjrXpRV/QUOLEr27irDQVxGgjLdytWAsP+xd3+K3+K3+K3+K3+K3+K3+K3+K3+K3
++K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3+K3
++K3+K3+K3+K3+K3+K3+K3+PdPyzVmFj/ACcMu9+vYVhlAQObMzcjRDtwztAtqaxGc2aKoysm
+YsNR2/kqRZNp336UDbJGthnOgounIcjQUWzz5b/pTJmDW6j+ThmnRx8qdaLt7/cI39vabWAX
+Uk9KXJKJL9vu2UEn6V6lK/qK/FmWNrXy/cUyyrFm23rhpqaBWZXa+oHu5lygm+Vb9KgMebiH
+VnudKyw2Pc1I8c2fh8xaiS4QO2ppYUOcsLileOUNdsvaleWb0HsKX1rmc3DEHUey8PPN67Vh
+o9fTzvWIlMgGXW1BmbKGOUaXvTRBh6ebUgjmzlja2W1MgcLkTQWqefsthQLPkDHKul706CZC
+45L3rjZviy5be68EIGTMCT8tTYdh6WX03rEDlLksKkVtJJdMvYVhUH5eW7N0qd0W5VMqfWoo
+5HGa9si8kor0XQUt2CoiWX6mmydBegq8jzrETLsQG1FrgcRrsxqDhZVUJq56ViOGSzk/3FJm
+IJAzEDpXHjOUE2dRSjMFVmuxNQ8EoqKv5hpCDf1c64S9WLn3YODqK4ph/EI76X9un3MyMQaI
+zaHnYWv7eftdHF4351lQl2vobWtQW/8Aes8roxGoVTzos3M/8Df/xAAtEAEAAgEDAgQGAwEA
+AwAAAAABABEhMUFRYfBxgZGxECBAocHRUOHxcGCAkP/aAAgBAQABPyH/ANgusEGXpG6PMB7k
+DDnCWPzOgeoItXSXVTyYJWaAsu361yYMqxkPiftxFK9hZ8ujWYWzAPbxhbS6+IT4+/1n4YNW
+iJmEMeH+H19ieRrjj2gBaMudzL8aK+L/AGlPVqoa0oCYsKvu7JcE0XK/UtaqBrziv7TBkAvL
+u59IPp2ZekD6Gu46dNZrxwfd/H16eZHTrH/MH8uIF8VRfmgf2Hsj4xcA1PSxPxHlM6XbYfmC
+AsAOH+/aClrLzP6qIRywdAMD8yjkyq7N6mf6o9f0H15IhUreD5vChbTWKcwIeDq4g6otV2Cb
+6ptF2oTEEAC08IpABv5RC4G/30z/AGPv0bVmDFWxxnxjygAEbdUKz/AI3m0G16xW2uUTp2oU
+fBW86kHqnSRdX4dDyx90Cmigan/F/utGZY+mUfCvT1rhaaFnygBcRek48tLeTuf1FuqoIYM4
+z8hBjGSq21+oyeQTODVOWzvWKoLzhXP9RujcT7Om7xSyPPRoGUPlFfeF87feYSCluS32+FiD
+ushbj5M5Nw+YfUDGqOivFezKDxroTEsNkMLuv7uBShrWxT9TKGox3dPNZeRYYeq/1FfoLevS
+Ug0lswzqe8PgIWsr5mnPdBf+4Jqqmi500jtUBRbWh7RdDOSA35dZcwtctpcfaIT27ygC9qFz
+dh9qh4mpPqX6j6U5Kkwe81362Zau8SXJNyBkLhhv2Gkla+coKYvuEtqDUaN7RFzWW4KfRJmb
+W0RUQQVHhNNxW6Ag5XNJuaV4Snx5kpq+qS4NU/D8RiPXbt+fWcssC6+Xn8zxj5GxcRotscsr
+KTvRjlfo+8IbTO74lhSVwbuvfSOHIHS7Li2udnoY/fwvx4z88HtCZFh5tWdMYQ0N/wAw/YQ0
+YZXvmC2bB8j3uJV1rkU0QSnXHPh094b8taAPoiTLkJBglWYGpz+oWRUFaASx1AfTf8JUg+v6
+vfSIMUu5aJ7IqqlOdBKfL+2JFiGdX20jC/Fkm5A1QQ1eHSeQ4DL1hMSHko1EhO8CfqL+t0as
+35ZYDB6rk6wMlUPQv2l58h1AHLXSNswz1cfn7TdLS9Vf1MJH5XRt5y6a4JrnDUy4fXz5uekz
+0pWdX6K2WsoCzpP/AHSx4wcjBNAA2IoDFqrdYUAtBDCBtzNU6LpAi0gqQsZ076hhNKW05c/B
+qWyluJ9awWM6eDC/hl5F2GXjAMAHCO8Wt51TJ0ATNUBABoBVRKvtoFWAgBoBQf8A251LJTKZ
+TKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKZTKf/PO4p3FO4p3FO4p
+3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3FO4p3F
+O4p3FO4p3FO4p3FO4vo9WiaHZV1v6RMwdR/h9Ml9byax1uKUgwn7HX7RaeJORzBoUGDnvECd
+aF/Cwju8cDzTD8g6Ab2X3iK3onJW8TNCdjx9p9nRH+HpTGdR6OkqIt0DQOPrxyQ7imjT8Gbg
+tmErRhaiq+XohoXHaeelBpxHRanyMDhsC1OYUyzQ6ecXCKC0+no+niLFqsSZvcbOdv1KOJVB
+ou7E5lwPnrAy0Bzg/sgUbAqsdkGgOsKb5u+kx/3rPhKYsmAjYxjb4MuazvIdk1Eetzb9oq5H
+RzQYvjSYu9XIpYYM10DliVV+sEcCBqAOvGs1VTZ9XslL+6gvDiFARUNac8TV1i79n0r1pQHq
+9CI+MyNzjvaNQuQO+/5qMNQAWuTL6stDDlMOfOGOKPSmfzLUiNoXW28fjcveCWsBq+FGABbl
+tRN3PXauZVMveHT8zcCa6A/s+8enni3ma/yaZm2mcHvmNcJKX03LOK36t5XeawCewB/hPHQL
+A6149Jb8AljKLXtLN2i+F0+30yadpihcQJ6qoqrW2W1V44iFpPD4qq1thfkMifBsvzKM/C1A
+vBpFilJxcAEFL1+Aaw6rqdSJLfdcHjWVrltFqCAeoVluvBEmt7X/AIN//9oADAMBAAIAAwAA
+ABD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
+/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
+/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wDv/wD/AOkf/wD/AP8A/wD/AP8A/wD/
+AP8A/wC79Pv+v/8A/wD/AP8A/wD/AP8A/wD/AP8A/uscqcu//wD/AP8A/wD/AP8A/wD/AP8A
+/wD/AN52w1//AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
+/wD/ALZ3l/7r2/I//wD/AP8A/wD/AP8A/wD+BO+VV8uIMyRnv/8A/wD/AP8A/wDqJfgzUrpo
+qNfd/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/
+AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/APf/AP8A/wD/AP8A/wD/AP8A/wD/AP8A
+/wD/AP8A/wA444444444444444444447HHHHHHHHHHHHHHHHHHHHEIIIIIIIILwQoIIIIIII
+IIIIIIIIIIJCgIIIIIIIIIIIIIIIirgQqCQTEwAIIIIIIIIIJVjEKzpdL0SgIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIL/xAAhEQADAAEEAwADAAAAAAAAAAAAARFhECEx
+QTBAUFFgcP/aAAgBAwEBPxD9cpVq3Bj687cQnYuVCAtlY22S9BKodEx7uoqSg3wX0UWkRCfC
+bg3W4qVGbejcEuRXeivfkSqDSDbcFlIVtHsrGohvUHDYRwXMG3wFx4XehNNx7Yhs0L8yxvwW
+nUN2Mc6J+/7bSlKUpSlKUpSlKUpSl9bMMwzDMMwzDMMwzDMMwzDMMwzDMMwzDMMwzPElSepS
++hCEI9ITSE8iZSl0pSlKP6H/xAAoEQEAAgIDAAAFBAMBAAAAAAABABEhYTFBUTBAcZGhEFCx
+8GBwgcH/2gAIAQIBAT8Q/wAcUor9IbaH1P170f3MCILsPjvwFxbiH0cd3Ae2LDmoIgGBff8A
+yWAtj7w2YlYOPkMW3XUsqOhOxT4u0ikoHjJFQyt+9faYN+rv/wB+R2PvEVrMt2+8sqeYAC8f
+sRscssK3auqmepuiKpbyynmG+ZgwqAte7jQQ1XfspgVC3Wb9/QL+EAKwmMoUC+csUub40dsZ
++h/BDKFIAdfWFwsWn+IRd5VfCFkLdDqAws+2PYkzRbx+JTiWqHyuS26t0Qg6FcfBzcqrFeyj
+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
+eLPFniyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHY
+yHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHYyHY/8AE/q+DPq+DPq+
+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+
+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+DPq+
+DPq+DPq+D9mCAKrAOuSt9BoMlom8J0xFuwcR/wBOstWE7kOiDvkDzjO1ivAodzbo72xBsa3F
+RdAaBuuuMCH8hJd5/EeuK128bw0+dvPb/SqbCHYZXStqddQ4aIq1qVpIGWawuGA5Op/Kz2xU
+/nHQIK9lHWZ5pAO8A/8Ac9T/AE5sZkyry6GbXjtxk0mj0SHg/fjC6iQ+8xFARGI9P0d7tWdw
+9X0MOOYIXs7fvT/HUbrevwYA4cCN/PqZucg2RSzq70V/wfPVh34UAeiu8hYnwiHVeCbxPqG5
+ra1dlJwc/t4iHeBAkdLEAe69JjUhCAOaKkNnX4ZRInUAqj2CF8YutNUkNoapBjNxwKP0qloA
+G1prtfTDUDLGlFdsCnl1+Mavjw5NglSJ9PxnP6uwZiBapNqhNc3GSsOGicjyQ5f0ssMF7h1e
+YFztXvUZ0olZFLxE9sdiSLdAFoSaG3xmmnSaN4BNE23WArm0hysLJ276y5MSxVlaub2KABCC
+vV6oWd6hf46X85GnLfI+RB1e8zn+AUo7o98bcC3yqQjLdvPE/a1ABee4Nm0I85IGxSJFehij
+rBA1D6qVPQYGSBMgCTssDHs4E1ZsrI2A9V8xaEBQbPiCDeoORi0GKdFSGlTbOXjDsgNIAYPo
+3r2wMGRgI7ASHFf74xq0y2A6HnFsD6uAvoR6+Z1y5RaHZV9whHtjKukZUJDavADazrE7PB1N
+rvhPaY0VPUWLjba63BHXCQCU4GowWauIHDIDZARoSjeTtiyWvxSAHVXWbvTLNhFwEKG9gui9
+k6yHiQVhS6VOr1y417fJhPSvz+2sy9dqYtuKW0SUKM6X5xwpOVa51tvdtXvlEWSqfq4UnKtc
+DMiDzXbyYxdafcwvy/RYE8BdGByXhJDARggGX1/QU6T6ezyF/rtlAeLnqxVX0m/GAfbm6fPT
+FZKKkOzgQd75kLiV2Xd3/r/gb//Z</binary>
+</FictionBook>
