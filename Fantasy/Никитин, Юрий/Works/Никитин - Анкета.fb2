@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_humor</genre>
+   <author>
+    <first-name>Юрий</first-name>
+    <last-name>Никитин</last-name>
+   </author>
+   <book-title>Анкета</book-title>
+   <date value="1968-09-01">1968</date>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>sf</first-name>
+    <middle-name>ebook</middle-name>
+    <last-name>creator</last-name>
+   </author>
+   <program-used>ExportToFB21, FB Editor v2.0</program-used>
+   <date value="2009-08-03">03.08.2009</date>
+   <src-ocr>Антон Лапудев, 1997</src-ocr>
+   <id>OOoFBTools-2009-8-3-14-57-51-1472</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <city>М.</city>
+   <year>1968</year>
+   <sequence name="ж. Техника-молодежи" number="9"/>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Анкета</p>
+  </title>
+  <section>
+   <p>— Ты посмотри на эту анкету! — радостно заорал 43-88-34 и от удовольствия замахал хвостом. — На свете есть и такое примитивнейшее существо! Послушай, я тебе прочту ответы.</p>
+   <p>— Нет.</p>
+   <p>— Нет.</p>
+   <p>— Не умеет.</p>
+   <p>— Не обучен.</p>
+   <p>— Не способен.</p>
+   <p>— Не знает.</p>
+   <p>— Не может.</p>
+   <p>— Не сможет.</p>
+   <p>— Не имеет.</p>
+   <p>— Не годен.</p>
+   <p>— Нельзя.</p>
+   <p>— Не летает.</p>
+   <p>— Только на суше.</p>
+   <p>— Не воспринимает.</p>
+   <p>— Только семь цветов.</p>
+   <p>— Только в трех измерениях.</p>
+   <p>— Смертен.</p>
+   <p>— Не регенерирует.</p>
+   <p>— Только органикой.</p>
+   <p>— Телепатией не обладает.</p>
+   <p>— Телекинезом не владеет.</p>
+   <p>— Не телепортируется.</p>
+   <p>— Ясновидение отсутствует.</p>
+   <p>Ну и дальше в таком же духе. Как тебе это нравится?</p>
+   <p>— Ты прочитал анкету Человека, — прошептал 43-16-39. И 43-88-34 поджал хвост.</p>
+   <empty-line/>
+   <p><emphasis>г. Харьков</emphasis></p>
+  </section>
+ </body>
+</FictionBook>
