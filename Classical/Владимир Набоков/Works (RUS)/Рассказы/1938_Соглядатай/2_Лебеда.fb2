@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Лебеда</book-title>
+   <annotation>
+    <p>«Соглядатай» — роман, занимающий особое место в многообразном, многоуровневом творчестве В. Набокова. Практически впервые здесь набоковская проза, обычно — холодно-изящная, становится нервной, захлебывающейся, угловатой. Экспрессионистская ли эстетика довлеет здесь над «вечной» для писателя темой эмигрантской трагедии — или, напротив, тоска выломившейся из прошлого и утратившей надежду на будущее «России в изгнании» задает неровный, «дерганный» ритм повествования? Мнений может быть много, но — какое из них верное? Решите сами…</p>
+   </annotation>
+   <date>1938</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Соглядатай" number="2"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb+FBE, FB Editor v2.0, FictionBook Editor 2.4</program-used>
+   <date value="2009-07-27">2009-07-15</date>
+   <id>E345E711-22D0-4222-AC35-67D8726D173D</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Владимир Набоков. Соглядатай.</book-name>
+   <publisher>Издательство "ФОЛИО" </publisher>
+   <city>Харьков</city>
+   <year>2001</year>
+   <isbn>5-17-006663-5</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Владимир Набоков</p>
+   <p>ЛЕБЕДА</p>
+  </title>
+  <section>
+   <p>Просторнейшей комнатой в особняке была библиотека. Туда, перед отъездом в школу, Путя заходил поздороваться с отцом. Шаркание и стальное трепетание. Отец каждое утро фехтовал с м-сье Маскара, маленьким, пожилым французом, сделанным из гуттаперчи и черной щетины. По воскресеньям Маскара преподавал Путе гимнастику и бокс, но, страдая животом, прерывал занятия, — потайными ходами, ущельями книжных шкапов, дремучими коридорами, удалялся на полчаса в нужное место, — а Путя с огромными боевыми рукавицами на тоненьких потных кистях, ждал, развалясь в кожаном кресле, слушал легкое жужжание тишины и моргал, стараясь не заснуть. Свет электрических ламп, по-утреннему глухой и желтый, озарял наканифоленный линолеум, полки вдоль стен, беззащитные спины тесно уткнувшихся книг и черную виселицу грушевидного punching-ball’а. За цельными окнами, с однообразной, бесплодной грацией, валил мягкий и медленный снег.</p>
+   <p>Недавно, в школе, географ Березовский (автор брошюры «Чао-Сан, страна утра. Корея и корейцы. С тринадцатью рисунками и картой в тексте»), пощипывая темную бородку, ненароком и некстати объявил при всем классе, что он и Путя берут у Маскара частные уроки бокса. Все уставились на Путю. От смущения его лицо сделалось ярким и даже как бы одутловатым. На перемене Щукин, самый сильный, грубый и отсталый в классе, подошел и, осклабясь, сказал: «Ну-ка, покажи бокс». «Оставь», — тихо ответил Путя. Щукин засопел и дал ему под микитки. Путя обиделся и прямым ударом, как учил француз, разбил Щукину нос. Удивленная пауза, кровь, зарумянившийся платок. Оправившись от удивления, Щукин навалился на Путю и, молча, его заломал. Однако, несмотря на боль во всем теле, Путя остался доволен. Кровь из щукинского носа продолжала идти на уроке естествознания, остановилась на арифметике и снова пошла на Законе Божием. Путя наблюдал с тихим интересом.</p>
+   <p>В ту зиму его мать уехала в Ментону с Марой, которая полагала, что умирает от чахотки. Без сестры, довольно язвительной и пристаючей молодой женщины, было скорее приятно, но вот с отсутствием матери Путя никак свыкнуться не мог, скучал чрезвычайно, особенно по вечерам. Отца он видел мало. Отец был занят в учреждении, называемом Думой, где однажды обвалился потолок. Были еще фракции, то есть сборища, на которых, вероятно, все во фраках. Очень часто приходилось обедать отдельно, наверху, вместе с мисс Шелдон, черноволосой, светлоглазой, в просторной блузе и вязаном поперечно-полосатом галстуке, — а внизу, около чудовищно разбухших вешалок, скоплялась добрая сотня галош, и если пробраться оттуда в комнату с шелковым турецким диваном, можно было вдруг услышать (когда лакей где-то в глубине отворял дверь) нестройный шум, зоологический гомон и далекий, но ясный голос отца.</p>
+   <p>Как-то, в сумрачное ноябрьское утро, Дима Корф, путин сосед по парте, вынул из пегого ранца и протянул Путе иллюстрированный листок. На одной из первых страниц зеленела карикатура на путиного отца, снабженная стихотворением. Путя скользнул глазами по строкам и выхватил из середины: «Как джентльмен, он предлагал револьвер, шпагу иль кинжал». «Это правда?» — спросил Дима шепотом (только что начался урок). «Что правда?» — прошептал Путя. «Потише там», — вмешался Алексей Мартынович, учитель русского языка, мужиковатый, гугнивый, с безымянной и неопрятной растительностью над кривою губой и знаменитыми ногами в винтоподобных штанах: когда он шел, ноги у него завивались, — он ставил правую ступню туда, куда полагалось попасть левой, и наоборот, — но ходил все же весьма шибко. Теперь он сидел у стола и перелистывал записную книжку; затем глаза его устремились на далекую парту, из-за которой, как деревцо, вырастающее от взгляда факира, уже поднимался Щукин.</p>
+   <p>«Что правда?» — тихо повторил Путя, держа на коленях журнальчик и косясь на Диму. Дима чуть подвинулся к нему. Между тем, Щукин, бритоголовый, в черной саржевой косоворотке, начинал в третий раз с какой-то безнадежной бодростью: «Муму»… Произведение Тургенева «Муму»… «Насчет твоего папы», — вполголоса ответил Дима. Алексей Мартынович с размаху хлопнул «Живым Словом» по столу, так что подскочила вставка и воткнулась пером в пол. «Что это, в самом деле… шептуны… что это… — неразборчиво, плюясь и шипя, заговорил он. — Встать, встать… Корф… Шишков… Что это такое… что это вы там?» Он подошел и ловко схватил журнальчик. «Гадость читаете, садитесь, садитесь… гадости…» Добычу свою он положил в портфель.</p>
+   <p>Потом был вызван Путя. Алексей Мартынович диктовал, а Путя писал на доске: «…поросший кашкою и цепкой ли бедой…» Окрик, — такой окрик, что Путя выронил мел. «Какая там „беда“… Откуда ты взял беду? Лебеда, а не беда… Где твои мысли витают? Садись… Садись…»</p>
+   <p>«Ну что, это правда?» — прошептал Дима, улучив мгновение. Путя притворился, что не слышит. Его пронизывала дрожь, которую он не мог остановить; в ушах повторялась строка о револьвере, шпаге и кинжале; в глазах стояло карикатурное изображение отца, угловатое, бледно-зеленое, причем, зелень в одном месте переступала через контур, а в другом не дошла, — небрежность цветного отпечатка. Только что, перед отъездом в школу, — шаркание и стальное трепетание… Отец и француз — в толстых нагрудниках, в решетчатых масках… Все было, как обычно, — картавые вскрики француза, — Battez! Rompez!<a l:href="#n_1" type="note">[1]</a> — сильные движения отца, мигание и треск рапир. Он остановился; дыша и улыбаясь, снял выпуклую решетку с мокрого, розового лица.</p>
+   <p>Урок кончился. Алексей Мартынович унес с собой журнальчик. Путя сидел, бледный, как мел, поднимая и опуская крышку парты. С почтительным любопытством его окружали, теснили, требовали подробностей. Он ничего не знал, и сам старался из расспросов узнать что-нибудь. Выходило так: депутат Туманский задел честь его отца, и отец вызвал Туманского на дуэль.</p>
+   <p>Прошли, влачась, еще два урока, затем была большая перемена, играли на дворе в снежки, и Путя стал почему-то начинять комья снега мерзлой землей, чего прежде никогда не делал. На следующем уроке немец Нуссбаум разорался на Щукина (которому в тот день не везло), и тогда Путя почувствовал спазму в горле, и, чтобы не расплакаться при всех, отпросился в уборную. Там, около умывальника, одиноко висело донельзя замаранное, донельзя склизкое полотенце, — вернее, труп полотенца, прошедшего через множество мокрых, мнущих торопливых рук. Путя с минуту смотрелся в зеркало, — лучший способ не дать лицу расплыться в гримасу плача.</p>
+   <p>Он подумал, не уйти ли домой до срока, — но эту мысль отогнал. Выдержка, главное — выдержка. В классе буря стихла. Щукин, с пурпурными ушами, но совершенно спокойный, уже сидел на своем месте, сложив руки крестом.</p>
+   <p>Еще два урока и, наконец, — последний звонок, длинный и хриплый. Надев ботики, полушубок, шапку с наушниками, Путя выбежал во двор, углубился в туннель ворот, прыгнул через подворотню… Автомобиля за ним не прислали, пришлось взять извозчика. Извозчик, худозадый, с плоской спиной, сидел криво, и, по-своему, погоняя лошадь, то делал вид, что вытаскивает из голенища кнут, то мягко взмахивал рукой, точно кого подзывая, и тогда санки дергались, и в путином ранце постукивал пенал, и все это было как-то ужасно томительно и тревожно, — и большие, неровные, наскоро слепленные снежинки падали на плешивую полость.</p>
+   <p>В доме, с тех пор как уехали мать и сестра, бывало в этот час тихо. Путя поднялся по широкой, пологой лестнице, где на площадке, около малахитового столика, с вазой для визитных карточек, стояла безрукая Венера, которую однажды его двоюродные братья нарядили в плюшевую шубу и шляпу с вишнями, после чего она сделалась похожа на Прасковью Степановну, бедную вдову, приходившую каждое первое число. Добравшись до верху, он стал звать гувернантку. Но у мисс Шелдон сидела гостья, — англичанка Веретенниковых. Мисс Шелдон послала Путю готовить на завтра уроки. Предварительно вымыть руки и выпить стакан молока. Дверь захлопнулась. Путя, чувствуя, как его обволакивает душная, страшная, ватная тоска, посидел в детской, потом спустился в бельэтаж, заглянул в отцовский кабинет. Все было невозможно тихо. В тишине с сухим звуком упал загнутый лепесток хризантемы. На тяжелом, сдержанно блестевшем письменном столе стройно и неподвижно, в космическом порядке, стояли, как планеты, знакомые вещи — фотографии, мраморное яйцо, торжественная чернильница.</p>
+   <p>Путя перешел в будуар матери, и оттуда в фонарь, и долго стоял там, глядя в продолговатое окно. На улице было уже почти темно; вокруг лиловатых стеклянных глобусов летал снег; внизу смутно текли черные сани с черными горбатыми седоками. Быть может, завтра утром. Это всегда происходит по утрам, очень рано.</p>
+   <p>Он сошел вниз. Молчание и пустыня. В библиотеке он судорожно включил свет, черные тени отхлынули. Пристроившись у одного из шкапов, он попробовал заняться рассмотрением толстых переплетенных журналов. Красота мужчин в роскошной бороде и пышных усах. Я долго страдала от угрей. Концертный аккордеон «Удовольствие» с 20-ю голосами, 10-ю клапанами. Группа священников и деревянная церковь. Картина с надписью «Чужие»: господин пригорюнился у письменного стола, дама, в кудрявом боа, стоит поодаль, гантируя расправленную руку. Этот том я уже смотрел. Он взял другой и сразу напоролся на поединок между двумя итальянскими фехтовальщиками, — этот сделал бешеный выпад, тот отстранился и пронзил противнику горло. Путя захлопнул тяжелый том и замер, держась за виски, как взрослый. Страшна была тишина, страшны неподвижные шкапы, глянцевитые гирьки на дубовом столе, черные коробки картотеки. Опустив голову, он вихрем пронесся через туманные комнаты. Наверху, в детской, он лег на диван и пролежал так в темноте, пока о нем не вспомнила мисс Шелдон. На лестнице загудел гонг, зовущий вниз, к обеду.</p>
+   <p>Из кабинета вышел отец, и с ним полковник Розен, который когда-то был женихом сестры отца, умершей в молодости. Путя не смел на отца взглянуть, и, когда большая ладонь знакомым теплом коснулась его виска, он покраснел до слез. Невозможно, нестерпимо думать, что этому человеку, лучше которого нет в мире, предстоит драться с каким-то туманным Туманским, — на чем? На пистолетах? На шпагах? Почему все молчат об этом? Знают ли что-нибудь слуги, гувернантка, мать в Ментоне? Полковник Розен за обедом острил, как острил всегда, сухо, кратко, будто раскалывал орехи, но сегодня Путя не смеялся, а поминутно заливался краской и, скрывая это, нарочно ронял салфетку, чтобы тихонько под столом отойти, вернуться к нормальному цвету, но вылезал оттуда еще краснее прежнего, и отец поднимал брови, посмеивался, — и, не спеша, со свойственной ему ровностью, исполнял обряд обеда, осторожно глотал вино из плоской золотой чарочки. Полковник продолжал острить. Мисс Шелдон, не понимавшая по-русски, молчала, строго выпятив грудь, и когда Путя горбился, неприятно подталкивала его под лопатки. На сладкое подали фисташковое парфэ, которое он ненавидел.</p>
+   <p>По окончании обеда, отец и полковник поднялись в кабинет пить кофе. У Пути был такой странный вид, что отец спросил: «Путя, в чем дело? Почему ты кислый?» И каким-то чудом Путе удалось ответить: «Нет, я не кислый». Мисс Шелдон увела его спать. Как только погас свет, он уткнулся лицом в подушку. Онегин скидывал плащ, Ленский, как черный мешок, падал на подмостки. У итальянца, сзади из шеи, торчал конец клинка. Маскара любил рассказывать, как в молодости он имел une affaire<a l:href="#n_2" type="note">[2]</a> — полсантиметра ниже, и была бы проткнута печень. И уроки на завтра не сделаны, и тьма кромешная в комнате, и нужно будет непременно встать пораньше, пораньше, — лучше не закрывать глаз, а то проспишь, — ведь это, наверное, назначено на завтра. Пропущу школу, пропущу, я скажу, что горло. Мама вернется только на Рождество. Ментона, голубые виды. Вставить последнюю открытку в альбом. Один уголок вошел, другой…</p>
+   <p>Проснулся Путя, как всегда, около восьми, как всегда услышал звон: это звякнул печной заслонкой истопник. Когда, спеша, с влажными еще волосами, он спустился вниз, отец, как ни в чем ни бывало, занимался боксом с французом. «Горло болит?» — переспросил отец. «Да. Першит», — тихо ответил Путя. «А ты не врешь?» Путя почувствовал, что всякие дальнейшие объяснения опасны, — вот лопнет плотина, хлынет постыдный поток. Он молча повернулся и через минуту сидел в автомобиле, держа на коленях ранец. Поташнивало. Все было ужасно и непоправимо.</p>
+   <empty-line/>
+   <p>Он опоздал на первый урок, — долго стоял с поднятой рукой за стеклянной дверью, но в класс не был впущен, — и пошел слоняться по залу, потом сел на подоконник, решил было просмотреть заданные уроки, но вместо этого в тысячный раз стал воображать, как это все будет, — на морозе, в рассветном тумане… Как выведать условленный день? Как узнать подробности? Если б уже быть в восьмом классе, нет, хотя бы в седьмом… Тогда предложить: я тебя заменю.</p>
+   <empty-line/>
+   <p>Наконец, — звонок. Зал наполнился шумом. «Ну, что, доволен? Доволен?» — спросил Дима Корф, подскочив к Путе. Путя посмотрел на него с тоскливым недоумением. «У Андрея внизу газета, — взволнованно сказал Дима. — Пойдем, мы успеем, я тебе покажу. Но какой ты странный… Я бы на твоем месте…»</p>
+   <empty-line/>
+   <p>Внизу на табурете сидел швейцар Андрей и читал. Он поднял глаза и улыбнулся. «Вот тут, вот», — сказал Дима. Путя взял газету и сквозь дрожащую муть прочел: «Вчера, в 3 часа дня, на Крестовском острове, между Г. Д. Шишковым и графом А. С. Туманским состоялась дуэль, окончившаяся, к счастью, бескровно. Граф Туманский, стрелявший первым, дал промах, после чего его противник выстрелил в воздух. Секундантами со стороны…».</p>
+   <p>Тут воды прорвались. Швейцар и Дима старались успокоить его, — он отталкивал их, дергался, отстранял лицо, невозможно было дышать, никогда еще не бывало таких рыданий, не говорите, пожалуйста, не рассказывайте никому, это я нездоров, у меня болит… И снова рыдания.</p>
+  </section>
+ </body>
+ <body name="notes">
+  <title>
+   <p>Примечания</p>
+  </title>
+  <section id="n_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p>Бейте по оружию! Уходите от укола! (фр.) — фехтовальные термины.</p>
+  </section>
+  <section id="n_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p>Здесь: дуэль <emphasis>(фр.)</emphasis></p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+y0cYjRCF1HMCEIQAIQhAC2SIQgAQhCAP/9k=</binary>
+</FictionBook>

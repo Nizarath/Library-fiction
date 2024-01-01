@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Обида</book-title>
+   <annotation>
+    <p>«Соглядатай» — роман, занимающий особое место в многообразном, многоуровневом творчестве В. Набокова. Практически впервые здесь набоковская проза, обычно — холодно-изящная, становится нервной, захлебывающейся, угловатой. Экспрессионистская ли эстетика довлеет здесь над «вечной» для писателя темой эмигрантской трагедии — или, напротив, тоска выломившейся из прошлого и утратившей надежду на будущее «России в изгнании» задает неровный, «дерганный» ритм повествования? Мнений может быть много, но — какое из них верное? Решите сами…</p>
+   </annotation>
+   <date>1938</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Соглядатай" number="1"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb+FBE, FB Editor v2.0, FictionBook Editor 2.4</program-used>
+   <date value="2009-07-27">2009-07-15</date>
+   <id>E345E711-22D0-4222-AC35-67D8726D173D</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Владимир Набоков. Соглядатай.</book-name>
+   <publisher>Издательство "ФОЛИО" </publisher>
+   <city>Харьков</city>
+   <year>2001</year>
+   <isbn>5-17-006663-5</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Владимир Набоков</p>
+   <p>ОБИДА</p>
+  </title>
+  <section>
+   <epigraph>
+    <p>Ивану Алексеевичу Бунину</p>
+   </epigraph>
+   <p>Путя сидел на козлах, рядом с кучером (он не особенно любил сидеть на козлах, но кучер и домашние думали, что он это любит чрезвычайно, Путе же не хотелось их обидеть, — вот он там и сидел, желтолицый, сероглазый мальчик в нарядной матроске). Пара откормленных вороных, с блеском на толстых крупах и с чем-то необыкновенно женственным в долгих гривах, пышно похлестывая хвостами, бежала ровной плещущей рысью, и мучительно было наблюдать, как, несмотря на движение хвостов и подергивание нежных ушей, несмотря также на густой дегтярный запах мази от мух, тусклый слепень или овод с переливчатыми глазами навыкате присасывался к атласной шерсти.</p>
+   <p>У кучера Степана, мрачного пожилого человека в черной безрукавке поверх малиновой рубахи, была крашеная борода клином и коричневая шея в тонких трещинках. Путе было неловко, сидя с ним рядом, молчать; поэтому он пристально смотрел на постромки, на дышло, придумывая любознательный вопрос или дельное замечание. Изредка у той или другой лошади приподнимался напряженный корень хвоста, под ним надувалась темная луковица, выдавливая круглый золотой ком, второй, третий, и затем складки темной кожи вновь стягивались, опадал вороной хвост.</p>
+   <p>В коляске сидела, заложив нога на ногу, путина сестра, смуглая молодая дама (ей было всего девятнадцать лет, но она уже успела развестись), в светлом платье, в высоких белых сапожках на шнурках с блестящими черными носками и в широкополой шляпе, бросавшей кружевную тень на лицо. У нее с утра настроение было дурное, и когда Путя в третий раз обернулся к ней, она в него нацелилась концом цветного зонтика и сказала: «Пожалуйста, не вертись!»</p>
+   <empty-line/>
+   <p>Сначала ехали лесом. Скользящие по синеве великолепные облака только прибавляли блеска и живости летнему дню. Ежели снизу смотреть на вершины берез, они напоминали пропитанный светом, прозрачный виноград. По бокам дороги кусты дикой малины обращались к жаркому ветру бледным исподом листьев. Глубина леса была испещрена солнцем и тенью, — не разберешь, что ствол, что просвет. Там и сям райским изумрудом вдруг вспыхивал мох; почти касаясь колес, пробегали лохматые папоротники.</p>
+   <p>Навстречу появился большой воз сена — зеленоватая гора в дрожащих тенях. Степан попридержал лошадей, гора накренилась на одну сторону, коляска в другую, — едва разминулись на узкой лесной дороге, и повеяло острым полевым духом, послышался натруженный скрип тележных колес, мелькнули в глазах вялые скабиозы и ромашки среди сена, — но вот Степан причмокнул, тряхнул вожжами, и воз остался позади. А погодя расступился лес, коляска свернула на шоссе, и дальше пошли скошенные поля, — звон кузнечиков в канавах, гудение телеграфных столбов. Сейчас будет село Воскресенское, а еще через несколько минут — конец.</p>
+   <p>«Сказаться больным? Свалиться с козел?» — уныло подумал Путя, когда показались первые избы.</p>
+   <empty-line/>
+   <p>Тесные белые штанишки резали в паху, желтые башмачки сильно жали, неприятно перебирало в животе. День предстоял гнетущий, отвратительный, но неизбежный.</p>
+   <p>Уже ехали селом, и откуда-то из-за изб и заборов отзывалось деревянное эхо на согласный копытный плеск. Мальчишки играли в городки на заросшей травой обочине, со звоном взлетали рюхи. Мелькнули серебряные шары и ястребиное чучело в саду местного лавочника. Собака, молча, копя лай, выбежала из-за ворот, перемахнула через канаву и только тогда залилась лаем, когда догнала коляску. Протрусил верхом на гнедой, мохнатой деревенской лошадке, широко расставив локти и весь трясясь, мужик в рубахе, раздутой ветром и порванной на плече.</p>
+   <empty-line/>
+   <p>В конце села, на пригорке, среди густых лип, стояла красная церковь, а рядом с ней — небольшой белокаменный склеп, похожий формой на пасху. Раскрылся вид на реку, — вода была зеленая, цвелая, местами словно подернутая парчой. Сбоку от спускающегося шоссе жалась приземистая кузница, — кто-то вывел на ее стене крупными меловыми буквами: «Да здравствует Сербия!» Стук копыт сделался вдруг звонким, упругим: ехали по мосту. Босой старик, опершись на перила, удил рыбу; у его ног блестела жестяная банка. Стук копыт смягчился снова; мост и рыбак и речная излучина отстали непоправимо.</p>
+   <empty-line/>
+   <p>Теперь коляска катилась по пыльной, пухлой дороге, обсаженной дородными березами. Сейчас, вот сейчас из-за парка, выглянет зеленая крыша — усадьба Козловых. Путя знал по опыту, как все будет неловко и противно, и с охотой отдал бы свой новый велосипед «Свифт» — и что еще в придачу? — стальной лук, скажем, и пугач, и весь запас пробок, начиненных порохом, — чтобы сейчас быть за десять верст отсюда, у себя на мызе, и там проводить летний день, как всегда, в одиноких, чудесных играх.</p>
+   <p>Из парка пахнуло грибной сыростью, еловой темнотой, а затем показался угол дома и кирпичный песочек перед каменным подъездом.</p>
+   <empty-line/>
+   <p>«Дети в саду», — сказала Анна Федоровна (Козлова), когда Путя с сестрой, пройдя через прохладные комнаты, где пахло гвоздиками, вышел на веранду; там сидело человек десять взрослых; Путя перед каждым расшаркивался, стараясь не чмокнуть по ошибке руку мужчин, как это однажды случилось. Сестра держала ладонь у него на темени, чего никогда не делала дома. Затем она села в плетеное кресло и необычайно повеселела. Все заговорили разом. Анна Федоровна взяла Путю за кисть, повела его вниз по ступеням, между лавровых и олеандровых кустов в зеленых кадках, и таинственно указала пальцем в сад. «Они там, — сказала она, — ты пойди к ним». После чего она вернулась к гостям. Путя остался один на нижней ступени.</p>
+   <empty-line/>
+   <p>Начиналось прескверно. Необходимо было пройти через красную садовую площадку вон туда, в аллею, где среди солнечных пятен дрыгали голоса, и что-то пестрело. Надо было проделать этот путь одному, приближаться, без конца приближаться, постепенно входить в поле зрения многих глаз.</p>
+   <empty-line/>
+   <p>Именинником был Володя Козлов, бойкий, насмешливый мальчик, одних с Путей лет. У Володи был брат Костя и две сестры, Бэби и Леля. Из соседнего имения приехали в шарабанчике двое маленьких Корфов и сестра их Таня, миловидная девочка с прозрачной кожей, синевой под глазами и черной косой, схваченной над тонкой шеей белым бантом. Кроме них были три гимназиста и тринадцатилетний, крепкий, ладный, загорелый Вася Тучков. Играми руководил студент, Яков Семенович, воспитатель Володи и Кости, пухлявый, грудастый молодой человек, в белой косоворотке, с бритой головой и с пенсне без ободков на точеном носу, вовсе не шедшем к яйцевидной полноте его лица. Когда Путя наконец подошел, Яков Семенович и дети метали копье в большую мишень из разноцветной соломы, прибитую к еловому стволу.</p>
+   <p>Последний раз Путя был у Козловых в Петербурге, на Пасхе, и тогда показывали туманные картины: Яков Семенович читал вслух «Мцыри», а другой студент орудовал волшебным фонарем. На мокрой простыне, в световом кругу, появлялась (судорожно набежав и остановившись) цветная картина, — например: Мцыри и прыгающий на него барс. Яков Семенович, прервав на минуту чтение, указывал палочкой на Мцыри и затем на барса; при этом палочка окрашивалась в цвета картины, и цвета потом соскальзывали, когда он палочку отодвигал. Каждая картина оставалась на простыне долго, так как их было только десять штук на всего «Мцыри». Вася Тучков иногда поднимал в темноте руку, дотягивался до луча, и на полотне возникали растопыренные черные пальцы. Раза два студент у фонаря вставлял пластинку неправильно, картина выходила вверх ногами, Тучков хохотал, а Путя мучительно краснел за студента, — и вообще старался делать вид, что он страшно интересуется. Тогда же он познакомился с Танечкой Корф и с тех пор часто думал о ней, представляя себе, как спасает ее от разбойников, как пособляет ему и преданно любуется его смелостью Вася (у которого, по слухам, был дома настоящий револьвер с перламутровой рукояткой).</p>
+   <p>Сейчас, расставив загорелые ноги, небрежно опустив левую руку на свой холщовый пояс с цепочкой и кожаным кошельком, Вася метил легким копьем в мишень, — вот раскачнулся, вот попал в самую середину, и Яков Семенович громко сказал: «браво». Путя осторожно вытащил копье, тихо отошел, тихо прицелился и попал тоже в середку; этого, впрочем, никто не заметил, так как игра кончилась, и все были заняты другим: приволокли и поставили посреди аллеи нечто вроде низенького поставца, с круглыми дырками по верху и толстой металлической лягушкой, широко разинувшей рот. Следовало попасть свинцовым пятаком либо в одну из дырок, либо лягушке в рот. Пятак проваливался в отделения с цифрами, лягушкин рот оценивался в пятьсот очков. Бросали по очереди, каждый по несколько раз. Игра была довольно тягучая, и в ожидании своей очереди некоторые из детей залезли в черничные заросли под деревьями. Ягода была крупная, матово-синяя, и загоралась лиловым блеском, если тронуть ее замусоленным пальцем. Путя, присев на корточки и кротко покрякивая, набирал чернику в ладонь и потом совал в рот всю горсть. Так получалось особенно вкусно. Иногда попадал в рот вместе с ягодами жесткий листик. Вася Тучков нашел маленькую гусеницу с разноцветными пучками волосков вдоль спины (вроде как у зубной щетки) и спокойно проглотил ее, к общему восхищению. В парке постукивал дятел, над травой жужжали тяжелые шмели и вползали в бледные, склоняющиеся венчики боярских колокольчиков. С аллеи доносился стук бросков и зычный картавый голос Якова Семеновича, советовавший кому-то лучше целиться. Рядом с Путей нагнулась Таня и с необыкновенно внимательным выражением на бледном лице, полуоткрыв фиолетовые блестящие губы, обшаривала кустик. Путя, набравший в ладонь ягод, молча предложил ей всю горсть, она милостиво ее приняла, и Путя начал набирать для нее еще порцию. Но тут настала ее очередь бросать пятак, и она побежала к аллее, высоко поднимая тонкие ноги в белых чулках.</p>
+   <empty-line/>
+   <p>Игра в лягушку начинала всем надоедать, одни пропустили свой черед, другие швыряли кое-как, а Вася Тучков запустил в лягушку камнем, и все рассмеялись, кроме Якова Семеновича и Пути. Володя, именинник, стал требовать, чтобы сыграли в палочку-стукалочку. Мальчики Корф присоединились к этому, Таня запрыгала на одной ноге, хлопая в ладоши. «Нельзя, ребята, нельзя, — сказал Яков Семенович. — Через каких-нибудь полчаса мы поедем с вами на пикник, а если вы будете разгоряченные, то не исключена простуда». «Ну, пожалуйста, пожалуйста!» — затянули все. «Пожалуйста», — тихо повторил за другими Путя, решив, что устроится так, чтобы спрятаться вместе с Васей или Таней.</p>
+   <empty-line/>
+   <p>«Придется общую просьбу исполнить, — сказал Яков Семенович, любивший округлять свою речь. — Но только где же необходимое орудие?» Володя бросился по направлению куртин.</p>
+   <empty-line/>
+   <p>Путя подошел к зеленой скамье качалки, на которой стояли Таня, Леля и Вася; последний скакал и притоптывал так, что доска, кряхтя, дрыгала, и девочки вскрикивали и балансировали руками. «Падаю, падаю!» — воскликнула Таня и вместе с Лелей спрыгнула на траву. «Хотите еще черники?» — предложил Путя. Она покачала головой, потом покосилась на Лелю и, обратившись к Путе, сказала: «Мы с Лелей решили больше с вами не разговаривать». «Почему?» — пробормотал Путя, густо покраснев. «Потому что вы ломака», — ответила она и, отвернувшись, вскочила на скамейку. Путя притворился, что поглощен разглядыванием курчаво-черной кротовинки с краю аллеи.</p>
+   <empty-line/>
+   <p>Между тем, запыхавшийся Володя принес палочку, зеленую, острую, из тех, коими подкрепляют на клумбах пионы и георгины. Стали решать, кому быть стучальщиком. «Раз. Два. Три, — смешным повествовательным тоном начал Яков Семенович, тыча при каждом слове пальцем. — Четыре. Пять. Вышел зайчик. Погулять. Вдруг охотник (Яков Семенович остановился и сильно чихнул). Выбегает (…продолжал он, поправив пенсне). Прямо в зайчика… Стреляет. Пиф. Паф. Ой. Ой. Ой. У. Ми. Ра. Ет (слоги веско замедлялись). Зай. Чик. Мой».</p>
+   <p>«Мой» пал на Путю. Но тут все остальные еще теснее обступили Якова Семеновича, умоляя, чтобы искал он. Раздавались возгласы: «Пожалуйста, это будет гораздо интереснее». «Так и быть. Я согласен», — ответил он, даже не взглянув на Путю.</p>
+   <empty-line/>
+   <p>В том месте, где аллея выходила на садовую площадку, стояла беленая, местами облупившаяся скамейка с решетчатой, тоже беленой, тоже облупившейся спинкой. На эту скамейку сел, держа в руках палочку, Яков Семенович, сгорбил жирную спину, плотно зажмурился и стал вслух считать до ста, давая этим время спрятаться. Вася и Таня, словно сговорившись, побежали в глубину парка, один из гимназистов стал за липу, в трех шагах от скамейки, — а Путя, с тоской посмотрев на пестрые тени парка, отвернулся и направился в другую сторону, к дому, решив засесть на веранде, — не на той, конечно, где взрослые пили чай и где пел по-итальянски граммофон со сверкающим рупором, — на другой, наискосок от аллеи. Веранда, к счастью, оказалась пуста. Под цветными стеклами, бросавшими на них цветные отражения, тянулись мягкие лавки, обитые сизым сукном в махровых розах. Была там еще венская качалка, чисто вылизанная миска на полу и круглый стол, покрытый клетчатой клеенкой. На столе ничего не было, кроме чьих-то одиноко лежавших стариковских очков.</p>
+   <empty-line/>
+   <p>Путя подполз к многоцветному окну и замер у белого подоконника. Был виден поодаль на розовой скамейке розовый Яков Семенович, неподвижно сгорбленный, под мелкой, рубиново-черной листвой. План путин был прост: как только Яков Семенович досчитает до ста, стукнет палочкой, положит ее на скамейку и отойдет по направлению к парковым кустам, где были наиболее правдоподобные места для засады, — ринуться с веранды к скамейке, к палочке. Прошло полминуты. Голубой Яков Семенович сидел, согнувшись, под черно-синими листьями и топал носком по серебристому песку в такт счету. Как весело было бы так ждать и поглядывать сквозь разные стекла, если бы Таня… За что? Что я такого сделал?</p>
+   <p>Меньше всего было простых белых стекол. Вот просеменила по песку трясогузка. В углах ромбовидных оконных рам были паутинки. На подоконнике лежала дохлая муха. Ярко-желтый Яков Семенович встал с золотой скамейки и застучал по ней палочкой. В то же мгновение дверь на веранду открылась, и из полутьмы комнаты появилась сперва толстая рыжая такса, а затем — седая стриженая старушка в черном платье с тугим пояском, с большой брошкой в виде трилистника на груди и с цепочкой от часов вокруг шеи, — часы же были засунуты за поясок. Собака, очень лениво, бочком, спустилась по ступенькам в сад, а старушка, подойдя к столу, сердито схватила очки, за которыми и пришла. Вдруг она заметила Путю, сползшего на пол. «Priate-qui? Priate-qui?» — произнесла она (с тем шутовским выговором, с каким изъясняются по-русски старые француженки, прожившие у нас лет сорок). «Toute n’est caroche», — продолжала она, ласково глядя на смущенное, умоляющее путино лицо. — «Sichasse pocajou caroche messt».</p>
+   <p>Изумрудный Яков Семенович стоял, подбоченясь, на бледно-зеленом песке и смотрел сразу по всем направлениям. Путя, боясь скрипучего и суетливого голоска старушки, — а еще пуще боясь ее обидеть отказом, — поспешно за ней последовал, но чувствовал при этом, что получается страшная чепуха. Она шла, цепко держа его за руку, через прохладные комнаты, — мимо белого рояля, гвоздик и гортензий, голубого ломберного стола, трехколесного велосипедика, деревянной болванки селезня, лосьих рогов, шкапов с книгами, — все это бестолково выскакивало из разных углов, и Путя с ужасом соображал, что старушка вводит его далеко, на другую сторону дома, — а как объяснить ей, не огорчив ее, что игра, в которую он играет, скорее засада, чем прятки, что нужно ловить мгновение, когда Яков Семенович достаточно далеко отойдет от палочки, дабы успеть добежать до нее и постучать? Она провела его через пять-шесть комнат, потом через коридор, потом вверх по лестнице, потом через светлую горницу, где на сундуке у окна сидела румяная женщина и вязала на спицах; женщина подняла глаза, улыбнулась и, опустив опять ресницы, продолжала вязать. Старушка ввела его в следующую комнату: там стоял обитый кожей диван и пустая птичья клетка. Между огромным, красно-бурым бельевым шкапом и изразцовой печкой была как бы темная ниша. «Votte», — сказала старушка и, легким нажимом вправив его туда, удалилась в соседнюю комнату, где продолжала разговор, никакого отношения к Путе не имевший, и слушательница, та, что вязала, изредка восклицала с удивлением: «Скажите пожалуйста!».</p>
+   <empty-line/>
+   <p>Путя стоял в своем закуте (сначала на коленках, словно он, в самом деле, таился, но потом выпрямился), и смотрел оттуда на стену в равнодушно-лазурных завитках, на окно, за которым мерцала верхушка тополя. Равномерно и хрипло стучали часы, и это почему-то напоминало всякие скучные и грустные вещи.</p>
+   <empty-line/>
+   <p>Прошло очень много времени. Вдруг разговор по соседству стал медленно уплывать и замер в отдалении. Тишина. Путя вылез.</p>
+   <empty-line/>
+   <p>Спустившись по лестнице, он на цыпочках пробежал через комнаты (шкапы, рога, велосипед, голубой стол, рояль), и вот, в глубине, ударила полоса цветного солнца, открытая дверь на веранду. Путя, крадучись, пробрался к стеклам и выбрал белое. На скамейке лежала зеленая палочка. Якова Семеновича не было видно; он, вероятно, отошел за те елки.</p>
+   <empty-line/>
+   <p>Путя, улыбаясь и волнуясь, спрыгнул в сад и опрометью бросился к скамейке. Он еще бежал, когда заметил какую-то странную кругом неотзывчивость. Все же, не уменьшая скорости, он достиг скамейки и трижды стукнул палочкой. Впустую. Никого кругом не было. Трепетали солнечные пятна. По ручке скамейки ползла божья коровка, неряшливо выпустив из-под своего маленького крапчатого купола прозрачные кончики кое-как сложенных крыл.</p>
+   <empty-line/>
+   <p>Путя подождал несколько минут, озираясь исподлобья, и вдруг понял, что его забыли, игра давно кончилась, а никто не спохватился, что есть еще кое-кто ненайденный, таящийся, — забыли и уехали на пикник. Пикник же был единственным более или менее приятным обещанием этого дня, — приятно было, что взрослые не поедут, приятна было думать о печеном на костре картофеле, ватрушках с черникой, холодном чае в бутылках. Пикник отняли, но с этим лишением можно было примириться. Главное состояло в другом.</p>
+   <empty-line/>
+   <p>Путя переглотнул и неуверенно направился к дому, помахивая зеленой палочкой и стараясь сдержать слезы. На веранде играли в карты, — донесся смех сестры, неприятный смех. Он обошел дом с другой стороны, смутно думая, что там где-то должен быть пруд, и можно оставить на берегу платок с меткой и свисток на белом шнурке, а самому незаметно отправиться домой… Вдруг, завернув за угол дома, к водокачке, он услышал знакомый шум голосов. Все тут были, — Яков Семенович, Вася, Таня, все остальные; они окружали мужика, который принес показать только что пойманного совенка. Совенок, толстенький, рябой, с прищуренными глазами, вертел головой, — вернее, не головой, а своим очкастым личиком, ибо нельзя было разобрать, где начинается голова, и где кончается тело.</p>
+   <empty-line/>
+   <p>Путя приблизился. Вася Тучков оглянулся и, обратившись к Тане, сказал со смешком:</p>
+   <p>«А вот идет ломака».</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+y0cYjRCF1HMCEIQAIQhAC2SIQgAQhCAP/9k=</binary>
+</FictionBook>

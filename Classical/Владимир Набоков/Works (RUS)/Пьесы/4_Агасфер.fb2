@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>dramaturgy</genre>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Агасфер</book-title>
+   <annotation>
+    <p>Сценарий пантомимы на симфоническую музыку В. Ф. Якобсона Набоков писал в соавторстве с И. С. Лукашем в сентябре — ноябре 1923 г. Пролог написан Набоковым самостоятельно — под его текстом в газете значится «В. Сирин».</p>
+   </annotation>
+   <date>1923</date>
+   <coverpage>
+    <image l:href="#p.jpg"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Andrey</first-name>
+    <last-name></last-name>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb, FB Editor v2.0</program-used>
+   <date value="2009-08-01">2009-07-31</date>
+   <id>0FB2FFD6-DB4E-4227-BC48-179BC216E38F</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Трагедия господина Морна. Пьессы. Лекции о драме.</book-name>
+   <publisher>Азбука-классика</publisher>
+   <city>СПб.</city>
+   <year>2008</year>
+   <isbn>978-5-91181-768-8</isbn>
+  </publish-info>
+  <custom-info info-type="">Бумажная версия книги оцень хорошего качества. Любой, кто интересуется творчеством Владимира Набокова, должен иметь ее в своей коллекции.</custom-info>
+ </description>
+ <body>
+  <title>
+   <p><strong>Агасфер</strong></p>
+  </title>
+  <section>
+   <subtitle>Драматический монолог, написанный в виде пролога для инсценированной симфонии</subtitle>
+  </section>
+  <section>
+   <title>
+    <p>Пролог</p>
+   </title>
+   <p><emphasis>(голос в темноте)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Все, все века, прозрачные, лепные</v>
+     <v>тобой, любовь, снутри озарены, —</v>
+     <v>как разноцветные амфоры… Сны</v>
+     <v>меня томят, апокрифы земные…</v>
+     <v>Века, века… Я в каждом узнаю</v>
+     <v>одну черту моей любви. Я буду</v>
+     <v>и вечно был: душа моя в Иуду</v>
+     <v>врывается, и — небо продаю</v>
+     <v>за грешницу… Века плывут. Повсюду</v>
+     <v>я странствую: как Черный Паладин</v>
+     <v>с Востока еду в золотистом дыме…</v>
+     <v>Века плывут, и я меняюсь с ними:</v>
+     <v>Флоренции я страстный властелин,</v>
+     <v>и весь я — пламя, роскошь и отвага!..</v>
+     <v>Но вот мой путь ломается, как шпага:</v>
+     <v>я — еретик презренный… Я — Марат,</v>
+     <v>в июльский день тоскующий… Бродяга —</v>
+     <v>я, Байрон, — средь невидимых дриад</v>
+     <v>в журчащей роще — что лепечет влага?</v>
+     <v>Не знаю, — прохожу… Ловлю тебя,</v>
+     <v>тебя, Мария, сон мой безглагольный,</v>
+     <v>из века в век!.. По-разному любя,</v>
+     <v>мы каждому из тех веков невольно</v>
+     <v>цвет придаем, — цвет, облик и язык,</v>
+     <v>ему присущие… Тоскуем оба:</v>
+     <v>во мне ты ищешь звездного огня,</v>
+     <v>в тебе ищу земного. У меня —</v>
+     <v>два спутника: один — Насмешка; Злоба —</v>
+     <v>другой; и есть еще один Старик —</v>
+     <v>любви моей бессмертный соглядатай…</v>
+     <v>А вкруг тебя скользят четой крылатой</v>
+     <v>два голубиных призрака всегда…</v>
+     <v>Летит твоя падучая звезда</v>
+     <v>из века в век, — и нет тебе отрады:</v>
+     <v>ты — Грешница в евангельском луче;</v>
+     <v>ты — бледная Принцесса у ограды;</v>
+     <v>ты — Флорентийка в пламенной парче,</v>
+     <v>вся ревностью кипящая Киприда!</v>
+     <v>Ты — пленница священного Мадрида,</v>
+     <v>в тугих цепях, с ожогом на плече…</v>
+     <v>Ты — девушка, вошедшая к Марату<a l:href="#c_1">{1}</a>…</v>
+     <v>Как помню я последнюю утрату, —</v>
+     <v>как помню я!.. Гречанкою слепой</v>
+     <v>являешься — и лунною стопой</v>
+     <v>летаешь ты по рощице журчащей.</v>
+     <v>Иду я — раб, тоску свою влачащий…</v>
+     <v>Века, века… Я в каждом узнаю</v>
+     <v>одну черту моей любви; для каждой</v>
+     <v>черты — свой век; и все они мою</v>
+     <v>тоску таят… Я — дух пустынной жажды,</v>
+     <v>я — Агасфер<a l:href="#c_2">{2}</a>. То в звездах, то в пыли</v>
+     <v>я странствую. Вся летопись земли —</v>
+     <v>сон обо мне. Я был и вечно буду.</v>
+     <v>Пускай же хлынут звуки отовсюду!</v>
+     <v>Встаю, тоскую, крепну… В вышине</v>
+     <v>Моя любовь сейчас наполнит своды!..</v>
+     <v>О, музыка моих скитаний, воды</v>
+     <v>и возгласы веков, ко мне… ко мне!..</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>1923</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Примечания</p>
+   </title>
+   <subtitle>Агасфер</subtitle>
+   <subtitle>Драматический монолог, написанный в виде пролога для инсценированной симфонии</subtitle>
+   <subtitle>Впервые: Руль. 1923. 2 декабря.</subtitle>
+   <p>Сценарий пантомимы на симфоническую музыку В. Ф. Якобсона Набоков писал в соавторстве с И. С. Лукашем в сентябре — ноябре 1923 г. Пролог написан Набоковым самостоятельно — под его текстом в газете значится «В. Сирин».</p>
+   <p>В газетной публикации драматическому монологу предшествовала заметка, подписанная «Л. С. Я.», одним из авторов которой был Набоков (если инициалы раскрыть как «Лукаш, Сирин, Якобсон»):</p>
+   <p>«На днях Иван Лукаш и Владимир Сирин, совместно с композитором В. Ф. Якобсоном, закончили работу над симфонией его, предназначенной для театральной постановки.</p>
+   <p>После нескольких месяцев труда авторам и композитору удалось найти для симфонии этой форму сценического воплощения. Это — драматическая пантомима в пяти частях.</p>
+   <p>Творческий ее замысел таков: дать оправданную музыкой театральную игру, драматические столкновения и степень переживаний которой были бы выразителями соответствующих музыкальных сочетаний симфонии.</p>
+   <p>Следуя романтическим сменам музыкального стиля композитора, авторы создали романтическую эпопею о любви, скитающейся по земле, как вечный скиталец Агасфер. Духовные волны, настроения, переживания симфонии нашли свое выражение в тех или иных актах, приобщенных к эпохам, наиболее мощно воплощающим эти духовные волны симфонии.</p>
+   <p>В пантомиму авторами введено слово и диалог, которые врываются в пластическую, немую игру там, где для этого есть действительная драматическая необходимость.</p>
+   <p>"Агасфер", или "Апокриф любви", по содержанию — вечное столкновение мужчины и женщины, вечное искание и вечное ненахождение любви.</p>
+   <p>Эта новая музыкально-сценическая работа будет на днях прочтена, в сопровождении музыки, для представителей русской прессы и русского театра в Берлине».</p>
+   <p>О чтении «Агасфера» в «Руле» вскорости появился отзыв:</p>
+   <cite>
+    <p>«Недавно в частном доме состоялось эскизное исполнение на рояле М. &lt;sic!&gt; Якобсоном музыки для пантомимы "Агасфер" с параллельным чтением сценария авторами его В. Сириным и И. Лукашем. Сюжет трагической пантомимы по широте замысла претендует на философско-символическое значение и сквозь разные эпохи проводит идею вечного странствования любви, неудовлетворенности и роковой обреченности. Но как часто в таких произведениях основная мысль (выраженная в красивых стихах пролога) туманно мерцает, дробится — символы проведены недостаточно последовательно и не чувствуется выдержанной аналогии в стилизациях разных эпох. Основным образом сомнительно&lt;е&gt; превращение Иуды в Агасфера и романтическое истолкование предательства Иуды ради отвергающей его Магдалины неинтересно после сложно-психологического освещения Андреева и Гедберга. Совершенно неравнозначны дальнейшие воплощения Агасфера в Черного Паладина, торжествующего героя Герцога, бродячего пророка времен инквизиции, Марата, убиваемого Шарлоттой вне любовного конфликта, Байрона, и современного героя северного городка. Хороша местами красочная сторона, большие постановочные возможности и требования современной изобретательности и пышности, от осуществления которых будет зависеть в большой мере общее впечатление…»</p>
+    <text-author>(Л.Л&lt;андау&gt;. Агасфер, пантомима // Руль. 1924. 9 января).</text-author>
+   </cite>
+   <p>В январе 1924 г. Набоков писал Вере Слоним о своем заказчике: «А, знаешь, бедный наш Якобсон третьего дня бросился в Шпрей, пожелав, как Садко, дать маленький концерт русалкам. К счастью, его подводный гастроль был прерван доблестным нырком "зеленого", который вытащил за шиворот композитора с партитурой подмышкой. Лукаш мне пишет, что бедняга сильно простужен, но, в общем, освежен. Так-то» (BCNA.<a l:href="#n_1" type="note">[1]</a> Letters to Vera Nabokov. 17 января 1924 г.). Впечатление от В. Якобсона Набоков сохранил надолго: четверть века спустя он писал Р. Гринбергу: «"Взялся за гуж, полезай в кузов", как говорил некто Якобсон, музыкант, страшно сопел, когда брал аккорды» (Друзья, бабочки и монстры. Из переписки Владимира и Веры Набоковых с Романом Гринбергом / Публ. Р. Янгирова // Диаспора: новые материалы. Париж; СПб.: Athenaeum — Феникс, 2001. Т. 1. С. 500). О самом либретто «Агасфера» Набоков впоследствии отзывался так: «Ужасно! Если я только завладею им, если я увижу его, я его уничтожу!» (A. Field. VN. The Life and Art of Vladimir Nabokov. London: Macdonald Queen Anne Press, 1987. P. 123).</p>
+   <p>Вместе с И. С. Лукашем (1892–1940), прозаиком, поэтом, журналистом, Набоков входил в «содружество молодых писателей и музыкантов» «Веретено» и писал либретто для пантомим русского кабаре в Берлине «Синяя птица», которое в 1921 г. открыл Я. Южный.</p>
+   <p>24 января 1924 г. Набоков писал Вере Слоним из Праги: «Что до пантомимы нашей, то ее облюбовала некая Аста Нильсен — но просит кое-что изменить в первом действии. Другая наша пантомима, "Вода Живая", пойдет на днях в "Синей птице"» (BCNA. Letters to Vera Nabokov).</p>
+   <p>Вернувшись из Праги в Берлин в январе 1924 г., Набоков подробно рассказал матери о продвижении «Агасфера» и своих — общих с Лукашем — планах, связанных с театром: «Кроме того, в воскресенье мы будем требовать совершенно решительно от Якобсона 1000 долларов отчасти в виде аванса, отчасти как плату за оконченную пантомиму — в новом виде. Я как раз сейчас работал над ней, переписывал. Наконец, через очаровательного композитора Эйлухена мы проникаем в театральные дебри, причем нам заказаны оперетта и небольшая пьеса — вроде нашей "Воды Живой" — за которые мы тоже сперва должны получить аванс в размере 100–200 долларов. &lt;…&gt; Однако наше общее с ним (Лукашем. — А. Б.) будущее — театральное — может быть лучезарным в финансовом смысле — но после стольк&lt;их&gt; разочарований он не решается отдаваться слишком акварельным надеждам» (BCNA. Letters to Elena Ivanovna Nabokov. 31 января 1924 г.). Работа над «Агасфером», начатая, по-видимому, в сентябре 1923 г., продолжалась до середины февраля 1924 г.: «Пантомима подходит к концу (6 месяц&lt;ев&gt; с лишком, шутка сказать) и вообще "перспективы" самые цветистые» (Там же. 14 февраля 1924 г.); финансовым же надеждам, связанным с этой работой, сбыться так и не пришлось: два года спустя Лукаш все еще писал Сирину: «Хватайте сукина сына Якобсона за фалды» (LCNA.<a l:href="#n_2" type="note">[2]</a> Box I, fol. 31. 1 февраля 1926 г.).</p>
+   <p>Значительно более основательным было сотрудничество Набокова с «Синей птицей», которое продолжалось несколько лет, — в начале 1926 г. Набоков писал матери: «Маленькая трагедия: пошли (с Верой Набоковой. — А. Б.) в "Синюю птицу" и как раз в этот вечер моя вещь не шла» (BCNA. Letters to Elena Ivanovna Nabokov. 7 января 1926 г.).</p>
+   <p>Лукаш и Сирин писали не только для кабаре и музыкального театра, они брались и за киносценарии, причем кино Набоков отдавал приоритет: «Сейчас мы заняты писанием кинематографических сценариев. Пишу с Лукашем, пишу с Горным, пишу с Александровым и пишу один. Посещаю кинематографических див, которые зовут меня "английским принцем". Работы много, денег достаточно — но вот Я&lt;кобсон&gt; и Ю&lt;жный&gt; медлят. С первым мы все время в переписке. Он послал нам извещенье из Театрального Интендантства о том, что вещь наша еще не читалась, но на днях читаться будет. Как только я получу эти 1000–1500 марок, которые я должен получить либо за пьеску, либо за один из многочисленных сценариев, — то приеду в Прагу…» (Там же. Июль (?) 1924 г.). Летом 1924 г. Набоков работал сразу с несколькими режиссерами, причем Елена Ивановна Набокова также была, по-видимому, вовлечена в эти проекты: «Только что был у меня Лукаш, работали над сценарией (для тебя). Как будто выйдет недурно. Сценарий заказали мне трое разных режиссеров — на них громадный спрос, а оплата от 1000 до 3000 долларов за экспозе. Но я понял, что нужно действительно творить для кинематографа, а это не так легко. Я добьюсь» (Там же. Июль (?) 1924 г.).</p>
+   <p>После «Агасфера» другой композитор, А. Элюхин, заказал Набокову и Лукашу сценарий балета-пантомимы «Кавалер лунного света», который они написали в феврале 1924 г. Как сообщает Б. Бойд, сценарий «был прост — этакий современный танец смерти: залитая лунным светом терраса, принцесса, которую пользуют четыре вполне прозаических врача, закутанный в плащ кавалер Смерть, стремительно проносящийся по темной сцене и в конце концов уносящий с собой сопротивляющуюся принцессу» (Б01. С. 268). Текст этого сценария сохранился в альбоме матери Набокова (архив Набокова в Монтрё). Известно название еще одного номера для «Синей птицы», музыку к которому вновь написал Элюхин, — «Китайские ширмы»; о нем Набоков упоминает в письме к матери: «Как я тебе уже писал, мы продали одну из наших вещиц ("Китайские ширмы") Южному за 100 долларов, то есть на мою долю пришлось 15 долларов всего. Не густо!» Далее он вновь рассказывает о своих кинематографических надеждах: «Наконец, очень рассчитываю на посылаемый тебе сценарий, над которым я потел чрезвычайно. Завтра сажусь писать новый рассказ, а также хочу кончить мой сценарий "Любовь карлика"» (BCNA. Letters to Elena Ivanovna Nabokov. Июль 1924 г.).</p>
+   <p>Однако ни один из этих многочисленных сценариев не был принят. Сценическое воплощение имели лишь кабаретные номера в «Синей птице» и — на большой сцене — «Кавалер лунного света»: «24 февраля в оперном театре в Кенигсберге с громадным успехом был поставлен балет Александра Элухона &lt;sic!&gt; "Кавалер лунного света", по тексту И. Лукаша и В. Сирина. Блестящая постановка балетмейстера Землера с балериной Швалиннер и танцовщиком Леонтьевым в главных ролях вызвала в публике несмолкаемые аплодисменты» (Руль. 1925. 27 февраля); «Музыка этого балета &lt;…&gt; интересная, из сущности танца рожденная, богатая для создания иллюзий, и в лучшем значении слова импрессионистическая &lt;…&gt; Балет предполагается к постановке на различных сценах Германии…» (Руль. 1925. 25 марта).</p>
+  </section>
+ </body>
+ <body name="comments">
+  <title>
+   <p>Комментарии</p>
+  </title>
+  <section id="c_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p><emphasis>…девушка, вошедшая к Марату…</emphasis> — Шарлотта Корде (Корде д'Армон) (1768–1793), французская дворянка, проникшая в дом к Ж. П. Марату и заколовшая его кинжалом, за что была казнена.</p>
+  </section>
+  <section id="c_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p><emphasis>Агасфер</emphasis> — согласно христианской легенде позднего западноевропейского Средневековья, отказал Иисусу в отдыхе во время его пути на Голгофу и велел ему идти дальше, за что был осужден скитаться из века в век. К легенде об Агасфере обращались И. В. Гёте, П. Б. Шелли, В. Жуковский, немецкие поэты-романтики (К. Ф. Шубарт, Н. Ленау) и др.</p>
+  </section>
+ </body>
+ <body name="notes">
+  <title>
+   <p>Сноски</p>
+  </title>
+  <section id="n_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p>Vladimir Nabokov Archives // The W. Henry and A. Albert Berg Collection of English and American Literature. The New York Public Library.</p>
+  </section>
+  <section id="n_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p>Vladimir Nabokov Archives // Collection of the Manuscript Division, The Library of Congress. Washington, D. С.</p>
+  </section>
+ </body>
+ <binary id="p.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CADnAJYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyksTxmkJ5pM0Z5piDNGfpSUlADs0gJpKK
+AFJNGfWkNAoAXNGaSigBc8EUZpMUUAGaUE02jNAD88UbqbmjNADt30pVc5pnWlX7woAnByg+
+lFIp+QfSioKIj1oNB60hNWSFBBApM0E8UAJRRRQAUUUCgBaDSUZoAU9aTNFGaACiigc0gCii
+imMWlXk0lKv3hQBMv3BRQv3F+lFQMiPWg49aQ9aTNWSLtHY0be/pSZo5x1oAUikoAyM5wPWl
+JBGAPcnpQA2ikpaAFBxSGjB9qOn/ANegAxRSd6WgAopKKQBS96KKYwpR1pDSr1oAmX7g+lFK
+oGwZPaioGQtwaSnNSVZI2j6UvrSCgAySBk8DpQRjHvzSng8Up5X3H8qAG0GiigAooo7mgBKX
+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</binary>
+</FictionBook>

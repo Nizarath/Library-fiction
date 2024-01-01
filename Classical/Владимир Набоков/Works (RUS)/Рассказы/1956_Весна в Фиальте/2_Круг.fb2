@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Круг</book-title>
+   <annotation>
+    <p>Рассказы сборника «Весна в Фиальте» — блестящий образец относительно «позднего» периода творчества Набокова, периода, отмеченного интереснейшими стилистическими особенностями. Здесь набоковская проза снова — впервые за десятилетия — вступает в свою «реалистическую» фазу — однако в форме уже глубоко зрелой, мудрой, философичной. Иногда в этом реализме проглядываются нотки экспрессионистские, иногда — почти символистские, в целом же «Весна в Фиальте» — своеобразная квинтэссенция творческого мироощущения писателя «как оно есть» — мироощущения, пронесенного сквозь годы и годы…</p>
+   </annotation>
+   <date>1956</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Весна в Фиальте" number="2"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb+FBE, FB Editor v2.0, FictionBook Editor 2.4</program-used>
+   <date value="2009-07-27">2009-07-15</date>
+   <id>65B1D23F-EB64-4786-9DCC-E25824F3162C</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Владимир Набоков.  Весна в Фиальте.</book-name>
+   <publisher>Издательство "ФОЛИО" </publisher>
+   <city>Харьков</city>
+   <year>2001</year>
+   <isbn>5-17-006375-0</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Владимир Набоков</p>
+   <p>КРУГ</p>
+  </title>
+  <section>
+   <p>Во-вторых: потому что в нем разыгралась бешеная тоска по России. В-третьих, наконец, потому что ему было жаль своей тогдашней молодости — и всего связанного с нею — злости, неуклюжести, жара, — и ослепительно-зеленых утр, когда в роще можно было оглохнуть от иволог. Сидя в кафе и все разбавляя бледнеющую сладость струей из сифона, он вспомнил прошлое со стеснением сердца, с грустью — с какой грустью? — да с грустью, еще недостаточно исследованной нами. Все это прошлое поднялось вместе с поднимающейся от вздоха грудью, — и медленно восстал, расправил плечи покойный его отец, Илья Ильич Бычков, le maître d’école chez nous au village,<a l:href="#n_1" type="note">[1]</a> в пышном черном галстуке бантом, в чесучовом пиджаке, по-старинному высоко застегивающемся, зато и расходящемся высоко, — цепочка поперек жилета, лицо красноватое, голова лысая, однако подернутая чем-то вроде нежной шерсти, какая бывает на вешних рогах у оленя, — множество складочек на щеках, и мягкие усы, и мясистая бородавка у носа, словно лишний раз завернулась толстая ноздря. Гимназистом, студентом, Иннокентий приезжал к отцу в Лешино на каникулы, — а если еще углубиться, можно вспомнить, как снесли старую школу в конце села и построили новую. Закладка, молебен на ветру, К. Н. Годунов-Чердынцев, бросающий золотой, монета влипает ребром в глину… В этом новом, зернисто-каменном здании несколько лет подряд — и до сих пор, то есть по зачислении в штат воспоминаний — светло пахло клеем; в классах лоснились различные пособия — например, портреты луговых и лесных вредителей… но особенно раздражали Иннокентия подаренные Годуновым-Чердынцевым чучела птиц. Изволите заигрывать с народом. Да, он чувствовал себя суровым плебеем, его душила ненависть (или казалось так), когда, бывало, смотрел через реку на заповедное, барское, кондовое, отражающееся черными громадами в воде (и вдруг — молочное облако черемухи среди хвой).</p>
+   <p>Новая школа строилась на самом пороге века: тогда Годунов-Чердынцев, возвратясь из пятого своего путешествия по Центральной Азии, провел лето с молодой женой — был ровно вдвое ее старше — в своем петербургском имении. До какой глубины спускаешься. Боже мой! — в хрустально-расплывчатом тумане, точно все это происходило под водой. Иннокентий видел себя почти младенцем, входящим с отцом в усадьбу, плывущим по дивным комнатам, — отец движется на цыпочках, держа перед собой скрипучий пук мокрых ландышей, — и все как будто мокро: светится, скрипит и трепещет — и ничего больше нельзя разобрать, — но это сделалось впоследствии воспоминанием стыдным — цветы, цыпочки и вспотевшие виски Ильи Ильича стали тайными символами подобострастия, особенно когда он узнал, что отец был выпутан «нашим барином» из мелкой, но прилипчивой, политической истории — угодил бы в глушь, кабы не его заступничество.</p>
+   <p>Таня говаривала, что у них есть родственники не только в животном царстве, но и в растительном, и в минеральном. И точно: в честь Годунова-Чердынцева названы были новые виды фазана, антилопы, рододендрона, и даже целый горный хребет (сам он описывал главным образом насекомых). Но эти открытия его, ученые заслуги и тысяча опасностей, пренебрежением к которым он был знаменит, не всех могли заставить относиться снисходительно к его родовитости и богатству. Не забудем, кроме того, чувств известной части нашей интеллигенции, презирающей всякое неприкладное естествоиспытание и потому упрекавшей Годунова-Чердынцева в том, что он интересуется «Лобнорскими козявками» больше, чем русским мужиком. В ранней юности Иннокентий охотно верил рассказам (идиотическим) о его дорожных наложницах, жестокостях в китайском вкусе и об исполнении им секретных правительственных поручений, в пику англичанам… Его реальный образ оставался смутным: рука без перчатки, бросающая золотой (а еще раньше — при посещении усадьбы — хозяин смешался с голубым калмыком, встреченным в зале). Засим Годунов-Чердынцев уехал в Самарканд или в Верный (откуда привык начинать свои прогулки); долго не возвращался, семья же его, по-видимому, предпочитала крымское имение петербургскому, а по зимам жила в столице. Там, на набережной, стоял их двухэтажный, выкрашенный в оливковый цвет особняк. Иннокентию случалось проходить мимо: помнится, в цельном окне, сквозь газовый узор занавески, женственно белелась какая-то статуя, — сахарно-белая ягодица с ямкой. Балкон поддерживали оливковые круторебрые атланты: напряженность их каменных мышц и страдальческий оскал казались пылкому восьмикласснику аллегорией порабощенного пролетариата. И раза два, там же на набережной, ветреной невской весной, он встречал маленькую Годунову-Чердынцеву, с фокстерьером, с гувернанткой, — они проходили как вихрь, — но так отчетливо, — Тане было тогда, скажем, лет двенадцать, — она быстро шагала, в высоких зашнурованных сапожках, в коротком синем пальто с морскими золотыми пуговицами, хлеща себя — чем? — кажется, кожаным поводком по синей в складку юбке, — и ледоходный ветер трепал ленты матросской шапочки, и рядом стремилась гувернантка, слегка поотстав, изогнув каракулевый стан, держа на отлете руку, плотно вделанную в курчавую муфту.</p>
+   <p>Он жил у тетки (портнихи) на Охте, был угрюм, несходчив, учился тяжело, с надсадом, с предельной мечтой о тройке, — но неожиданно для всех с блеском окончил гимназию, после чего поступил на медицинский факультет; при этом благоговение его отца перед Годуновым-Чердынцевым таинственно возросло. Одно лето он провел на кондиции под Тверью; когда же, в июне следующего года, приехал в Лешино, узнал не без огорчения, что усадьба за рекой ожила.</p>
+   <p>Еще об этой реке, о высоком береге, о старой купальне: к ней, ступеньками, с жабой на каждой ступеньке, спускалась глинистая тропинка, начало которой не всякий отыскал бы среди ольшаника за церковью. Его постоянным товарищем по речной части был Василий, сын кузнеца, малый неопределимого возраста — сам в точности не знал, пятнадцать ли ему лет или все двадцать — коренастый, корявый, в залатанных брючках, с громадными босыми ступнями, окраской напоминающими грязную морковь, и такой же мрачный, каким был о ту пору сам Иннокентий. Гармониками отражались сваи в воде, свиваясь и развиваясь; под гнилыми мостками купальни журчало, чмокало; черви вяло шевелились в запачканной землей жестянке из-под монпансье. Натянув сочную долю червяка на крючок, так, чтобы нигде не торчало острие, и сдобрив молодца сакраментальным плевком, Василий спускал через перила отягощенную свинцом лесу. Вечерело; через небо протягивалось что-то широкое, перистое, фиолетово-розовое, — воздушный кряж с отрогами, — и уже шныряли летучие мыши — с подчеркнутой беззвучностью и дурной быстротой перепончатых существ. Между тем рыба начинала клевать, — и, пренебрегая удочкой, попросту держа в пальцах лесу, натуженную, вздрагивающую, Василий чуть-чуть подергивал, испытывая прочность подводных судорог, и вдруг вытаскивал пескаря или плотву; небрежно, даже с каким-то залихватским хрустом, рвал крючок из маленького, круглого, беззубого рта рыбы, которую затем пускал (безумную, с розовой кровью на разорванной жабре) в стеклянную банку, где уже плавал, выпятив губу, бычок. Особенно же бывало хорошо в теплую пасмурную погоду, когда шел незримый в воздухе дождь, расходясь по воде взаимно пересекающимися кругами, среди которых там и сям появлялся другого происхождения круг, с внезапным центром, — прыгнула рыба или упал листок, — сразу, впрочем, поплывший по течению. А какое наслаждение было купаться под этим теплым ситником, на границе смешения двух однородных, но по-разному сложенных, стихий — толстой речной воды и тонкой воды небесной! Иннокентий купался с толком и долго потом растирался полотенцем. Крестьянские ребятишки, те барахтались до изнеможения, — наконец выскакивали — и, дрожа, стуча зубами, с полоской мутной сопли от ноздри ко рту, натягивали штаны на мокрые ляжки.</p>
+   <p>В то лето он был еще угрюмее обычного и с отцом едва говорил, — все больше отбуркиваясь и хмыкая. Со своей стороны Илья Ильич испытывал в его присутствии странную неловкость, — особенно потому, что полагал, с ужасом и умилением, что сын, как и он сам в юности, живет всей душою в чистом мире нелегального. Комната Ильи Ильича: пыльный луч солнца; на столике, — сам его смастерил, выжег узор, покрыл лаком, — в плюшевой рамке фотография покойной жены, — такая молодая, в платье с бертами, в кушаке-корсетике, с прелестным овальным лицом (овальность лица в те годы совпадала с понятием женской красоты): рядом — стеклянное пресс-папье с перламутровым видом внутри и матерчатый петушок для вытирания перьев; в простенке портрет Льва Толстого, всецело составленный из набранного микроскопическим шрифтом «Холстомера». Иннокентий спал в соседней комнатке, на кожаном диване. После долгого, вольного дня спалось превосходно; случалось однако, что иная греза принимала особый оборот, — сила ощущения как бы выносила его из круга сна, — и некоторое время он оставался лежать, как проснулся, боясь из брезгливости двинуться.</p>
+   <p>По утрам он шел в лес, зажав учебник под мышку, руки засунув за шнур, которым подпоясывал белую косоворотку. Из-под сдвинутой набок фуражки живописными, коричневыми прядями волосы налезали на бугристый лоб, хмурились сросшиеся брови, — был он недурен собой, хотя чересчур губаст. В лесу он усаживался на толстый ствол березы, недавно поваленной грозой (и до сих пор всеми своими листьями трепещущей от удара), курил, заграждал книгой путь торопившимся муравьям или предавался мрачному раздумью. Юноша одинокий, впечатлительный, обидчивый, он особенно остро чувствовал социальную сторону вещей. Так, ему казалось омерзительным все, что окружало летнюю жизнь Годуновых-Чердынцевых, — скажем, их челядь, — «челядь», повторял он, сжимая челюсти, со сладострастным отвращением. Тут имелся в виду и жирненький шофер, его веснушки, вельветовая ливрея, оранжевые краги, крахмальный воротничок, подпиравший рыжую складку затылка, который наливался кровью, когда у каретного сарая он заводил машину, тоже противную, обитую снутри глянцевито-пунцовой кожей; и седой лакей с бакенбардами, откусывавший хвосты новорожденным фокстерьерам; и гувернер-англичанин, шагавший, бывало, через село без шапки, в макинтоше и белых штанах, что служило поводом для мальчишек острить насчет «крестного хода» или «подштанников»; и бабы-поденщицы, приходившие по утрам выпалывать аллеи под надзором глухого сутулого старичка в розовой рубахе, с особым форсом и древней ревностью подметавшего напоследок у самого крыльца… Иннокентий, все с той же книгой под мышкой, — что мешало сложить руки крестом, как хотелось бы, — стоял, прислонясь к дереву в парке, и сумрачно глядел на то, на се, на сверкающую крышу белого дома, который еще не проснулся…</p>
+   <p>В первый раз, кажется, он их увидел с холма: на дороге, холм огибающей, появилась кавалькада, — впереди Таня, по-мужски верхом на высокой, ярко-гнедой лошади, рядом с ней сам Годунов-Чердынцев, неприметный господин на низкорослом, мышастом иноходце; за ними — англичанин в галифе, еще кто-то; сзади — Танин брат, мальчик лет тринадцати, который вдруг пришпорил коня, перегнал всех и карьером пронесся в гору, работая локтями, как жокей.</p>
+   <p>После этого были еще другие случайные встречи, а потом… Ну-с, пожалуйста: жарким днем в середине июня…</p>
+   <p>Жарким днем в середине июня по сторонам дороги размашисто двигались косари, — то к правой, то к левой ключице прилипала рубаха, — «Бог помощь», — сказал Илья Ильич, проходя; он был в парадной панаме, нес букет ночных фиалок. Иннокентий молча шагал рядом, вращая ртом (лущил семечки). Приближались к усадьбе. На площадке для игры в лоун-теннис тот же глухой розовый старичок в фартуке макал кисть в ведро и проводил, согнувшись до земли и пятясь, толстую сливочную черту. «Бог помощь», — сказал Илья Ильич, проходя.</p>
+   <p>Стол был накрыт в аллее, русский пятнистый свет играл на скатерти. Экономка, в горжетке, со стальными, зачесанными назад волосами, уже разливала шоколад по темно-синим чашкам, которые разносили лакеи. Было людно и шумно в саду, множество гостей — родственники и соседи. Годунов-Чердынцев (весьма пожилой, с желтовато-пепельной бородкой и морщинами у глаз), поставив ногу на скамью, играл с фокстерьером, заставляя его прыгать, — собака не только прыгала очень высоко, стараясь хапнуть мокрый мячик, но даже ухитрялась, вися в воздухе, еще подвытянуться, с добавочной судорогой всего тела. Елизавета Павловна шла через сад с другой дамой, всплескивая руками, что-то живо на ходу рассказывая, — высокая, румяная, в большой дрожащей шляпе. Илья Ильич с букетом стоял и кланялся… В пестром мареве (ибо Иннокентий, несмотря на небольшую репетицию гражданского презрения, проделанную накануне, находился в сильнейшем замешательстве) мелькали молодые люди, бегущие дети, чья-то шаль с яркими маками по черному, второй фокстерьер, — а главное, главное: скользящее сквозь тень и свет, еще неясное, но уже грозящее роковым обаянием, лицо Тани, которой исполнялось сегодня шестнадцать лет.</p>
+   <p>Уселись. Он оказался в самом тенистом конце стола, где сидевшие не столько говорили между собой, сколько смотрели, все одинаково повернув головы, туда, где был говор и смех, и великолепный, атласисто-розовый пирог, утыканный свечками, и восклицания детей, и лай обоих фокстерьеров, чуть не прыгнувших на стол… а здесь как бы соединялись кольцами липовой тени люди разбора последнего: улыбавшийся как в забытьи Илья Ильич; некрасивая девица в воздушном платье, пахнувшая пóтом от волнения; старая француженка с недобрыми глазами, державшая под столом на коленях незримое крохотное существо, изредка звеневшее бубенчиком… Соседом Иннокентия оказался брат управляющего, человек тупой, скучный, притом заика; Иннокентий разговаривал с ним только потому, что смертельно боялся молчать, и хотя беседа была изнурительная, он с отчаяния за нее держался, — зато позже, когда уже зачастил сюда и случайно встречал беднягу, не говорил с ним никогда, избегая его, как некую западню или воспоминание позора.</p>
+   <p>Вращаясь, медленно падал на скатерть липовый летунок.</p>
+   <p>Там, где сидела знать, Годунов-Чердынцев громко говорил через стол со старухой в кружевах, говорил, держа за гибкую талию дочь, которая стояла подле и подбрасывала на ладони мячик. Некоторое время Иннокентий боролся с сочным кусочком пирога, очутившимся вне тарелки, — и вот, от неловкого прикосновения, перевалившимся и — под стол, — малиновый увалень (там его и оставим). Илья Ильич все улыбался впустую, обсасывал усы; кто-то попросил его передать печение, — он залился счастливым смехом и передал. Вдруг над самым ухом Иннокентия раздался быстрый задыхающийся голос: Таня, глядя на него без улыбки и держа в руке мяч, предлагала — хотите с нами пойти? — и он жарко смутился, выбрался из-за стола, толкнув соседа, — не сразу мог выпростать правую ногу из-под общей садовой скамейки.</p>
+   <p>О ней говорили: какая хорошенькая барышня; у нее были светло-серые глаза под котиковыми бровями, довольно большой, нежный и бледный рот, острые резцы, — и когда она бывала нездорова или не в духе, заметны становились волоски над губой. Она страстно любила все летние игры, во все играла ловко, с какой-то очаровательной сосредоточенностью, — и, конечно, само собой прекратилось простодушное ужение пескарей с Василием, который недоумевал, — что случилось? — появлялся вдруг, около школы, под вечер, и манил Иннокентия, неуверенно осклабясь и поднимая на уровень лица жестянку с червями, — и тогда Иннокентий внутренне содрогался, сознавая свою измену народу. Между тем, от новых знакомых радости было мало. Так случилось, что к центру их жизни он все равно не был допущен, а пребывая на ее зеленой периферии, участвуя в летних забавах, но никогда не попадая в самый дом. Это бесило его; он жаждал приглашения только затем, чтобы высокомерно отказаться от него, — да и вообще все время был начеку, хмурый, загорелый, лохматый с постоянной игрой челюстных желваков, — и всякое танино слово как бы отбрасывало в его сторону маленькую тень оскорбления, и Боже мой, как он их всех ненавидел, — ее двоюродных братьев, подруг, веселых собак… Внезапно все это бесшумно смешалось, исчезло, — и вот, в бархатной темноте августовской ночи, он сидит на парковой калитке и ждет; покалывает засунутая между рубашкой и телом записка, которую, как в старых романах, ему принесла босая девчонка. Лаконический призыв на свидание показался ему издевательством, но все-таки он поддался ему — и был прав: от ровного шороха ночи отделился легкий хруст шагов. Ее приход, ее бормотание и близость были для него чудом; внезапное прикосновение ее холодных, проворных пальцев изумило его чистоту. Сквозь деревья горела огромная, быстро поднимавшаяся луна. Обливаясь слезами, дрожа и солеными губами слепо тычась в него, Таня говорила, что завтра уезжает с матерью на юг, и что все кончено, о, как можно было быть таким непонятливым… «Останьтесь, Таня», — взмолился он, но поднялся ветер, она зарыдала еще пуще… Когда же она убежала, он остался сидеть неподвижно, слушая шум в ушах, а погодя пошел прочь по темной и как будто шевелившейся дороге, и потом была война с немцами, и вообще все как-то расползлось, — но постепенно стянулось снова, и он уже был ассистентом профессора Бэра (Behr) на чешском курорте, а в 1924 году, что ли, работал у него же в Савойе, и однажды — кажется в Шамони — попался молодой советский геолог, разговорились, и, упомянув о том, что тут пятьдесят лет тому назад погиб смертью простого туриста Федченко (исследователь Ферганы!), геолог добавил, что вот постоянно так случается: этих отважных людей смерть так привыкла преследовать в диких горах и пустынях, что уже без особого умысла, шутя, задевает их при всяких других обстоятельствах и к своему же удивлению застает их врасплох, — вот так погибли и Федченко, и Северцев, и Годунов-Чердынцев, не говоря уже об иностранных классиках, — Спик, Дюмон-Дюрвиль… А еще через несколько лет Иннокентий был проездом в Париже и, посетив по делу коллегу, уже бежал вниз по лестнице, надевая перчатку, когда на одной из площадок вышла из лифта высокая сутуловатая дама, в которой он мгновенно узнал Елизавету Павловну. «Конечно, помню вас, еще бы не помнить», — произнесла она, глядя не в лицо ему, а как-то через его плечо, точно за ним стоял кто-то (она чуть косила). «Ну, пойдемте к нам, голубчик», — продолжала она, выйдя из мгновенного оцепенения, и отвернула носком угол толстого, пресыщенного пылью, мата, чтобы достать из-под него ключ. Иннокентий вошел за ней, мучась, ибо никак не мог вспомнить, что именно рассказывали ему по поводу того, как и когда погиб ее муж.</p>
+   <p>А потом пришла домой Таня, вся как-то уточнившаяся за эти двадцать лет, с уменьшившимся лицом и подобревшими глазами, — сразу закурила, засмеялась, без стеснения вспоминая с ним то отдаленное лето, — и он все дивился, что и Таня, и ее мать не поминают покойного и так просто говорят о прошлом, а не плачут навзрыд, как ему, чужому, хотелось плакать, — или может быть держали фасон? Появилась бледная, темноголовая девочка лет десяти, — «А вот моя дочка, — ну пойди сюда», — сказала Таня, суя порозовевший окурок в морскую раковину, служившую пепельницей. Вернулся домой Танин муж, Кутасов, — и Елизавета Павловна, встретив его в соседней комнате, предупредила о госте на своем вывезенном из России, домашнем французском языке: «Le fils du maître d’école chez nous au village»,<a l:href="#n_2" type="note">[2]</a> — и тут Иннокентий вспомнил, как Таня сказала раз подруге, намекая на его (красивые) руки, «regarde ses mains»,<a l:href="#n_3" type="note">[3]</a> — и теперь, слушая, как девочка, с чудесной, отечественной певучестью отвечает на вопросы матери, он успел злорадно подумать: «Небось, теперь не на что учить детей по-иностранному», т. е. не сообразил сразу, что ныне в этом русском языке и состоит как раз самая праздная, самая лучшая роскошь.</p>
+   <p>Беседа не ладилась; Таня, что-то спутав, уверяла, что он ее когда-то учил революционным стихам о том, как деспот пирует, а грозные буквы давно на стене уж чертит рука роковая. «Другими словами, первая стенгазета», — сказал Кутасов, любивший острить. Еще выяснилось, что танин брат живет в Берлине, и Елизавета Павловна принялась рассказывать о нем… Вдруг Иннокентий почувствовал: ничто-ничто не пропадает, в памяти накопляются сокровища, растут скрытые склады в темноте, в пыли, — и вот кто-то проезжий вдруг требует у библиотекаря книгу, не выдававшуюся двадцать лет. Он встал, простился, его не очень задерживали. Странно: дрожали ноги. Вот какая потрясающая встреча. Перейдя через площадь, он вошел в кафе, заказал напиток, привстал, чтобы вынуть из-под себя свою же задавленную шляпу. Какое ужасное на душе беспокойство… А было ему беспокойно по нескольким причинам. Во-первых, потому что Таня оказалась такой же привлекательной, такой же неуязвимой, как и некогда.</p>
+   <p><emphasis>Берлин, 1936 г.</emphasis></p>
+  </section>
+ </body>
+ <body name="notes">
+  <title>
+   <p>Примечания</p>
+  </title>
+  <section id="n_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p>Школьный учитель у нас в деревне <emphasis>(фр.)</emphasis></p>
+  </section>
+  <section id="n_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p>«Сын школьного учителя у нас в деревне» <emphasis>(фр.)</emphasis></p>
+  </section>
+  <section id="n_3">
+   <title>
+    <p>3</p>
+   </title>
+   <p>«Посмотри на его руки» <emphasis>(фр.)</emphasis></p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+30n/2Q==</binary>
+</FictionBook>

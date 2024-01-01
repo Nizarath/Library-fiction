@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Облако, озеро, башня</book-title>
+   <annotation>
+    <p>Рассказы сборника «Весна в Фиальте» — блестящий образец относительно «позднего» периода творчества Набокова, периода, отмеченного интереснейшими стилистическими особенностями. Здесь набоковская проза снова — впервые за десятилетия — вступает в свою «реалистическую» фазу — однако в форме уже глубоко зрелой, мудрой, философичной. Иногда в этом реализме проглядываются нотки экспрессионистские, иногда — почти символистские, в целом же «Весна в Фиальте» — своеобразная квинтэссенция творческого мироощущения писателя «как оно есть» — мироощущения, пронесенного сквозь годы и годы…</p>
+   </annotation>
+   <date>1956</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Весна в Фиальте" number="12"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb+FBE, FB Editor v2.0, FictionBook Editor 2.4</program-used>
+   <date value="2009-07-27">2009-07-15</date>
+   <id>65B1D23F-EB64-4786-9DCC-E25824F3162C</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Владимир Набоков.  Весна в Фиальте.</book-name>
+   <publisher>Издательство "ФОЛИО" </publisher>
+   <city>Харьков</city>
+   <year>2001</year>
+   <isbn>5-17-006375-0</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Владимир Набоков</p>
+   <p>ОБЛАКО, ОЗЕРО, БАШНЯ</p>
+  </title>
+  <section>
+   <p>Один из моих представителей, скромный, кроткий холостяк, прекрасный работник, как-то на благотворительном балу, устроенном эмигрантами из России, выиграл увеселительную поездку. Хотя берлинское лето находилось в полном разливе (вторую неделю было сыро, холодно, обидно за все зеленевшее зря, и только воробьи не унывали), ехать ему никуда не хотелось, но когда в конторе общества увеспоездок он попробовал билет свой продать, ему ответили, что для этого необходимо особое разрешение от министерства путей сообщения; когда же он и туда сунулся, то оказалось, что сначала нужно составить сложное прошение у нотариуса на гербовой бумаге, да кроме того раздобыть в полиции так называемое «свидетельство о невыезде из города на летнее время», причем выяснилось, что издержки составят треть стоимости билета, т. е. как раз ту сумму, которую, по истечении нескольких месяцев, он мог надеяться получить. Тогда, повздыхав, он решил ехать. Взял у знакомых алюминиевую фляжку, подновил подошвы, купил пояс и фланелевую рубашку вольного фасона, — одну из тех, которые с таким нетерпением ждут стирки, чтобы сесть. Она, впрочем, была велика этому милому, коротковатому человеку, всегда аккуратно подстриженному, с умными и добрыми глазами. Я сейчас не могу вспомнить его имя и отчество. Кажется, Василий Иванович.</p>
+   <p>Он плохо спал накануне отбытия. Почему? Не только потому, что утром надо вставать непривычно рано и таким образом брать с собой в сон личико часов, тикающих рядом на столике, а потому что в ту ночь ни с того, ни с сего ему начало мниться, что эта поездка, навязанная ему случайной судьбой в открытом платье, поездка, на которую он решился так неохотно, принесет ему вдруг чудное, дрожащее счастье, чем-то схожее и с его детством, и с волнением, возбуждаемым в нем лучшими произведениями русской поэзии, и с каким-то когда-то виденным во сне вечерним горизонтом, и с тою чужою женой, которую он восьмой год безвыходно любил (но еще полнее и значительнее всего этого). И кроме того он думал о том, что всякая настоящая хорошая жизнь должна быть обращением к чему-то, к кому-то.</p>
+   <p>Утро поднялось пасмурное, но теплое, парное, с внутренним солнцем, и было совсем приятно трястись в трамвае на далекий вокзал, где был сборный пункт: в экскурсии, увы, участвовало несколько персон. Кто они будут, эти сонные — как все еще нам незнакомые — спутники? У кассы номер шесть, в семь утра, как было указано в примечании к билету, он и увидел их (его уже ждали: минуты на три он все-таки опоздал). Сразу выделился долговязый блондин в тирольском костюме, загорелый до цвета петушиного гребня, с огромными, золотисто-оранжевыми, волосатыми коленями и лакированным носом. Это был снаряженный обществом вожак, и как только новоприбывший присоединился к группе (состоявшей из четырех женщин и стольких же мужчин), он ее повел к запрятанному за поездами поезду, с устрашающей легкостью неся на спине свой чудовищный рюкзак и крепко цокая подкованными башмаками. Разместились в пустом вагончике сугубо-третьего класса, и Василий Иванович, сев в сторонке и положив в рот мятку, тотчас раскрыл томик Тютчева, которого давно собирался перечесть («Мы слизь. Реченная есть ложь», — и дивное о румяном восклицании); но его попросили отложить книжку и присоединиться ко всей группе. Пожилой почтовый чиновник в очках, со щетинисто сизыми черепом, подбородком и верхней губой, словно он сбрил ради этой поездки какую-то необыкновенно обильную растительность, тотчас сообщил, что бывал в России и знает немножко по-русски, например, «пацлуй», да так подмигнул, вспоминая проказы в Царицыне, что его толстая жена набросала в воздухе начало оплеухи наотмашь. Вообще становилось шумно. Перекидывались пудовыми шутками четверо, связанные тем, что служили в одной и той же строительной фирме, — мужчина постарше, Шульц, мужчина помоложе, Шульц тоже, и две девицы с огромными ртами, задастые и непоседливые. Рыжая, несколько фарсового типа вдова в спортивной юбке тоже кое-что знала о России (Рижское взморье). Еще был темный, с глазами без блеска, молодой человек, по фамилии Шрам, с чем-то неопределенным, бархатно-гнусным, в облике и манерах, все время переводивший разговор на те или другие выгодные стороны экскурсии и дававший первый знак к восхищению: это был, как узналось впоследствии, специальный подогреватель от общества увеспоездок.</p>
+   <p>Паровоз, шибко-шибко работая локтями, бежал сосновым лесом, затем — облегченно — полями, и понимая еще только смутно всю чушь и ужас своего положения, и, пожалуй, пытаясь уговорить себя, что все очень мило, Василий Иванович ухитрялся наслаждаться мимолетными дарами дороги. И действительно: как это все увлекательно, какую прелесть приобретает мир, когда заведен и движется каруселью! Какие выясняются вещи! Жгучее солнце пробиралось к углу окошка и вдруг обливало желтую лавку. Безумно быстро неслась плохо выглаженная тень вагона по травяному скату, где цветы сливались в цветные строки. Шлагбаум: ждет велосипедист, опираясь одной ногой на землю. Деревья появлялись партиями и отдельно, поворачивались равнодушно и плавно, показывая новые моды. Синяя сырость оврага. Воспоминание любви, переодетое лугом. Перистые облака, вроде небесных борзых. Нас с ним всегда поражала эта страшная для души анонимность всех частей пейзажа, невозможность никогда узнать, куда ведет вон та тропинка, — а ведь какая соблазнительная глушь! Бывало, на дальнем склоне или в лесном просвете появится и как бы замрет на мгновение, как задержанный в груди воздух, место до того очаровательное, — полянка, терраса, — такое полное выражение нежной, благожелательной красоты, — что, кажется, вот бы остановить поезд и — туда, навсегда, к тебе, моя любовь… но уже бешено заскакали, вертясь в солнечном кипятке, тысячи буковых стволов, и опять прозевал счастье. А на остановках Василий Иванович смотрел иногда на сочетание каких-нибудь совсем ничтожных предметов — пятно на платформе, вишневая косточка, окурок, — и говорил себе, что никогда-никогда не запомнит и не вспомнит более вот этих трех штучек в таком-то их взаимном расположении, этого узора, который однако сейчас он видит до бессмертности ясно; или еще, глядя на кучку детей, ожидающих поезда, он изо всех сил старался высмотреть хоть одну замечательную судьбу — в форме скрипки или короны, пропеллера или лиры, — и досматривался до того, что вся эта компания деревенских школьников являлась ему как на старом снимке, воспроизведенном теперь с белым крестиком над лицом крайнего мальчика: детство героя.</p>
+   <p>Но глядеть в окно можно было только урывками. Всем были розданы нотные листки со стихами от общества:</p>
+   <poem>
+    <stanza>
+     <v>Распростись с пустой тревогой,</v>
+     <v>Палку толстую возьми</v>
+     <v>И шагай большой дорогой</v>
+     <v>Вместе с добрыми людьми.</v>
+    </stanza>
+    <stanza>
+     <v>По холмам страны родимой</v>
+     <v>Вместе с добрыми людьми,</v>
+     <v>Без тревоги нелюдимой,</v>
+     <v>Без сомнений, черт возьми.</v>
+    </stanza>
+    <stanza>
+     <v>Километр за километром</v>
+     <v>Ми-ре-до и до-ре-ми,</v>
+     <v>Вместе с солнцем, вместе с ветром,</v>
+     <v>Вместе с добрыми людьми.</v>
+    </stanza>
+   </poem>
+   <p>Это надо было петь хором. Василий Иванович, который не то что петь, а даже плохо мог произносить немецкие слова, воспользовался неразборчивым ревом слившихся голосов, чтобы только приоткрывать рот и слегка покачиваться, будто в самом деле пел, — но предводитель по знаку вкрадчивого Шрама вдруг резко приостановил общее пение и, подозрительно щурясь в сторону Василия Ивановича, потребовал, чтоб он пропел соло. Василий Иванович прочистил горло, застенчиво начал и после минуты одиночного мучения подхватили все, но он уже не смел выпасть.</p>
+   <p>У него было с собой: любимый огурец из русской лавки, булка и три яйца. Когда наступил вечер и низкое алое солнце целиком вошло в замызганный, закачанный, собственным грохотом оглушенный вагон, было всем предложено выдать свою провизию, дабы разделить ее поровну, — это тем более было легко, что у всех кроме Василия Ивановича было одно и то же. Огурец всех рассмешил, был признан несъедобным и выброшен в окошко. Ввиду недостаточности пая, Василий Иванович получил меньшую порцию колбасы.</p>
+   <p>Его заставляли играть в скат, тормошили, расспрашивали, проверяли, может ли он показать на карте маршрут предпринятого путешествия, — словом, все занимались им, сперва добродушно, потом с угрозой, растущей по мере приближения ночи. Обеих девиц звали Гретами, рыжая вдова была чем-то похожа на самого петуха-предводителя; Шрам, Шульц и другой Шульц, почтовый чиновник и его жена, все они сливались постепенно, срастаясь, образуя одно сборное, мягкое, многорукое существо, от которого некуда было деваться. Оно налезало на него со всех сторон. Но вдруг на какой-то станции все повылезли, и это было уже в темноте, хотя на западе еще стояло длиннейшее, розовейшее облако, и, пронзая душу, подальше на пути, горел дрожащей звездой фонарь сквозь медленный дым паровоза, и во мраке цыкали сверчки, и откуда-то пахло жасмином и сеном, моя любовь.</p>
+   <p>Ночевали в кривой харчевне. Матерой клоп ужасен, но есть известная грация в движении шелковистой лепизмы. Почтового чиновника отделили от жены, помещенной с рыжей, и подарили на ночь Василию Ивановичу. Кровати занимали всю комнату. Сверху перина, снизу горшок. Чиновник сказал, что спать ему что-то не хочется, и стал рассказывать о своих русских впечатлениях, несколько подробнее, чем в поезде. Это было упрямое и обстоятельное чудовище в арестантских подштанниках, с перламутровыми когтями на грязных ногах и медвежьим мехом между толстыми грудями. Ночная бабочка металась по потолку, чокаясь со своей тенью. — В Царицыне, — говорил чиновник, — теперь имеются три школы: немецкая, чешская и китайская. Так, по крайней мере, уверяет мой зять, ездивший туда строить тракторы.</p>
+   <p>На другой день с раннего утра и до пяти пополудни пылили по шоссе, лениво переходившему с холма на холм, а затем пошли зеленой дорогой через густой бор. Василию Ивановичу, как наименее нагруженному, дали нести под мышкой огромный круглый хлеб. До чего я тебя ненавижу, насущный! И все-таки его драгоценные, опытные глаза примечали что нужно. На фоне еловой черноты вертикально висит сухая иголка на невидимой паутинке.</p>
+   <p>Опять ввалились в поезд, и опять было пусто в маленьком, без перегородок, вагоне. Другой Шульц стал учить Василия Ивановича играть на мандолине. Было много смеху. Когда это надоело, затеяли славную забаву, которой руководил Шрам; она состояла вот в чем: женщины ложились на выбранные лавки, а под лавками уже спрятаны были мужчины, и вот, когда из-под той или другой вылезала красная голова с ушами или большая, с подъюбочным направлением пальцев, рука (вызывавшая визг), то и выяснялось, кто с кем попал в пару. Трижды Василии Иванович ложился в мерзкую тьму, и трижды никого не оказывалось на скамейке, когда он из-под нее выползал. Его признали проигравшим и заставили съесть окурок.</p>
+   <p>Ночь провели на соломенных тюфяках в каком-то сарае и спозаранку отправились снова пешком. Елки, обрывы, пенистые речки. От жары, от песен, которые надо было беспрестанно горланить, Василий Иванович так изнемог, что на полдневном привале немедленно уснул и только тогда проснулся, когда на нем стали шлепать мнимых оводов. А еще через час ходьбы вдруг и открылось ему то самое счастье, о котором он как-то вполгрезы подумал.</p>
+   <p>Это было чистое, синее озеро с необыкновенным выражением воды. Посередине отражалось полностью большое облако. На той стороне, на холме, густо облепленном древесной зеленью (которая тем поэтичнее, чем темнее), высилась прямо из дактиля в дактиль старинная черная башня. Таких, разумеется, видов в средней Европе сколько угодно, но именно, именно этот, по невыразимой и неповторимой согласованности его трех главных частей, по улыбке его, по какой-то таинственной невинности, — любовь моя! послушная моя! — был чем-то таким единственным, и родным и давно обещанным, так понимал созерцателя, что Василий Иванович даже прижал руку к сердцу, словно смотрел тут ли оно, чтоб его отдать.</p>
+   <p>Поодаль Шрам, тыкая в воздух альпенштоком предводителя, обращал Бог весть на что внимание экскурсантов, расположившихся кругом на траве в любительских позах, а предводитель сидел на пне, задом к озеру, и закусывал. Потихоньку, прячась за собственную спину, Василий Иванович пошел берегом и вышел к постоялому двору, где, прижимаясь к земле, смеясь, истово бия хвостом, его приветствовала молодая еще собака. Он вошел с нею в дом, пегий, двухэтажный, с прищуренным окном под выпуклым черепичным веком и нашел хозяина, рослого старика, смутно инвалидной внешности, столь плохо и мягко изъяснявшегося по-немецки, что Василий Иванович перешел на русскую речь; но тот понимал как сквозь сон и продолжал на языке своего быта, своей семьи. Наверху была комната для приезжих. — Знаете, я сниму ее на всю жизнь, — будто бы сказал Василий Иванович, как только в нее вошел. В ней ничего не было особенного, — напротив, это была самая дюжинная комнатка, с красным полом, с ромашками, намалеванными на белых стенах, и небольшим зеркалом, наполовину полным ромашкового настоя, — но из окошка было ясно видно озеро с облаком и башней, в неподвижном и совершенном сочетании счастья. Не рассуждая, не вникая ни во что, лишь беспрекословно отдаваясь влечению, правда которого заключалась в его же силе, никогда еще не испытанной, Василий Иванович в одну солнечную секунду понял, что здесь, в этой комнатке с прелестным до слез видом в окне, наконец-то так пойдет жизнь, как он всегда этого желал. Как именно пойдет, что именно здесь случится, он этого не знал, конечно, но все кругом было помощью, обещанием и отрадой, так что не могло быть никакого сомнения в том, что он должен тут поселиться. Мигом он сообразил, как это исполнить, как сделать, чтобы в Берлин не возвращаться более, как выписать сюда свое небольшое имущество — книги, синий костюм, ее фотографию. Все выходило так просто! У меня он зарабатывал достаточно на малую русскую жизнь.</p>
+   <p>— Друзья мои, — крикнул он, прибежав снова вниз на прибрежную полянку. — Друзья мои, прощайте! Навсегда остаюсь вон в том доме. Нам с вами больше не по пути. Я дальше не еду. Никуда не еду. Прощайте!</p>
+   <p>— То есть как это? — странным голосом проговорил предводитель, выдержав небольшую паузу, в течение которой медленно линяла улыбка на губах у Василия Ивановича, между тем как сидевшие на траве привстали и каменными глазами смотрели на него.</p>
+   <p>— А что? — пролепетал он. — Я здесь решил…</p>
+   <p>— Молчать! — вдруг со страшной силой заорал почтовый чиновник. — Опомнись, пьяная свинья!</p>
+   <p>— Постойте, господа, — сказал предводитель, — одну минуточку, — и, облизнувшись, он обратился к Василию Ивановичу:</p>
+   <p>— Вы должно быть, действительно, подвыпили, — сказал он спокойно. — Или сошли с ума. Вы совершаете с нами увеселительную поездку. Завтра по указанному маршруту — посмотрите у себя на билете — мы все возвращаемся в Берлин. Речи не может быть о том, чтобы кто-либо из нас — в данном случае вы — отказался продолжать совместный путь. Мы сегодня пели одну песню, — вспомните, что там было сказано. Теперь довольно! Собирайтесь, дети, мы идем дальше.</p>
+   <p>— Нас ждет пиво в Эвальде, — ласково сказал Шрам. — Пять часов поездом. Прогулки. Охотничий павильон. Угольные копи. Масса интересного.</p>
+   <p>— Я буду жаловаться, — завопил Василий Иванович. — Отдайте мне мой мешок. Я вправе остаться где желаю. Да ведь это какое-то приглашение на казнь, — будто добавил он, когда его подхватили под руки.</p>
+   <p>— Если нужно, мы вас понесем, — сказал предводитель, — но это вряд ли будет вам приятно. Я отвечаю за каждого из вас и каждого из вас доставлю назад живым или мертвым.</p>
+   <p>Увлекаемый, как в дикой сказке по лесной дороге, зажатый, скрученный, Василий Иванович не мог даже обернуться и только чувствовал, как сияние за спиной удаляется, дробимое деревьями, и вот уже нет его, и кругом чернеет бездейственно ропщущая чаша. Как только сели в вагон и поезд двинулся, его начали избивать, — били долго и довольно изощренно. Придумали, между прочим, буравить ему штопором ладонь, потом ступню. Почтовый чиновник, побывавший в России, соорудил из палки и ремня кнут, которым стал действовать, как черт, ловко. Молодчина! Остальные мужчины больше полагались на свои железные каблуки, а женщины пробавлялись щипками да пощечинами. Было превесело.</p>
+   <p>По возвращении в Берлин он побывал у меня. Очень изменился. Тихо сел, положив на колени руки. Рассказывал. Повторял без конца, что принужден отказаться от должности, умолял отпустить, говорил, что больше не может, что сил больше нет быть человеком. Я его отпустил, разумеется.</p>
+   <p><emphasis>Мариенбад, 1937 г.</emphasis></p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+30n/2Q==</binary>
+</FictionBook>

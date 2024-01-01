@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>prose_classic</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Занятой человек</book-title>
+   <annotation>
+    <p>«Соглядатай» — роман, занимающий особое место в многообразном, многоуровневом творчестве В. Набокова. Практически впервые здесь набоковская проза, обычно — холодно-изящная, становится нервной, захлебывающейся, угловатой. Экспрессионистская ли эстетика довлеет здесь над «вечной» для писателя темой эмигрантской трагедии — или, напротив, тоска выломившейся из прошлого и утратившей надежду на будущее «России в изгнании» задает неровный, «дерганный» ритм повествования? Мнений может быть много, но — какое из них верное? Решите сами…</p>
+   </annotation>
+   <date>1938</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+   <sequence name="Соглядатай" number="6"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb+FBE, FB Editor v2.0, FictionBook Editor 2.4</program-used>
+   <date value="2009-07-27">2009-07-15</date>
+   <id>E345E711-22D0-4222-AC35-67D8726D173D</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Владимир Набоков. Соглядатай.</book-name>
+   <publisher>Издательство "ФОЛИО" </publisher>
+   <city>Харьков</city>
+   <year>2001</year>
+   <isbn>5-17-006663-5</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Владимир Набоков</p>
+   <p>ЗАНЯТОЙ ЧЕЛОВЕК</p>
+  </title>
+  <section>
+   <p>Тому, кто много занимается своею душой, нередко доводится присутствовать при грустном, но любопытном явлении, а именно при том: как вдруг умирает пустяшное воспоминание, по случайному поводу вызванное из той отдаленной скромной богадельни, где доживало оно свой незаметный век. Оно мигает, оно еще пульсирует и отсвечивает, — но тут же на ваших глазах, разок вздохнув, протягивает ножки, не выдержав слишком быстрого перехода в резкий свет настоящего. Отныне остается в распоряжении вашем лишь отражение его, краткий пересказ, лишенный, увы, обаятельной убедительности подлинника. Нежный и смертобоязненный Граф Ит, вспоминая отроческий сон, заключавший лаконическое пророчество, уже давно не чувствовал кровной связи между собой и этим воспоминанием, ибо, при одном из первых вызовов, оно осунулось и умерло, — и то, что он теперь помнил, являлось лишь воспоминанием о воспоминании. Когда это было? «Неизвестно», — ответил Граф, отодвинув стеклянный горшочек со следами югурта и облокотившись на стол. Когда это было, — ну, приблизительно? Давно. Должно быть, между десятью и пятнадцатью годами: он в ту пору много думал о смерти, — особенно по ночам.</p>
+   <empty-line/>
+   <p>Теперь: вот он, — тридцатидвухлетний, маленький, но широкоплечий мужчина, с отстающими, прозрачными ушами, полуактер, полулитератор, помещающий в зарубежных газетах юмористические стишки, — под не очень острым псевдонимом (неприятно напоминающим бессмертного Каран д-Аша). Вот он. Лицо его состоит из темных, со слепым бликом, очков в роговой оправе и шелковистой бородавки на щеке. Он лысеет, и в прямых, белесых, зачесанных назад волосах череп сквозит бледно-розовой замшей.</p>
+   <p>О чем он только что думал? Что это было за воспоминание, под которое он все подкапывался? Воспоминание о сне. Предупреждение, сделанное ему в том сне. Предсказание, вовсе не мешавшее ему жить доныне, но теперь, при неизбежном приближении назначенного срока, начинавшее звучать все громче и все настойчивее.</p>
+   <empty-line/>
+   <p>«Взять себя в руки», — истерическим речитативом произнес Граф и, кашлянув, встал, подошел к окну.</p>
+   <p>Все громче и все настойчивее. Когда-то приснившаяся цифра 33 запуталась в душе, вцепилась загнутыми коготками, вроде летучей мыши, и никак нельзя было распутать этот душевный колтун. По преданию, Иисус Христос дожил до тридцати трех лет, — и, быть может (думал Граф, замерев у креста оконной рамы), быть может, давний тот сон так и говорил: «Умрешь в возрасте Христа», — после чего осветились на экране тернии двух огромных троек.</p>
+   <p>Он распахнул окно. На улице было светлее, чем в комнате, но уже зажигались огни. Небо выстлано было ровными облаками, и только на западе, в провале между охрой тронутых домов, протянулась яркая, нежная полоса. Поодаль остановился с горящими очами автомобиль, погрузив прямые оранжевые клыки в водянисто-серый асфальт. На пороге своей лавки стоял блондин-мясник и смотрел в небо.</p>
+   <p>Как по камням через ручей, мысль Графа прыгнула с мясника на тушу, а затем: кто-то когда-то рассказывал ему, что кто-то где-то (в морге? в музее? в анатомическом театре?) ласково звал труп (или скелет?) «мыленький». Он за углом, этот мыленький. Будьте покойны, мыленький не обманет.</p>
+   <empty-line/>
+   <p>«Переберем возможности, — с усмешкой сказал Граф, косясь вниз, с пятого этажа, на черные чугунные шипы палисадника. — Первое, — самое досадное: привидится во сне нападение или пожар, вскочу, брошусь к окну и, полагая, — по сонной глупости, — что живу низко, выпрыгну в бездну. Другое: во сне же проглочу язык, это бывает, он судорожно запрокинется, глотну, задохнусь. Третье: я, скажем, брожу по улицам… В бою ли, в странствии, в волнах. Или соседняя долина… Поставил, небось, „в бою“ на первое место. Значит, предчувствовал. Был суеверен, и недаром. Что мне делать с собой? Одиночество».</p>
+   <p>Он женился в 1924 году, в Риге, куда попал из Пскова с тощей театральной труппой, — выступал с куплетами и, когда снимал очки, чтобы слегка оживить гримом мертвенькое лицо, глаза оказывались мутно-голубыми. Жена была крупная, здоровая женщина со стрижеными черными волосами, жарким цветом лица и толстым колючим затылком; ее отец торговал мебелью. Вскоре Граф заметил, что она глупа и груба, что ноги у нее колесом; что на каждые два русских слова она употребляет десяток немецких. Он понял, что следует разойтись с нею, но медлил, мечтательно жалея ее, — так тянулось до 1926 года, когда она изменила ему с хозяином гастрономического магазина на улице Лачплесиса. Граф переселился в Берлин, где ему предлагала место фильмовая фирма (вскоре, однако, прогоревшая), зажил скромно, одиноко и безалаберно, часами просиживал в дешевой кофейне или пивной, где сочинял дежурное стихотворение. Вот канва его жизни, — не Бог весть какая, — мелкота, бледнота, русский эмигрант третьего разбора. Но, как известно, сознание вовсе не определяется бытием: во дни сравнительного благополучия, равно как и во дни истлевания носильных вещей и голода, Граф, до роковой годины, предсказанной сном, жил по-своему счастливо. Он был, в полном смысле слова, «занятой человек», ибо предметом его занятий была собственная душа, — и вот уж когда, действительно, роздыха не знаешь, — да и не надобно его. Речь идет о воздушных ямах жизни, о сердцебиении, о жалости, о набегах прошлого, — чем-то запахло, что-то припомнилось, но что? Что? — и почему никто не замечает, что на самой скучной улице дома все разные, разные, и сколько есть на них, да и на всем прочем, никчемных на вид, но какой-то жертвенной прелести полных украшений? Поговорим откровенно: есть люди, так отсидевшие душу, что больше не чувствуют ее. Есть зато другие, наделенные принципами, идеалами, тяжко болеющие вопросами веры и нравственности; но искусство чувствования у них — прикладное искусство. Это тоже люди занятые: горнорабочие сознания, они, по принятому выражению, «копаются в себе», глубоко забирая врубовой машиной совести и шалея от черной пыли грехов, грешков, грехоидов. К их числу Граф не принадлежал: грехов особых у него не было, не было и принципов. Он занимался собой, как некоторые занимаются живописью или составлением коллекций, или разбором рукописи, богатой замысловатыми переносами, вставками, рисунками на полях и темпераментными помарками, как бы сжигающими мосты между образами, — мосты, которые так забавно восстановлять.</p>
+   <p>В занятия его вмешалось нечто постороннее, — это вышло неожиданно и мучительно, — как быть? Постояв у окна (и все придумывая расправу с глупой, ничтожной, но неотразимой мыслью, что на днях, — девятнадцатого июня, — он вступит в тот возраст, о котором говорил отроческий сон), Граф тихо покинул свою потемневшую комнату, где уже все предметы, приподнятые волной сумерек, не стояли, а плавали, как мебель во время наводнения. На улице было все еще светло, — и как-то сжималось сердце от нежности рано зажженных огней. Граф заметил сразу, что кругом что-то творится, распространялось странное волнение, собирались на перекрестках, делали загадочные угловатые знаки, переходили на другую сторону и, снова указывая вдаль, замирали в таинственном оцепенении. В сумеречной дымке терялись существительные, оставались только глаголы, — даже не глаголы, а какие-то их архаические формы. Это могло значить многое: например — конец мира. Вдруг, с замиранием во всем теле, он понял: вон там, в глубоком пролете между домов, по ясно-золотому фону, под длинной пепельной тучей, низко, далеко и очень медленно проплывал, тоже пепельный, тоже продолговатый, воздушный корабль. Дивная, древняя красота его движения, вместе с невыносимой красотой вечера, неба, оранжевых огней, синих людских силуэтов, переполнила душу Графа. Он почувствовал (точно это было знамение), что он и впрямь вот-вот дойдет до предела положенной ему жизни, — что иначе быть не может: наш сотрудник, люди, близко знавшие покойного, свежий юмор, свежая могила… И что уже совсем непостижимо: вокруг некролога будет сиять равнодушная газетная природа, — лопухи фельетонов, хвощи хроники…</p>
+   <p>В тихую летнюю ночь ему минуло тридцать три года. Он сидел у себя в комнате, моргающий, без очков, в арестантских подштанниках, и один торжествовал непрошенную годовщину. Гостей он не пригласил, боясь тех случайностей (разбитое зеркальце, разговор о бренности жизни), которые впоследствии чужая память непременно бы возвела в чин предзнаменований и предчувствий. Остановись, остановись, мгновение, — ты не очень прекрасно, но, все-таки, остановись, — вот ведь неповторимая личность в неповторимой среде, — бурелом растрепанных книг на полках, стеклянный горшочек из-под югурта, удлиняющего жизнь, шерстистая проволока для прочищения трубки, толстый альбом цвета золы, в который Графом вклеено все, начиная с собственных стихов, вырезанных из газет, и кончая русским трамвайным билетиком, — вот это сочетание вещей окружает Графа Ита (псевдоним, выдуманный давно, дождливой ночью, в ожидании парома), ушастого, кряжистого человечка, сидящего на краю постели с фиолетовым, дырявым, только что снятым носком в руке.</p>
+   <p>Он стал бояться всего — лифта, сквозняков, строительных лесов, уличного движения, демонстрантов, автомобильной вышки — для починки проводов — огромного газоема, который мог взорваться как раз когда он проходил мимо, по пути на почтамт, где, опять же, мог затеять стрельбу дерзкий грабитель в домодельной маске. Он чувствовал всю глупость своего состояния, но был не способен побороть себя. Тщетно он старался отвлечься, думать о другом: на запятках всякой проносившейся мысли неотвязным выездным стоял мыленький. Между тем стихи, которые он продолжал прилежно поставлять в газеты, становились все игривее и простодушнее (ибо никто задним числом не должен был усмотреть в них предчувствия близкого конца), и эти легкие, деревянные стихи, ритм которых напоминал движение вербной штучки, медведя и мужика, и в которых рифмовали «проталин» и «Сталин», — именно стихи, а не что-нибудь другое, оказывались наиболее ладной и вещественной стороной его бытия.</p>
+   <p>Итак: не воспрещается верить в бессмертие души, — но есть страшный и, кажется, никем еще не поставленный вопрос (думал Граф, сидя в пивной): не сопряжен ли переход души в загробную жизнь с такою же возможностью случайных помех и превратностей, какая подстерегает человека при его земном рождении? Не содействует ли успешности этого перехода принятие во время жизни тех или иных (но каких именно?) психических или даже физических мер? Как угадать, чем запастись, что накопить, чего избегать? Не является ли религия (рассуждал Граф, сидя в опустевшей, темнеющей пивной, где уже стулья ложились, зевая, на столы, ложились спать), религия, развешивающая иконы по стенам жизни, не является ли она вот такой попыткой создать благоприятственную обстановку, — точно так же, как, по мнению иных врачей, фотографии миловидных и упитанных младенцев, украшая спальню беременной, отлично действуют на плод? Но даже если нужные меры приняты, даже если известно, почему Икс (питавшийся тем-то и тем-то — молоком, музыкой, мало ли чем), благополучно перешел в загробную жизнь, а Игрек (питавшийся чуть-чуть иначе) застрял и погиб, — нет ли еще и еще случайностей, которые могут произойти уже при самом переходе, — напортить, помешать, — вот, ведь, звери, да и люди попроще, отходят в сторонку, когда приближается их час, — не мешайте, не мешайте трудной, опасной работе, дайте мне спокойно разрешиться бессмертной моей душой…</p>
+   <p>Все это удручало Графа, но еще подлее и ужаснее была мысль, что будущего века нет, что человеческая жизнь лопается так же непоправимо, как пузыри, которые пляшут и исчезают в бурной бадье под пастью водостока, — Граф смотрел на них с веранды загородного кафе, — шел сильный дождь, дело уже было осенью, уже минуло четыре месяца с того дня, как он вступил в роковой возраст, смерть могла явиться с минуты на минуту, — и чрезвычайно рискованны были эти поездки в унылые, боровые окрестности Берлина. «Но если, — рассуждал Граф, — загробной жизни нет, то отпадает и все прочее, что связано с понятием о самостоятельности души, — отпадает возможность предзнаменований и предчувствий, — о, да, будем материалистами, — а потому: я, здоровый человек со здоровой наследственностью, проживу, по всей вероятности, еще полвека, — и нечего поддаваться нервозным иллюзиям, — все это лишь следствие некоторой временной растерянности моего класса, — человек же бессмертен, поскольку бессмертен его класс, — а великий буржуазный класс (продолжал он вслух, неприятно оживляясь), наш великий и могучий класс победит гидру пролетариата, ибо давайте тоже встанем, крепостники, лабазники и верные их трубадуры, на классовую платформу (больше бодрости), давайте буржуа всех стран, — нет, лучше амфибрахий, — буржуи всех стран… и народов, вперед нефтяной (или золотой?) коллектив, долой пролетарских уродов… а в рифму — деепричастие (победив? скупив?), засим еще две строфы и опять: буржуи всех стран и народов, да здравствует наш капитал, тата-татата-та… (проходов? водопроводов?), буржуйский интернационал!.. Остроумно ли это складывается? Смешно ли?».</p>
+   <p>Наступила зима. Граф занял несколько десятков марок у соседа и употребил их на то, чтобы плотно питаться, ибо не собирался давать судьбе никаких поблажек. Этот странный сосед, сам (сам!) предложивший ему денежную помощь, поселился тут недавно, — снимал он две лучших комнаты в квартире, звали его Иван Иванович Энгель, полноватый такой господин с седыми кудрями, вроде музыкального или шахматного маэстро, — на самом же деле представитель какой-то иностранной фирмы, — очень иностранной, — дальневосточной, быть может. Встречаясь с Графом в коридоре, он участливо и застенчиво улыбался, и Граф объяснял это тем, что сосед, будучи, вероятно, человеком коммерческим, неинтеллигентным, далеким от литературы и прочих горных курортов человеческого духа, невольно питает к нему, мечтателю, некое сладостное уважение. Вообще же у Графа было слишком много хлопот, чтобы заниматься соседом, но он рассеянно пользовался его добротой, в часы нестерпимого ночного беспапиросья, например, стучался к Ивану Ивановичу и получал сигару, — но с ним не якшался, не пускал его к себе в комнату (кроме того случая, когда перегорела лампочка, а хозяйка отлучилась в кинематограф, и сосед принес новенькую стеклянную грушу и деликатно ее навертел).</p>
+   <p>На Рождестве Граф был у друзей на елке и сквозь пестрый разговор безнадежно думал о том, что елку видит в последний раз. Как-то, в ясную февральскую ночь, он засмотрелся на твердь и вдруг почувствовал, что больше не может выдержать бремя и напор своего человеческого сознания, этой зловещей, бессмысленной роскоши. У него отвратительно захватило дыхание, и чудовищное звездное небо тронулось и поехало. Граф отошел от окна и, держась за сердце, выбрался в коридор, постучался к соседу. Иван Иванович с кроткой улыбкой и легким немецким акцентом дал ему валерьянки: так случилось, что, когда Граф вошел, Иван Иванович, стоя посреди спальни, как раз капал в рюмку, — вероятно, для себя самого; держа рюмку в правой руке и высоко подняв левую, с темно-желтой бутылочкой, молча шевелил губами, — двенадцать, тринадцать, четырнадцать, — и потом очень быстро, будто семеня, — пятнадцшестнадцсемнадцать, — и опять — медленно. Канареечного цвета халат, пенсне на кончике внимательного носа.</p>
+   <p>А еще через некоторое время настала весна, и на лестнице запахло мастикой. В доме напротив кто-то умер, и у двери стоял похоронный, черный, чем-то похожий на рояль, автомобиль. Графа донимали по ночам многозначительные сны. Во всем ему мерещилась примета, малейшее совпадение пугало его. Игра случая есть логика судьбы: в самом деле, — как же не поверить в судьбу, в непогрешимость ее подсказки, в упрямство ее устремления, ежели транспарант ее постоянно просвечивает сквозь почерк жизни?</p>
+   <p>Чем больше уделять внимания совпадениям, тем чаще они происходят. Дошло до того, что, выбросив как-то кусок газеты, из которой он, любитель описок, вырезал квадратик со строкой «после долгой и продолжительной болезни», Граф через несколько дней увидел эту же, с аккуратным оконцем, страницу в руках уличной торговки, заворачивавшей для него кочан капусты. Он покорно взял сверток и вернулся домой в подавленном настроении, — а вечером, из-за далеких крыш, поглотив первые звезды, вздулась мутная, злокачественная туча, и стало вдруг так душно и тяжко, точно несешь на хребте вверх по лестнице огромный кованый сундук, — и вот, без предупреждения, небо утратило равновесие, и огромный этот сундук загремел вниз по ступеням. Граф поспешно закрыл окно и задернул шторы: ведь сквозняк и электрический свет привлекают молнию. Вот она озарила шторы, — и он, домашним способом определяя дальность ее падения, принялся считать, — гром ударил на шести, — шесть, значит, верст… Гроза усилилась. Сухие грозы — самые страшные. По стеклам проходил гул. Граф лег в постель, но вдруг так ясно вообразил, как молния сейчас попадет в крышу и пройдет насквозь через все этажи, обратив его мимоходом в судорожно скрюченного негра, — что с бьющимся сердцем вскочил (окно полыхнуло, черный крест рамы скользнул по стене), и, сильно звякая в темноте, снял с умывальника на пол пустой фаянсовый таз, стал в него и так простоял, вздрагивая и скрипя пальцами босых ног по фаянсу, добрую часть ночи, пока не угомонился гром.</p>
+   <empty-line/>
+   <p>В эту майскую грозу Граф дошел до самых унизительных глубин трансцедентальной трусости, — а на следующий день произошел перелом. Граф посмотрел на веселое, ярко-голубое небо, на древообразные узоры темной сырости поперек сохнувшего асфальта и внезапно сообразил, что до девятнадцатого июня остается всего месяц. Девятнадцатого июня (по новому стилю) ему будет тридцать четыре года. Желанный брег… Доплывет ли? Додержится ли?</p>
+   <p>Появилась надежда на спасение. Он ободрился, решив принять некоторые чрезвычайные меры для ограждения своей жизни от притязаний рока. Он перестал выходить на улицу. Он не брился. Он сказался больным, и хозяйка покупала для него продукты, а сосед передавал ему через нее то апельсин, то журнал, то слабительный порошок в кокетливом конвертике. Он мало курил, много спал, в меру питался, решал крестословицы, дышал через нос и на ночь раскладывал на коврике около кровати мокрое полотенце, дабы сразу проснуться от холодка, ежели тело его в лунатическом трансе вздумает уйти из-под надзора мысли.</p>
+   <empty-line/>
+   <p>Додержится ли?.. Первое июня. Второе. Третье. Десятого сосед через дверь справился о его здоровье. Одиннадцатое. Двенадцатое. Тринадцатое. Как знаменитый финский бегун, перед последним кругом, бросает прочь никелевые часы, по которым рассчитывал свой ровный сильный бег, так Граф, увидя близкую цель, круто изменил образ действия. Он сбрил соломенную бородку, принял ванну и пригласил на девятнадцатое гостей.</p>
+   <p>Он не поддался соблазну праздновать рождение на один день раньше, как лукаво предлагала ему сомнительная выкладка. Зато он написал матери в Смоленск, прося сообщить точный час его появления на свет, но она ответила уклончиво: «Это было ночью. Я, помнится, очень страдала».</p>
+   <p>Наступило девятнадцатое. С утра за стеной беспокойно ходил сосед и выбегал в прихожую на звонки. Граф не пригласил его, — в конце концов, они были едва знакомы, — но зато позвал хозяйку, — ибо в природе Графа причудливо совмещались рассеянность и расчет. Под вечер он вышел, купил водки, пирожков с мясом, селедки, черного хлеба. Когда он возвращался наискось через улицу, с трудом придерживая непокорные покупки, Иван Иванович, освещенный желтым солнцем, глядел на него с балкона.</p>
+   <p>Около восьми, как раз когда Граф, все приготовив на столе, высунулся в окно, произошло следующее: на углу, где был трактир, собралась кучка людей, раздались громкие, злые крики, и вдруг — треск выстрелов. Графу показалось, что шальная пуля пропела у самого его лица, чуть не разбив очков, и он, ахнув, втянул голову. Из прихожей донесся звонок. Граф, дрожа, открыл дверь, и одновременно выскочил в канареечном своем халате Иван Иванович. Жданная телеграмма. Иван Иванович жадно ее развернул и радостно улыбнулся.</p>
+   <empty-line/>
+   <p>«Was dort für Skandale?»<a l:href="#n_1" type="note">[1]</a> — обратился Граф к нарочному, но тот не понял, а когда Граф опять (очень осторожно) посмотрел в окно, то перед трактиром было уже пусто, все успокоилось, сидели швейцары у своих подъездов, горничная с голыми икрами медленно прогуливала розоватого пуделька.</p>
+   <p>К девяти собрались гости, — трое русских и немка-хозяйка. Она принесла с собой ликерных рюмок и пирог собственного изделия. Была она скуластая, корявая, с веснушками на шее, в парике фарсовой тещи, в шумящем лиловом платье. Мрачные друзья Графа, — все люди тяжелые, пожилые, с различными недомоганиями, рассказы о которых странно утешали Графа, сразу напоили хозяйку, да и сами невесело охмелели. Разговор велся, конечно, по-русски, хозяйка ни слова не понимала, однако, похохатывала, играла впустую плохо подведенными глазами и рассказывала что-то свое, но ее никто не слушал. Граф посматривал на часы и под столом щупал себе пульс. К полуночи водка иссякла, и хозяйка, шатаясь и помирая со смеху, принесла бутылку коньяку: «Ну, что ж, выпьем, старая морда», — холодно обратился к ней один из гостей, и она, с девической доверчивостью, чокнулась с ним, и потом потянулась к другому, но тот от нее отмахнулся.</p>
+   <p>На рассвете Граф выпустил гостей. В прихожей на столике валялась распечатанная телеграмма, давеча так обрадовавшая соседа. Граф рассеянно ее прочел: «Soglassen prodlenie», затем он вернулся к себе в комнату, кое-что прибрал и, зевая, со странным ощущением скуки, — точно жизнь у него рассчитана была как раз на предсказанный срок, а теперь как-то нужно все строить заново, — сел в кресло, перелистал от нечего делать потрепанную книжку — сборник анекдотов, изданный в Риге. Чем занимается ваша дочь? Она садистка. То есть? Она поет в садах. Незаметно он задремал и увидел во сне, как Иван Иванович Энгель поет в каком-то саду, плавно качая ярко-желтыми кудрявыми крыльями, — и, когда Граф проснулся, прелестное летнее солнце зажигало маленькие радуги в плоских хозяйских рюмках, и было все как-то мягко и светло, и загадочно, — как будто он чего-то не понял, не додумал, а теперь уже поздно, и началась другая жизнь, — все прежнее отпало, и совсем, совсем умерло пустяшное воспоминание, случайно вызванное из далекой, скромной обители, где дотягивало оно свой незаметный век.</p>
+  </section>
+ </body>
+ <body name="notes">
+  <title>
+   <p>Примечания</p>
+  </title>
+  <section id="n_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p>«Что там за скандал?» <emphasis>(нем.)</emphasis></p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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
+y0cYjRCF1HMCEIQAIQhAC2SIQgAQhCAP/9k=</binary>
+</FictionBook>

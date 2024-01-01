@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>dramaturgy</genre>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Владимир</first-name>
+    <last-name>Набоков</last-name>
+   </author>
+   <book-title>Дедушка</book-title>
+   <annotation>
+    <p>Пьеса написана в июне 1923 г. в имении Домэн де Больё, Солье-Пон (вблизи Тулона), где Набоков работал на фруктовых плантациях друга В. Д. Набокова Соломона Крыма (N84. Р. 287).</p>
+   </annotation>
+   <date>1923</date>
+   <coverpage>
+    <image l:href="#p.jpg"/></coverpage>
+   <lang>ru</lang>
+   <src-lang>ru</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>Andrey</first-name>
+    <last-name></last-name>
+    <nickname>bokonon</nickname>
+   </author>
+   <program-used>doc2fb, FB Editor v2.0</program-used>
+   <date value="2009-08-01">2009-07-31</date>
+   <id>8410501F-B4B9-4FEA-8F51-5B7F39E4C600</id>
+   <version>2.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Трагедия господина Морна. Пьессы. Лекции о драме.</book-name>
+   <publisher>Азбука-классика</publisher>
+   <city>СПб.</city>
+   <year>2008</year>
+   <isbn>978-5-91181-768-8</isbn>
+  </publish-info>
+  <custom-info info-type="">Бумажная версия книги оцень хорошего качества. Любой, кто интересуется творчеством Владимира Набокова, должен иметь ее в своей коллекции.</custom-info>
+ </description>
+ <body>
+  <title>
+   <p><strong>Дедушка</strong></p>
+  </title>
+  <section>
+   <subtitle>Драма в одном действии</subtitle>
+  </section>
+  <section>
+   <p><emphasis>Действие происходит в 1816 году<a l:href="#c_1">{1}</a>, во Франции, в доме зажиточной крестьянской семьи. Просторная комната, окнами в сад. Косой дождь. Входят хозяева и незнакомец.</emphasis></p>
+   <empty-line/>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>             …Пожалуйста. Тут наша</v>
+     <v>гостиная…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>               Сейчас мы вам вина</v>
+     <v>дадим.</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(К дочке.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>          Джульетта, сбегай в погреб, — живо!</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(озирается)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Ах, как у вас приятно…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                Вы садитесь, —</v>
+     <v>сюда…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>         Свет… Чистота… Резной баул</v>
+     <v>в углу, часы стенные с васильками</v>
+     <v>на циферблате…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                       Вы не вымокли?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                                Нисколько!</v>
+     <v>Успел под крышу заскочить… Вот ливень</v>
+     <v>так ливень! Вас я не стесняю? Можно</v>
+     <v>здесь переждать? Как только перестанет…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Мы рады, рады…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Вы из наших мест?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Нет — странник я… Недавно лишь вернулся</v>
+     <v>на родину. Живу у брата, в замке</v>
+     <v>де Мэриваль… Недалеко отсюда…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>А, знаем, знаем…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(К дочке, вошедшей с вином.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                        Ставь сюда, Джульетта.</v>
+     <v>Так. Пейте, сударь. Солнце, — не вино!</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(чокается)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>За ваше… Эх, душистое какое!</v>
+     <v>И дочь у вас — хорошая… Джульетта,</v>
+     <v>душа, где твой Ромео?</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <p><emphasis>(смеется)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                  Что такое —</v>
+     <v>"Ромео"?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>            Так… Она сама узнает</v>
+     <v>когда-нибудь…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                     Вы дедушку видали?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Нет, не видал.</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                     Он — добрый…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <p><emphasis>(к жене)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                         Где он, кстати?</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Спит у себя — и чмокает во сне,</v>
+     <v>как малое дитя…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Он очень стар —</v>
+     <v>ваш дедушка?</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Лет семьдесят, пожалуй…</v>
+     <v>Не знаем мы…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                     Ведь он нам не родня:</v>
+     <v>мы дедушкой его прозвали сами.</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Он — ласковый…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Но кто же он?</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                            Да то-то</v>
+     <v>оно и есть, что мы не знаем… Как-то,</v>
+     <v>минувшею весною, появился</v>
+     <v>в деревне старец, — видно, издалека.</v>
+     <v>Он имени не помнил своего,</v>
+     <v>на все вопросы робко улыбался…</v>
+     <v>Его сюда Джульетта привела.</v>
+     <v>Мы накормили, напоили старца:</v>
+     <v>он ворковал, облизывался, жмурясь,</v>
+     <v>мне руку мял с блаженною ужимкой, —</v>
+     <v>а толку никакого: видно, разум</v>
+     <v>в нем облысел… Его мы у себя</v>
+     <v>оставили, — Джульетта упросила…</v>
+     <v>И то сказать: он неженка, сластена…</v>
+     <v>Недешево обходится он нам.</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Не надо, муж, — он — старенький…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                                 Да что же, —</v>
+     <v>я ничего… так, — к слову… Пейте, сударь!</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Спасибо, пью; спасибо… Впрочем, скоро</v>
+     <v>домой пора… Вот дождь… Земля-то ваша</v>
+     <v>задышит!</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>             Слава Богу! Только это</v>
+     <v>одна игра — не дождь. Глядите, солнце</v>
+     <v>уж сквозь него проблескивает… эх!..</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Дым золотой… Как славно!</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                        Вот вы, сударь,</v>
+     <v>любуетесь — а нам-то каково?</v>
+     <v>Ведь мы — земля. Все думы наши — думы</v>
+     <v>самой земли… Мы чувствуем, не глядя,</v>
+     <v>как набухает семя в борозде,</v>
+     <v>как тяжелеет плод… Когда от зноя</v>
+     <v>земля горит и трескается, — так же</v>
+     <v>у нас ладони трескаются, сударь!</v>
+     <v>А дождь пойдет — мы слушаем тревожно —</v>
+     <v>и молим про себя: "шум, свежий шум,</v>
+     <v>не перейди в постукиванье града!.."</v>
+     <v>И если этот прыгающий стук</v>
+     <v>об наши подоконники раздастся, —</v>
+     <v>тогда, тогда мы затыкаем уши,</v>
+     <v>лицо в подушки прячем, — словно трусы</v>
+     <v>при перестрелке дальней! Да — немало</v>
+     <v>у нас тревог… Недавно вот — на груше</v>
+     <v>червь завелся — большущий, в бородавках,</v>
+     <v>зеленый черт! А то — холодной сыпью</v>
+     <v>тля облепит молоденькую ветвь…</v>
+     <v>Вот и крутись!</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                     Зато какая гордость</v>
+     <v>для вас, какая радость, — получать</v>
+     <v>румяное, душистое спасибо</v>
+     <v>деревьев ваших!</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                         Дедушка — вот тоже —</v>
+     <v>прилежно ждет каких-то откровений,</v>
+     <v>прикладывая ухо то к коре,</v>
+     <v>то к лепестку… Мне кажется, — он верит,</v>
+     <v>что души мертвых в лилиях, в черешнях</v>
+     <v>потом живут.</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                   Не прочь я был бы с ним</v>
+     <v>потолковать… люблю я этих нежных</v>
+     <v>юродивых…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                Как погляжу на вас —</v>
+     <v>мне ваших лет не высчитать. Как будто</v>
+     <v>не молоды, а вместе с тем… не знаю…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>А ну прикиньте, угадайте.</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                        Мирно</v>
+     <v>вы прожили, должно быть. Ни морщинки</v>
+     <v>на вашем лбу…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Какое — мирно!</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Смеется.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                                Если б</v>
+     <v>все записать… Подчас я сам не верю</v>
+     <v>в свое былое! От него пьянею,</v>
+     <v>как вот — от вашего вина. Я пил</v>
+     <v>из чаши жизни залпами такими,</v>
+     <v>такими… Ну и смерть порой толкала</v>
+     <v>под локоть… Вот, — хотите вы послушать</v>
+     <v>рассказ о том, как летом, в девяносто</v>
+     <v>втором году, в Лионе, господин</v>
+     <v>де Мэриваль, — аристократ, изменник,</v>
+     <v>и прочее, и прочее — спасен был</v>
+     <v>у самой гильотины?</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                             Расскажите,</v>
+     <v>мы слушаем…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                    Мне было двадцать лет</v>
+     <v>в тот буйный год. Громами Трибунала</v>
+     <v>я к смерти был приговорен, — за то ли,</v>
+     <v>что пудрил волосы<a l:href="#c_2">{2}</a>, иль за приставку</v>
+     <v>пред именем моим, — не знаю: мало ль,</v>
+     <v>за что тогда казнили… В тот же вечер</v>
+     <v>на эшафот я должен был явиться, —</v>
+     <v>при факелах… Палач был, кстати, ловкий,</v>
+     <v>старательный: художник, — не палач.</v>
+     <v>Он своему парижскому кузену</v>
+     <v>все подражал, — великому Самсону<a l:href="#c_3">{3}</a>:</v>
+     <v>такую же тележку он завел</v>
+     <v>и головы отхваченные — так же</v>
+     <v>раскачивал, за волосы подняв…</v>
+    </stanza>
+   </poem>
+   <poem>
+    <stanza>
+     <v>Вот он меня повез. Уже стемнело,</v>
+     <v>вдоль черных улиц зажигались окна</v>
+     <v>и фонари. Спиною к ветру сидя</v>
+     <v>в тележке тряской и держась за грядки</v>
+     <v>застывшими руками — думал я, —</v>
+     <v>о чем? — да все о пустяках каких-то, —</v>
+     <v>о том, что вот — платка не взял с собою,</v>
+     <v>о том, что спутник мой — палач — похож</v>
+     <v>на лекаря почтенного… Недолго</v>
+     <v>мы ехали. Последний поворот —</v>
+     <v>и распахнулась площадь, посредине</v>
+     <v>зловеще озаренная… И вот,</v>
+     <v>когда палач, с какой-то виноватой</v>
+     <v>учтивостью, помог мне слезть с тележки —</v>
+     <v>и понял я, что кончен, кончен путь,</v>
+     <v>тогда-то страх схватил меня под горло…</v>
+    </stanza>
+   </poem>
+   <poem>
+    <stanza>
+     <v>И сумрачное уханье толпы, —</v>
+     <v>глумящейся, быть может, (я не слышал), —</v>
+     <v>движенье конских крупов, копья, ветер,</v>
+     <v>чад факелов пылающих — все это</v>
+     <v>как сон пошло, и я одно лишь видел,</v>
+     <v>одно: там, там, высоко в черном небе,</v>
+     <v>стальным крылом косой тяжелый нож</v>
+     <v>меж двух столбов висел, упасть готовый,</v>
+     <v>и лезвие, летучий блеск ловя,</v>
+     <v>уже как будто вспыхивало кровью!</v>
+    </stanza>
+   </poem>
+   <poem>
+    <stanza>
+     <v>И на помост, под гул толпы далекой,</v>
+     <v>я стал всходить — и каждая ступень</v>
+     <v>по-разному скрипела. Молча сняли</v>
+     <v>с меня камзол и ворот до лопаток</v>
+     <v>разрезали… Доска была, — что мост</v>
+     <v>взведенный: к ней — я знал — меня привяжут,</v>
+     <v>опустят мост, со стуком вниз качнусь,</v>
+     <v>между столбов ошейник деревянный</v>
+     <v>меня захлопнет, — и тогда, тогда-то</v>
+     <v>смерть, с грохотом мгновенным, ухнет сверху!</v>
+    </stanza>
+   </poem>
+   <poem>
+    <stanza>
+     <v>И вот не мог я проглотить слюну,</v>
+     <v>предчувствием ломило мне затылок,</v>
+     <v>в висках гремело, разрывалась грудь</v>
+     <v>от трепета и топота тугого, —</v>
+     <v>но, кажется, я с виду был спокоен…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>О, я кричала бы, рвалась бы, — криком</v>
+     <v>пощады я добилась бы… Но как же,</v>
+     <v>но как же вы спаслись?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                  Случилось чудо…</v>
+     <v>Стоял я, значит, на помосте, рук</v>
+     <v>еще мне не закручивали. Ветер</v>
+     <v>мне плечи леденил… Палач веревку</v>
+     <v>какую-то распутывал. Вдруг — крик:</v>
+     <v>"Пожар!" — и в тот же миг всплеснуло пламя</v>
+     <v>из-за перил, и в тот же миг шатались</v>
+     <v>мы с палачом, боролись на краю</v>
+     <v>площадки… Треск, — в лицо пахнуло жаром,</v>
+     <v>рука, меня хватавшая, разжалась, —</v>
+     <v>куда-то падал я, кого-то сшиб,</v>
+     <v>нырнул, скользнул в потоки дыма, в бурю</v>
+     <v>дыбящихся коней, людей бегущих, —</v>
+     <v>"Пожар! пожар!" — все тот же бился крик,</v>
+     <v>захлебывающийся и блаженный!</v>
+     <v>А я уже был далеко! Лишь раз</v>
+     <v>я оглянулся на бегу и видел —</v>
+     <v>как в черный свод клубился дым багровый,</v>
+     <v>как запылали самые столбы</v>
+     <v>и рухнул нож, огнем освобожденный!</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Вот ужасы!..</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                 Да! Тот, кто смерть увидел,</v>
+     <v>уж не забудет… Помню, как-то воры</v>
+     <v>в сад забрались. Ночь, темень, жутко… Снял я</v>
+     <v>ружье с крюка…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(задумчиво перебивает)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                        Так спасся, — и сразу</v>
+     <v>как бы прозрел: я прежде был рассеян,</v>
+     <v>и угловат, и равнодушен… Жизни,</v>
+     <v>цветных пылинок жизни нашей милой</v>
+     <v>я не ценил — но, увидав так близко</v>
+     <v>те два столба, те узкие ворота</v>
+     <v>в небытие, те отблески, тот сумрак…</v>
+     <v>И Францию под свист морского ветра</v>
+     <v>покинул я, и Франции чуждался,</v>
+     <v>пока над ней холодный Робеспьер</v>
+     <v>зеленоватым призраком маячил, —</v>
+     <v>пока в огонь шли пыльные полки</v>
+     <v>за серый взгляд и челку Корсиканца<a l:href="#c_4">{4}</a>…</v>
+     <v>Но нелегко жилось мне на чужбине:</v>
+     <v>я в Лондоне угрюмом и сыром</v>
+     <v>преподавал науку поединка.</v>
+     <v>В России жил, играл на скрипке в доме</v>
+     <v>у варвара роскошного… Затем</v>
+     <v>по Турции, по Греции скитался.</v>
+     <v>В Италии прекрасной голодал.</v>
+     <v>Видов видал немало. Был матросом,</v>
+     <v>был поваром, цирюльником, портным —</v>
+     <v>и попросту — бродягой… Все же ныне</v>
+     <v>благодарю я Бога ежечасно</v>
+     <v>за трудности, изведанные мной, —</v>
+     <v>за шорохи колосьев придорожных,</v>
+     <v>за шорохи и теплое дыханье</v>
+     <v>всех душ людских, прошедших близ меня…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Всех, сударь, всех? Но вы забыли душу</v>
+     <v>того лихого мастера, с которым</v>
+     <v>вы встретились, тогда — на эшафоте…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Нет, не забыл. Через него-то мир</v>
+     <v>открылся мне. Он был ключом, — невольно…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Нет, — не пойму…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Встает.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                         До ужина работу</v>
+     <v>мне кончить надо… Ужин наш — нехитрый…</v>
+     <v>Но может быть…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Что ж — я не прочь…</v>
+    </stanza>
+   </poem>
+   <subtitle>МУЖ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                                     Вот ладно!</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Уходит.</emphasis></p>
+   <empty-line/>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Простите болтуна… Боюсь — докучен</v>
+     <v>был мой рассказ…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                          Да что вы, сударь, что вы…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Никак, вы детский чепчик шьете?..</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <p><emphasis>(смеется)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                                   Да.</v>
+     <v>Он к рождеству, пожалуй, пригодится…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Как хорошо…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                  А вот другой младенец…</v>
+     <v>вон там, в саду…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(смотрит в окно)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                        А, — дедушка… Прекрасный</v>
+     <v>старик… Весь серебрится он на солнце.</v>
+     <v>Прекрасный… И мечтательное что-то</v>
+     <v>в его движеньях есть. Он пропускает</v>
+     <v>сквозь пальцы стебель лилии — нагнувшись</v>
+     <v>над цветником, — лишь гладит, не срывает,</v>
+     <v>и нежною застенчивой улыбкой</v>
+     <v>весь озарен…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                   Да, лилии он любит, —</v>
+     <v>ласкает их и с ними говорит.</v>
+     <v>Для них он даже имена придумал, —</v>
+     <v>каких-то все маркизов, герцогинь…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Как хорошо… Вот он, верно, мирно</v>
+     <v>свой прожил век, — да, где-нибудь в деревне,</v>
+     <v>вдали от бурь гражданских и иных…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Он врачевать умеет… Знает травы</v>
+     <v>целебные. Однажды дочку нашу…</v>
+     <v>Врывается Джульетта с громким хохотом.</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Ах, мама, вот умора!..</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                 Что такое?</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Там… дедушка… корзинка… Ах!..</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Смеется.)</emphasis></p>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                                Да толком</v>
+     <v>ты расскажи…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                    Умора!.. Понимаешь,</v>
+     <v>я, мама, шла, — вот только что — шла садом</v>
+     <v>за вишнями, — а дедушка увидел,</v>
+     <v>весь съежился — и хвать мою корзинку —</v>
+     <v>ту, новую, обитую клеенкой</v>
+     <v>и уж запачканную соком — хвать! —</v>
+     <v>и как швырнет ее — да прямо в речку —</v>
+     <v>Ее теперь теченьем унесло.</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>Вот странно-то… Бог весть мосты какие</v>
+     <v>в его мозгу раскидывает мысль…</v>
+     <v>Быть может… Нет…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Смеется.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                           Я сам порою склонен</v>
+     <v>к сопоставленьям странным… Так — корзинка,</v>
+     <v>обитая клеенкой, покрасневшей</v>
+     <v>от ягод — мне напоминает… Тьфу!</v>
+     <v>Какие бредни жуткие! Позвольте</v>
+     <v>не досказать…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <p><emphasis>(не слушая)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                    Да что он, право… Папа</v>
+     <v>рассердится. Ведь двадцать су — корзина.</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Уходит с дочкой.</emphasis></p>
+   <empty-line/>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(смотрит в окно)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Ведут, ведут… Как дуется старик</v>
+     <v>забавно. Впрямь — обиженный ребенок…</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Возвращаются с дедушкой.</emphasis></p>
+   <empty-line/>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Тут, дедушка, есть гость у нас… Смотри</v>
+     <v>какой…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>          Я не хочу корзинки той. Не надо</v>
+     <v>таких корзинок…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                         Полно, полно, милый…</v>
+     <v>Ее ведь нет. Она ушла. Совсем.</v>
+     <v>Ну успокойся… Сударь, вы его</v>
+     <v>поразвлеките… Нужно нам идти</v>
+     <v>готовить ужин…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                       Это кто такой?</v>
+     <v>Я не хочу…</v>
+    </stanza>
+   </poem>
+   <subtitle>ЖЕНА:</subtitle>
+   <p><emphasis>(в дверях)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                Да это гость наш. Добрый.</v>
+     <v>Садись, садись. А он какие сказки</v>
+     <v>нам рассказал, — о палаче в Лионе,</v>
+     <v>о казни, о пожаре!.. Ай, занятно.</v>
+     <v>Вы, сударь, — повторите.</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Уходит с дочкой.</emphasis></p>
+   <empty-line/>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                        Что такое?</v>
+     <v>Что, что она сказала? Это странно…</v>
+     <v>Палач, пожар…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(в сторону)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                     Ну вот, перепугался…</v>
+     <v>Эх, глупая, зачем сказала, право…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Громко.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Я, дедушка, шутил… Ответь мне лучше —</v>
+     <v>о чем беседуешь в саду, — с цветами,</v>
+     <v>с деревьями? Да что же ты так смотришь?</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <p><emphasis>(пристально)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Откуда ты?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                Я — так, — гулял…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                             Постой,</v>
+     <v>постой, останься тут, сейчас вернусь я.</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Уходит.</emphasis></p>
+   <empty-line/>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(ходит по комнате)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Какой чудак! Не то он всполошился,</v>
+     <v>не то он что-то вспомнил… Неприятно</v>
+     <v>и смутно стало мне, — не понимаю…</v>
+     <v>Вино тут, видно, крепкое…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Напевает.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                        Тра-рам,</v>
+     <v>тра-ра… Да что со мною? Словно —</v>
+     <v>какое-то томленье… Фу, как глупо…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <p><emphasis>(входит)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>А вот и я… Вернулся.</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                               Здравствуй, здравствуй…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(В сторону.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Э, — он совсем веселенький теперь!</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <p><emphasis>(переступает с ноги на ногу, заложив руки за спину)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Я здесь живу. Вот в этом доме. Здесь</v>
+     <v>мне нравится. Вот — например — смотри-ка, —</v>
+     <v>какой тут шкаф…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Хороший…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                      Это, знаешь, —</v>
+     <v>волшебный шкаф. Что делается в нем,</v>
+     <v>что делается!.. В скважинку, в замочек,</v>
+     <v>взгляни-ка… а?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                      Волшебный? Верю, верю…</v>
+     <v>Ай, шкаф какой!.. Но ты мне не сказал</v>
+     <v>про лилии: о чем толкуешь с ними?</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Ты — в скважинку…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                            Я вижу и отсюда…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Нет, — погляди вплотную…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                       Да нельзя же, —</v>
+     <v>стол — перед шкафом, стол…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                          Ты… ляг на стол,</v>
+     <v>ляг… животом…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                      Ну право же, — не стоит.</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Не хочешь ты?</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                   …Смотри, — какое солнце!</v>
+     <v>И весь твой сад блестит, блестит…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                                  Не хочешь?</v>
+     <v>Жаль… Очень жаль. Там было бы, пожалуй,</v>
+     <v>удобнее…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>             Удобней? Для чего же?</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>Как — для чего?..</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Взмахивает топором, который держал за спиною.)</emphasis></p>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                        Брось! Тише!</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Борются.)</emphasis></p>
+   <subtitle>ДЕДУШКА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                            Нет… Стой… Не надо</v>
+     <v>мешать мне… Так приказано… Я должен…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <p><emphasis>(сшибает его)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Довольно!</v>
+     <v>              …Вот оно — безумье!.. Ох…</v>
+     <v>Не ожидал я… Мямлил да мурлыкал —</v>
+     <v>и вдруг… </v>
+     <v>             Но что я? Словно — это раз</v>
+     <v>уж было… или же приснилось? Так же,</v>
+     <v>вот так же я боролся… Встань! Довольно!</v>
+     <v>Встань… Отвечай… Как смотрит он, как смотрит!</v>
+     <v>А эти пальцы, — голые, тупые…</v>
+     <v>Ведь я уже их… видел! Ты ответишь,</v>
+     <v>добьюсь я! Ах, как смотрит…</v>
+    </stanza>
+   </poem>
+   <p><emphasis>(Наклоняется над лежащим.)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>                                         …Нет… — не скажет…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <p><emphasis>(в дверях)</emphasis></p>
+   <poem>
+    <stanza>
+     <v>Что сделали вы с дедушкой…</v>
+    </stanza>
+   </poem>
+   <subtitle>ПРОХОЖИЙ:</subtitle>
+   <poem>
+    <stanza>
+     <v>                                          Джульетта…</v>
+     <v>ты… уходи…</v>
+    </stanza>
+   </poem>
+   <subtitle>ДЖУЛЬЕТТА:</subtitle>
+   <poem>
+    <stanza>
+     <v>                 Что сделали вы…</v>
+    </stanza>
+   </poem>
+   <empty-line/>
+   <p><emphasis>Занавес</emphasis></p>
+   <empty-line/>
+   <p><emphasis>Июнь. 1923</emphasis></p>
+  </section>
+  <section>
+   <title>
+    <p>Примечания</p>
+   </title>
+   <subtitle>Дедушка Драма в одном действии</subtitle>
+   <subtitle>Впервые: Руль. 1923. 14 октября.</subtitle>
+   <p>Пьеса написана в июне 1923 г. в имении Домэн де Больё, Солье-Пон (вблизи Тулона), где Набоков работал на фруктовых плантациях друга В. Д. Набокова Соломона Крыма (N84. Р. 287).</p>
+   <p><emphasis>А. Бабиков</emphasis></p>
+  </section>
+ </body>
+ <body name="comments">
+  <title>
+   <p>Комментарии</p>
+  </title>
+  <section id="c_1">
+   <title>
+    <p>1</p>
+   </title>
+   <p><emphasis>Действие происходит в 1816 году…</emphasis> — Не раз отмечалось, что короткие пьесы Набокова в общем ориентированы на «Маленькие трагедии» Пушкина; исследователями и комментаторами, однако, не вскрывались отсылки Набокова к ним. В 1816 г. написана трагедия Джона Уильсона «The City of the Plague», четвертую сцену первого акта которой Пушкин использовал для создания «Пира во время чумы».</p>
+  </section>
+  <section id="c_2">
+   <title>
+    <p>2</p>
+   </title>
+   <p><emphasis>Громами Трибунала /я к смерти был приговорен — за то ли, / что пудрил волосы…</emphasis> — Имеется в виду революционный трибунал, орган Якобинской диктатуры, каравший не только тех, кто надеялся воскресить старый порядок, но и тех, кто своим поведением или видом всего лишь напоминал о нем.</p>
+  </section>
+  <section id="c_3">
+   <title>
+    <p>3</p>
+   </title>
+   <p><emphasis>Самсон</emphasis> — точнее, Сансон Шарль-Анри (1740–1793) — потомственный парижский палач, казнивший Людовика XVI и умерший в том же году.</p>
+  </section>
+  <section id="c_4">
+   <title>
+    <p>4</p>
+   </title>
+   <p><emphasis>Корсиканец</emphasis> — прозвище Наполеона Бонапарта, уроженца Корсики.</p>
+  </section>
+ </body>
+ <binary id="p.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CADnAJYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDyksTxmkJ5pM0Z5piDNGfpSUlADs0gJpKK
+AFJNGfWkNAoAXNGaSigBc8EUZpMUUAGaUE02jNAD88UbqbmjNADt30pVc5pnWlX7woAnByg+
+lFIp+QfSioKIj1oNB60hNWSFBBApM0E8UAJRRRQAUUUCgBaDSUZoAU9aTNFGaACiigc0gCii
+imMWlXk0lKv3hQBMv3BRQv3F+lFQMiPWg49aQ9aTNWSLtHY0be/pSZo5x1oAUikoAyM5wPWl
+JBGAPcnpQA2ikpaAFBxSGjB9qOn/ANegAxRSd6WgAopKKQBS96KKYwpR1pDSr1oAmX7g+lFK
+oGwZPaioGQtwaSnNSVZI2j6UvrSCgAySBk8DpQRjHvzSng8Up5X3H8qAG0GiigAooo7mgBKX
+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</binary>
+</FictionBook>
