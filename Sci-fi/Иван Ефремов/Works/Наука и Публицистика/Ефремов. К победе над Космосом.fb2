@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>nonf_publicism</genre>
+   <author>
+    <first-name>Иван</first-name>
+    <middle-name>Антонович</middle-name>
+    <last-name>Ефремов</last-name>
+   </author>
+   <book-title>К победе над космосом</book-title>
+   <annotation>
+    <p>Техника-молодежи. 1957. № 11. С. 19.</p>
+   </annotation>
+   <date></date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Lykas</nickname>
+   </author>
+   <program-used>FictionBook Editor Release 2.6</program-used>
+   <date value="2016-03-03">03 March 2016</date>
+   <id>67149399-D630-4C29-9974-2A1348093A83</id>
+   <version>1.0</version>
+   <history>
+    <p>1.0 — создание файла Lykas</p>
+   </history>
+  </document-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Иван Антонович Ефремов</p>
+    <p>К победе над космосом</p>
+   </title>
+   <p>МЫ ЕЩЕ СЛАБО ПРЕДСТАВЛЯЕМ СЕБЕ ВСЕ ТО БЕСПРЕДЕЛЬНОЕ МОГУЩЕСТВО, КОТОРОЕ ДАСТ ЧЕЛОВЕЧЕСТВУ КОММУНИСТИЧЕСКОЕ ОБЩЕСТВО ВСЕЙ ПЛАНЕТЫ</p>
+   <p>Печатание моего нового романа «Туманность Андромеды» еще не закончилось в журнале, а первые искусственные спутники нашей планеты уже совершают свой стремительный облет Земли, и их радиосигналы, то высокие и резкие, то низкие, мощные и мягкие, звучали в миллионах радиоприемников. Перед лицом этого неопровержимого факта, свидетельствующего и об ускорении технического прогресса человечества и о мощи новой, социалистической организации общества, с радостью сознаешь, что главная основа романа правильна. И размах фантазии и вера в светлое будущее разумно устроенного общества — в коммунистическое завтра и непрерывное совершенствование человека и человечества — все это так весомо и зримо подтверждено сигналами маленьких новых лун.</p>
+   <p>Чудесно быстрое исполнение одной из фантазий романа ставит передо мной другой вопрос: насколько верно развернута в романе историческая перспектива? Должен признаться, что еще в процессе писания я два раза резко менял время действия в сторону приближения его к нашей эпохе. Сначала мне казалось, что гигантские преобразования, описанные в романе, не могут быть выполнены скорее чем за четыре тысячи лет, но потом я утвердился в сроке около трех тысяч лет. Я исходил в этих расчетах из общей истории человечества, но не учел всех гигантских возможностей, которые даст коммунистическое общество. Поэтому при доработке романа я сократил этот срок еще на одно тысячелетие. Запуск искусственных спутников говорит, что я все же мог ошибиться во времени.</p>
+   <p>И думается мне, что мы еще очень слабо представляем себе все то беспредельное могущество, которое даст человечеству коммунистическое общество всей планеты, когда окончатся нелепейшие траты гигантских сил на военные приготовления.</p>
+   <p>Конечно, нельзя впадать и в другую крайность и представлять себе, что путь будет легок и усыпан только розами. Очень много сложных проблем стоит перед человечеством, тем более сложных, чем выше будет организация общества. И главнейшее из них — это формирование нового человека с новым сознанием, чьи индивидуальные желания почти никогда не разойдутся с нуждами общества. И все же теперь думается: а почему бы событиям, описанным в «Туманности Андромеды», не совершиться не через тысячелетия, а значительно раньше?</p>
+   <p>Доктор биологических наук профессор</p>
+   <p>И. А. ЕФРЕМОВ</p>
+   <empty-line/>
+   <p>Источник:</p>
+   <p>Техника-молодежи. 1957. № 11. С. 19.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRof
+Hh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwh
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAAR
+CADKAJYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxrPmXDtOzs5OSxOcn61A/LnbnipC48zHY
+cVEfv4681o0ZIXHH9acoDDknFKi7m4xn0rsD8PNY/tnRdJK7bzU7cTlGGPIQsw+b6AZP1x1o
+sFjkTkZxzUeSTyTn2rR1vTBpOuahp6ymQWtzJCHIwWCsRn9KzujZ602ihckjqaaBgnk804sO
++KYfY0WAUtwBRv8ATt6UAcHPWkoAf5hGOppwmYDpx7VGDShlBqkA7zGI+Zjg+tWJY4o0haOZ
+ZWdNzKB9w5Iwc9+AfxqtgfWr99pps7S2nMbgTLklhgE/7J7jGD+NKTSaV9ylG6bKgAzmpkkZ
+SNp4qotWI2GNp4q0IsiZj/8AXFOMp68/jUCsM8VJ3HGapIYrSE9zRUb4B4opARnSr8ycW704
+aPqBcf6K2PwrsxGd/sKsKlel/Z1PuyDjI9H1BWytswIOcgivbb2zu5PiL4CnZWbbp0AlYt3A
+YnPrXLaTDYtqMY1EstrzuKdenH611gh0SL7BdTXcmHt2Cs8sm5cbQCMDPXeMA4461zYjDQpy
+5UpP5X6MaZ5Z4z0i+fxrrbx25ZWv5yp3Dkbz71gnQ9SH/Lsf++1/xr1LWo7VIrNYoNt00Aku
+XMhbcWGR19sE/WsUxnNdNLA05wUtQODOian/AM+3/j6/40HRNSP/AC6n/vtf8a7pomIphgYV
+p/Z1Hu/vC5xP9i6kD/x74/4Gv+NIdD1En/j34/31/wAa7No2IppjIPNP+zqPdhc47+wtQP8A
+yxUf8DFOXQb88FE/FxXXZXcyYYsAD8qk4Bz/AIfpQYi/yE4DcEjtmslhcO+ezfu77drja28z
+mYfD11FPGtyqBQwDAPnqa3NW01nsoIHu3lS3QrGCigKcYwSP90CrBhK26XAYA/agnlqvA/eY
+6/gau3yxTXJWSRiyoTtGPQ5OfWvmcRiacp03C+m/r1sdUKbSaOLHh2+25BgAz/eP+H+cGpk8
+PXvcwf8AfR/wro7u3FrehDIrEQiQMy4IJk2EU8yKiFiwwoLEZ7AZNe9hHha0J1OifppY55Qc
+Wkc+vh697NBn/eP+FSjw7e4GZbf/AL6P+FdBC4mDFQVwxUg+o4NTlDgV3U8NQnBTjsyHdOxy
+7eHbrP8ArofzP+FFdQ0EhPyq34A0UnhaP9MV2M8nShIc+IrLOe0U/wD8RVhE0Lnf4ltvwtpj
+/wCy1k6z4fltJTNbxEwY52nJH1rECYByMZrH2tbv+R2xo02jt1Ph0fe8TL+FlKf6VK914afB
+m8UTuQAo/wBAfgDoOtcDtwaXaDQ51X9r8F/kafV6fY7uW+8KsQ0mv3chwB/x5noBgdTTRf8A
+g4ff1bUCfa2xXBsgHTBNREYqear/ADP8P8ivYU+x6ENU8ELw1/q7f7sa/wBRQdY8Cofmk1xx
+7LHXnRXvTSMe/wBaV6n8zD2FPsejHXvAQ6Q62R7iP/GhfEfgBfvafrTfUr/8XXm56U0kmk3P
++Z/eHs4djq9c17QZ7iU6PZXUML24T9+QWD/Pz1PGGH5VzlrcJBJC0il9kqvweoHUVW68U3Fc
+csLCcnKV7vzHyo6RfEFuLNoBanc0wlyCOz7v5YH4VjxXrxSl2LPlSDlvUVVHWlIwKiOX0V0/
+EdkbV/4gW+kmb7KUDwmIDfnb8+7PT8KpwX6xTtL5IIaHytuf9nbnp+NUShCBsjBOOoz+X41J
+DBJKpK8kHhQpJNCwNBKyQmj0bw58TbfQ9KFo+iJcN5jv5hnA+8ScfdPTNbC/GlF6eHxj/r6x
+/wCyV5hBpN3JktbTKMHHy98cdcUDT5lnVJgiDqQZAOPrXQsNBK1gPTX+NsgPy6CuPe6J/wDZ
+aK80fTgG+a9tFHYebn+Qoo9hSI0PX0givGJgTY33vLHPHsa57WfDC30QMDeU8ecLj5fcf5/K
+n6Lrhiuvs8xjW4jOzBGQ474/w/8A1V1MUi3IAkyW/hccn8fX+ddSuviWhim4nj11pV3ZpKZ1
+VChAILDJz3HqPpVBvpXsepaVb3NvsuYRIp5AAzn3FcTqnhMWkc00TyOgXdGgXLA+h9vcUP7z
+eFVPRnHkketMLZNWCoz1qAjDUnc3IyT2pD0qcwv5Xm7W2Z278cZ9M02OMySBVRpCT0UcmlcT
+K55FHlv5e/Y2wnG7HGfStpPD1xKWlk22sGcjzWyQPfH/ANapPI0WyjLs016VODtGEBP/AOo+
+tZydleTsRKcY7mDFH5r7fm6HGFzk9hWhBoWoyjcbfYg5JkO0f41eg1lpJ1t7SCG1V+AVXJH+
+fpWZPdT3ZzNcPJ7MePyrJ14rRamMq6WxZOn2Mch+0X6Ak/6u3Uvj2z/jV9rSxitY7mW0uJYD
+8iPPKB0GcAA5/TvWXf8Alf2ndGMrsMrFdvTGT0qzc3W7R7S3EpOCSUPQYPBH5msJ4mp7vKrX
+IVZu4fa/9Haa2sraEBwv3Nx5BPU/T0p0V3d3EVwZblgY0BQLhedwHb2JrOE+2MxD7pIY+5Gf
+8TTlHOWOTTc5vqZOpJ9S7CrNKTcu8gKMPnYsAdpx+uKZABDcQykZCMGIHfmmRk9jxTzk0miL
+kEkfzcHAoqR1Dd/yooA77XfChaWS7023ZUUB5ohyIiScbT3XoQfep9E1S7t8Q3BYN0WX/H/H
+86g0HxobKcWzOFQMfKd/ujn7rf7J/TrV/Xo0Noup6fHjfI6z2Y5aBhk/987RnNa0MRKlP6vi
+NV0f+f8AX+b6mtDdt5JpZnD/AL5ZWyExznv+NOntgwJUbkHUHhl+v+Nc5DdT2Om2t+z/AGjT
+5gFaeMZMD45Vh/n2rbivPOInjlLFhkMDnI+veu2m1vB3Wv3kPU5y+8ORTXv2gIBIp3Z8sMj+
+oYf/AFvxrj7nw/qP9oOgsvLDEsu05QDPYnr/ADr114N2Mr5UjDIH8LfQ9vp/+qqU9sHV4nBU
+nhhyD/8AWpU4RtdO/wCJoqzueanS9P0xc6jd736+RH1/x/lUE3iHyo/J061S3T+8Rlv8/nW/
+r/hqX7LILGFWACnYoxIxHfP8XDEevTrXCPGyvtYFSOCCMGuOrUqxdmrGU6smWNTnma+lWWaS
+RQcpuOcA8j9KhWQLYzJkBmkRh+AbP8xUUzF2DM24gAZx6DA/QVHkg8jk+1cuttTFu5JFI0Ui
+yofmHQ0JwcdqjBIPyg/lTseopgPLcipj5ItoWVtzksHX0HGKrjjtQcYz3qmtgFLdMYqRNxBz
+xUOc9TilV+o5HpTAtKTnGal3EfWq6SZPTintkgc/SmA9n9aKjzxyKKkC9bRpK7edKY12EqQu
+4luwPt713fgi9ls762m1SEhI1MccxOMqykbWz2GeCfp06YqWdjoki/a3WW7ZtqIPX2H9awNY
+8QXeooURvKgPGxT1+p7104yFKpBwm9X+B1TqpKzPX9b0Cbw7cTa3oUSXGlz8XmnkZQr1Jx6d
+fp9K59oFsrX+19EZ7nSWP762J/eWjf4e/fv61P8ADLx+zpDpeqOXwdquedxxjH16fX69bet2
+66Trz3nhVjKwi33tskZeJFIyQ2OMEfw9RXmYStXpVPZT+JLR9JLtL9HutnoLzQWl+t3CrJNv
+Qk7eenqMdjWgkgkULOfYOOq/4iuRtYbi6F1rOixW4jQ5uNOjdmZV9cEDj6dK3NH12K6i86Aq
+TwJI5BkgZ6H29696M1NPl3W67MlovT25TG8Blb7rDofpXN6xodrqkzLJE8c23K3Kr1/3vX+d
+dMkzLkcMjdUboaHt1ZC8J3KOSp+8v+I9/wCVVKKkrSF6nkGv6ZLY3CsbVYoSMB4yWRznnGen
+09qxxj8q9ouLWK4iZJER1cfMjDKt9RXGap4LiWcT2W8Rg5ktwRu299hPX6GuOphHFXhqiHHs
+cXtGPXjtTCcnAqzfQpb3jwQys4TAyy7TnHIx7HI/CqxXPSuQgkHPU4phYEGlUDt+VDLg4H5G
+qAi5I6VKqj1qPhev61IG3EbQMUCJ4ggFWDGWiD4+XOM9vwptlA8oaVLaaZV6bRgE+mfp/KrF
+xaXcMYlvZI7YkZjhPLt6YA6D3OB9arld7FqDepWYDt0opEhnn/1aMxHXauaKhyinZskbaXHm
+6xb3VxKXcSKxducc1BIqg/KDVcDDnaTT3cque4H51PW5BqaIhkupYlLAuMAjqMgg17B8PvEH
+2S0Nhe2ZtTMzFCTkv1IJ/wBr1H/18+Xebpmm2qG2WTzyMvMxxu/L+lZd74gup5RKk7hlOVfp
+tPYgVvisPCph/Z1HZ/qdaahFKTPb/FXhC40+9bxH4ZJinjbdJBH/ABZHJUd855HeuW8iLxIr
+apoOLTXIF3XVkOBN6sg/mP8AJ3vhz8QY9atV0/UJAt7GVLZPDAEfMPb1Hbr9LPjLwRN9pbXv
+D26K+SQs8UXG44zuX365Hf8An5GFxU6VRUK7tJfDLy7PvH8UO63Od0rWlvR5Tr5Nyv34jweO
+pH+FbEa3DrutSpmHKqWwW55A964nUb8+INSiuFQWupuP3hX5VeRf4vYkdfdfetfTdYdpzYak
+ht71GwQ4wHI9fQ/zr6b3qlPlfuya9bendCtZ3OiOJ1UsBFMQDg8A59fQ/p9KqzRnJSRSMdQe
+oqfcGHH4g9qjW4ma8+zXFvutyuUnUjK+oOfftWsbxWpJiapoFlqafvU2yqMLOg+YfX1FcNqf
+h69064SJlDxyMFScHCEnpk9vxr1mW38sBgQ6How6f/rqvJCkqsrKCrD5lYZDfUVnVoQqK60Z
+Ljc8cngltpvKliMbgZwe46g/SoSSSRjNdxrnhGSfM9gx87HzQOeuB/Cf6VxE8U0ErRTI0brw
+ysMH8q86dOVP4iGrEbvg4IrR02zsL1N17qRtgrY8pYGdnHqMcfgSKzPvZ4+lSwzzRoVjllRS
+eikgGou+m/8AXkxRaTuztby8uWhght3ktYYcFJLuUGUkd1HCL29+BzWMy2UTF3nSSUnLu26R
+ifXsv5k1jx5PQHNTEFVzisvZPZy/r8SnNsvTahathW+1TKOnzrGo+iqCB+dFZLgk9x+FFCpR
+X/DkkZPz0j5bimlBI4J+XFOdeCAxqiCFgRyGyRUZy2c1IRxnO4+9NEbHJPTNICS0nnsbqK5t
+pTHPEdyup6GvoP4d+PIdbtUtLohLqNvmGenGMj/Z/lXz0q7T/wDWqzYXlzpt9Hd2jmOaM5U+
+vsa58Tho4iHK9+jNac7aPY958eeChMk+v6UAl1A/mTRDgSYwcj3/AJ/XrhPNpvjJRpt86Wet
+RoBaXeMLOuMhW9+g/l6V1HgnxlZ+JtH8iY7ZyypIjHlSSBj6eh/D68TaeD5te0OeWxJOo2LF
+DGT/AKxVOMD0PB+tZ4CtJQlSxMuV07Wl2vp81t8jqtpqQRale6JqB0nXFaGaM4WVuePc9x71
+1NtfJGNksKyLJ19ehwQfrisGx1iz8UWi+H/FDGC/iytpfsMMrc/K+ff16/Xms6Qal4Q1A6Zq
+8Ra3BzHIvIxn7ynuPavfp1vaP2NZWn5bNd4v+miGjpLDUvOecIrq0bbJI5F/LI/lV0os2Wgz
+nqYzyR9PUfr/ADqjDOssKSowdH5V16N/9erkFrPcFjApLINxweRzXVK0VzSdiCFchGUncpOQ
+D/D64PWs7UNKttRCmdMyR4KSqBvTHT6j2raJWc7Zj5c39/HB+v8Aj+frUEkLxSYcFWqY04JN
+JbhY8w8S6TqEExv3gjaBwCZLdMDPqwHQ/pWCmSeea9paPII454IPQ1ymseDYLhmm04CC46mE
+/cb6en+elclTC21gZuHVHEKOQVx7insTsABwav32mwWlqP30yXalVe2ljwc4JLAjjGcY+tVY
+4mdgkYJYiuNXfQmwuo6Zd2MiRXKeW7osi4IOVI46UVqQaC8iB53KsR0FFarD1Lal+zkcxk+b
+wODzSu4DEEgGomdRPtLEGpHAbkGucxFJJGelR5O7OTin85wCOKR0PrjHehjAMScZx7UA7TzQ
+Izjil2YGDQMuaXqtzo2oRX9pJh14dOzr3Br2n4TanDfXGoyhiv2h2dFZs9WzjPrzXhRDEAL/
+APXrp/CesXelRpLasMiVt6EkBl5OPbpwexqamG+sU5wj8TX63OijJtOLPXfHfgCPWrd9U05Q
+mpKxDoOBN82B9G964/Rtetb+1/4RnxcrfZ1bZFdPxJbsMjBPpk9fz46emeGfE9l4g0mGSGbe
+zsCCcZJ3AkH3Gfx6j2yvHXgSHxD51/YhY9SjjBx0Ew54PvxwfwPt5eCxij/smL0S2fWL/wAv
+62L23POL7T9T8D34SYfadNmwUcfccEZ49GweldDY6gtxAl1ZykqGB3A4ZOehrF8PeKUsYn8N
+eKIGn0sttIkU77Y4xx3wPzHatZPA8+iT3Gp22uWkekCNXjmlbIlz0UgfzH4DtX0Sxqor2eL3
+6O2kl/n3QnqaBJd9xbcx5J65qVJsKIZRvi9O6/Q9v5VkaZq9tqMRa3IDr9+LPI9x7VqwiGZ/
+3kuxMElsZxgV6Emoxu9kQLLb7E3ofMQn7w4x7EdjWfqF21pEji2aZC2JCDjyx/erUcPZTsm4
+bl4bByD/AI0ojS45hGH6mP1+n+H86UZJq/QDHudMstWtQ06GSKRQyOBh0+lZx8Ppp5DxKJIw
+OG6/n7+9dMDz0qCeaGGVEMoR5OgPRqiTjD35aeZUd9DmZEIOM0Vs3NjE78ERt3DdPwooL5jx
+xlQyksOlOYLkYyaYxzKccD0pzSc5z2xXkM4UPAAAI/lSphiS2SKh81sAL/OlErA4Jx+NFxln
+C1HhTxnNM3Fu/wCtKe56fjTGSYXHp61q6BtcNFuAJkbGe/yt/jVXR7H+07vyWl2Iq7mOece1
+XL+ygsrhokdREOQBy30P+NdeFg783Q6KMXe5v+GoZfCyrNbXRuXyGlgDfKcf3fRh1B/xr23w
+/r1vrtqZkkDM8Ywem7Gc8diM8ivmOacSSAwgRAcZBJrc8M+Lrnw9qIaZ3e2dgZCp5B/vDPQ/
+oehrzszwFKvG9LSa/Hy9e33F3h8Nz2Dxz4Gg8R2UN3ZIseqbQN3QSgKThvfjg14pdre2znT7
+szIbdiPIkJwh78dq+i9E1u11e3tfJljkdSCdp+8Npww/w7VzHxC8Jp4h1XT0s1jiv5Ypj5hG
+PM2bcAn8TzXDlOaSoTVCv8K7/Z/4AbHjdjI1uJrmJ2SaIAqwPuBXZ6PrkOqwtCxEN4Rgqfuv
+7iuIu4LrTbi4sbmJoZlOyRGHIwc1AkjRkMpKspyCDyK+zVpq6C1z1xW3A+oHQ1BYXM04kE9s
+8DxNtOeVP0PesDSPEPmGG11F1Sd0DRz9mB7H0NdKrkna4wcfnWUou6dyNi+siT8TEh+0mOv1
+9fr1+tV7yyWZPKnXI6qQf1Bp0FrLNGXiwxDbdo+8eM9PwpY59n7txvQ9V9PcehrJuErx37oF
+dO6KxhCIiBiVUYDPyTRVuS1kc77YGZD2HDL9RRU2hsPfc8DCkSseo9qVwMk88DpT/LPnNnPX
+rTpIgXJUDGO9eWcpY0jSDq0jIlzFEygELISC3XOMelWf+EeJt5Z2vrMRRuUDlzhzjPBxSeHr
+mCx1aKa4JSMKylsZ6g1o6XqFtB4entXuUjuDIzYeEyBgVx+B964q0q0ZPl206feelhqeGnTX
+Po9evpb8/wACmvhy4VVlM0IjcJsfJw+84AHHalk8PXX/AD2jOfNwBn/lmcHt37VoNqOmix0+
+2W4fNlKj7ipw46tgY7VcPiOyN5BO8xcRi4GNhGQT8o/ID+tYutiei/D7jrWHwWzlbbr5q/3a
+/mY0Hh6/iuCi+X5zQCbYSc4yRj60f2RdSXF3FHJDJ9kTdIVzj6D3rVj8SWovReli032IIRtO
+DJuyRVvRJtOGoC0sDJLNqF2oVAuNobjBz2yTV/WsYo8tn933jdHCNJKdlr16a2/Hc4pj6jn8
+6UIXQlVJAGW46V03ibQdR0zT4GzZ3WmCQpHd2bbgWH8LHqG9jWFbXN1bpNb27uouV2OgAO4Z
+GBXfFzavbU8aainaLubPhLxTceHryKIMGt2kUgnrEehI/DIx3r1fXPHFlYajoGoyASJ+9SUR
+nOFYLh19R/8AXHWvLtB0ZIj9omBMwJAB6D/Pr/k39RRYrB7WWISWjHdGc4Nq5PJH+ye4or5X
+GpJVpLXqlu1a33r8fU3he1pHpHjTw1Y+NIrC406WAXMsbtHcjkSKBkKT6Z/KvEr+wudNvZbS
+7iaGaI4dG6iuv8KeI7rwbr0NpqnmPYDPyqdwXdj519Rx0H869B8YeG7LxpPZfZpo1kazmlhu
+UwQ+Gj2gnuPmP0zWOGxU8tnGlUfNSaupf1+KHseFXs6SmDZkhIFQ57EZro/D3ieRI/s+oZkt
+lwBL1Meemfaud1XSrvSb6SyvojDcRnDKf5j1FMgdE067XcAzFMDPXBOa+mUozipRd0xM9aiu
+GWSGaJ+OqyIeoIPeqcEeoRaswkm821kBPI+6fb/6/wD9auE0LxHNpLiKXdLaMeU7r7j/AAr0
+G1vIbmFJ7dxJC3QjtWUoWdyWrFxt6n5WI+lFNdsgEcj2oqLAeL4G/HcfpTmGOrDOKrGTbM57
+k0plzjnPFeTc5bgzjPAx/WhWw31qNmwOnNBycDHPXIzU3GatjpWoamcWNhc3ADBS0EZYAnoC
+R0r1EfCiwjtkgnN0t2IYkaUv8huZW5A45VBz15z1ry7Ttf1fSraa30/ULm1im/1ixyFQ1TW/
+irXbOMpBrGoIu0JhbhsADoOvH4UO4HayfDe2uL7TbbTYtXK3F00VxJcRAKkatgycfdzhsA+l
+a1v4H0nSL6DWEutRiUXEktmY0EixJD/HITjO4gYHH3gK8uHiTWxM039r6h5rsHZ/tD5JH3Se
+e1WdU8T6rf6THHPr99dGVmM9tI7bUIIx3wfXpxSu0M9ifwbb3Y8Q6TbXD2a6hJB+4uIj5cdx
+/rGMTfxYXdwPTris7TfhfpouLie3vZX8qEhTKyYMmSMZHGPuk9cZxmuP0zVPEN3Na6hqWp3c
+k9vzbB3PydifqRXonh3W90F3f6reJI0GGEbthnIyVwO+CBgdOc10xpTjHnNFTaVxsngoxX9t
+a+dIfPk2htnAVR87H05zgVzXjfSLfStBR45pGe5+dVYAYj3gKfqRzVs+KdbwANRmAViw57nO
+f/1Vn6vrN1qFps1GczxRKeWQE4+uMmuyHtFJOTNVGV9TkZG+3+HoGRf31oxRgO6nn/P41t+A
+/Gv/AAj+qRRX7O+nlWjHfydxUkgemVGRVDT7Z4b0y6JfiUPw0LDDlfT/ADiszWtO/s3U5YfN
+jY8MwQ52E/wn3FebRlQxE6mElrF3a3ur7rVadWmayjpc9b+IOjQeKtX8N20E0am8S42XCjII
+CBl57jP868b1rRr3Q9RlsNQhMM8Z/Bh2IPcGt7wf4nbTfEGknUZ3On2UkhQdfLLrtP4Zwfzr
+1PxDodv4os/s18hMryBre+QArEGUYAP8Qzxj8eK5o4iplM4UKmtO2/zf/AugjTck2j5+JwcV
+0ba1Pouvzm3AMLFd8fZuB+vvWVrej3WhatcadeBfPgbBKnIORkEfUEGqc08t1cmaXl26nHXj
+FfSRnGcVKLumZnrFjqEGp2wuLJ+D99H6qaK8wt7ma2JaCV4iRglSRmioaJsZRdcnjNOWVcAb
+frTh1b60D71eMzlQ0MCOgP1p6nGSxx6U8ADHA6UuPlpJDI9+B0x7U49Px9aVup+lNA+Q/SmM
+YzD5RjjvjvW54f0tblhcSodqklQe/vWNEMutej2saJb7URVXf0AxWtFJyuzWkk3qPO1EACkD
+sKVX+XBH0p7jg0kfQ13JnQRsxJ6VGzZJHNPfqKQ/6z8aYzm9RsXsrlb20LRgNnKHBQ+oqSx0
+trtHluCQG6HufeunuI0MbDYuNo7VMEQRt8q9PSkqnW2pN7nO+D9MD+ObWwvLZJo3EgZG6Ovl
+t/n613aXFz4LdNPnlafw/cSK1ldP1tXDZ2P6Dj+vqK5nwec/EXTP91v/AEWa9I8QIknhbV1k
+VXX7Ar4YZG7Dc/Xgc+wr53NareLjTlrGSWnzeq7MafK010MSTw1p/i3xL4thucZJtTBOnJQ+
+X1HqPUd68k8R6Bf+GdVazvoiCOUkH3ZF9Vr1T4REmPV8kn/j3/k1Wvi3Gj+DEkdFZ1uBtYjJ
+H0NThMXUw2M+rXvF2X4JX/4BO54irZ7UVYhVfQdPSivqb3IbP//Z</binary>
+</FictionBook>
