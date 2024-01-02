@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+ <title-info>
+   <author>
+     <first-name>Антон</first-name>
+     <middle-name>Павлович</middle-name>
+     <last-name>Чехов</last-name>
+   </author>
+   <book-title>255) 1885 - Донесение</book-title>
+   <lang>ru</lang>
+ </title-info>
+ <document-info>
+   <author>
+     <first-name></first-name>
+     <last-name></last-name>
+   </author>
+   <program-used>htmlDocs2fb2</program-used>
+   <date value="2014-02-15">15.02.2014</date>
+   <id>AA84F266-5930-4EE2-85C1-FEFF45D5A186</id>
+   <version>1.0</version>
+ </document-info>
+</description>
+<body>
+<section>
+ <p>Его благородию г. Приставу 2-го стана</p>
+ 
+<p> </p>
+<p><strong>Донесение.</strong></p>
+<p> </p>
+ <p>Честь имею донести вашему благородию, что в Михалковской роще близ Старой балки, перейдя мостик, усмотрен мною без всяких признаков жизни повесившийся труп мертвого человека, назвавшийся, как видно из его бумаг, отставным рядовым Степаном Максимовым Качаговым 51 года. Из сумы и прочих рубищ явствует, что он нищий. Кроме веревки никаких последствий на теле не оказалось, вещи же полностию при нем. Причины такого самоубийства мною не обнаружены, но всё от водки. Жабровские мужики видали, как он выходил из кабака. Прикажете протокол писать или вашего благородия дожидаться?</p>
+ <p><emphasis>Урядник Денис Ч.</emphasis></p>
+ <p> </p>
+ <p>Сообщил <emphasis>Человек без селезенки</emphasis>.</p>
+ <p> </p>
+ </section>
+</body>
+ 
+</FictionBook>

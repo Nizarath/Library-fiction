@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+ <title-info>
+   <author>
+     <first-name>Антон</first-name>
+     <middle-name>Павлович</middle-name>
+     <last-name>Чехов</last-name>
+   </author>
+   <book-title>393) 1886 - Литературная табель о рангах</book-title>
+   <lang>ru</lang>
+ </title-info>
+ <document-info>
+   <author>
+     <first-name></first-name>
+     <last-name></last-name>
+   </author>
+   <program-used>htmlDocs2fb2</program-used>
+   <date value="2014-03-09">09.03.2014</date>
+   <id>64F1F5C5-DF2F-4C49-AAC0-F3FB175B59E8</id>
+   <version>1.0</version>
+ </document-info>
+</description>
+<body>
+<section>
+ <p>Если всех живых русских литераторов, соответственно их талантам и заслугам, произвести в чины, то:</p>
+ <p><emphasis>Действительные тайные советники</emphasis> (вакансия).</p>
+ <p><emphasis>Тайные советники:</emphasis> Лев Толстой, Гончаров.</p>
+ <p><emphasis>Действительные статские советники:</emphasis> Салтыков-Щедрин, Григорович.</p>
+ <p><emphasis>Статские советники:</emphasis> Островский, Лесков, Полонский.</p>
+ <p><emphasis>Коллежские советники:</emphasis> Майков, Суворин, Гаршин, Буренин, Сергей Максимов, Глеб Успенский, Катков, Пыпин, Плещеев.</p>
+ <p><emphasis>Надворные советники:</emphasis> Короленко, Скабичевский, Аверкиев, Боборыкин, Горбунов, гр. Салиас, Данилевский, Муравлин, Василевский, Надсон, Н. Михайловский.</p>
+ <p><emphasis>Коллежские асессоры:</emphasis> Минаев, Мордовцев, Авсеенко, Незлобин, А. Михайлов, Пальмин, Трефолев, Петр Вейнберг, Салов.</p>
+ <p><emphasis>Титулярные советники:</emphasis> Альбов, Баранцевич, Михневич, Златовратский, Шпажинский, Сергей Атава, Чуйко, Мещерский, Иванов-Классик, Вас. Немирович-Данченко.</p>
+ <p><emphasis>Коллежские секретари:</emphasis> Фруг, Апухтин, Вс. Соловьев, В. Крылов, Юрьев, Голенищев-Кутузов, Эртель, К. Случевский.</p>
+ <p><emphasis>Губернские секретари:</emphasis> Нотович, Максим Белинский, Невежин, Каразин, Венгеров, Нефедов.</p>
+ <p><emphasis>Коллежские регистраторы:</emphasis> Минский, Трофимов, Ф. Берг, Мясницкий, Линев, Засодимский, Бажин.</p>
+ <p><emphasis>Не имеющий чина:</emphasis> Окрейц.</p>
+ <p> </p>
+ </section>
+</body>
+ 
+</FictionBook>

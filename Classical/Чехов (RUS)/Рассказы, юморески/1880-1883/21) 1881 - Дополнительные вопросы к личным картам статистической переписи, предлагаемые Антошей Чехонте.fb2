@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0"
+  xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+  <title-info>
+   <genre>prose_rus_classic</genre>
+   <author>    
+    <first-name>Антон</first-name>
+    <last-name>Чехов</last-name>
+    <middle-name>Павлович</middle-name>
+   </author>
+   <src-lang>ru</src-lang>
+   <book-title>021) 1881 - Дополнительные вопросы к личным картам статистической переписи, предлагаемые Антошей Чехонте</book-title>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>rusec</nickname>
+    <email>lib_at_rus.ec</email>
+   </author>
+   <program-used>LibRusEc kit</program-used>
+   <date value="2013-06-10">2013-06-10</date>
+   <id>Mon Jun 10 21:38:39 2013</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+<title><p>Чехов Антон Павлович</p>
+<p>Дополнительные вопросы к личным картам статистической переписи, предлагаемые Антошей Чехонте</p></title> 
+<section>
+<p>Антон Чехов </p>
+<p>Дополнительные вопросы к личным картам статистической переписи, </p>
+<p>предлагаемые Антошей Чехонте </p>
+<p>16) Умный вы человек или дурень? </p>
+<p>17) Вы честный человек? мошенник? разбойник? каналья? адвокат или? </p>
+<p>18) Какой фельетонист вам более по душе? Суворин? Буква? Амикус? Лукин? Юлий Шрейер или? </p>
+<p>19) Иосиф вы или Калигула? Сусанна или Нана? </p>
+<p>20) Жена ваша блондинка? брюнетка? шантретка? рыжая? </p>
+<p>21) Бьет вас жена или нет? Вы бьете ее или нет? </p>
+<p>22) Сколько вы весили фунтов, когда вам было десять лет? </p>
+<p>23) Горячие напитки употребляете? да или нет? </p>
+<p>24) О чем вы думали в ночь переписи? </p>
+<p>25) Сару Бернар видели? нет? </p>
+</section>
+</body>
+</FictionBook>

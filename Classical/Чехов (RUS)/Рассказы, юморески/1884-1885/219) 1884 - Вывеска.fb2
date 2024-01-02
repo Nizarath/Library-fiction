@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+ <title-info>
+   <author>
+     <first-name>Антон</first-name>
+     <middle-name>Павлович</middle-name>
+     <last-name>Чехов</last-name>
+   </author>
+   <book-title>219) 1884 - Вывеска</book-title>
+   <lang>ru</lang>
+ </title-info>
+ <document-info>
+   <author>
+     <first-name></first-name>
+     <last-name></last-name>
+   </author>
+   <program-used>htmlDocs2fb2</program-used>
+   <date value="2014-02-09">09.02.2014</date>
+   <id>68DF26A0-28F1-4662-A348-6D84F10E6530</id>
+   <version>1.0</version>
+ </document-info>
+</description>
+<body>
+<section>
+ <p>В Ростове-на-Дону, на Садовой улице, над лавкою одного торговца могильными памятниками висит такая вывеска:</p>
+ <p><strong><emphasis>«</emphasis><emphasis>Памятных дел мастер».</emphasis></strong></p>
+ <p>Сообщил <emphasis>Ан. Ч.</emphasis></p>
+ <p> </p>
+ </section>
+</body>
+ 
+</FictionBook>

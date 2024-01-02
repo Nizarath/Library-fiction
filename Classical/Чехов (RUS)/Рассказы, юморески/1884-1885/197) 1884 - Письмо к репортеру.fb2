@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+ <title-info>
+   <author>
+     <first-name>Антон</first-name>
+     <middle-name>Павлович</middle-name>
+     <last-name>Чехов</last-name>
+   </author>
+   <book-title>197) 1884 - Письмо к репортеру</book-title>
+   <lang>ru</lang>
+ </title-info>
+ <document-info>
+   <author>
+     <first-name></first-name>
+     <last-name></last-name>
+   </author>
+   <program-used>htmlDocs2fb2</program-used>
+   <date value="2014-01-30">30.01.2014</date>
+   <id>6CF84C21-0546-4915-9AC8-FE036959DEC8</id>
+   <version>1.0</version>
+ </document-info>
+</description>
+<body>
+<section>
+ <p>М. г.! Мне всё известно! На этой неделе было шесть больших и четыре маленьких пожара. Застрелился молодой человек от пламенной любви к одной девице, эта же девица, узнав о его смерти, помешалась в мыслях. Повесился дворник Гускин от неумеренного употребления. Потонула вчерашнего числа лодка с двумя пассажирами и маленьким дитем… Бедное дите! В «Аркадии» какому-то купцу прожгли на спине дыру и чуть шеи не сломали. Поймали четырех прилично одетых жуликов, и произошло кораблекрушение товарного поезда. Всё мне известно, милостивый государь! Столько разных приятных случаев, столько у вас теперь денег и вы мне ни копейки!.. Этак хорошие господа не делают!</p>
+ <p><emphasis>Ваш портной Змирлов.</emphasis></p>
+ <p>Сообщил <emphasis>Человек без селезенки</emphasis>.</p>
+ <p> </p>
+ </section>
+</body>
+ 
+</FictionBook>
