@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>Chains of Air, Web of Aether</book-title>
+   <annotation>
+    <p><emphasis>Chains of Air, Web of Aether</emphasis> by Philip K. Dick (1979-7-9) a.k.a. <emphasis>The Man Who Knew How to Lose</emphasis></p>
+    <p>Published in <emphasis>Stellar</emphasis> #5, edited by Judy-Lynn del Rey, New York, 1980.</p>
+    <p>[Included in PKD’s novel <emphasis>The Divine Invasion</emphasis>]</p>
+   </annotation>
+   <date value="1979-07-09">1979</date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>asp_id</nickname>
+   </author>
+   <date></date>
+   <id>FD5A8F60-CBA7-4382-865D-CB6966BD3762</id>
+   <version>1.0</version>
+   <history>
+    <p>v 1.0 (asp_id)</p>
+   </history>
+  </document-info>
+  <publish-info>
+   <book-name>Stellar #5: Science-Fiction Stories</book-name>
+   <publisher>Del Rey / Ballantine</publisher>
+   <year>1980</year>
+   <isbn> 0-345-28065-2</isbn>
+   <sequence name="Stellar" number="5"/>
+  </publish-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>Chains of Air, Web of Aether</p>
+    <p>by Philip K. Dick</p>
+   </title>
+   <p>The planet on which he was living underwent each day two mornings. First CY30 appeared and then its minor twin put in a feeble appearance, as if God had not been able to make up His mind as to which sun He preferred and had finally settled on both. The domers liked to compare it to sequential settings of an old-fashioned multifilament incandescent bulb. CY30 gave the impression of getting up to about 150 watts and then came little CY30B, which added 50 more watts of light. The aggregate luminae made the methane crystals of the planet’s surface sparkle pleasantly, assuming you were indoors.</p>
+   <p>At the table of his dome, Leo McVane drank fake coffee and read the newspaper. He felt anxiety-free and warm because he had long ago illegally redesigned his dome’s thermostat. He felt safe as well because he had added an extra metal brace to the dome’s hatch. And he felt expectant because today the food man would be by, so there would be someone to talk to. It was a good day.</p>
+   <p>All his communications gear fumbled along on autostasis, at the moment, monitoring whatever the hell they monitored. Originally, upon being stationed at CY30 II, McVane had thoroughly studied the function and purpose of the complexes of electronic marvels for which he was the caretaker—or rather, as his job coding put it, the “master homonoid overseer.” Now he had allowed himself to forget most of the transactions which his charges engaged in. Communications equipment led a monotonous life until an emergency popped up, at which point he ceased suddenly to be the “master homonoid overseer” and became the living brain of his station.</p>
+   <p>There had not been an emergency yet.</p>
+   <p>The newspaper contained a funny item from the United States Federal Income Tax booklet for 1978, the year McVane had been born. These entries appeared in the index in this order:</p>
+   <cite>
+    <p>Who Should File</p>
+    <p>Widows and Widowers, Qualifying</p>
+    <p>Winnings—Prizes, Gambling, and Lotteries</p>
+    <p>Withholding—Federal Tax</p>
+   </cite>
+   <p>And then the final entry in the index, which McVane found amusing and even interesting as a commentary on an archaic way of life:</p>
+   <cite>
+    <p>Zero Bracket Amount</p>
+   </cite>
+   <p>To himself, McVane grinned. That was how the United States Federal Income Tax booklet’s 1978 index had ended, very appropriately, and that was how the United States, a few years later, had ended. It had fiscally fucked itself over and died of the trauma.</p>
+   <p>“Food ration comtrix,” the audio transducer of his radio announced. “Start unbolting procedure.”</p>
+   <p>“Unbolting under way,” McVane said, laying aside his newspaper.</p>
+   <p>The speaker said, “Put helmet on.”</p>
+   <p>“Helmet on.” McVane made no move to pick up his helmet; his atmosphere flow rate would compensate for the loss; he had redesigned it, too.</p>
+   <p>The hatch unscrewed, and there stood the food man, headbubble and all. An alarm bell in the dome’s ceiling shrilled that atmospheric pressure had sharply declined.</p>
+   <p>“Put your helmet on!” the food man ordered angrily.</p>
+   <p>The alarm bell ceased complaining; the pressure had restabilized. At that, the food man grimaced. He popped his helmet and then began to unload cartons from his comtrix.</p>
+   <p>“We are a hardy race,” McVane said, helping him.</p>
+   <p>“You have amped up everything,” the food man observed; like all the rovers who serviced domes, he was sturdily built and he moved rapidly. It was not a safe job operating a comtrix shuttle between mother ships and the domes of CY30II. He knew it, and McVane knew it. Anybody could sit in a dome; few people could function outside.</p>
+   <p>“Stick around for a while,” McVane said after he and the food man had unloaded and the food man was marking the invoice.</p>
+   <p>“If you have coffee.”</p>
+   <p>They sat facing each other across the table, drinking coffee. Outside the dome the methane messed around, but here neither man felt it. The food man perspired; he apparently found McVane’s temperature level too high.</p>
+   <p>“You know the woman in the next dome?” the food man asked.</p>
+   <p>“Somewhat,” McVane said. “My rig transfers data to her input circuitry every three or four weeks. She stores it, boosts it, and transmits it. I suppose. Or for all I know—”</p>
+   <p>“She’s sick,” the food man said.</p>
+   <p>McVane said, “She looked all right the last time I talked to her. We used video. She did say something about having trouble reading her terminal’s displays.”</p>
+   <p>“She’s dying,” the food man said, and sipped his coffee.</p>
+   <p>In his mind, McVane tried to picture the woman. Small and dark, and what was her name? He punched a couple of keys on the board beside him, her name came up on its display, retrieved by the code they used. Rybus Rommey. “Dying of what?” he said.</p>
+   <p>“Multiple sclerosis.”</p>
+   <p>“How far advanced is it?”</p>
+   <p>“Not far at all,” the food man said. “A couple of months ago, she told me that when she was in her late teens she suffered an—what is it called? Aneurysm. In her left eye, which wiped out her central vision in that eye. They suspected at the time that it might be the onset of multiple sclerosis. And then today when I talked to her she said she’s been experiencing optic neuritis, which—”</p>
+   <p>McVane said, “Both symptoms were fed to M.E.D.?”</p>
+   <p>“A correlation of an aneurysm and then a period of remission and then double vision, blurring . . . you ought to call her up and talk to her. When I was delivering to her, she was crying.”</p>
+   <p>Turning to his keyboard, McVane punched out and punched out and then read the display. “There’s a thirty to forty percent cure rate for multiple sclerosis.”</p>
+   <p>“Not out here. M.E.D. can’t get to her out here.”</p>
+   <p>“Shit,” McVane said.</p>
+   <p>“I told her to demand a transfer back home. That’s what I’d do. She won’t do it.”</p>
+   <p>“She’s crazy,” McVane said.</p>
+   <p>“You’re right. She’s crazy. Everybody out here is crazy. You want proof of it? She’s proof of it. Would you go back home if you knew you were very sick?”</p>
+   <p>“We’re never supposed to surrender our domes.”</p>
+   <p>“What you monitor is so important.” The food man set down his cup. “I have to go.” As he got to his feet, he said, “Call her and talk to her. She needs someone to talk to and you’re the closest dome. I’m surprised she didn’t tell you.”</p>
+   <p>McVane thought, I didn’t ask.</p>
+   <p>After the food man had departed, McVane got the code for Rybus Rommey’s dome, and started to run it into his transmitter, and then hesitated. His wall clock showed 1830 hours. At this point in his forty-two-hour cycle, he was supposed to accept a sequence of high-speed entertainment audio- and videotaped signals emanating from a slave satellite at CY30 III; upon storing them, he was to run them back at normal and select the material suitable for the overall dome system on his own planet.</p>
+   <p>He took a look at the log. Fox was doing a concert that ran two hours. Linda Fox, he thought. You and your synthesis of old-time rock and modern-day streng. Jesus, he thought. If I don’t transcribe the relay of your live concert, every domer on the planet will come storming in here and kill me. Outside of emergencies—which don’t occur—this is what I’m paid to handle: information traffic between planets, information that connects us with home and keeps us human. The tape drums have got to turn.</p>
+   <p>He started the tape transport at its high-speed mode, set the module’s controls for receive, locked it in at the satellite’s operating frequency, checked the wave-form on the visual scope to be sure that the carrier was coming in undistorted, and then patched into an audio transduction of what he was getting.</p>
+   <p>The voice of Linda Fox emerged from the strip of drivers mounted above him. As the scope showed, there was no distortion. No noise. No clipping. All channels, in fact, were balanced; his meters indicated that.</p>
+   <p>Sometimes I could cry myself when I hear her, he thought. Speaking of crying.</p>
+   <poem>
+    <stanza>
+     <v>“Wandering all across this land,</v>
+     <v>My band.</v>
+     <v>In the worlds that pass above,</v>
+     <v>I love.</v>
+     <v>Play for me, you spirits who are weightless.</v>
+     <v>I believe in drinking to your greatness.</v>
+     <v>My band.”</v>
+    </stanza>
+   </poem>
+   <p>And behind Linda Fox’s vocal, the syntholutes which were her trademark. Until Fox, no one had ever thought of bringing back that sixteenth-century instrument for which Dowland had written so beautifully and so effectively.</p>
+   <poem>
+    <stanza>
+     <v>“Shall I sue? shall I seek for grace?</v>
+     <v>Shall I pray? shall I prove?</v>
+     <v>Shall I strive to a heavenly joy</v>
+     <v>With an earthly love?</v>
+     <v>Are there worlds? are there moons</v>
+     <v>Where the lost shall endure?</v>
+     <v>Shall I find for a heart that is pure?”</v>
+    </stanza>
+   </poem>
+   <p>What Linda Fox had done was take the lute books of John Dowland, written at the end of the sixteenth century, and remastered both the melodies and the lyrics into something of today. Some new thing, he thought, for scattered people as flung as if they had been dropped in haste: here and there, disarranged, in domes, on the backs of miserable worlds and in satellites—victimized by the power of migration, and with no end in sight.</p>
+   <poem>
+    <stanza>
+     <v>“Silly wretch, let me rail</v>
+     <v>At a trip that is blind.</v>
+     <v>Holy hopes do require”</v>
+    </stanza>
+   </poem>
+   <p>He could not remember the rest. Well, he had it taped, of course.</p>
+   <poem>
+    <stanza>
+     <v>“. . . no human may find.”</v>
+    </stanza>
+   </poem>
+   <p>Or something like that. The beauty of the universe lay not in the stars figured into it but in the music generated by human minds, human voices, human hands. Syntholutes mixed on an intricate board by experts, and the voice of Fox. He thought, I know what I must have to keep on going. My job is delight: I transcribe this and I broadcast it and they pay me.</p>
+   <p>“This is the Fox,” Linda Fox said.</p>
+   <p>McVane switched the video to holo, and a cube formed in which Linda Fox smiled at him. Meanwhile, the drums spun at furious speed, getting hour upon hour into his permanent possession.</p>
+   <p>“You are with the Fox,” she said, “and the Fox is with <emphasis>you</emphasis>.” She pinned him with her gaze, the hard, bright eyes. The diamond face, feral and wise, feral and true; this is the Fox speaking to you. He smiled back.</p>
+   <p>“Hi, Fox,” he said.</p>
+   <empty-line/>
+   <p>Sometime later he called the sick girl in the next dome. It took her an amazingly long time to respond to his signal, and as he sat noting the signal register on his own board he thought, Is she finished? Or did they come and forcibly evacuate her?</p>
+   <p>His microscreen showed vague colors. Visual static, nothing more. And then there she was.</p>
+   <p>“Did I wake you up?” he asked. She seemed so slowed down, so torpid. Perhaps, he thought, she’s sedated.</p>
+   <p>“No. I was shooting myself in the ass.”</p>
+   <p>“What?” he said, startled.</p>
+   <p>“Chemotherapy,” Rybus said. “I’m not doing too well.”</p>
+   <p>“I just now taped a terrific Linda Fox concert; I’ll be broadcasting it in the next few days. It’ll cheer you up.”</p>
+   <p>“It’s too bad we’re stuck in these domes. I wish we could visit one another. The food man was just here. In fact, he brought me my medication. It’s effective, but it makes me throw up.”</p>
+   <p>McVane thought, I wish I hadn’t called.</p>
+   <p>“Is there any way you could visit me?” Rybus asked.</p>
+   <p>“I have no portable air, none at all.”</p>
+   <p>“I have,” Rybus said.</p>
+   <p>In panic, he said, “But if you’re sick—”</p>
+   <p>“I can make it over to your dome.”</p>
+   <p>“What about your station? What if data come in that—”</p>
+   <p>“I’ve got a beeper I can bring with me.”</p>
+   <p>Presently he said, “Okay.”</p>
+   <p>“It would mean a lot to me, someone to sit with for a little while. The food man stays like half an hour, but that’s as long as he can. You know what he told me? There’s been an outbreak of a form of amyotrophic lateral sclerosis on CY30 VI. It must be a virus. This whole condition is a virus. Christ, I’d hate to have amyotrophic lateral sclerosis. This is like the Mariana form.”</p>
+   <p>“Is it contagious?”</p>
+   <p>She did not directly answer. Instead she said, “What I have can be cured.” Obviously she wanted to reassure him. “If the virus is around . . . I won’t come over; it’s okay.” She nodded and reached to shut off her transmitter. “I’m going to lie down,” she said, “and get more sleep. With this you’re supposed to sleep as much as you can. I’ll talk to you tomorrow. Goodbye.”</p>
+   <p>“Come over,” he said.</p>
+   <p>Brightening, she said, “Thank you.”</p>
+   <p>“But be sure you bring your beeper. I have a hunch a lot of telemetric confirms are going to—”</p>
+   <p>“Oh, fuck the telemetric confirms!” Rybus said, with venom. “I’m so sick of being stuck in this goddam dome! Aren’t you going buggy sitting around watching tape drums turn and little meters and gauges and shit?”</p>
+   <p>“I think you should go back home,” he said.</p>
+   <p>“No,” she said, more calmly. “I’m going to follow exactly the M.E.D. instructions for my chemotherapy and beat this fucking M.S. I’m not going home. I’ll come over and fix your dinner. I’m a good cook. My mother was Italian and my father is Chicano so I spice everything I fix, except you can’t get spices out here. But I figured out how to beat that with different synthetics. I’ve been experimenting.”</p>
+   <p>“In this concert I’m going to be broadcasting,” McVane said, “the Fox does a version of Dowland’s ‘Shall I Sue.’ ”</p>
+   <p>“A song about litigation?”</p>
+   <p>“No. ‘Sue’ in the sense of to pay court to or woo. In matters of love.” And then he realized that she was putting him on.</p>
+   <p>“Do you want to know what I think of the Fox?” Rybus asked. “Recycled sentimentality, which is the worst kind of sentimentality; it isn’t even original. And she looks like her face is on upside down. She has a mean mouth.”</p>
+   <p>“I like her,” he said stiffly; he felt himself becoming mad, really mad. I’m supposed to help you? he asked himself. Run the risk of catching what you have so you can insult the Fox?</p>
+   <p>“I’ll fix you beef stroganoff with parsley noodles,” Rybus said.</p>
+   <p>“I’m doing fine,” he said.</p>
+   <p>Hesitating, she said in a low, faltering voice, “Then you don’t want me to come over?”</p>
+   <p>“I—” he said.</p>
+   <p>“I’m very frightened, Mr. McVane,” Rybus said. “Fifteen minutes from now, I’m going to be throwing up from the IV Neurotoxite. But I don’t want to be alone. I don’t want to give up my dome and I don’t want to be by myself. I’m sorry if I offended you. It’s just that to me the Fox is a joke. I won’t say anything more; I promise.”</p>
+   <p>“Do you have the—” He amended what he intended to say. “Are you sure it won’t be too much for you, fixing dinner?”</p>
+   <p>“I’m stronger now than I will be,” she said. “I’ll be getting weaker for a long time.”</p>
+   <p>“How long?”</p>
+   <p>“There’s no way to tell.”</p>
+   <p>He thought, You are going to die. He knew it and she knew it. They did not have to talk about it. The complicity of silence was there, the agreement. A dying girl wants to cook me a dinner, he thought. A dinner I don’t want to eat. <emphasis>I’ve got to say no to her. I’ve got to keep her out of my dome</emphasis>. The insistence of the weak, he thought. Their dreadful power. It is so much easier to throw a body block against the strong!</p>
+   <p>“Thank you,” he said. “I’d like it very much if we had dinner together. But make sure you keep radio contact with me on your way over here—so I’ll know you’re okay. Promise?”</p>
+   <p>“Well, sure,” she said. “Otherwise”—she smiled—“they’d find me a century from now, frozen with pots, pans, and food, as well as synthetic spices. You do have portable air, don’t you?”</p>
+   <p>“No, I really don’t,” he said.</p>
+   <p>And knew that his lie was palpable to her.</p>
+   <empty-line/>
+   <p>The meal smelled good and tasted good, but halfway through Rybus excused herself and made her way unsteadily from the matrix of the dome—his dome—into the bathroom. He tried not to listen; he arranged it with his percept system not to hear and with his cognition not to know. In the bathroom the girl, violently sick, cried out and he gritted his teeth and pushed his plate away and then all at once he got up and set in motion his in-dome audio system; he played an early album of the Fox.</p>
+   <poem>
+    <stanza>
+     <v>“Come again!</v>
+     <v>Sweet love doth now invite</v>
+     <v>Thy graces, that refrain</v>
+     <v>To do me due delight . . .”</v>
+    </stanza>
+   </poem>
+   <p>“Do you by any chance have some milk?” Rybus asked, standing at the bathroom door, her face pale.</p>
+   <p>Silently, he got her a glass of milk, or what passed for milk on their planet.</p>
+   <p>“I have antiemetics,” Rybus said as she held the glass of milk, “but I didn’t remember to bring any with me. They’re back at my dome.”</p>
+   <p>“I could get them for you,” he said.</p>
+   <p>“You know what M.E.D. told me?” Her voice was heavy with indignation. “They said that this chemotherapy won’t make my hair fall out, but already it’s coming out in—”</p>
+   <p>“Okay,” he interrupted.</p>
+   <p><emphasis>“Okay?”</emphasis></p>
+   <p>“I’m sorry,” he said.</p>
+   <p>“This is upsetting you,” Rybus said. “The meal is spoiled and you’re—I don’t know what. If I’d remembered to bring my antiemetics, I’d be able to keep from—” She became silent. “Next time I’ll bring them. I promise. This is one of the few albums of Fox that I like. She was really good then, don’t you think?”</p>
+   <p>“Yes,” he said tightly.</p>
+   <p>“Linda Box,” Rybus said.</p>
+   <p>“What?” he said.</p>
+   <p>“Linda the box. That’s what my sister and I used to call her.” She tried to smile.</p>
+   <p>“Please go back to your dome.”</p>
+   <p>“Oh,” she said. “Well—” She smoothed her hair, her hand shaking. “Will you come with me? I don’t think I can make it by myself right now. I’m really weak. I really am sick.”</p>
+   <p>He thought, You are taking me with you. That’s what this is. That is what is happening. You will not go alone; you will take my spirit with you. And you know. You know it as well as you know the name of the medication you are taking, and you hate me as you hate the medication, as you hate M.E.D. and your illness; it is all hate, for each and every thing under these two suns. I know you. I understand you. I see what is coming. In fact, it has begun.</p>
+   <p>And, he thought, I don’t blame you. But I will hang onto the Fox; the Fox will outlast you. And so will I. You are not going to shoot down the luminiferous aether which animates our souls. I will hang onto the Fox and the Fox will hold me in her arms and hang onto me. The two of us—we can’t be pried apart. I have dozens of hours of the Fox on audio- and videotape, and the tapes are not just for me but for everybody. You think you can kill that? he said to himself. It’s been tried before. The power of the weak, he thought, is an imperfect power; it loses in the end. Hence its name. We call it weak for a reason.</p>
+   <p>“Sentimentality,” Rybus said.</p>
+   <p>“Right,” he said sardonically.</p>
+   <p>“Recycled at that.”</p>
+   <p>“And mixed metaphors.”</p>
+   <p>“Her lyrics?”</p>
+   <p>“What I’m thinking. When I get really angry, I mix—”</p>
+   <p>“Let me tell you something. One thing. If I am going to survive, I can’t be sentimental. I have to be very harsh. If I’ve made you angry, I’m sorry, but that is how it is. It is my life. Someday you may be in the spot I am in and then you’ll know. Wait for that and then judge me. If it ever happens. Meanwhile this stuff you’re playing on your in-dome audio system is crap. It has to be crap, for me. Do you see? You can forget about me; you can send me back to my dome, where I probably really belong, but if you have anything to do with me—”</p>
+   <p>“Okay,” he said, “I understand.”</p>
+   <p>“Thank you. May I have some more milk? Turn down the audio and we’ll finish eating. Okay?”</p>
+   <p>Amazed, he said, “You’re going to keep on trying to—”</p>
+   <p>“All those creatures—and species—who gave up trying to eat aren’t with us anymore.” She seated herself unsteadily, holding onto the table.</p>
+   <p>“I admire you.”</p>
+   <p>“No,” she said. “I admire <emphasis>you</emphasis>. It’s harder on you. I know.”</p>
+   <p>“Death—” he began.</p>
+   <p>“This isn’t death. You know what this is? In contrast to what’s coming out of your audio system? This is life. The milk, please; I really need it.”</p>
+   <p>As he got her more milk, he said, “I guess you can’t shoot down aether. Luminiferous or otherwise.”</p>
+   <p>“No,” she agreed, “since it doesn’t exist.”</p>
+   <empty-line/>
+   <p>Commodity Central provided Rybus with two wigs, since, due to the chemo, her hair had been systematically killed. He preferred the light-colored one.</p>
+   <p>When she wore her wig, she did not look too bad, but she had become weakened and a certain querulousness had crept into her discourse. Because she was not physically strong any longer—due more, he suspected, to the chemotherapy than to her illness—she could no longer manage to maintain her dome adequately. Making his way over there one day, he was shocked at what he found. Dishes, pots and pans and even glasses of spoiled food, dirty clothes strewn everywhere, litter and debris . . . troubled, he cleaned up for her and, to his vast dismay, realized that there was an odor pervading her dome, a sweet mixture of the smell of illness, of complex medications, the soiled clothing, and, worst of all, the rotting food itself.</p>
+   <p>Until he cleaned an area, there was not even a place for him to sit. Rybus lay in bed, wearing a plastic robe open at the back. Apparently, however, she still managed to operate her electronic equipment; he noted that the meters indicated full activity. But she used the remote programmer normally reserved for emergency conditions; she lay propped up in bed with the programmer beside her, along with a magazine and a bowl of cereal and several bottles of medication.</p>
+   <p>As before, he discussed the possibility of getting her transferred. She refused to be taken off her job; she had not budged.</p>
+   <p>“I’m not going into a hospital,” she told him, and that, for her, ended the conversation.</p>
+   <p>Later, back at his own dome, gratefully back, he put a plan into operation. The large AI System—Artificial Intelligence Plasma—which handled the major problem-solving for star systems in their area of the galaxy had some available time which could be bought for private use. Accordingly, he punched in an application and posted the total sum of financial credits he had saved up during the last few months.</p>
+   <p>From Fomalhaut, where the Plasma drifted, he received back a positive response. The team which handled traffic for the Plasma was agreeing to sell him fifteen minutes of the Plasma’s time.</p>
+   <p>At the rate at which he was being metered, he was motivated to feed the Plasma his data very skillfully and very rapidly. He told the Plasma who Rybus was—which gave the AI System access to her complete files, including her psychological profile—and he told it that his dome was the closest dome to her, and he told it of her fierce determination to live and her refusal to accept a medical discharge or even transfer from her station. He cupped his head into the shell for psychotronic output so that the Plasma at Fomalhaut could draw directly from his thoughts, thus making available to it all his unconscious, marginal impressions, realizations, doubts, ideas, anxieties, needs.</p>
+   <p>“There will be a five-day delay in response,” the team signaled him. “Because of the distance involved. Your payment has been received and recorded. Over.”</p>
+   <p>“Over,” he said, feeling glum. He had spent everything he had. A vacuum had consumed his worth. But the Plasma was the court of last appeal in matters of problem-solving. WHAT SHOULD I DO? he had asked the Plasma. In five days he would have the answer.</p>
+   <p>During the next five days, Rybus became considerably weaker. She still fixed her own meals, however, although she seemed to eat the same thing over and over again: a dish of high-protein macaroni with grated cheese sprinkled over it. One day he found her wearing dark glasses. She did not want him to see her eyes.</p>
+   <p>“My bad eye has gone berserk,” she said dispassionately. “Rolled up in my head like a window shade.” Spilled capsules and tablets lay everywhere around her on her bed. He picked up one of the half-empty bottles and saw that she was taking one of the most powerful analgesics available.</p>
+   <p>“M.E.D. is prescribing this for you?” he said, wondering, Is she in that much pain?</p>
+   <p>“I know somebody,” Rybus said. “At a dome on IV. The food man brought it over to me.”</p>
+   <p>“This stuff is addictive.”</p>
+   <p>“I’m lucky to get it. I shouldn’t really have it.”</p>
+   <p>“I know you shouldn’t.”</p>
+   <p>“That goddam M.E.D.” The vindictiveness of her tone was surprising. “It’s like dealing with a lower life-form. By the time they get around to prescribing, and then getting the medication to you, Christ, you’re an urn of ashes. I see no point in them prescribing for an urn of ashes.” She put her hand up to her skull. “I’m sorry; I should keep my wig on when you’re here.”</p>
+   <p>“It doesn’t matter,” he said.</p>
+   <p>“Could you bring me some Coke? Coke settles my stomach.”</p>
+   <p>From her refrigerator he took a liter bottle of cola and poured her a glass. He had to wash the glass first; there wasn’t a clean one in the dome.</p>
+   <p>Propped up before her at the foot of her bed, she had her standard-issue TV set going. It gabbled away mindlessly, but no one was listening or watching. He realized that every time he came over she had it on, even in the middle of the night.</p>
+   <p>When he returned to his own dome, he felt a tremendous sense of relief, of an odious burden being lifted from him. Just to put physical distance between himself and her—that was a joy which raised his spirits. It’s as if, he thought, when I’m with her I have what she has. We share the illness.</p>
+   <p>He did not feel like playing any Fox recordings so instead he put on the Mahler Second Symphony, <emphasis>The Resurrection</emphasis>. The only symphony scored for many pieces of rattan, he mused. A Ruthe, which looks like a small broom; they use it to play the bass drum. Too bad Mahler never saw a Morley wah-wah pedal, he thought, or he would have scored it into one of his longer symphonies.</p>
+   <p>Just as the chorus came in, his in-dome audio system shut down; an extrinsic override had silenced it.</p>
+   <p>“Transmission from Fomalhaut.”</p>
+   <p>“Standing by.”</p>
+   <p>“Use video, please. Ten seconds till start.”</p>
+   <p>“Thank you,” he said.</p>
+   <p>A readout appeared on his larger screen. It was the AI System, the plasma, replying a day early.</p>
+   <cite>
+    <p>SUBJECT: RYBUS ROMMEY</p>
+    <p>ANALYSIS: THANATOUS</p>
+    <p>PROGRAM ADVICE: TOTAL AVOIDANCE ON YOUR PART</p>
+    <p>ETHICAL FACTOR: OBVIATED</p>
+    <p>**THANK YOU**</p>
+   </cite>
+   <p>Blinking, McVane said reflexively, “Thank you.” He had dealt with the Plasma only once before and he had forgotten how terse its responses were. The screen cleared; the transmission had ended.</p>
+   <p>He was not sure what “thanatous” meant, but he felt certain that it had something to do with death. It means she is dying, he pondered as he punched into the planet’s reference bank and asked for a definition. It means that she is dying or may die or is close to death, all of which I know.</p>
+   <p>However, he was wrong. It meant <emphasis>producing</emphasis> death.</p>
+   <p>Producing, he thought. There is a great difference between <emphasis>death</emphasis> and <emphasis>producing death</emphasis>. No wonder the AI System had notified him that the ethical factor was obviated on his part.</p>
+   <p>She is a killer thing, he realized. Well, this is why is costs so much to consult the Plasma. You get—not a phony answer based on speculation—but an absolute response.</p>
+   <p>While he was thinking about it and trying to calm himself down, his telephone rang. Before he picked it up he knew who it was.</p>
+   <p>“Hi,” Rybus said in a trembling voice.</p>
+   <p>“Hi,” he said.</p>
+   <p>“Do you by any chance have any Celestial Seasonings Morning Thunder tea bags?”</p>
+   <p>“What?” he said.</p>
+   <p>“When I was over at your dome that time I fixed beef stroganoff for us, I thought I saw a canister of Celestial Seasonings—”</p>
+   <p>“No,” he said. “I don’t. I used them up.”</p>
+   <p>“Are you all right?”</p>
+   <p>“I’m just tired,” he said, and he thought, She said “us.” She and I are an “us.” When did that happen? he asked himself. I guess that’s what the Plasma meant; it understood.</p>
+   <p>“Do you have any kind of tea?”</p>
+   <p>“No,” he said. His in-dome audio system suddenly came back on, released from its pause mode now that the Fomalhaut transmission had ended. The choir was singing.</p>
+   <p>On the phone, Rybus giggled. “Fox is doing sound on sound? A whole chorus of a thousand—”</p>
+   <p>“This is Mahler,” he said roughly.</p>
+   <p>“Do you think you could come over and keep me company?” Rybus asked. “I’m sort of at loose ends.”</p>
+   <p>After a moment, he said, “Okay. There’s something I want to talk to you about.”</p>
+   <p>“I was reading this article in—”</p>
+   <p>“When I get there,” he broke in, “we can talk. I’ll see you in half an hour.” He hung up the phone.</p>
+   <empty-line/>
+   <p>When he reached her dome, he found her propped up in bed, wearing her dark glasses and watching a soap opera on her TV. Nothing had changed since he had last visited her, except that the decaying food in the dishes and the fluids in the cups and glasses had become more dismaying.</p>
+   <p>“You should watch this,” Rybus said, not looking up. “Okay; I’ll fill you in. Becky is pregnant, but her boyfriend doesn’t—”</p>
+   <p>“I brought you some tea.” He set down four tea bags.</p>
+   <p>“Could you get me some crackers? There’s a box on the shelf over the stove. I need to take a pill. It’s easier for me to take medication with food than with water because when I was about three years old . . . you’re not going to believe this. My father was teaching me to swim. We had a lot of money in those days; my father was a—well, he still is, although I don’t hear from him very often. He hurt his back opening one of those sliding security gates at a condo cluster where . . .” Her voice trailed off; she had again become engrossed in her TV.</p>
+   <p>McVane cleared off a chair and seated himself.</p>
+   <p>“I was very depressed last night,” Rybus said. “I almost called you. I was thinking about this friend of mine who’s now—well, she’s my age, but she’s got a class 4-C rating in time-motion studies involving prism fluctuation rate or some damn thing. I hate her. At my age! Can you feature that?” She laughed.</p>
+   <p>“Have you weighed yourself lately?” he asked.</p>
+   <p>“What? Oh no. But my weight’s okay. I can tell. You take a pinch of skin between your fingers, up near your shoulder, and I did that. I still have a fat layer.”</p>
+   <p>“You look thin,” he said. He put his hand on her forehead.</p>
+   <p>“Am I running a fever?”</p>
+   <p>“No,” he said. He continued to hold his hand there, against her smooth damp skin, above her dark glasses. Above, he thought, the myelin sheath of nerve fibers which had developed the sclerotic patches which were killing her.</p>
+   <p>You will be better off, he said to himself, when she is dead.</p>
+   <p>Sympathetically, Rybus said, “Don’t feel bad. I’ll be okay. M.E.D. has cut my dosage of Vasculine. I only take it <emphasis>t.i.d.</emphasis> now—three times a day instead of four.”</p>
+   <p>“You know all the medical terms,” he said.</p>
+   <p>“I have to. They issued me a PDR. Want to look at it? It’s around here somewhere. Look under those papers over there. I was writing letters to several old friends because while I was looking for something else I came across their addresses. I’ve been throwing things away. See?” She pointed and he saw sacks, paper sacks, of crumpled papers. “I wrote for five hours yesterday and then I started in today. That’s why I wanted the tea; maybe you could fix me a cup. Put a whole lot of sugar in it and just a little milk.”</p>
+   <p>As he fixed her the tea, fragments of a Linda Fox adaptation of a Dowland song moved through his mind.</p>
+   <poem>
+    <stanza>
+     <v>“Thou mighty God</v>
+     <v>That rightest every wrong . . .</v>
+     <v>Listen to Patience</v>
+     <v>In a dying song.”</v>
+    </stanza>
+   </poem>
+   <p>“This program is really good,” Rybus said, when a series of commercials interrupted her TV soap opera. “Can I tell you about it?”</p>
+   <p>Rather than answering, he asked, “Does the reduced dosage of Vasculine indicate that you’re improving?”</p>
+   <p>“I’m probably going into another period of remission.”</p>
+   <p>“How long can you expect it to last?”</p>
+   <p>“Probably quite a while.”</p>
+   <p>“I admire your courage,” he said. “I’m bailing out. This is the last time I’m coming over here.”</p>
+   <p>“My courage?” she said. “Thank you.”</p>
+   <p>“I’m not coming back.”</p>
+   <p>“Not coming back when? You mean today?”</p>
+   <p>“You are a death-dealing organism,” he said. “A pathogen.”</p>
+   <p>“If we’re going to talk seriously,” she said, “I want to put my wig on. Could you bring me my blonde wig? It’s around somewhere, maybe under those clothes in the corner there. Where that red top is, the one with the white buttons. I have to sew a button back on it, <emphasis>if</emphasis> I can find the button.”</p>
+   <p>He found her her wig.</p>
+   <p>“Hold the hand mirror for me,” she said as she placed the wig on her skull. “Do you think I’m contagious? Because M.E.D. says that at this stage the virus is inactive. I talked to M.E.D. for over an hour yesterday; they gave me a special line.”</p>
+   <p>“Who’s maintaining your gear?” he asked.</p>
+   <p><emphasis>“Gear?”</emphasis> She gazed at him from behind dark glasses.</p>
+   <p>“Your job. Monitoring incoming traffic. Storing it and then transferring it. The reason you’re here.”</p>
+   <p>“It’s on auto.”</p>
+   <p>“You have seven warning lights on right now, all red and all blinking,” he said. “You should have an audio analog so you can hear it and not ignore it. You’re receiving but not recording and they’re trying to tell you.”</p>
+   <p>“Well, they’re out of luck,” she responded in a low voice.</p>
+   <p>“They have to take into account the fact that you’re sick,” he said.</p>
+   <p>“Yes, they do. Of course they do. They can bypass me; don’t you receive roughly what I receive? Aren’t I essentially a backup station to your own?”</p>
+   <p>“No,” he said. “I’m a backup station to yours.”</p>
+   <p>“It’s all the same.” She sipped the mug of tea which he had fixed for her. “It’s too hot. I’ll let it cool.” Tremblingly, she reached to set down the mug on a table beside her bed; the mug fell, and hot tea poured out over the plastic floor. “Christ,” she said with fury. “Well, that does it; that really does it. <emphasis>Nothing</emphasis> has gone right today. Son of a bitch.”</p>
+   <p>McVane turned on the dome’s vacuum circuit and it sucked up the spilled tea. He said nothing. He felt amorphous anger all through him, directed at nothing, fury without object, and he sensed that this was the quality of her own hate: it was a passion which went both nowhere and everywhere. Hate, he thought, like a flock of flies. God, he thought, how I want out of here. How I hate to hate like this, hating spilled tea with the same venom as I hate terminal illness. A one-dimensional universe. It has dwindled to that.</p>
+   <empty-line/>
+   <p>In the weeks that followed, he made fewer and fewer trips from his dome to hers. He did not listen to what she said; he did not watch what she did; he averted his gaze from the chaos around her, the ruins of her dome. I am seeing a projection of her brain, he thought once as he momentarily surveyed the garbage which had piled up everywhere; she was even putting sacks outside the dome, to freeze for eternity. She is senile.</p>
+   <p>Back in his own dome, he tried to listen to Linda Fox, but the magic had departed. He saw and heard a synthetic image. It was not real. Rybus Rommey had sucked the life out of the Fox the way her dome’s vacuum circuit had sucked up the spilled tea.</p>
+   <poem>
+    <stanza>
+     <v>“And when his sorrows came as fast as floods,</v>
+     <v>Hope kept his heart till comfort came again.”</v>
+    </stanza>
+   </poem>
+   <p>McVane heard the words, but they didn’t matter. What had Rybus called it? Recycled sentimentality and crap. He put on a Vivaldi concerto for bassoon. There is only one Vivaldi concerto, he thought. A computer could do better. And be more diverse.</p>
+   <p>“You’re picking up Fox waves,” Linda Fox said, and on his video transducer her face appeared, star-lit and wild. “And when those Fox waves hit you,” she said, “you have been <emphasis>hit!</emphasis>”</p>
+   <p>In a momentary spasm of fury, he deliberately erased four hours of Fox, both video and audio. And then regretted it. He put in a call to one of the relay satellites for replacement tapes and was told that they were back-ordered.</p>
+   <p>Fine, he said to himself. What the hell does it matter?</p>
+   <p>That night, while he was sound asleep, his telephone rang. He let it ring; he did not answer it, and when it rang again ten minutes later he again ignored it.</p>
+   <p>The third time it rang he picked it up and said hello.</p>
+   <p>“Hi,” Rybus said.</p>
+   <p>“What is it?” he said.</p>
+   <p>“I’m cured.”</p>
+   <p>“You’re in remission?”</p>
+   <p>“No, I’m cured. M.E.D. just contacted me; their computer analyzed all my charts and tests and everything and there’s no sign of hard patches. Except, of course, I’ll never get central vision back in my bad eye. But other than that I’m okay.” She paused. “How have you been? I haven’t heard from you for so long—it seems like forever. I’ve been wondering about you.”</p>
+   <p>He said, “I’m okay.”</p>
+   <p>“We should celebrate.”</p>
+   <p>“Yes,” he said.</p>
+   <p>“I’ll fix dinner for us, like I used to. What would you like? I feel like Mexican food. I make a really good taco; I have the ground meat in my freezer, unless it’s gone bad. I’ll thaw it out and see. Do you want me to come over there or do you—”</p>
+   <p>“Let me talk to you tomorrow,” he said.</p>
+   <p>“I’m sorry to wake you up, but I just now heard from M.E.D.” She was silent a moment. “You’re the only friend I have,” she said. And then, incredibly, she began to cry.</p>
+   <p>“It’s okay,” he said. “You’re well.”</p>
+   <p>“I was so fucked up,” she said brokenly. “I’ll ring off and talk to you tomorrow. But you’re right; I can’t believe it, but I made it.”</p>
+   <p>“It is due to your courage,” he said.</p>
+   <p>“It’s due to you,” Rybus said. “I would have given up without you. I never told you this, but—well, I squirreled away enough sleeping pills to kill myself, and—”</p>
+   <p>“I’ll talk to you tomorrow,” he said, “about getting together.” He hung up and lay back down.</p>
+   <p>He thought, When Job had lost his children, lands, and goods, Patience assuaged his excessive pain. And when his sorrows came as fast as floods, Hope kept his heart till comfort came again. As the Fox would put it.</p>
+   <p>Recycled sentimentality, he thought. I got her through her ordeal and she paid me back by deriding into rubbish that which I cherished the most. But she is alive, he realized; she did make it. It’s like when someone tries to kill a rat. You can kill it six ways and it still survives. You can’t fault that.</p>
+   <p>He thought, That is the name of what we are doing here in this star system on these frozen planets in these little domes. Rybus Rommey understood the game and played it right and won. To hell with Linda Fox. And then he thought, But also to hell with what I love.</p>
+   <p>It is a good trade-off, he thought: a human life won and a synthetic media image wrecked. The law of the universe.</p>
+   <p>Shivering, he pulled his covers over him and tried to get back to sleep.</p>
+   <empty-line/>
+   <p>The food man showed up before Rybus did; he awoke McVane early in the morning with a full shipment.</p>
+   <p>“Still got your temp and air illegally boosted,” the food man said as he unscrewed his helmet.</p>
+   <p>“I just use the equipment,” McVane said. “I don’t build it.”</p>
+   <p>“Well, I won’t report you. Got any coffee?”</p>
+   <p>They sat facing each other across the table drinking fake coffee.</p>
+   <p>“I just came from the Rommey girl’s dome,” the food man said. “She says she’s cured.”</p>
+   <p>“Yeah, she phoned me late last night,” McVane said.</p>
+   <p>“She says you did it.”</p>
+   <p>To that, McVane said nothing.</p>
+   <p>“You saved a human life.”</p>
+   <p>“Okay,” McVane said.</p>
+   <p>“What’s wrong?”</p>
+   <p>“I’m just tired.”</p>
+   <p>“I guess it took a lot out of you. Christ, it’s a mess over there. Can’t you clean it up for her? Destroy the garbage, at least, and sterilize the place; the whole goddam dome is septic. She let her garbage disposal get plugged and it backed up raw sewage all over her cupboards and shelves, where her food is stored. I’ve never seen anything like it. Of course, she’s been so weak—”</p>
+   <p>McVane interrupted, “I’ll look into it.”</p>
+   <p>Awkwardly, the food man said, “The main thing is, she’s cured. She was giving herself the shots, you know.”</p>
+   <p>“I know,” McVane said. “I watched her.” Many times, he said to himself.</p>
+   <p>“And her hair’s growing back. Boy, she looks awful without her wig. Don’t you agree?”</p>
+   <p>Rising, McVane said, “I have to broadcast some weather reports. Sorry I can’t talk to you any longer.”</p>
+   <empty-line/>
+   <p>Toward dinnertime Rybus Rommey appeared at the hatch of his dome, loaded down with pots and dishes and carefully wrapped packages. He let her in, and she made her way silently to the kitchen area, where she dumped everything down at once; two packages slid off onto the floor and she stooped to retrieve them.</p>
+   <p>After she had taken off her helmet, she said, “It’s good to see you again.”</p>
+   <p>“Likewise,” he said.</p>
+   <p>“It’ll take about an hour to fix the tacos. Do you think you can wait until then?”</p>
+   <p>“Sure,” he said.</p>
+   <p>“I’ve been thinking,” Rybus said as she started a pan of grease heating on the stove. “We ought to take a vacation. Do you have any leave coming? I have two weeks owed me, although my situation is complicated by my illness. I mean, I used up a lot of my leave in the form of sick leave. Christ’s sake, they docked me one-half day a month, just because I couldn’t operate my transmitter. Can you believe it?”</p>
+   <p>He said, “It’s nice to see you stronger.”</p>
+   <p>“I’m fine,” she said. “Shit, I forgot the hamburger. Goddam it!” She stared at him.</p>
+   <p>“I’ll go to your dome and get it,” he said presently. She seated herself. “It’s not thawed. I forgot to thaw it out. I just remembered now. I was going to take it out of the freezer this morning, but I had to finish some letters . . . maybe we could have something else and have the tacos tomorrow night.”</p>
+   <p>“Okay,” he said.</p>
+   <p>“And I meant to bring your tea back.”</p>
+   <p>“I only gave you four bags,” he said.</p>
+   <p>Eyeing him uncertainly, she said, “I thought you brought me that whole box of Celestial Seasonings Morning Thunder Tea. Then where did I get it? Maybe the food man brought it. I’m just going to sit here for a while. Could you turn on the TV?” He turned on the TV.</p>
+   <p>“There’s a show I watch,” Rybus said. “I never miss it. I like shows about—well, I’ll have to fill you in on what’s happened so far if we’re going to watch.”</p>
+   <p>“Could we not watch?” he said. “Her husband—”</p>
+   <p>He thought, She’s completely crazy. She is dead. Her body has been healed, but it killed her mind.</p>
+   <p>“I have to tell you something,” he said.</p>
+   <p>“What is it?”</p>
+   <p>“You’re—” He ceased.</p>
+   <p>“I’m very lucky,” she said. “I beat the odds. You didn’t see me when I was at my worst. I didn’t want you to. From the chemo I was blind and paralyzed and deaf and then I started having seizures; I’ll be on a maintenance dose for years. But it’s okay? Don’t you think? To be on just a maintenance dose? I mean, it could be so much worse. Anyhow, her husband lost his job because he—”</p>
+   <p>“Whose husband?” McVane said.</p>
+   <p>“On the TV.” Reaching up she took hold of his hand. “Where do you want to go on our vacation? We so goddam well deserve some sort of reward. Both of us.”</p>
+   <p>“Our reward,” he said, “is that you’re well.”</p>
+   <p>She did not seem to be listening; her gaze was fastened on the TV. He saw, then, that she still wore her dark glasses. It made him think, then, of the song the Fox had sung on Christmas Day, for all the planets, the most tender, the most haunting song which she had adapted from John Dowland’s lute books.</p>
+   <poem>
+    <stanza>
+     <v>“When the poor cripple by the pool did lie</v>
+     <v>Full many years in misery and pain,</v>
+     <v>No sooner he on Christ had set his eye,</v>
+     <v>But he was well, and comfort came again.”</v>
+    </stanza>
+   </poem>
+   <p>Rybus Rommey was saying, “—it was a high-paying job but everyone was conspiring against him; you know how it is in an office. I worked in an office once where—” Pausing, she said, “Could you heat some water. I’d like to try a little coffee.”</p>
+   <p>“Okay,” he said, and turned on the burner.</p>
+  </section>
+ </body>
+</FictionBook>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>nonfiction</genre>
+   <author>
+    <first-name>Lawrence</first-name>
+    <last-name>Sutin</last-name>
+   </author>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings</book-title>
+   <date value="1995-01-01">1995</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name>asp_id</first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>FictionBook Editor Release 2.6</program-used>
+   <date value="2011-06-14">14 June 2011</date>
+   <id>02E3011C-AE8A-476C-8968-A5FB9820320D</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings</book-name>
+   <publisher>Pantheon Books </publisher>
+   <city>New York</city>
+   <year>1995</year>
+   <isbn>0-679-42644-2</isbn>
+  </publish-info>
+  <custom-info info-type="">Title: The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings 
+Authors: Philip K. Dick 
+Year: 1995-01-00 
+ISBN-10: 0-679-42644-2 
+ISBN-13: 978-0-679-42644-8 
+Publisher: Pantheon Books 
+Price: $27.50 
+Pages: xxix+350 
+Binding: hc 
+Type: NONFICTION 
+Title Reference: The Shifting Realities of Philip K. Dick: Selected Literary and Philosophical Writings 
+Notes: Data from Locus1 
+OCLC 30734361</custom-info>
+ </description>
+ <body>
+  <title>
+   <p>How to Build a Universe That Doesn’t Fall Apart Two Days Later (1978, 1985)</p>
+  </title>
+  <section>
+   <p>First, before I begin to bore you with the usual sort of things science fiction writers say in speeches, let me bring you official greetings from Disneyland. I consider myself a spokesperson for Disneyland because I live just a few miles from it—and, as if that were not enough, I once had the honor of being interviewed there by Paris TV.</p>
+   <p>For several weeks after the interview, I was really ill and confined to bed. I think it was the whirling teacups that did it. Elizabeth Antebi, who was the producer of the film, wanted to have me whirling around in one of the giant teacups while discussing the rise of fascism with Norman Spinrad. . . an old friend of mine who writes excellent science fiction. We also discussed Watergate, but we did that on the deck of Captain Hook’s pirate ship. Little children wearing Mickey Mouse hats—those black hats with the ears—kept running up and bumping against us as the cameras whirred away, and Elizabeth asked unexpected questions. Norman and I, being preoccupied with tossing little children about, said some extraordinarily stupid things that day. Today, however, I have to accept full blame for what I tell you, since none of you are wearing Mickey Mouse hats and trying to climb up on me under the impression that I am part of the rigging of a pirate ship.</p>
+   <p>Science fiction writers, I am sorry to say, really do not know anything. We can’t talk about science, because our knowledge of it is limited and unofficial, and usually our fiction is dreadful. A few years ago, no college or university would have considered inviting one of us to speak. We were mercifully confined to lurid pulp magazines, impressing no one. In those days, friends would say to me, “But are you writing anything serious?” meaning, “Are you writing anything other than science fiction?” We longed to be accepted. We yearned to be noticed. Then, suddenly, the academic world noticed us, we were invited to give speeches and appear on panels—and immediately we made idiots of ourselves. The problem is simply this: What does a science fiction writer know about? On what topic is he an authority?</p>
+   <p>It reminds me of a headline that appeared in a California newspaper just before I flew here. SCIENTISTS SAY THAT MICE CANNOT BE MADE TO LOOK LIKE HUMAN BEINGS. It was a federally funded research program, I suppose. Just think: Someone in this world is an authority on the topic of whether mice can or cannot put on two-tone shoes, derby hats, pinstriped shirts, and Dacron pants, and pass as humans.</p>
+   <p>Well, I will tell you what interests me, what I consider important. I can’t claim to be an authority on anything, but I can honestly say that certain matters absolutely fascinate me, and that I write about them all the time. The two basic topics that fascinate me are “What is reality?” and “What constitutes the authentic human being?” Over the twenty-seven years in which I have published novels and stories I have investigated those two interrelated topics over and over again. I consider them important topics. What are we? What is it that surrounds us, that we call the not-me, or the empirical or phenomenal world?</p>
+   <p>In 1951, when I sold my first story [“Roog”], I had no idea that such fundamental issues could be pursued in the science fiction field. I began to pursue them unconsciously. My first story had to do with a dog who imagined that the garbagemen who came every Friday morning were stealing valuable food that the family had carefully stored away in a safe metal container. Every day, members of the family carried out paper sacks of nice ripe food, stuffed them into the metal container, shut the lid tightly—and when the container was full, these dreadful-looking creatures came and stole everything but the can.</p>
+   <p>Finally, in the story, the dog begins to imagine that someday the garbagemen will eat the people in the house, as well as stealing their food. Of course, the dog is wrong about this. We all know that garbagemen do not eat people. But the dog’s extrapolation was in a sense logical—given the facts at his disposal. The story was about a real dog, and I used to watch him and try to get inside his head and imagine how he saw the world. Certainly, I decided, that dog sees the world quite differently than I do, or any humans do. And then I began to think, Maybe each human being lives in a unique world, a private world, a world different from those inhabited and experienced by all other humans. And that led me to wonder, If reality differs from person to person, can we speak of reality singular, or shouldn’t we really be talking about plural realities? And if there are plural realities, are some more true (more real) than others? What about the world of a schizophrenic? Maybe it’s as real as our world. Maybe we cannot say that we are in touch with reality and he is not, but should instead say, His reality is so different from ours that he can’t explain his to us, and we can’t explain ours to him. The problem, then, is that if subjective worlds are experienced too differently, there occurs a breakdown of communication. . . and <emphasis>there</emphasis> is the real illness.</p>
+   <p>I once wrote a story [“The Electric Ant” (1969)] about a man who was injured and taken to a hospital. When they began surgery on him, they discovered that he was an android, not a human, but that he did not know it. They had to break the news to him. Almost at once, Mr. Garson Poole discovered that his reality consisted of punched tape passing from reel to reel in his chest. Fascinated, he began to fill in some of the punched holes and add new ones. Immediately his world changed. A flock of ducks flew through the room when he punched one new hole in the tape. Finally he cut the tape entirely, whereupon the world disappeared. However, it also disappeared for the other characters in the story. . . which makes no sense, if you think about it. Unless the other characters were figments of his punched-tape fantasy. Which I guess is what they were.</p>
+   <p>It was always my hope, in writing novels and stories that asked the question “What is reality?,” to someday get an answer. This was the hope of most of my readers, too. Years passed. I wrote over thirty novels and over a hundred stories, and still I could not figure out what was real. One day a girl college student in Canada asked me to define reality for her, for a paper she was writing for her philosophy class. She wanted a one-sentence answer. I thought about it and finally said, “Reality is that which, when you stop believing in it, doesn’t go away.” That’s all I could come up with. That was back in 1972. Since then I haven’t been able to define reality any more lucidly.</p>
+   <p>But the problem is a real one, not a mere intellectual game. Because today we live in a society in which spurious realities are manufactured by the media, by governments, by big corporations, by religious groups, political groups—and the electronic hardware exists by which to deliver these pseudoworlds right into the heads of the reader, the viewer, the listener. Sometimes when I watch my eleven-year-old daughter watch TV, I wonder what she is being taught. The problem of miscuing; consider that. A TV program produced for adults is viewed by a small child. Half of what is said and done in the TV drama is probably misunderstood by the child. Maybe it’s <emphasis>all</emphasis> misunderstood. And the thing is, Just how authentic is the information anyhow, even if the child correctly understood it? What is the relationship between the average TV situation comedy and reality? What about the cop shows? Cars are continually swerving out of control, crashing, and catching fire. The police are always good and they always win. Do not ignore that one point: The police always win. What a lesson that is. You should not fight authority, and even if you do, you will lose. The message here is, <emphasis>Be passive</emphasis>. And—cooperate. If Officer Baretta asks you for information, give it to him, <emphasis>because Officer Baretta is a good man and to be trusted. He loves you, and you should love him.</emphasis></p>
+   <p>So I ask, in my writing, What is real? Because unceasingly we are bombarded with pseudorealities manufactured by very sophisticated people using very sophisticated electronic mechanisms. I do not distrust their motives; I distrust their power. They have a lot of it. And it is an astonishing power: that of creating whole universes, universes of the mind. I ought to know. I do the same thing. It is my job to create universes, as the basis of one novel after another. And I have to build them in such a way that they do not fall apart two days later. Or at least that is what my editors hope. However, I will reveal a secret to you: I like to build universes that <emphasis>do</emphasis> fall apart. I like to see them come unglued, and I like to see how the characters in the novels cope with this problem. I have a secret love of chaos. There should be more of it. Do not believe—and I am dead serious when I say this—do not assume that order and stability are always good, in a society or in a universe. The old, the ossified, must always give way to new life and the birth of new things. Before the new things can be born the old must perish. This is a dangerous realization, because it tells us that we must eventually part with much of what is familiar to us. And that hurts. But that is part of the script of life. Unless we can psychologically accommodate change, we ourselves will begin to die, inwardly. What I am saying is that objects, customs, habits, and ways of life must perish so that the authentic human being can live. And it is the authentic human being who matters most, the viable, elastic organism that can bounce back, absorb, and deal with the new.</p>
+   <p>Of course, <emphasis>I</emphasis> would say this because I live near Disneyland, and they are always adding new rides and destroying old ones. Disneyland is an evolving organism. For years they had the Lincoln Simulacrum and finally it began to die and they had to regretfully retire it. The simulacrum, like Lincoln himself, was only a temporary form which matter and energy take and then lose. The same is true of each of us, like it or not.</p>
+   <p>The pre−Socratic Greek philosopher Parmenides taught that the only things that are real are things that never change. . . and the pre−Socratic Greek philosopher Heraclitus taught that everything changes. If you superimpose their two views, you get this result: Nothing is real. There is a fascinating next step to this line of thinking: Parmenides could never have existed because he grew old and died and disappeared, so, according to his own philosophy, he did not exist. And Heraclitus may have been right—let’s not forget that; so if Heraclitus was right, then Parmenides did exist, and therefore, according to Heraclitus’ philosophy, perhaps Parmenides was right, since Parmenides fulfilled the conditions, the criteria, by which Heraclitus judged things real.</p>
+   <p>I offer this merely to show that as soon as you begin to ask what is ultimately real, you right away begin to talk nonsense. By the time of Zeno, they knew they were talking nonsense. Zeno proved that motion was impossible (actually he only imagined that he had proved this; what he lacked was what technically is called the “theory of limits”). David Hume, the greatest skeptic of them all, once remarked that after a gathering of skeptics met to proclaim the veracity of skepticism as a philosophy, all of the members of the gathering nonetheless left by the door rather than the window. I see Hume’s point. It was all just talk. The solemn philosophers weren’t taking what they said seriously.</p>
+   <p>But I consider that the matter of defining what is real—that is a serious topic, even a vital topic. And in there somewhere is the other topic, the definition of the authentic human. Because the bombardment of pseudorealities begins to produce inauthentic humans very quickly, spurious humans—as fake as the data pressing at them from all sides. My two topics are really one topic; they unite at this point. Fake realities will create fake humans. Or, fake humans will generate fake realities and then sell them to other humans, turning them, eventually, into forgeries of themselves. So we wind up with fake humans inventing fake realities and then peddling them to other fake humans. It is just a very large version of Disneyland. You can have the Pirate Ride or the Lincoln Simulacrum or Mr. Toad’s Wild Ride—you can have <emphasis>all</emphasis> of them, but none is true.</p>
+   <p>In my writing I got so interested in fakes that I finally came up with the concept of fake fakes. For example, in Disneyland there are fake birds worked by electric motors that emit caws and shrieks as you pass by them. Suppose some night all of us sneaked into the park with real birds and substituted them for the artificial ones. Imagine the horror the Disneyland officials would feel when they discovered the cruel hoax. Real birds! And perhaps someday even real hippos and lions! Consternation. The park being cunningly transformed from the unreal to the real, by sinister forces. For instance, suppose the Matterhorn turned into a genuine snow-covered mountain? What if the entire place, by a miracle of God’s power and wisdom, was changed, in a moment, in the blink of an eye, into something incorruptible? They would have to close down.</p>
+   <p>In Plato’s <emphasis>Timaeus</emphasis>, God does not create the universe, as does the Christian God; He simply finds it one day. It is in a state of total chaos. God sets to work to transform the chaos into order. That idea appeals to me, and I have adapted it to fit my own intellectual needs: What if our universe started out as not quite real, a sort of illusion, as the Hindu religion teaches, and God, out of love and kindness for us, is slowly transmuting it, slowly <emphasis>and secretly</emphasis>, into something real?</p>
+   <p>We would not be aware of this transformation, since we were not aware that our world was an illusion in the first place. This technically is a Gnostic idea. Gnosticism is a religion that embraced Jews, Christians, and pagans for several centuries. I have been accused of holding Gnostic ideas. I guess I do. At one time I would have been burned. But some of their ideas intrigue me. One time, when I was researching Gnosticism in the <emphasis>Britannica</emphasis>, I came across mention of a Gnostic codex called <emphasis>The Unreal God and the Aspects of His Nonexistent Universe</emphasis>, an idea that reduced me to helpless laughter. What kind of person would write about something that he knows doesn’t exist, and how can something that doesn’t exist have aspects? But then I realized that I’d been writing about these matters for over twenty-five years. I guess there is a lot of latitude in what you can say when writing about a topic that does not exist. A friend of mine once published a book called <emphasis>Snakes of Hawaii</emphasis>. A number of libraries wrote him, ordering copies. Well, there are no snakes in Hawaii. All the pages of his book are blank.</p>
+   <p>Of course, in science fiction no pretense is made that the worlds described are real. This is why we call it fiction. The reader is warned in advance not to believe what he is about to read. Equally true, the visitors to Disneyland understand that Mr. Toad does not really exist and that the pirates are animated by motors and servo-assist mechanisms, relays, and electronic circuits. So no deception is taking place.</p>
+   <p>And yet the strange thing is, in some way, some real way, much of what appears under the title “science fiction” is true. It may not be literally true, I suppose. We have not really been invaded by creatures from another star system, as depicted in <emphasis>Close Encounters of the Third Kind</emphasis>. The producers of that film never intended for us to believe it. Or did they?</p>
+   <p>And, more important, if they did intend to state this, is it actually true? That is the issue: not, Does the author or producer believe it, but—Is it true? Because, quite by accident, in the pursuit of a good yarn, a science fiction author or producer or scriptwriter might stumble onto the truth. . . and only later on realize it.</p>
+   <p>The basic tool for the manipulation of reality is the manipulation of words. If you can control the meaning of words, you can control the people who must use the words. George Orwell made this clear in his novel <emphasis>1984</emphasis>. But another way to control the minds of people is to control their perceptions. If you can get them to see the world as you do, they will think as you do. Comprehension follows perception. How do you get them to see the reality you see? After all, it is only one reality out of many. Images are a basic constituent: pictures. That is why the power of TV to influence young minds is so staggeringly vast. Words and pictures are synchronized. The possibility of total control of the viewer exists, especially the young viewer. TV viewing is a kind of sleeplearning. An EEC of a person watching TV shows that after about half an hour the brain decides that nothing is happening, and it goes into a hypnoidal twilight state, emitting alpha waves. This is because there is such little eye motion. In addition, much of the information is graphic and therefore passes into the right hemisphere of the brain, rather than being processed by the left, where the conscious personality is located. Recent experiments indicate that much of what we see on the TV screen is received on a subliminal basis. We only imagine that we consciously see what is there. The bulk of the messages elude our attention; literally, after a few hours of TV watching, we do not know what we have seen. Our memories are spurious, like our memories of dreams; the blank spaces are filled in retrospectively. And falsified. We have participated unknowingly in the creation of a spurious reality, and then we have obligingly fed it to ourselves. We have colluded in our own doom.</p>
+   <p>And—and I say this as a professional fiction writer—the producers, scriptwriters, and directors who create these video/audio worlds do not know how much of their content is true. In other words, they are victims of their own product, along with us. Speaking for myself, I do not know how much of my writing is true, or <emphasis>which </emphasis>parts (if any) are true. This is a potentially lethal situation. We have fiction mimicking truth, and truth mimicking fiction. We have a dangerous overlap, a dangerous blur. And in all probability it is not deliberate. In fact, that is part of the problem. You cannot legislate an author into correctly labeling his product, like a can of pudding whose ingredients are listed on the label. . . you cannot compel him to declare what part is true and what isn’t if he himself does not know.</p>
+   <p>It is an eerie experience to write something into a novel, believing it is pure fiction, and to learn later on—perhaps years later—that it is true. I would like to give you an example. It is something that I do not understand. Perhaps you can come up with a theory. I can’t.</p>
+   <p>In 1970, I wrote a novel called <emphasis>Flow My Tears, the Policeman Said</emphasis>. One of the characters is a nineteen-year-old girl named Kathy. Her husband’s name is Jack. Kathy appears to work for the criminal underground, but later, as we read deeper into the novel, we discover that actually she is working for the police. She has a relationship going on with a police inspector. The character is pure fiction. Or at least I thought it was.</p>
+   <p>Anyhow, on Christmas Day of 1970, I met a girl named Kathy—this was after I had finished the novel, you understand. She was nineteen years old. Her boyfriend was named Jack. I soon learned that Kathy was a drug dealer. I spent months trying to get her to give up dealing drugs; I kept warning her again and again that she would get caught. Then, one evening when we were entering a restaurant together, Kathy stopped short and said, “I can’t go in.” Seated in the restaurant was a police inspector whom I knew. “I have to tell you the truth,” Kathy said. “I have a relationship with him.”</p>
+   <p>Certainly, these are odd coincidences. Perhaps I have precognition. But the mystery becomes even more perplexing; the next stage totally baffles me. It has for four years.</p>
+   <p>In 1974 the novel was published by Doubleday. One afternoon I was talking to my priest—I am an Episcopalian—and I happened to mention to him an important scene near the end of the novel in which the character Felix Buckman meets a black stranger at an all-night gas station, and they begin to talk. As I described the scene in more and more detail, my priest became progressively more agitated. At last he said, “That is a scene from the Book of Acts, from the Bible! In Acts, the person who meets the black man on the road is named Philip—your name.” Father Rasch was so upset by the resemblance that he could not even locate the scene in his Bible. “Read Acts,” he instructed me. “And you’ll agree. It’s the same down to specific details.”</p>
+   <p>I went home and read the scene in Acts. Yes, Father Rasch was right; the scene in my novel was an obvious retelling of the scene in Acts. . . and I had never read Acts, I must admit. But again the puzzle became deeper. In Acts, the high Roman official who arrests and interrogates St. Paul is named Felix—the same name as my character. And my character Felix Buckman is a high-ranking police general; in fact, in my novel he holds the same office as Felix in the Book of Acts: the final authority. There is a conversation in my novel that very closely resembles a conversation between Felix and Paul.</p>
+   <p>Well, I decided to try for any further resemblances. The main character in my novel is named Jason. I got an index to the Bible and looked to see if anyone named Jason appears anywhere in the Bible. I couldn’t remember any. Well, a man named Jason appears once and only once in the Bible. It is in the Book of Acts. And, as if to plague me further with coincidences, in my novel Jason is fleeing from the authorities and takes refuge in a person’s house, and in Acts the man named Jason shelters a fugitive from the law in his house—an exact inversion of the situation in my novel, as if the mysterious Spirit responsible for all this was having a sort of laugh about the whole thing.</p>
+   <p>Felix, Jason, and the meeting on the road with the black man who is a complete stranger. In Acts, the disciple Philip baptizes the black man, who then goes away rejoicing. In my novel, Felix Buckman reaches out to the black stranger for emotional support, because Felix Buckman’s sister has just died and he is falling apart psychologically. The black man stirs up Buckman’s spirits and although Buckman does not go away rejoicing, at least his tears have stopped falling. He had been flying home, weeping over the death of his sister, and had to reach out to someone, anyone, even a total stranger. It is an encounter between two strangers on the road that changes the life of one of them—both in the novel and in Acts. And one final quirk by the mysterious Spirit at work: The name Felix is the Latin word for “happy.” Which I did not know when I wrote the novel.</p>
+   <p>A careful study of my novel shows that for reasons that I cannot even begin to explain, I had managed to retell several of the basic incidents from a particular book of the Bible, and even had the right names. What could explain this? That was four years ago that I discovered all this. For four years I have tried to come up with a theory and I have not. I doubt if I ever will.</p>
+   <p>But the mystery had not ended there, as I had imagined. Two months ago I was walking up to the mailbox late at night to mail off a letter, and also to enjoy the sight of St. Joseph’s Church, which sits opposite my apartment building. I noticed a man loitering suspiciously by a parked car. It looked as if he was attempting to steal the car, or maybe something from it; as I returned from the mailbox, the man hid behind a tree. On impulse I walked up to him and asked, “Is anything the matter?”</p>
+   <p>“I’m out of gas,” the man said. “And I have no money.”</p>
+   <p>Incredibly, because I have never done this before, I got out my wallet, took all the money from it, and handed the money to him. He then shook hands with me and asked where I lived, so that he could later pay the money back. I returned to my apartment, and then I realized the money would do him no good, since there was no gas station within walking distance. So I returned, in my car. The man had a metal gas can in the trunk of his car, and, together, we drove in my car to an all-night gas station. Soon we were standing there, two strangers, as the pump jockey filled the metal gas can. Suddenly I realized that this was the scene in my novel—the novel written eight years before. The all-night gas station was exactly as I had envisioned it in my inner eye when I wrote the scene—the glaring white light, the pump jockey—and now I saw something that I had not seen before. The stranger whom I was helping was black.</p>
+   <p>We drove back to his stalled car with the gas, shook hands, and then I returned to my apartment building. I never saw him again. He could not pay me back because I had not told him which of the many apartments was mine or what my name was. I was terribly shaken up by the experience. I had literally lived out a scene completely as it had appeared in my novel. Which is to say, I had lived out a sort of replica of the scene in Acts where Philip encounters the black man on the road.</p>
+   <p>What could explain all this?</p>
+   <p>The answer I have come up with may not be correct, but it is the only answer I have. It has to do with time. My theory is this: In some certain important sense, <emphasis>time is not real</emphasis>. Or perhaps it is real, but not as we experience it to be or imagine it to be. I had the acute, overwhelming certitude (and still have) that despite all the change we see, a specific permanent landscape underlies the world of change: and that this invisible underlying landscape is that of the Bible; it, specifically, is the period immediately following the death of Christ; it is, in other words, the time period of the Book of Acts.</p>
+   <p>Parmenides would be proud of me. I have gazed at a constantly changing world and declared that underneath it lies the eternal, the unchanging, the absolutely real. But how has this come about? If the real time is circa A.D. 50, then why do we see A.D. 1978? And if we are really living in the Roman Empire somewhere in Syria, why do we see the United States?</p>
+   <p>During the Middle Ages, a curious theory arose, which I will now present to you for what it is worth. It is the theory that the Evil One—Satan—is the “Ape of God.” That he creates spurious imitations of creation, and then interpolates them for that authentic creation. Does this odd theory help explain my experience? Are we to believe that we are occluded, that we are deceived, that it is not 1978 but A.D. 50. . . and Satan has spun a counterfeit reality to wither our faith in the return of Christ?</p>
+   <p>I can just picture myself being examined by a psychiatrist. The psychiatrist says, “What year is it?” And I reply, “A.D. 50.” The psychiatrist blinks and then asks, “And where are you?” I reply, “In Judaea.” “Where the heck is that?” the psychiatrist asks. “It’s part of the Roman Empire,” I would have to answer. “Do you know who is president?” the psychiatrist would ask, and I would answer, “The Procurator Felix.” “You’re pretty sure about this?” the psychiatrist would ask, meanwhile giving a covert signal to two very large psych techs. “Yep,” I’d reply. “Unless Felix has stepped down and been replaced by the Procurator Festus. You see, St. Paul was held by Felix for — ” “Who told you all this?” the psychiatrist would break in, irritably, and I would reply, “The Holy Spirit.” And after that I’d be in the rubber room, inside gazing out, and knowing exactly how come I was there.</p>
+   <p>Everything in that conversation would be true, in a sense, although palpably not true in another. I know perfectly well that the date is 1978 and that Jimmy Carter is president and that I live in Santa Ana, California, in the United States. I even know how to get from my apartment to Disneyland, a fact I can’t seem to forget. And surely no Disneyland existed back at the time of St. Paul.</p>
+   <p>So if I force myself to be very rational and reasonable, and all those other good things, I must admit that the existence of Disneyland (which I know is real) proves that we are not living in Judaea in A.D. 50. The idea of St. Paul whirling around in the giant teacups while composing First Corinthians, as Paris TV films him with a telephoto lens—that just can’t be. St. Paul would never go near Disneyland. Only children, tourists, and visiting Soviet high officials ever go to Disneyland. Saints do not.</p>
+   <p>But somehow that biblical material snared my unconscious and crept into my novel, and equally true, for some reason in 1978 I relived a scene that I described back in 1970. What I am saying is this: There is internal evidence in at least one of my novels that another reality, an unchanging one, exactly as Parmenides and Plato suspected, underlies the visible phenomenal world of change, and somehow, in some way, perhaps to our surprise, we can cut through to it. Or, rather, a mysterious Spirit can put us in touch with it, if it wishes us to see this permanent other landscape. Time passes, thousands of years pass, but at the same instant that we see this contemporary world, the ancient world, the world of the Bible, <emphasis>is concealed beneath it</emphasis>, still there and still real. Eternally so.</p>
+   <p>Shall I go for broke and tell you the rest of this peculiar story? I’ll do so, having gone this far already. My novel <emphasis>Flow My Tears, the Policeman Said</emphasis> was released by Doubleday in February 1974. The week after it was released, I had two impacted wisdom teeth removed, under sodium pentothol. Later that day I found myself in intense pain. My wife phoned the oral surgeon and he phoned a pharmacy. Half an hour later there was a knock at my door: the delivery person from the pharmacy with the pain medication. Although I was bleeding and sick and weak, I felt the need to answer the knock on the door myself. When I opened the door, I found myself facing a young woman—who wore a shimmering gold necklace in the center of which was a gleaming gold fish. For some reason I was hypnotized by the gleaming gold fish; I forgot my pain, forgot the medication, forgot why the girl was there. I just kept staring at the fish sign.</p>
+   <p>“What does that mean?” I asked her.</p>
+   <p>The girl touched the glimmering golden fish with her hand and said, “This is a sign worn by the early Christians.” She then gave me the package of medication.</p>
+   <p>In that instant, as I stared at the gleaming fish sign and heard her words, I suddenly experienced what I later learned is called <emphasis>anamnesis</emphasis>—a Greek word meaning, literally, “loss of forgetfulness.” I remembered who I was and where I was. In an instant, in the twinkling of an eye, it all came back to me. And not only could I remember it but I could see it. The girl was a secret Christian and so was I. We lived in fear of detection by the Romans. We had to communicate with cryptic signs. She had just told me all this, and it was true.</p>
+   <p>For a short time, as hard as this is to believe or explain, I saw fading into view the black, prisonlike contours of hateful Rome. But, of much more importance, I remembered Jesus, who had just recently been with us, and had gone temporarily away, and would very soon return. My emotion was one of joy. We were secretly preparing to welcome Him back. It would not be long. And the Romans did not know. They thought He was dead, forever dead. That was our great secret, our joyous knowledge. Despite all appearances, Christ was going to return, and our delight and anticipation were boundless.</p>
+   <p>Isn’t it odd that this strange event, this recovery of lost memory, occurred only a week after <emphasis>Flow My Tears</emphasis> was released? And it is <emphasis>Flow My Tears</emphasis> that contains the replication of people and events from the Book of Acts, which is set at the precise moment in time—just after Jesus’ death and resurrection—that I remembered, by means of the golden fish sign, as having just taken place?</p>
+   <p>If you were me, and had this happened to you, I’m sure you wouldn’t be able to leave it alone. You would seek a theory that would account for it. For over four years now, I have been trying one theory after another: circular time, frozen time, timeless time, which is called “sacred” as contrasted to “mundane” time. . . I can’t count the theories I’ve tried out.</p>
+   <p>One constant has prevailed, though, throughout all the theories. There must indeed be a mysterious Holy Spirit that has an exact and intimate relation to Christ, that can indwell in human minds, guide and inform them, and even express itself through those humans, even without their awareness.</p>
+   <p>In the writing of <emphasis>Flow My Tears</emphasis>, back in 1970, there was one unusual event that I realized at the time was not ordinary, was not a part of the regular writing process. I had a dream one night, an especially vivid dream. And when I awoke I found myself under the compulsion—the absolute necessity—of getting the dream into the text of the novel precisely as I had dreamed it. In getting the dream exactly right, I had to do eleven drafts of the final part of the manuscript, until I was satisfied.</p>
+   <p>I will now quote from the novel, as it appeared in the final, published form. See if this dream reminds you of anything.</p>
+   <cite>
+    <p>The countryside, brown and dry, in summer, where he had lived as a child. He rode a horse, and approaching him on his left a squad of horses nearing slowly. On the horses rode men in shining robes, each a different color; each wore a pointed helmet that sparkled in the sunlight. The slow, solemn knights passed him and as they traveled by he made out the face of one: an ancient marble face, a terribly old man with rippling cascades of white beard. What a strong nose he had. What noble features. So tired, so serious, so far beyond ordinary men. Evidently he was a king.</p>
+    <p>Felix Buckman let them pass; he did not speak to them and they said nothing to him. Together, they all moved toward the house from which he had come. A man had sealed himself up inside the house, a man alone, Jason Taverner, in the silence and darkness, without windows, by himself from now on into eternity. Sitting, merely existing, inert. Felix Buckman continued on, out into the open countryside. And then he heard from behind him one dreadful single shriek. They had killed Taverner, and seeing them enter, sensing them in the shadows around him, knowing what they intended to do with him, Taverner had shrieked.</p>
+    <p>Within himself Felix Buckman felt absolute and utter desolate grief. But in the dream he did not go back nor look back. There was nothing that could be done. No one could have stopped the posse of varicolored men in robes; they could not have been said no to. Anyhow, it was over. Taverner was dead.</p>
+   </cite>
+   <p>This passage probably does not suggest any particular thing to you, except a law posse exacting judgment on someone either guilty or considered guilty. It is not clear whether Taverner has in fact committed some crime or is merely believed to have committed some crime. I had the impression that he was guilty, but that it was a tragedy that he had to be killed, a terribly sad tragedy. In the novel, this dream causes Felix Buckman to begin to cry, and therefore he seeks out the black man at the all-night gas station.</p>
+   <p>Months after the novel was published, I found the section in the Bible to which this dream refers. It is Daniel, 7:9:</p>
+   <cite>
+    <p>Thrones were set in place and one ancient in years took his seat. His robe was white as snow and the hair of his head like cleanest wool. Flames of fire were his throne and its wheels blazing fire; a flowing river of fire streamed out before him. Thousands upon thousands served him and myriads upon myriads attended his presence. The court sat, and the books were opened.</p>
+   </cite>
+   <p>This white-haired old man appears again in Revelation, 1:13:</p>
+   <cite>
+    <p>I saw. . . one like a son of man, robed down to his feet, with a golden girdle round his breast. The hair of his head was white as snow-white wool, and his eyes blazed like fire; his feet gleamed like burnished brass refined in a furnace, and his voice was like the sound of rushing waters.</p>
+   </cite>
+   <p>And then 1:17:</p>
+   <cite>
+    <p>When I saw him, I fell at his feet as though dead. But he laid his right hand upon me and said, “Do not be afraid. I am the first and the last, and I am the living one, for I was dead and now I am alive forever-more, and I hold the keys of Death and Death’s domain. Write down therefore what you have seen, what is now, and what will be hereafter.”</p>
+   </cite>
+   <p>And, like John of Patmos, I faithfully wrote down what I saw and put it in my novel. And it was true, although at the time I did not know who was meant by this description:</p>
+   <cite>
+    <p>He made out the face of one: an ancient marble face, a terribly old man with rippling cascades of white beard. What a strong nose he had. What noble features. So tired, so serious, so far beyond ordinary men. Evidently he was a king.</p>
+   </cite>
+   <p>Indeed he was a king. He is Christ Himself returned, to pass judgment. And this is what he does in my novel: He passes judgment on the man sealed up in darkness. The man sealed up in darkness must be the Prince of Evil, the Force of Darkness. Call it whatever you wish, its time had come. It was judged and condemned. Felix Buckman could weep at the sadness of it, but he knew that the verdict could not be disputed. And so he rode on, without turning or looking back, hearing only the shriek of fear and defeat: the cry of evil destroyed.</p>
+   <p>So my novel contained material from other parts of the Bible, as well as the sections from Acts. Deciphered, my novel tells a quite different story from the surface story (which we need not go into here). The real story is simply this: the return of Christ, now king rather than suffering servant. Judge rather than victim of unfair judgment. Everything is reversed. The core message of my novel, without my knowing it, was a warning to the powerful: You will shortly be judged and condemned. Who, specifically, did it refer to? Well, I can’t really say; or rather would prefer not to say. I have no certain knowledge, only an intuition. And that is not enough to go on, so I will keep my thoughts to myself. But you might ask yourselves what political events took place in this country between February 1974 and August 1974. Ask yourself who was judged and condemned, and fell like a flaming star into ruin and disgrace. The most powerful man in the world. And I feel as sorry for him now as I did when I dreamed that dream. “That poor, poor man,” I once said to my wife, with tears in my eyes. “Shut up in the darkness, playing the piano in the night to himself, alone and afraid, knowing what’s to come.” For God’s sake, let us forgive him, finally. But what was done to him and all his men—“all the President’s men,” as it’s put—had to be done. But it is over, and he should be let out into the sunlight again; no creature, no person, should be shut up in darkness forever, in fear. It is not humane.</p>
+   <p>Just about the time that the Supreme Court was ruling that the Nixon tapes had to be turned over to the special prosecutor, I was eating at a Chinese restaurant in Yorba Linda, the town in California where Nixon went to school—where he grew up, worked at a grocery store, where there is a park named after him, and of course the Nixon house, simple clapboard and all that. In my fortune cookie, I got the following fortune:</p>
+   <cite>
+    <p>DEEDS DONE IN SECRET HAVE A WAY OF BECOMING FOUND OUT</p>
+   </cite>
+   <p>I mailed the slip of paper to the White House, mentioning that the Chinese restaurant was located within a mile of Nixon’s original house, and I said, “I think a mistake has been made; by accident I got Mr. Nixon’s fortune. Does he have mine?” The White House did not answer.</p>
+   <p>Well, as I said earlier, an author of a work of supposed fiction might write the truth and not know it. To quote Xenophanes, another pre−Socratic: “Even if a man should chance to speak the most complete truth, yet he himself does not know it; all things are wrapped in <emphasis>appearances</emphasis>” (Fragment 34). And Heraclitus added to this: “The nature of things is in the habit of concealing itself” (Fragment 54). W. S. Gilbert, of Gilbert and Sullivan, put it: “Things are seldom as they seem; skim milk masquerades as cream.” The point of all this is that we cannot trust our senses and probably not even our <emphasis>a priori</emphasis> reasoning. As to our senses, I understand that people who have been blind from birth and are suddenly given sight are amazed to discover that objects appear to get smaller and smaller as they get farther away. Logically, there is no reason for this. We, of course, have come to accept this, because we are used to it. We see objects get smaller, but we know that in actuality they remain the same size. So even the common everyday pragmatic person utilizes a certain amount of sophisticated discounting of what his eyes and ears tell him.</p>
+   <p>Little of what Heraclitus wrote has survived, and what we do have is obscure, but Fragment 54 is lucid and important: “Latent structure is master of obvious structure.” This means that Heraclitus believed that a veil lay over the true landscape. He also may have suspected that time was somehow not what it seemed, because in Fragment 52 he said: “Time is a child at play, playing draughts; a child’s is the kingdom.” This is indeed cryptic. But he also said, in Fragment 18: “If one does not expect it, one will not find out the unexpected; it is not to be tracked down and no path leads us to it.” Edward Hussey, in his scholarly book <emphasis>The Pre−Socratics</emphasis>, says:</p>
+   <cite>
+    <p>If Heraclitus is to be so insistent on the lack of understanding shown by most men, it would seem only reasonable that he should offer further instructions for penetrating to the truth. The talk of riddle-guessing suggests that some kind of revelation, beyond human control, is necessary. . . . The true wisdom, as has been seen, is closely associated with God, which suggests further that in advancing wisdom a man becomes like, or a part of, God.</p>
+   </cite>
+   <p>This quote is not from a religious book or a book on theology; it is an analysis of the earliest philosophers by a Lecturer in Ancient Philosophy at the University of Oxford. Hussey makes it clear that to these early philosophers there was no distinction between philosophy and religion. The first great quantum leap in Greek theology was by Xenophanes of Colophon, born in the midsixth century B.C. Xenophanes, without resorting to any authority except that of his own mind, says:</p>
+   <cite>
+    <p>One god there is, in no way like mortal creatures either in bodily form or in the thought of his mind. The whole of him sees, the whole of him thinks, the whole of him hears. He stays always motionless in the same place; it is not fitting that he should move about now this way, now that.</p>
+   </cite>
+   <p>This is a subtle and advanced concept of God, evidently without precedent among the Greek thinkers. “The arguments of Parmenides seemed to show that all reality must indeed be a mind,” Hussey writes, “or an object of thought in a mind.” Regarding Heraclitus specifically, he says, “In Heraclitus it is difficult to tell how far the designs in God’s mind are distinguished from the execution in the world, or indeed how far God’s mind is distinguished from the world.” The further leap by Anaxagoras has always fascinated me. “Anaxagoras had been driven to a theory of the microstructure of matter that made it, to some extent, mysterious to human reason.” Anaxagoras believed that <emphasis>everything</emphasis> was determined by Mind. These were not childish thinkers, not primitives. They debated serious issues and studied one another’s views with deft insight. It was not until the time of Aristotle that their views got reduced to what we can neatly—but wrongly—classify as crude. The summation of much pre−Socratic theology and philosophy can be stated as follows: The <emphasis>kosmos</emphasis> is not as it appears to be, and what it probably is, at its deepest level, is exactly that which the human being is at his deepest level—call it mind or soul, it is something unitary that lives and thinks, and only appears to be plural and material. Much of this view reaches us through the Logos doctrine regarding Christ. The Logos was both that which thought and the thing that it thought: thinker and thought together. The universe, then, is thinker and thought, and since we are part of it, we as humans are, in the final analysis, thoughts of and thinkers of those thoughts.</p>
+   <p>Thus if God thinks about Rome circa A.D. 50, then Rome circa A.D. 50 is. The universe is not a windup clock and God the hand that winds it. The universe is not a battery-powered watch and God the battery. Spinoza believed that the universe is the body of God extensive in space. But long before Spinoza—two thousand years before him—Xenophanes has said, “Effortlessly, he wields all things by the thought of his mind” (Fragment 25).</p>
+   <p>If any of you have read my novel <emphasis>Ubik</emphasis>, you know that the mysterious entity or mind or force called Ubik starts out as a series of cheap and vulgar commercials and winds up saying:</p>
+   <cite>
+    <p>I am Ubik. Before the universe was I am. I made the suns. I made the worlds. I created the lives and the places they inhabit; I move them here, I put them there. They go as I say, they do as I tell them. I am the word and my name is never spoken, the name which no one knows. I am called Ubik but that is not my name. I am. I shall always be.</p>
+   </cite>
+   <p>It is obvious from this who and what Ubik is; it specifically says that it is the word, which is to say, the Logos. In the German translation, there is one of the most wonderful lapses of correct understanding that I have ever come across; God help us if the man who translated my novel <emphasis>Ubik</emphasis> into German were to do a translation from the <emphasis>koine</emphasis> Greek into German of the New Testament. He did all right until he got to the sentence “I am the word.” That puzzled him. What can the author mean by that? he must have asked himself, obviously never having come across the Logos doctrine. So he did as good a job of translation as possible. In the German edition, the Absolute Entity that made the suns, made the worlds, created the lives and the places they inhabit, says of itself:</p>
+   <cite>
+    <p>I am the brand name.</p>
+   </cite>
+   <p>Had he translated the Gospel according to St. John, I suppose it would have come out as:</p>
+   <cite>
+    <p>When all things began, the brand name already was. The brand name dwelt with God, and what God was, the brand name was.</p>
+   </cite>
+   <p>It would seem that I not only bring you greetings from Disneyland but [also] from Mortimer Snerd. Such is the fate of an author who hoped to include theological themes in his writing. “The brand name, then, was with God at the beginning, and through him all things came to be; no single thing was created without him.” So it goes with noble ambitions. Let’s hope God has a sense of humor.</p>
+   <p>Or should I say, Let’s hope the brand name has a sense of humor.</p>
+   <p>As I said to you earlier, my two preoccupations in my writing are “What is reality?” and “What is the authentic human?” I’m sure you can see by now that I have not been able to answer the first question. I have an abiding intuition that somehow the world of the Bible is a literally real but veiled landscape, never changing, hidden from our sight, but available to us by revelation. That is all I can come up with—a mixture of mystical experience, reasoning, and faith. I would like to say something about the traits of the authentic human, though; in this quest I have had more plausible answers.</p>
+   <p>The authentic human being is one of us who instinctively knows what he should not do, and, in addition, he will balk at doing it. He will refuse to do it, even if this brings down dread consequences to him and to those whom he loves. This, to me, is the ultimately heroic trait of ordinary people; they say <emphasis>no</emphasis> to the tyrant and they calmly take the consequences of this resistance. Their deeds may be small and almost always unnoticed, unmarked by history. Their names are not remembered, nor did these authentic humans expect their names to be remembered. I see their authenticity in an odd way: not in their willingness to perform great heroic deeds but in their quiet refusals. In essence, they cannot be compelled to be what they are not.</p>
+   <p>The power of spurious realities battering at us today—these deliberately manufactured fakes never penetrate to the heart of true human beings. I watch the children watching TV and at first I am afraid of what they are being taught, and then I realize, they can’t be corrupted or destroyed. They watch, they listen, they understand, and then, where and when it is necessary, they reject. There is something enormously powerful in a child’s ability to withstand the fraudulent. A child has the clearest eye, the steadiest hand. The hucksters, the promoters, are appealing for the allegiance of these small people in vain. True, the cereal companies may be able to market huge quantities of junk breakfasts; the hamburger and hot dog chains may sell endless numbers of unreal fast-food items to the children, but the deep heart beats firmly, unreached and unreasoned with. A child of today can detect a lie quicker than the wisest adult of two decades ago. When I want to know what is true, I ask my children. They do not ask me; I turn to them.</p>
+   <p>One day while my son Christopher, who is four, was playing in front of me and his mother, we two adults began discussing the figure of Jesus in the Synoptic Gospels. Christopher turned toward us for an instant and said, “I am a fisherman. I fish for fish.” He was playing with a metal lantern that someone had given me, that I had never used. . . and suddenly I realized that the lantern was shaped like a fish. I wonder what thoughts were being placed in my little boy’s soul at that moment—and not placed there by cereal merchants or candy peddlers. “I am a fisherman. I fish for fish.” Christopher, at four, had found the sign I did not find until I was forty-five years old.</p>
+   <p>Time is speeding up. And to what end? Maybe we were told that two thousand years ago. Or maybe it wasn’t really that long ago; maybe it is a delusion that so much time has passed. Maybe it was a week ago, or even earlier today. Perhaps time is not only speeding up; perhaps, in addition, it is going to end.</p>
+   <p>And if it does, the rides at Disneyland are never going to be the same again. Because when time ends, the birds and hippos and lions and deer at Disneyland will no longer be simulations, and, for the first time, a real bird will sing.</p>
+   <p>Thank you.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAHbAT0DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3s6ZY5wLK1P8A2yX/AApBptiT/wAeVr7f
+ul/wrE1XxFNDdbY1KKMEDru+tZ7eJNRJLLPjP+yK/MFg6sldM7/ao6z+x7M5xbQf9+V/w9/0
+pRpFn/z623frEv8AhXKw+JrxWyzMSevSrY8XXAJCWysvYsTmk8HXQ/axOiXSbUEEW1uB6CNc
+fy+n5U8aZajgW8AHtGBXPQ+Lpt4M1rEV7hCc/rU7eLAwIis/m7Fn4qHhK4/axNsadbf8+8X/
+AHwP8KDp8APEUQ/4CKwI/E95jLQwD2wf8afc+J7p9v2aKNOPm3Ann9KX1SsHtIm0dPiIOEjG
+f9kU4WEQ4Mcf/fArIi8SFolM8BMgP8JwDUM3iS8MuYoolTsGBJ/nR9VrbB7SJvi0QHgID7LT
+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
+/9k=</binary>
+ <binary id="i_001.png" content-type="image/png">iVBORw0KGgoAAAANSUhEUgAAAVwAAACxAQMAAACydZeHAAAABlBMVEUAAAD///+l2Z/dAAAA
+AnRSTlP/AOW3MEoAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAY4SURBVHja5Zm9jhxFEMd7PLLm
+hINJLF3GQIZAyA4JkNcZqSOQiPwGOHRgqXc1wYXwCA4BCfEINysHTpAwT0AfkSUC+sQZtY52
+L/3dVdWzY09AgNjgtHv3257qqup/Vdexw9u/JPtPw2ZYA/dr4HaNzc2alXdrVhZrYMlXwGqz
+AtZr4Dc6GoW7XQNv18DTVytgsVkBq2EFrPsVsOnWnJRV8P5fg8Ua+A1JiuEZR/9xFL6u3fH8
+KGy+ruCz44o0VnB7HK59Nx6HLyiLMoDAlaP1cByWFFYLcKUG6BcE1jQqYkHMq4zeLyk/VYNm
+Cd4uxKSCie90twSTJMVpSGHiO7lZgokaCL4CnuhJ+XPB0S2FLxYyuqMwTp5n6FNPYbyJ+JzX
+fGYHDqZJar5hjN34sa4yzgz0G8UNC6/fqZsdjKOkbz6NMPuIxtPCmoS0vM5FpUiool1bpvn8
+hy8PL+ybblfLF3Tm5Bb0767c12oYhskS6e3rB4zVMIiDYv2LsqmHrIogPGfbBiapIks7uCSH
+Znegc9R7rEp+AT5xmA+a36/OYHH91KNMUxyl+6X7pDLMNgi+sHbdAjnm4WSYvIF1xbrpQUPg
+nIjTKZbdz2xEt8U5ewfneG/9I4qjnUFTh+FkpWEcSYc372mxY/Rw9I9usXR4jyuW7eg8HLck
+Oiy7YePb01y4PCygyWUL4XDKm/n0elj+GmJNpGOKO0nwEGAOrCiaHK3LzgtwsHKbPciRhMj0
++02A++I49/gNkiOVnBUyxW9J5QQTeKPJaB1W9o6+yqmpOiyo0eiUgzvcATbY36KPwh7gCZee
+BnfI8UkyrizwXWKLy0tMAxFhq2mwLoXQCfKkBNssUD2tQnvy5WSGJWGHG7Y2kpolYwGy6bAj
+VYjDg9uHExSPb4MLT2dDBPQybD7De3w52B0EezLAz96sCIvHG1zBrUBujsHyIdL46XbDGMe1
+0z47wgorsRVTxUj5L7DGpdRYQWxI+bexSDBpd6zBOwJbZyeYtEoEdlESuStQJ8gbxiY3ujn0
+3iMRvryLYH2vNyccF/w2w89/6nGZbfUnHPUKLsQR7n/DEn8Y1ZMNau+c2TGRBuzoS6uYC3AW
+i7iyYOiCL3x5iPnMs1jElVWDYOkPQICt2MsBwdct6jWUrwcB/uWAjpX9m2lRs6D4mGGragbu
+UFu3opX1vTbDHZBD/7fzA0M9i7ndJ9jvBZQl+1TNPkAZ7utyUNFNkcM4FzF3GSdpGGGvE7KF
+x1t/iuFt7kW9UF3Du32rDE7aXYYn2qTqVuIG3ryf4bHqlZsLlM+HqwybZ0B3ool7zdAN5RFP
+KwfK3IJN2KMTGNJJJjiqkQZWbhm7dwpvICrBKVblwca2d7CDM6NKQUkpM5UHC9bCuqE7PZAe
+SRY71C2b4SUqcjA96b5KJfRuBE24CGrt4OlwICXdPwwch32IBeoYy4PdqkDSmlDIHTwW05DG
+dvA+IiLc49qR8yZvwfUFF7TZLoWzRdc9t11ZtfEM3YPyFtybqBugB05HKzQE2XdNPE3u6lH8
+OQ2wxKac9W6J8gVg2cGSmnLGO8kM9CKWEi/0vWnnXtncBwvDq1c8pQL1bCzdySx8Rk98jmkH
+K1mA4QAkdjh7EJoUqjMHoxIfNX2E172oPqOHUTUJRo+wKWG5JZQM3/nuc9j+cVBP/cr4zueP
+VnpYOHh9tkkyhTTNG50qhP9SiqqvsPgK+xfrQW/euULN8+GxMBlDNKCjsx4WTdbsGp5sXCQo
+f6wvI1bJyDRI2xbmshxFxU7L4FuyVxj+e8vu5GyR75ZLnhlmBuwvGWvBhfB0Ebai2BabmsMy
+bJd7h6e3A5wbzMBGuDv3h/bd9+h6fDb7TwHlb+gn7kf3Rlg+Tlf69mc0zJhd+fw6wh9rDocZ
+c7CN6QvP9geYZfMr+0P16otvv8ODs/mVwVgGlrt5GBx3cxO2PnNwPz8bUrNBGeZHcLMro+YI
+Vn8+B2/mh1+zMDrBQGLNnBnybaeX1TAQzahm4Iujo7IZGM3VzLgMnx2dstUw+a+KWAND3axh
+Ms5VizAZu0HfzcDHR9s1LPhRT9bw/vjnGqbT+2kJpuNqWNrZcgBRxtYwnZqbBdhs3vZfJO51
+vgY+/J/hfwDqkNsTGZZj4wAAAABJRU5ErkJggg==</binary>
+ <binary id="i_002.png" content-type="image/png">iVBORw0KGgoAAAANSUhEUgAAAJEAAACJAQMAAAAWk0iWAAAABlBMVEUAAAD///+l2Z/dAAAA
+AnRSTlP/AOW3MEoAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABXSURBVHjaY/iPARoYBpPYBwY0
+wD40xX5gERvsYU/teHswBMU+DON4w/Ab/9CMI6LE+Id3foP6lxHERovLIS82Gm8NDAeGoNhw
+jjdsYkMxjvCkP+ZBGpcAPHO6dmGS7FwAAAAASUVORK5CYII=</binary>
+ <binary id="i_003.png" content-type="image/png">iVBORw0KGgoAAAANSUhEUgAAAJEAAACJAQMAAAAWk0iWAAAABlBMVEUAAAD///+l2Z/dAAAA
+AnRSTlP/AOW3MEoAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABXSURBVHjaY/iPARoYBpPYBwY0
+wD40xX5gERvsYU/teHswBMU+DON4w/Ab/9CMI6LE+Id3foP6lxHERovLIS82Gm8NDAeGoNhw
+jjdsYkMxjvCkP+ZBGpcAPHO6dmGS7FwAAAAASUVORK5CYII=</binary>
+ <binary id="i_004.png" content-type="image/png">iVBORw0KGgoAAAANSUhEUgAAAJEAAACCAQMAAAB8VLhVAAAABlBMVEUAAAD///+l2Z/dAAAA
+AnRSTlP/AOW3MEoAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABdSURBVHjaY/iPARoYqC32gwEC
+/v9/AGEwI4sdwC3GOPjF6BF+g0lsKMYRUWmNeYTFG/PwERsJ8QYHQP9+GCZiGH5jHz7x9gGL
+34ZFvLEP7/yG4V9+IuNyCIhREC4AOktGSVLvA68AAAAASUVORK5CYII=</binary>
+</FictionBook>

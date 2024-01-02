@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>The Macauley Circuit</book-title>
+   <date value="1956-08-01">1956</date>
+   <coverpage>
+    <image l:href="#macauley_circuit.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>FictionBook Editor Release 2.6</program-used>
+   <date value="2012-03-30">30 March 2012</date>
+   <id>D8CA3073-8DA2-4448-999B-CC59956B4AB4</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Fantastic Universe, August 1956</book-name>
+   <publisher>King-Size Publications, Inc.</publisher>
+   <year>1956</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Macauley Circuit</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>I don’t deny I destroyed Macauley’s diagram; I never did deny it, gentlemen. Of course I destroyed it, and for fine, substantial reasons. My big mistake was in not thinking the thing through at the beginning. When Macauley first brought me the circuit, I didn’t pay much attention to it—certainly not as much as it deserved. That was a mistake, but I couldn’t help myself. I was too busy cod­dling old Kolfmann to stop and think what the Macauley circuit really meant.</p>
+   <p>If Kolfmann hadn’t shown up just when he did, I would have been able to make a careful study of the circuit and, once I had seen all the implications, I would have put the diagram in the incinerator and Macauley right after it. This is nothing against Macauley, you understand; he’s a nice, clever boy, one of the finest minds in our whole research department. That’s his trouble.</p>
+   <p>He came in one morning while I was outlining my graph for the Beethoven Seventh that we were going to do the following week. I was adding some ultrasonics that would have delighted old Ludwig—not that he would have heard them, of course, but he would have <emphasis>felt </emphasis>them—and I was very pleased about my interpretation. Unlike some synthesizer-interpreters, I don’t believe in changing the score. I figure Beethoven knew what he was doing, and it’s not my business to patch up his symphony. All I was doing was <emphasis>strengthening </emphasis>it by adding the ultrasonics. They wouldn’t change the actual notes any, but there’d be that feeling in the air which is the great artistic triumph of synthesizing.</p>
+   <p>So I was working on my graph. When Macauley came in I was choosing the frequencies for the second movement, which is difficult because the movement is solemn but not <emphasis>too </emphasis>solemn. Just so. He had a sheaf of paper in his hand, and I knew immediately that he’d hit on something important, because no one interrupts an interpreter for something trivial.</p>
+   <p>“I’ve developed a new circuit, sir,” he said. “It’s based on the imperfect Kennedy Circuit of 2261.”</p>
+   <p>I remembered Kennedy—a brilliant boy, much like Macauley here. He had worked out a circuit which almost would have made synthesizing a symphony as easy as playing a harmonica. But it hadn’t quite worked—something in the process fouled up the ultrasonics and what came out was hellish to hear—and we never found out how to straighten things out. Kennedy disappeared about a year later and was never heard from again. All the young technicians used to tinker with his circuit for diversion, each one hoping he’d find the secret. And now Macauley had.</p>
+   <p>I looked at what he had drawn, and then up at him. Hewas standing there calmly, with a blank expression on his handsome, intelligent face, waiting for me to quiz him.</p>
+   <p>“This circuit controls the interpretative aspects of music, am I right?”</p>
+   <p>“Yes, sir. You can set the synthesizer for whatever esthetic you have in mind, and it’ll follow your instruction. You merely have to establish the esthetic coordinates—the work of a moment—and the synthesizer will handle the rest of the interpretation for you. But that’s not exactly the goal of my circuit, sir,” he said, gently, as if to hide from me the fact that he was telling me I had missed his point. “With minor modifications—”</p>
+   <p>He didn’t get a chance to tell me, because at that moment Kolfmann came dashing into my studio. I never lock my doors, because for one thing no one would dare come in without good and sufficient reason, and for another my analyst pointed out to me that working behind locked doors has a bad effect on my sensibilities, and reduces the esthetic potentialities of my interpretations. So I always work with my door unlocked and that’s how Kolfmann got in. And that’s what saved Macauley’s life, because if he had gone on to tell me what was on the tip of his tongue I would have regretfully incinerated him and his circuit right then and there.</p>
+   <empty-line/>
+   <p>Kolfmann was a famous name to those who loved music. He was perhaps eighty now, maybe ninety, if he had a good gerontologist, and he had been a great concert pianist many years ago. Those of us who knew something about pre-synthesizer musical history knew his name as we would that of Paganini or Horowitz or any other virtuoso of the past, and regarded him almost with awe.</p>
+   <p>Only all I saw now was a tall, terribly gaunt old man in ragged clothes who burst through my doors and headed straight for the synthesizer, which covered the whole north wall with its gleaming complicated bulk. He had a club in his hand thicker than his arm, and he was about to bash it down on a million credits’ worth of cybernetics when Macauley effortlessly walked over and took it away from him. I was still too flabbergasted to do much more than stand behind my desk in shock.</p>
+   <p>Macauley brought him over to me and I looked at him as if he were Judas.</p>
+   <p>“You old reactionary,” I said. “What’s the idea? You can get fined a fortune for wrecking a cyber—or didn’t you know that?”</p>
+   <p>“My life is ended anyway,” he said in a thick, deep, guttural voice. “It ended when your machines took over music.”</p>
+   <p>He took off his battered cap and revealed a full head of white hair. He hadn’t shaved in a couple of days, and his face was speckled with stiff-looking white stubble.</p>
+   <p>“My name is Gregor Kolfmann,” he said. “I’m sure you have heard of me.”</p>
+   <p>“Kolfmann, the pianist?”</p>
+   <p>He nodded, pleased despite everything. “Yes, Kolf­mann, the <emphasis>former </emphasis>pianist. You and your machine have taken away my life.”</p>
+   <p>Suddenly all the hate that had been piling up in me since he burst in—the hate any normal man feels for a cyberwrecker—melted, and I felt guilty and very humble before this old man. As he continued to speak, I realized that I—as a musical artist—had a responsibility to old Kolfmann. I still think that what I did was the right thing, whatever you say.</p>
+   <p>“Even after synthesizing became the dominant method of presenting music,” he said, “I continued my concert career for years. There were always some people who would rather see a man play a piano than a technician feed a tape through a machine. But I couldn’t compete forever.” He sighed. “After a while anyone who went to live concerts was called a reactionary, and I stopped getting bookings. I took up teaching for my living. But no one wanted to learn to play the piano. A few have studied with me for antiquarian reasons, but they are not artists, just curiosity-seekers. They have no artistic drive. You and your machine have killed art!”</p>
+   <p>I looked at Macauley’s circuit and at Kolfmann, and felt as if everything were dropping on me at once. I put away my graph for the Beethoven, partly because all the excitement would make it impossible for me to get anywhere with it today and partly because it would only make things worse if Kolfmann saw it. Macauley was still standing there, waiting to explain his circuit to me. I knew it was important, but I felt a debt to old Kolfmann, and I decided I’d take care of him before I let Macauley do any more talking.</p>
+   <p>“Come back later,” I told Macauley. “I’d like to discuss the implications of your circuit, as soon as I’m through talking to Mr. Kolfmann.”</p>
+   <p>“Yes, sir,” Macauley said, like the obedient puppet a technician turns into when confronted by a superior, and left. I gathered up the papers he had left me and put them neatly at a corner of my desk. I didn’t want Kolfmann to see <emphasis>them, </emphasis>either, though I knew they wouldn’t mean anything to him except as symbols of the machine he hated.</p>
+   <p>When Macauley had gone I gestured Kolfmann to a plush pneumochair, into which he settled with the distaste for excess comfort that is characteristic of his generation. I saw my duty plainly—to make things better for the old <emphasis>man.</emphasis></p>
+   <p>“We’d be glad to have you come to work for us, Mr. Kolfmann,” I began, smiling. “A man of your great gift—”</p>
+   <p>He was up out of that chair in a second, eyes blazing. “Work for you? I’d sooner see you and your machines dead and crumbling! You, you scientists—you’ve killed art, and now you’re trying to bribe me!”</p>
+   <p>“I was just trying to help you,” I said. “Since, in a manner of speaking, we’ve affected your livelihood, I thought I’d make things up to you.”</p>
+   <p>He said nothing, but stared at me coldly, with the anger of half a century burning in him.</p>
+   <p>“Look,” I said. “Let me show you what a great musical instrument the synthesizer itself is.” I rummaged in my cabinet and withdrew the tape of the Hohenstein Viola Concerto which we had performed in ’69—a rigorous twelve-tone work which is probably the most demanding, unplayable bit of music ever written. It was no harder for the synthesizer to counterfeit its notes than those of a Strauss waltz, of course, but a human violist would have needed three hands and a prehensile nose to convey any measure of Hohenstein’s musical thought. I activated the playback of the synthesizer and fed the tape in.</p>
+   <p>The music burst forth. Kolfmann watched the machine suspiciously. The pseudo-viola danced up and down the tone row while the old pianist struggled to place the work.</p>
+   <p>“Hohenstein?” he finally asked, timidly. I nodded.</p>
+   <p>I saw a conflict going on within him. For more years than he could remember he had hated us because we had made his art obsolete. But here I was showing him a use for the synthesizer that gave it a valid existence—it was synthesizing a work impossible for a human to play. He was unable to reconcile all the factors in his mind, and the struggle hurt. He got up uneasily and started for the door.</p>
+   <p>“Where are you going?”</p>
+   <p>“Away from here,” he said. “You are a devil.”</p>
+   <p>He tottered weakly through the door, and I let him go. The old man was badly confused, but I had a trick or two up my cybernetic sleeve to settle some of his problems and perhaps salvage him for the world of music. For, whatev­er else you say about me, particularly after this Macauley business, you can’t deny that my deepest allegiance is to music.</p>
+   <empty-line/>
+   <p>I stopped work on my Beethoven’s Seventh, and also put away Macauley’s diagram, and called in a couple of technicians. I told them what I was planning. The first line of inquiry, I decided, was to find out who Kolfmann’s piano teacher had been. They had the reference books out in a flash and we found out who—Gotthard Kellerman, who had died nearly sixty years ago. Here luck was with us. Central was able to locate and supply us with an old tape of the International Music Congress held at Stockholm in 2187, at which Kellerman had spoken briefly on <emphasis>The Development of the Pedal Technique: </emphasis>nothing very exciting, but it wasn’t what he was saying that interested us. We split his speech up into phonemes, analyzed, rearranged, evaluated, and finally went to the synthesizer and began feeding in tapes.</p>
+   <p>What we got back was a new speech in Kellerman’s voice, or a reasonable facsimile thereof. Certainly it would be good enough to fool Kolfmann, who hadn’t heard his old teacher’s voice in more than half a century. When we had everything ready I sent for Kolfmann, and a couple hours later they brought him in, looking even older and more worn.</p>
+   <p>“Why do you bother me?” he asked. “Why do you not let me die in peace?”</p>
+   <p>I ignored his questions. “Listen to this, Mr. Kolfmann.” I flipped on the playback, and the voice of Kellerman came out of the speaker.</p>
+   <p>“Hello, Gregor,” it said. Kolfmann was visibly startled. I took advantage of the prearranged pause in the recording to ask him if he recognized the voice. He nodded. I could see that he was frightened and suspicious, and I hoped the whole thing wouldn’t backfire.</p>
+   <p>“Gregor, one of the things I tried most earnestly to teach you—and you were my most attentive pupil—was that you must always be flexible. Techniques must con­stantly change, though art itself remains changeless. But have you listened to me? No.”</p>
+   <p>Kolfmann was starting to realize what we had done, I saw. His pallor was ghastly now.</p>
+   <p>“Gregor, the piano is an outmoded instrument. But there is a newer, a greater instrument available for you, and you deny its greatness. This wonderful new synthesizer can do all that the piano could do, and much more. It is a tremendous step forward.”</p>
+   <p>“All right,” Kolfmann said. His eyes were gleaming strangely. “Turn that machine off.”</p>
+   <p>I reached over and flipped off the playback.</p>
+   <p>“You are very clever,” he told me. “I take it you used your synthesizer to prepare this little speech for me.” I nodded.</p>
+   <p>He was silent an endless moment. A muscle flickered in his cheek. I watched him, not daring to speak.</p>
+   <p>At length he said, “Well, you have been successful, in your silly, theatrical way. You’ve shaken me.”</p>
+   <p>“I don’t understand.”</p>
+   <p>Again he was silent, communing with who knew what internal force. I sensed a powerful conflict raging within him. He scarcely seemed to see me at all as he stared into nothingness. I heard him mutter something in another language; I saw him pause and shake his great old head. And in the end he looked down at me and said, “Perhaps it is worth trying. Perhaps the words you put in Kellerman’s mouth were true. Perhaps. You are foolish, but I have been even more foolish than you. I have stubbornly resisted, when I should have joined forces with you. Instead of denouncing you, I should have been the first to learn how to create music with this strange new instru­ment. Idiot! Moron!”</p>
+   <p>I think he was speaking of himself in those last two words, but I am not sure. In any case, I had seen a demonstration of the measure of his greatness—the willingness to admit error and begin all over. I had not expected his cooperation; all I had wanted was an end to his hostility. But he had yielded. He had admitted error and was ready to rechart his entire career.</p>
+   <p>“It’s not too late to learn,” I said. “We could teach you.”</p>
+   <p>Kolfmann looked at me fiercely for a moment, and I felt a shiver go through me. But my elation knew no bounds. I had won a great battle for music, and I had won it with ridiculous ease.</p>
+   <empty-line/>
+   <p>He went away for a while to master the technique of the synthesizer. I gave him my best man, one whom I had been grooming to take over my place someday. In the meantime I finished my Beethoven, and the performance was a great success. And then I got back to Macauley and his circuit.</p>
+   <p>Once again things conspired to keep me from full reali­zation of the threat represented by the Macauley circuit. I did manage to grasp that it could easily be refined to eliminate almost completely the human element in musical interpretation. But it’s many years since I worked in the labs, and I had fallen out of my old habit of studying any sort of diagram and mentally tinkering with it and juggling it to see what greater use could be made of it.</p>
+   <p>While I examined the Macauley circuit, reflecting idly hat when it was perfected it might very well put me out of a job (since anyone would be able to create a musical interpretation, and artistry would no longer be an oper­ative factor) Kolfmann came in with some tapes. He looked twenty years younger; his face was bright and clean, his eyes were shining, and his impressive mane of hair waved grandly.</p>
+   <p>“I will say it again,” he told me as he put the tapes on my desk. “I have been a fool. I have wasted my life. Instead of tapping away at a silly little instrument, I might have created wonders with this machine. Look: I began with Chopin. Put this on.”</p>
+   <p>I slipped the tape into the synthesizer and the F Minor Fantaisie of Chopin came rolling into the room. I had heard the tired old warhorse a thousand times, but never like this.</p>
+   <p>“This machine is the noblest instrument I have ever played,” he said.</p>
+   <p>I looked at the graph he had drawn up for the piece, in his painstaking crabbed handwriting. The ultrasonics were literally incredible. In just a few weeks he had mastered subtleties I had spent fifteen years learning. He had dis­covered that skillfully chosen ultrasonics, beyond the range of human hearing but not beyond perception, could expand the horizons of music to a point the presynthesizer composers, limited by their crude instruments and faulty knowledge of sonics, would have found inconceivable.</p>
+   <p>The Chopin almost made me cry. It wasn’t so much the actual notes Chopin had written, which I had heard so often, as it was the unheard notes the synthesizer was striking, up in the ultrasonic range. The old man had chosen his ultrasonics with the skill of a craftsman—no, with the hand of a genius. I saw Kolfmann in the middle of the room, standing proudly while the piano rang out in a glorious tapestry of sound.</p>
+   <p>I felt that this was my greatest artistic triumph. My Beethoven symphonies and all my other interpretations were of no value beside this one achievement of putting the synthesizer in the hands of Kolfmann.</p>
+   <p>He handed me another tape and I put it on. It was the Bach Toccata and Fugue in D Minor; evidently he had worked first on the pieces most familiar to him. The sound of a super-organ roared forth from the synthesizer. We were buffeted by the violence of the music. And Kolfmann stood there while the Bach piece raged on. I looked at him and tried to relate him to the seedy old man who had tried to wreck the synthesizer not long ago, and I couldn’t.</p>
+   <p>As the Bach drew to its close I thought of the Macauley circuit again, and of the whole beehive of blank-faced handsome technicians striving to perfect the synthesizer by eliminating the one imperfect element—man. And I woke up.</p>
+   <p>My first decision was to suppress the Macauley circuit until after Kolfmann’s death, which couldn’t be too far off. I made this decision out of sheer kindness; you have to recognize that as my motive. Kolfmann, after all these years, was having a moment of supreme triumph, and if I let him know that no matter what he was doing with the synthesizer the new circuit could do it better, it would ruin everything. He would not survive the blow.</p>
+   <p>He fed the third tape in himself. It was the Mozart Requiem Mass, and I was astonished by the way he had mastered the difficult technique of synthesizing voices. Still, with the Macauley circuit, the machine could handle all these details by itself.</p>
+   <p>As Mozart’s sublime music swelled and rose, I took out the diagram Macauley had given me, and stared at it grimly. I decided to pigeonhole it until the old man died. Then I would reveal it to the world and, having been made useless myself (for interpreters like me would be a credit a hundred) I would sink into peaceful obscurity, with at least the assurance that Kolfmann had died happy.</p>
+   <p>That was sheer kindheartedness, gentlemen. Nothing malicious or reactionary about it. I didn’t intend to stop the progress of cybernetics, at least not at that point.</p>
+   <p>No, I didn’t decide to do that until I got a better look at what Macauley had done. Maybe be didn’t even realize it himself, but I used to be pretty shrewd about such things. Mentally, I added a wire or two here, altered a contact there, and suddenly the whole thing hit me.</p>
+   <p>A synthesizer hooked up with a Macauley circuit not only didn’t need a human being to provide an esthetic guide to its interpretation of music, which is all Macauley claimed. Up to now, the synthesizer could imitate the pitch of any sound in or out of nature, but we had to control the volume, the timbre, all the things which make up interpretation of music. Macauley had fixed it so that the synthesizer could handle this, too. But also, I now saw that it could create its own music, from scratch, with no human help. Not only the conductor but the composer would be unnecessary. The synthesizer would be able to function independently of any human being. And art is a function of human beings.</p>
+   <p>That was when I ripped up Macauley’s diagram and heaved the paperweight into the gizzard of my beloved synthesizer, cutting off the Mozart in the middle of a high C. Kolfmann turned around in horror, but I was the one who was really horrified.</p>
+   <p>I know. Macauley has redrawn his diagram and I haven’t stopped the wheels of science. I feel pretty futile about it all. But before you label me reactionary and stick me away, consider this:</p>
+   <p>Art is a function of intelligent beings. Once you create a machine capable of composing original music, capable of an artistic act, you’ve created an intelligent being. And one that’s a lot stronger and smarter than we are. We’ve synthesized our successor.</p>
+   <p>Gentlemen, we are all obsolete.</p>
+  </section>
+ </body>
+ <binary id="macauley_circuit.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEXAMkDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDovFNro/h+xjt5IbG2ht4I18zy1XJ2dScc
+k1zthfWeo2q3VlcxXMBJUPGQVyDgjj0NW/jvbXWpafbR2hXc9xbFiV3YUIcnArFdr3SPDUsq
+qNRuraJmxbwhDO/bCDgDJyfpXzUo82t9Wz9CwkFBW5Ukkne3kXbS/srq8ubKC5ie5tSBPGD8
+0eemadcXdtFcxWksyR3E4byY2ODJjrj1rzDw3oPibw/rem65cxw3K3shivUtyzTFZCTucHgb
+elavxN0e+1vxB4ctLaa5hVWmLXCRtiBgq7GJ7ZNKeDhKajzadyljJ+xcuT3r7W77HZQX1vM8
+yWt4jvBIYplU8o4GSpz3ANU7HxLo13fJZ2+uW887sVWON8sSM8D8jXO/Cyx1azTWk1tGF618
+GeTs5MYyVPerHhrTfL+I+vTtZCK28mAQuIAFz/Ft9/cVhLC06cpK+34mqqznCD5bcz18jptW
+1O30yzkvby9+z26L8zv0yTwKct0HA+bcrLkMOhBHB+lcN8R9O1vxHqFvoljbRiygT7RPLcbh
+FK5yAoKjPHXHrV7wENRt/Dsul6vbSibT2e280A7Z06gqe/HFc1ehTnRUubXt5EKo/byhyWXR
++aNzTPEWialfSWFjqUE9zCpLoueAOp6c49qyfGHiPw7BBJZXOrW8N7CyusTZyG7dB71y/wAN
+F1Gy8QXFraWN8mkpG7M1/aBGhkZvuhh1B9q2vGGlfavG+g3B077RbiO4N26Q7lztGNxP1OK7
+4YSlTqKN+l9zlliJyoc1tb22djbfVrFYbKS4uVjN6yxwE/8ALRyOgxUmqz2VjYPd3WpR20Cn
+BeQ4GfT61w96Zrm48K29lFM/2O9DvtjOFTHBP6itD4lWF1/aejag1lNf2NhOxubeFMkg9GC9
+GxV/VYqUY33uKOKm6cpJbW/4J2nhjVra7hjntLlZ4HJCSDo2Otbo5kZZeQw4xXIaFdw3thHd
+W1pLaIxYrHNF5bA+u0dDXX2ciTwISPnQcmnGmknA6b+6pMy9XtWiRWjH3Ofwrx/46eGUKR+J
+rKM/OAl4oPC/3W/pXvl5AJ7UYGX7Vxup6el1FeaXfRqI5UK88/K3GfwNVh6jo1LkYmgsVQlC
+Xy8mfLOMd6Wr/iPSp9E1u80y4HNvJtDeo7H8RWW7ENwRX0Kd0mj4CcHCTi90S0m5xwMYqLc/
++RUiEmMk9c0EjhuAyuKmJlWTyDhmyF+XnP0qOIZJNCuizAbSSD1oA7Cy8HT3OjWV2L5JZ7uO
+Vxax7d4GxjCSM5+cqR7ZHrVq+8GpDY3D2k8s7oMu3mIFUjgo3fduDDHHbsTUWiaJo+r6NLqb
+X02nzW1xF9qwAYYonl2AqclztHO7oCcZqt4t8N3GkxXF3HcAWRlU2rvdoXuRtB3oq/fGGB3D
+gdOtcjlJz5eb8DTlTWiKGk37Qs0Nyi3EKEAEIBJB/u/yI717x/wmPh3/AKC9v/4C182RzzJc
+RurHdv3bsc10n/CQXP8Az7Rf98V1bkJ2PqH4v+J18NW8V0bRrjescRAbbgeXnP6VwfiL4hxa
+Lo2lXzadLKNRjMiIJseWOvJ710H7SsJbQrXgKDJHvLcDHknP65rxv4pFW8L+DyoIU2Z4PbhP
+8TXk0aMZxTfVs+zniqlKL5HayR6PrfxBs9M8U2uhTWTZmEW6Yy/Kvmd8deKtWXjaOfxreeF/
+sEqPbb8S+d8rBVB6dec15B8Xy8fjhvmEZW0gJJ6ggZ/OtP4c6mdV+KN1qGWJmtZmJbrkRKD+
+orR4WCjzW6GUc1re19m31/A7Sx+KUWoaXqlymkzommRCUp5w+cFwuPbGc/nT5/iHbR+CLbxI
+dPLCa5MAtjN90jPzZx7Zrz74Y2b3+leLoQCS2nNtHqdzH+grClvWm+H9jpaP+8/tSY7e+DGu
+P5n86ieDpSdmtNPyEs0rwim3unbTrfQ9L134nLpclkn9hs5u7WO5wbjbt3544XnpTbP4mfa7
+bULltAeIWkAlYGTGfmCgfd981y/xLMeiePtEkkQiO0srUyBeoAJB/TFdh4p12x8SfDbW73SV
+nWJcRETKFJO9SMY61xVMHQp8tofFbXXuarG4iTnepZx6W30M23+McO5DdaG8UZ48xJQT15OM
+VteLviNYaLY20drANTlvofMRN20KhHDN7n0+teUXuq6a3w8tdDBZr+O/aZsx8Km3HDep9Ku+
+JbK90M+GdWubQvC1lCGDjjcpOVJ7HBzzXowwdGMlZWtf5nnvMsRKEk3fRa9r7nQeB/HcBu1W
+WzNvLBBMXG/iQZLqM4znPH0qab4vSTOCnhxzjB4uSevTotQaF4U0PVdFvfEunax514sUsk1k
+0QXyQVJx1zxxzWN8K/FOleHvtcGoRzu87xhPLAP3RjB5Hc/pV1KNN3ny3t0McPiqylGnzWT6
+nsnhTUjqug2uqtD5LXKlvL3ZK4JHX8K6DS7lUmKsDhsZrNjjIRSHx8v8xVm0gbfvJ6dDXiuU
+VO6PsqdN+z5ZanTpKisCOgGcVi+IIEZvtUaHcPvDuRV2ENweTgYJqZ4hNG0fcjB+hrWTjYxS
+5ZHgnx40JZrW38QWyfPERBc8YyvVGx+hrxsjFfW+q6TFqmk3elXCZjKNAeMk8cGvlfXrC403
+V7jTrlCs1u5jYYxnHQ/iMGvWwNZThyvofK57g/ZVVVjtL8yrG+U24PHJNSSRSqQrpgsu7qOh
+FQwoSc7cj6VIE+ZRg5HAruPAHxttQLjNPVkYgbSGJ4PvUYRwCSp+9jpSoG3ggHg80Ab+meKN
+bsdPisbW92WyEsI2hRgPm3Y5HK55weKZqnifWdSs5YL+8aaOVw5UouF4AwvGVHA4XArIHHTi
+jGRgDPtWfs483Nyq4+Z2sRiUeanB61e/ef3D+dZiZ87kfd/StH7PL/cP5VoI+lv2oYnl8NWo
+V8gSoc5x0iavG/iVdRTeGvB8EUkcsiWPKo2SM7RgjseK+kPiNpmm65YfYdRj82AxIeDgowXG
+4e9eW6L8MNC0/VkupLm5vmjO6KOZAFDZyCSOo/rXiYXEQhDle6ufbYjB1qkvctyyS/A5LxpY
+prHxgt7Bxj7THHFgjp+6zn8z0rO+C1u8fjqSKQFHitLhWB9QnP8AKvWrzwnZT+M4vFLXFwLm
+OQNtGzyyVGO4zUeleCtO03xLd+IraW58y4WTdEQAo3jBx3OK6HiocrV+hmspqurztdW/kcH+
+z4ouNR16Jh8rQKh9wWbiuL8IaVJc+PtP0jBdRqG1gemFbn9Fr3fwX4M03ws93Pps1wz3Aw/n
+MpUEE8Age/ejS/Auhab4qPiK2e5NyJnmEe9fLDP7Y6Dnv3rN4uCcnfdFvK6so04u14t39Gzz
+n4sLbP8AGLTBcGJrUrb+Z5uAm3c3XPGMV1/xDOhweANbh0V9OQbBIYrWRD0kUbsA5rT8W/Dn
+RfE2pjUNQuL2KVYVhZY2AXC5x1HvVGy+FegWlpeW1tPf7b2HyZGMiE43Bhjj2qHUpVIwcm9L
+fgVLBYiEqlopqV9b6njVxZix8LeH/EUMQMr3k6yMRkExspUEfTP516D478XSPrUOgtZ6bcaZ
+f21vMzToc/vFzkc4BAPUeldhL8N9Cl8Lw+G5Li7a2huWuY3EqiUFuCOmMVh/EPwFo9xZaNpt
+o1x9thgEKTFlZmXJIDDucYwfSur6xTm7s86rgq2GptLql9+1jzfwYU03xlqlpbTl7M2d3Cxz
+nzE8s4z+ODVj4XWumT2d7Ld3FjDNDLC8H2kqNzAEkDd74zXW/wDCvx4Y0lZBb3Ut9ebopJCo
+O1CpBAA6EjnNcxceCbPTnX+1otVjhI+boDj15HStFWhNOz3PNjQqxa909i8Navba3phnhESS
+p8sqBwcHpuGOoPbFau4iLAOMV5pYLpujabZXWiXzmW2BXZNjfIp/hOK73Rb3+0bIyhDHIfvR
+sMMjdxzXkVsPFSvHY+ywOKdSKjLc3bC4LADPJ7VpWbbpCcYyMVgWgZJVbouK2oZMICgz71l7
+N2OirHsR3VvGl3vxkOuSBx8wr5++PWgm11eHXoIwYrpDDPxwHA4P4j9RX0Bqc/lbJZOFSRQf
+cNwTXK/ETQv7a8PX2m+WokaMmNs4IkU7l/wrrwkvZTucGOw/1jDyg9916o+VBI4QLtx75p8L
+OzZxnHOanW3kMpjdQrL1DDOOcVJHFJDJgtGF9QK90+BkrEaiXGSMgnI9akVHEbPt6nGKt28K
+M5LSZIHAPem7XU7XVgByRmgRa8KaDqHiXWYdI05FN1McRqzYB/GjxboGpeGdeu9G1JUS5tXC
+OVbIORuBHtgj86rWN5d6feQahZXMlrdxNuieJtrxn1B9ai1i/vdRvp7/AFC7nuru4YvJNM+5
+3J7k96Wtynay01GJErBJCMASKH+mR/jW15bf3o/++aydK/fLPbtyTGWXPc1L/auq/wDP3dfp
+TJPue3ks4765jMapNJHAtrcTW/mxxHcPlZf9rpmsORV0vTTPDY2r3Ut9NDO7Q+YkGw/6tR0G
+euaZqupXsNxBcaXczpb3MY3Ps27gABjB7ZBpmgzX9iJmt5jEZfmfnIY9yQeM+9fMqooJxe5+
+h0aUqjU46rTvrbdeR0FtY28FhDdN9mt8aOHLyWwmw/nMNxXuSBiqlnb6bd6BOL0iGWbUJI7e
+68vyxESm4bl/useOOgqkmqajbTKbW7li8uPylAOfkznB/Ek1Rvbi8uRL9ouZZRI29w2MM2MZ
+Pvir9qt7GiwlS7962v6nW6hZSWF/q9zBaW1zfWsVskcPlBlhzH88gHRuR196Y0iDwlBdyqkU
+81zPmOOwD7/ujrj5AOT2rl4tQvldpIr2aO5aIxrOhwyccY9fxra0u/1TVtFup7C/njvLaTZq
+tlG2PnI+WVR3VwM/n3FNSUotxXyMq2HlRcVNrVrX9Cnpn2QXlmsSB0+0pu3/ADBhuGev1xXQ
+3wt7i/8AECgwTrb6fOYgLVYvLYSgYHrx3rkIiUZSN42tkEHBUjnPvzUpu7qIzy/aWUzqRO4/
+iDctn2zWNOryKzR118E6r5lKyt+p0XiFptPmjsrK1gSxjghlimNurmU4B3l8euRjPata9hiu
+ta8ySOyMLaC80ax26LiVowS+QMkZ6CuH03V7yexliF7cNYE4gt2Y+UcchsA5xkdKsyatfNGr
+yTuJTCYXZGzhSPugn+H0HaumEt3f5Hk1sJOdlb5nSalf3tjqVno+j6ZbS6dNHFiP7KHF1uVd
+zFsHnJPORt/Cquo6P4fuNIvrCby1abVp4LO5bBVMKpCMe6E5Ge2K51db1S1ge1tr6eG2Yn92
+jkDn8eKzpp2+yi3Mkhj3lwhPyqx6kfWk6nLsjqp5bJWV7enX1G/Evwvok3jC7SfTbbeFiQmE
+7QMRjO3H061zaaGlmCLGaVcHJMj7j+ZroJrhpSXlYtIRyevtULsqnBPNZucppnpUcNCmkluk
+U7e82MsNzhH7Ofumt+yO5AMgg9xWBe2gmGeCDzz2p9s9zbEIsrzRAYAZsMo9Qf6URqSjuaTp
+XNzUgrWc+4Z/dnA9xyP5VTkdbuKGYHAmQPx7jNMt5xe2jDduZch1z8y9uRVLSWZtNhg/ijLI
+OfQmq3OTklezPBPiZpR0jxnemOWK3guY2uYmYfKxxyox6kVx1w2/EvzKNw+U/wBa9p+P+mM+
+h218ijNtMVJB/gcf4gV4rglc+3evbw8+eCPg80oexxEl31L6bI2RkJO7rmm3bmSX5WQbeGHe
+qsMhR89qepyu8jknmtzzxHUNjJqF43d8EYA9PSpiwV1J6Uk0jSKyKOvSgBumv5d+mzBUkgZ7
+ium8mH/IFYOiTypMLYBPKaRZHBQZyuduGwSOT0rW/f8A/PR/zH+FAH1xNvubazJjKRxwKqr2
+Axn/ANmNOKp9l3KCMGr0aImlwOQVZYVYA9QSoqhaCSZigZeSCc9PevlIU7tu5+pUZpUYpdiC
+IBnJIzxTpEDRsuOoxWheNFbkrDGATwStRQoJI1ZlOScGujlSViY1G3cy1tipyKrXOpXPg7Wb
+bxhbxSSxWyeTqccYz51oxyxx3dM5A9Aa3LmHZtwp5qKa0E1u8cqo0bqQytyCD1BqabdOaYV4
+RrU3F6nWav4cstYs213w3cpc27okzIv3SjjKsh7qc9frXB6vbs4azBK8Ym55x3FWv2evFP8A
+wh/jG4+GOszObWRml0OZ+SITyYSTxgEkgV6p8QfBMYjbUbGNk2rl8Jux6kjv/TtXdXwyqrnp
+nh4LNZYeboYnp/X/AAx5JbxpHCqRjagHyr6CmMzMMGr81pLE2JFVCRkHPD+4qtKGXKkHNebL
+mpSsz6NVYTWmqKsqho3Y5+XpVNmLDnFaSDZCeOedw7MKqS2/zAx42EcZ7fWiU+YmEuXQz7yA
+zW7xxyGJzyHHr2z6il0yKa806aZUzNZr/paDkqO0uByYj2YdOhwc1YljILK3IHUioJ4blbuD
+U9IunstWs232c4GVz1Mcg/ijcDay/j2rak4PSRnWdRLmp7roPjAeI57DtTHRgfkxgjBzW5p2
+oWPj/TrjUNF06HTtbsIwNa0SM7XjcE/vYh/HG3HTp3rLEYywj5x14xWlSm4OzFQxccTG60a3
+XVFSS0VxvWYwSqMrL6fX1FUtDnWG6uLOaQfaFlZ0j7nuav3MoRhGq+bIefLXnPsfSuWTwtqz
+38uptrH2OSSXzBGibtjDpmlFJ3T0IrznCUeVX7mz4/0oax4WvbJF3Sz27CPnjcBkfyr5acub
+hg/HQ4FfV1nc3CxeXexosnUSofkk9wP4fpXzZ490w6d4v1G1C7IxKWjz/dPI/nXdgZ6uJ83x
+DRTjGqvQxqlgLsxjCkgDdwMmqrKVxnFWbC8mtJQ8ErxvtZch9ow3BB9sV6R8sN3FlBOM81Iq
+pgMJAT6VFcrmPCoykDBUnp6e/TFRaeMsfUHpQBoWSLHe/Ln8a3ftEP8Az7rWVYRqsxaUgfLT
+/tUP/PVaAPtbxIfL2hflWSFCB7bRWZpkkaRkfxfWmeINUtF1LS9IvnkS7uoIkiCoWUnaB94c
+en51h2Wv6GLsWqaihkLEbMEtkSiIgDHJDsBj056V8/Sh0P0iFaCpqNzqyqkqByM+tXIEUFVC
+/KCCaw4Nd0aLXI9EmvMXzSLFtMbBBKygiMvjbuOema3nvLa1mClwzt/BjofQ1pVcKUeaehiq
+13aOpdTTxKfMk5QDOOlYOpyhJDHbkbc4J9Ks3l7eXcrQ+aY4MDIX+tUbsQjZFHg9mI6V5jrv
+FPlpaJdf8jow8mpe89ex598V9EurjSIdf0qSSPWdHlW6t5UPO0H5h79M19H/AAC+Jdr8SPAl
+vqIlUapajydQhPy4lHUj2Yc15qsCNGVKqyuhQhhwQeteK+GPEl58E/jcZv3q+H9ScfalIyrQ
+s3DY/vIeK9nAvlj7PseFn+HXN7ZL1PrPxx4ehaaa502AgxOTPasAGIxkyQn+YHpXm13btgyR
+4kizxKOBj0I7Gvdpo4NYtoruxmQhlWSB/vAg/Mp/DIIPUEfWuN8YeE7qCL+2NPWGW72BtQtU
+UBZD/E6j1PcVvWo062j3PPy7M6mHfK9UeWSL82CRz3qGHYjtDIGCv8yNj8Mf1rY1KC3eFbiz
+IaN2Py9ChHYj65/KsO8Erw7t21l5UmvHrU/Yysz7GhiIVoe0iQXUcqRkKSwxz8tVIZmVtrE7
+W7eta9o3n24duM8Gs7UIBGAOjYC/T3rCnXi5blKqpSM/U4poNRt9a0a/Gl67YndaXUa/OOeU
+cDlozzkH19a7XQJNN+KunzraRQ6B41s0B1DS87YrhenmxeqHnpyCea5SCGK2Cqm4uTkuTlm+
+uaqa5pb3Nzbalp98dN1y0YS2V9D8rxNnof7yHupr0aNWL92WqOTF4Kbft6DtNfivM1Z7Y6Y8
+lpNbtBOhy6MvzYzgFiefoaqXMboMFWBb5zxggevvXtWjeHJPiN8NdJ1LxD5UHiEwFJrmFAB5
+isytkf3TgH2zVHwv8Lpo7tr3xVLAbW2JdYIn4fA6uccL7Vo8NNS02OSGc0XTftNJLdf5HjUl
+tLIUZo5FhuMvGWUgSY6lT3x7V4r8b7Mpr9tfZDLPAUJB/iVv8MflX0z491tfE+v7rWOM6fYk
+x2UQXCxjGC/1NeE/G3T2GjwTOhLQ3C5bOeGGKrDtQrJLYnMF9YwLlONnujx1IfMJBHSmPblW
+PpWlaxREv51wIgF+XKFtzdl46Z9aguVIVWbgjkj0r1z4cZe3s9w8k105klfBLEYzgAfyArPJ
+y5IyBjIxVt2VsZXp71HOEVcBeT3oAjMsmwrvOCKf5cH981Gil225xVnyB7UAfauuyWA1ixur
+m8SA2luRbozhF+eJB7ciuSvvD/hKDxamt3FwkeqS3q3UcbSKrSMF27VU8kZy3Hel+I2m3N5r
+63No1mRBai22XFv5wTIHzIOzfKOa5y+8H6hrGtNfGa2C3CQpIZYd0sflkHMR6DOOc9K+cWJp
+wWkrbn3dOC9mrxvsdJd2dlfazLqI1GeKJr2K4ksxcDyHuAoEbkf3tuMCt+G/sHFzJFf23nW+
+TODMpMQHXfzwPrXLX3wy1GXWpddk1YwwNdQXZtGt2Iym0IDjgvhT9M81ZXwXHJN4kuxPi91n
+z4hM6HZAkg4G09SD1xXl1VGvJc07t+Q4VNWqcbK51Ooaxp1hDAlzfW0El3whklVd54wFz161
+Ba6hpQluVfUrMvaAtcL5y5iA67hnjFcrr/hXWNRl0GSW+08XGlFgWhhlRJFIQcc8H5eecc9K
+t3XhQXp8T7XhiOs26RM4iwYQIyuWwBnJIP4V6tLDwpRSubUpzjFtR/q3+Z2dpdWl3ZLc2dxD
+PC5ISSJwytg4OCODzXn/AMefDMeveDDfQR77zTwZcDqYz98fh1rq/CthNpfh2y06eSKR7dCm
+6JSEIz23Ek/jV87ZVaKRA0bgqynkMO4Nbr3JXQ6kVXpOE+plfsYfFUXFv/wr/XLlRdWS40+V
+2w0kWc456kV9VmHK5duOxIr4I8c/DoeF9njHwZJdxX2mzC6aDdkCMH5ivcYz075r6p+EfxOg
+8aeFrLXQ8YtjAsd0uCXt5hw5J7rkjPp19a9GMoyXMj4zFYeeHnyv7yz468FpJdS6ro6D7XKP
+9IgzhZMfxqOzfzrybUYJIpJEcMFHGCOlfTKBJJiMrvXoAeTXnPxW8ItcQzatpkA+0KC88KD/
+AFgA5YD1HeuLHYX20G1ueplOZexfs57M8ftXWKPYWG12yPb2qPWCCTKWBxj8aJLdTG8LsxRl
+ypIwaq37yvanzuHOAB7AYr5yhT96x9J/y8utmRzSBgrKRnFIlyP42DEdM9qRIv3YyecVUK7W
+PPevQh7rPUha2h7r8PfFNtpHwnnupJEEttLLDCCT80h+ZBgdQSc/SuW8CfGKH4laHqHg7V7i
+Lw/4vXdCYnOLe829fLY+o4K/eGciuD0+7e2ja3fdJaSkNJGzZCsB8si+jDp7jisNreC38VR3
+UsEPl3gycqCFuY+UcHsSuRkY545r0Y4h8tn2PmsTkydR1Iu0ua/lZ/8ABOrdGV5IZAYruJzG
+6EYIx6e1cF8WbJrnwfqPzE7IRKP+AsDn8Oa9w06PT/HOj7Lm4+x67brtjuAMeZ/veorzT4g6
+NqFjbXej6haeXNLBLGuMlZcrwVPcZ5rhozfOnc651I1qc6U1aVtv1R8ww+TNEZEOSvGGHWi5
+GUZtmEzgeg9qpWxeN5FPy4OMU+Wdj8h6Dtnqa+nR+fyVpWG4QSKDjmluIlZtykMuOAP1qOR8
+rnGDnANIkxUGLAPzdc0EjY0BnAVsHHSrexv8mqNs2bndjpxitHzP84/+tQB9N/EnS9av9cY6
+HdMtqlmIjtIQSMfLzjJyGxk5z6+tZ8qa/wD8JitxZCcwJdwtFMt5tghiGfMjaL+Ise+O9XPi
+TrF9beIoNPsLiys1kjZDd3ikgMuFx3xyOtUrnUtcn1Sw8N6Kmmi/Fkl3e3syM0UQJx8in72e
+tfIuNV20XU+xvDks2+hpahY+JDL4qlW8nkgmgkTSoPPOFMw3P1PBDAKCce1Q6RaeIdM/4Rqa
+OzuHNqLmO9iW5VceYFCOeTkDB46in6Frus23iM+H/EYs5ppLX7Za3VqpRJY+jAqehBqh8S/E
+N/pGoaFZ22rQaXFePP5888AlVQo449zkVtg41eflkl/SNIOlGHtFf0+ZHbaDrFzJ4qjuFnJv
+mmNi4ucBW5MYGDlecenGRWq+i6xaX/hmfS4pZUsrYw3HnXYMQJBLMATuaTceCcggc1yq+Mtb
+fwdoV7DqenWFxfas9pJdtCGjEYBxIVP3enSrK+M/EC+FL26F9ZTzWOuw6et9FbYjuo3YglQe
+OMdq9WNOb1JliKa/r5nq9pFMba3S5kkNz5Kebv27t20Z3beAac0bAfKpOM8jvg81wN3rniXW
+Ne1qDQdY03RNL0Wc2s17fQmQyzDqMHhUB7n1FVNb8a65pvh/Q7q/vNFhnfWktNQns5EljeAZ
++c8kISATj2odGVhxxsFqekziMBllC7SArqe/tXkvw+1h/g98Y20i5fPhjXjmAycxxFiQobPp
+na3qD6VqS+LZ/EHjxdA8M+ILF7aTTZJhMsfmiGYMME9M4U9M1zCaD4g+JPhXUDqur2lxPZ3E
+8dgq2wjPmREAksOzrxt+la0YOF+Y4sfKOKglBar9N0fb3hA24skRpYvtCbhuRyRt6gAnk4XF
+dCTtOH5HY9ea+Uv2U/iN/a2iN4R164a31fTSYlaThxGThm93OAmPYGvpPQtSubsTQ+QpdA5B
+ZuEAOEDf7RHUVpZps+fOH+JPgQXofVtKj2TAl7iFR98f3l9/UflXkN5bM0oTk7ehr6vQgqqS
+gCQgbtvTPtXm3xL8GxypLqmlwL5vWeFAAX9WUevtXFVwceZzgtT3crzJwkqdV6dzxS4XYijG
+MDmsyY7X54zXRahGqArg8cc9axZjGz/OMY6YrzJJp6n2dJpkEbYbJJxUGoYlg8oAEqQ0f+y4
+O5W/MfrUjd8VX3lyScCm22rmkrWcWbGlanPFDbXSlopgMqyn5kfuB9D+Br1TSdU0fx1pf9ja
+0ipfhQIyPl3Y/jjPY56ivGraRSFMnygcKB61sxqfsoKFlfBdHU4ZGHQg9qIwcpXjv+fqePjM
+KpK6eq2Z4J8dPhvq3w+8VSJMrTaZduz2lyowDk5KHHQj0rz98INr43fnX15onjzwv8QRf/DP
+x3Gi3RPlW1zJwszY+VwSflcfrXzf8VfAGrfD/wATXGl6ipktyd1rcgZWZD057EdxXt4bEuTU
+J6SR8Xi8M4yco69zjjzIx/h4xSMAOeOvWnLtEi7z8mfmx1x3x+FRNKhJAB+hruOAlCFZVbYV
+STlDtwG7ZHrV7fN/z3X8jWdE7sYlZ2YIcKCc7R1wPSruU9TQB9UeOrDUbrVJbaLTbG7sp7c7
+/McmUSsAQQvoDzmuY0zwp4i0rUtO1DQ57W91OysvslzbXzlEnjHXaR90jpW78Ur7xDpus2dx
+pl+LeCeeK3EPkByrsuC2TzgVmJ4sOj+MrzRPEmv2qwRadCyTtCIt05PzYxyAeuK+flSqKneG
+vl3PravI5Wd1tr+OhqaN4b8Q3PiqTxR4jNnFcNB9mtrO0YtFbxnqNx5J4ql8R9C1jUNd0XUd
+KFhLLZvN5lvduVVt4wCMDkYzXO3Pj3xAfB73Ca9FEr+Ims0vZIVdEtgODgjt1ruvDNw154d+
+1ya/Z6+DK6fbLeHy0bGPl2Hp1rSnSqQi5u2nQ1wsqdV+zZxsfw7v76ztFvmsJlfWP7RvoF3J
+CkRUIY0z1bHP4CteLwL4ll8Hnwp9psXtrPUobnT7jedzQI7MVcAfeGRg0uieLrvR38V2WuXT
+SS6XEb6ycqvzwspAUcdQ2Kh0vW/Gemah4at7m6kvby90S71Ce2aNdskqoWiUgDPyggV3U5Ta
+RzVo0Y301/pGl4g8EeJ7XWdbuPDK6JqOl67Ibi90/VclIpTyXBHXOO9ZOn/C2+sdG0q3+06e
+9x/b0WqXy7NsQVdwMaLzkAHik8N+L9eufAviLWj45a71S20qSd9N+wrFJYThhyMjlBnHepR4
+m8WeIrzSNA0rV/7Nm/sm3v8AUdTMKySs0ijCqvTrnmtPeOVeyvezN648PNF8SLTxBDDaW9hb
+6fJbSKmELOXBB4HTA69aPh5ol94f0q5tL425ae9nvFMRLJskZSB06gAmua1DX/E3h9Ne0HWN
+TF9eQaNNqOnaikASTC5BDL0zkDmsiXx9rj/DK9+2XElp4ks4reUyhV/fwSOu2VRjB4O0/wD1
+6mSm0dNOvSjO70erIvipY3ngrxxp/wAStFgJUzK17EPuF8/eP+y4H5ivsP4NeJNL8T+B7LVt
+OkDJdxebIS2SXzhs+hU8GvDr6zs9b0SfSdUhEtvfQiN9qgNkgEMPcHke5PrXnvwL8aXnwg+J
+t34L8Q3LjSLyciOY8Kjt9yUf7LDG70Ip0qntFZ7o8/H4b2U/aRWkvzPsBdZmu/EMFpp8hkiZ
+gE8tAQSrYlLsegA4A754zXXl0d2jk4Azj2HrVTTVtGgW6toYo5JAC7ov3u/4juPrVTxNYXl5
+YM+mXIttQi+e3kYZQt/dcf3T39Ovanpc884H4ieCF3z6rpikqctPCqc88lh7dzXjupWiRytH
+yGPJB7Zr2Lwb49vdTuZNMurNpr6GY29xbsds9rKD80ZzwccEEcEGqPxd8EyYk1rS4HaNgPtM
+MYBZD3ZR3964sRSvdn0mUZm4tUqr06M8WuhhsVGqkqSMcVfu7XARueQe9Ud+0MF6Hg5ryz61
++89BqKWkQKOWOT9a23DLZ+6g1maaM3iD16Vp6sTFC0L/AH39OmKlVEtjOVNOWp84/EyO7svH
+V3MgZA0iyRuD1IVeQfYg13Hh34i6b4p8OjwL8RGZ4WP+g6sqjzLdsceZ/eUetcd8ZWMfju5j
+TiMQRbV7LlcnFcX5jJFIqnh/vD1r6KNKNWlFvdLc/PMXVlSxM1Ha7Nvxn4c1Dw1rL6Teojna
+Ht5YuUuIzysiHvkfyrnAMnAroLDX3m0ldE1hpLjTkYtbkHMlqx7p3x6rnFYU48m4aPeJMchx
+0Yetb0+ZK0t1+JxVVH4o9fwI0OZhjtVzd7P+dZ5JWYY71a8xf+eS/wDfRrQyPrv4k6ffald2
+XkvFC1vfR3EomJBCgdPrWFb6FPF49vdeljhmtZ7eKNI2Xc25epIIIxWt8Rft9r49tRpxuHhd
+IlZNrhDlmU5x8o2/KWyckDjrWNBda5qvhTULqGEwzI2yIQEGR1UgSODnkk7to9K8uKaVj7y1
+Oau1rv8AcjIvPBmr/wBjyWkUumrP/b76lEJcmLy+m0gD8+K77QLbVYdIaHVYtOW685to0+Ip
+EAccgEfe461x1w3kfaYdEi1o28+n3EcBmhnOZtwI+/kg8fQnpTV0fXbi3djPOpu9V5Ej3A2Q
+rv8AvbWGF+6ARgk9TzWnMrWZhCEabTppljxh4GbxJrum3n2lYY7chLxcEmeEOHCjHf68c11O
+saDqOo+NNM17Trm1tHsbC4to1ZGJDyDCtjphe4J/Oube01BNYCpBrDa6upRrbzRhzZfZgyg8
+k7dvlBshvm3d8iqWl22sQpbNq1prktt9tjea3tJJmZ4THN8xO4FX3CMEA4HB785Q5oWs9EZ1
+pQqNtR1e/qjXu/AXibVrnVL7xBq2kPf3OlSabGbO3ZVIcjdJIcAluMgc9akvvAWu2suk6r4c
+1CC01az06PT7o3EReC7jQDBIHI5Fdp4Sm1CPw5ZRavvN6kZEm8gtjc23cRxu27c1uQurRkuw
+x9a29q+5h9Vg0eUDwLrF7Drd1r+qQ3eu6pYtZpLGjLBaxnnag6kZ65qt4v8AhoNe8N6XaC5h
+ttSsII4ftAQ7ZFUAFSOpXjI9DmvVhCm4shA59c1TD4LhiBjpmolVa1NoYWDXLbQzCrRbUcE4
+UDd0zwB+FcB8d/B/9ueExrVohbUNJj3EgcvDnlfcjqDXpLncxJ5zSB0QASKGToQRnI6EY78G
+sac1CXMddagqtJwkN/Y6+MP9v6CfCmv3LNqOmRjyZGJJnhxjPqWFfTtsweMSLyrDIPrX5jeI
+LbWvhl8Rl13R1aKGG7Z7Z/4GXOfLP1HavvP4G/EWw8e+FLTVLNgrOgWaItlo5QOV+npXoy2u
+j46pB05OEt0Y3xk8M6roXiJPi34VtnutQ02MLqmnr92+tV6sMf8ALRASRnqBjsK9C8H+JNJ8
+YeHLXXtFuYbuyu03BxhggP8ACw7MDwRW87R7PmZclSPXP4d6+XfG8mr/ALP/AMT/APhJ9It5
+JvAviKc/bbBeUtLlj8wXsmT8ynocFTWbXMZnZfFL4d3S6ib/AEGMG1uDuktyRiJz3B7Ka8q1
+zS9R05WW7s5onU4ZXQr/AD6j3r6Ttdd03xP4dhvdKura/s7mP/W4yrcfMHUfdIPUdag8LQO9
+jFZakiXdm5ItJZF3EgfwPnv6H0rz6mGjWnbY+jwec1KEEp6pfefNWhrP5qsyHCn9a1Nedkt4
+2m+8T0FfQGrfDXwpfAldPFnMeRJasUI/4D0I/CuC8RfB3VQzSaZq0N7n7sdyPLP5gYrnnl1S
+Gq1PVo53hqr1931PjP40OP8AhPLjg/8AHvEP/Ha4lhnLZ9+R/WvaPj78LPiBa+K5tUPhTUJr
+NoI/31pH56ZC85K5xj6V5b4f0i6v9VWzJaErnd5kZwmP7wPr6V7tBctNJnx2M/eYmbj1Zihl
+zgkD3pboLHLJErrIFYqHX7rYPUe1ek+KPAEd54fudb8O2ji50sbda01SXFv6XER6tCwH/ATn
+JrzGRSHYbSvtWqaZySg47jBw4b0q78/9z9RVGrXyf3o/zNMk+yPiLrV7Y6/eiKK0eC3gS5nW
+V2V3+cqQuOMjGenPSqGpXVxpmkq2kWKO3mBQhjDeXGcknYCCzD+6Oab8VtW0DTvGVuNUtxJf
+zHEbpEGESbuOT/tVMdKsZbNbWayilgD+ZsYcZJzn68n868aE3pdaH6HTvKLUXrp8jNbxhbQ3
+H76NHtWcq06M6hF8lHDtn/bcL044preMoQNF+0WqxNeZa6WVsG2Xd5eD/tb+1bltpGlhnlGn
+2oLgIf3Y5UYwPp8q/kKu2OjaWTdBLK3H2kk3ACf6wnk7vXrVOUX0JtVju0ZPg/xBe6zqt7b3
+MMUMNhK8bLyXfDsquB/dAXGe7BvSu0ubTePMgUA7QSg6iscaPY200UltaxRSDcAyLggMcsPx
+PNdDpYhW5DMreYfl3Bu3vWE7uVo7HNW5qcXO5niUoFDxsP6VFKSg3ozYz0JrcudNkUSvHKzx
+A5X1x71Qmit/K+dHUZHNQ6kVfWwUsTTla5TBmIysmB6YquHDy5aQAY4rWt7VJEPl5YDrmsy7
+0i4RgVBUA9xxUVKmidzrp1KUnZBjDYzSO0asQxDUn2a63ACRWHHNQXdvLG+WB5461NNykbqM
+G7XOc8d+HLTxRYzadcsIkuFESykgCKX/AJYyf99fIf8AZJryL4KeONX+E3xGm0vV1mt7Fpzb
+6lav1icHbv8AqD37g17jqDiGxuXPaNgR6+354rnf2p/hs+s6DD430qJW1OygWLU44+TNGFGJ
+PqvIP0r2cJNuHLI+Zz6hGFWM49dz620LW7PULO1uIZjOJ0DROOQwxnOab438OaV4v8N3nh/W
+rcTWN7C0Uq4GRnoynsynBBr5J/Y6+K4S9tfBeu3IBiBFhLIcBl/uEn9K+yreRZ4FkjIYc5x2
+5pSi4SPDumtD4y8I6z4h+CfxGvvBmsvJc2zMGjz92+tv+Wc0XYSAZH4EHnmvrbwpqul+I/D0
+d9YXST2c42JIg+YcZIwOjfyrzz9pf4Znx94JN1pcar4i0ktc6dIODJx88JPYN1H+0B614L8C
+Pihq+iXEvkIXdZQmpaa5278fKSo/hcY/PIrblVSN47hd7H2bp05WZrKc/wCkoOG6CZOxB7kd
+6uuhO5uhHGK5TRfEGmeKNDTV9CvEmRT+7BBEkUg6pIp5Bz1FdFpF7HeWKzhfLJYh0bgqQeQa
+iE03ZlONtUF4jKgzlQTjd0x+NfDfxs8XnWvinfavBCF021K2MICYMgR9xkOOuW7ntX1B8efG
+SaR4cTSbWcjUtSXZGqnlEz8zn0GOPxr5S8cQ29rYRbEYgzDcSMc47/jSc/eSR6GGwsp0nUex
+teFrPxNc+O9N1TwBFFPqkUMpubWWQIl3bgZeJ88HOcAHvWd43+Cw8Z/8VR8OYbe0SeZo77SL
+qTypLK5B+eMDovP8J7YIyDXefsUTT6n4y8S3NyVkigs41Q7MEGSTAXP/AAH9K9o+I3hDUY9X
+bxd4Ljh/td1VdSsJDtj1SMdAeyzr/C5+h4NXJySvHc5VyyfLI+APGHwy8deE5XTXfDWoWqqc
+eaIi8Z9wy5GK5z7Fcf8APKT/AL9t/hX6O+G/Eln4o8OzwQyMZEVo3trhcSwMPvRyIeQy+p4P
+UcVzP/CJWf8AdtvyX/ClHFabAsJF9Tl/ilb6Aty2r65bW7LZKHE8iZMY4H481z0niXR7bw/D
+rktzIdOmKkSJEzsFbPJUfSrP7QdzLc6npvh2106e9ee5Fzdw25Xe0MZU457E4rlPhpdTRaN4
+h8PXdrNZTWaTXNvFPjesEiuQDjjGT17V51KnampNn00MU4zcUum/n+pqxfETwsunre/abs2x
+YKZfsb4BIz19Md66nRvEujXfhufXop3TT7dWaWeSJkOF6naeT1H1rhUUL+zKS+zJ0oYyRn75
+qf4mXlzL4W8N+GLG1lvbvVYoS9vCw8xreNVdsZ45IxzXQqcb6Gc8XV5byfRPbqz0PSdV0zWd
+Ai1vT7oSWUqsVkYbNu0kHOemMGsLw78SfDF1rK6faS3115vmeTcrZsIpGQFiFY9eFPNeeab/
+AGoPD3jLwUulXGk3Nzbvf6bZSsDKIWbLR8cdgfxruvB/jvwfe6LY6JaymDUBbNAlm8BDwOsJ
+3Z4wBwRml7JRbZlPESlBJ6Jr8Tp1+Jmh/wBgaTqdt9pmXW3MWnWywlpp2DFSdg5CjHJrcja5
+8kNfQohJO6PB49Oa+fPgzcr4VuND1zWQlzYalata2N4x/wCQe5lfMZz0DZ6+9e26leCSVjD0
+4Ax0rgxUEp2ht/Wxhl9CdW9zSkFiMNue3XuI2yTVC4mRR5cUspHoXqnEzSfe+99aka3CoJCe
+D0NYKjFq1j3aeDpw13ZBI0gc/vG/E0zHzFsk596nYKq7uoHemPhuFxXRTpKC0OhQitkZ13bx
+z6lp1tg7rm9jDj/ZUMx/MLXrdsIpd8UyKyEFGUjIYEHIP515roaC48b2UbKMWdlLPnHVnYRj
+P4Bv8mvSLKItbnccNnivUoK0Ez5jNqntK1n0Pj39oL4b3Xw88Zxa/oYeLRLqYzWsyAkW8ucl
+OOmD0r6U/Zf+La+ONEFhqU5Gs2q7J0wMyDs49R6103ifRbDxF4cn0LVohcWsyEHPVT6j6e1f
+F3iLR/EfwX+J0dzaOUFvLutpQPkniJ5B/CuiSVRWR4TjZn6OLvMZYSFW6AjsfWvjj9rXwTN4
+I+IFv8Q9Ctwumaq+y/jjXAjn75xwA45B/vZ9a+jPhB4/0/x14TtdS0+UBpI/mhzkxv0KE+o6
+/StH4i+HdO8YeCtU0DVEzFe2jpk/wMBlHGe6tgiueMnTlqbOKa0PmrwH4qvLOaPxBomoOl1J
+GPNXGYpkHRZF/iOOp6+9er2HxWvGUtLoESzSQMHC3G2ElcYOCMjjjFfIfw71q58LeJH0zVHZ
+rQSmGUckKwONwHXHP+cV76diwo8TebFIvykcgiuv2cZO7MoyY7xDd6jqWtSanrTi7upNwzt4
+XB4A9ABivOPieBJ4fMloxJicNuxgdf516ZIysuc9QME+tYPjPwna6zpE4juGsrgsvlmI5WRs
+4AZenX0rCeHtLmierRxt6TpyOr/YWtFtfCviPWJYpC15qKRoypnKxx5/m9fRbzSTwhxZ3RGe
+wC5H4mvzuf4h/Eb4eLdeBtH1z+y4LW5beLRU3O5AJbeQT0x3rl9c8f8AjnVmYar4v125HdXv
+pNv5AgVqoPqeY6yT2P0O8QanoOk3t1e3S6XZ3NwAJ5ZruKJ5AOF3HOSB71y//Cc+Ff8AoPeH
+v/A+P/Gvz1kle4kLSyPK56s7FifxNSeX/sD8qPZIFiX2Ps74n+KtE0PxSlpqGnXU9/LAXiFt
+aeZJsxwAQM4rln8c+GdOunE9hfRPFEguJjYFvKRxkeYeMDnoe9J8Ure+1j4zaXb2GqXGnTjT
+JSbiCMOVAc8c8c1xfiSw1CHW/FEbXtxd6XCljFrLLCBNLEVAaRTjAwRzjmvNoU4cqTfQ+mnV
+qwV0ttNvI9U1nxL4e0m1s7K4cSx3sZNrZ21t5ryR8HIRR0qzonibw5rVvdX9oFEunxsJ45YN
+k1uuCcFWGQpHGK4NdW0vw18RV129jYaPeaNFb6dd7WZYNoAKtgZGR1NZnifW49U1HxR4q0eK
+QaaNEOnpOYyou5nOAVB5O3PX2pulEJVZ7v7rHoUfi/w3d+FD4yiXFlb7onmMSiYYx8nqOo4r
+U0S70y90e01uztYsX8QnWQwqHCvnGTj614baeHr2PV7HwgEf+wr+OHUpycjBSHEg/Ftv6V2n
+wpvp5PBVlZTM4e1eW2ZCpG0K5x19sVx4qknTdpOza+5jw6nXmoTjp+qO9u4raSFYVt4RFniP
+y12j6LjFEajIXsBiqMbhQQc1ObokADNZwgkke1GkqasaFtGu/qaRmLEEnoMYoguGEYzilafz
+Bt/GtU7FEN0zCIqoGT0z61BHvKDzOGyAcVZLgHBzUNzKFZO20hj9KuMu5Er9C/8ADxC+s61d
+uAUWWO1Q9wFXc36vXfmT7NEoKMzE847Vx3wut5V8LR3DqEuLiSS6Ydd29uP/AB0Cu2271V0K
+NkfNtxx9a9J+6rI+MxVRTqykRkBmyVZgf4c1znxV+H+mePPCElhdxIt1ErNZyyHlHxwM+hp/
+iD4h+DfDUZGra7apL/zwi/fS/wDfK9/Y4rynxd+0RfXEjW3hHSvIiGVW8v0y+PURjgH/AHs0
+QjPdHFOaZ498P/GPib4K+Pbi1uoJDbpKEvLVmwGx0Ye/v3r0TVP2hfEHijVJLaR00zS5srFb
+wr88idi7nn8sV5V41vtR8TXE2peIr97q7kHEroqsMdgFAFclNa3+iX0cF/BNFIu2SIuuCFIy
+CPqK6eVX1M4ylbTY9D8f6FNc6XbeIrNFYuhFwqt8y89T9a3/AIR+LZHhTQryX95Cd1uz5w69
+NlU/AHiKB9KNhdxpcR3a+XN5pyOf/wBVYnjDw/J4d1WLUbCXFtkPFKgx5Teh9qblrYe57JYe
+KbVWmtbqzngIY/PgOp/qB+FTx67o92Eie8tHIuA5WOUF0C/NuKkDGa8r1XWDrGmRajYyNHdC
+Py7xC3BYcDA9TXBa6/2YFkchgMlm45zj86m7TOuKp8nMuhl+Ob033i/VrsHIlvJWVvUbsD9B
+WXAytMnnKWjz8wVsMR7E96tmeZ0aFwiiSRXyQAcgYHJ5x16daptEY52XKkKxHFaHnPceBH9o
+Ji3BCSQGOSB2BPrU3zf89JPyqActt71Pg0CPsvWtWsdO8a22iTRyC9ukf7PNgbR5Z5XdnPIq
+nJ408Ovp2t3YD/8AEpZo7raineygE4/vZzgZqL456dMiQeIrMlr7S7pbmLYCeDwQfYnGfavK
+L3RNTtDpOnwR4TW1hj1BiDjermViT24bb9AK8DD0oygnc+4q1akJcqV/l3/4J6JceMdPkSaJ
+dEvpPLs4b1oI4lZmjkPHGfvDvWbJ8QNHn0X7f/ZmpR2jzpCm+FUDF2IBA6cFRn6Vn+a//Cw9
+YWzUiAaPFD5ncbQcAe/auSe3uH+EejwBJVlGooTtU71/ePzjHH41v7KDIVWtq12fTtZHpGp6
+/bWGu2+l3EUz3E8Mrq4A27Yxkjrnt06VnW3jrRA+jO8c0C6wjtHI4UKhDlcvg9SR29awr/R5
+9N8faRIdU1HU42tL0F7k7vLJRsYIHfNZPh/R49Ut/CWn6lFJ5D6deROGTBjO84YehB5GaI0a
+W5pLE14zaira/wCR6nb63aTeJZ9DEconjtVudxxtwxxx3JzWmqshBc5ArzPwLFq0PxHuo9XV
+5JLbTFtFnCHEyhwVbPTJHX3r0lXBOMEVzVo+zlZHdh6sq0XKemrLjSx8Yz09akt3cpu/pVHt
+UkF2yjYM7euKSd1c2LrEk5PWs3WpXW0uHLqmIyASPcf0yfwq2LkHqpJqS2j+2arp9oqbmkuV
+bBGQAuWJI78DGPerpx5pJGOJqezpSl5HM6x8aNM0mzTT/Ddo2pmGMRLPKDFFgAAHPUmvM/FH
+xP8AHfiIvBda3Ja25PFvaDykx6ZHLVufGDwOPDvjNJ4HS30LVZDLFO0ZZLVicyRkDk7Scgdc
+ZI4Fdfpv7PdlJ5cmoeL52ikVXX7DbBQ6kZBDMTkEEEHHQ17q5Urn59OU5O7Pn+ZWPmMdwkb7
+zEDJOe561BLdSY2bnOByRX1HP8CPANnBvubrXrsoAql7sLuYjgfKo71S1b4VfDzRLNRJon2j
+UJxhUlupSE9cjdzis6mIjDc0o4WdeajE8f8Ahv4d/tMjWdQHmWFuc26sc+dIOd3+6D+ZrrvG
+Ph+y8VWPl3bOlzHlo7gDLpnr9Qe9bt5FHaQpbWyJHFFHtREXaq/QVWtJyWGVY8V4lXEznPmT
+22PuMJllKlQ9nJXvueBSQar4U1f7FfRvCw5U84Zf7ynuDXr3h2Wy8WaRLYTtC7GMH5z04wOa
+3PEuiab4o0caZfw7SgYwyqB5kR7YPf0wfWvMvhnqej+CfiTcaf4kUahp0bNAZFd1UHPUAEZ9
+MGvWoYhVY3a1W58vmOXSwkrp+69ilqul33g/WmtrqEzWbMJFbtMAcgn3Brq/hj4S03x18TbP
+TNRXzbSe2uJbh41KkDy+GHbIZ0P/AAE19I678NPBvxD8Mw3Wl6hexQSRA281rIsiJkejg/iM
+g1zvwO+EOr/Dr4kXmo313Y3mkDTpEjvkfy1jbcp2SIeVPy5zyKupVTi+Xc4lGS03R8ffEHQN
+S8JeK7/w5qClbjT5jbk4++F5Vx7FSD+Nc8ZHycnn6V9EftmW+gav4ws/Evhi7S9Jtza6g0IJ
+RZEJ2Nuxg5U7eP7or53ccnJyc88d60pVPaRTOerTlCVmrAHcHcOo9qs7m/yKrI20EYNWd1aG
+R9f/ABC8U3GkeKorQxC4t50jBjjA3ZeRlwGz2IUdK5KXWL3UdEvdREclstsdoRjuGQQGHJHI
+zjnjiuz8cy2UPiB449Lnur1R5nmQRI0kMWTtYs2Mc5I+lcppWr6GNFvbZ4J47WziaSVZQHaV
+TIVY8E5JYdK+dpzTirI/RfZNN+/o/wDIpJ4muorSd91tFJDa+bHGCBulExQ45wSQV4GQKpXe
+t6w0WrN58URtZNsWbcFWzOY+FzyoBPzHHPFdAb7SFnhjEVuZxafa7XdEAu35gQuRgPhc49qb
+peqabqWpSWkFkgZIgxLbDncqvgrnd/EDn1zWnNo3yiVG7spFSbV7+2nuJHvrQvZXa2i2bR7W
+n+ZVDbs7gTnI4xgUuk+IdQuZdItrqFI2u5ZAJQmUljUP3P3WBCgjnNdBLb24ulufIjM4Xasp
+QF1UHOASOBmpoo4isY8qIFfukL90+3pWbqxfQ6FQlf4v6uTxuDGyNgKTyOxpnzKcgYp3lf7X
+6VPHbvMuFGDWHNKbSijolyxV2VvNYcEE7uAfSo4TITnnGPSnXYa3Yqy8in23+rX3GaJXjLlH
+ZMkTdt561teDFa6195kU7LWADj+9J0P5CsVuh+ldh8PLXy7S6usf6+b5T/soNoFdeDi3O76H
+l5xL2eHsurNLxboVl4l0W40XVEItpFBEqAb0cD5WHuP1GR0rkfhHqeqeHr6T4feJNn2qzVpt
+MmY7lubfGcA+3Yfwjj+GvRXb5icH7uetZGp22nXWo2l3dW0DSWOZDOeDDkYZEPoe9evfQ+Mc
+HJ2SLmp38dvDJql2iC2QkwIOrHpnH48e1ea6neXGoahNczMWkkIO0c7R2FWvF2vPq19tjYpb
+KcRrnr71HbwqLUMeX7tXlYmq56I+vy7L1hqfPL4mc/qyq0mMgHHNVLNEht2lYgqrEE56Vqah
+B50oCD5jWAYWa+2uW8qJjwDwT715kZXkexfTQbqurLpenXOpyKwFvGXyB37D8TgV82Xks15e
+y3c82ZJnLuc9ycmvY/jRqH2Lw1HZo2JL2cZGf4F5/U4rxckE8DA9K+gwEf3fM+p8bxDiOasq
+a+z+p6t8Cvit4i8D6zFawyC902VjutHkAyexXPCn+dfWujaXqXxL8jXfEMV1Z6CFD2mj79pu
+CRjzJ8dV67Vr89FfYrdfbB79q/Qb9m3xdb678LtLkMsjNDGISW6iROGB9umKwzCtDDuMpaJu
+3z6HnYOo2pcu56DfaDo8ui/2PJo9p9iCbFiMSlB34GPUCvlD46/ACSK6m1fwjEu5j+8s9/yk
+eqHrn1U/hX2A8jOCANw9azr61trgCOcOG5wRwfzrzcVKvG1XDS95dOjXY7IqnNctVaP7z81v
+C3huTU/GmmeHr2CeCS6vUtpVC4dAWAPB4yBk19Lf8Mx+Ef8AoOaz+Udei658NtGbxxYeJ7iz
+WLUbWXzFnROJ+CAHHr711+yT+4v6V14fM/rULtcrWjXmYywMYOyd10PH/HGlNN4hlvLW+ns5
+VJRjGFIdQc4wwx1z+ZrlI/CmmJG0YlnaN51nniLBFmdWYgnHPftjpzXe+KA51CZ2AGWJ/OsB
+UB5z3rlhNrS59zGjTlFNoyIfDFglrPas8ssEkJgVJCMRrvZgUPUEbuD71LpOiR6beSTW93ct
+HIqq0TKgX5VCjkDd0Ud8VsIu4nmgr8+33rVylbcr2VNNNK1hjbeN2PxpDIqrlTyOlNmPzY9K
+uW9iwhS5kyFPOCOornjHn67DlJR3JbW0d4kllchD155rUIW3tQyECQJ3Hv8A4Vn2ry3FysSg
+CIfdI71Z1S6lELjAwBjB61pRqxbcorRdTzp1JVJcjMO8le5uCJCCfUU8ZAwDgCoYhvPmHg9M
+VNWEZc7bPU0SSQoY9SSQOteleGIlh8P2can5mhV8Y5GSSa8vZmeQW0Y+eV0jX6scf416/bYt
+7VFhwPLIQ5HPTpmvTwkXBNnzme1NYQ+Yy9m8sFYgxlkAVc9FHdvpXAeM9W2Kmk27KUDbp5f7
+7Vr+JPETWlrLEoI1KRipbtGo6f8A1q89u3Mjhj7988VeJrK1kRlGA5n7WovQLfeZkJzj3rpo
+mX7Kozya5ZZGAAAra0+5jl2xBstXmTqO2h79XVkFzOIJlcHrn8u9c/bO0tw0eSSWLN71r6mQ
+JJHPA5wPSufu7yDTLG61KRsR28LSsfUjoo96iirsqElCDk+h5L8atRF/4oNukmILCNYR83V2
+G4kD9PwrhA2BgDcPWn6pezX97Pdz4Mk0hkYj1JyaYi8AV9TShyQUT81xdd168qj6smgWIo7u
+ziRSpjAHynnnPpXvX7KfjQ6L4gufCl3cRvbXZMtsyn5PMHJAJ9a8BQ/vGj7HvVtZ5rS5iuLZ
+2jljcOrKcEGuXMcGsbhpUm7X69n0YYWt7GopH6d+Hb2OZPLkZicBl56g1sPAs7GQ/dXGAa8D
++AnjxvFfhK1laX/TLYbJgzAMSO/417vpt6l1CF+664BUdxXyWT4ucJywlfScfxPaxFPT2kNm
+VdYRPs8qthoiMke9c/8A6H/eb863vESLFEQ0jBW4JrhvtL/3RXuunBu9jnT7HA6vK0907P1A
+wRWWrKBg/wAq0tWilguD5mPmJXj1BIP8hWcYxzjNcKVkff0ZxlFWHB0APqR6VCT3pNrD72KV
+UcsMYwTWM5tuyNJNJDrdFlk57e1W7mR5GS3jyyxjoPWokDRnJArQ0aJhdNOevX861hF1o+zW
+lzysVWalzdiaxjS3iR/4gMkY6Vj61dB5myTg+1beryrbhmwAuOcVy94TcygrjbXRiFChSVKL
+McEnOXtGh8DsIxtUEHmpFxzn0qOBSsYU9qdXJR0PTa1Rc8OQrL4j09GGQrtMTjuo+X+dd/ru
+px6RpjXEgy/VF/vt2rkfh80c/iS9tgAZ4rJJEB7gu4J/QVU8a6k13qs0btmKA7Ih6ccn6168
+ZctJPufOV6TxWNae0TB1a/lurl553DPIcsapswABJ61BeIxO5chetJbfOdrZwK5aqsj3U7Ky
+0Q/7z4ycE1saXAoJOecdazI4JGZtnUHjNblmEiT5s7tvNczaREldGNrbbS+WwAuTXmPxh1b7
+PpFto0TqHuf3s3PRF5A/E16VqzJL5pmZUjOWdj0VRyfwwK+dPFd/deJPEd3fxxN5TvtiAHAj
+H3R+Vd2XUlOfN0R5ec4z2GH9mt5fl1ObqaOKVx8ik8Z/CpUtJG8x1xJHEoaQpztXIGT6DJH5
+13Xw5sZtP8TaRewR3FpNHDJM0txCJoidj7SUCsShGAQQc+1e5OTjFtK58RFXZxKWF4YRdCF2
+h37DIPuhsZ2k9M4omikX5pEIUkYDHBORnivonTfFV3Joz6VHqXhM2gfItV8Onyi+csdphGTg
+H6V5/wCKNHm8UeK9Xu0sb2+aR2aK4tFWKAYjG1QjBcADGeBXLRxM6k2pxt8zWdJKN0zN+Dvj
+m68H+KLW5U77GVxHPCpHK/4jrX3x4S1KE2kdyJVeOVQ8bDnKnof1r4M8O6LZafM+2EXVxbIz
+XUoH7m3xxgM2Nzk4X0Ge9e2fAz4jQPcP4f1W/iadiWt/KbcgX/nnvOASO2BjivneIcvcZLHU
+F78d/Nf8A9TL6/OnRm9GfUPiJfP05y8qxozKAfxrmvsz/wB+P/voVPb3Umq6eLMBSySK8Ocn
+eB1Bq1/Y9/8A9A9fyWt8Ji1jKKqwW5rKn7CTi2eUXFnbXMghtpQRcSG4jLqcru5YfnUV34fv
+oIBcDy3i4wQ2D+VFFVVhG57eCxdXkWpAmh388/8AqUwPVxT7jRr2G4UMidOm+iiuJQTep31a
+8+5G+m3bNtEa5H+0Kt2izwxAEAkDGAaKK7KMVFcy3OGdSUtzI1CO7VmJjHzNx8wqnbwOCVOM
+5I60UVw1venqdtCbSVh8iFGwcZpyowznHSiitIxVjR1ZXK1t/aGjeKdF8SW2TDDOLS7UMP3k
+EvQYP91hu/E1Y8RxMNduxGQYd+Uz78miiu9fwonlRk1i527GNelt8anHlqPm9c1UPmB8qRtz
+xRRWc/eep1OrIvWBCyPK0jYbnGKtuDcuXhIwOOeKKKycEP20zjviO18vh2XT9Mt0mubx2hJL
+BQsYGW615LD8P/GN1JHEtojK/wB0G5QD+fFFFezl6UYaHyubzc6yv2IZPhv4tjfYdPiz7XKf
+41JD8PfGC4QWYAzyBdoB/Oiiu3mZ5nKjf8L/AA31a+un/ta8FvZxKJAsMhd5m5wozwv1PTtV
+nVdJ8Ui0a2sdJ0zTrCE58pJQ5OO7EjLH9PaiilzMXKhl74X8YQaDDpdt5XlTgXN0zSq25iTt
+AB6ADsO59qTQvAfiRNYtZi0Vvhg4k+0ZcY5yCBweKKKc9VZlw92V0fS/gb4kWljaRpq8zxT2
+52s4VpGc/wB7OO9a/wDwu7TP+g5c/wDgEaKK+dWCp4epONO6V+56t/apSnuf/9k=</binary>
+</FictionBook>

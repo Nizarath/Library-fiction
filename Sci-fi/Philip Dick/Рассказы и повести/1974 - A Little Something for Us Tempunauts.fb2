@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Eye of the Sibyl and Other Classic Strories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>A Little Something For Us Tempunauts</emphasis> 2/13/73. <emphasis>Final Stage, </emphasis>Edited By Edward L. Ferman And Barry N. Malzberg, New York, 1974.</p>
+   </annotation>
+   <date>1963-1981</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-15">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>A Little Something for Us Tempunauts</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <p>Wearily, Addison Doug plodded up the long path of synthetic redwood rounds, step by step, his head down a little, moving as if he were in actual physical pain. The girl watched him, wanting to help him, hurt within her to see how worn and unhappy he was, but at the same time she rejoiced that he was there at all. On and on, toward her, without glancing up, going by feel . . . like he’s done this many times, she thought suddenly. Knows the way too well. Why?</p>
+   <p>“Addi,” she called, and ran toward him. “They said on the TV you were dead. All of you were killed!”</p>
+   <p>He paused, wiping back his dark hair, which was no longer long; just before the launch they had cropped it. But he had evidently forgotten. “You believe everything you see on TV?” he said, and came on again, haltingly, but smiling now. And reaching up for her.</p>
+   <p>God, it felt good to hold him, and to have him clutch at her again, with more strength than she had expected. “I was going to find somebody else,” she gasped. “To replace you.”</p>
+   <p>“I’ll knock your head off if you do,” he said. “Anyhow, that isn’t possible; nobody could replace me.”</p>
+   <p>“But what about the implosion?” she said. “On reentry; they said—” </p>
+   <p>“I forget,” Addison said, in the tone he used when he meant, I’m not going to discuss it. The tone had always angered her before, but not now. This time she sensed how awful the memory was. “I’m going to stay at your place a couple of days,” he said, as together they moved up the path toward the open front door of the tilted A-frame house. “If that’s okay. And Benz and Crayne will be joining me, later on; maybe even as soon as tonight. We’ve got a lot to talk over and figure out.”</p>
+   <p>“Then all three of you survived.” She gazed up into his careworn face. “Everything they said on TV . . . ” She understood, then. Or believed she did. “It was a cover story. For—political purposes, to fool the Russians. Right? I mean, the Soviet Union’ll think the launch was a failure because on reentry—” </p>
+   <p>“No,” he said. “A chrononaut will be joining us, most likely. To help figure out what happened. General Toad said one of them is already on his way here; they got clearance already. Because of the gravity of the situation.” </p>
+   <p>“Jesus,” the girl said, stricken. “Then who’s the cover story for?” </p>
+   <p>“Let’s have something to drink,” Addison said. “And then I’ll outline it all for you.”</p>
+   <p>“Only thing I’ve got at the moment is California brandy.”</p>
+   <p>Addison Doug said, “I’d drink anything right now, the way I feel.” He dropped to the couch, leaned back, and sighed a ragged, distressed sigh, as the girl hurriedly began fixing both of them a drink.</p>
+   <empty-line/>
+   <p>The FM-radio in the car yammered, “ . . . grieves at the stricken turn of events precipitating out of an unheralded . . . ”</p>
+   <p>“Official nonsense babble,” Crayne said, shutting off the radio. He and Benz were having trouble finding the house, having been there only once before. It struck Crayne that this was somewhat informal a way of convening a conference of this importance, meeting at Addison’s chick’s pad out here in the boondocks of Ojai. On the other hand, they wouldn’t be pestered by the curious. And they probably didn’t have much time. But that was hard to say; about that no one knew for sure.</p>
+   <p>The hills on both sides of the road had once been forests, Crayne observed. Now housing tracts and their melted, irregular, plastic roads marred every rise in sight. “I’ll bet this was nice once,” he said to Benz, who was driving.</p>
+   <p>“The Los Padres National Forest is near here,” Benz said. “I got lost in there when I was eight. For hours I was sure a rattler would get me. Every stick was a snake.”</p>
+   <p>“The rattler’s got you now,” Crayne said.</p>
+   <p>“All of us,” Benz said.</p>
+   <p>“You know,” Crayne said, “it’s a hell of an experience to be dead.”</p>
+   <p>“Speak for yourself.”</p>
+   <p>“But technically—”</p>
+   <p>“If you listen to the radio and TV.” Benz turned toward him, his big gnome face bleak with admonishing sternness. “We’re no more dead than anyone else on the planet. The difference for us is that our death date is in the past, whereas everyone else’s is set somewhere at an uncertain time in the future. Actually, some people have it pretty damn well set, like people in cancer wards; they’re as certain as we are. More so. For example, how long can we stay here before we go back? We have a margin, a latitude that a terminal cancer victim doesn’t have.”</p>
+   <p>Crayne said cheerfully, “The next thing you’ll be telling us to cheer us up is that we’re in no pain.”</p>
+   <p>“Addi is. I watched him lurch off earlier today. He’s got it psychosomatically—made it into a physical complaint. Like God’s kneeling on his neck; you know, carrying a much-too-great burden that’s unfair, only he won’t complain out loud . . . just points now and then at the nail hole in his hand.” He grinned.</p>
+   <p>“Addi has got more to live for than we do.”</p>
+   <p>“Every man has more to live for than any other man. I don’t have a cute chick to sleep with, but I’d like to see the semis rolling along Riverside Freeway at sunset a few more times. It’s not what you have to live for; it’s that you want to live to see it, to be there—that’s what is so damn sad.”</p>
+   <p>They rode on in silence.</p>
+   <empty-line/>
+   <p>In the quiet living room of the girl’s house the three tempunauts sat around smoking, taking it easy; Addison Doug thought to himself that the girl looked unusually foxy and desirable in her stretched-tight white sweater and micro-skirt and he wished, wistfully, that she looked a little less interesting. He could not really afford to get embroiled in such stuff, at this point. He was too tired.</p>
+   <p>“Does she know,” Benz said, indicating the girl, “what this is all about? I mean, can we talk openly? It won’t wipe her out?” </p>
+   <p>“I haven’t explained it to her yet,” Addison said. </p>
+   <p>“You goddam well better,” Crayne said.</p>
+   <p>“What is it?” the girl said, stricken, sitting upright with one hand directly between her breasts. As if clutching at a religious artifact that isn’t there, Addison thought.</p>
+   <p>“We got snuffed on reentry,” Benz said. He was, really, the crudest of the three. Or at least the most blunt. “You see, Miss . . . ” </p>
+   <p>“Hawkins,” the girl whispered.</p>
+   <p>“Glad to meet you, Miss Hawkins.” Benz surveyed her in his cold, lazy fashion. “You have a first name?” </p>
+   <p>“Merry Lou.”</p>
+   <p>“Okay, Merry Lou,” Benz said. To the other two men he observed, “Sounds like the name a waitress has stitched on her blouse. Merry Lou’s my name and I’ll be serving you dinner and breakfast and lunch and dinner and breakfast for the next few days or however long it is before you all give up and go back to your own time; that’ll be fifty-three dollars and eight cents, please, not including tip And I hope y’all never come back, y’hear?” He voice had begun to shake; his cigarette, too. “Sorry, Miss Hawkins,” he said then. “We’re all screwed up by the implosion at reentry. As soon as we got here in ETA we learned about it. We’ve known longer than anyone else; we knew as soon as we hit Emergence Time.”</p>
+   <p>“But there’s nothing we could do,” Crayne said.</p>
+   <p>“There’s nothing anyone can do,” Addison said to her, and put his arm around her. It felt like a deja vu thing but then it hit him. We’re in a closed time loop, he thought, we keep going through this again and again, trying to solve the reentry problem, each time imagining it’s the first time, the only time . . . and never succeeding. Which attempt is this? Maybe the millionth; we have sat here a million times, raking the same facts over and over again and getting nowhere. He felt bone-weary, thinking that. And he felt a sort of vast philosophical hate toward all other men, who did not have this enigma to deal with. We all go to one place, he thought, as the Bible says. But . . . for the three of us, we have been there already. Are lying there now. So it’s wrong to ask us to stand around on the surface of Earth afterward and argue and worry about it and try to figure out what malfunctioned. That should be, rightly, for our heirs to do. We’ve had enough already.</p>
+   <p>He did not say this aloud, though—for their sake. </p>
+   <p>“Maybe you bumped into something,” the girl said.</p>
+   <p>Glancing at the others, Benz said sardonically, “Maybe we ‘bumped into something.’ ”</p>
+   <p>“The TV commentators kept saying that,” Merry Lou said, “about the hazard in reentry of being out of phase spatially and colliding right down to the molecular level with tangent objects, any one of which—” She gestured. “You know. ‘No two objects can occupy the same space at the same time.’ So everything blew up, for that reason.” She glanced around questioningly.</p>
+   <p>“That is the major risk factor,” Crayne acknowledged. “At least theoretically, as Dr. Fein at Planning calculated when they got into the hazard question. But we had a variety of safety locking devices provided that functioned automatically. Reentry couldn’t occur unless these assists had stabilized us spatially so we would not overlap. Of course, all those devices, in sequence, might have failed. One after the other. I was watching my feedback metric scopes on launch, and they agreed, every one of them, that we were phased properly at that time. And I heard no warning tones. Saw none, neither.” He grimaced. “At least it didn’t happen then.”</p>
+   <p>Suddenly Benz said, “Do you realize that our next of kin are now rich? All our Federal and commercial life-insurance payoff. Our ‘next of kin’—God forbid, that’s us, I guess. We can apply for tens of thousands of dollars, cash on the line. Walk into our brokers’ offices and say, ‘I’m dead; lay the heavy bread on me.</p>
+   <p>Addison Doug was thinking, The public memorial services. That they have planned, after the autopsies. That long line of black-draped Cads going down Pennsylvania Avenue, with all the government dignitaries and double-domed scientist types—<emphasis>and we’ll be there. </emphasis>Not once but twice. Once in the oak hand-rubbed brass-fitted flag-draped caskets, but also . . . maybe riding in open limos, waving at the crowds of mourners.</p>
+   <p>“The ceremonies,” he said aloud.</p>
+   <p>The others stared at him, angrily, not comprehending. And then, one by one, they understood; he saw it on their faces.</p>
+   <p>“No,” Benz grated. “That’s—impossible.”</p>
+   <p>Crayne shook his head emphatically. “They’ll order us to be there, and we will be. Obeying orders.”</p>
+   <p>“Will we have to <emphasis>smile</emphasis>?”Addison said. “To fucking <emphasis>smile</emphasis>?”</p>
+   <empty-line/>
+   <p>“No,” General Toad said slowly, his great wattled head shivering about on his broomstick neck, the color of his skin dirty and mottled, as if the mass of decorations on his stiff-board collar had started part of him decaying away. “You are not to smile, but on the contrary are to adopt a properly grief-stricken manner. In keeping with the national mood of sorrow at this time.”</p>
+   <p>“That’ll be hard to do,” Crayne said.</p>
+   <p>The Russian chrononaut showed no response; his thin beaked face, narrow within his translating earphones, remained strained with concern.</p>
+   <p>“The nation,” General Toad said, “will become aware of your presence among us once more for this brief interval; cameras of all major TV networks will pan up to you without warning, and at the same time, the various commentators have been instructed to tell their audiences something like the following.” He got out a piece of typed material, put on his glasses, cleared his throat and said, “ ‘We seem to be focusing on three figures riding together. Can’t quite make them out. Can you?’ ” General Toad lowered the paper. “At this point they’ll interrogate their colleagues extempore. Finally they’ll exclaim, ‘Why, Roger,’ or Walter or Ned, as the case may be, according to the individual network—”</p>
+   <p>“Or Bill,” Crayne said. “In case it’s the Bufonidae network, down there in the swamp.”</p>
+   <p>General Toad ignored him. “They will severally exclaim, ‘Why Roger I believe we’re seeing the three tempunauts themselves! Does this indeed mean that somehow the difficulty—?’ And then the colleague commentator says in his somewhat more somber voice, ‘What we’re seeing at this time, I think, David,’ or Henry or Pete or Ralph, whichever it is, ‘consists of mankind’s first verified glimpse of what the technical people refer to as Emergence Time Activity or ETA. Contrary to what might seem to be the case at first sight, these are <emphasis>not</emphasis>–repeat, not—our three valiant tempunauts as such, as we would ordinarily experience them, but more likely picked up by our cameras as the three of them are temporarily suspended in their voyage to the future, which we initially had reason to hope would take place in a time continuum roughly a hundred years from now . . . but it would seem that they somehow undershot and are here now, at this moment, which of course is, as we know, our present.’ ”</p>
+   <p>Addison Doug closed his eyes and thought, Crayne will ask him if he can be panned up on by the TV cameras holding a balloon and eating cotton candy. I think we’re all going nuts from this, all of us. And then he wondered, How many times have we gone through this idiotic exchange? </p>
+   <p>I can’t prove it, he thought wearily. But I know it’s true. We’ve sat here, done this minuscule scrabbling, listened to and said all this crap, many times. He shuddered. Each rinky-dink word . . . </p>
+   <p>“What’s the matter?” Benz said acutely.</p>
+   <p>The Soviet chrononaut spoke up for the first time. “What is the maximum interval of ETA possible to your three-man team? And how large a per cent has been exhausted by now?”</p>
+   <p>After a pause Crayne said, “They briefed us on that before we came in here today. We’ve consumed approximately one-half of our maximum total ETA interval.”</p>
+   <p>“However,” General Toad rumbled, “we have scheduled the Day of National Mourning to fall within the expected period remaining to them of ETA time. This required us to speed up the autopsy and other forensic findings, but in view of public sentiment, it was felt . . . ”</p>
+   <p>The autopsy, Addison Doug thought, and again he shuddered; this time he could not keep his thoughts within himself and he said, “Why don’t we adjourn this nonsense meeting and drop down to pathology and view a few tissue sections enlarged and in color, and maybe we’ll brainstorm a couple of vital concepts that’ll aid medical science in its quest for explanations? Explanations—that’s what we need. Explanations for problems that don’t exist yet; we can develop the problems later.” He paused. “Who agrees?”</p>
+   <p>“I’m not looking at my spleen up there on the screen,” Benz said. “I’ll ride in the parade but I won’t participate in my own autopsy.”</p>
+   <p>“You could distribute microscopic purple-stained slices of your own gut to the mourners along the way,” Crayne said. “They could provide each of us with a doggy bag; right, General? We can strew tissue sections like confetti. I still think we should smile.”</p>
+   <p>“I have researched all the memoranda about smiling,” General Toad said, riffling the pages stacked before him, “and the consensus at policy is that smiling is not in accord with national sentiment. So that issue must be ruled closed. As far as your participating in the autopsical procedures which are now in progress—”</p>
+   <p>“We’re missing out as we sit here,” Crayne said to Addison Doug. “I always miss out.”</p>
+   <p>Ignoring him, Addison addressed the Soviet chrononaut. “Officer N. Gauki,” he said into his microphone, dangling on his chest, “what in your mind is the greatest terror facing a time traveler? That there will be an implosion due to coincidence on reentry, such as has occurred in our launch? Or did other traumatic obsessions bother you and your comrade during your own brief but highly successful time flight?”</p>
+   <p>N. Gauki, after a pause, answered, “R. Plenya and I exchanged views at several informal times. I believe I can speak for us both when I respond to your question by emphasizing our perpetual fear that we had inadvertently entered a closed time loop and would never break out.”</p>
+   <p>“You’d repeat it forever?” Addison Doug asked.</p>
+   <p>“Yes, Mr. A. Doug,” the chrononaut said, nodding somberly.</p>
+   <p>A fear that he had never experienced before overcame Addison Doug. He turned helplessly to Benz and muttered, “Shit.” They gazed at each other.</p>
+   <p>“I really don’t believe this is what happened,” Benz said to him in a low voice, putting his hand on Doug’s shoulder; he gripped hard, the grip of friendship. “We just imploded on reentry, that’s all. Take it easy.”</p>
+   <p>“Could we adjourn soon?” Addison Doug said in a hoarse, strangling voice, half rising from his chair. He felt the room and the people in it rushing in at him, suffocating him. Claustrophobia, he realized. Like when I was in grade school, when they flashed a surprise test on our teaching machines, and I saw I couldn’t pass it. “Please,” he said simply, standing. They were all looking at him, with different expressions. The Russian’s face was especially sympathetic, and deeply lined with care. Addison wished—“I want to go home,” he said to them all, and felt stupid.</p>
+   <empty-line/>
+   <p>He was drunk. It was late at night, at a bar on Hollywood Boulevard; fortunately, Merry Lou was with him, and he was having a good time. Everyone was telling him so, anyhow. He clung to Merry Lou and said, “The great unity in life, the supreme unity and meaning, is man and woman. Their absolute unity; right?”</p>
+   <p>“I know,” Merry Lou said. “We studied that in class.” Tonight, at his request, Merry Lou was a small blonde girl, wearing purple bellbottoms and high heels and an open midriff blouse. Earlier she had had a lapis lazuli in her navel, but during dinner at Ting Ho’s it had popped out and been lost. The owner of the restaurant had promised to keep on searching for it, but Merry Lou had been gloomy ever since. It was, she said, symbolic. But of what she did not say. Or anyhow he could not remember; maybe that was it. She had told him what it meant, and he had forgotten.</p>
+   <p>An elegant young black at a nearby table, with an Afro and striped vest and overstuffed red tie, had been staring at Addison for some time. He obviously wanted to come over to their table but was afraid to; meanwhile, he kept on staring.</p>
+   <p>“Did you ever get the sensation,” Addison said to Merry Lou, “that you knew exactly what was about to happen? What someone was going to say? Word for word? Down to the slightest detail. As if you had already lived through it once before?”</p>
+   <p>“Everybody gets into that space,” Merry Lou said. She sipped a Bloody Mary.</p>
+   <p>The black rose and walked toward them. He stood by Addison. “I’m sorry to bother you, sir.”</p>
+   <p>Addison said to Merry Lou, “He’s going to say, ‘Don’t I know you from somewhere? Didn’t I see you on TV?’ ”</p>
+   <p>“That was precisely what I intended to say,” the black said.</p>
+   <p>Addison said, “You undoubtedly saw my picture on page forty-six of the current issue of <emphasis>Time, </emphasis>the section on new medical discoveries. I’m the G.P. from a small town in Iowa catapulted to fame by my invention of a widespread, easily available cure for eternal life. Several of the big pharmaceutical houses are already bidding on my vaccine.”</p>
+   <p>“That might have been where I saw your picture,” the black said, but he did not appear convinced. Nor did he appear drunk; he eyed Addison Doug intensely. “May I seat myself with you and the lady?”</p>
+   <p>“Sure,” Addison Doug said. He now saw, in the man’s hand, the ID of the U.S. security agency that had ridden herd on the project from the start.</p>
+   <p>“Mr. Doug,” the security agent said as he seated himself beside Addison, “you really shouldn’t be here shooting off your mouth like this. If I recognized you some other dude might and break out. It’s all classified until the Day of Mourning. Technically, you’re in violation of a Federal Statute by being here; did you realize that? I should haul you in. But this is a difficult situation; we don’t want to do something uncool and make a scene. Where are your two colleagues?”</p>
+   <p>“At my place,” Merry Lou said. She had obviously not seen the ID. “Listen,” she said sharply to the agent, “why don’t you get lost? My husband here has been through a grueling ordeal, and this is his only chance to unwind.”</p>
+   <p>Addison looked at the man. “I knew what you were going to say before you came over here.” Word for word, he thought. I am right, and Benz is wrong and this will keep happening, this replay.</p>
+   <p>“Maybe,” the security agent said, “I can induce you to go back to Miss Hawkins’ place voluntarily. Some info arrived”—he tapped the tiny earphone in his right ear—“just a few minutes ago, to all of us, to deliver to you, marked urgent, if we located you. At the launchsite ruins . . . they’ve been combing through the rubble, you know?”</p>
+   <p>“I know,” Addison said.</p>
+   <p>“They think they have their first clue. Something was brought back by one of you. From ETA, over and above what you took, in violation of all your pre-launch training.”</p>
+   <p>“Let me ask you this,” Addison Doug said. “Suppose somebody does see me? Suppose somebody does recognize me? So what?”</p>
+   <p>“The public believes that even though reentry failed, the flight into time, the first American time-travel launch, was successful. Three U.S. tempunauts were thrust a hundred years into the future—roughly twice as far as the Soviet launch of last year. That you only went a <emphasis>week </emphasis>will be less of a shock if it’s believed that you three chose deliberately to remanifest at this continuum because you wished to attend, in fact felt compelled to attend—”</p>
+   <p>“We wanted to be in the parade,” Addison interrupted. “Twice.”</p>
+   <p>“You were drawn to the dramatic and somber spectacle of your own funeral procession, and will be glimpsed there by the alert camera crews of all major networks. Mr. Doug, really, an awful lot of high-level planning and expense have gone into this to help correct a dreadful situation; trust us, believe me. It’ll be easier on the public, and that’s vital, if there’s ever to be another U.S. time shot. And that is, after all, what we all want.”</p>
+   <p>Addison Doug stared at him. “We want what?”</p>
+   <p>Uneasily, the security agent said, “To take further trips into time. As you have done. Unfortunately, you yourself cannot ever do so again, because of the tragic implosion and death of the three of you. But other tempunauts—”</p>
+   <p>“We want what? Is that what we want?” Addison’s voice rose; people at nearby tables were watching now. Nervously.</p>
+   <p>“Certainly,” the agent said. “And keep your voice down.”</p>
+   <p>“I don’t want that,” Addison said. “I want to stop. To stop forever. To just lie in the ground, in the dust, with everyone else. To see no more summers—the <emphasis>same </emphasis>summer.”</p>
+   <p>“Seen one, you’ve seen them all,” Merry Lou said hysterically. “I think he’s right, Addi; we should get out of here. You’ve had too many drinks, and it’s late, and this news about the—”</p>
+   <p>Addison broke in, “What was brought back? How much extra mass?”</p>
+   <p>The security agent said, “Preliminary analysis shows that machinery weighing about one hundred pounds was lugged back into the time-field of the module and picked up along with you. This much mass—” The agent gestured. “That blew up the pad right on the spot. It couldn’t begin to compensate for that much more than had occupied its open area at launch time.”</p>
+   <p>“Wow!” Merry Lou said, eyes wide. “Maybe somebody sold one of you a quadraphonic phono for a dollar ninety-eight including fifteen-inch air-suspension speakers and a lifetime supply of Neil Diamond records.” She tried to laugh, but failed; her eyes dimmed over. “Addi,” she whispered, “I’m sorry. But it’s sort of—weird. I mean, it’s absurd; you all were briefed, weren’t you, about your return weight? You weren’t even to add so much as a piece of paper to what you took. I even saw Dr. Fein demonstrating the reasons on TV. And one of you hoisted a hundred pounds of machinery into that field? You must have been trying to self-destruct, to do that!” Tears slid from her eyes; one tear rolled out onto her nose and hung there. He reached reflexively to wipe it away, as if helping a little girl rather than a grown one.</p>
+   <p>“I’ll fly you to the analysis site,” the security agent said, standing up. He and Addison helped Merry Lou to her feet; she trembled as she stood a moment, finishing her Bloody Mary. Addison felt acute sorrow for her, but then, almost at once, it passed. He wondered why. One can weary even of that, he conjectured. Of caring for someone. If it goes on too long—on and on. Forever. And, at last, even after that, into something no one before, not God Himself, maybe, had ever had to suffer and in the end, for all His great heart, succumb to.</p>
+   <p>As they walked through the crowded bar toward the street, Addison Doug said to the security agent, “Which one of us—”</p>
+   <p>“They know which one,” the agent said as he held the door to the street open for Merry Lou. The agent stood, now, behind Addison, signaling for a gray Federal car to land at the red parking area. Two other security agents, in uniform, hurried toward them.</p>
+   <p>“Was it me?” Addison Doug asked.</p>
+   <p>“You better believe it,” the security agent said.</p>
+   <empty-line/>
+   <p>The funeral procession moved with aching solemnity down Pennsylvania Avenue, three flag-draped caskets and dozens of black limousines passing between rows of heavily coated, shivering mourners. A low haze hung over the day, gray outlines of buildings faded into the rain-drenched murk of the Washington March day.</p>
+   <p>Scrutinizing the lead Cadillac through prismatic binoculars, TV’s top news and public-events commentator, Henry Cassidy, droned on at his vast unseen audience, “ . . . sad recollections of that earlier train among the wheatfields carrying the coffin of Abraham Lincoln back to burial and the nation’s capital. And what a sad day this is, and what appropriate weather, with its dour overcast and sprinkles!” In his monitor he saw the zoomar lens pan up on the fourth Cadillac, as it followed those with the caskets of the dead tempunauts.</p>
+   <p>His engineer tapped him on the arm.</p>
+   <p>“We appear to be focusing on three unfamiliar figures so far not identified, riding together,” Henry Cassidy said into his neck mike, nodding agreement. “So far I’m unable to quite make them out. Are your location and vision any better from where you’re placed, Everett?” he inquired of his colleague and pressed the button that notified Everett Branton to replace him on the air.</p>
+   <p>“Why, Henry,” Branton said in a voice of growing excitement, “I believe we’re actually eyewitness to the three American tempunauts as they remanifest themselves on their historic journey into the future!”</p>
+   <p>“Does this signify,” Cassidy said, “that somehow they have managed to solve and overcome the—”</p>
+   <p>“Afraid not, Henry,” Branton said in his slow, regretful voice. “What we’re eyewitnessing to our complete surprise consists of the Western world’s first verified glimpse of what the technical people refer to as Emergence Time Activity.”</p>
+   <p>“Ah, yes, ETA,” Cassidy said brightly, reading it off the official script the Federal authorities had handed to him before air time.</p>
+   <p>“Right, Henry. Contrary to what <emphasis>might </emphasis>seem to be the case at first sight, these are not—repeat <emphasis>not—</emphasis>our three brave tempunauts as such, as we would ordinarily experience them—”</p>
+   <p>“I grasp it now, Everett,” Cassidy broke in excitedly, since his authorized script read CASS BREAKS IN EXCITEDLY. “Our three tempunauts have momentarily suspended in their historic voyage to the future, which we believe will span across a time-continuum roughly a century from now . . . It would seem that the overwhelming grief and drama of this unanticipated day of mourning has caused them to—”</p>
+   <p>“Sorry to interrupt, Henry,” Everett Branton said, “but I think, since the procession has momentarily halted on its slow march forward, that we might be able to—”</p>
+   <p>“No!” Cassidy said, as a note was handed him in a swift scribble, reading: <emphasis>Do not interview nauts. Urgent. Dis. previous inst. </emphasis>“I don’t think we’re going to be able to . . . ” he continued, “ . . . to speak briefly with tempunauts Benz, Crayne, and Doug, as you had hoped, Everett. As we had all briefly hoped to.” He wildly waved the boom-mike back; it had already begun to swing out expectantly toward the stopped Cadillac. Cassidy shook his head violently at the mike technician and his engineer.</p>
+   <p>Perceiving the boom-mike swinging at them Addison Doug stood up in the back of the open Cadillac. Cassidy groaned. He wants to speak, he realized. Didn’t they reinstruct <emphasis>him? </emphasis>Why am I the only one they get across to? Other boom-mikes representing other networks plus radio station interviewers on foot now were rushing out to thrust up their microphones into the faces of the three tempunauts, especially Addison Doug’s. Doug was already beginning to speak, in response to a question shouted up to him by a reporter. With his boom-mike off, Cassidy couldn’t hear the question, nor Doug’s answer. With reluctance, he signaled for his own boom-mike to trigger on.</p>
+   <p>“ . . . before,” Doug was saying loudly.</p>
+   <p>“In what manner, ‘All this has happened before’?” the radio reporter, standing close to the car, was saying.</p>
+   <p>“I mean,” U.S. tempunaut Addison Doug declared, his face red and strained, “that I have stood here in this spot and said again and again, and all of you have viewed this parade and our deaths at reentry endless times, a closed cycle of trapped time which must be broken.”</p>
+   <p>“Are you seeking,” another reporter jabbered up at Addison Doug, “for a solution to the reentry implosion disaster which can be applied in retrospect so that when you do return to the past you will be able to correct the malfunction and avoid the tragedy which cost—or for you three, will cost—your lives?”</p>
+   <p>Tempunaut Benz said, “We are doing that, yes.”</p>
+   <p>“Trying to ascertain the cause of the violent implosion and eliminate the cause before we return,” tempunaut Crayne added, nodding. “We have learned already that, for reasons unknown, a mass of nearly one hundred pounds of miscellaneous Volkswagen motor parts, including cylinders, the head . . . ”</p>
+   <p>This is awful, Cassidy thought. “This is amazing!” he said aloud, into his neck mike. “The already tragically deceased U.S. tempunauts, with a determination that could emerge only from the rigorous training and discipline to which they were subjected—and we wondered why at the time but can clearly see why now—have already analyzed the mechanical slip-up responsible, evidently, for their own deaths, and have begun the laborious process of sifting through and eliminating causes of that slip-up so that they can return to their original launch site and reenter without mishap.”</p>
+   <p>“One wonders,” Branton mumbled onto the air and into his feedback earphone, “what the consequences of this alteration of the near past will be. If in reentry they do <emphasis>not </emphasis>implode and are <emphasis>not </emphasis>killed, then they will not—well, it’s too complex for me, Henry, these time paradoxes that Dr. Fein at the Time Extrusion Labs in Pasadena has so frequently and eloquently brought to our attention.”</p>
+   <p>Into all the microphones available, of all sorts, tempunaut Addison Doug was saying, more quietly now, “We must not eliminate the cause of reentry implosion. The only way out of this trap is for us to die. Death is the only solution for this. For the three of us.” He was interrupted as the procession of Cadillacs began to move forward.</p>
+   <p>Shutting off his mike momentarily, Henry Cassidy said to his engineer, “Is he nuts?”</p>
+   <p>“Only time will tell,” his engineer said in a hard-to-hear voice. </p>
+   <p>“An extraordinary moment in the history of the United States’ involvement in time travel,” Cassidy said, then, into his now live mike. “Only time will tell—if you will pardon the inadvertent pun—whether tempunaut Doug’s cryptic remarks, uttered impromptu at this moment of supreme suffering for him, as in a sense to a lesser degree it is for all of us, are the words of a man deranged by grief or an accurate insight into the macabre dilemma that in theoretical terms we knew all along might eventually confront—confront and strike down with its lethal blow—a time-travel launch, either ours or the Russians’.”</p>
+   <p>He segued, then, to a commercial.</p>
+   <p>“You know,” Branton’s voice muttered in his ear, not on the air but just to the control room and to him, “if he’s right they ought to let the poor bastards die.”</p>
+   <p>“They ought to release them,” Cassidy agreed. “My God, the way Doug looked and talked, you’d imagine he’d gone through this for a thousand years and then some! I wouldn’t be in his shoes for anything.”</p>
+   <p>“I’ll bet you fifty bucks,” Branton said, “they have gone through this before. Many times.”</p>
+   <p>“Then we have, too,” Cassidy said.</p>
+   <p>Rain fell now, making all the lined-up mourners shiny. Their faces, their eyes, even their clothes—everything glistened in wet reflections of broken, fractured light, bent and sparkling, as, from gathering gray formless layers above them, the day darkened.</p>
+   <p>“Are we on the air?” Branton asked.</p>
+   <p>Who knows? Cassidy thought. He wished the day would end.</p>
+   <empty-line/>
+   <p>The Soviet chrononaut N. Gauki lifted both hands impassionedly and spoke to the Americans across the table from him in a voice of extreme urgency. “It is the opinion of myself and my colleague R. Plenya, who for his pioneering achievements in time travel has been certified a Hero of the Soviet People, and rightly so, that based on our own experience and on theoretical material developed both in your own academic circles and in the soviet Academy of Sciences of the USSR, we believe that tempunaut A. Doug’s fears may be justified. And his deliberate destruction of himself and his teammates at reentry, by hauling a huge mass of auto back with him from ETA, in violation of his orders, should be regarded as the act of a desperate man with no other means of escape. Of course, the decision is up to you. We have only advisory position in this matter.”</p>
+   <p>Addison Doug played with his cigarette lighter on the table and did not look up. His ears hummed, and he wondered what that meant. It had an electronic quality. Maybe we’re within the module again, he thought. But he didn’t perceive it; he felt the reality of the people around him, the table, the blue plastic lighter between his fingers. No smoking in the module during reentry, he thought. He put the lighter carefully away in his pocket.</p>
+   <p>“We’ve developed no concrete evidence whatsoever,” General Toad said, “that a closed time loop has been set up. There’s only the subjective feelings of fatigue on the part of Mr. Doug. Just his belief that he’s done all this repeatedly. As he says, it is very probably psychological in nature.” He rooted, piglike, among the papers before him. “I have a report, not disclosed to the media, from four psychiatrists at Yale on his psychological makeup. Although unusually stable, there is a tendency toward cyclothymia on his part, culminating in acute depression. This naturally was taken into account long before the launch, but it was calculated that the joyful qualities of the two others in the team would offset this functionally. Anyhow, that depressive tendency in him is exceptionally high, now.” He held the paper out, but no one at the table accepted it. “Isn’t it true, Dr. Fein,” he said, “that an acutely depressed person experiences time in a peculiar way, that is, circular time, time repeating itself, getting nowhere, around and around? The person gets so psychotic that he refuses to let go of the past. Reruns it in his head constantly.”</p>
+   <p>“But you see,” Dr. Fein said, “this subjective sensation of being trapped is perhaps all we would have.” This was the research physicist whose basic work had laid the theoretical foundation for the project. “If a closed loop did unfortunately lock into being.”</p>
+   <p>“The general,” Addison Doug said, “is using words he doesn’t understand.” </p>
+   <p>“I researched the one I was unfamiliar with.” General Toad said. “The technical psychiatric terms . . . I know what they mean.”</p>
+   <p>To Addison Doug, Benz said, “Where’d you get all those VW parts, Addi?” </p>
+   <p>“I don’t have them yet,” Addison Doug said.</p>
+   <p>“Probably picked up the first junk he could lay his hands on,” Crayne said. “Whatever was available, just before we started back.” </p>
+   <p>“Will start back,” Addison Doug corrected.</p>
+   <p>“Here are my instructions to the three of you,” General Toad said. “You are not in any way to attempt to cause damage or implosion or malfunction during reentry, either by lugging back extra mass or by any other method that enters your mind. You are to return as scheduled and in replica of the prior simulations. This especially applies to you, Mr. Doug.” The phone by his right arm buzzed. He frowned, picked up the receiver. An interval passed, and then he scowled deeply and set the receiver back down, loudly. </p>
+   <p>“You’ve been overruled,” Dr. Fein said.</p>
+   <p>“Yes, I have,” General Toad said. “And I must say at this time that I am personally glad because my decision was an unpleasant one.”</p>
+   <p>“Then we can arrange for implosion at reentry,” Benz said after a pause. “The three of you are to make the decision,” General Toad said. “Since it involves your lives. It’s been entirely left up to you. Whichever way you want it. If you’re convinced you’re in a closed time loop, and you believe a massive implosion at reentry will abolish it—” He ceased talking, as tempunaut Doug rose to his feet. “Are you going to make another speech, Doug?” he said.</p>
+   <p>“I just want to thank everyone involved,” Addison Doug said. “For letting us decide.” He gazed haggard-faced and wearily around at all the individuals seated at the table. “I really appreciate it.”</p>
+   <p>“You know,” Benz said slowly, “blowing us up at reentry could add nothing to the chances of abolishing a closed loop. In fact that could do it, Doug.” </p>
+   <p>“Not if it kills us all,” Crayne said. </p>
+   <p>“You agree with Addi?” Benz said.</p>
+   <p>“Dead is dead,” Crayne said. “I’ve been pondering it. What other way is more likely to get us out of this? Than if we’re dead? What possible other way?” </p>
+   <p>“You may be in no loop,” Dr. Fein pointed out. </p>
+   <p>“But we may be,” Crayne said.</p>
+   <p>Doug, still on his feet, said to Crayne and Benz, “Could we include Merry Lou in our decision-making?” </p>
+   <p>“Why?” Benz said.</p>
+   <p>“I can’t think too clearly any more,” Doug said. “Merry Lou can help me; I depend on her.”</p>
+   <p>“Sure,” Crayne said. Benz, too, nodded.</p>
+   <p>General Toad examined his wristwatch stoically and said, “Gentlemen, this concludes our discussion.”</p>
+   <p>Soviet chrononaut Gauki removed his headphones and neck mike and hurried toward the three U.S. tempunauts, his hand extended; he was apparently saying something in Russian, but none of them could understand it. They moved away somberly, clustering close.</p>
+   <p>“In my opinion you’re nuts, Addi,” Benz said. “But it would appear that I’m the minority now.”</p>
+   <p>“If he <emphasis>is </emphasis>right,” Crayne said, “if—one chance in a billion—if we are going back again and again forever, that would justify it.”</p>
+   <p>“Could we go see Merry Lou?” Addison Doug said. “Drive over to her place now?”</p>
+   <p>“She’s waiting outside,” Crayne said.</p>
+   <p>Striding up to stand beside the three tempunauts, General Toad said, “You know, what made the determination go the way it did was the public reaction to how you, Doug, looked and behaved during the funeral procession. The NSC advisors came to the conclusion that the public would, like you, rather be certain it’s over for all of you. That it’s more of a relief to them to know you’re free of your mission than to save the project and obtain a perfect reentry. I guess you really made a lasting impression on them, Doug. That whining you did.” He walked away, then, leaving the three of them standing there alone.</p>
+   <p>“Forget him,” Crayne said to Addison Doug. “Forget everyone like him. We’ve got to do what we have to.”</p>
+   <p>“Merry Lou will explain it to me,” Doug said. She would know what to do, what would be right.</p>
+   <p>“I’ll go get her,” Crayne said, “and after that the four of us can drive somewhere, maybe to her place, and decide what to do. Okay?”</p>
+   <p>“Thank you,” Addison Doug said, nodding; he glanced around for her hopefully, wondering where she was. In the next room, perhaps, somewhere close. “I appreciate that,” he said.</p>
+   <p>Benz and Crayne eyed each other. He saw that, but did not know what it meant. He knew only that he needed someone, Merry Lou most of all, to help him understand what the situation was. And what to finalize on to get them out of it.</p>
+   <empty-line/>
+   <p>Merry Lou drove them north from Los Angeles in the superfast lane of the freeway toward Ventura, and after that inland to Ojai. The four of them said very little. Merry Lou drove well, as always; leaning against her, Addison Doug felt himself relax into a temporary sort of peace.</p>
+   <p>“There’s nothing like having a chick drive you,” Crayne said, after many miles had passed in silence.</p>
+   <p>“It’s an aristocratic sensation,” Benz murmured. “To have a woman do the driving. Like you’re nobility being chauffeured.”</p>
+   <p>Merry Lou said, “Until she runs into something. Some big slow object.”</p>
+   <p>Addison Doug said, “When you saw me trudging up to your place . . . up the redwood round path the other day. What did you think? Tell me honestly.”</p>
+   <p>“You looked,” the girl said, “as if you’d done it many times. You looked worn and tired and—ready to die. At the end.” She hesitated. “I’m sorry, but that’s how you looked, Addi. I thought to myself, he knows the way too well.”</p>
+   <p>“Like I’d done it too many times.”</p>
+   <p>“Yes,” she said.</p>
+   <p>“Then you vote for implosion,” Addison Doug said.</p>
+   <p>“Well—”</p>
+   <p>“Be honest with me,” he said.</p>
+   <p>Merry Lou said, “Look in the back seat. The box on the floor.”</p>
+   <p>With a flashlight from the glove compartment the three men examined the box. Addison Doug, with fear, saw its contents. VW motor parts, rusty and worn. Still oily.</p>
+   <p>“I got them from behind a foreign-car garage near my place,” Merry Lou said. “On the way to Pasadena. The first junk I saw that seemed as if it’d be heavy enough. I had heard them say on TV at launch time that anything over fifty pounds up to—”</p>
+   <p>“It’ll do it,” Addison Doug said. “It did do it.”</p>
+   <p>“So there’s no point in going to your place,” Crayne said. “It’s decided. We might as well head south toward the module. And initiate the procedure for getting out of ETA. And back to reentry.” His voice was heavy but evenly pitched. “Thanks for your vote, Miss Hawkins.”</p>
+   <p>She said, “You are all so tired.”</p>
+   <p>“I’m not,” Benz said. “I’m mad. Mad as hell.”</p>
+   <p>“At me?” Addison Doug said.</p>
+   <p>“I don’t know,” Benz said. “It’s just—Hell.” He lapsed into brooding silence then. Hunched over, baffled and inert. Withdrawn as far as possible from the others in the car.</p>
+   <p>At the next freeway junction she turned the car south. A sense of freedom seemed now to fill her, and Addison Doug felt some of the weight, the fatigue, ebbing already.</p>
+   <p>On the wrist of each of the three men the emergency alert receiver buzzed its warning tone; they all started.</p>
+   <p>“What’s that mean?” Merry Lou said, slowing the car.</p>
+   <p>“We’re to contact General Toad by phone as soon as possible,” Crayne said. He pointed. “There’s a Standard Station over there; take the next exit, Miss Hawkins. We can phone in from there.”</p>
+   <p>A few minutes later Merry Lou brought her car to a halt beside the outdoor phone booth. “I hope it’s not bad news,” she said.</p>
+   <p>“I’ll talk first,” Doug said, getting out. Bad news, he thought with labored amusement. Like what? He crunched stiffly across to the phone booth, entered, shut the door behind him, dropped in a dime and dialed the toll-free number.</p>
+   <p>“Well, do I have news!” General Toad said when the operator had put him on the line. “It’s a good thing we got hold of you. Just a minute—I’m going to let Dr. Fein tell you this himself. You’re more apt to believe him than me.” Several clicks, and then Dr. Fein’s reedy, precise, scholarly voice, but intensified by urgency.</p>
+   <p>“What’s the bad news?” Addison Doug said.</p>
+   <p>“Not bad, necessarily,” Dr. Fein said. “I’ve had computations run since our discussion, and it would appear—by that I mean it is statistically probable but still unverified for a certainty—that you are right, Addison. You are in a closed time loop.”</p>
+   <p>Addison Doug exhaled raggedly. You nowhere autocratic mother, he thought. You probably knew all along.</p>
+   <p>“However,” Dr. Fein said excitedly, stammering a little, “I also calculate—we jointly do, largely through Cal Tech—that the greatest likelihood of maintaining the loop is to implode on reentry. Do you understand, Addison? If you lug all those rusty VW parts back and implode, then your statistical chances of closing the loop forever is greater than if you simply reenter and all goes well.”</p>
+   <p>Addison Doug said nothing.</p>
+   <p>“In fact, Addi—and this is the severe part that I have to stress—implosion at reentry, especially a massive, calculated one of the sort we seem to see shaping up—do you grasp all this, Addi? Am I getting through to you? For Chrissake, Addi? Virtually <emphasis>guarantees </emphasis>the locking in of an absolutely unyielding loop such as you’ve got in mind. Such as we’ve all been worried about from the start.” A pause. “Addi? Are you there?”</p>
+   <p>Addison Doug said, “I want to die.”</p>
+   <p>“That’s your exhaustion from the loop. God knows how many repetitions there’ve been already of the three of you—”</p>
+   <p>“No,” he said and started to hang up.</p>
+   <p>“Let me speak with Benz and Crayne,” Dr. Fein said rapidly. “Please, before you go ahead with reentry. Especially Benz; I’d like to speak with him in particular. Please, Addison. For their sake; your almost total exhaustion has—”</p>
+   <p>He hung up. Left the phone booth, step by step.</p>
+   <p>As he climbed back into the car, he heard their two alert receivers still buzzing. “General Toad said the automatic call for us would keep your two receivers doing that for a while,” he said. And shut the car door after him. “Let’s take off.”</p>
+   <p>“Doesn’t he want to talk to us?” Benz said.</p>
+   <p>Addison Doug said, “General Toad wanted to inform us that they have a little something for us. We’ve been voted a special Congressional Citation for valor or some damn thing like that. A special medal they never voted anyone before. To be awarded posthumously.”</p>
+   <p>“Well, hell—that’s about the only way it can be awarded,” Crayne said.</p>
+   <p>Merry Lou, as she started up the engine, began to cry.</p>
+   <p>“It’ll be a relief,” Crayne said presently, as they returned bumpily to the freeway, “when it’s over.”</p>
+   <p>It won’t be long now, Addison Doug’s mind declared.</p>
+   <p>On their wrists the emergency alert receivers continued to put out their combined buzzing.</p>
+   <p>“They will nibble you to death,” Addison Doug said. “The endless wearing down by various bureaucratic voices.”</p>
+   <p>The others in the car turned to gaze at him inquiringly, with uneasiness mixed with perplexity.</p>
+   <p>“Yeah,” Crayne said. “These automatic alerts are really a nuisance.” He sounded tired. As tired as I am, Addison Doug thought. And, realizing this, he felt better. It showed how right he was.</p>
+   <p>Great drops of water struck the windshield; it had now begun to rain. That pleased him too. It reminded him of that most exalted of all experiences within the shortness of his life: the funeral procession moving slowly down Pennsylvania Avenue, the flag-draped caskets. Closing his eyes he leaned back and felt good at last. And heard, all around him once again, the sorrow-bent people. And, in his head, dreamed of the special Congressional Medal. For weariness, he thought. A medal for being tired.</p>
+   <p>He saw, in his head, himself in other parades too, and in the deaths of many. But really it was one death and one parade. Slow cars moving along the street in Dallas and with Dr. King as well . . . He saw himself return again and again, in his closed cycle of life, to the national mourning that he could not and they could not forget. He would be there; they would always be there; it would always be, and every one of them would return together again and again forever. To the place, the moment, they wanted to be. The event which meant the most to all of them.</p>
+   <p>This was his gift to them, the people, his country. He had bestowed upon the world a wonderful burden. The dreadful and weary miracle of eternal life.</p>
+  </section>
+  <section>
+   <title>
+    <p>Commentary by Philip K. Dick</p>
+   </title>
+   <p><emphasis>In this story I felt a vast weariness over the space program, which had thrilled us so at the start—especially the first lunar landing—and then had been forgotten and virtually shutdown, a relic of history. I wondered, if time-travel became a “program” would it suffer the same fate? Or was there an even worse possibility latent in it, within the very nature of the paradoxes of time-travel? </emphasis>(1976)</p>
+   <p><emphasis>The essence of the time-travel story is a confrontation of some sort, best of all by the person with himself. Really, this is the drama of much good fiction anyhow, except that in such a story as </emphasis>A Little Something For Us Tempunauts <emphasis>the moment in which the man meets himself face-to-face permits an alienation that could not occur in any other variety of writing . . . alienation and not understanding, as one might expect. Addison Doug-One rides alive on the casket containing the corpse of Addison Doug-Two and knows it, knows he is now two persons—he is split as in a physical schizophrenia. And his mind also is divided rather than united; he gains no insight from this event, neither of himself nor of that other Addison Doug who can no longer reason or problem-solve, but can only lie there inert and in darkness. This irony is just one of the enormous number of ironies possible in time-travel stories; naively, one would think that to travel into the future and return would lead to an increase in knowledge rather than to a loss of it. The three tempunauts go ahead in time, return, and are trapped, perhaps forever, by ironies and within ironies, the greatest one of which, I think, is their own bewilderment at their own actions. It is as if the increase in information brought about by such a technological achievement—information as to exactly what is going to happen—decreases true understanding. Perhaps Addison Doug knows too much.</emphasis></p>
+   <p><emphasis>In writing this story I felt a weary sadness of my own, and fell into the space (I should say time) that the characters are in, more so than usual. I felt a futility about futility—there is nothing more defeating than a strong awareness of defeat, and as I wrote I realized that what for us remains merely a psychological problem—over-awareness of the likelihood of failing and the lethal feedback from this—would for a time-traveler be instantly converted into an existential, physical horror-chamber. We, when we’re depressed, are fortunately imprisoned within our heads; once time-travel becomes a reality, however, this self-defeating psychological attitude could spell doom on a scale beyond calculation. Here again, science fiction allows a writer to transfer what usually is an internal problem into an external environment; he projects it in the form of a society, a planet, with everyone stuck, so to speak, in what formerly was one unique brain. I don’t blame some readers for resenting this, because the brains of some of us are unpleasant places to be in . . . but on the other hand, what a valuable tool this is for us: to grasp that we do not all reatty see the universe in the same way, or, in a sense, the same universe at all. Addison Doug’s dismal world suddenly spreads out and becomes the world of many people. But unlike a person reading a story, who can and will finish it and abolish his inclusion in the author’s world, the people in this story are stuck fast forever. This is a tyranny not yet possible so readily . . . but, when you consider the power of the coercive propaganda apparatus of the modern-day state (when it’s the enemy state we call it “brainwashing”) you might wonder if it isn’t a question of degree. Our glorious leaders of right now cannot trap us in extensions of their heads merely by lugging some old VW motor parts around, but the alarm of the characters in this story as to what is befalling them might rightly be our own alarm in a lesser way.</emphasis></p>
+   <p><emphasis>Addison Doug expresses the desire “to see no more summers.” We should all object; noone should drag us, however subtly or for whatever evidently benign reasons, into that view or that desire: we should individually and collectively yearn to see as many summers as we can, even in the imperfect world we are living in now. </emphasis>(1973).</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>A Little Something For Us Tempunauts</emphasis> 2/13/73. <emphasis>Final Stage, </emphasis>Edited By Edward L. Ferman And Barry N. Malzberg, New York, 1974.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

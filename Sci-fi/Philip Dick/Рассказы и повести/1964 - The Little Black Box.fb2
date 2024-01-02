@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Little Black Box </book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>The Little Black Box</emphasis> (“From Ordinary Household Objects”) 5/6/63. <emphasis>Worlds of Tomorrow, </emphasis>Aug 1964.</p>
+   </annotation>
+   <date>1964</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-14">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Little Black Box</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <title>
+    <p>The Little Black Box</p>
+   </title>
+   <section>
+    <title>
+     <p>I</p>
+    </title>
+    <p>Bogart Crofts of the State Department said, “Miss Hiashi, we want to send you to Cuba to give religious instruction to the Chinese population there. It’s your Oriental background. It will help.”</p>
+    <p>With a faint moan, Joan Hiashi reflected that her Oriental background consisted of having been born in Los Angeles and having attended courses at UCSB, the University of Santa Barbara. But she was technically, from the standpoint of training, an Asian scholar, and she had properly listed this on her job-application form.</p>
+    <p>“Let’s consider the word <emphasis>caritas</emphasis>,” Crofts was saying. “In your estimation, what actually does it mean, as Jerome used it? Charity? Hardly. But then what? Friendliness? Love?”</p>
+    <p>Joan said, “My field is Zen Buddhism.”</p>
+    <p>“But everybody,” Crofts protested in dismay, “knows what caritas means in late Roman usage. The esteem of good people for one another; that’s what it means.” His gray, dignified eyebrows raised. “Do you want this job, Miss Hiashi? And if so, why?”</p>
+    <p>“I want to disseminate Zen Buddhist propaganda to the Communist Chinese in Cuba,” Joan said, “because—” She hesitated. The truth was simply that it meant a good salary for her, the first truly high-paying job she had ever held. From a career standpoint, it was a plum. “Aw, hell,” she said. “What is the nature of the One Way? I don’t have any answer.”</p>
+    <p>“It’s evident that your field has taught you a method of avoiding giving honest answers,” Crofts said sourly. “And being evasive. However—” He shrugged. “Possibly that only goes to prove that you’re well trained and the proper person for the job. In Cuba you’ll be running up against some rather worldly and sophisticated individuals, who in addition are quite well off even from the U.S. standpoint. I hope you can cope with them as well as you’ve coped with me.”</p>
+    <p>Joan said, “Thank you, Mr. Crofts.” She rose. “I’ll expect to hear from you, then.”</p>
+    <p>“I am impressed by you,” Crofts said, half to himself. “After all, you’re the young lady who first had the idea of feeding Zen Buddhist riddles to UCSB’s big computers.”</p>
+    <p>“I was the first to <emphasis>do </emphasis>it,” Joan corrected. “But the idea came from a friend of mine, Ray Meritan. The gray-green jazz harpist.”</p>
+    <p>“Jazz and Zen Buddhism,” Crofts said. “State may be able to make use of you in Cuba.”</p>
+    <empty-line/>
+    <p>To Ray Meritan she said, “I have to get out of Los Angeles, Ray. I really can’t stand the way we’re living here.” She walked to the window of his apartment and looked out at the monorail gleaming far off. The silver car made its way at enormous speed, and Joan hurriedly looked away.</p>
+    <p>If we only could suffer, she thought. That’s what we lack, any real experience of suffering, because we can escape anything. Even this.</p>
+    <p>“But you are getting out,” Ray said. “You’re going to Cuba and convert wealthy merchants and bankers into becoming ascetics. And it’s a genuine Zen paradox; you’ll be paid for it.” He chuckled. “Fed into a computer, a thought like that would do harm. Anyhow, you won’t have to sit in the Crystal Hall every night listening to me play—if that’s what you’re anxious to get away from.”</p>
+    <p>“No,” Joan said, “I expect to keep on listening to you on TV. I may even be able to use your music in my teaching.” From a rosewood chest in the far corner of the room she lifted out a .32 pistol. It had belonged to Ray Meritan’s second wife, Edna, who had used it to kill herself, the previous February, late one rainy afternoon. “May I take this along?” she asked.</p>
+    <p>“For sentiment?” Ray said. “Because she did it on your account?”</p>
+    <p>“Edna did nothing on my account. Edna liked me. I’m not taking any responsibility for your wife’s suicide, even though she did find out about us—seeing each other, so to speak.”</p>
+    <p>Ray said meditatively, “And you’re the girl always telling people to accept blame and not to project it out on the world. What do you call your principle, dear? Ah.” He grinned. “The Anti-paranoia Prinzip. Doctor Joan Hiashi’s cure for mental illness; absorb all blame, take it all upon yourself.” He glanced up at her and said acutely, “I’m surprised you’re not a follower of Wilbur Mercer.”</p>
+    <p>“That clown,” Joan said.</p>
+    <p>“But that’s part of his appeal. Here, I’ll show you.” Ray switched on the TV set across the room from them, the legless black Oriental-style set with its ornamentation of Sung dynasty dragons.</p>
+    <p>“Odd you would know when Mercer is on,” Joan said.</p>
+    <p>Ray, shrugging murmured, “I’m interested. A new religion, replacing Zen Buddhism, sweeping out of the Middle West to engulf California. You ought to pay attention, too, since you claim religion as your profession. You’re getting a job because of it. Religion is paying your bills, my dear girl, so don’t knock it.”</p>
+    <p>The TV had come on, and there was Wilbur Mercer.</p>
+    <p>“Why isn’t he saying anything?” Joan said.</p>
+    <p>“Why, Mercer has taken a vow this week. Complete silence.” Ray lit a cigarette. “State ought to be sending me, not you. You’re a fake.”</p>
+    <p>“At least I’m not a clown,” Joan said, “or a follower of a clown.”</p>
+    <p>Ray reminded her softly, “There’s a Zen saying, ‘The Buddha is a piece of toilet paper.’ And another. ‘The Buddha often—’ ”</p>
+    <p>“Be still,” she said sharply. “I want to watch Mercer.”</p>
+    <p>“You want to watch,” Ray’s voice was heavy with irony. “Is that what you want, for God’s sake? No one <emphasis>watches </emphasis>Mercer; that’s the whole point.” Tossing his cigarette into the fireplace, he strode to the TV set; there, before it, Joan saw a metal box with two handles, attached by a lead of twin-cable wire to the TV set. Ray seized the two handles, and at once a grimace of pain shot across his face.</p>
+    <p>“What is it?” she asked, in anxiety.</p>
+    <p>“N-nothing.” Ray continued to grip the handles. On the screen, Wilbur Mercer walked slowly over the barren, jagged surface of a desolate hillside, his face lifted, an expression of serenity—or vacuity—on his thin, middle-aged features. Gasping, Ray released the handles. “I could only hold them for forty-five seconds this time.” To Joan, he explained, “This is the empathy box, my dear. I can’t tell you how I got it—to be truthful I don’t really know. <emphasis>They </emphasis>brought it by, the organization that distributes it—Wilcer, Incorporated. But I can tell you that when you take hold of these handles you’re no longer watching Wilbur Mercer. You’re actually participating in his apotheosis. Why, you’re feeling what he feels.”</p>
+    <p>Joan said, “It looks like it hurts.”</p>
+    <p>Quietly, Ray Meritan said, “Yes. Because Wilbur Mercer is being killed. He’s walking to the place where he’s going to die.”</p>
+    <p>In horror, Joan moved away from the box.</p>
+    <p>“You said that was what we needed,” Ray said. “Remember, I’m a rather adequate telepath; I don’t have to bestir myself very much to read your thoughts. ‘If only we could suffer.’ That’s what you were thinking, just a little while ago. Well, here’s your chance, Joan.”</p>
+    <p>“It’s—morbid!”</p>
+    <p>“Was your thought morbid?”</p>
+    <p>“Yes!” she said.</p>
+    <p>Ray Meritan said, “Twenty million people are followers of Wilbur Mercer now. All over the world. And they’re suffering with him, as he walks along toward Pueblo, Colorado. At least that’s where they’re <emphasis>told </emphasis>he’s going. Personally I have my doubts. Anyhow, Mercerism is now what Zen Buddhism was once; you’re going to Cuba to teach the wealthy Chinese bankers a form of asceticism that’s already obsolete, already seen its day.”</p>
+    <p>Silently, Joan turned away from him and watched Mercer walking.</p>
+    <p>“You know I’m right,” Ray said. “I can pick up your emotions. You may not be aware of them, but they’re there.”</p>
+    <p>On the screen, a rock was thrown at Mercer. It struck him on the shoulder.</p>
+    <p>Everyone who’s holding onto his empathy box, Joan realized, felt that along with Mercer.</p>
+    <p>Ray nodded. “You’re right.”</p>
+    <p>“And—what about when he’s actually killed?” She shuddered.</p>
+    <p>“We’ll see what happens then,” Ray said quietly. “We don’t know.”</p>
+   </section>
+   <section>
+    <title>
+     <p>II</p>
+    </title>
+    <p>To Bogart Crofts, Secretary of State Douglas Herrick said, “I think you’re wrong, Boge. The girl may be Meritan’s mistress but that doesn’t mean she knows.”</p>
+    <p>“We’ll wait for Mr. Lee to tell us,” Crofts said irritably. “When she gets to Havana he’ll be waiting to meet her.” </p>
+    <p>“Mr. Lee can’t scan Meritan direct?”</p>
+    <p>“One telepath scan another?” Bogart Crofts smiled at the thought. It conjured up a nonsensical situation: Mr. Lee reading Meritan’s mind, and Meritan, also being a telepath, would read Mr. Lee’s mind and discover that Mr. Lee was reading his mind, and Lee, reading Meritan’s mind, would discover that Meritan knew—and so forth. Endless regression, winding up with a fusion of minds, within which Meritan carefully guarded his thoughts so that he did not think about Wilbur Mercer.</p>
+    <p>“It’s the similarity of names that convinces me,” Herrick said. “Meritan, Mercer. The first three letters—?”</p>
+    <p>Crofts said, “Ray Meritan is not Wilbur Mercer. I’ll tell you how we know. Over at CIA, we made an Ampex video tape from Mercer’s telecast, had it enlarged and analyzed. Mercer was shown against the usual dismal background of cactus plants and sand and rock… you know.”</p>
+    <p>“Yes,” Herrick said, nodding. “The Wilderness, as they call it.” </p>
+    <p>“In the enlargement something showed up in the sky. It was studied. It’s not Luna. It’s a moon, but too small to be Luna. Mercer is not on Earth. I would guess that he is not a terrestrial at all.”</p>
+    <p>Bending down, Crofts picked up a small metal box, carefully avoiding the two handles. “And these were not designed and built on Earth. The entire Mercer Movement is null-T all the way, and that’s the fact we’ve got to contend with.”</p>
+    <p>Herrick said, “If Mercer is not a Terran, then he may have suffered and even died before, on other planets.”</p>
+    <p>“Oh, yes,” Crofts said. “Mercer—or whatever his or its real name is—may be highly experienced in this. But we still don’t know what we want to know.” And that of course was, What happens to those people holding onto the handles of their empathy boxes?</p>
+    <p>Crofts seated himself at his desk and scrutinized the box resting directly before him, with its two inviting handles. He had never touched them, and he never intended to. But—</p>
+    <p>“How soon will Mercer die?” Herrick asked.</p>
+    <p>“They’re expecting it some time late next week.”</p>
+    <p>“And Mr. Lee will have gotten something from the girl’s mind by then, you think? Some clue as to where Mercer really is?”</p>
+    <p>“I hope so,” Crofts said, still seated at the empathy box but still not touching it. It must be a strange experience, he thought, to place your hands on two ordinary-looking metal handles and find, all at once, that you’re no longer yourself; you’re another man entirely, in another place, laboring up a long, dreary inclined plain toward certain extinction. At least, so they say. But hearing about it… what does that actually convey? Suppose I tried it for myself.</p>
+    <p>The sense of absolute pain… that was what appalled him, held him back.</p>
+    <p>It was unbelievable that people could deliberately seek it out, rather than avoiding it. Gripping the handles of the empathy box was certainly not the act of a person seeking escape. It was not the avoidance of something but the seeking of something. And not the pain as such; Crofts knew better than to suppose that the Mercerites were simple masochists who desired discomfort. It was, he knew, the meaning of the pain which attracted Mercer’s followers.</p>
+    <p>The followers were suffering from something.</p>
+    <p>Aloud, he said to his superior, “They want to suffer as a means of denying their private, personal existences. It’s a communion in which they all suffer and experience Mercer’s ordeal together.” Like the Last Supper, he thought. That’s the real key: the communion, the participation that is behind all religion. Or ought to be. Religion binds men together in a sharing, corporate body, and leaves everyone else on the outside.</p>
+    <p>Herrick said, “But primarily it’s a political movement, or must be treated as such.”</p>
+    <p>“From our standpoint,” Crofts agreed. “Not theirs.”</p>
+    <p>The intercom on the desk buzzed and his secretary said, “Sir, Mr. John Lee is here.”</p>
+    <p>“Tell him to come in.”</p>
+    <p>The tall, slender young Chinese entered, smiling, his hand out. He wore an old-fashioned single-breasted suit and pointed black shoes. As they shook hands, Mr. Lee said, “She has not left for Havana, has she?”</p>
+    <p>“No,” Crofts said.</p>
+    <p>“Is she pretty?” Mr. Lee said.</p>
+    <p>“Yes,” Crofts said, with a smile at Herrick. “But—difficult. The snappish kind of woman. Emancipated, if you follow me.”</p>
+    <p>“Oh, the suffragette type,” Mr. Lee said, smiling. “I detest that type of female. It will be hard going, Mr. Crofts.”</p>
+    <p>“Remember,” Crofts said, “your job is simply to be converted. All you have to do is listen to her propaganda about Zen Buddhism, learn to ask a few questions such as, ‘Is this stick the Buddha?’ and expect a few inexplicable blows on the head—a Zen practice, I understand, supposed to instill sense.”</p>
+    <p>With a broad grin, Mr. Lee said, “Or to instill nonsense. You see, I am prepared. Sense, nonsense; in Zen it’s the same thing.” He became sober, now. “Of course, I myself am a Communist,” he said. “The only reason I’m doing this is because the Party at Havana has taken the official stand that Mercerism is dangerous and must be wiped out.” He looked gloomy. “I must say, these Mercerites are fanatics.”</p>
+    <p>“True,” Crofts agreed. “And we must work for their extinction.” He pointed to the empathy box. “Have you ever—?”</p>
+    <p>“Yes,” Mr. Lee said. “It’s a form of punishment. Self-imposed, no doubt for reasons of guilt. Leisure gleans such emotions from people if it is properly utilized; otherwise not.”</p>
+    <p>Crofts thought, This man has no understanding of the issues at all. He’s a simple materialist. Typical of a person born in a Communist family, raised in a Communist society. Everything is either black or white.</p>
+    <p>“You’re mistaken,” Mr. Lee said; he had picked up Crofts’ thought. </p>
+    <p>Flushing, Crofts said, “Sorry, I forgot. No offense.” </p>
+    <p>“I see in your mind,” Mr. Lee said, “that you believe Wilbur Mercer, as he calls himself, may be non-T. Do you know the Party’s position on this question? It was debated just a few days ago. The Party takes the stand that there are no non-T races in the solar system, that to believe remnants of once-superior races still exist is a form of morbid mysticism.”</p>
+    <p>Crofts sighed. “Deciding an empirical issue by vote—deciding it on a strictly political basis. I can’t understand that.”</p>
+    <p>At that point, Secretary Herrick spoke up, soothing both men. “Please, let’s not become sidetracked by theoretical issues on which we don’t all agree. Let’s stick to basics—the Mercerite Party and its rapid growth all over the planet.”</p>
+    <p>Mr. Lee said, “You are right, of course.”</p>
+   </section>
+   <section>
+    <title>
+     <p>III</p>
+    </title>
+    <p>At the Havana airfield Joan Hiashi looked around her as the other passengers walked rapidly from the ship to the entrance of the number twenty concourse.</p>
+    <p>Relatives and friends had surged cautiously out onto the field, as they always did, in defiance of field rulings. She saw among them a tall, lean young Chinese man with a smile of greeting on his face.</p>
+    <p>Walking toward him she called, “Mr. Lee?”</p>
+    <p>“Yes.” He hurried toward her. “It’s dinner time. Would you care to eat? I’ll take you to the Hang Far Lo restaurant. They have pressed duck and bird’s nest soup, all Canton-style… very sweet but good once in a long while.”</p>
+    <p>Soon they were at the restaurant, in a red-leather and imitation teak booth. Cubans and Chinese chattered on all sides of them; the air smelled of frying pork and cigar smoke.</p>
+    <p>“You are President of the Havana Institute for Asian Studies?” she asked, just to be certain there had been no slip-ups.</p>
+    <p>“Correct. It is frowned on by the Cuban Communist Party because of the religious aspect. But many of the Chinese here on the island attend lectures or are on our mailing list. And as you know we’ve had many distinguished scholars from Europe and Southern Asia come and address us… By the way. There is a Zen parable which I do not understand. The monk who cut the kitten in half—I have studied it and thought about it, but I do not see how the Buddha could be present when cruelty was done to an animal.” He hastened to add, “I’m not disputing with you. I am merely seeking information.”</p>
+    <p>Joan said, “Of all the Zen parables that has caused the most difficulty. The question to ask is, Where is the kitten now?”</p>
+    <p>“That recalls the opening of the <emphasis>Bhagavad−Gita</emphasis>,” Mr. Lee said, with a quick nod.</p>
+    <empty-line/>
+    <cite>
+     <p>“I recall Arjura saying,</p>
+     <p>The bow Gandiva slips from</p>
+     <p>my hand…</p>
+     <p>Omens of evil!</p>
+     <p>What can we hope from this killing of kinsmen?</p>
+    </cite>
+    <empty-line/>
+    <p>“Correct,” Joan said, “And of course you remember Krishna’s answer. It is the most profound statement in all pre-Buddhistic religion of the issue of death and of action.”</p>
+    <p>The waiter came for their order. He was a Cuban, in khaki and a beret.</p>
+    <p>“Try the fried won ton,” Mr. Lee advised. “And the chow yuk, and of course the egg roll. You have egg roll today?” he asked the waiter.</p>
+    <p>“Si, Senor Lee.” The waiter picked at his teeth with a toothpick.</p>
+    <p>Mr. Lee ordered for both of them, and the waiter departed.</p>
+    <p>“You know,” Joan said, “when you’ve been around a telepath as much as I have, you become conscious of intensive scanning going on… I could always tell when Ray was trying to dig at something in me. You’re a telepath. And you’re very intensively scanning me right now.”</p>
+    <p>Smiling, Mr. Lee said, “I wish I was, Miss Hiashi.”</p>
+    <p>“I have nothing to hide,” Joan said. “But I wonder why you are so interested in what I’m thinking. You know I’m an employee of the United States Department of State; there’s nothing secret about that. Are you afraid I’ve come to Cuba as a spy? To study military installations? Is it something like that?” She felt depressed. “This is not a good beginning,” she said. “You haven’t been honest with me.”</p>
+    <p>“You are a very attractive woman, Miss Hiashi,” Mr. Lee said, losing none of his poise. “I was merely curious to see—shall I be blunt? Your attitude toward sex.”</p>
+    <p>“You’re lying,” Joan said quietly.</p>
+    <p>Now the bland smile departed; he stared at her.</p>
+    <p>“Bird’s nest soup, senor.” The waiter had returned; he set the hot steaming bowl in the center of the table. “Tea.” He laid out a teapot and two small white handleless cups. “Senorita, you want chopsticks?”</p>
+    <p>“No,” she said absently.</p>
+    <p>From outside the booth came a cry of anguish. Both Joan and Mr. Lee leaped up. Mr. Lee pulled the curtain aside; the waiter was staring, too, and laughing.</p>
+    <p>At a table in the opposite corner of the restaurant sat an elderly Cuban gentleman with his hands gripping the handles of an empathy box.</p>
+    <p>“Here, too,” Joan said.</p>
+    <p>“They are pests,” Mr. Lee said. “Disturbing our meal.”</p>
+    <p>The waiter said, “Loco.” He shook his head, still chuckling.</p>
+    <p>“Yes,” Joan said. “Mr. Lee, I will continue here, trying to do my job, despite what’s occurred between us. I don’t know why they deliberately sent a telepath to meet me—possibly it’s Communist paranoid suspicions of outsiders—but in any case I have a job to do here and I mean to do it. So shall we discuss the dismembered kitten?”</p>
+    <p>“At meal time?” Mr. Lee said faintly.</p>
+    <p>“You brought it up,” Joan said, and proceeded, despite the expression of acute misery on Mr. Lee’s face as he sat spooning up his bird’s nest soup.</p>
+    <empty-line/>
+    <p>At the Los Angeles studio of television station KKHF, Ray Meritan sat at his harp, waiting for his cue. <emphasis>How High the Moon, </emphasis>he had decided, would be his first number. He yawned, kept his eye on the control booth.</p>
+    <p>Beside him, at the blackboard, jazz commentator Glen Goldstream polished his rimless glasses with a fine linen handkerchief and said, “I think I’ll tie in with Gustav Mahler tonight.”</p>
+    <p>“Who the hell is he?”</p>
+    <p>“A great late nineteenth century composer. Very romantic. Wrote long peculiar symphonies and folk-type songs. I’m thinking, however, of the rhythmic patterns in <emphasis>The Drunkard in Springtime </emphasis>from <emphasis>Song of the Earth. </emphasis>You’ve never heard it?”</p>
+    <p>“Nope,” Meritan said restlessly.</p>
+    <p>“Very gray-green.”</p>
+    <p>Ray Meritan did not feel very gray-green tonight. His head still ached from the rock thrown at Wilbur Mercer. Meritan had tried to let go of the empathy box when he saw the rock coming, but he had not been quick enough. It had struck Mercer on the right temple, drawing blood.</p>
+    <p>“I’ve run into three Mercerites this evening,” Glen said. “And all of them looked terrible. What happened to Mercer today?”</p>
+    <p>“How would I know?”</p>
+    <p>“You’re carrying yourself the way they did today. It’s your head, isn’t it? I know you well enough, Ray. You’d be mixed up in anything new and odd—what do I care if you’re a Mercerite? I just thought maybe you’d like a pain pill.”</p>
+    <p>Brusquely, Ray Meritan said, “That would defeat the entire idea wouldn’t it? A pain pill. Here, Mr. Mercer, as you go up the hillside, how about a shot of morphine? You won’t feel a thing.” He rippled a few cadences on his harp, releasing his emotions.</p>
+    <p>“You’re on,” the producer said from the control room.</p>
+    <p>Their theme, <emphasis>That’s a Plenty, </emphasis>swelled from the tape deck in the control room, and the number two camera facing Goldstream lit up its red light. Arms folded, Goldstream said, “Good evening, ladies and gentlemen. What is jazz?”</p>
+    <p>That’s what I say, Meritan thought. What is jazz? What is life? He rubbed his splintered, pain-racked forehead and wondered how he could endure the next week. Wilbur Mercer was getting close to it now. Each day it would become worse…</p>
+    <p>“And after a brief pause for an important message,” Goldstream was saying, “we’ll be back to tell you more about the world of gray-green men and women, those peculiar people, and the world of the artistry of the one and only Ray Meritan.”</p>
+    <p>The tape of the commercial appeared on the TV monitor facing Meritan.</p>
+    <p>Meritan said to Goldstream, “I’ll take the pain pill.”</p>
+    <p>A yellow, flat, notched tablet was held out to him. “Paracodein,” Goldstream said. “Highly illegal, but effective. An addictive drug… I’m surprised you, of all people, don’t carry some.”</p>
+    <p>“I used to,” Ray said, as he got a dixie cup of water and swallowed the pill.</p>
+    <p>“And now you’re on Mercerism.”</p>
+    <p>“Now I’m—” He glanced at Goldstream; they had known each other, in their professional capacities, for years. “I’m not a Mercerite,” he said, “so forget it, Glen. It’s just coincidence I got a headache the night Mercer was hit on the temple by a sharp rock thrown by some moronic sadist who ought to be the one dragging his way up that hillside.” He scowled at Goldstream.</p>
+    <p>“I understand,” Goldstream said, “that the U.S. Department of Mental Health is on the verge of asking the Justice Department to pick up the Mercerites.”</p>
+    <p>Suddenly he swung to face camera two. A faint smile touched his face and he said smoothly, “Gray-green began about four years ago, in Pinole, California, at the now justly-famous Double Shot Club where Ray Meritan played, back in 1993 and ‘4. Tonight, Ray will let us hear one of his best known and liked numbers, <emphasis>Once in Love with Amy.” </emphasis>He swung in Meritan’s direction. “Ray… Meritan!”</p>
+    <p>Plunk-plunk, the harp went as Ray Meritan’s fingers riffled the strings.</p>
+    <p>An object lesson, he thought as he played. That’s what the FBI would make me into for the teenagers, to show them what not to grow up to be. First on Paracodein, now on Mercer. Beware, kids!</p>
+    <p>Off camera, Glen Goldstream held up a sign he had scribbled.</p>
+    <empty-line/>
+    <p><strong>IS MERCER A NON-TERRESTRIAL?</strong></p>
+    <empty-line/>
+    <p>Underneath this, Goldstream wrote with a marking pencil: </p>
+    <empty-line/>
+    <p><strong>It’s <emphasis>That </emphasis>They Want to Know.</strong></p>
+    <empty-line/>
+    <p>Invasion from outside there somewhere, Meritan thought to himself as he played. That’s what they’re afraid of. Fear of the unknown, like tiny children. That’s our ruling circles: tiny, fear-ridden children playing ritualistic games with super-powerful toys.</p>
+    <p>A thought came to him from one of the network officials in the control room. <emphasis>Mercer has been injured.</emphasis></p>
+    <p>At once, Ray Meritan turned his attention that way, scanned as hard as he could. His fingers strummed the harp reflexively.</p>
+    <p><emphasis>Government outlawing so-called empathy boxes.</emphasis></p>
+    <p>He thought immediately of his own empathy box, before his TV set in the living room of his apartment.</p>
+    <p><emphasis>Organization which distributes and sells the empathy boxes declared illegal, and FBI making arrests in several major cities. Other countries expected to follow.</emphasis></p>
+    <p>How badly injured? he wondered. Dying?</p>
+    <p>And—what about the Mercerites who had been holding onto the handles of their empathy boxes at that moment? How were they, now? Receiving medical attention?</p>
+    <p><emphasis>Should we air the news now? </emphasis>the network official was thinking. <emphasis>Or wait until the commercial?</emphasis></p>
+    <p>Ray Meritan ceased playing his harp and said clearly into the boom microphone, “Wilbur Mercer has been injured. This is what we’ve expected but it’s still a major tragedy. Mercer is a saint.”</p>
+    <p>Wide-eyed, Glen Goldstream gawked at him.</p>
+    <p>“I believe in Mercer,” Ray Meritan said, and all across the United States his television audience heard his confession of faith. “I believe his suffering and injury and death have meaning for each of us.”</p>
+    <p>It was done; he had gone on record. And it hadn’t even taken much courage.</p>
+    <p>“Pray for Wilbur Mercer,” he said and resumed playing his gray-green style of harp.</p>
+    <p>You fool, Glen Goldstream was thinking. Giving yourself away! You’ll be in jail within a week. Your career is ruined!</p>
+    <p>Plunk-plunk, Ray played on his harp, and smiled humorlessly at Glen.</p>
+   </section>
+   <section>
+    <title>
+     <p>IV</p>
+    </title>
+    <p>Mr. Lee said, “Do you know the story of the Zen monk, who was playing hide and go seek with the children? Was it Basho who tells this? The monk hid in an outhouse and the children did not think of looking there, and so they forgot him. He was a very simple man. Next day—”</p>
+    <p>“I admit that Zen is a form of stupidity,” Joan Hiashi said. “It extols the virtues of being simple and gullible. And remember, the original meaning of ‘gullible’ is one who is easily gulled, easily cheated.” She sipped a little of her tea and found it now cold.</p>
+    <p>“Then you are a true practitioner of Zen,” Mr. Lee said. “Because you have been gulled.” He reached inside his coat and brought out a pistol, which he pointed at Joan. “You’re under arrest.”</p>
+    <p>“By the Cuban Government?” she managed to say.</p>
+    <p>“By the United States Government,” Mr. Lee said. “I have read your mind and I learn that you know that Ray Meritan is a prominent Mercerite and you yourself are attracted to Mercerism.”</p>
+    <p>“But I’m not!”</p>
+    <p>“Unconsciously you are attracted. You are about to switch over. I can pick up those thoughts, even if you deny them to yourself. We are going back to the United States, you and I, and there we will find Mr. Ray Meritan and he will lead us to Wilbur Mercer; it is as simple as that.”</p>
+    <p>“And this is why I was sent to Cuba?” </p>
+    <p>“I am a member of the Central Committee of the Cuban Communist Party,” Mr. Lee said. “And the sole telepath on that committee. We have voted to work in cooperation with the United States Department of State during this current Mercer crisis. Our plane, Miss Hiashi, leaves for Washington, D.C. in half an hour; let us get down to the airport at once.”</p>
+    <p>Joan Hiashi looked helplessly about the restaurant. Other people eating, the waiters… nobody paid attention. She rose to her feet as a waiter passed with a heavily-loaded tray. “This man,” she said, pointing to Mr. Lee, “is kidnapping me. Help me, please.”</p>
+    <p>The waiter glanced at Mr. Lee, saw who it was, smiled at Joan and shrugged. “Mr. Lee, he is an important man,” the waiter said, and went on with his tray.</p>
+    <p>“What he says is true,” Mr. Lee said to her.</p>
+    <p>Joan ran from the booth and across the restaurant. “Help me,” she said to the elderly Cuban Mercerite who sat with his empathy box before him. “I’m a Mercerite. They’re arresting me.”</p>
+    <p>The lined old face lifted; the man scrutinized her. </p>
+    <p>“Help me,” she said. </p>
+    <p>“Praise Mercer,” the old man said.</p>
+    <p>You can’t help me, she realized. She turned back to Mr. Lee, who had followed after her, still holding the pistol pointed at her. “This old man is not going to do a thing,” Mr. Lee said. “Not even get to his feet.” </p>
+    <p>She sagged. “All right. I know.”</p>
+    <p>The television set in the corner suddenly ceased its yammering of daytime trash; the image of a woman’s face and bottle of cleanser abruptly disappeared and there was only blackness. Then, in Spanish, a news announcer began to speak.</p>
+    <p>“Hurt,” Mr. Lee said, listening. “But Mercer is not dead. How do you feel, Miss Hiashi, as a Mercerite? Does this affect you? Oh, but that’s right. One must take hold of the handles first, for it to reach you. It must be a voluntary act.”</p>
+    <p>Joan picked up the elderly Cuban’s empathy box, held it for a moment, and then seized the handles. Mr. Lee stared at her in surprise; he moved toward her, reaching for the box…</p>
+    <p>It was not pain that she felt. Is this how it is? she wondered as she saw around her, the restaurant dim and faded. Maybe Wilbur Mercer is unconscious; that must be it. I’m escaping from you, she thought to Mr. Lee. You can’t—or at least you won’t—follow me where I’ve gone: into the tomb world of Wilbur Mercer, who is dying somewhere on a barren plain, surrounded by his enemies. Now I’m with him. And it is an escape from something worse. From you. And you’re never going to be able to get me back.</p>
+    <p>She saw, around her, a desolate expanse. The air smelled of harsh blossoms; this was the desert, and there was no rain.</p>
+    <p>A man stood before her, a sorrowful light in his gray, pain-drenched eyes. “I am your friend,” he said, “but you must go on as if I did not exist. Can you understand that?” He spread empty hands.</p>
+    <p>“No,” she said, “I can’t understand that.”</p>
+    <p>“How can I save you,” the man said, “if I can’t save myself?” He smiled: “Don’t you see? <emphasis>There is no salvation</emphasis>.”</p>
+    <p>“Then what’s it all for?” she asked.</p>
+    <p>“To show you,” Wilbur Mercer said, “that you aren’t alone. I am here with you and always will be. Go back and face them. And tell them that.”</p>
+    <p>She released the handles.</p>
+    <p>Mr. Lee, holding his gun to her, said, “Well?”</p>
+    <p>“Let’s go,” she said. “Back to the United States. Turn me over to the FBI. It doesn’t matter.”</p>
+    <p>“What did you see?” Mr. Lee said, with curiosity.</p>
+    <p>“I won’t tell you.”</p>
+    <p>“But I can learn it anyhow. From your mind.” He was probing, now, listening with his head cocked on one side. The corners of his mouth turned down as if he was pouting.</p>
+    <p>“I don’t call that much,” he said. “Mercer looks you in the face and says he can’t do anything for you—is this the man you’d lay down your life for, you and the others? You’re ill.”</p>
+    <p>“In the society of the insane,” Joan said, “the sick are well.”</p>
+    <p>“What nonsense!” Mr. Lee said.</p>
+    <empty-line/>
+    <p>To Bogart Crofts Mr. Lee said, “It was interesting. She became a Mercerite directly in front of me. The latency transforming itself into actuality… it proved I was correct in what I previously read in her mind.”</p>
+    <p>“We’ll have Meritan picked up any time now,” Crofts said to his superior, Secretary Herrick. “He left the television studio in Los Angeles, where he got news of Mercer’s severe injury. After that, no one seems to know what he did. He did <emphasis>not </emphasis>return to his apartment. The local police picked up his empathy box, and he was beyond a doubt not on the premises.”</p>
+    <p>“Where is Joan Hiashi?” Crofts asked.</p>
+    <p>“Being held now in New York,” Mr. Lee said.</p>
+    <p>“On what charge?” Crofts asked Secretary Herrick.</p>
+    <p>“Political agitation inimical to the safety of the United States.”</p>
+    <p>Smiling, Mr. Lee said, “And arrested by a Communist official in Cuba. It is a Zen paradox which no doubt fails to delight Miss Hiashi.”</p>
+    <p>Meanwhile, Bogart Crofts reflected, empathy boxes were being collected in huge quantities. Soon their destruction would begin. Within forty-eight hours most of the empathy boxes in the United States would no longer exist, including the one here in his office.</p>
+    <p>It still rested on his desk, untouched. It was he who originally had asked that it be brought in, and in all this time he had kept his hands off it, had never yielded. Now he walked over to it.</p>
+    <p>“What would happen,” he asked Mr. Lee, “if I took hold of these two handles? There’s no television set here. I have no idea what Wilbur Mercer is doing right now; in fact for all that I know, now he’s finally dead.”</p>
+    <p>Mr. Lee said, “If you grip the handles, sir, you will enter a—I hesitate to use the word but it seems to apply. A mystical communion. With Mr. Mercer, wherever he is; you will share his suffering, as you know, but that is not all. You will also participate in his—” Mr. Lee reflected. “ ‘World-view’ is not the correct term. Ideology? No.”</p>
+    <p>Secretary Herrick suggested, “What about <emphasis>trance-state</emphasis>?” </p>
+    <p>“Perhaps that is it,” Mr. Lee said, frowning. “No, that is not it either. No word will do, and that is the entire point. It cannot be described—it must be experienced.”</p>
+    <p>“I’ll try,” Crofts decided.</p>
+    <p>“No,” Mr. Lee said. “Not if you are following my advice. I would warn you away from it. I saw Miss Hiashi do it, and I saw the change in her. Would you have tried Paracodein when it was popular with rootless cosmopolite masses?” He sounded angry.</p>
+    <p>“I have tried Paracodein,” Crofts said. “It did absolutely nothing for me.” </p>
+    <p>“What do you want done, Boge?” Secretary Herrick asked him. </p>
+    <p>Shrugging, Bogart Crofts said, “I mean I could see no reason for anyone liking it, wanting to become addicted to it.” And at last he took hold of the two handles of the empathy box.</p>
+   </section>
+   <section>
+    <title>
+     <p>V</p>
+    </title>
+    <p>Walking slowly in the rain, Ray Meritan said to himself, They got my empathy box and if I go back to the apartment they’ll get me.</p>
+    <p>His telepathic talent had saved him. As he entered the building he had picked up the thoughts of the gang of city police.</p>
+    <p>It was now past midnight. The trouble is I’m too well-known, he realized, from my damned TV show. No matter where I go I’ll be recognized.</p>
+    <p>At least anywhere on Earth.</p>
+    <p>Where is Wilbur Mercer? he asked himself. In this solar system or somewhere beyond it, under a different sun entirely? Maybe we’ll never know. Or at least <emphasis>I’ll </emphasis>never know.</p>
+    <p>But did it matter? Wilbur Mercer was somewhere; that was all that was important. And there was always a way to reach him. The empathy box was always there—or at least had been, until the police raids. And Meritan had a feeling that the distribution company which had supplied the empathy boxes, and which led a shadowy existence anyhow, would find a way around the police. If he was right about them—</p>
+    <p>Ahead in the rainy darkness he saw the red lights of a bar. He turned and entered it.</p>
+    <p>To the bartender he said, “Look, do you have an empathy box? I’ll pay you one hundred dollars for the use of it.”</p>
+    <p>The bartender, a big burly man with hairy arms, said, “Naw, I don’t have nuthin like that. Go on.”</p>
+    <p>The people at the bar watched, and one of them said, “Those are illegal now.”</p>
+    <p>“Hey, it’s Ray Meritan,” another said. “The jazz man.”</p>
+    <p>Another man said lazily, “Play some gray-green jazz for us, jazz man.” He sipped at his mug of beer.</p>
+    <p>Meritan started out of the bar.</p>
+    <p>“Wait,” the bartender said. “Hold on, buddy. Go to this address.” He wrote on a match folder, then held it out to Meritan.</p>
+    <p>“How much do I owe you?” Meritan said.</p>
+    <p>“Oh, five dollars ought to do it.”</p>
+    <p>Meritan paid and left the bar, the match folder in his pocket. It’s probably the address of the local police station, he said to himself. But I’ll give it a try anyhow.</p>
+    <p>If I could get to an empathy box one more time—</p>
+    <p>The address which the bartender had given him was an old, decaying wooden building in downtown Los Angeles. He rapped on the door and stood waiting.</p>
+    <p>The door opened. A middle-aged heavy woman in bathrobe and furry slippers peeped out at him. “I’m not the police,” he said. “I’m a Mercerite. Can I use your empathy box?”</p>
+    <p>The door gradually opened; the woman scrutinized him and evidently believed him, although she said nothing.</p>
+    <p>“Sorry to bother you so late,” he apologized.</p>
+    <p>“What happened to you, mister?” the woman said. “You look bad.”</p>
+    <p>“It’s Wilbur Mercer,” Ray said. “He’s hurt.”</p>
+    <p>“Turn it on,” the woman said, leading him with shuffling into a dark, cold parlor where a parrot slept in a huge, bent, brass-wire cage. There, on an old-fashioned radio cabinet, he saw the empathy box. He felt relief creep over him at the sight of it.</p>
+    <p>“Don’t be shy,” the woman said.</p>
+    <p>“Thanks,” he said, and took hold of the handles.</p>
+    <p>A voice said in his ear, “We’ll use the girl. She’ll lead us to Meritan. I was right to hire her in the first place.”</p>
+    <p>Ray Meritan did not recognize the voice. It was not that of Wilbur Mercer. But even so, bewildered, he held tightly onto the handles, listening; he remained frozen there, hands extended, clutching.</p>
+    <p>“The non-T force has appealed to the most credulous segment of our community, but this segment—I firmly believe—is being manipulated by a cynical minority of opportunists at the top, such as Meritan. They’re cashing in on this Wilbur Mercer craze for their own pocketbooks.” The voice, self-assured, droned on.</p>
+    <p>Ray Meritan felt fear as he heard it. For this was someone on the other side, he realized. Somehow he had gotten into empathic contact with him, and not with Wilbur Mercer.</p>
+    <p>Or had Mercer done this deliberately, arranged this? He listened on, and now he heard:</p>
+    <p>“…have to get the Hiashi girl out of New York and back here, where we can quiz her further.” The voice added, “As I told Herrick…”</p>
+    <p>Herrick, the Secretary of State. This was someone in the State Department thinking, Meritan realized, thinking about Joan. Perhaps this was the official at State who had hired her.</p>
+    <p>Then she wasn’t in Cuba. She was in New York. What had gone wrong? The whole implication was that State had merely made use of Joan to get at him.</p>
+    <p>He released the handles and the voice faded from his presence.</p>
+    <p>“Did you find him?” the middle-aged woman asked.</p>
+    <p>“Y-yes,” Meritan said, disconcerted, trying to orient himself in the unfamiliar room.</p>
+    <p>“How is he? Is he well?”</p>
+    <p>“I—don’t know right now,” Meritan answered, truthfully. He thought, I must go to New York. And try to help Joan. She’s in this because of me; I have no choice. Even if they catch me because of it… how can I desert her?</p>
+    <empty-line/>
+    <p>Bogart Crofts said, “I didn’t get Mercer.”</p>
+    <p>He walked away from the empathy box, then turned to glare at it, balefully. “I got Meritan. But I don’t know where he is. At the moment I took hold of the handles of this box, Meritan took hold somewhere else. We were connected and now he knows everything I know. And we know everything he knows, which isn’t much.” Dazed he turned to Secretary Herrick. “He doesn’t know any more about Wilbur Mercer than we do; he was trying to reach him. He definitely is <emphasis>not </emphasis>Mercer.” Crofts was silent then.</p>
+    <p>“There’s more,” Herrick said, turning to Mr. Lee. “What else did he get from Meritan, Mr. Lee?”</p>
+    <p>“Meritan is coming to New York to try to find Joan Hiashi,” Mr. Lee said, obligingly reading Crofts’ mind. “He got that from Mr. Meritan during the moment their minds were fused.”</p>
+    <p>“We’ll prepare to receive Mr. Meritan,” Secretary Herrick said, with a grimace.</p>
+    <p>“Did I experience what you telepaths engage in all the time?” Crofts asked Mr. Lee.</p>
+    <p>“Only when one of us comes close to another telepath,” Mr. Lee said. “It can be unpleasant. We avoid it, because if the two minds are thoroughly dissimilar and hence clash, it is psychologically harmful. I would assume you and Mr. Meritan clashed.”</p>
+    <p>Crofts said, “Listen, how can we continue with this? I know now that Meritan is innocent. He doesn’t know a damn thing about Mercer or the organization that distributes these boxes except its name.”</p>
+    <p>There was momentary silence.</p>
+    <p>“But he is one of the few celebrities who has joined the Mercerites,” Secretary Herrick pointed out. He handed a teletype dispatch to Crofts. “And he has done it openly. If you’ll take the trouble to read this—”</p>
+    <p>“I know he affirmed his loyalty to Mercer on this evening’s TV program,” Crofts said, trembling.</p>
+    <p>“When you’re dealing with a non-T force originating from another solar system entirely,” Secretary Herrick said, “you must move with care. We will still try to take Meritan, and definitely through Miss Hiashi. We’ll release her from jail and have her followed. When Meritan makes contact with her—”</p>
+    <p>To Crofts, Mr. Lee said, “Don’t say what you intend, Mr. Crofts. It will permanently damage your career.”</p>
+    <p>Crofts said, “Herrick, this is wrong. Meritan is innocent and so is Joan Hiashi. If you try to trap Meritan I’ll resign from State.”</p>
+    <p>“Write out your resignation and hand it to me,” Secretary Herrick said. His face was dark.</p>
+    <p>“This is unfortunate,” Mr. Lee said. “I would guess that your contact with Mr. Meritan warped your judgment, Mr. Crofts. He has influenced you malignly; shake it off, for the sake of your long career and country, not to mention your family.”</p>
+    <p>“What we’re doing is wrong,” Crofts repeated.</p>
+    <p>Secretly Herrick stared at him angrily. “No wonder those empathy boxes have done harm! Now I’ve seen it with my own eyes. I wouldn’t turn back on any condition now.”</p>
+    <p>He picked up the empathy box which Crofts had used. Lifting it high he dropped it to the floor. The box cracked open and then settled in a heap of irregular surfaces. “Don’t consider that a childish act,” he said. “I want any contact between us and Meritan broken. It can only be harmful.”</p>
+    <p>“If we capture him,” Crofts said, “he may continue to exert influence over us.” He amended his statement: “Or rather, over me.”</p>
+    <p>“Be that as it may, I intend to continue,” Secretary Herrick said. “And please present your resignation. Mr. Crofts, I intend to act on that matter as well.” He looked grim and determined.</p>
+    <p>Mr. Lee said, “Secretary, I can read Mr. Crofts’ mind and I see that he is stunned at this moment. He is the innocent victim of a situation, arranged perhaps by Wilbur Mercer to spread confusion among us. And if you accept Mr. Crofts’ resignation, Mercer will have succeeded.”</p>
+    <p>“It doesn’t matter whether he accepts it or not,” Crofts said. “Because in any case I’m resigning.”</p>
+    <p>Sighing, Mr. Lee said, “The empathy box made you suddenly into an involuntary telepath and it was just too much.” He patted Mr. Crofts on the shoulder. “Telepathic power and empathy are two versions of the same thing. It should be called ‘telepathic box.’ Amazing, those non-T individuals; they can build what we can only evolve.”</p>
+    <p>“Since you can read my mind,” Crofts said to him, “you know what I’m planning to do. I have no doubt you’ll tell Secretary Herrick.”</p>
+    <p>Grinning blandly, Mr. Lee said, “The Secretary and I are cooperating in the interest of world peace. We both have our instructions.” To Herrick he said, “This man is so upset that he now actually considers switching over. Joining the Mercerites before all the boxes are destroyed. He <emphasis>liked </emphasis>being an involuntary telepath.”</p>
+    <p>“If you switch,” Herrick said, “you’ll be arrested. I promise it.” Crofts said nothing.</p>
+    <p>“He has not changed his mind,” Mr. Lee said urbanely, nodding to both men, apparently amused by the situation.</p>
+    <p>But underneath, Mr. Lee was thinking, A brilliant bold type of stroke by the thing that calls itself Wilbur Mercer, this hooking up of Crofts with Meritan direct. It undoubtedly foresaw that Crofts would receive the strong emanations from the movement’s core. The next step is that Crofts will again consult an empathy box—if he can find one—and this time Mercer itself will address him personally. Address its new disciple.</p>
+    <p>They have gained a man, Mr. Lee realized. They are ahead. But ultimately we will win. Because ultimately we will manage to destroy all the empathy boxes, and without them Wilbur Mercer can do nothing. This is the only way he has—or <emphasis>it </emphasis>has—of reaching and controlling people, as it has done here with unfortunate Mr. Crofts. <emphasis>Without the empathy boxes the movement is helpless.</emphasis></p>
+   </section>
+   <section>
+    <title>
+     <p>VI</p>
+    </title>
+    <p>At the UWA desk, at Rocky Field in New York City, Joan Hiashi said to the uniformed clerk, “I want to buy a one-way ticket to Los Angeles on the next flight. Jet or rocket; it doesn’t matter. I just want to get there.”</p>
+    <p>“First class or tourist?” the clerk asked.</p>
+    <p>“Aw, hell,” Joan said wearily, “just sell me a ticket. Any kind of a ticket.” She opened her purse.</p>
+    <p>As she started to pay for the ticket a hand stopped hers. She turned—and there stood Ray Meritan, his face twisting with relief.</p>
+    <p>“What a place to try to pick up your thoughts,” he said. “Come on, let’s go where it’s quiet. You have ten minutes before your flight.”</p>
+    <p>They hurried together through the building until they came to a deserted ramp. There they stopped, and Joan said, “Listen, Ray, I know it’s a trap for you. That’s why they let me out. But where else can I go except to you?”</p>
+    <p>Ray said, “Don’t worry about it. They were bound to pick me up sooner or later. I’m sure they know I left California and came here.” He glanced around. “No FBI agents near us yet. At least I don’t pick up anything suggesting it.” He lit a cigarette.</p>
+    <p>“I don’t have any reason to go back to L.A.,” Joan said, “now that you’re here. I might as well cancel my flight.”</p>
+    <p>“You know they’re picking up and destroying all the empathy boxes they can,” Ray said.</p>
+    <p>“No,” she said. “I didn’t know; I was just released half an hour ago. That’s dreadful. They really mean business.”</p>
+    <p>Ray laughed. “Let’s say they’re really frightened.” He put his arm around her and kissed her. “I tell you what we’ll do. We’ll try to sneak out of this place, go to the lower East Side and rent a little cold-water walk-up. We’ll hide out and find an empathy box they missed.” But, he thought, it’s unlikely; they probably have them all by now. There weren’t that many to start with.</p>
+    <p>“Anything you say,” Joan said drably.</p>
+    <p>“Do you love me?” he asked her. “I can read your mind; you do.” And then he said quietly, “I can also read the mind of a Mr. Lewis Scanlan, an FBI man who’s now at the UWA desk. What name did you give?”</p>
+    <p>“Mrs. George McIsaacs,” Joan said. “I think.” She examined her ticket and envelope. “Yes, that’s right.”</p>
+    <p>“But Scanlan is asking if a japanese woman has been at the desk in the last fifteen minutes,” Ray said. “And the clerk remembers you. So—” He took hold of Joan’s arm. “We better get started.”</p>
+    <p>They hurried down the deserted ramp, passed through an electric-eye operated door and came out in a baggage lobby. Everyone there was far too busy to pay any attention as Ray Meritan and Joan threaded their way to the street door and, a moment later, stepped out onto the chill gray sidewalk where cabs had parked in a long double row. Joan started to hail a cab…</p>
+    <p>“Wait,” Ray said, pulling her back. “I’m getting a jumble of thoughts. One of the cab drivers is an FBI man but I can’t tell which.” He stood uncertainly, not knowing what to do.</p>
+    <p>“We can’t get away, can we?” Joan said.</p>
+    <p>“It’s going to be hard.” To himself he thought, More like impossible; you’re right. He experienced the girl’s confused, frightened thoughts, her anxiety about him, that she had made it possible for them to locate and capture him, her fierce desire not to return to jail, her pervasive bitterness at having been betrayed by Mr. Lee, the Chinese Communist bigshot who had met her in Cuba.</p>
+    <p>“What a life,” Joan said, standing close to him.</p>
+    <p>And still he did not know which cab to take. One precious second after another escaped as he stood there. “Listen,” he said to Joan, “maybe we should separate.”</p>
+    <p>“No,” she said clinging to him. “I can’t stand to do it alone any more. Please.”</p>
+    <p>A bewhiskered peddler walked up to them with a tray suspended by a cord which ran about his neck. “Hi, folks,” he mumbled.</p>
+    <p>“Not now,” Joan said to him.</p>
+    <p>“Free sample of breakfast cereal,” the peddler said. “No cost. Just take a box, miss. You mister. Take one.” He extended the tray of small, gaily colored cartons toward Ray.</p>
+    <p>Strange, Ray thought. I’m not picking up anything from this man’s mind. He stared at the peddler, saw—or thought he saw—a peculiar insubstantiality to the man. A diffused quality.</p>
+    <p>Ray took one of the samples of breakfast cereal.</p>
+    <p>“Merry Meal, it’s called,” the peddler said. “A new product they’re introducing to the public. There’s a coupon inside. Entitles you to—”</p>
+    <p>“Okay,” Ray said, sticking the box in his pocket. He took hold of Joan and led her along the line of cabs. He chose one at random and opened the rear door. “Get in,” he said urgently to her.</p>
+    <p>“I took a sample of Merry Meal, too,” she said with a wan smile as he seated himself beside her. The cab started up, left the line and pulled past the entrance of the airfield terminal. “Ray, there was something strange about that salesman. It was as if he wasn’t actually there, as if he was nothing more than—a picture.”</p>
+    <p>As the cab drove down the auto ramp, away from the terminal, another cab left the line and followed after them. Twisting, Ray saw riding in the back of it two well-fed men in dark business suits. FBI men, he said to himself. </p>
+    <p>Joan said, “Didn’t that cereal salesman remind you of anyone?” </p>
+    <p>“Who?”</p>
+    <p>“A little of Wilbur Mercer. But I haven’t seen him enough to—” Ray grabbed the cereal box from her hand, tore the cardboard top from it. Poking up from the dry cereal he saw the corner of the coupon the peddler had spoken about; he lifted out the coupon, held it up and studied it. The coupon said in large clear printing:</p>
+    <empty-line/>
+    <p><strong>HOW TO ASSEMBLE AN EMPATHY BOX FROM ORDINARY HOUSEHOLD OBJECTS</strong></p>
+    <empty-line/>
+    <p>“It was them,” he said to Joan.</p>
+    <p>He put the coupon carefully away in his pocket, then he changed his mind.</p>
+    <p>Folding it up, he tucked it in the cuff of his trousers. Where the FBI possibly wouldn’t find it.</p>
+    <p>Behind them, the other cab came closer, and now he picked up the thoughts of the two men. They were FBI agents; he had been right. He settled back against the seat.</p>
+    <p>There was nothing to do but wait.</p>
+    <p>Joan said, “Could I have the other coupon?”</p>
+    <p>“Sorry.” He got out the other cereal package. She opened it, found the coupon inside and, after a pause, folded it and hid it in the hem of her skirt.</p>
+    <p>“I wonder how many there are of those so-called peddlers,” Ray said musingly. “I’d be interested to know how many free samples of Merry Meal they’re going to manage to give away before they’re caught.”</p>
+    <p>The first ordinary household object needed was a common radio set; he had noticed that. The second, the filament from a five-year light-bulb. And next—he’d have to look again, but now was not the time. The other cab had drawn abreast with theirs.</p>
+    <p>Later. And if the authorities found the coupon in the cuff of his trousers, <emphasis>they, </emphasis>he knew, would somehow manage to bring him another.</p>
+    <p>He put his arm around Joan. “I think we’ll be all right.”</p>
+    <p>The other cab, now, was nosing theirs to the curb and the two FBI men were waving in a menacing, official manner to the driver to stop.</p>
+    <p>“Shall I stop?” the driver said tensely to Ray.</p>
+    <p>“Sure,” he said. And, taking a deep breath, prepared himself.</p>
+   </section>
+  </section>
+  <section>
+   <title>
+    <p>Commentary by Philip K. Dick</p>
+   </title>
+   <p><emphasis>I made use of this story when I wrote my novel DO ANDROIDS DREAM OF ELECTRIC SHEEP? Actually, the idea is better put forth in the story. Here, a religion is regarded as a menace to all political systems; therefore it, too, is a kind of political system, perhaps even an ultimate one. The concept of </emphasis>caritas <emphasis>(or </emphasis>agape<emphasis>) shows up in my writing as the key to the authentic human. The android, which is the unauthentic human, the mere reflex machine, is unable to experience empathy. In this story it is never clear whether Mercer is an invader from some other world. But he must be; in a sense all religious leaders are… but not from another planet as such. </emphasis>(1978)</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>The Little Black Box</emphasis> (“From Ordinary Household Objects”) 5/6/63. <emphasis>Worlds of Tomorrow, </emphasis>Aug 1964.</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>

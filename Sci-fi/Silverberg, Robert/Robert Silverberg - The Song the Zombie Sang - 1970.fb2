@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Harlan</first-name>
+    <last-name>Ellison</last-name>
+   </author>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>The Song the Zombie Sang</book-title>
+   <date value="1970-12-01">1970</date>
+   <coverpage>
+    <image l:href="#song_the_zombie_sang.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Xenophile</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2012-04-14">14.04.2012</date>
+   <id>FBD-CDD977-1C10-9D43-2D87-40A6-DD72-5C020E</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Cosmopolitan, December 1970</book-name>
+   <year>1970</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Song the Zombie Sang</p>
+   <p>by Harlan Ellison and Robert Silverberg</p>
+  </title>
+  <section>
+   <p>From the fourth balcony of the Los Angeles Music Center the stage was little more than a brilliant blur of constantly changing chromatics—stabs of bright green, looping whorls of crimson. But Rhoda preferred to sit up there. She had no use for the Golden Horseshoe seats, buoyed on their grab-grav plates, bobbling loosely just beyond the fluted lip of the stage. Down there the sound flew off, flew up and away, carried by the remarkable acoustics of the Center’s Takamuri dome. The colors were important, but it was the sound that really mattered, the patterns of resonance bursting from the hundred quivering outputs of the ultracembalo.</p>
+   <p>And if you sat below, you had the vibrations of the people down there—</p>
+   <p>She was hardly naive enough to think that the poverty that sent students up to the top was more ennobling than the wealth that permitted access to a Horseshoe; yet even though she had never actually sat through an entire concert down there, she could not deny that music heard from the fourth balcony was purer, more affecting, lasted longer in the memory. Perhaps it <emphasis>was </emphasis>the vibrations of the rich.</p>
+   <p>Arms folded on the railing of the balcony, she stared down at the rippling play of colors that washed the sprawling proscenium. Dimly she was aware that the man at her side was saying something. Somehow responding didn’t seem important. Finally he nudged her, and she turned to him. A faint, mechanical smile crossed her face. “What is it, Laddy?”</p>
+   <p>Ladislas Jirasek mournfully extended a chocolate bar. Its end was ragged from having been nibbled. “Man cannot live by Bekh alone,” he said.</p>
+   <p>“No, thanks, Laddy.” She touched his hand lightly.</p>
+   <p>“What do you see down there?”</p>
+   <p>“Colors. That’s all.”</p>
+   <p>“No music of the spheres? No insight into the truths of your art?”</p>
+   <p>“You promised not to make fun of me.”</p>
+   <p>He slumped back in his seat. “I’m sorry. I forget sometimes.”</p>
+   <p>“Please, Laddy. If it’s the liaison thing that’s bothering you, I—”</p>
+   <p>“I didn’t say a word about liaison, did I?”</p>
+   <p>“It was in your tone. You were starting to feel sorry for yourself. Please don’t. You know I hate it when you start dumping guilt on me.”</p>
+   <p>He had sought an official liaison with her for months, almost since the day they had met in Contrapuntal 301. He had been fascinated by her, amused by her, and finally had fallen quite hopelessly in love with her. Still she kept just beyond his reach. He had had her, but had never possessed her. Because he did feel sorry for himself, and she knew it, and the knowledge put him, for her, forever in the category of men who were simply not for long-term liaison.</p>
+   <p>She stared down past the railing. Waiting. Taut. A slim girl, honey-colored hair, eyes the lightest gray, almost the shade of aluminum. Her fingers lightly curved as if about to pounce on a keyboard. Music uncoiling eternally in her head.</p>
+   <p>“They say Bekh was brilliant in Stuttgart last week,” Jirasek said hopefully.</p>
+   <p>“He did the Kreutzer?”</p>
+   <p>“And Timijian’s Sixth and <emphasis>The Knife </emphasis>and some Scarlatti.”</p>
+   <p>“Which?”</p>
+   <p>“I don’t know. I don’t remember what they said. But he got a ten-minute standing ovation, and <emphasis>Der Musikant </emphasis>said they hadn’t heard such precise ornamentation since—”</p>
+   <p>The houselights dimmed.</p>
+   <p>“He’s coming,” Rhoda said, leaning forward. Jirasek slumped back and gnawed the chocolate bar down to its wrapper.</p>
+   <empty-line/>
+   <p>Coming out of it was always gray. The color of aluminum. He knew the charging was over, knew he’d been unpacked, knew when he opened his eyes that he would be at stage right, and there would be a grip ready to roll the ultracembalo’s input console onstage, and the filament gloves would be in his right-hand jacket pocket. And the taste of sand on his tongue, and the gray fog of resurrection in his mind.</p>
+   <p>Nils Bekh put off opening his eyes.</p>
+   <p>Stuttgart had been a disaster. Only he knew how much of a disaster. Timi would have known, he thought. He would have come up out of the audience during the scherzo, and he would have ripped the gloves off my hands, and he would have cursed me for killing his vision. And later they would have gone to drink the dark, nutty beer together. But Timijian was dead. Died in ’20, Bekh told himself. Five years before me.</p>
+   <p><emphasis>I’ll keep my eyes closed, I’ll dampen the breathing. Will the lungs to suck more shallowly, the bellows to vibrate rather than howl with winds. And they’ll think I’m malfunctioning, that the zombianic response wasn’t triggered this time. That I’m still dead, really dead, not—</emphasis></p>
+   <p>“Mr. Bekh.”</p>
+   <p>He opened his eyes.</p>
+   <p>The stage manager was a thug. He recognized the type. Stippling of unshaved beard. Crumpled cuffs. Latent homosexuality. Tyrant to everyone backstage except, perhaps, the chorus boys in the revivals of Romberg and Friml confections.</p>
+   <p>“I’ve known men to develop diabetes just catching a matinee,” Bekh said.</p>
+   <p>“What’s that? I don’t understand.”</p>
+   <p>Bekh waved it away. “Nothing. Forget it. How’s the house?”</p>
+   <p>“Very nice, Mr. Bekh. The houselights are down. We’re ready.”</p>
+   <p>Bekh reached into his right-hand jacket pocket and removed the thin electronic gloves, sparkling with their rows of minisensors and pressors. He pulled the right glove tight, smoothing all wrinkles. The material clung like a second skin. “If you please,” he said. The grip rolled the console onstage, positioned it, locked it down with the dogging pedals, and hurried offstage left through the curtains.</p>
+   <p>Now Bekh strolled out slowly. Moving with great care: tubes of glittering fluids ran through his calves and thighs, and if he walked too fast the hydrostatic balance was disturbed and the nutrients didn’t get to his brain. The fragility of the perambulating dead was a nuisance, one among many. When he reached the grab-grav plate, he signalled the stage manager. The thug gave the sign to the panel-man, who passed his fingers over the color-coded keys, and the grab-grav plate rose slowly, majestically. Up through the floor of the stage went Nils Bekh. As he emerged, the chromatics keyed sympathetic vibrations in the audience, and they began to applaud.</p>
+   <p>He stood silently, head slightly bowed, accepting their greeting. A bubble of gas ran painfully through his back and burst near his spine. His lower lip twitched slightly. He suppressed the movement. Then he stepped off the plate, walked to the console, and began pulling on the other glove.</p>
+   <p>He was a tall, elegant man, very pale, with harsh brooding cheekbones and a craggy, massive nose that dominated the flower-gentle eyes, the thin mouth. He looked properly romantic. An important artistic asset, they told him when he was starting out, a million years ago.</p>
+   <p>As he pulled and smoothed the other glove, he heard the whispering. When one has died, one’s hearing becomes terribly acute. It made listening to one’s own performances that much more painful. But he knew what the whispers were all about. Out there someone was saying to his wife:</p>
+   <p>“Of course he doesn’t <emphasis>look </emphasis>like a zombie. They kept him in cold till they had the techniques. <emphasis>Then </emphasis>they wired him and juiced him and brought him back.”</p>
+   <p>And the wife would say, “How does it work, how does he keep coming back to life, what is it?”</p>
+   <p>And the husband would lean far over on the arm of his chair, resting his elbow, placing the palm of his hand in front of his mouth and looking warily around to be certain that no one would overhear the blurred inaccuracies he was about to utter. And he would try to tell his wife about the residual electric charge of the brain cells, the persistence of the motor responses after death, the lingering mechanical vitality on which they had seized. In vague and rambling terms he would speak of the built-in life-support system that keeps the brain flushed with necessary fluids. The surrogate hormones, the chemicals that take the place of blood. “You know how they stick an electric wire up a frog’s leg, when they cut it off? Okay. Well, when the leg jerks, they call that a galvanic response. Now, if you can get a whole <emphasis>man </emphasis>to jerk when you put a current through him—not really jerking, I mean that he walks around, he can play his instrument—”</p>
+   <p>“Can he think too?”</p>
+   <p>“I suppose. I don’t know. The brain’s intact. They don’t let it decay. What they do, they use every part of the body for its mechanical function—the heart’s a pump, the lungs are bellows—and they wire in a bunch of contacts and leads, and then there’s a kind of twitch, an artificial burst of life—of course, they can keep it going only five, six hours, then the fatigue-poisons start to pile up and clog the lines—but that’s long enough for a concert, anyway—”</p>
+   <p>“So what they’re really doing is, they take a man’s brain, and they keep it alive by using his own body as the life-support machine,” the wife says brightly. “Is that it? Instead of putting him into some kind of box, they keep him in his own skull, and do all the machinery inside his body—”</p>
+   <p>“That’s it. That’s it exactly, more or less. More or less.”</p>
+   <p>Bekh ignored the whispers. He had heard them all hundreds of times before. In New York and Beirut, in Hanoi and Knossos, in Kenyatta and Paris. How fascinated they were. Did they come for the music, or to see the dead man walk around?</p>
+   <p>He sat down on the player’s ledge in front of the console, and laid his hands along the metal fibers. A deep breath: old habit, superfluous, inescapable. The fingers already twitching. The pressors seeking the keys. Under the close-cropped gray hair, the synapses clicking like relays. Here, now. Timijian’s Ninth Sonata. Let it soar. Bekh closed his eyes and put his shoulders into his work, and from the ring of outputs overhead came the proper roaring tones. There. It has begun. Easily, lightly, Bekh rang in the harmonics, got the sympathetic pipes vibrating, built up the texture of sound. He had not played the Ninth for two years. Vienna. How long is two years? It seemed hours ago. He still heard the reverberations. And duplicated them exactly; this performance differed from the last one no more than one playing of a recording differs from another. An image sprang into his mind: a glistening sonic cube sitting at the console in place of a man. Why do they need me, when they could put a cube in the slot and have the same thing at less expense? And I could rest. And I could rest. There. Keying in the subsonics. This wonderful instrument! What if Bach had known it? Beethoven? To hold a whole world in your fingertips. The entire spectrum of sound, and the colors, too, and more: hitting the audience in a dozen senses at once. Of course, the music is what matters. The frozen, unchanging music. The pattern of sounds emerging now as always, now as he had played it at the premiere in ’19. Timijian’s last work. Decibel by decibel, a reconstruction of my own performance. And look at them out there. Awed. Loving. Bekh felt tremors in his elbows; too tense, the nerves betraying him. He made the necessary compensations. Hearing the thunder reverberating from the fourth balcony. What is this music all about? Do I in fact understand any of it? Does the sonic cube comprehend the B Minor Mass that is recorded within itself? Does the amplifier understand the symphony it amplifies? Bekh smiled. Closed his eyes. The shoulders surging, the wrists supple. Two hours to go. Then they let me sleep again. Is it fifteen years, now? Awaken, perform, sleep. And the adoring public cooing at me. The women who would love to give themselves to me. Necrophiliacs? How could they even want to touch me? The dryness of the tomb on my skin. Once there were women, yes, Lord, yes! Once. Once there was life, too. Bekh leaned back and swept forward. The old virtuoso swoop; brings down the house. The chill in their spines. Now the sound builds toward the end of the first movement. Yes, yes, so. Bekh opened the topmost bank of outputs and heard the audience respond, everyone sitting up suddenly as the new smash of sound cracked across the air. Good old Timi: a wonderful sense of the theatrical. Up. Up. Knock them back in their seats. He smiled with satisfaction at his own effects. And then the sense of emptiness. Sound for its own sake. Is this what music means? Is this a masterpiece? I know nothing any more. How tired I am of playing for them. Will they applaud? Yes, and stamp their feet and congratulate one another on having been lucky enough to hear me tonight. And what do they know? What do I know? I am dead. I am nothing. I am nothing. With a demonic two-handed plunge he hammered out the final fugal screams of the first movement.</p>
+   <empty-line/>
+   <p>Weatherex had programmed mist, and somehow it fit Rhoda’s mood. They stood on the glass landscape that swept down from the Music Center, and Jirasek offered her the pipe. She shook her head absently, thinking of other things. “I have a pastille,” she said.</p>
+   <p>“What do you say we look up Inez and Treat, see if they want to get something to eat?”</p>
+   <p>She didn’t answer.</p>
+   <p>“Rhoda?”</p>
+   <p>“Will you excuse me, Laddy? I think I want to be all by myself for a while.”</p>
+   <p>He slipped the pipe into his pocket and turned to her. She was looking through him as if he were no less glass than the scene surrounding them. Taking her hands in his own, he said, “Rhoda, I just don’t understand. You won’t even give me time to find the words.”</p>
+   <p>“Laddy—”</p>
+   <p>“No. This time I’ll have my say. Don’t pull away. Don’t retreat into that little world of yours, with your half-smiles and your faraway looks.”</p>
+   <p>“I want to think about the music.”</p>
+   <p>“There’s more to life than music, Rhoda. There has to be. I’ve spent as many years as you working inside my head, working to create something. You’re better than I am, you’re maybe better than anyone I’ve ever heard, maybe even better than Bekh someday. Fine: you’re a great artist. But is that all? There’s something more. It’s idiocy to make your art your religion, your whole existence.”</p>
+   <p>“Why are you doing this to me?”</p>
+   <p>“Because I love you.”</p>
+   <p>“That’s an explanation, not an excuse. Let me go, Laddy. Please.”</p>
+   <p>“Rhoda, art doesn’t mean a damn thing if it’s just craft, if it’s just rote and technique and formulas. It doesn’t mean anything if there isn’t love behind it, and caring, and commitment to life. You deny all that. You split yourself and smother the part that fires the art…”</p>
+   <p>He stopped abruptly. It was not the sort of speech a man could deliver without realizing, quickly, crushingly, how sententious and treacly it sounded. He dropped her hands. “I’ll be at Treat’s, if you want to see me later.” He turned and walked away into the shivering reflective night.</p>
+   <p>Rhoda watched him go. She suspected there were things she should have said. But she hadn’t said them. He disappeared. Turning, she stared up at the overwhelming bulk of the Music Center, and began slowly to walk toward it.</p>
+   <empty-line/>
+   <p>“Maestro, you were exquisite tonight,” the pekinese woman said in the Green Room. “Golden,” added the bullfrog sycophant. “A joy. I cried, really cried,” trilled the birds. Nutrients bubbled in his chest. He could feel valves flapping. He dipped his head, moved his hands, whispered thankyous. Staleness settled grittily behind his forehead. “Superb.” “Unforgettable.” “Incredible.” Then they went away and he was left, as always, with the keepers. The man from the corporation that owned him, the stage manager, the packers, the electrician. “Perhaps it’s time,” said the corporation man, smoothing his mustache lightly. He had learned to be delicate with the zombie.</p>
+   <p>Bekh sighed and nodded. They turned him off.</p>
+   <empty-line/>
+   <p>“Want to get something to eat first?” the electrician said. He yawned. It had been a long tour, late nights, meals in jetports, steep angles of ascent and rapid re-entries.</p>
+   <p>The corporation man nodded. “All right. We can leave him here for a while. I’ll put him on standby.” He touched a switch.</p>
+   <p>The lights went off in banks, one by one. Only the nightlights remained for the corporation man and the electrician, for their return, for their final packing.</p>
+   <p>The Music Center shut down.</p>
+   <p>In the bowels of the self-contained system the dust-eaters and a dozen other species of cleanup machines began stirring, humming softly.</p>
+   <p>In the fourth balcony, a shadow moved. Rhoda worked her way toward the downslide, emerging in the center aisle of the orchestra, into the Horseshoe, around the pit, and onto the stage. She went to the console and let her hands rest an inch above the keys. Closing her eyes, catching her breath. I will begin my concert with the Timijian Ninth Sonata for Unaccompanied Ultracembalo. A light patter of applause, gathering force, now tempestuous. Waiting. The fingers descending. The world alive with her music. Fire and tears, joy, radiance. All of them caught in the spell. How miraculous. How wonderfully she plays. Looking out into the darkness, hearing in her tingling mind the terrible echoes of the silence. Thank you. Thank you all so much. Her eyes moist. Moving away from the console. The flow of fantasy ebbing.</p>
+   <p>She went on into the dressing room and stood just within the doorway, staring across the room at the corpse of Nils Bekh in the sustaining chamber, his eyes closed, his chest still, his hands relaxed at his sides. She could see the faintest bulge in his right jacket pocket where the thin gloves lay, fingers folded together.</p>
+   <p>Then she moved close to him, looked down into his face, and touched his cheek. His beard never grew. His skin was cool and satiny, a peculiarly feminine texture. Strangely, through the silence, she remembered the sinuous melody of the <emphasis>Liebestod, </emphasis>that greatest of all laments, and rather than the great sadness the passage always brought to her, she felt herself taken by anger. Gripped by frustration and disappointment, choked by betrayal, caught in a seizure of violence. She wanted to rake the pudding-smooth skin of his face with her nails. She wanted to pummel him. Deafen him with screams. Destroy him. For the lie. For the lies, the many lies, the unending flow of lying notes, the lies of his life after death.</p>
+   <p>Her trembling hand hovered by the side of the chamber. Is this the switch?</p>
+   <p>She turned him on.</p>
+   <empty-line/>
+   <p>He came out of it. Eyes closed. Rising through a universe the color of aluminum. Again, then. Again. He thought he would stand there a moment with eyes closed, collecting himself, before going onstage. It got harder and harder. The last time had been so bad. In Los Angeles, in that vast building, balcony upon balcony, thousands of blank faces, the ultracembalo such a masterpiece of construction. He had opened the concert with Timi’s Ninth. So dreadful. A sluggish performance, note-perfect, the tempi flawless, and yet sluggish, empty, shallow. And tonight it would happen again. Shamble out on stage, don the gloves, go through the dreary routine of re-creating the greatness of Nils Bekh.</p>
+   <p>His audience, his adoring followers. How he hated them! How he longed to turn on them and denounce them for what they had done to him. Schnabel rested. Horowitz rested. Joachim rested. But for Bekh there was no rest. They had not allowed him to go. Oh, he could have refused to let them sustain him. But he had never been that strong. He had had strength for the loveless, lightless years of living with his music, yes. For that there had never been enough time. Strong was what he had had to be. To come from where he had been, to learn what had to be learned, to keep his skills once they were his. Yes. But in dealing with people, in speaking out, in asserting himself… in short, having courage… no, there had been very little of that. He had lost Dorothea, he had acceded to Wizmer’s plans, he had borne the insults Lisbeth and Neil and Cosh—ah, gee, Cosh, was he still alive?—the insults they had used to keep him tied to them, for better or worse, always worse. So he had gone with them, done their bidding, never availed himself of his strength—if in fact there was strength of that sort buried somewhere in him—and in the end even Sharon had despised him.</p>
+   <p>So how could he go to the edge of the stage, stand there in the full glare of the lights and tell them what they were? Ghouls. Selfish ghouls. As dead as he was, but in a different way. Unfeeling, hollow.</p>
+   <p>But if he could! If he could just once outwit the corporation man, he would throw himself forward and he would shout—</p>
+   <p>Pain. A stinging pain in his cheek. His head jolted back; the tiny pipes in his neck protested. The sound of flesh on flesh echoed in his mind. Startled, he opened his eyes. A girl before him. The color of aluminum, her eyes. A young face. Fierce. Thin lips tightly clamped. Nostrils flaring. Why is she so angry? She was raising her hand to slap him again. He threw his hands up, wrists crossed, palms forward, to protect his eyes. The second blow landed more heavily than the first. Were delicate things shattering within his reconstructed body?</p>
+   <p>The look on her face! She hated him.</p>
+   <p>She slapped him a third time. He peered out between his fingers, astonished by the vehemence of her eyes. And felt the flooding pain, and felt the hate, and felt a terribly wonderful sense of life for just that one moment. Then he remembered too much, and he stopped her.</p>
+   <p>He could see as he grabbed her swinging hand that she found his strength improbable. Fifteen years a zombie, moving and living for only seven hundred four days of that time. Still, he was fully operable, fully conditioned, fully muscled.</p>
+   <p>The girl winced. He released her and shoved her away. She was rubbing her wrist and staring at him silently, sullenly.</p>
+   <p>“If you don’t like me,” he asked, “why did you turn me on?”</p>
+   <p>“So I could tell you I know what a fraud you are. These others, the ones who applaud and grovel and suck up to you, they don’t know, they have no idea, but <emphasis>I</emphasis> know. How can you do it? How can you have made such a disgusting spectacle of yourself?” She was shaking. “I heard you when I was a child,” she said. “You changed my whole life. I’ll never forget it. But I’ve heard you lately. Slick formulas, no real insight. Like a machine sitting at the console. A player piano. You know what player pianos were, Bekh. That’s what you are.”</p>
+   <p>He shrugged. Walking past her, he sat down and glanced in the dressing-room mirror. He looked old and weary, the changeless face changing now. There was a flatness to his eyes. They were without sheen, without depths. An empty sky.</p>
+   <p>“Who are you?” he asked quietly. “How did you get in here?”</p>
+   <p>“Report me, go ahead. I don’t care if I’m arrested. Someone had to say it. You’re shameful! Walking around, pretending to make music—don’t you see how awful it is? A performer is an interpretative artist, not just a machine for playing the notes. I shouldn’t have to tell you that. An interpretative artist. Artist. Where’s your art now? Do you see beyond the score? Do you grow from performance to performance?”</p>
+   <p>Suddenly he liked her very much. Despite her plainness, despite her hatred, despite himself. “You’re a musician.”</p>
+   <p>She let that pass.</p>
+   <p>“What do you play?” Then he smiled. “The ultracembalo, of course. And you must be very good.”</p>
+   <p>“Better than you. Clearer, cleaner, deeper. Oh, God, what am I doing here? You <emphasis>disgust </emphasis>me.”</p>
+   <p>“How can I keep on growing?” Bekh asked gently. “The dead don’t grow.”</p>
+   <p>Her tirade swept on, as if she hadn’t heard. Telling him over and over how despicable he was, what a counterfeit of greatness. And then she halted in midsentence. Blinking, reddening, putting hands to lips. “Oh,” she murmured, abashed, starting to weep. “Oh. <emphasis>Oh!”</emphasis></p>
+   <p>She went silent.</p>
+   <p>It lasted a long time. She looked away, studied the walls, the mirror, her hands, her shoes. He watched her. Then, finally, she said, “What an arrogant little snot I am. What a cruel foolish bitch. I never stopped to think that you—that maybe—I just didn’t think—” He thought she would run from him. “And you won’t forgive me, will you? Why should you? I break in, I turn you on, I scream a lot of cruel nonsense at you—”</p>
+   <p>“It wasn’t nonsense. It was all quite true, you know. Absolutely true.” Then, softly, he said, “Break the machinery.”</p>
+   <p>“Don’t worry. I won’t cause any more trouble for you. I’ll go, now. I can’t tell you how foolish I feel, haranguing you like that. A dumb little puritan, puffed up with pride in her own art. Telling <emphasis>you </emphasis>that you don’t measure up to my ideals. When I—”</p>
+   <p>“You didn’t hear me. I asked you to break the machinery.”</p>
+   <p>She looked at him in a new way, slightly out of focus. “What are you talking about?”</p>
+   <p>“To stop me. I want to be gone. Is that so hard to understand? You, of all people, should understand that. What you say is true, very very true. Can you put yourself where I am? A thing, not alive, not dead, just a thing, a tool, an implement that, unfortunately, thinks and remembers and wishes for release. Yes, a player piano. My life stopped and my art stopped, and I have nothing to belong to now, not even the art. For it’s always the same. Always the same tones, the same reaches, the same heights. Pretending to make music, as you say. Pretending.”</p>
+   <p>“But I can’t—”</p>
+   <p>“Of course you can. Come, sit down, we’ll discuss it. And you’ll play for me.”</p>
+   <p>“Play for you?”</p>
+   <p>He reached out his hand and she started to take it, then drew her hand back. “You’ll have to play for me,” he said quietly. “I can’t let just anyone end me. That’s a big, important thing, you see. Not just anyone. So you’ll play for me.” He got heavily to his feet. Thinking of Lisbeth, Sharon, Dorothea. Gone, all gone now. Only he, Bekh, left behind, some of him left behind, old bones, dried meat. Breath as stale as Egypt. Blood the color of pumice. Sounds devoid of tears and laughter. Just sounds.</p>
+   <p>He led the way, and she followed him, out onto the stage, where the console still stood uncrated. He gave her his gloves, saying, “I know they aren’t yours. I’ll take that into account. Do the best you can.” She drew them on slowly, smoothing them.</p>
+   <p>She sat down at the console. He saw the fear in her face, and the ecstasy, also. Her fingers hovering over the keys. Pouncing. God, Timi’s Ninth! The tones swelling and rising, and the fear going from her face. Yes. Yes. He would not have played it that way, but yes, just so. Timi’s notes filtered through <emphasis>her </emphasis>soul. A striking interpretation. Perhaps she falters a little, but why not? The wrong gloves, no preparation, strange circumstances. And how beautifully she plays. The hall fills with sound. He ceases to listen as a critic might; he becomes part of the music. His own fingers moving, his muscles quivering, reaching for pedals and stops, activating the pressors. As if he plays through her. She goes on, soaring higher, losing the last of her nervousness. In full command. Not yet a finished artist, but so good, so wonderfully good! Making the mighty instrument sing. Draining its full resources. Underscoring this, making that more lean. Oh, yes! He is in the music. It engulfs him. Can he cry? Do the tearducts still function? He can hardly bear it, it is so beautiful. He has forgotten, in all these years. He has not heard anyone else play for so long. Seven hundred four days. Out of the tomb. Bound up in his own meaningless performances. And now this. The rebirth of music. It was once like this all the time, the union of composer and instrument and performer, soul-wrenching, all-encompassing. For him. No longer. Eyes closed, he plays the movement through to its close by way of her body, her hands, her soul. When the sound dies away, he feels the good exhaustion that comes from total submission to the art.</p>
+   <p>“That’s fine,” he said, when the last silence was gone. “That was very lovely.” A catch in his voice. His hands were still trembling; he was afraid to applaud.</p>
+   <p>He reached for her, and this time she took his hand. For a moment he held her cool fingers. Then he tugged gently, and she followed him back into the dressing room, and he laid down on the sofa, and he told her which mechanisms to break, after she turned him off, so he would feel no pain. Then he closed his eyes and waited.</p>
+   <p>“You’ll just—go?” she asked.</p>
+   <p>“Quickly. Peacefully.”</p>
+   <p>“I’m afraid. It’s like murder.”</p>
+   <p>“I’m dead,” he said. “But not dead enough. You won’t be killing anything. Do you remember how my playing sounded to you? Do you remember why I came here? Is there life in me?”</p>
+   <p>“I’m still afraid.”</p>
+   <p>“I’ve earned my rest,” he said. He opened his eyes and smiled. “It’s all right. I like you.” And, as she moved toward him, he said, “Thank you.”</p>
+   <p>Then he closed his eyes again.</p>
+   <p>She turned him off. Then she did as he had instructed her.</p>
+   <empty-line/>
+   <p>Picking her way past the wreckage of the sustaining chamber, she left the dressing room. She found her way out of the Music Center —out onto the glass landscape, under the singing stars, and she was crying for him.</p>
+   <p>Laddy. She wanted very much to find Laddy now. To talk to him. To tell him he was almost right about what he’d told her. Not entirely, but more than she had believed… before. She went away from there. Smoothly, with songs yet to be sung.</p>
+   <p>And behind her, a great peace had settled. Unfinished, at last the symphony had wrung its last measure of strength and sorrow.</p>
+   <p>It did not matter what Weatherex said was the proper time for mist or rain or fog. Night, the stars, the songs were forever.</p>
+  </section>
+ </body>
+ <binary id="song_the_zombie_sang.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAELAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDw/WNUvr67ku7q6kkN0TJ97IxkgD24Ar0b
+wr8D/GWsaMupTS2mmCSNWiiuXIkK9iQAdv0Nct8KtH/tj4o+H9LuIh5LXIaRMZVlTL4+nA/C
+vZf2ifG+t+FvEfh+y0PVJbGNUa7uY4nwsoWTYqsO4wrfmK417up7FWbbSR4T418La14P1ZtK
+1u08mdQWRl+aOVc43K3fnqevY11XgP4SeKvFukJqdrHbWVk/Ecty3zS5HG0AZ2/pXs37SGgR
++IPB2gXojXzhqcESSAc+VPgFc/Xafw96b+0hrl94M8B6NpXh+6k0xrufyN9s2x1hijzgEdOW
+A/Omp9UZyk9jwf4geBPEfgmaH+2Yx5Mx22t1btmFiOSuf4W9sD2rR+Hnw98Y+MYZL3SZ2gtF
+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</binary>
+</FictionBook>

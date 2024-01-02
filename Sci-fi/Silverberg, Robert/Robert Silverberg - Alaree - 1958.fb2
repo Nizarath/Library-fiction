@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Robert</first-name>
+    <last-name>Silverberg</last-name>
+   </author>
+   <book-title>Alaree</book-title>
+   <annotation>
+    <p>From Robert Silverberg’s “Earthmen and Strangers” anthology, 1966:</p>
+    <empty-line/>
+    <p>The German word “<emphasis>gestalt” </emphasis>means “shape” or “pattern,” but it also has the sense of “group” or “formation.” The science-fictional concept of the gestalt mind has frequently been examined—the intelligence that includes more than one individual. On Earth, the rule of one-body-one-intelligence seems to hold true, but who knows what we may find on other worlds? We already know of some simple creatures, like the corals and sponges, that exist in colonies numbering many individuals. Such Unkings are purely physical; the possibility exists, though, that on another planet some higher form of life may have developed a colony of linked minds. What it would be like to encounter such a form of life is considered in this story.</p>
+   </annotation>
+   <date value="1958-03-01">1958</date>
+   <coverpage>
+    <image l:href="#alaree.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Verdi1</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-04-02">02.04.2011</date>
+   <id>02A070BA-5F74-48DA-83BE-7C93E65A8384</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Saturn Science Fiction and Fantasy, March 1958</book-name>
+   <publisher>Candar Publishing Company, Inc.</publisher>
+   <year>1958</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Alaree</p>
+   <p>by Robert Silverberg</p>
+  </title>
+  <section>
+   <p>When our ship left its carefully planned trajectory and started to wobble through space in dizzy circles, I knew we shouldn’t have passed up that opportunity for an overhauling on Spica IV. My men and I were anxious to get back to Earth, and a hasty check had assured us that the <emphasis>Aaron Burr</emphasis> was in tip-top shape, so we had turned down the offer of an overhaul, which would have meant a month’s delay, and set out straight for home.</p>
+   <p>As so often happens, what seemed like the most direct route home turned out to be the longest. We had spent far too much time on this survey trip already, and we were rejoicing in the prospect of an immediate return to Earth when the ship started turning cartwheels.</p>
+   <p>Willendorf, computerman first class, came to me looking sheepish, a few minutes after I’d noticed we were off course.</p>
+   <p>“What is it, Gus?” I asked.</p>
+   <p>“The feed network’s oscillating, sir,” he said, tugging at his unruly reddish-brown beard. “It won’t stop, sir.”</p>
+   <p>“Is Ketteridge working on it?”</p>
+   <p>“I’ve just called him,” Willendorf said. His stolid face reflected acute embarrassment. Willendorf always took it personally whenever one of the cybers went haywire, as if it were his own fault. “You know what this means, don’t you, sir?”</p>
+   <p>I grinned. “Take a look at this, Willendorf,” I said, shoving the trajectory graphs toward him. I sketched out with my stylus the confused circles we had been traveling in all morning. “That’s what your feed network’s doing to us,” I said. “And we’ll keep on doing it until we get it fixed.”</p>
+   <p>“What are you going to do, sir?”</p>
+   <p>I sensed his impatience with me. Willendorf was a good man, but his psych charts indicated a latent desire for officer-hood. Deep down inside, he was sure he was at least as competent as I was to run this ship and probably a good deal more so.</p>
+   <p>“Send me Upper Navigating Technician Haley,” I snapped. “We’re going to have to find a planet in the neighborhood and put down for repairs.”</p>
+   <p>It turned out there was an insignificant solar system in the vicinity, consisting of a small but hot white star and a single unexplored planet, Terra-size, a few hundred million miles out. After Haley and I had decided that that was the nearest port of refuge, I called a general meeting.</p>
+   <p>Quickly and positively I outlined our situation and explained what would have to be done. I sensed the immediate disappointment, but, gratifyingly, the reaction was followed by a general feeling of resigned pitching in. If we all worked, we’d get back to Earth, sooner or later. If we didn’t, we’d spend the next century flip-flopping aimlessly through space.</p>
+   <p>After the meeting, we set about the business of recovering control of the ship and putting it down for repairs. The feed network, luckily, gave up the ghost about ninety minutes later; it meant we had to stoke the fuel by hand, but at least it stopped that accursed oscillating.</p>
+   <p>We got the ship going, and Haley, navigating by feel in a way I never would have dreamed possible, brought us into the nearby solar system in hardly any time at all. Finally we swung into our landing orbit and made our looping way down to the surface of the little planet.</p>
+   <p>I studied my crew’s faces carefully. We had spent a great deal of time together in space—much too much, really, for comfort—and an incident like this might very well snap them all if we didn’t get going again soon enough. I could foresee disagreements, bickering, declaration of opinion where no opinion was called for.</p>
+   <p>I was relieved to discover that the planet’s air was breathable. A rather high nitrogen concentration, to be sure—82 percent—but that left 17 percent for oxygen, plus some miscellaneous inerts, and it wouldn’t be too rough on the lungs. I decreed a one-hour free break before beginning repairs.</p>
+   <p>Remaining aboard ship, I gloomily surveyed <emphasis>the</emphasis> scrambled feed network and tried to formulate a preliminary plan of action for getting the complex cybernetic instrument to function again, while my crew went outside to relax.</p>
+   <p>Ten minutes after I had opened the lock and let them out, I heard someone clanking around in the aft supplies cabin. “Who’s there?” I yelled.</p>
+   <p>“Me,” grunted a heavy voice that could only be Willendorf’s. “I’m looking for the thought-converter, sir.”</p>
+   <p>I ran hastily through the corridor, flipped up the latch on the supplies cabin, and confronted him. “What do you want the converter for?” I snapped.</p>
+   <p>“Found an alien, <emphasis>sir</emphasis>,” he said laconically. My eyes widened. The survey chart had said nothing about intelligent extraterrestrials in this limb of the galaxy, but then again this planet hadn’t been explored yet.</p>
+   <p>I gestured toward the rear cabinet. “The converter helmets are in there,” I said. “I’ll be out in a little while. Make sure you follow technique in making contact.”</p>
+   <p>“Of course, sir.” Willendorf took the converter helmet and went out, leaving me standing there. I waited a few minutes, then climbed the catwalk to the air lock and peered out.</p>
+   <p>They were all clustered around a small alien being, who looked weak and inconsequential in the midst of the circle. I smiled at the sight. The alien was roughly humanoid in shape, with the usual complement of arms and legs, and a pale green complexion that blended well with the muted violet coloring of his world. He was wearing the thought-converter somewhat lopsidedly, and I saw a small, green, furry ear protruding from the left side. Willendorf was talking to him.</p>
+   <p>Then someone saw me standing at the open air lock, and I heard Haley yell to me, “Come on down, Chief!”</p>
+   <p>They were ringed around the alien in a tight circle. I shouldered my way into their midst. Willendorf turned to me. “Meet Alaree, sir,” he said. “Alaree, this is our commander.”</p>
+   <p>“We are pleased to meet you,” the alien said gravely. The converter automatically turned his thoughts into English, but maintained the trace of his oddly inflected accent. “You have been saying that you are from the skies.”</p>
+   <p>“His grammar’s pretty shaky,” Willendorf interposed. “He keeps referring to any of us as *you’—even you, who just got here.”</p>
+   <p>“Odd,” I said. “The converter’s supposed to conform to the rules of grammar.” I turned to the alien, who seemed perfectly at ease among us. “My name is Bryson,” I said. “This is Willendorf, over here.”</p>
+   <p>The alien wrinkled his soft-skinned forehead in momentary confusion. “We are Alaree,” he said again.</p>
+   <p>“We? You and who else?”</p>
+   <p>“We and we else,” Alaree said blandly. I stared at him for a moment, then gave up. The complexities of an alien mind are often too much for a mere Terran to fathom.</p>
+   <p>“You are welcome to our world,” Alaree said after a few moments of silence.</p>
+   <p>“Thanks,” I said. “Thanks.”</p>
+   <p>I turned away, leaving the alien with my men. They had twenty-six minutes left of the break I’d given them, after which we would have to get back to the serious business of repairing the ship. Making friends with floppy-eared aliens was one thing; getting back to Earth was another.</p>
+   <p>The planet was a warm, friendly sort of place, with rolling fields and acres of pleasant-looking purple vegetation. We had landed in a clearing at the edge of a fair-sized copse. Great broad-beamed trees shot up all around us.</p>
+   <p>Alaree returned to visit us every day, until he became almost a mascot of the crew. I liked the little alien myself and spent some time with him, although I found his conversation generally incomprehensible. No doubt he had the same trouble with us. The converter had only limited efficiency, after all.</p>
+   <p>He was the only representative of his species who came. For all we knew, he was the only one of his kind on the whole planet. There was no sign of life elsewhere, and, although Willendorf led an unauthorized scouting party during some free time on the third day, he failed to find a village of any sort. Where Alaree went every night, and how he had found us in the first place, remained mysteries.</p>
+   <p>As for the feed network, progress was slow. Ketteridge, the technician in charge, had tracked down the foul-up and was trying to repair it without building a completely new network.</p>
+   <p>Shortcuts again. He tinkered away for four days, setting up a tentative circuit, trying it out, watching it sputter and blow out, building another.</p>
+   <p>There was nothing I could do. But I sensed tension heightening among the crewmen. They were annoyed at themselves, at each other, at me, at everything.</p>
+   <p>On the fifth day, Ketteridge and Willendorf finally let their accumulated tenseness explode. They had been working together on the network, but they quarreled, and Ketteridge came storming into my cabin immediately afterward.</p>
+   <p>“Sir, I demand to be allowed to work on the network by myself. It’s my specialty, and Willendorf’s only snarling things up.”</p>
+   <p>“Get me Willendorf,” I said.</p>
+   <p>When Willendorf showed up I heard the whole story, decided quickly to let Ketteridge have his way—it was, after all, his specialty—and calmed Willendorf down. Then, reaching casually for some papers on my desk, I dismissed both of them. I knew they’d come to their senses in a day or so.</p>
+   <p>I spent most of the next day sitting placidly in the sun, while Ketteridge tinkered with the feed network some more. I watched the faces of the men. They were starting to smolder. They wanted to get home, and they weren’t getting there. Besides, this was a fairly dull planet, and even the novelty of Alaree wore off after a while. The little alien had a way of hanging around men who were busy scraping fuel deposits out of the jet tubes, or something equally unpleasant, and bothering them with all sorts of questions.</p>
+   <p>The following morning I was lying blissfully on the grass near the ship, talking to Alaree. Ketteridge came to me, and by the tightness of his lips I knew he was in trouble.</p>
+   <p>I brushed some antlike blue insects off my trousers and rose to a sitting position, leaning against the tall, tough-barked tree behind me. “What’s the matter, Ketteridge? How’s the feed network?”</p>
+   <p>He glanced uneasily at Alaree for a moment before speaking. “I’m stuck, sir. I’ll have to admit I was wrong. I can’t fix it by myself.”</p>
+   <p>I stood up and put my hand on his shoulder. “That’s a noble thing to say, Ketteridge. It takes a big man to admit he’s been a fool. Will you work with Willendorf now?”</p>
+   <p>“If he’ll work with me, sir,” Ketteridge said miserably.</p>
+   <p>“I think he will,” I said. Ketteridge saluted and turned away, and I felt a burst of satisfaction. I’d met the crisis in the only way possible; if I had <emphasis>ordered</emphasis> them to cooperate, I would have gotten no place. The psychological situation no longer allowed for unbending military discipline.</p>
+   <p>After Ketteridge had gone, Alaree, who had been silent all this time, looked up at me in puzzlement. “We do not understand,” he said.</p>
+   <p>“Not <emphasis>we,” I</emphasis> corrected. “I. You’re only one person. <emphasis>We</emphasis> means many people.”</p>
+   <p>“We are only one person?” Alaree said tentatively.</p>
+   <p>“No. I am only one person. Get it?”</p>
+   <p>He worried the thought around for a few moments; I could see his browless forehead contract in deep concentration.</p>
+   <p>“Look,” I said. “I’m one person. Ketteridge is another person. Willendorf is another. Each one of them is an independent individual—an I.”</p>
+   <p>“And together you make <emphasis>We</emphasis>?” Alaree asked brightly.</p>
+   <p>“Yes and no,” I said. “<emphasis>We</emphasis> is composed of many I’s—but we still remain I.”</p>
+   <p>Again he sank deep in concentration, and then he smiled, scratched the ear that protruded from one side of the thought-helmet, and said, “<emphasis>We</emphasis> do not understand. But I do. Each of you is—is an <emphasis>I</emphasis>.”</p>
+   <p>“An individual,” I said.</p>
+   <p>“An individual,” he repeated. “A complete person. And together, to fly your ship, you must become a <emphasis>We</emphasis>.”</p>
+   <p>“But only temporarily,” I said. “There still can be conflict between the parts. That’s necessary, for progress. I can always think of the rest of them as <emphasis>They</emphasis>.”</p>
+   <p>“I… They,” Alaree repeated slowly. “<emphasis>They</emphasis>.” He nodded. “It is difficult for me to grasp all this. I… think differently. But I am coming to understand, and I am worried.”</p>
+   <p>That was a new idea. Alaree worried? Could be, I reflected. I had no way of knowing. I knew so little about Alaree—where on the planet he came from, what his tribal life was like, what sort of civilization he had, were all blanks.</p>
+   <p>“What kind of worries, Alaree?”</p>
+   <p>“You would not understand,” he said solemnly and would say no more.</p>
+   <p>Toward afternoon, as golden shadows started to slant through the closely packed trees, I returned to the ship. Willendorf and Ketteridge were aft, working over the feed network, and the whole crew had gathered around to watch and offer suggestions. Even Alaree was there, looking absurdly comical in his copper-alloy thought-converter helmet, standing on tiptoe and trying to see what was happening.</p>
+   <p>About an hour later, I spotted the alien sitting by himself beneath the long-limbed tree that towered over the ship. He was lost in thought. Evidently whatever his problem was, it was really eating him.</p>
+   <p>Toward evening, he made a decision. I had been watching him with a great deal of concern, wondering what was going on in that small but unfathomable mind. I saw him brighten, leap up suddenly, and cross the field, heading in my direction.</p>
+   <p>“Captain!”</p>
+   <p>“What is it, Alaree!</p>
+   <p>He waddled up and stared gravely at me. “Your ship will be ready to leave soon. What was wrong is nearly right again.”</p>
+   <p>He paused, obviously uncertain of how to phrase his next statement, and I waited patiently. Finally he blurted out; “May I come back to your world with you?”</p>
+   <p>Automatically, the regulations flashed through my mind. I pride myself on my knowledge of the rules. And I knew this one.</p>
+   <empty-line/>
+   <cite>
+    <p><strong>ARTICLE 101A</strong></p>
+    <p><emphasis>No intelligent extraterrestrial life is to be transported from its own world to any civilized world under any reason whatsoever, without explicit beforehand clearance. The penalty for doing so is</emphasis>…</p>
+   </cite>
+   <empty-line/>
+   <p>And it listed a fine of more money than was ever dreamt of in my philosophy.</p>
+   <p>I shook my head. “Can’t take you, Alaree. This is your world, and you belong here.”</p>
+   <p>A ripple of agony ran over his face. Suddenly he ceased to be the cheerful, roly-poly creature it was so impossible to take seriously, and became a very worried entity indeed. “You cannot understand,” he said. “I no longer belong here.”</p>
+   <p>No matter how hard he pleaded, I remained adamant. And when to no one’s surprise Ketteridge and Willendorf announced, a day later, that their pooled labors had succeeded in repairing the feed network, I had to tell Alaree that we were going to leave—without him.</p>
+   <p>He nodded stiffly, accepting the fact, and without a word stalked tragically away, into the purple tangle of foliage that surrounded our clearing.</p>
+   <p>He returned a while later, or so I thought. He was not wearing the thought-converter. That surprised me. Alaree knew the helmet was a valuable item, and he had been cautioned to take good care of it.</p>
+   <p>I sent a man inside to get another helmet for him. I put it on him—this time tucking that wayward ear underneath properly—and looked at him sternly. “Where’s the other helmet, Alaree?”</p>
+   <p>“We do not have it,” he said.</p>
+   <p>“<emphasis>We</emphasis>? No more I?”</p>
+   <p>“We,” Alaree said. And as he spoke, the leaves parted and another alien—Alaree’s very double—stepped out into the clearing.</p>
+   <p>Then I saw the helmet on the newcomer’s head, and realized that he was no double. He was Alaree, and the other alien was the stranger!</p>
+   <p>“I see you’re here already,” the alien I knew as Alaree said to the other. They were standing about ten feet apart, staring coldly at each other. I glanced at both of them quickly. They might have been identical twins.</p>
+   <p>“We are here,” the stranger said. “We have come to get you.”</p>
+   <p>I took a step backward, sensing that some incomprehensible drama was being played out here among these aliens.”</p>
+   <p>“What’s going on, Alaree?” I asked.</p>
+   <p>“We are having difficulties,” both of them said, as one.</p>
+   <p><emphasis>Both</emphasis> of them.</p>
+   <p>I turned to the second alien. “What’s your name?”</p>
+   <p>“Alaree,” he said.</p>
+   <p>“Are you all named’ that?” I demanded.</p>
+   <p>“We are Alaree,” Alaree Two said.</p>
+   <p>“They are Alaree,” Alaree One said. “And I am Alaree. I.”</p>
+   <p>At that moment there was a disturbance in the shrubbery, and half a dozen more aliens stepped through and confronted Alarees One and Two.</p>
+   <p>“We are Alaree,” Alaree Two repeated exasperatingly. He made a sweeping gesture that embraced all seven of the aliens to my left, but pointedly excluded Alaree One at my right.</p>
+   <p>“Are we—you coming with we—us?” Alaree Two demanded. I heard the six others say something in approximately the same tone of voice, but since they weren’t wearing converters, their words were only scrambled nonsense to me.</p>
+   <p>Alaree One looked at me in pain, then back at his seven fellows. I saw an expression of sheer terror in the small creature’s eyes. He turned to me.</p>
+   <p>“I must go with them,” he said softly. He was quivering with fear.</p>
+   <p>Without a further word, the eight marched silently away. I stood there, shaking my head in bewilderment.</p>
+   <p>We were scheduled to leave the next day. I said nothing to my crew about the bizarre incident of the evening before, but noted “in my log that the native life of the planet would require careful study at some future time.</p>
+   <p>Blast-off was slated for 1100. As the crew moved efficiently through the ship, securing things, packing, preparing for departure, I sensed a general feeling of jubilation. They were happy to be on their way again, and I didn’t blame them.</p>
+   <p>About half an hour before blast-off, Willendorf came to me. “Sir, Alaree’s down below,” he said. “He wants to come up and see you. He looks very troubled, sir.”</p>
+   <p>I frowned. Probably the alien still wanted to go back with us. Well, it was cruel to deny the request, but I wasn’t going to risk that fine. I intended to make that clear to him.</p>
+   <p>“Send him up,” I said.</p>
+   <p>A moment later Alaree came stumbling into my cabin. Before he could speak I said, “I told you before—I can’t take you off this planet, Alaree. I’m sorry about it.”</p>
+   <p>He looked up pitiably and said, “You mustn’t leave me!” He was trembling uncontrollably.</p>
+   <p>“What’s wrong, Alaree?” I asked.</p>
+   <p>He stared intensely at me for a long moment, mastering himself, trying to arrange what he wanted to tell me into a coherent argument. Finally he said, “They would not take me back. I am alone.”</p>
+   <p>“Who wouldn’t take you back, Alaree?”</p>
+   <p>“<emphasis>They</emphasis>. Last night, Alaree came for me, to take me back. They are a <emphasis>We</emphasis>—an entity, a oneness. You cannot understand. When they saw what I had become, they cast me out.”</p>
+   <p>I shook my head dizzily. “What do you mean?”</p>
+   <p>“You taught me… to become an I,” he said, moistening his lips. “Before, I was part of <emphasis>We</emphasis>—<emphasis>They</emphasis>. I learned your ways from you, and now there is no room for me here. They have cut me off. When the final break comes, I will not be able to stay on this world.”</p>
+   <p>Sweat was pouring down his pale face, and he was breathing harder. “It will come any minute. They are gathering strength for it. But I am <emphasis>I</emphasis>,” he said triumphantly. He shook violently and gasped for breath.</p>
+   <p>I understood now. They were <emphasis>all</emphasis> Alaree. It was one planet-wide, self-aware corporate entity, composed of any number of individual cells. He had been one of them—but he had learned independence.</p>
+   <p>Then he had returned to the group—but he carried with him the seeds of individualism, the deadly, contagious germ we Terrans spread everywhere. Individualism would be fatal to such a group mind; it was cutting him loose to save itself. Just as diseased cells must be excised for the good of the entire body. Alaree was inexorably being cut off from his fellows lest he destroy the bond that made them one.</p>
+   <p>I watched Him as he sobbed weakly on my acceleration cradle. “They… are… cutting… me… loose… <emphasis>now</emphasis>!”</p>
+   <p>He writhed horribly for a brief moment, and then relaxed and sat up on the edge of the cradle. “It is over,” he said calmly. “I am fully independent.”</p>
+   <p>I saw a stark <emphasis>aloneness</emphasis> reflected in his eyes, and behind that a gentle indictment of me for having done this to him. This world, I realized, was no place for Earthmen. What had happened was our fault—mine more than anyone else’s.</p>
+   <p>“Will you take me with you?” he asked again. “If I stay here, Alaree will kill me.”</p>
+   <p>I scowled wretchedly for a moment, fighting a brief battle within myself, and then I looked up. There was only one thing to do—and I was sure, once I explained on Earth, that I would not suffer for it.</p>
+   <p>I took his hand. It was cold and limp; whatever he had just been through, it must have been hell. “Yes,” I said softly. “You can come with us.”</p>
+   <p>And so Alaree joined the crew of the <emphasis>Aaron Burr</emphasis>. I told them about it just before blast-off, and they welcomed him aboard in traditional manner.</p>
+   <p>We gave the sad-eyed little alien a cabin near the cargo hold, and he established himself quite comfortably. He had no personal possessions—“It is not <emphasis>Their</emphasis> custom,” he said—and promised that he’d keep the cabin clean.</p>
+   <p>He had brought with him a rough-edged, violet fruit that he said was his staple food. I turned it over to Kechnie for synthesizing, and we blasted off.</p>
+   <p>Alaree was right at home aboard the <emphasis>Burr</emphasis>. He spent much time with me—asking questions.</p>
+   <p>“Tell me about Earth,” Alaree would ask. The alien wanted desperately to know what sort of a world he was going to.</p>
+   <p>He would listen gravely while I explained. I told him of cities and wars and spaceships, and he nodded sagely, trying to fit the concepts into a mind only newly liberated from the <emphasis>gestalt</emphasis>. I knew he could comprehend only a fraction of what I was saying, but I enjoyed telling him. It made me feel as if Earth were coming closer that much faster, simply to talk about it.</p>
+   <p>And he went around begging everyone, “Tell me about Earth.” They enjoyed telling him, too—for a while.</p>
+   <p>Then it began to get a little tiresome. We had grown accustomed to Alaree’s presence on the ship, flopping around the corridors doing whatever menial job he had been assigned to. But—although I had told the men why I had brought him with us, and though we all pitied the poor lonely creature and admired his struggle to survive as an individual entity—we were slowly coming to the realization that Alaree was something of a nuisance aboard ship.</p>
+   <p>Especially later, when he began to change.</p>
+   <p>Willendorf noticed it first, twelve days out from Alaree’s planet. “Alaree’s been acting pretty strange these days, sir,” he told me.</p>
+   <p>“What’s wrong?” I asked.</p>
+   <p>“Haven’t you spotted it, sir? He’s been moping around like a lost soul—very quiet and withdrawn, like.”</p>
+   <p>“Is he eating well?”</p>
+   <p>Willendorf chuckled loudly. “I’ll say he is! Kechnie made up some synthetics based on that piece of fruit he brought with him, and he’s been stuffing himself wildly. He’s gained ten pounds since he came on ship. No, it’s not lack of food!”</p>
+   <p>“I guess not,” I said. “Keep an eye on him, will you? I feel responsible for his being here, and I want him to come through the voyage in good health.”</p>
+   <p>After that, I began to observe Alaree more closely myself, and I detected the change in his personality too. He was no longer the cheerful, childlike being who delighted in pouring out questions in endless profusion. Now he was moody, silent, always brooding, and hard to approach.</p>
+   <p>On the sixteenth day out—and by now I was worried seriously about him—a new manifestation appeared. I was in the hallway, heading from my cabin to the chartroom, when Alaree stepped out of an alcove. He reached up, grasped my uniform lapel, and, maintaining his silence, drew my head down and stared pleadingly into my eyes.</p>
+   <p>Too astonished to say anything, I returned his gaze for nearly thirty seconds. I peered into his transparent pupils, wondering what he was up to. After a good while had passed, he released me, and I saw something like a tear trickle down his cheek.</p>
+   <p>“What’s the trouble, Alaree?”</p>
+   <p>He shook his head mournfully and shuffled away.</p>
+   <p>I got reports from the crewmen that day and next that he had been doing this regularly for the past eighteen hours—waylaying crewman, staring long and deep at them as if trying to express some unspeakable sadness, and walking away. He had approached almost everyone on the ship.</p>
+   <p>I wondered now how wise it had been to allow an extraterrestrial, no matter how friendly, to enter the ship. There was no telling what this latest action meant.</p>
+   <p>I started to form a theory. I suspected what he was aiming at, and the realization chilled me. But once I reached my conclusion, there was nothing I could do but wait for confirmation.</p>
+   <p>On the nineteenth day, Alaree again met me in the corridor. This time our encounter was more brief. He plucked me by the sleeve, shook his head sadly and shrugged his shoulders, and walked away.</p>
+   <p>That night, he took to his cabin, and by morning he was dead. He had apparently died peacefully, in his sleep.</p>
+   <p>“I guess we’ll never understand him, poor fellow,” Willendorf said, after we had committed the body to space. “You think he had too much to eat, sir?”</p>
+   <p>“No,” I said. “It wasn’t that. He was lonely, that’s all. He didn’t belong here, among us.”</p>
+   <p>“But you said he had broken away from that group-mind,” Willendorf objected.</p>
+   <p>I shook my head. “Not really. That group-mind arose out of some deep psychological and physiological needs of those people. You can’t just declare your independence and be able to exist as an individual from then on if you’re part of that group-entity. Alaree had grasped the concept intellectually, to some extent, but he wasn’t suited for life away from the corporate mind, no matter how much he wanted to be.”</p>
+   <p>“He couldn’t stand alone?”</p>
+   <p>“Not after his people had evolved that <emphasis>gestalt-setup</emphasis>. He learned independence from us,” I said. “But he couldn’t live with us, really. He needed to be part of a whole. He found out his mistake after he came aboard and tried to remedy things.”</p>
+   <p>I saw Willendorf pale. “What do you mean, sir?”</p>
+   <p>“You know what I mean. When he came up to us and stared soulfully into our eyes. <emphasis>He was trying to form a new gestalt</emphasis>—<emphasis>out of us</emphasis>! Somehow he was trying to link us together, the way his people had been linked.”</p>
+   <p>“He couldn’t do it, though,” Willendorf said fervently.</p>
+   <p>“Of course not. Human beings don’t have whatever need it is that forced those people to merge. He found that out, after a while, when he failed to get anywhere with us.”</p>
+   <p>“He just couldn’t do it,” Willendorf repeated.</p>
+   <p>“No. And then he ran out of strength,” I said somberly, feeling the heavy weight of my guilt. “He was like an organ removed from a living body. It can exist for a little while by itself, but not indefinitely. He failed to find a new source of life—and he died.” I stared bitterly at my fingertips.</p>
+   <p>“What do we call it in my medical report?” asked Ship Surgeon Thomas, who had been silent up till then. “How can we explain what he died from?”</p>
+   <p>“Call it—<emphasis>malnutrition</emphasis>,” I said.</p>
+  </section>
+ </body>
+ <binary id="alaree.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEVAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDxvxZqV5qGuT3l3eSTTEoZH3ljnYoPPf8A
++tWT9qR51UXM0cRA+bGTnHT8TT9aSf7W0YIKKqcqML90AEfWvZB8JdK8OaA2v6nfTavPaWX2
+yewRAkQ4G0M+c4z7ZODjgGuPEY6jhIxUuuxMcN7WTlZaHi6XcrKVdyS3fPbHp3p8F3dRvyzS
+qy7cEkfkRg19SeGrDQ7T4ZQ+KLPwxZa7c3ka3N6kMKbjn74UEHATpsH9361yvwB8P6Rq/iDx
+B4xvNNtYtOE5trS1kiVo1Lvk8HjgbB/wI+2fJeeQjCpOVL4dN9W9rW/U7Fg1eKjLc8Ug1LzI
+9v23UrcBcD96ZFJHGM5BHeiTVdZiObfV7sjOcLNJz6DmvpfShpFj8dtX8Op4etZk1KCG48wx
+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
+</binary>
+</FictionBook>

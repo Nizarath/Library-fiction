@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Philip</first-name>
+    <middle-name>Kindred</middle-name>
+    <last-name>Dick</last-name>
+   </author>
+   <book-title>The Eye of the Sibyl and Other Classic Strories</book-title>
+   <annotation>
+    <p>Philip K. Dick <emphasis>A Terran Odyssey</emphasis> 3/17/64 [put together by PKD from sections of <emphasis>Dr. Bloodmoney</emphasis>]. Published in “The Collected Stories of Philip K. Dick” Vol.5, by <emphasis>Underwood-Miller</emphasis>, 1987</p>
+   </annotation>
+   <date>1963-1981</date>
+   <coverpage>
+    <image l:href="#cover.jpg"/></coverpage>
+   <lang>en</lang>
+   <sequence name="The Collected Stories of Philip K. Dick" number="5"/>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Stranger</nickname>
+    <email>[4pi@bk.ru]</email>
+   </author>
+   <program-used>doc2fb, FBTools, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-05-15">20.04.2005</date>
+   <id>Stranger-2005-04-22-The_Eye_of_the_Sibyl_by_Philip_Dick_1981</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>The Eye of the Sibyl and Other Classic Strories</book-name>
+   <publisher>Carol Publishing Group</publisher>
+   <city>New York</city>
+   <year>1992</year>
+   <isbn>0806513284</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>A Terran Odyssey</p>
+   <p>by Philip K. Dick</p>
+  </title>
+  <section>
+   <epigraph>
+    <p>Written 3/17/64, published in 1987.</p>
+   </epigraph>
+   <p>Orion Stroud, Chairman of the West Marin school board, turned up the Coleman gasoline lantern so that the utility school room in the white glare became clearly lit, and all four members of the board could make out the new teacher.</p>
+   <p>“I’ll put a few questions to him,” Stroud said to the others. “First, this is Mr. Barnes and he comes from Oregon. He tells me he’s a specialist in science and natural edibles. Right, Mr. Barnes?”</p>
+   <p>The new teacher, a short, young-looking man wearing a khaki shirt and work pants, nervously cleared his throat and said, “Yes, I am familiar with chemicals and plants and animal-life, especially whatever is found out in the woods such as berries and mushrooms.”</p>
+   <p>“We’ve recently had bad luck with mushrooms,” Mrs. Tallman said, the elderly lady who had been a member of the board even in the old days before the Emergency. “It’s been our tendency to leave them alone, now.”</p>
+   <p>“I’ve looked through your pastures and woods in this area,” Mr. Barnes said, “and I’ve seen some fine examples of nutritious mushrooms; you can supplement your diet without taking any chances. I even know their Latin names.”</p>
+   <p>The board stirred and murmured. That had impressed them, Stroud realized, that about the Latin names.</p>
+   <p>“Why did you leave Oregon?” George Keller, the principal, asked bluntly.</p>
+   <p>The new teacher faced him and said, “Politics.”</p>
+   <p>“Yours or theirs?”</p>
+   <p>“Theirs,” Barnes said. “I have no politics. I teach children how to make ink and soap and how to cut the tails from lambs even if the lambs are almost grown. And I’ve got my own books.” He picked up a book from the small stack beside him, showing the board in what good shape they were. “I’ll tell you something else: you have the means here in this part of California to make paper. Did you know that?”</p>
+   <p>Mrs. Tallman said, “We knew it, Mr. Barnes, but we don’t know quite how. It has to do with bark of trees, doesn’t it?”</p>
+   <p>On the new teacher’s face appeared a mysterious expression, one of concealment. Stroud knew that Mrs. Tallman was correct, but the teacher did not want to let her know; he wanted to keep the knowledge to himself because the West Marin trustees had not yet hired him. His knowledge was not yet available—he gave nothing free. And that of course was proper; Stroud recognized that, respected Barnes for it. Only a fool gave something away for nothing.</p>
+   <p>Mrs. Tallman was scrutinizing the new teacher’s stack of books. “I see that you have Carl Jung’s <emphasis>Psychological Types. </emphasis>Is one of your sciences psychology? How nice, to acquire a teacher for our school who can tell edible mushrooms and also is an authority on Freud and Jung.”</p>
+   <p>“There’s no value in such stuff,” Stroud said, with irritation. “We need useful science, not academic hot air.” He felt personally let down; Mr. Barnes had not told him about that, about his interest in mere theory. “Psychology doesn’t dig any septic tanks.”</p>
+   <p>“I think we’re ready to vote on Mr. Barnes,” Miss Costigan, the youngest member of the board, said. “I for one am in favor of accepting him, at least on a provisional basis. Does anyone feel otherwise?”</p>
+   <p>Mrs. Tallman said to Mr. Barnes, “We killed our last teacher, you know. That’s why we need another. That’s why we sent Mr. Stroud out looking up and down the Coast until he found you.”</p>
+   <p>“We killed him because he lied to us,” Miss Costigan said. “You see, his real reason for coming here had nothing to do with teaching. He was looking for some man named Jack Tree, who it turned out lived in this area. Our Mrs. Keller, a respected member of this community and the wife of George Keller, here, our principal, is a dear friend of Mr. Tree, and she brought the news of the situation to us and of course we acted, legally and officially, through our chief of police, Mr. Earl Colvig.”</p>
+   <p>“I see,” Mr. Barnes said woodenly, listening without interrupting.</p>
+   <p>Speaking up, Orion Stroud said, “The jury which sentenced and executed him was composed of myself, Cas Stone, who’s the largest land-owner in West Marin, Mrs. Tallman and Mrs. June Raub. I say ‘executed’ but you understand that the act—when he was shot, the shooting itself—was done by Earl. That’s Earl’s job, after the West Marin Official Jury has made its decision.” He eyed the new teacher.</p>
+   <p>“It sounds,” Mr. Barnes said, “very formal and law-abiding to me. Just what I’d be interested in.” He smiled at them all, and the tension in the room relaxed; people murmured.</p>
+   <p>A cigarette—one of Andrew Gill’s special deluxe Gold Labels—was lit up; its good, rich smell wafted to them all, cheering them and making them feel more friendly to the new teacher and to one another.</p>
+   <p>Seeing the cigarette, Mr. Barnes got a strange expression on his face and he said in a husky voice, “You’ve got <emphasis>tobacco </emphasis>up here? After seven years?” He clearly could not believe it.</p>
+   <p>Smiling in amusement, Mrs. Tallman said, “We don’t have any tobacco, Mr. Barnes, because of course no one does. But we do have a tobacco expert. He fashions these special deluxe Gold Labels for us out of choice, aged vegetable and herbal materials the nature of which remains—and justly so—his individual secret.”</p>
+   <p>“How much do they cost?” Mr. Barnes asked.</p>
+   <p>“In terms of State of California boodle money,” Orion Stroud said, “about a hundred dollars apiece. In terms of pre-war silver, a nickel apiece.”</p>
+   <p>“I have a nickel,” Mr. Barnes said, reaching shakily into his coat pocket; he fished about, brought up a nickel and held it toward the smoker, who was George Keller, leaning back in his chair with his legs crossed to make himself comfortable.</p>
+   <p>“Sorry,” George said, “I don’t want to sell. You better go directly to Mr. Gill; you can find him during the day at his shop. It’s here in Point Reyes Station but of course he gets all around; he has a horse-drawn VW minibus.”</p>
+   <p>“I’ll make a note of that,” Mr. Barnes said. He put his nickel away, very carefully.</p>
+   <empty-line/>
+   <p>“Do you intend to board the ferry?” the Oakland official asked. “If not, I wish you’d move your car, because it’s blocking the gate.”</p>
+   <p>“Sure,” Stuart McConchie said. He got back into his car, flicked the reins that made Edward Prince of Wales, his horse, begin pulling. Edward pulled, and the engineless 1975 Pontiac passed back through the gate and out onto the pier.</p>
+   <p>The Bay, choppy and blue, lay on both sides, and Stuart watched through the windshield as a gull swooped to seize some edible from the pilings. Fishing lines, too… men catching their evening meals. Several of the men wore the remains of Army uniforms. Veterans who perhaps lived beneath the pier. Stuart drove on.</p>
+   <p>If only he could afford to telephone San Francisco. But the underwater cable was out again, and the lines had to go all the way down to San Jose and up the other side, along the peninsula, and by the time the call reached San Francisco it would cost him five dollars in silver money. So, except for a rich person, that was out of the question; he had to wait the two hours until the ferry left… but could he stand to wait that long?</p>
+   <p>He was after something important.</p>
+   <p>He had heard a rumor that a huge Soviet guided missile had been found, one which had failed to go off; it lay buried in the ground near Belmont, and a farmer had discovered it while plowing. The farmer was selling it off in the form of individual parts, of which there were thousands in the guidance system alone. The farmer wanted a penny a part, your choice. And Stuart, in his line of work, needed many such parts. But so did lots of other people. So it was first come, first serve; unless he got across the Bay to Belmont fairly soon, it would be too late.</p>
+   <p>He sold (another man made them) small electronic traps. Vermin had mutated and now could avoid or repel the ordinary passive trap, no matter how complicated. The cats in particular had become different, and Mr. Hardy built a superior cat trap, even better than his rat and dog traps. The vermin were dangerous; they killed and ate small children almost at will—or at least so one heard. And of course wherever possible they themselves were caught and eaten in return. Dogs in particular, if stuffed with rice, were considered delicious; the little local Berkeley newspaper which came out once a week had recipes for dog soup, dog stew, even dog pudding.</p>
+   <p>Meditating about dog pudding made Stuart realize how hungry he was. It seemed to him that he had not stopped being hungry since the first bomb fell; his last really adequate meal had been the lunch at Fred’s Fine Foods that day he had run into Hoppy Harrington the phocomelus doing his phony vision act. And where, he wondered suddenly, was that little phoce now? He hadn’t thought of him in years.</p>
+   <p>Now, of course, one saw many phoces, and almost all of them on their ‘mobiles, exactly as Hoppy had been, placed dead center each in his own little universe, like an armless, legless god. The sight still repelled Stuart, but there were so many repellent sights these days…</p>
+   <p>On the surface of the Bay to his right a legless veteran propelled himself out onto the water aboard a raft, rowing himself toward a pile of debris that was undoubtedly a sunken ship. On the hulk a number of fishing lines could be seen; they belonged to the veteran and he was in the process of checking them. Watching the raft go, Stuart wondered if it could reach the San Francisco side. He could offer the man fifty cents for a one-way trip; why not? Stuart got out of his car and walked to the edge of the pier.</p>
+   <p>“Hey,” he yelled, “come here.” From his pocket he got a penny; he tossed it down onto the pier and the veteran saw it, heard it. At once he spun the raft about and came paddling rapidly back, straining to make speed, his face streaked with perspiration. He grinned up friendlily at Stuart, cupping his ear.</p>
+   <p>“Fish?” he called. “I don’t have any yet today, but maybe later on how about a small shark? Guaranteed safe.” He held up the battered Geiger counter which he had connected to his waist by a length of rope—in case it fell from the raft or someone tried to steal it, Stuart realized.</p>
+   <p>“No,” Stuart said, squatting down at the edge of the pier. “I want to get over to San Francisco; I’ll pay you a quarter for one way.”</p>
+   <p>“But I got to leave my lines to do that,” the veteran said, his smile fading. “I got to collect them all or somebody’d steal them while I was gone.”</p>
+   <p>“Thirty-five cents,” Stuart said.</p>
+   <p>In the end they agreed, at a price of forty cents. Stuart locked the legs of Edward Prince of Wales together so no one could steal him, and presently he was out on the Bay, bobbing up and down aboard the veteran’s raft, being rowed across to San Francisco.</p>
+   <p>“What field are you in?” the veteran asked him. “You’re not a tax collector, are you?” He eyed him calmly.</p>
+   <p>“Naw,” Stuart said. “I’m a small trap man.”</p>
+   <p>“Listen, my friend,” the veteran said, “I got a pet rat lives under the pilings with me? He’s smart; he can play the flute. I’m not putting you under an illusion, it’s true. I made a little wooden flute and he plays it, through his nose… it’s practically an Asiatic nose-flute like they have in India. Well, I did have him, but the other day he got run over. I saw the whole thing happen; I couldn’t go get him or nothing. He ran across the pier to get something, maybe a piece of cloth… he has this bed I made him but he gets—I mean he got—cold all the time because they mutated, this particular line, they lost their hair.”</p>
+   <p>“I’ve seen those,” Stuart said, thinking how well the hairless brown rat evaded even Mr. Hardy’s electronic vermin traps. “Actually I believe what you said,” he said. “I know rats pretty well. But they’re nothing compared to those little striped gray-brown tabby cats… I’ll bet you had to make the flute, he couldn’t construct it himself.”</p>
+   <p>“True,” the veteran said. “But he was an artist. You ought to have heard him play; I used to get a crowd at night, after we were finished with the fishing. I tried to teach him the Bach ‘Chaconne in D.’ ”</p>
+   <p>“I caught one of those tabby cats once,” Stuart said, “that I kept for a month until it escaped. It could make little sharp-pointed things out of tin can lids. It bent them or something; I never did see how it did it, but they were wicked.”</p>
+   <p>The veteran, rowing, said, “What’s it like south of San Francisco these days? I can’t come up on land.” He indicated the lower part of his body. “I stay on the raft. There’s a little trap door, when I have to go to the bathroom. What I need is to find a dead phoce sometime and get his cart. They call them phocomobiles.”</p>
+   <p>“I knew the first phoce,” Stuart said, “before the war. He was brilliant; he could repair anything.” He lit up an imitation-tobacco cigarette; the veteran gaped at it longingly. “South of San Francisco it’s as you know all flat. So it got hit bad and it’s just farmland now. Nobody ever rebuilt there, and it was mostly those little tract houses so they left hardly any decent basements. They grow peas and corn and beans down there. What I’m going to see is a big rocket a farmer just found; I need relays and tubes and other electronic gear for Mr. Hardy’s traps.” He paused. “You ought to have a Hardy trap.” </p>
+   <p>“Why? I live on fish, and why should I hate rats? I like them.” </p>
+   <p>“I like them, too,” Stuart said, “but you have to be practical; you have to look to the future. Someday America may be taken over by rats if we aren’t wary. We owe it to our country to catch and kill rats, especially the wiser ones that would be natural leaders.”</p>
+   <p>The veteran glared at him. “Sales talk, that’s all.” </p>
+   <p>“I’m sincere.”</p>
+   <p>“That’s what I have against salesmen; they believe their own lies. You know that the best rats can <emphasis>ever </emphasis>do, in a million years of evolution, is maybe be useful as servants to we human beings. They could carry messages maybe and do a little manual work. But dangerous—” He shook his head. “How much does one of your traps sell for?”</p>
+   <p>“Ten dollars silver. No State boodle accepted; Mr. Hardy is an old man and you know how old people are, he doesn’t consider boodle to be real money.” Stuart laughed.</p>
+   <p>“Let me tell you about a rat I once saw that did a heroic deed,” the veteran began, but Stuart cut him off.</p>
+   <p>“I have my own opinions,” Stuart said. “There’s no use arguing about it.” They were both silent, then. Stuart enjoyed the sight of the Bay on all sides; the veteran rowed. It was a nice day, and as they bobbed along toward San Francisco, Stuart thought of the electronic parts he might be bringing back to Mr. Hardy and the factory on San Pablo Avenue, near the ruins of what had once been the west end of the University of California. </p>
+   <p>“What kind of cigarette is that?” the veteran asked presently. </p>
+   <p>“This?” Stuart examined the butt; he was almost ready to put it out and stick it away in the metal box in his pocket. The box was full of butts, which would be opened and made into new cigarettes by Tom Grandi, the local cigarette man in South Berkeley. “This,” he said, “is imported. From Marin County. It’s a deluxe Gold Label made by—” He paused for effect. “I guess I don’t have to tell you.”</p>
+   <p>“By Andrew Gill,” the veteran said. “Say, I’d like to buy a whole one from you; I’ll pay you a dime.”</p>
+   <p>“They’re worth fifteen cents apiece,” Stuart said. “They have to come all the way around Black Point and Sears’ Point and along the Lucas Valley Road, from beyond Nicasio somewhere.”</p>
+   <p>“I had one of those Andrew Gill deluxe special Gold Labels one time,” the veteran said. “It fell out of the pocket of some man who was getting on the ferry; I fished it out of the water and dried it.” All of a sudden Stuart handed him the butt.</p>
+   <p>“For God’s sake,” the veteran said, not looking directly at him. He rowed rapidly, his lips moving, his eyelids blinking.</p>
+   <p>“I got more,” Stuart said.</p>
+   <p>The veteran said, “I’ll tell you what else you got; you got real humanity, mister, and that’s rare today. Very rare.”</p>
+   <p>Stuart nodded. He felt the truth of the veteran’s words.</p>
+   <empty-line/>
+   <p>The little Keller girl sat shivering on the examination table, and Doctor Stockstill, surveying her thin, pale body, thought of a joke which he had seen on television years ago, long before the war. A Spanish ventriloquist, speaking through a chicken… the chicken had produced an egg.</p>
+   <p>“My son,” the chicken said, meaning the egg.</p>
+   <p>“Are you sure?” the ventriloquist asked. “It’s not your daughter?”</p>
+   <p>And the chicken, with dignity, answered, “I know my business.”</p>
+   <p>This child was Bonny Keller’s daughter, but, Doctor Stockstill thought, it isn’t George Keller’s daughter; I am certain of that… I know my business. Who had Bonny been having an affair with, seven years ago? The child must have been conceived very close to the day the war began. But she had not been conceived before the bombs fell; that was clear. Perhaps it was on that very day, he ruminated. Just like Bonny, to rush out while the bombs were falling, while the world was coming to an end, to have a brief, frenzied spasm of love with someone, perhaps with some man she did not even know, the first man she happened onto… and now this.</p>
+   <p>The child smiled at him and he smiled back. Superficially, Edie Keller appeared normal; she did not seem to be a funny child. How he wished, God damn it, that he had an x-ray machine. Because—</p>
+   <p>He said aloud, “Tell me more about your brother.”</p>
+   <p>“Well,” Edie Keller said in her frail, soft voice, “I talk to my brother all the time and sometimes he answers for a while but more often he’s asleep. He sleeps almost all the time.”</p>
+   <p>“Is he asleep now?”</p>
+   <p>For a moment the child was silent. “No,” she answered.</p>
+   <p>Rising to his feet and coming over to her, Doctor Stockstill said, “I want you to show me exactly where he is.”</p>
+   <p>The child pointed to her left side, low down; near, he thought, the appendix. The pain was there. That had brought the child in; Bonny and George had become worried. They knew about the brother, but they assumed him to be imaginary, a pretend playmate which kept their little daughter company. He himself had assumed so at first; the chart did not mention a brother, and yet Edie talked about him. Bill was exactly the same age as she. Born, Edie had informed the doctor, at the same time as she, of course.</p>
+   <p>“Why of course?” he had asked, as he began examining her—he had sent the parents into the other room because the child seemed reticent in front of them.</p>
+   <p>Edie had answered in her calm, solemn way. “Because he’s my twin brother. How else could he be inside me?” And, like the Spanish ventriloquist’s chicken, she spoke with authority, with confidence; she, too, knew her business.</p>
+   <p>In the seven years since the war Doctor Stockstill had examined many hundreds of funny people, many strange and exotic variants on the human life form which flourished now under a much more tolerant—although smokily veiled—sky. He could not be shocked. And yet, this—a child whose brother lived inside her body, down in the inguinal region. For seven years Bill Keller had dwelt inside there, and Doctor Stockstill, listening to the girl, believed her; he knew it was possible. It was not the first case of this kind. If he had his x-ray machine he would be able to see the tiny, wizened shape, probably no larger than a baby rabbit. In fact, with his hands he could feel the outline… he touched her side, carefully noting the firm cyst-like sack within. The head in a normal position, the body entirely within the abdominal cavity, limbs and all. Someday the girl would die and they would open her body, perform an autopsy; they would find a little wrinkled male figure, perhaps with a snowy beard and blind eyes… her brother, still no larger that a baby rabbit.</p>
+   <p>Meanwhile, Bill slept mostly, but now and then he and his sister talked. What did Bill have to say? What possibly could he know?</p>
+   <p>To the question, Edie had an answer. “Well, he doesn’t know very much. He doesn’t see anything but he thinks. And I tell him what’s going on so he doesn’t miss out.”</p>
+   <p>“What are his interests?” Stockstill asked.</p>
+   <p>Edie considered and said, “Well, he, uh, likes to hear about food.”</p>
+   <p>“Food!” Stockstill said, fascinated.</p>
+   <p>“Yes. He doesn’t eat, you know. He likes me to tell him over and over again what I had for dinner, because he does get it after a while… I think he does, anyhow. Wouldn’t he have to, to live?”</p>
+   <p>“Yes,” Stockstill agreed.</p>
+   <p>“He especially likes it if I have apples or oranges. And—he likes to hear stories. He always wants to hear about places, far-away especially like New York. I want to take him there someday, so he can see what it’s like. I mean, so I can see and then tell him.”</p>
+   <p>“You take good care of him, don’t you?” Stockstill said, deeply touched. To the girl, it was normal; she had lived like this always—she did not know of any other existence.</p>
+   <p>“I’m afraid,” she said suddenly, “that he might die someday.”</p>
+   <p>“I don’t think he will,” Stockstill said. “What’s more likely to happen is that he’ll get larger. And that might pose a problem; it might be hard for your body to accommodate him.”</p>
+   <p>“Would he be born, then?” Edie regarded him with large, dark eyes.</p>
+   <p>“No,” Stockstill said. “He’s not located that way. He’d have to be removed—surgically. But he wouldn’t live. The only way he can live is as he is now, inside you.” Parasitically, he thought, not saying the word. “We’ll worry about that when the time comes, if it ever does.”</p>
+   <p>Edie said, “I’m glad I have a brother; he keeps me from being lonely. Even when he’s asleep I can feel him there, I know he’s there. It’s like having a baby inside me; I can’t wheel him around in a baby carriage or anything like that, or dress him, but talking to him is a lot of fun. For instance, I get to tell him about Mildred.”</p>
+   <p>“Mildred!” He was puzzled.</p>
+   <p>“You know.” The child smiled at his ignorance. “The woman that keeps coming back to Philip. And spoils his life. We listen every night. The satellite.”</p>
+   <p>“Of course.” It was Walt Dangerfield’s reading of the Maugham book, the disc jockey as he passed in his daily orbit above their heads. Eerie, Doctor Stockstill thought, this parasite dwelling within her body, in unchanging moisture and darkness, fed by her blood, hearing from her in some unfathomable fashion a second-hand account of a famous novel… it makes Bill Keller part of our culture. He leads his grotesque social existence, too… God knows what he makes of the story. Does he have fantasies about it, about our life? Does he <emphasis>dream </emphasis>about us?</p>
+   <p>Bending, Doctor Stockstill kissed the girl on her forehead. “Okay,” he said. “You can go, now. I’ll talk to your mother and father for a minute; there’re some very old genuine pre-war magazines out in the waiting room that you can read.”</p>
+   <p>When he opened the door, George and Bonny Keller rose to their feet, faces taut with anxiety.</p>
+   <p>“Come in,” Stockstill said to them. And shut the door after them. He had already decided not to tell them the truth about their daughter… and, he thought, about their son. Better they did not know.</p>
+   <empty-line/>
+   <p>When Stuart McConchie returned to the East Bay from his trip to the peninsula he found that someone—no doubt a group of veterans living under the pier—had killed and eaten his horse, Edward Prince of Wales. All that remained was the skeleton, legs and head, a heap worthless to him or to anyone else. He stood by it, pondering. Well, it had been a costly trip. And he had arrived too late anyhow; the farmer, at a penny apiece, had already disposed of the electronic parts of his Soviet missile.</p>
+   <p>Mr. Hardy would supply another horse, no doubt, but he had been fond of Edward. And it was wrong to kill a horse for food because they were so vitally needed for other purposes; they were the mainstay of transportation, now that most of the wood had been consumed by the wood-burning cars and by people in cellars using it in the winter to keep warm. And horses were needed in the job of reconstruction—they were the main source of power, in the absence of electricity. The stupidity of killing Edward Prince of Wales maddened him; it was, he thought, like barbarism, the thing they all feared. It was anarchy, and right in the middle of the city; right in downtown Oakland, in broad day. It was what he would expect the Red Chinese to do.</p>
+   <p>Now, on foot, he walked slowly toward San Pablo Avenue. The sun had begun to descend into the lavish, extensive sunset which they had become accustomed to seeing in the years since the Emergency. He scarcely noticed it. Maybe I ought to go into some other business, he said to himself. Small animal traps—it’s a living, but there’s no advancement possible in it. I mean, where can you rise to in a business like that?</p>
+   <p>The loss of his horse had depressed him; he gazed down at the broken, grass-infested sidewalk as he picked his way along, past the rubble which had once been factories. From a burrow in a vacant lot something with eager eyes noted his passing; something, he surmised gloomily, that ought to be hanging by its hind legs minus its skin.</p>
+   <p>These ruins, the smoky, flickering pallor of the sky… the eager eyes still following him as the creature calculated whether it could safely attack him. Bending, he picked up a hunk of concrete and chucked it at the burrow—a dense layer of organic and inorganic material packed tightly, glued in place by some sort of white slime. The creature had emulsified debris lying around, had reformed it into a usable paste. Must be a brilliant animal, he thought. But he did not care.</p>
+   <p>I’ve evolved, too, he said to himself. My wits are much clearer than they formerly were; I’m a match for you any time. So give up.</p>
+   <p>Evolved, he thought, but no better off then I was before the goddam Emergency; I sold TV sets then and now I sell electronic vermin traps. What is the difference? One’s as bad as the other. I’m going downhill, in fact.</p>
+   <p>A whole day wasted. In two hours it would be dark and he would be going to sleep, down in the cat-pelt-lined basement room which Mr. Hardy rented him for a dollar in silver a month. Of course, he could light his fat lamp; he could burn it for a little while, read a book or part of a book—most of his library consisted of merely sections of books, the remaining portions having been destroyed or lost. Or he could visit old Mr. and Mrs. Hardy and sit in on the evening transmission from the satellite.</p>
+   <p>After all, he had personally radioed a request to Dangerfield just the other day, from the transmitter out on the mudflats in West Richmond. He had asked for “Good Rockin’ Tonight,” an old-fashioned favorite which he remembered from his childhood. It was not known if Dangerfield had that tune in his miles of tapes, however, so perhaps he was waiting in vain. As he walked along he sang to himself:</p>
+   <poem>
+    <stanza>
+     <v>Oh I heard the news:</v>
+     <v>There’s good rockin’ tonight.</v>
+     <v>Oh I heard the news!</v>
+     <v>There’s good rockin’ tonight!</v>
+     <v>Tonight I’ll be a mighty fine man,</v>
+     <v>I’ll hold my baby as tight as I can—</v>
+    </stanza>
+   </poem>
+   <p>It brought tears to his eyes to remember one of the old songs, from the world the way it was. All gone now, he said to himself. And what do we have instead, a rat that can play the nose flute, and not even that because the rat got run over.</p>
+   <p>I’ll bet the rat couldn’t play that, he said to himself. Not in a million years. That’s practically sacred music. Out of our past, that no brilliant animal and no funny person can share. The past belongs only to us genuine human beings.</p>
+   <p>While he was thinking that he arrived on San Pablo Avenue with its little shops open here and there, little shacks which sold everything from coat hangers to hay. One of them, not far off, was <strong>Hardy’s Homeostatic Vermin Traps</strong>, and he headed in that direction.</p>
+   <empty-line/>
+   <p>As he entered, Mr. Hardy glanced up from his assembly table in the rear; he worked under the white light of an arc lamp, and all around him lay heaps of electronic parts scavenged from every region of Northern California. Many had come from the ruins out in Livermore; Mr. Hardy had connections with State Officials and they had permitted him to dig there in the restricted deposits.</p>
+   <p>In former times Dean Hardy had been an engineer for an AM radio station; he was a slender, quiet-spoken elderly man who wore a sweater and necktie even now—and a tie was rare, in these times.</p>
+   <p>“They ate my horse.” Stuart seated himself opposite Hardy.</p>
+   <p>At once Ella Hardy, his employer’s wife, appeared from the living quarters in the rear; she had been fixing dinner. “You left him?”</p>
+   <p>“Yes,” he admitted. “I thought he was safe out on the City of Oakland public ferry pier; there’s an official there who—”</p>
+   <p>“It happens all the time,” Hardy said wearily. “The bastards. Somebody ought to drop a cyanide bomb under that pier; those war vets are down there by the hundreds. What about the car? You had to leave it.”</p>
+   <p>“I’m sorry,” Stuart said.</p>
+   <p>“Forget it,” Hardy said. “We have more horses out at our Orinda store. What about parts from the rocket?”</p>
+   <p>“No luck,” Stuart said. “All gone when I got there. Except for this.” He held up a handful of transistors. “The farmer didn’t notice these; I picked them up for nothing. I don’t know if they’re any good, though.” Carrying them over to the assembly table he laid them down. “Not much for an all-day trip.” He felt more glum than ever.</p>
+   <p>Without a word, Ella Hardy returned to the kitchen; the curtain closed after her.</p>
+   <p>“You want to have some dinner with us?” Hardy said, shutting off his light and removing his glasses.</p>
+   <p>“I don’t know,” Stuart said. “I feel strange.” He roamed about the shop. “Over on the other side of the Bay I saw something I’ve heard about but didn’t believe. A flying animal like a bat but not a bat. More like a weasel, very skinny and long, with a big head. They call them <emphasis>tommies </emphasis>because they’re always gliding up against windows and looking in, like peeping toms.”</p>
+   <p>Hardy said, “It’s a squirrel.” He leaned back in his chair, loosened his necktie. “They evolved from the squirrels in Golden Gate Park. I once had a scheme for them… they could be useful—in theory, at least—as message carriers. They can glide or fly or whatever they do for almost a mile. But they’re too feral. I gave it up after catching one.” He held up his right hand. “Look at the scar, there on my thumb. That’s from a tom.”</p>
+   <p>“This man I talked to said they taste good. Like old-time chicken. They sell them at stalls in downtown San Francisco; you see old ladies selling them cooked for a quarter apiece, still hot, very fresh.”</p>
+   <p>“Don’t try one,” Hardy said. “Many of them are toxic. It has to do with their diet.”</p>
+   <p>“Hardy,” Stuart said suddenly, “I want to get out of the city and out into the country.”</p>
+   <p>His employer regarded him.</p>
+   <p>“It’s too brutal here,” Stuart said.</p>
+   <p>“It’s brutal everywhere.” He added, “And out in the country it’s hard to make a living.”</p>
+   <p>“Do you sell any traps in the country?”</p>
+   <p>“No,” Hardy said. “Vermin live in towns, where there’s ruins. You know that. Stuart, you’re a woolgatherer. The country is sterile; you’d miss the flow of ideas that you have here in the city. Nothing happens, they just farm and listen to the satellite.”</p>
+   <p>“I’d like to take a line of traps out say around Napa and Sonoma,” Stuart persisted. “I could trade them for wine, maybe; they grow grapes up there, I understand, like they used to.”</p>
+   <p>“But it doesn’t taste the same,” Hardy said. “The ground is too altered.” He shook his head. “Really awful. Foul.”</p>
+   <p>“They drink it, though,” Stuart said. “I’ve seen it here in town, brought in on those old wood-burning trucks.”</p>
+   <p>“People will drink anything they can get their hands on now.” Hardy raised his head and said thoughtfully, “You know who has liquor? I mean the genuine thing; you can’t tell if it’s pre-war that he’s dug up or new that he’s made.”</p>
+   <p>“Nobody in the Bay Area.”</p>
+   <p>“Andrew Gill, the tobacco expert. Oh, he doesn’t sell much. I’ve seen one bottle, a fifth of brandy. I had one single drink from it.” Hardy smiled at him crookedly, his lips twitching. “You would have liked it.”</p>
+   <p>“How much does he want for it?”</p>
+   <p>“More than you have to pay.”</p>
+   <p>I wonder what sort of a man Andrew Gill is, Stuart said to himself. Big, maybe, with a beard, a vest… walking with a silver-headed cane; a giant of a man with wavy hair, imported monocle—I can picture him.</p>
+   <p>Seeing the expression on Stuart’s face, Hardy leaned toward him. “I can tell you what else he sells. Girly photos. In artistic poses—you know.”</p>
+   <p>“Aw Christ,” Stuart said, his imagination boggling; it was too much. “I don’t believe it.”</p>
+   <p>“God’s truth. Genuine pre-war girly calendars, from as far back as 1950. They’re worth a fortune, of course. I’ve heard of a thousand silver dollars changing hands over a 1963 <emphasis>Playboy </emphasis>calendar.” Now Hardy had become pensive; he gazed off into space.</p>
+   <p>“Where I worked when the bomb fell,” Stuart said, “at Modern TV Sales &amp; Service, we had a lot of girly calendars downstairs in the repair department. They were all incinerated, naturally.” At least so he had always assumed. “Suppose a person were poking around in the ruins somewhere and he came onto an entire warehouse full of girly calendars. Can you imagine that?” His mind raced. “How much could he get? Millions! He could trade them for real estate; he could acquire a whole county!”</p>
+   <p>“Right,” Hardy said, nodding.</p>
+   <p>“I mean, he’d be rich forever. They make a few in the Orient, in Tokyo, but they’re no good.”</p>
+   <p>“I’ve seen them,” Hardy agreed. “They’re crude. The knowledge of how to do it has declined, passed into oblivion; it’s an art that has died out. Maybe forever.”</p>
+   <p>“Don’t you think it’s partly because there aren’t the girls any more who look like that?” Stuart said. “Everybody’s scrawny now and have no teeth; the girls most of them now have burn-scars from radiation and with no teeth what kind of a girly calendar does that make?”</p>
+   <p>Shrewdly, Hardy said, “I think the girls exist. I don’t know where, maybe in Sweden or Norway, maybe in out-of-the-way places like the Solomon Islands. I’m convinced of it from what people coming in by ship say. Not in the U.S. or Europe or Russia or China, any of the places that were hit—I agree with you there.”</p>
+   <p>“Could we find them?” Stuart said. “And go into the business?”</p>
+   <p>After considering for a little while Hardy said, “There’s no film. There’re no chemicals to process it. Most good cameras have been destroyed or have disappeared. There’s no way you could get your calendars printed in quantity. If you did print them—”</p>
+   <p>“But if someone could find a girl with no burns and good teeth, the way they had before the war—”</p>
+   <p>“I’ll tell you,” Hardy said, “what would be a good business. I’ve thought about it many times.” He faced Stuart meditatively. “Sewing machine needles. You could name your own price; you could have anything.”</p>
+   <p>Gesturing, Stuart got up and paced about the shop. “Listen, I’ve got my eye on the big time; I don’t want to mess around with selling any more—I’m fed up with it. I sold aluminum pots and pans and encyclopedias and TV sets and now these vermin traps. They’re good traps and people want them, but I just feel there must be something else for me. I don’t mean to insult you, but I want to grow. I <emphasis>have </emphasis>to; you either grow or you go stale, you die on the vine. The war set me back years, it set us all back. I’m just where I was ten years ago, and that’s not good enough.”</p>
+   <p>Scratching his nose, Hardy murmured, “What did you have in mind?” </p>
+   <p>“Maybe I could find a mutant potato that would feed everybody in the world.”</p>
+   <p>“Just one potato?”</p>
+   <p>“I mean a type of potato. Maybe I could become a plant breeder, like Luther Burbank. There must be millions of freak plants growing around out in the country, like there’s all these freak animals and funny people here in the city.”</p>
+   <p>Hardy said, “Maybe you could locate an intelligent bean.” </p>
+   <p>“I’m not joking about this,” Stuart said quietly. </p>
+   <p>They faced each other, neither speaking.</p>
+   <p>“It’s a service to humanity,” Hardy said at last, “to make homeostatic vermin traps that destroy mutated cats and dogs and rats and squirrels. I think you’re acting infantile. Maybe your horse being eaten while you were over in South San Francisco—”</p>
+   <p>Entering the room, Ella Hardy said, “Dinner is ready, and I’d like to serve it while it’s hot. It’s baked cod-head and rice and it took me three hours standing in line down at Eastshore Freeway to get the cod-head.”</p>
+   <p>The two men rose to their feet. “You’ll eat with us?” Hardy asked Stuart. At the thought of the baked fish head, Stuart’s mouth watered. He could not say no and he nodded, following after Mrs. Hardy to the kitchen.</p>
+   <empty-line/>
+   <p>Hoppy Harrington, the handyman phocomelus of West Marin, did an imitation of Walt Dangerfield when the transmission from the satellite failed; he kept the citizens of West Marin amused. As everyone knew, Dangerfield was sick and he often faded out, now. Tonight, in the middle of his imitation, Hoppy glanced up to see the Kellers, with their little girl, enter the Forresters’ Hall and take seats in the rear. About time, he said to himself, glad of a greater audience. But then he felt nervous, because the little girl was scrutinizing him. There was something in the way she looked; he ceased suddenly and the hall was silent.</p>
+   <p>“Go ahead, Hoppy,” Cas Stone called.</p>
+   <p>“Do that one about Kool-Ade,” Mrs. Tallman called. “Sing that, the little tune the Kool-Ade twins sing; you know.”</p>
+   <p>“ ‘Kool-Ade, Kool-Ade, can’t wait,’ ” Hoppy sang, but once more he stopped. “I guess that’s enough for tonight,” he said.</p>
+   <p>The room became silent once again.</p>
+   <p>“My brother,” the little Keller girl spoke up, “he says that Mr. Dangerfield is somewhere in this place.”</p>
+   <p>Hoppy laughed. “That’s right,” he said excitedly.</p>
+   <p>“Has he done the reading?” Edie Keller asked. “Or was he too sick tonight to do it?”</p>
+   <p>“Oh yeah, the reading’s in progress,” Earl Colvig said, “but we’re not listening; we’re tired of sick old Walt—we’re listening to Hoppy and watching what he does. He did funny things tonight, didn’t you, Hoppy?”</p>
+   <p>“Show the little girl how you moved that coin from a distance,” June Raub said. “I think she’d enjoy that.”</p>
+   <p>“Yes, do that again,” the pharmacist called from his seat. “That was good; we’d all like to see that again, I’m sure.” In his eagerness to watch he rose to his feet, forgetting that people were behind him.</p>
+   <p>“My brother,” Edie said quietly, “wants to hear the reading. That’s what he came for.”</p>
+   <p>“Be still,” Bonny, her mother, said to her.</p>
+   <p>Brother, Hoppy thought. She doesn’t have any brother. He laughed out loud at that, and several people in the audience smiled. “Your <emphasis>brother</emphasis>?”he said, wheeling his phocomobile toward the child. “I can do the reading; I can be Philip and Mildred and everybody in the book; I can be Dangerfield. Sometimes I actually am. I was tonight, and that’s why your brother thinks Dangerfield’s in the room. What it is, it’s me.” He looked around at the people. “Isn’t that right, folks? Isn’t it actually me?”</p>
+   <p>“That’s right, Hoppy,” Orion Shroud agreed. Everyone nodded.</p>
+   <p>“You have no brother, Edie,” Hoppy said to the little girl. “Why do you say your brother wants to hear the reading when you have no brother?” He laughed and laughed. “Can I see him? Talk to him? Let me hear him talk and—I’ll do an imitation of him.”</p>
+   <p>“That’ll be quite an imitation,” Cas Stone chuckled.</p>
+   <p>“Like to hear that,” Earl Colvig said.</p>
+   <p>“I’ll do it,” Hoppy said, “as soon as he says something to me.” He sat in the center of his ‘mobile, waiting. “I’m waiting,” he said.</p>
+   <p>“That’s enough,” Bonny Keller said. “Leave my child alone.” Her cheeks were red with anger.</p>
+   <p>“Lean down,” Edie said to Hoppy. “Toward me. And he’ll speak to you.” Her face, like her mother’s, was grim.</p>
+   <p>Hoppy leaned toward her, cocking his head on one side, mockingly.</p>
+   <p>A voice, speaking from inside him, as if it were part of the interior world, said, “How did you fix that record changer? How did you <emphasis>really </emphasis>do that?”</p>
+   <p>Hoppy screamed.</p>
+   <p>Everyone was staring at him, white-faced; they were on their feet, now, all of them rigid.</p>
+   <p>“I heard Jim Fergesson,” Hoppy said. “A man I worked for, once. A man who’s dead.”</p>
+   <p>The girl regarded him calmly. “Do you want to hear my brother say more? Say some more words to him, Bill; he wants you to say more.”</p>
+   <p>And, in Hoppy’s interior mind, the voice said, “It looked like you healed it. It looked like instead of replacing that broken spring—”</p>
+   <p>Hoppy wheeled his cart wildly, spun up the aisle to the far end of the room, wheeled again and sat panting, a long way from the Keller child; his heart pounded and he stared at her. She returned his stare silently.</p>
+   <p>“Did he scare you?” Now the child was openly smiling at him, but her smile was empty and cold. “He paid you back because you were picking on me. It made him angry. So he did that.”</p>
+   <p>Coming up beside Hoppy, George Keller said, “What happened, Hop?” </p>
+   <p>“Nothing,” he said shortly. “Maybe we better listen to the reading.” Sending out his manual extensor, he turned up the volume of the radio.</p>
+   <p>You can have what you want, you and your brother, he thought. Dangerfield’s reading or anything else. <emphasis>How long have you been in there? </emphasis>Only seven years? It seems more like forever. As if—you’ve always existed. It had been a terribly old, wizened, white thing that had spoken to him. Something hard and small, floating. Lips overgrown with downy hair that hung trailing, streamers of it, wispy and dry. I bet it was Fergesson, he said to himself; it felt like him. He’s in there, inside that child. I wonder. Can he get out?</p>
+   <empty-line/>
+   <p>Edie Keller said to her brother, “What did you do to scare him like you did? He really was scared.”</p>
+   <p>From within her the familiar voice said, “I was someone he used to know, a long time ago. Someone dead.”</p>
+   <p>Amused, she said, “Are you going to do any more to him?”</p>
+   <p>“If I don’t like him,” Bill said, “I may do more to him, a lot of different things, maybe.”</p>
+   <p>“How did you know about the dead person?”</p>
+   <p>“Oh,” Bill said, “because—you know why. Because I’m dead, too.” He chuckled, deep down inside her stomach; she felt him quiver.</p>
+   <p>“No you’re not,” she disagreed. “You’re as alive as I am, so don’t say that; it isn’t right.” It frightened her.</p>
+   <p>Bill said, “I was just pretending. I’m sorry. I wish I could have seen his face… how did it look?”</p>
+   <p>“Awful,” Edie said. “It turned all inward, like a frog’s.”</p>
+   <p>“I wish I could come out,” Bill said plaintively. “I wish I could be born like everybody else. Can’t I be born later on?”</p>
+   <p>“Doctor Stockstill says you couldn’t.”</p>
+   <p>“Maybe I could <emphasis>make </emphasis>Doctor Stockstill let me out. I can do that if I want.”</p>
+   <p>“No,” she said. “You’re lying; you can’t do anything but sleep and talk to the dead and maybe do imitations like you did. That isn’t much.”</p>
+   <p>There was no response from within.</p>
+   <p>“If you did anything bad,” she said, “I could swallow something that would kill you. So you better behave.”</p>
+   <p>She felt more and more afraid of him; she was talking to herself, trying to bolster her confidence. Maybe it would be a good thing if you did die, she thought. Only then I’d have to carry you around still, and it—wouldn’t be pleasant. I wouldn’t like that.</p>
+   <p>She shuddered.</p>
+   <p>“Don’t worry about me,” Bill said suddenly. “I know a lot of things; I can take care of myself. I’ll protect you, too. You better be glad about me because I can look at everyone who’s dead, like the man I imitated. There’re a whole lot of them, trillions and trillions of them and they’re all different. When I’m asleep I hear them muttering. They’re still around.”</p>
+   <p>“Around where?” she asked.</p>
+   <p>“Underneath us,” Bill said. “Down in the ground.”</p>
+   <p>“Brrr,” she said.</p>
+   <p>“It’s true. And we’re going to be there, too. And so is Mommy and Daddy and everyone else. You’ll see.”</p>
+   <p>“I don’t want to see,” she said. “Please don’t say any more. I want to listen to the reading.”</p>
+   <empty-line/>
+   <p>Andrew Gill glanced up from his task of rolling cigarettes to see Hoppy Harrington—whom he did not like—entering the factory with a man whom he did not know. At once Gill felt uneasy. He set down his tobacco paper and rose to his feet. Beside him at the long bench the other rollers, his employees, continued at their work.</p>
+   <p>He employed, in all, eight men, and this was in the tobacco division alone. The distillery, which produced brandy, employed another twelve. His was the largest commercial enterprise in West Marin and he sold his products all over Northern California; his cigarettes had even gotten back to the East Coast and were known there.</p>
+   <p>“Yes?” he said to Hoppy. He placed himself in front of the phoce’s cart, halting him.</p>
+   <p>Hoppy stammered. “This m-man came up from Oakland to see you, Mr. Gill. He’s an important businessman, he says. Isn’t that right?” The phoce turned to the man beside him. “Isn’t that what you told me, Stuart?”</p>
+   <p>Holding out his hand, the man said, “I represent the Hardy Homeostatic Vermin Trap Corporation of Berkeley, California. I’m here to acquaint you with an amazing proposition that could well mean tripling your profits within six months.” His eyes flashed.</p>
+   <p>Gill repressed the impulse to laugh aloud. “I see,” he said, nodding. “Very interesting, Mr.—” He glanced questioningly at the phoce.</p>
+   <p>“M-mr. Stuart McConchie,” the phoce stammered. “I knew him before the war; I haven’t seen him in all that time and now he’s migrated up here, the same as I did.”</p>
+   <p>“My employer, Mr. Hardy,” Stuart McConchie said, “has empowered me to describe to you in detail the design of a fully-automated cigarette-making machine. We at Hardy Homeostatic are well aware of the fact that your cigarettes are rolled entirely in the old-fashioned way. By hand.” He pointed toward the employees at the long bench. “Such a method is a century out of date, Mr. Gill. You’ve achieved superb quality in your special deluxe Gold Label cigarettes—”</p>
+   <p>“Which I intend to maintain,” Gill said quietly.</p>
+   <p>Stuart McConchie said, “Our automated electronic equipment will in no way sacrifice quality for quantity. In fact—”</p>
+   <p>“Wait,” Gill said. “I don’t want to discuss this now.” He glanced toward the phoce, who was parked close by, listening. The phoce flushed and at once spun his ‘mobile away.</p>
+   <p>“I’m going,” Hoppy said sullenly. “This doesn’t interest me anyhow; goodbye.” He wheeled through the open door, out onto the street. The two of them watched him until he disappeared.</p>
+   <p>“Our handy,” Gill said. “Fixes—heals, rather—everything that breaks. Hoppy Harrington, the human handless handy.”</p>
+   <p>Strolling a few steps away, surveying the factory and the men at their work, McConchie said, “Nice place you have here, Gill. I want to state right now how much I admire your product; it’s first in its field.”</p>
+   <p>I haven’t heard talk like that, Gill realized, in seven years. It was difficult to believe that it still existed in the world; so much had changed, and yet here, in this man McConchie, it remained intact. Gill felt a glow of pleasure. It reminded him of happier times, this salesman’s line of patter. He felt amiably inclined toward the man.</p>
+   <p>“Thank you,” he said, and he meant it. Perhaps the world, at last, was really beginning to regain some of its old forms, its civilities and customs and preoccupations, all that had gone into it to make it what it was.</p>
+   <p>“How about a cup of coffee?” Gill said. “I’ll take a break for ten minutes and you can tell me about this fully automated machine of yours.”</p>
+   <p>“Real coffee?” McConchie said, and the pleasant, optimistic mask slid for an instant from his face; he gaped at Gill with naked hunger.</p>
+   <p>“Sorry,” Gill said. “A substitute. But not bad; I think you’ll like it. Better than what’s sold in the city at those so-called ‘coffee’ stands.” He went to get the pot of water.</p>
+   <p>“Coming here,” McConchie said, “is a long-time dream fulfilled. It took me a week to make the trip and I’ve been mulling about it ever since I smoked my first special deluxe Gold Label. It’s—” He groped for the words to express his thought. “An island of civilization in these barbaric times.” He roamed about the factory, hands in his pockets. “Life seems more peaceful here. In the city if you leave your horse—well, a while ago I left my horse to go across the Bay and when I got back someone had eaten it, and it’s things like that that make you disgusted with the city and want to move on.”</p>
+   <p>“I know,” Gill said, nodding. “It’s brutal in the city because there’re still so many homeless and destitute people.”</p>
+   <p>“I really loved that horse,” Stuart McConchie said, looking sad. </p>
+   <p>“Well,” Gill said, “in the country you’re faced constantly with the death of animals. When the bombs fell, thousands of animals up here were horribly injured; sheep and cattle… but that can’t compare of course to the loss of human life down where you come from. You must have seen a good deal of human suffering since E-Day.”</p>
+   <p>McConchie nodded. “That and the sporting. The freaks both as regards animals and people. Like my old buddy Hoppy Harrington, but of course he’s from before; at Modern TV Sales &amp; Service where we worked we used to say Hoppy was from that drug, that thalidomide.”</p>
+   <p>“What sort of vermin trap does your company make?” Gill asked. </p>
+   <p>“It’s not a passive type. Being homeostatic, that is, self-notifying, it follows for instance a rat or a cat or dog down into the network of burrows such as now underlie Berkeley and Oakland… it pursues one vermin after another, killing one and going on to the next—until it runs out of power or by chance a brilliant vermin manages to destroy it. There are a few such brilliant rats that know how to lame a Hardy Homeostatic Vermin Trap. But not many.” </p>
+   <p>“Impressive,” Gill murmured. </p>
+   <p>“Now, our proposed cigarette-rolling machine—” </p>
+   <p>“My friend,” Gill said, “I like you but—here’s the problem. I don’t have any money to buy your machine and I don’t have anything to trade you. And I don’t intend to let anyone enter my business as a partner. So what does that leave?” He smiled. “I must continue as I am.”</p>
+   <p>“Wait,” McConchie said instantly. “There has to be a solution. Maybe we could lease you a Hardy cigarette-rolling machine in exchange for x-number of cigarettes, your special deluxe Gold Label variety, of course, delivered each week for x-number of weeks.” His face glowed with animation. “The Hardy Company for instance could become sole licensed distributors of your cigarette; we could represent you everywhere, develop a systematic program of outlets up and down California. What do you say to that?”</p>
+   <p>“I must admit it does sound interesting. I admit that distribution has not been my cup of tea… I’ve thought on and off for several years about the need of getting an organization going, especially with my factory being located in a rural spot. I’ve even thought about moving back into the city, but the theft and vandalism is too great there. Anyhow I don’t <emphasis>want</emphasis> to move into the city; this is my home, here.”</p>
+   <p>He did not say anything about Bonny Keller. That was his actual reason for remaining in West Marin; his affair with her had ended years ago but he was more in love with her now than ever—he had watched her go from man to man, becoming dissatisfied with each of them, and Gill believed in his own heart that someday he would get her back. And Bonny was the mother of his daughter; he was well aware that Edie Keller was his child.</p>
+   <p>“Since you’re just up from the city,” he said aloud, “I will ask you this… is there any interesting national or international news, of late, that we might not have heard? We do get the satellite, but I’m frankly tired of disc jockey talk and music. And those endless readings.”</p>
+   <p>They both laughed. “I know what you mean,” McConchie said, sipping his coffee and nodding. “Well, I understand that an attempt is being made to produce an automobile again, somewhere around the ruins of Detroit. It’s mostly made of plywood but it does run on kerosene.”</p>
+   <p>“I don’t know where they’re going to get the kerosene,” Gill said. “Before they build a car they better get a few refineries operating again. And repair a few major roads.”</p>
+   <p>“Oh, something else. The Government plans to reopen Route Forty across the Rockies sometime this year. For the first time since the war.”</p>
+   <p>“That’s great news,” Gill said, pleased. “I didn’t know that.”</p>
+   <p>“And the telephone company—”</p>
+   <p>“Wait,” Gill said, rising. “How about a little brandy in your coffee? How long has it been since you’ve had a coffee royal?”</p>
+   <p>“Years,” Stuart McConchie said.</p>
+   <p>“This is Gill’s Five Star. My own. From the Sonoma Valley.” He poured from the squat bottle into McConchie’s cup.</p>
+   <p>“Here’s something else that might interest you.” McConchie reached into his coat pocket and brought out something flat and folded. He opened it, spread it out, and Gill saw an envelope.</p>
+   <p>Mail service. A letter from New York.</p>
+   <p>“That’s right,” McConchie said. “Delivered to my boss, Mr. Hardy. All the way from the East Coast; it only took four weeks. The Government in Cheyenne, the military people; they’re responsible. It’s done partly by blimp, partly by truck, partly by horse. The last stage is by foot.”</p>
+   <p>“Good Lord,” Gill said. And he poured some Gill’s Five Star into <emphasis>his </emphasis>coffee, too.</p>
+   <empty-line/>
+   <p>Bill Keller heard the small animal, the snail or slug near him, and at once he got into it. But he had been tricked; it was sightless. He was out but he could not see or hear this time, he could only move.</p>
+   <p>“Let me back,” he called to his sister in panic. “Look what you did, you put me into something <emphasis>wrong</emphasis>.”You did it on purpose, he said to himself as he moved. He moved on and on, searching for her.</p>
+   <p>If I could reach out, he thought. Reach—upward. But he had nothing to reach with, no limbs of any sort. What am I now that I’m out again? he asked himself as he tried to reach up. What do they call those things up there that shine? Those lights in the sky… can I see them without having eyes? No, he thought; I can’t.</p>
+   <p>He moved on; raising himself now and then as high as possible and then sinking back, once more to crawl, to do the one thing possible for him in his born, outside life.</p>
+   <p>In the sky, Walt Dangerfield moved, in his satellite, although he sat resting with his head in his hands. The pain inside him had grown, changed, absorbed him until, as so many times before, he could imagine nothing else.</p>
+   <p>How long can I keep going? he asked himself. How long will I live?</p>
+   <p>There was no one to answer.</p>
+   <empty-line/>
+   <p>Edie Keller, with a delicious shiver of exultation, watched the angleworm crawling slowly across the ground and knew with certitude that her brother was in it.</p>
+   <p>For inside her, down in her stomach, the mentality of the worm now resided; she heard its monotonous voice. “Boom, boom, boom,” it went, in echo of its own nondescript biological processes.</p>
+   <p>“Get out of me, worm,” she giggled. What did the worm think about its new existence? Was it as dumbfounded as Bill probably was? I have to keep my eye on him, she realized, meaning the creature wriggling across the ground. For he might get lost. “Bill,” she said, bending over him, “you look funny. You’re all red and long; did you know that?” And then she thought, What I should have done was put him in the body of another human being. Why didn’t I do that? Then it would be like it ought to be; I would have a real brother, outside of me, who I could play with.</p>
+   <p>But on the other hand she would have a strange, new person inside her. And that did not sound like much fun.</p>
+   <p>Who would do? she asked herself. One of the kids at school? An adult? Mr. Barnes, my teacher, maybe. Or—</p>
+   <p>Hoppy Harrington. Who is afraid of Bill anyhow.</p>
+   <p>“Bill,” she said, kneeling down and picking up the angleworm; she held it in the palm of her hand. “Wait until you hear my plan.” She held the worm against her side, where the hard lump within lay. “Get back inside now. You don’t want to be a worm anyhow; it’s no fun.”</p>
+   <p>Her brother’s voice once more came to her. “You—I hate you, I’ll never forgive you. You put me in a blind thing with no legs or nothing! All I could do was drag myself around!”</p>
+   <p>“I know,” she said, rocking back and forth, cupping the now-useless worm in her hand still. “Listen, did you hear me? You want to do that, Bill, what I said? Shall I get near Hoppy Harrington? You’d have eyes and ears; you’d be a real outside person.” </p>
+   <p>“It scares me.”</p>
+   <p>“But I want to,” Edie said, rocking back and forth. “We’re going to, Bill; we’re going to give you eyes and ears—<emphasis>now</emphasis>.”</p>
+   <p>There was no answer from Bill; he had turned his thoughts away from her and her world, into the regions which only he could reach. Talking to those old crummy, sticky dead, Edie said to herself. Those empty poo-poo dead that never had any fun or nothing.</p>
+   <p>It won’t do you any good, Bill, she thought. Because I’ve decided.</p>
+   <empty-line/>
+   <p>Hurrying down the path in her robe and slippers, through the night darkness, Edie Keller groped her way toward Hoppy Harrington’s house.</p>
+   <p>“If you’re going to do it you have to hurry,” Bill cried, from deep within her. “He knows about us—they’re telling me, the dead are. They say we’re in danger. If we can get close enough to him I can do an imitation of someone dead that’ll scare him, because he’s afraid of dead people. That’s because to him the dead are like fathers, lots of fathers, and—”</p>
+   <p>“Be quiet,” Edie said. “Let me <emphasis>think.</emphasis>” In the darkness she had gotten mixed up. She could not find the path through the oak forest, now, and she halted, breathing deeply, trying to orient herself by the dull gleam of the partial moon overhead.</p>
+   <p>It’s to the left, she thought. Down a hill. I must not fall; he’d hear the noise, he can hear a long way, almost everything. Step by step she descended, holding her breath.</p>
+   <p>“I’ve got a good imitation ready,” Bill was mumbling; he would not be quiet. “When I get near him I switch with someone dead, and you won’t like that because it’s—sort of squishy, but it’s just for a few minutes and then they can talk to him direct, from inside you. Is that—”</p>
+   <p>“Shut up,” Edie said desperately. They were now above Hoppy’s house; she saw the lights below. “Please, Bill, please.”</p>
+   <p>“But I have to explain to you,” Bill went on. “When I—”</p>
+   <p>He stopped. Inside her there was nothing. She was empty.</p>
+   <p>“Bill,” she said.</p>
+   <p>He had gone.</p>
+   <p>Before her eyes, in the dull moonlight, something she had never seen before bobbed. It rose, jiggled, its long pale hair streaming behind it like a tail; it rose until it hung directly before her face. It had tiny, dead eyes and a gaping mouth, it was nothing but a little hard round head, like a baseball. From its mouth came a squeak, and then it fluttered upward once more, released. She watched it as it gained more and more height, rising above the trees in a swimming motion, ascending in the unfamiliar atmosphere which he had never known before.</p>
+   <p>“Bill,” she said, “Hoppy took you out of me. Hoppy put you outside.” And you are leaving, she realized; Hoppy is making you go. “Come back,” she said, but it didn’t matter because he could not live outside of her. She knew that. Doctor Stockstill had said that. He could not be born, and Hoppy had heard him and made him born, knowing that he would die.</p>
+   <p>You won’t get to do your imitation, she realized. I told you to be quiet and you wouldn’t. Straining, she saw—or thought she saw—the hard little object with the streamers of hair, high now above her… and then it disappeared, silently. She was alone.</p>
+   <p>Why go on now? It was over. She turned, walked back up the hillside, her head lowered, eyes shut, feeling her way. Back to her house, her bed. Inside she felt raw; she felt the tearing loose. If you only could have been quiet, she thought. He would not have heard you. I told you so.</p>
+   <empty-line/>
+   <p>Floating in the atmosphere, Bill Keller saw a little, heard a little, felt the trees and the animals alive and moving among them. He felt the pressure at work on him, lifting him up, but he remembered his imitation and he said it. His voice came out tiny in the cold air; then his ears picked it up and he exclaimed.</p>
+   <p>“We have been taught a terrible lesson for our folly,” he squeaked, and his voice echoed in his ears, delighting him.</p>
+   <p>The pressure on him let go; he bobbed up, swimming happily, and then he dove. Down and down he went and just before he touched the ground he went sideways until, guided by the living presence within, he hung suspended above Hoppy Harrington’s house.</p>
+   <p>“This is God’s way!” he shouted in his thin, tiny voice. “We can see by this awful example that it is time to call a halt to high-altitude nuclear testing. I want all of you to write letters to President Kennedy!” He did not know who President Kennedy was. A living person, perhaps. He looked around for him but he did not see him; he saw oak forests of animals, he saw a bird with noiseless wings that drifted, huge-beaked, eyes staring. Bill squeaked in fright as the noiseless, brown-feathered bird glided his way.</p>
+   <p>The bird made a dreadful sound, of greed and the desire to rend.</p>
+   <p>“All of you,” Bill cried, fleeing through the dark, chill air. “You must write letters in protest!”</p>
+   <p>The glittering eyes of the bird followed behind him as he and it glided above the trees, in the dim moonlight.</p>
+   <p>The owl reached him. And crunched him, in a single instant. Once more he was within. He could no longer see or hear; it had been for a short time and now it was over. The owl, hooting, flew on. Bill Keller said to the owl, “Can you hear me?”</p>
+   <p>Maybe it could; maybe not. It was only an owl; it did not have any sense, as Edie had. Can I live inside you? he asked it, hidden away in here where no one knows… you have your flights that you make, your passes. With him, in the owl, were the bodies of mice and a thing that stirred and scratched, big enough to keep on wanting to live.</p>
+   <p>Lower, he told the owl. He saw, by means of the owl, the oaks; he saw clearly, as if everything were full of light. Millions of individual objects lay immobile and then he spied one that crept—it was alive and the owl turned that way. The creeping thing, suspecting nothing, hearing no sound, wandered on, out into the open.</p>
+   <p>An instant later it had been swallowed. The owl flew on. Good, he thought. And, is there more? This goes on all night, again and again, and then there is bathing when it rains, and the long, deep sleeps. Are they the best part? They are.</p>
+   <p>He said, “Fergesson don’t allow his employees to drink; it’s against his religion, isn’t it?” And then he said, “Hoppy, what’s the light from? Is it God? You know, like in the Bible. I mean, is it true?” The owl hooted.</p>
+   <p>A thousand dead things within him yammered for attention. He listened, repeated, picked among them. “You dirty little freak,” he said. “Now you listen. Stay down here; we’re below street-level, the bomb won’t get us. People upstairs, they’re going to die. Down here you clear. Space. For them.” Frightened, the owl flapped; it rose higher, trying to evade him. But he continued, sorting and picking and listening on.</p>
+   <p>“Stay down here,” he repeated. Again the lights of Hoppy’s house came into view; the owl had circled, returned to it, unable to get away. He made it stay where he wanted it. He brought it closer and closer in its passes to Hoppy. “You moronic jackass,” he said. “Stay where you are.”</p>
+   <p>The owl, with a furious effort, performed its regular technique; it coughed him up and he plummeted to the ground, trying to catch the currents of air. He crashed among humus and plant-growth; he rolled, giving little squeaks until finally he came to rest in a hollow.</p>
+   <p>Released, the owl soared off and disappeared.</p>
+   <p>“Let man’s compassion be witness to this,” he said as he lay in the hollow; he spoke in the minister’s voice from long ago, addressing the congregation of which Hoppy and his father had been a part. “It is ourselves who have done this; we see here only the results of mankind’s own folly.”</p>
+   <p>Lacking the owl eyes he saw only vaguely; the immaculate illumination seemed to be gone and all that remained were several nearby shapes. They were trees.</p>
+   <p>He saw, too, the form of Hoppy’s house outlined against the dim night sky.</p>
+   <p>It was not far off.</p>
+   <p>“Let me in,” Bill said, moving his mouth. He rolled about in the hollow; he thrashed until the leaves stirred. “I want to come in.”</p>
+   <p>An animal, hearing him, moved farther off, warily.</p>
+   <p>“In, in, in,” Bill said. “I can’t stay out here long; I’ll die. Edie, where are you?” He did not feel her nearby; he felt only the presence of the phocomelus within the house.</p>
+   <p>As best he could he rolled that way.</p>
+   <empty-line/>
+   <p>Early in the morning, Doctor Stockstill arrived at Hoppy Harrington’s house to make use of the transmitter in reaching the sick man in the sky, Walter Dangerfield. The transmitter, he noticed, was on, and so were lights here and there; puzzled, he knocked on the door.</p>
+   <p>The door opened and there sat Hoppy Harrington in the center of his phocomobile. Hoppy regarded him in an odd, cautious, defensive way.</p>
+   <p>“I want to make another try,” Stockstill said, knowing how hopeless it was but wanting to go ahead anyhow. “Is it okay?”</p>
+   <p>“Yes sir,” Hoppy said.</p>
+   <p>“Is Dangerfield still alive?”</p>
+   <p>“Yes sir. I’d know if he was dead.” Hoppy wheeled aside to admit him. “He must still be up there.”</p>
+   <p>“What’s happened?” Stockstill said. “Have you been up all night?”</p>
+   <p>“Yes,” Hoppy said. “Learning to work things.” He wheeled the phocomobile about. “It’s hard,” he said, apparently preoccupied. Now the ‘mobile bumped into the end of a table. “I hit that by mistake,” Hoppy said. “I’m sorry; I didn’t mean to.”</p>
+   <p>Stockstill said, “You seem different.”</p>
+   <p>“I’m Bill Keller,” the phocomelus said. “Not Hoppy Harrington.” With his right manual extensor he pointed. “There’s Hoppy; that’s him, from now on.”</p>
+   <p>In the corner lay a shriveled dough-like object several inches long; its mouth gaped in congealed emptiness. It had a human quality to it, and Stockstill went over to pick it up.</p>
+   <p>“That was me,” the phocomelus said. “But I got close enough last night to switch. He fought a lot, but he was afraid, so I won. I kept doing one imitation after another. The minister-one got him.”</p>
+   <p>Stockstill, holding the wizened little creature, said nothing.</p>
+   <p>“Do you know how to work the transmitter?” the phocomelus asked, presently. “Because I don’t. I tried but I can’t. I got the lights to work; they turn on and off. I practiced that all night.” To demonstrate, he rolled his ‘mobile to the wall, where with his manual extensor he snapped the light switch up and down.</p>
+   <p>After a time Stockstill said, looking down at the dead, tiny form he held in his hand, “I knew it wouldn’t survive.”</p>
+   <p>“It did for a while,” the phocomelus said. “For around an hour; that’s pretty good, isn’t it? Part of that time it was in an owl; I don’t know if that counts.”</p>
+   <p>“I—better get to work trying to contact Dangerfield,” Stockstill said finally. “He may die any time.”</p>
+   <p>“Yes,” the phocomelus said, nodding. “Want me to take that?” He held out an extensor and Stockstill handed him the homunculus. “That owl ate me,” the phoce said. “I didn’t like that, but it sure had good eyes; I liked that part, using its eyes.”</p>
+   <p>“Yes,” Stockstill said, reflexively. “Owls have tremendously good eyesight. That must have been quite an experience.” He seated himself at the transmitter. “What are you going to do now?” he asked.</p>
+   <p>The phoce said, “I have to get used to this body; it’s heavy. I feel gravity… I’m used to just floating about. You know what? I think these extensors are swell. I can do a lot with them already.” The extensors whipped about, touched a picture on the wall, flicked in the direction of the transmitter. “I have to go find Edie,” the phoce said. “I want to tell her I’m okay; she probably thinks I died.”</p>
+   <p>Turning on the microphone, Stockstill prepared to contact the satellite overhead. “Walt Dangerfield,” he said, “this is Doctor Stockstill in West Marin. Can you hear me? If you can, give me an answer.” He paused, then repeated what he had said.</p>
+   <p>“Can I go?” Bill Keller asked. “Can I look for Edie now?”</p>
+   <p>“Yes,” Stockstill said, rubbing his forehead; he drew his faculties together and said, “You’ll be careful, what you do… you may not be able to switch again.”</p>
+   <p>“I don’t want to switch again,” Bill said. “This is fine, because for the first time there’s no one in here but me.” The thin phoce-face broke into a smile. “I’m not just part of someone else.”</p>
+   <p>Stockstill pressed the mike button once more. “Walt Dangerfield,” he repeated. “Can you hear me?” Is it hopeless? he wondered. Is it worth keeping on?</p>
+   <p>The phoce, rolling about the room on his ‘mobile, like a great trapped beetle, said, “Can I go to school now that I’m out?”</p>
+   <p>“Yes,” Stockstill murmured.</p>
+   <p>“But I know a lot of things already,” Bill said. “From listening with Edie when she was in school; I like Mr. Barnes, don’t you? He’s a very good teacher… I’m going to like being a pupil in his class.” The phoce added, “I wonder what my mother will say?”</p>
+   <p>Jarred, Stockstill said, “What?” And then he realized who was meant. Bonny Keller. Yes, he thought, it will be interesting to see what Bonny says. This will be repayment in full for her many, many affairs… for her years of love-making with one man after another.</p>
+   <p>Again he pressed the mike button. And tried once more.</p>
+   <empty-line/>
+   <p>To Bonny Keller, Mr. Barnes said, “I had a talk with your daughter after school today. And I got the distinct impression that she knows about us.”</p>
+   <p>“Oh Christ, how could she?” Bonny said. Groaning, she sat up; she rearranged her clothes, buttoned her blouse back up. What a contrast this man was to Andrew Gill, who always made love to her right out in the open, in broad daylight, along the oak-lined roads of West Marin, where anyone and anything might go past. Gill had seized her each time as he had the first time—yanking her into it, not babbling or quaking or mumbling… maybe I ought to go back to him, she thought.</p>
+   <p>Maybe, she thought, I ought to leave them all, Barnes and George and that nutty daughter of mine; I ought to go live with Gill openly, defy the community and be happy for a change.</p>
+   <p>“Well, if we’re not going to make love,” she said to Barnes, “then let’s walk down to the Forresters’ Hall and listen to the afternoon pass of the satellite.”</p>
+   <p>Barnes, pleased, said, “Maybe we can find some edible mushrooms on the way.”</p>
+   <p>“Are you serious?” Bonny said.</p>
+   <p>“Of course.”</p>
+   <p>“You fruit,” she said, shaking her head. “You poor fruit. Why did you come to West Marin from Oregon in the first place? Just to teach little kids and stroll around picking mushrooms?”</p>
+   <p>“It’s not such a bad life,” Barnes said. “It’s better than any I’ve ever known before, even before the war. And—I also have you.”</p>
+   <p>Gloomily, Bonny Keller rose to her feet; hands thrust deep in her coat pockets she plodded down the road. Barnes trailed along behind her, trying to keep up with her strides.</p>
+   <p>“I’m going to remain here in West Marin,” Barnes said. “This is the end of my travels.” Puffing, he added, “Despite my experience with your daughter today—”</p>
+   <p>“You had no experience,” Bonny said. “It was just your guilty conscience catching up with you. Let’s hurry—I want to hear Dangerfield; at least when <emphasis>he </emphasis>talks it’s fun to listen.”</p>
+   <p>Behind her, Mr. Barnes found a mushroom; he had stopped to bend down. “It’s a chanterelle!” he exclaimed. “Savory and edible—” He picked it, close to the ground, and then began to search for another. “I’ll make you and George a stew,” he informed her as he found another.</p>
+   <p>Waiting for him to finish, Bonny lit a special deluxe Gold Label cigarette of Andrew Gill’s manufacture, sighed, wandered a few steps along the grass-infested oak-lined country road.</p>
+  </section>
+  <section>
+   <title>
+    <p>Notes</p>
+   </title>
+   <p>Philip K. Dick <emphasis>A Terran Odyssey</emphasis> 3/17/64 [put together by PKD from sections of <emphasis>Dr. Bloodmoney</emphasis>]. Published in “The Collected Stories of Philip K. Dick” Vol.5, by <emphasis>Underwood-Miller</emphasis>, 1987</p>
+  </section>
+ </body>
+ <binary id="cover.jpg" content-type="image/jpeg">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</binary>
+</FictionBook>
