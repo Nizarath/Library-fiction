@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Edmond</first-name>
+    <last-name>Hamilton</last-name>
+   </author>
+   <book-title>The Star Hunter</book-title>
+   <date></date>
+   <coverpage>
+    <image l:href="#_0.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 3.47.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2019-09-12">12.9.2019</date>
+   <id>7736e280-9ec7-482b-90cc-6562dc5eaab6</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <publisher>Renaissance E Books</publisher>
+   <year>2007</year>
+   <isbn>9781600890475</isbn>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>The Star Hunter</p>
+   <p>Edmond Hamilton</p>
+  </title>
+  <section>
+   <empty-line/>
+   <p>Renaissance E Books</p>
+   <p>ISBN 978-1-60089-047-5</p>
+   <p>All rights reserved</p>
+   <p>Copyright 1958, renewed Estate of Edmond Hamilton</p>
+   <p>Reprinted permission of the Spectrum Literary Agency</p>
+   <p>Copyright © 2007 PageTurner Editions</p>
+   <empty-line/>
+  </section>
+  <section>
+   <empty-line/>
+   <p><strong>AUTHOR'S CHRONOLOGY OF THE STAR KINGDOMS</strong></p>
+   <p>THE TWO THOUSAND CENTURIES</p>
+   <p><emphasis>The Era of Interplanetary Exploration and Colonization—1971-2011.</emphasis></p>
+   <p><emphasis>The Era of Interplanetary Frontiers—2011-2247.</emphasis></p>
+   <p><emphasis>The Era of Interplanetary Secession—2247-2621.</emphasis></p>
+   <p><emphasis>The Era of Interstellar Exploration—2300-2621.</emphasis></p>
+   <p><emphasis>The Era of Interstellar Colonization—2621-62,339.</emphasis></p>
+   <p><emphasis>The Era of the Federation and United Worlds—62,339-129,999.</emphasis></p>
+   <p><emphasis>The Era of the Star Kings—130,000-202,115.</emphasis></p>
+   <p>The history of two hundred thousand years showed how the entire structure of galactic civilization was based upon the epochal discovery of sub-spectrum rays.</p>
+   <p>The era of space-travel had really dawned in 1945 and ‘46, with the first release of atomic energy and the discovery that radar could function efficiently in space. By the end of the 20th Century, atomic-powered rockets guided by radar had reached the Moon, Mars and Venus.</p>
+   <p>Interplanetary exploration and exploitation had increased rapidly. But the vast distances to other stars remained unconquerable until late in the 22nd Century, when three great inventions made interstellar travel possible.</p>
+   <p>The most important of the three was the discovery of sub-spectrum rays. These were hitherto unsuspected octaves of electromagnetic radiation far below even the gamma and cosmic rays in wavelength, and which had velocities vastly greater than the speed of light.</p>
+   <p>Of these sub-spectrum rays the most useful were the so-called pressure rays in the Minus-30th octave of the spectrum, which could react against the tenuous cosmic dust of space with a powerful pressure. These pressure rays formed the driving power of star-ships. They were produced in generators powered by atomic turbines, and were jetted from the stern of a ship to drive it thousands of times faster than light.</p>
+   <p>The second vital invention was that of the mass-control. Einstein's equations had shown that if a ship travelled as fast as light, its mass would expand to infinity. This difficulty was overcome by the mass-control, which “bled” off mass as energy to maintain a constant mass unaltered by velocity. The energy thus obtained was stored in accumulators and fed back automatically whenever speed was reduced.</p>
+   <p>The final invention concerned the human element, Men's bodies would have been unable ordinarily to withstand those vast accelerations, but this obstacle was conquered by the cradlestasis. This was a stasis of force which gripped every atom in a ship. The energy-drive jets gave their thrust, not to the ship directly, but to its stasis. Thus everyone and everything in the ship remained unaffected by acceleration. Magnetic apparatus furnished artificial gravity on shipboard, similar to that of the tiny gravitation-equalizers worn by all star-travellers.</p>
+   <p>The fastest of the sub-spectrum rays, those of the Minus-42nd Octave, were so speedy that they made light seem to crawl. These super-speed rays were used in telestereo communication and also in the vital function of radar for the starships.</p>
+   <p>Using these inventions to build star-ships, mankind took at once to interstellar space. Alpha Centauri, Sirius and Altair were quickly visited.</p>
+   <p>Colonies were soon established on suitable star-worlds. For some 10,000 years, Sol and Earth remained the center of government of a growing region of colonized stars.</p>
+   <p>Until then, there had been no serious conflicts. Aboriginal alien races of intelligence had been found at some star-systems and were helped and educated, but there was found no scientific civilization on any star-world. That had been expected, for if such a race existed it would have visited <emphasis>us</emphasis> long before we ourselves had conquered space.</p>
+   <p>But in the year 12,455, a group of star-systems near Polaris complained that Earth was too remote to appreciate their problems, and they set up an independent kingdom. By 39,000, the kingdoms of Lyra, Cygnus, and the Baronies of the great Hercules Cluster had declared independence.</p>
+   <p>Criminals and fugitives from the law seeking refuge in the Cloud eventually founded the League of Dark Worlds. By 120,000, the star-kingdoms were many. But the biggest was still the Mid-Galactic Empire, and hosts of star-worlds remained loyal to it. For convenience its government had been shifted in 62,339 from Earth to a world of the great sun Canopus.</p>
+   <p>The Empire took the lead of the star-kingdoms in the year 129,411 when the galaxy was suddenly invaded by alien and powerful creatures from the Magellanic Clusters outside. And after that invasion was repelled the Empire had steadily grown by exploring and colonizing the wild, unmapped star-systems in the frontier regions called the Marches of Outer Space.</p>
+   <p>-Edmond Hamilton, 1949</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER I</p>
+   </title>
+   <empty-line/>
+   <p>THE WRATH of the King of Orion flamed across the void.</p>
+   <p>Out from the Hyades sped his hunters, and from Mintaka, and Saiph and Aldebaran, grim ships of war sped headlong between the stars in vengeful search for the small and secret ship that had dared violate their domain.</p>
+   <p>The coded messages of anger and alarm flashed far away. And across the galaxy the star-empires heard, and alertly watched their own frontiers. The Kingdom of Cassiopeia, the federated Barons of Hercules who held a thousand suns and worlds, the Kings of Leo and Hydra and Draco, all these and a score of smaller realms clear away to the Marches of Outer Space sent forth their fleets to watch, jealous of the great empire of Orion, and more jealous still of the equally great and far older Terran Empire whose ship it was that the hunters hunted.</p>
+   <p>The fleeing ship was a Class Five Scout of the Terran Navy, a tiny toy craft compared to the great cruisers and heavies that pursued it. Its guns were popguns, it had hardly any armor, but it could go fast. It was going very fast now, a mote of metal flying toward the Terran frontier. But, Hugh Mason knew with fatal knowledge, it was not fast enough.</p>
+   <p>"We haven't got a prayer,” said Stack. Red-eyed and unshaven, he did not look like the captain of a Scout as he stood with Mason behind the pilot in the little control room. He looked like a tramp.</p>
+   <p>"Those cruisers behind can't catch us,” said Mason.</p>
+   <p>"No, they can't,” said Stack. “But what about the ones ahead?</p>
+   <p>They'll be fanning out from Aldebaran right now."</p>
+   <p>Mason made no answer but his mouth tightened as he looked out the broad control-room window, the window that was really a complicated scanner translating scrambled-up rays into ordinary light.</p>
+   <p>The light of a million stars beat upon him from the titanic panorama of stellar glare and cosmic gloom. Amid the abyssal lamps of sapphire blue and diamond white and smoky orange there glowed like a friendly beacon the whitish-green magnificence of Sirius, and beyond it the far yellow spark of Sol, old capital of the Terran Empire and the fountainhead from which man had spread through the galaxy. But closer and almost dead ahead was the blood-colored flare of Aldebaran, whose system was near the limits of the Orionid Empire.</p>
+   <p>Mason had often wondered how this stupefying vista had looked to the first men who had gone out from Sol to colonize the galaxy, thousands of years ago. Their frail star-ships had been borne out into the great deeps by their courage and faith, their dream of a peopled galaxy living in peace under universal law. But the dream had crumbled. One center of government could not hold the whole galaxy. The independent kingdoms had sprung up, rejecting the authority of the Terran Empire, yet taking old Terran titles of royalty for their chosen sovereigns. Oldest, biggest, was the Terran Empire that still would have no sovereign except its elected Council. But others were almost as strong, and their kings yearned for greater glory, like Janissar of Orion.</p>
+   <p>Thinking of that, Mason's hands clenched upon a stanchion. Between his teeth, he said,</p>
+   <p>"We've <emphasis>got</emphasis> to get Oliphant back to Terra before he dies. He's the key to everything."</p>
+   <p>Stack shrugged hopelessly. “Aldebaran is one of Orion's main fleet bases. They'll know we're coming. Communic beams are faster than ships."</p>
+   <p>Mason said harshly, “I know all that. In case you've forgotten, I was a flight officer before I went into Intelligence."</p>
+   <p>Stack flushed, “No offense."</p>
+   <p>Mason turned then. He was thirty-two and he felt like a hundred-and-two, a dark man with stubble on his face and a desperation in his eyes. He said, “We're both beat to pieces. Forget my crack. If we start slandering each other, we're licked. We've got to think fast."</p>
+   <p>Stack gestured toward the great star ahead that like a bloody eye watched them come.</p>
+   <p>"Their cruisers will fan out east, west, zenith and nadir from Aldebaran. We have to go around Aldebaran's planetary system, yet if we swing wide around their cruiser screens we'll run into ships coming up from Aleph and Charmar."</p>
+   <p>Mason looked at the star-blazing firmament and said, “Once past Aldebaran, the Terran frontier isn't far. But you're right, we can't swing wide around their cruiser screens."</p>
+   <p>"So we have to hit their net and try to crash through it,” said Stack.</p>
+   <p>"They'd blow us out of space,” said Mason. His jaw tightened. “There's only one hole, one way through them."</p>
+   <p>"There won't be any hole,” said Stack. “From Aldebaran system out every direction, they'll be so tight a fly couldn't get through—</p>
+   <p>Of a sudden, looking at Mason's drawn face, he was silent. Then, in an altered voice he said, “Now I get it. One hole. Right through Aldebaran's planetary system itself."</p>
+   <p>"That's it,” nodded Mason.</p>
+   <p>Stack mapped his brow, and the pilot turned and flashed a startled glance at them. Stack said, “You know what our chances will be, at these speeds?"</p>
+   <p>"I know we haven't any chance at all, any other way,” said Mason. “Set it up on the computers. I'm going back to see Oliphant."</p>
+   <p>He left the crowded control room and went back along the narrow companionway that was the axis of the SC-1419. A Scout-class starship had barely room for its machinery and its eight men. Its whole metal fabric seemed to vibrate in every atom from the thrust of its massive drive-units, as it bolted at milli-light-speeds toward the frontier.</p>
+   <p>Mason squeezed between towering ion-drive assemblies that smelled of hot metal, and into the tiny cubby where Oliphant lay strapped in a bunk. One of the crew, young Finetti, was sitting beside him and looked up at Mason.</p>
+   <p>"He's worse,” said Finetti. “Pulse, respiration, everything."</p>
+   <p>"He hasn't come to?"</p>
+   <p>"Not for a minute, ever since we picked him up,” said Finetti. He added, “I wish I could do more for him. I'm not a medic, just a spacer with six-months first-aid training."</p>
+   <p>"You're doing fine,” said Mason. He bent down over the bunk.</p>
+   <p>"Oliphant,” he said.</p>
+   <p>The man in the bunk did not answer. His thin face was gray and immobile, the eyes shut. There was only a faint rise and fall of the mass of bandages that swathed his whole torso.</p>
+   <p>He was a small man. But to Mason, he loomed gigantic. For Oliphant, his friend and superior, had done a thing no man in all the history of Terran Intelligence had done before. He had gone right into the throne-world of the Orionid Empire, deep in the Pleiades, in search of a secret, and he had come away again.</p>
+   <p>He hadn't had to do it. He was high enough in the service to give the job to Mason or anyone else. But the peace of the galaxy was an uneasy one, with only the weight and power of the Terran Empire keeping the jealous star-kings from each other's threats. And when the rumor had come from Orion, Oliphant himself had gone in to learn the truth.</p>
+   <p>A rumor, a whisper, filtering by devious channels across the void. The whisper had said that Janissar, King-Sovereign of Orion, was a happy man. That he was reaching toward a power, a weapon, a something, that would make Orion supreme. If he got it, if he used it to enlarge his empire; the peace of the galaxy would be torn to shreds. It might be only a baseless rumor. Oliphant had gone in to find out.</p>
+   <p>It was the SC-1419 that had taken him to a dead, airless globe in the Pleiades, sneaking secretly into Orion space. In his little flitter, Oliphant had gone away from there, heading for the throne-world of the king of Orion. They had waited, and finally the flitter had come back. But it had come back on auto-pilot, with Oliphant inside it mortally wounded and unconscious. And he had remained unconscious ever since, and whatever he had learned was still locked in his brain.</p>
+   <p>"Oliphant!” said Mason again, close to his ear. “It's Mason. <emphasis>Mason."</emphasis></p>
+   <p>The waxen face did not stir. Oliphant was far away in realms of sleep where friends and stars and empires meant nothing.</p>
+   <p>"I don't think he can last all the way home, sir,” said Finetti. And added anxiously, on a questioning note, “If we get home."</p>
+   <p>Mason slowly straightened up. “Do all you can for him. We'll get home. We—"</p>
+   <p>The annunciator in the wall said, in Stack's voice, “Mason!"</p>
+   <p>Mason went back to the control-room on the double. The hysterical whirring of the computer was just ceasing, as he entered.</p>
+   <p>Stack said stolidly, “Their cruisers ahead have radar-ranged us. We're running right onto them now."</p>
+   <p>Mason glanced through the scanner-window. Aldebaran was now a great red blaze amid the stars, a little to the right. Its smaller companion-sun was almost hidden in its glare.</p>
+   <p>"To fool them on our intentions, we shouldn't turn toward it till the last moment,” said Stack. “That means, when they start shelling us."</p>
+   <p>Mason nodded. “It's your ship."</p>
+   <p>"Is it?” said Stack sourly. “It was until I came under Intelligence orders. Now I don't know."</p>
+   <p>Mason did not answer that. He watched, and waited. Out there in the star-gleaming void ahead of them, the cruisers of Orion were closing toward them, their target-trackers were at work, and—</p>
+   <p>A beautiful red-gold flare blossomed to their left, blotting out the whole universe in its blinding radiance. An instant later, another flare burst on their right, this one so close that the scout was tossed around like a photon on the crest of a solar prominence. Guns inconceivably far away were loosing missiles whose self-powered ion drive hurled them at milli-lightspeeds faster than any starship.</p>
+   <p>Stack said to the pilot, “That's close enough. The pattern's set up. Turn off and go on auto."</p>
+   <p>The pilot moved switches and then sat back, his hands hanging idly, his shoulders quivering.</p>
+   <p>The scout swung sharply and plunged toward the red blaze of Aldebaran, like a moth bent on suicide in the mighty star.</p>
+   <p><emphasis>"I hope,"</emphasis> said Stack, “that nobody gets in our way."</p>
+   <p>The skin between Mason's shoulders crawled, as he watched the great red star and its small companion leap toward them. Already, at this speed, the thronging specks of its eighteen planets were coming into sight.</p>
+   <p>To run through a planetary system at milli-light-speeds was flatly forbidden by every law in the galaxy. It was also sheer madness. A computer could allow for the position of every planet and moon and minor body in the system. A computer could not allow for the interplanetary shipping that thronged between those worlds. They were taking a calculated risk, and if they hit anything they would never know it at all.</p>
+   <p>No human pilot could make the abrupt compensations and changes of course necessary to avoid all those circling worlds and moons. The auto-pilot clicked smugly to itself as it rushed them on.</p>
+   <p>Mason glimpsed a fleck of light that came up with heart-stopping speed, growing like a blown-up balloon into a vast, ice-clad planet with a host of little moons, reeling past them and dropping behind.</p>
+   <p>He clung to a stanchion as the auto-pilot cracked and the SC-1419 heeled over sharply. They went rushing along the rim of an asteroidal zone that, was like a mighty river of stone in the sky, then heeled again and now Aldebaran and its little companion were glaring again in their faces, bigger than ever. The two suns marched away abruptly to the left as the auto shifted their course, and a huge planet of saffron and black swung past.</p>
+   <p>Stack made a sound that was not quite a laugh. “I'll bet there are some surprised men back in those cruisers.” And then he said, “The hell with them. I'm scared."</p>
+   <p>He had reason to be, Mason thought, for he too was scared, right down to his backbone. They were rushing in among the inner planets where shipping was heaviest and if they hit or even grazed a ship, if—</p>
+   <p>He wanted to close his eyes, not to look at the red and orange and dun-colored planets and moons racing past them. He thought that the auto-pilot had gone crazy, he thought that they'd never make it, and then the immense, overwhelming limb of Aldebaran was ahead and the SC-1419 was running down on the gap between it and the smaller companion sun.</p>
+   <p>They shot through that pass between the glaring suns, and on across the planetary orbits. They had made it halfway, and Mason was sweating, and the pilot sat hunched in his chair and closed his eyes.</p>
+   <p>The auto-pilot had gone crazy indeed, it wanted to kill them, it was hurling them headlong toward a great orange planet that widened out with frightful rapidity. Then the metal mind cracked, and they heeled over, past a far-swinging moon like a copper shield, and heeled again and rushed on.</p>
+   <p>And something like an eternity later a voice was saying, “We're through. By Heaven, we <emphasis>made</emphasis> it."</p>
+   <p>The SC-1419 was in deep space again, bolting for the far lights of Sirius and Sol and the Terran frontier, and Aldebaran and its worlds were falling behind.</p>
+   <p>Stack, his face red and glistening, shouted, “It'll take those cruisers awhile to swing back around outside their system—they'll never catch us now."</p>
+   <p>Mason, dazedly, became aware that someone was tugging at his arm. It was Finetti, his face gray with fear and excitement.</p>
+   <p>"Mr. Mason, he's going. He can't last many minutes!"</p>
+   <p>Mason crashed back from his pinnacle of new hope. They had dared the citadel of Orion and run the gauntlet of its star-ships, and escaped, and all for nothing if Oliphant died.</p>
+   <p>He plunged back along the companionway, with Finetti at his heels. One glance at Oliphant was enough. His eyes were still closed, his face still unmoving, but his color had become ghastly and his respiration was imperceptible. He was, obviously, dying.</p>
+   <p>Mason looked at him. He knew what he must do, what Oliphant himself would want done, so that his life was not sacrificed in vain. But it took him moments before he could speak the words.</p>
+   <p>"Give him electroshock stimulant,” he told Finetti.</p>
+   <p>Finetti stared, startled. “But in his condition, it'll kill him almost instantly."</p>
+   <p>"Almost,” said Mason. “He may be able to talk. He's going to die anyway in a few minutes, nothing can save him. <emphasis>Give it!"</emphasis></p>
+   <p>His voice lashed Finetti into action. Finetti, his hands trembling affixed the electrodes. The whine of the apparatus filled the cubby.</p>
+   <p>Oliphant twitched. His body shuddered, writhed. Of a sudden, his eyes opened, staring blankly upward.</p>
+   <p>Mason bent over him. “John, it's me—Hugh Mason. What did you find out?"</p>
+   <p>Oliphant whispered, a dribble of words. “I made it out. I didn't think—they shot me as I was getting into the flitter—"</p>
+   <p>"What did you find out? What's the new thing that Orion's got?"</p>
+   <p>Oliphant's eyes focused on his face. He spoke painfully, slurredly.</p>
+   <p>"What it is exactly, I couldn't find out. It's something that was discovered by Ryll Emrys, one of their greatest scientists. Something of cosmic power. But Ryll Emrys has fled from Orion, taking his secret with him—"</p>
+   <p>Mason bent closer, for now Oliphant's voice was failing fast.</p>
+   <p>"Ryll Emrys fled to the Marches of Outer Space. Orion has sent one of their top agents, V'rann, after him. They'll risk anything to get him back, they—"</p>
+   <p>The voice stopped suddenly, and an incredulous look came into Oliphant's eyes. “Why, I'm dying, I—” Then understanding came into his eyes, he whispered, “Thanks, Hugh."</p>
+   <p>Finetti bent over him, and after a moment he straightened up. “He's gone."</p>
+   <p>Mason was silent, looking down at the still face. Then he said.</p>
+   <p>"He did his job. And now there's a bigger job for someone else to do. In the Marches of Outer Space."</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER II</p>
+   </title>
+   <empty-line/>
+   <p>THE TWO EARTHMEN were like giants walking through the galaxy. They strode between, the shining constellations, and the great streams of stars washed against their breasts, and their shoulders and heads towered up colossal above the million tiny suns.</p>
+   <p>This was not the real galaxy but an infinitely smaller simulacrum of it, a planetarium on a grand scale that filled this whole hundred-foot circular room deep beneath Terran Intelligence Building, on Sirius Four. Complexes of lenses projected accurate images of every important star in the galaxy. It was all here—the star-clusters and lone suns and dark rogues, the magnificence of the great constellations, the whole sweep of the galaxy.</p>
+   <p>One of the two men was Hugh Mason. The other was Valdez, chief of Terran Intelligence, a deeply worried man. His thin face twitched slightly, and his deep eyes roved alertly as they walked through the great swarm of light-flecks. He pointed to the soft lines of green light that delineated the snaking frontiers of the Terran Empire, and Orion Empire, and all the kingdoms beyond.</p>
+   <p>Valdez stopped, and his hand stretched out like the hand of a god as he pointed over the tiny stars to a region at the galaxy edge that had no lines of delineation.</p>
+   <p>"The Marches of Outer Space,” he said. “No kingdom out there owns them. None of the star-kings there will <emphasis>let</emphasis> a rival conquer them. So they remain a jungle of independent worlds."</p>
+   <p>Mason nodded, a trifle bitterly. “And because Cassiopeia and Draco and Lyra have kings jealous of each other, the Marches remain a haven for every outlaw, criminal and ambitious adventurer in the galaxy."</p>
+   <p>Valdez went farther, and stood with the shining stars of Ursa Major floating around his chest, looking at that nameless region of stars out on the Rim.</p>
+   <p>"Yes,” he said. “Quroon—that's the big green star beyond the Dumbbell Nebula—is the center of all the activity in the Marches. Someone will try setting up as king someday, at Quroon."</p>
+   <p>Mason stared at the far-flung fringe of stars, and he heard again the dying voice of Oliphant saying. <emphasis>"Ryll Emrys fled to the Marches of Outer Space. Orion will risk anything to get him back-"</emphasis></p>
+   <p>"That fugitive scientist is the key to everything,” Valdez was saying. “Why did he run away to the Marches? What was it he'd discovered—what power or weapon? It must be something plenty big if he's’ so important to Orion."</p>
+   <p>"It's big,” muttered Mason. “Oliphant said they were sending a top agent after him. One of their aces, named V'rann."</p>
+   <p>V'rann. A name that rang like an ominous bell. Whoever V'rann was, he must be good, to be sent on such a mission.</p>
+   <p>"It figures,” Valdez said tensely. “Orion wouldn't send a fleet into the Marches after the man, except as a last resort. The star kings near the Marches would be up in arms if they did. But if their secret agent can get Ryll Emrys out of there and fetch him back—"</p>
+   <p>Mason nodded grimly. “Just so. And we can't let Orion get hold of this man and his secret again, no matter what. It's up to us to get hold of Ryll Emrys first."</p>
+   <p>Valdez looked at him. “You know how risky it'll be, Mason. Do you still want the job?"</p>
+   <p>Mason said flatly, “Oliphant was my friend. I'm going to pick up where he left off. Yes, I want it."</p>
+   <p>They went on out of the little simulated galaxy, out of the big hall and to Valdez’ office.</p>
+   <p>"You know,” said Valdez, “that any Intelligence man or lawman who goes into the Marches is liable to get short shrift."</p>
+   <p>"I know,” Mason said. “I plan to go in as a no-world man, an outlaw seeking refuge."</p>
+   <p>"No good,” said his chief. “It's been tried, and never works. A new man, a man they don't know, is watched so closely he can't do anything."</p>
+   <p>He drew a small photo from his desk and tossed it across to Mason. “Look at this man."</p>
+   <p>The man in the photo was about his own age and size, Mason thought. But his close-cropped hair was bleached colorless, his rawboned, powerful face was deeply reddened, and his blue eyes were cold and insolent. It was a strong face, tough and reckless.</p>
+   <p>"His name is Brond Holl,” said Valdez. “He was an officer in the service of one of the Hercules Barons. He killed the Baron's brother in a quarrel, and had to flee to the Marches. He was one of the toughest of their outlaw captains out there."</p>
+   <p>"Was—"</p>
+   <p>Valdez nodded. “A year ago, the Cassiopeia Navy got a tip that Brond Holl was on his way to plunder one of their small new starworld colonies. They tried to grab him but got away—but, they had forced him into Terran space and our own cruisers scooped him up. He's doing a sentence out in Sirius Sixteen prison right now."</p>
+   <p>Instantly, Mason understood what was in his chief's mind. He looked at the photo with a sharper interest. He said, “Hair and eye color wouldn't be a problem, these days. But his face isn't much like mine."</p>
+   <p>Valdez Shrugged. “It'd take a few days, even with modern ultrafast healing techniques. But a few muscle-grafts, some plastic pads inserted into your facial tissues—and we'd make you Brond Holl's double."</p>
+   <p>Mason looked up from the photograph, frowning. “For me to break for the Marches as Brond Holl, the real Holl would have to ‘escape'. How many people would be in on it?"</p>
+   <p>"Three—four—including us,” said Valdez. “It's too risky to let more know. We'd get Holl out and while we're taking him secretly to a new hidden cell, you can be stealing a fast flitter and taking off."</p>
+   <p>"With the Terran Navy after me?” Mason said.</p>
+   <p>Valdez shook his head. “We can get around that, by timing it properly. If you high-jump it to the Marches, you'll be all right."</p>
+   <p>"It has to be a high-jump,” Mason said decisively. “I wouldn't have a chance of getting through three kingdoms. I can use the time—I'll need a lot of tape-studying to be Brond Holl as well as look like him."</p>
+   <p>Four nights later, Mason crouched shivering in the shadow of tumbled rocks on Sirius Sixteen, peering down at the small official spaceport of Naval Prison. There was only one of the two moons in the sky, enough to shed an eerie glow over the dark, stony world.</p>
+   <p>The prison itself bulked massive in the background, gleaming with many lights. Down here on the small spaceport were two big supply-freighters, a few small interplanetary flitters, and one flitter that was considerably bigger than the little planet-hoppers.</p>
+   <p>"I'm timing it for a visit of the Deputy Inspector from Sol,” Valdez had said. “His long-range flitter can take you where you want to go. It's a four-man job, but you can handle it alone on auto."</p>
+   <p>Mason, watching and waiting, thought grimly that there would be considerable confusion if some roving guard stumbled on him here. He wore a regulation prison coverall. He also wore the face of Brond Holl. Chemicals had quickly bleached his hair and altered his eyes from brown to blue, and the super-surgery and ultra-fast healing skills of modern medicine had given him a replica of the Herculean's face.</p>
+   <p>Mason glanced at his chrono, then picked up the square, metal case beside him by its strap. He started stealing down through the rocks toward the spaceport.</p>
+   <p>The case was heavy. It was going to be an awkward nuisance, but he had to have it for it contained the tapes that would teach him to be Brond Holl.</p>
+   <p>The spaceport was not guarded strongly. The guards were concentrated in the prison itself, on the sound, old principle of locking up the thief instead of locking against him. And Sirius Sixteen prison contained some of the most noted thieves in all the galaxy.</p>
+   <p>"The devil!” said Mason to himself in a furious whisper, as he crept closer to the Iona-range flitter.</p>
+   <p>Someone was in the flitter. Its airlock door was open and sounds came from inside.</p>
+   <p>Probably, Mason thought, a crewman had stayed to check over something. He damned such conscientiousness. This could mean a delay, and even a few minutes delay could be fatal. Presently the prison guards would discover that Brond Holl had got out of his cell-not knowing, of course, that Valdez and his men had taken him out secretly. Then the alarm would sound, and he'd have to move fast if he, impersonating Brond Hall, were to escape.</p>
+   <p>Mason grasped at an idea. There was no time to weigh its chances. Time was running out on him. He crept to the shadow of the flitter, and crouched down by its metal flank, close to the open airlock. He waited, a fine sweat coming onto his forehead despite the chill of the night. The pale moon peered down at him in silence.</p>
+   <p>Like the bursting of a bomb, the screeching alarms cut loose at the prison. Mason tensed. He heard the crewman inside the flitter running toward the airlock. The man jumped out, peering excitedly.</p>
+   <p>"What in the—” he was saying under his breath.</p>
+   <p>Mason rose up from the shadows behind the crewman and hit him, not hard but quite scientifically. The man went down without a sound.</p>
+   <p>The diabolical raving of the alarms kept going, and lights sprang on to sweep the whole area outside the prison. The guard batteries would be springing to attention, Mason knew.</p>
+   <p>Moving with frantic speed, he hauled the unconscious crewman to a safe distance. He snatched the man's side-arm off him, then bounded back, tossed his metal case inside the flitter, jumped in after it and spun the airlock-door shut.</p>
+   <p>He got a slight break, now. The minipile, the power-source of the flitter, was running; the technician he had slugged must have been making a routine test. One glance at its indicators, and Mason ran forward to the cockpit, strapped into the pilot-chair, and then punched buttons fast.</p>
+   <p>The flitter went up out of there like a freed genie, standing on its tail for a moment with the searchlight beams swinging to catch it. Then the ion-drive hurled it away from Sirius Sixteen in a dizzying rush.</p>
+   <p>Even as Mason's fingers reached frantically toward other buttons, the missiles began exploding nearby.</p>
+   <p>He punched the switch marked EVASIVE PATTERN. The auto-pilot took over and the flitter began a series of crazy gyrations, changing direction every two seconds in an unpredictable pattern. But despite the random divergencies, it held its main course.</p>
+   <p>Mason gripped his hands tightly together and waited.</p>
+   <p>Flares like the lightning of a cosmic thunderstorm exploded all across the sky. The flitter was out in clear space, weaving and reeling this way and that, the guard batteries unable to get a clean fix on it. It was up out of the shadow of the planet now, and bursting into the overpowering white glare of Sirius itself.</p>
+   <p>"Now!” thought Mason, and snapped off the EVASIVE switch.</p>
+   <p>The flitter, on full ion-drive, went away on a straight line, building light-speeds.</p>
+   <p>The flares continued to dance behind him for a moment, and then abruptly stopped. At this speed, he was out of the batteries’ range.</p>
+   <p>Mason mopped his brow. “That ought to be realistic enough to deceive anybody!"</p>
+   <p>At this moment, word would be flashing out that Brond Holl had somehow got out of the prison, had stolen an inspector's long-range flitter, and was breaking for deep space.</p>
+   <p>So far, so good. That was the word that he wanted to go out, to pave the way for his coming to the Marches. But the cruisers of the Terran Navy would be getting the word, too.</p>
+   <p>Valdez had timed this fake “escape” for a time when there would be no formations of Terran warships close to Sirius. Otherwise, the whole “escape” would be impossible.</p>
+   <p>"Let's just hope,” Mason told himself grimly, “that Naval Intelligence hasn't overlooked any cruisers."</p>
+   <p>The flitter was running at mounting speeds, and the enormous glare of Sirius was well behind him. But long-range radar would still be probing for him.</p>
+   <p>He and Valdez had planned carefully. He sent the flitter angling toward the Dog-star Shoals, a great sweep of interstellar debris with a few small and uninhabited stars and worlds in it.</p>
+   <p>As soon as he had the Dog-star Shoals between him and Sirius, he was masked from radar and free to take his true direction. It was roughly zenith by zenith-west-a course that would slant him up out of the main swarm of the galaxy, heading westward.</p>
+   <p>After a time, Mason put the flitter on auto-pilot again and slept. When he had slept and awakened several times, he woke finally to find that the flitter, now at full-milli-light-speed velocity, was above the main lens-shaped swarm of the galaxy.</p>
+   <p>This was the “high jump"—crossing above the galaxy instead of through it. There were only a few faint scattered stars up here. And the laws and navies of the star-kingdoms did not run here.</p>
+   <p>Mason looked down through the scanner-windows at the vast, burning cloud, each spark of which was a sun. The flitter, moving many thousands of times faster than light, seemed barely to be crawling.</p>
+   <p>"And now the tapes,” he told himself. “I've got to be Brond Holl to the life before I hit the Marches."</p>
+   <p>Yet Mason delayed breaking out the tape-machine and tapes. He had never made the high jump before. Now, caught in a strange fascination, he looked down at the mighty continent of suns above which he was moving.</p>
+   <p>His mission, his hopes, the plans and fate and future of the Terran Empire itself, all shrank to insignificance in his mind. What were the yearnings and fears of men, compared to the titanic majesty of this slow-wheeling island-universe that moved through the greater deeps on the path of its own cosmic fate, forever separated from the other giant swarms of stars whose lonely light flickered from far away. The immensity of the spectacle mocked the pettiness of men.</p>
+   <p>And yet, Mason thought, the hardy sons of Adam had with insolent courage ignored that rebuke.</p>
+   <p>They had pressed out from Earth in their first star-ships, so long ago now that the memory was only legend, to star after star, world after world. Those planets that bore intelligent life, whether humanoid or alien, they either had let alone or had landed upon by agreement. They had kept on and on, until finally the vast and growing star realm broke down of its own weight into all the independent stellar empires and kingdoms that marched back beneath him now.</p>
+   <p>Back there behind him already stretched the far-flung suns of the Terran Empire, still the biggest of all, stretching from Arcturus to far Centaurus, with its historical center at little Sol but with its real capital at Sirius. And south and west from it loomed the fierce bright suns of the Empire of Orion, and beyond that the faraway kingdom of Argo whose rulers boasted great Canopus itself as the sun of their throne-world. And east from it, far away too, shone the blazing magnificence of Hercules Cluster, that awesome hive of suns held in fee by the federated Barons who ranked themselves equal to any of the kings of stars.</p>
+   <p>Mason's gaze swept ahead, over the shining stellar nations he was crossing in this high jump. Cepheus and Cassiopeia, the two allied kingdoms of the north, and the huddle of smaller star-kingdoms that had banded themselves together in the League of the Polar Suns, and beyond that the Kingdom of Lyra from which Vega watched like a fierce blue eye, and farther still the no-man's-land of fringe stars that was the Marches of Outer Space.</p>
+   <p>Mason came out of his dream, then. The Marches were his destination, and unless he played his part well there, he would not live long.</p>
+   <p>He got out the tapes. It was time that he quit being Hugh Mason, Terran agent, and became Brond Holl, outlaw from Hercules.</p>
+   <p>"I wonder,” he thought, as he adjusted the encephalograph, “if V'rann, the Orion agent, will use the same trick. Probably.</p>
+   <p>No use to worry about that yet. He relaxed, and switched on the little machine, and let the recordings pour into his mind.</p>
+   <p>All the memories of Brond Holl had been caught on these tapes by the electro-encephalographic recordings Valdez had made of the outlaw in Sirius Prison. The whole past life of the man unrolled in Mason's mind, as he lay in the rushing flitter, day after day.</p>
+   <p>With the recorded memories of Brond Holl's earlier life, Mason was not so deeply concerned. But the Herculean outlaw's life at Quroon concerned him much indeed, and he ran those tapes again and again. He learned all that the man remembered about Quroon City, and about the outlaw captains of the Marches. Garr Atten, the big Hydran who was unofficial leader of the captains, and Fayaman of Draco who was no friend to Brond Holl at all, and Hoxie, the old Terran, and others like Shaa of Rigel and Kikuri of Polaris who were humanoid, not human.</p>
+   <p>But then Mason learned an upsetting thing. Brond Hall's mind had held a fierce conviction that it was someone at Quroon who had secretly sent out the tip that had got him captured.</p>
+   <p>"The devil!” thought Mason. “If that's so, I've got Brond Holl's enemies, as well as that agent from Orion, to guard against while I look for Ryll Emrys."</p>
+   <p>He dismissed the disturbing possibility from mind for the present, and began the task of learning how to impersonate Brond Holl.</p>
+   <p>Mason put on the visi-audio tapes that had been made of the outlaw. He watched them over and over, studying every mannerism, tone of voice and gesture of Brond Holl. He practiced being the Herculean, striding back and forth in the flitter, swearing at the confinement, frowning blackly.</p>
+   <p>When he thought he had finally absorbed all that he could from the tapes, he carefully destroyed them all.</p>
+   <p>The flitter sped on and on. Even at its milli-light-speeds, the voyage seemed endless. But finally, its auto-pilot changed course. The flitter was coming down from the high jump, angling down over the frontier between the Kingdom of Lyra and the Marches of Outer Space.</p>
+   <p>Mason did not relax his tension when he was down over the frontier. Lyra cruisers prowled into the Marches at times, and would have heard the flash about Brond Holl's escape in a Terran flitter.</p>
+   <p>He breathed a little more easily when he saw looming up ahead a gigantic, glowing cloud. It was the Dumbbell Nebula—a vast cloud of cosmic dust illumined by the light of the stars deep inside it. The dust made radar unreliable, and he would be safer to cut through the nebula. He sent the flitter plunging into the cloud.</p>
+   <p>His radar screen now became murky and uncertain but he watched it constantly. The fogged stars in here that shone out like eerie witchfires were easy to avoid, but there might be dark bodies and he would have little enough warning of them.</p>
+   <p>The flitter was two-thirds of the way through the cloud, when Mason uttered a sudden exclamation.</p>
+   <p>The radar screen, clearing for a second, showed a symmetrical formation of several dozens of blips, not moving but poised immobile here in the nebula not far from him.</p>
+   <p>"Ships—cruisers—a full squadron!” Mason muttered. “Hiding here in the nebula—"</p>
+   <p>The radar screen distorted and fogged again. The hidden ships might not have seen him on their radar in that brief moment of clearing, but if they had seen him. He sent the flitter rushing ahead at highest speed, expecting every moment a burst of missiles. Nothing happened. Then he had not been spotted?</p>
+   <p>"But whose ships are they? Lyran cruisers watching for outlaw ships? No, they couldn't watch with their radar fogged—"</p>
+   <p>An alarming possibility burst upon him.</p>
+   <p>"By Heaven, that could be it!"</p>
+   <p>The flitter burst out of the nebula into open space again. Before him stretched a vast region of scattered stars and clotted star-clusters, thinning in number as they approached the fringe of the galaxy. Here was the no-man's-land of the galaxy, the Marches of Outer Space.</p>
+   <p>Somewhere in this nameless frontier region was Ryll Emrys, the fugitive scientist whom Orion wanted back so badly.</p>
+   <p>"And Brond Holl's own enemies,” thought Mason grimly. “Well, I asked for it."</p>
+   <p>He sent the flitter on a straight course toward Quroon.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER III</p>
+   </title>
+   <empty-line/>
+   <p>DEEP INSIDE a dense cluster of stars there burned a brilliant, emerald-colored sun with a single world. That big green sun and its planet were guarded on every side by the thickly-swarming hosts of stars whose interacting gravitational fields created a navigation danger made worse by the presence of great drift-streams.</p>
+   <p>To the lush warm world of the green sun, inhabited only by small and primitive humanoids, had come some of the first explorers who had reached this fringe of the galaxy. That had been long ago in the days when the human race was bursting out from Sol in explosive fashion. But in those great days, when star-kingdoms were rising and grabbing for worlds in the constellational wilderness, this cluster was too dangerous to be tempting. The colonizers, the kingdom-makers, had ignored this fringe region and had gone toward richer parts of the galaxy.</p>
+   <p>Later, fugitives from the laws of the star-kings had come to the world of this green star Quroon. More and more of them had come, human and humanoid, Terrans and Orionids and Cassiopeians, until there had grown up that strange outlaw civilization ruled by the captains whose armed star-cruisers were the only law out here on the Rim. Often, the kings of Cassiopeia and Lyra and Draco had talked of banding together to crush the outlaws of the Marches, but always their rival claims to the territory had prevented such action.</p>
+   <p>Mason, navigating the flitter at reduced speed through the bewildering blaze of the cluster suns, thought that eventually one of the star-kingdoms would try to grab the Marches.</p>
+   <p>"And a nice job they'll have, when they try it,” he thought.</p>
+   <p>The powerful magnetic and gravitational fields of the thronging stars had his instruments cockeyed. He more than once almost took routes between star-systems that would have led into blind alleys of drift.</p>
+   <p>But he had Brond Holl's memories to guide him, and he tacked through the cluster by familiar star-marks, always drawing nearer that emerald sun.</p>
+   <p>He knew that there were automatic radar-warning stations located on planets and dead stars that he passed, flashing word of the coming of his small ship to Quroon. If more than one ship, the captains of the Marches would have been on the way to challenge him, but he met no challenge until he was through the last star-pass and running down on the green sun.</p>
+   <p>A thin, nasal voice spoke suddenly out of his communic. “Cut your speed,” it said. “Say who you are and say it fast. You're in missile range."</p>
+   <p>Mason knew that voice well. Rather, Brond Holl had known it well. He spoke back flatly into the communic.</p>
+   <p>"Terran flitter, coming in. And a devil of a watch you're keeping to let me get this close, Hoxie."</p>
+   <p>A crow of surprise and pleasure came from the communic. “Brond Holl, by all that's holy! We got the flash that you'd broken out at Sirius, but we didn't think you'd ever make it here."</p>
+   <p>"I'm sure that broke a lot of hearts,” said Mason sourly.</p>
+   <p><emphasis>Speak like Brond Holl, think like him, be him—or you won't last an hour here at Quroon!</emphasis></p>
+   <p>He swept in toward the single world of the green sun, cutting speed steadily until he was racing down past two greenish moons toward the night side of the planet.</p>
+   <p>The lights of Quroon City, stretching away in a small and formless swarm, came into view on the dark surface. Mason cut downward short of them, dropping toward the starport beacons.</p>
+   <p>On the starport, a score or more of ships flashed back the green light of the two racing moons. Mason's mouth tightened. It looked as though all the captains were in, and that should make things interesting.</p>
+   <p>The flitter came to rest not far from the radar and missile-gun towers. Mason looked to the hand-gun he had taken off the crewman back at Sirius Sixteen, then cracked the airlock and stepped out.</p>
+   <p>He was used to strange starworlds, and anyway the iridescent radiance of the two moons and the heavy, sweet and rotten smell that came from the jungle all around the spaceport were not new to him. They were in Brond Holl's memories, and he remembered very well the strange, polypous jungles of Quroon whose towering growths were halfway between plant and animal, like the sea-anemones of old Earth.</p>
+   <p>He remembered, too, the man who was coming toward him through the moonlight from the radar tower. An old Terran, with white hair and a face seamed by a strenuous and unvirtuous lifetime, his rheumy eyes now lighting up with welcome.</p>
+   <p>"So you made it after all,” he crowed delightedly. “Well, well, things'll be a bit more lively at Quroon with Brond Holl back.” Mason gave him the scowl that he felt sure the real Brond Holl would have done. He said, “What's the matter, Hoxie? Hasn't there been enough bloodshed lately to amuse you?"</p>
+   <p>"Ho, you're a rare young hellion, Brond,” said old Hoxie, not at all offended. “I was just like you years ago—I'd take nothing from anybody. Those were the days when Quroon was fun."</p>
+   <p>"Listen,” growled Mason, “don't you go arranging any fights for me just so you can enjoy watching."</p>
+   <p>"You've got me wrong, Brond,” said Hoxie, in an injured tone. He took Mason's arm, starting back toward the tower, talking volubly. “I'm just glad to see you back, that's all. All the boys will be glad to see you back. Except maybe Fayaman."</p>
+   <p>He darted a sidelong glance at Mason as he spoke the name, a sly, quick look.</p>
+   <p>Beneath the radar tower was a ground-car and Hoxie led Mason solicitously toward it.</p>
+   <p>"I'm taking you into the City myself, Brond. My second will keep the radar watch. I want to see their faces when you show up."</p>
+   <p>"You didn't call Garr, then?” asked Mason.</p>
+   <p>Hoxie uttered a nasal laugh. <emphasis>"No, sir,</emphasis> I didn't. I wanted it to be a real surprise."</p>
+   <p>As the car started forward, Mason urgently reviewed the knowledge that had come to him out of the tapes of Brond Holl's memories.</p>
+   <p>Old Hoxie was an ancient sinner who had always rather admired the tough, reckless Brond Holl.</p>
+   <p>Fayaman, a Draconid who had been drummed out of Draco's navy years ago, was Brond Holl's enemy to the hilt. There had been a quarrel between them once over loot and Fayaman was not the type to forgive.</p>
+   <p>Garr Atten was a much more formidable proposition. Garr, who had been by tacit consent the leader of the captains of the Marches for years, had never had much love for Brond Holl either.</p>
+   <p>Mason turned his attention back to Hoxie. The old Terran was talking loquaciously as he drove down the road through the jungle. On either side of the passing car loomed up the strange polypoid growths, decked with cup-like leaves and flowers, swaying and writhing slowly in the moonlight. From their shadows came the multifarious sounds of small forms of life that he knew were as strange as the polypous plants.</p>
+   <p>"Garr's going in for trade, and even work, now,” old Hoxie was complaining. “A hell of a thing for Quroon to come to. Time was, there was fun and plunder here but now Garr raises the devil if anyone goes raiding—as you will maybe find out."</p>
+   <p>And again he gave Mason the sly, sidelong glance. But Mason refused to be prodded, his mind was too busy with his own problems. He had to find out if Ryll Emrys, was here, but he couldn't ask right out.</p>
+   <p>"What's been going on since I left?” he asked Hoxie.</p>
+   <p>"That's what we'd all like to know, Brond,” Hoxie answered.</p>
+   <p>"What do you mean?"</p>
+   <p>The old Terran looked at him shrewdly. “Garr's up to something, and won't say what. He's excited, and talks big about making the Marches a real independent kingdom. He says we're to hold off from any more raiding, and wait,” Hoxie grunted. “The men are tired of waiting."</p>
+   <p>That meant little to Mason, and gave him no clue to what he wanted most to know. He tried again.</p>
+   <p>"Has anybody new come in since I left?"</p>
+   <p>Hoxie shrugged. “The usual people that get in trouble at home and have to run for the Marches—but nobody special. Except a fellow who got run out of Lyra for something, name of Chan Fairlie. He brought his woman along-and she's a looker. The boys all have their eye on her, especially Fayaman."</p>
+   <p>Mason didn't think this could be the fugitive Orion scientist.</p>
+   <p>"How long ago did Fairlie show up here?” he asked.</p>
+   <p>"Only a few weeks ago,” Hoxie mumbled.</p>
+   <p>That didn't fit at all, Mason thought, so it could not be Ryll Emrys. It <emphasis>could</emphasis> be the secret agent from Orion, their ace V'rann whom they had sent after Ryll Emrys, but such an agent wouldn't encumber himself with a woman. Still he'd better take a sharp look at Fairlie.</p>
+   <p>The lights of Quroon City rose up ahead of them, and the car entered the unpaved streets of the town.</p>
+   <p>Mason had been in many a strange city on far star-worlds, but never in such a one as this. Physically, it was unimpressive—a collection of one-story structures of black stone, built every which way along casually rambling streets, with the smaller dwellings extending away amid tall polyp trees from the bright-lighted street that was the main axis. Here there were drinking-places, shops and dives to serve the most motley population that Mason had ever seen.</p>
+   <p>Human and humanoid, men and near-men from hundreds of starworlds far across the galaxy, and women and near-women too. Hair and scale and feather, beaked faces and noseless faces and wicked but quite human faces. Primitive little humanoid aborigines of Quroon itself, big and furry white humanoids from cold planets who panted in the humid night, proud-crested men from the old races of Rigel who walked like tigers, lithe and serpentine men from beyond the Polar Suns who had never been sons of Adam, and all of them with two things in common—all walked erect on two legs and all had got into trouble somewhere else in the galaxy.</p>
+   <p>Speculative eyes of human woman, cat-eyes and pupilless round black eyes and blank, pale eyes that did not seem to see, stared at Mason as he and Hoxie got out of the car. He was known, and he heard the name of “Brond Holl” passing to and fro.</p>
+   <p>"Come on,” said Hoxie, enjoying himself. “You came just the right time. The captains are meeting tonight."</p>
+   <p>"Why?” demanded Mason sharply.</p>
+   <p>"I told you they're tired of waiting for Garr to tell his plans, didn't I? That's why."</p>
+   <p>They pushed through the motley crowd, and Mason let Hoxie lead the way to what appeared to be the biggest drinking-place in Quroon. But from the interior came no music or laughter—only the sound of an angry, bellowing voice. He went in, behind Hoxie.</p>
+   <p>The room was big and stone-paved and stone-walled, a black room whose shadows not all the suspended krypton-lights could dispel. There were tables grouped in a rough ring, and men and not-men at the tables, and others standing in a crowd around the walls, and all of them listening to the man who was speaking angrily to them.</p>
+   <p>It was Garr Atten who was speaking, and it seemed a little touching to Mason that Garr Atten should be trying to found a star kingdom when his throne-room was a tavern drinking-room on an outlaw world.</p>
+   <p>"I'm damned if I don't give up and let you all go to the devil in your own way, if that's what you want!” Garr Atten was roaring.</p>
+   <p>He was a giant Hydran well past youth, red-haired and with a battered, bronzed face and tawny eye that were flaming with leonine rage. He stood, great fists clenched, glaring, around the crowd.</p>
+   <p>"I've told you that I've go plans, and you can trust me or not just as you wish,” he bellowed.</p>
+   <p>A handsome, pale man with sleepy black eyes spoke up for the sullen crowd. “We trust you, Garr. But we'd like to know a little about it."</p>
+   <p>Mason's eyes flew to that speaker. He knew him very well indeed, from Brond Holl's memories. He was Fayaman of Draco, and he was a man to watch.</p>
+   <p>"Yes, there's your old friend,” said Hoxie in a chuckling whisper. He added, “That's the new man, Chan Fairlie, beside him. Ain't that woman of his something? Her name's Lua."</p>
+   <p>Mason saw a man with the faintly bluish skin and blue-black hair of a Lyran, a tough-looking man with a square face. Behind him stood a Lyran girl, beautiful as only the blue-tinted women of Lyra were, her soft face anxious and half-fearful in expression as she listened to the rising clamor of voices.</p>
+   <p>A big Betelgeusan humanoid, a striking figure with his body-fur of bright yellow, was speaking. His enormous eyes were fixed on Garr Atten, but the words he spoke were mild.</p>
+   <p>"Now, Garr, when you said you could make the Marches a free kingdom, we all said we'd follow you. And we will."</p>
+   <p>A tall humanoid captain from Rigel, his feathered crest ruffed erect, spoke up. “It's just that we're all tired of not doing anything."</p>
+   <p>Garr Atten was not placated.</p>
+   <p>"What do you want to do—go raiding into Lyra and Cassiopeia again?” he roared. “Bring a half-dozen star-kings down in full force to smash us? I tell you, times have changed. You try that, and you'll end up like—"</p>
+   <p>Mason stepped out from behind the men in front of him, at that moment. The movement caught Garr's eye. The big Hydran stared at him, his mouth opened in surprise.</p>
+   <p>"Like Brond Holl?” said Mason pleasantly. “Is that what you were going to say? Your moral example has gone sour, Garr. The bad penny has turned up again."</p>
+   <p>He heard the buzz of voices, the startled exclamations, but paid no heed to them. He had to play Brond Holl to the hilt if his true identity was not to be suspected, and before these tough star-captains of the Marches there was only one way to play it.</p>
+   <p>Fayaman, his white face suddenly a shade whiter, was glaring at Mason. With a smothered oath, he jumped to his feet. His hand snaked toward the missile-pistol hidden inside his shirt.</p>
+   <p>Mason had expected something like that, and already had his hand on the hilt of his own missile-pistol.</p>
+   <p>He said evenly, “Try it, Fayaman. I want you to. I'm pretty sure you tipped off Cassiopeia to capture me, and this will give me all the excuse I need."</p>
+   <p>There was a petrified silence, and then Garr Atten strode furiously out with his own weapon in his hand.</p>
+   <p>"Either one of you starts a fight, I'll kill the survivor,” he bellowed. He looked bleakly at Mason and said, “Have you any proof that Fayaman did that?"</p>
+   <p>"No one else here hated me enough to do it,” Mason snapped.</p>
+   <p>"That's not proof,” said the giant Hydran. “So you've come back, Brond. I won't say I'm glad, you always were a hell-raiser, but the Marches are free to any fugitive as they always have been. But you bring any trouble here now when we're going to pull off the biggest thing in the galaxy, and it'll be the end of you!"</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER IV</p>
+   </title>
+   <empty-line/>
+   <p>MASON STOOD SULLENLY, as though debating in his mind whether to challenge Garr Atten or not. Actually, he was relieved that the Hydran captain had prevented a fight. The last thing he wanted was to get side-tracked into a row with Brond Holl's personal enemies, but he had had to act as the real Brond Holl would have done.</p>
+   <p>He took his hand off his weapon, and said sulkily, “I'm not bringing any trouble, but I've still got my ideas about who made me rot a year in Sirius Prison."</p>
+   <p>Garr Atten addressed him with grim emphasis. “Brond, you get it into your head right now that things have changed. You go off on another looting expedition, and I'll send a warning to all the star kingdoms myself."</p>
+   <p>"What are we to do, then—take to farming?” growled Mason.</p>
+   <p>"There's plenty of trade with the humanoids out here in the Marches—use your ships for that, not for plundering,” said Garr.</p>
+   <p>Old Hoxie raised his nasal voice. “Seems like I've lived past my time, when the captains of the Marches ain't allowed to take a little loot where they find it."</p>
+   <p>A murmur of agreement went up from many in the big room. And a flaming spark came into Garr Atten's tawny eyes.</p>
+   <p>"You fools! We've got a chance to make ourselves a real star kingdom, not a runaway's hideout. The biggest chance anyone ever had. And you'd throw it away for a little loot. I say, No."</p>
+   <p>"You still haven't told us how you're going to accomplish all this,” grumbled one man.</p>
+   <p>"You'll know when there's no danger of any of you spilling it,” Garr answered roughly. “Till then, you wait."</p>
+   <p>They were not happy, Mason saw, these hard-bitten outlaw captains. But also none of them felt like challenging the redoubtable Hydran leader right now. He was forcing them to take his plans on trust.</p>
+   <p>What was Garr Atten planning? How could he expect to establish a kingdom that the galactic governments would recognize? Mason's brain began to turn over fast. It might—it just might be, that he had here a clue to the object of his mission.</p>
+   <p>The captains were turning away, the gathering breaking up. Mason strode across the room, ignoring the hostile stare of Fayaman, and went up to Garr Atten.</p>
+   <p>"I've got some news I think you ought to know,” he said.</p>
+   <p>The Hydran scowled at him. “What?"</p>
+   <p>"I can blab it all over Quroon at the top of my voice if that's what you want,” Mason said. “Is it?"</p>
+   <p>Garr Atten turned dull red in the face. “Brond, you've been asking for me to break your neck ever since you got here. Keep on, and I'll oblige. All right, come on and tell me your precious news in private."</p>
+   <p>He headed for the door. Mason followed him, noting that Fayaman was still watching, with an expression that seemed strangely familiar to Mason. He tried to remember where he had seen it before, and out of his personal memory banks there popped the image of a huge gray cat fixing that exact hungry and intense stare upon a young rabbit in the grass. He had a moment of hot irritation. Sooner or later this cat was going to spring and he would be forced to do something about it, no matter what vastly more important things he was concerned with. He wished Fayaman at the figurative bottom of the Coalsack.</p>
+   <p>He did not see Fairlie and the girl Lua until he was outside, and then he saw them going away down the street arm in arm, the girl looking at Fairlie as though hanging on his every word, her hips moving with provocative grace under bright silk, her long hair swinging down her back. Mason envied Fairlie briefly, and then forgot them both for the moment.</p>
+   <p>Garr Atten led the way through the swarming street. It was a way Brond Holl remembered well, past the glaring lights with the stream of human-inhuman-unhuman faces moving under them like the many colored masks of a strange chorus in a play, past darker places where the windows of the houses were shuttered and the lights discreetly dim, past a belt of the tall and grotesque polyp trees that in their strange semi-animal way writhed away from each passerby, their great sweet-stinking pennants of bloom nodding and shaking.</p>
+   <subtitle>* * * *</subtitle>
+   <p>The place they went to was a sprawling place of black stone set by itself at the edge of town in a polyp grove. The jungle seemed to claw at it with thick fingers. Millions of tiny night voices of minute creatures clamored at it from every creeper and grass blade. Mist rose from the ground and tried to hide it in a silver veil. But it was there, looking as stubborn and immovable as the man who had built it.</p>
+   <p>The servants who let them in were familiar to Brond Holl, too, but Mason could not repress a personal quiver of distaste. These native humanoids of Quroon were more -oid than human, little scampering creatures with prominent teeth and unpleasantly naked skin. Garr Atten sent them off and led Mason into a big bare room, quite austerely furnished in comparison with the luxury the other captains indulged in.</p>
+   <p>"All right, Brond,” he said. “We're alone here. What is it?"</p>
+   <p>The screek and shrill of the little insect voices drifted in from the night outside, riding the currents of warm air through the windows. Mason sweated. He wiped his sleeve across his forehead and said, “I thought you might be interested to know that there's a full squadron of somebody's cruisers hanging in Dumbbell Nebula. I almost rammed them in the cloud, coming through."</p>
+   <p>He startled Garr Atten and before the man's usual tight control took over, he said fiercely, “By God, if Orion—"</p>
+   <p>He stopped there suddenly.</p>
+   <p>"Why,” asked Mason innocently, “would Orionid cruisers be sitting in the nebula out there with their eyes full of dust? What are they waiting for—a signal to attack?"</p>
+   <p>"Maybe,” said Garr Atten curtly, thinking many thoughts very rapidly as he walked up and down. “Maybe."</p>
+   <p>The hot damp air was heavy in Mason's lungs. His nerves pricked him with sudden needles. The monotonous voices of the insect night-singers outside rasped his ears. Too much, too little—one word, a false look, a mere breath could lose him both his answer and his life.</p>
+   <p>He made his voice harsh, challenging—Brond Holl's voice.</p>
+   <p>"Why did you say <emphasis>Orion?</emphasis> You didn't even have to stop to think. What do you know, Garr, that the rest of us don't know?"</p>
+   <p>Garr Atten looked at him heavily, preoccupied. “Nothing I can tell you now. You'll have to wait—"</p>
+   <p>Mason walked up to him. “Wait,” he said. “That's fine. Me and the rest of them, we wait with a squadron of cruisers hanging over our heads until you get ready to tell us what they're there for. I don't think the others would buy it, Garr. I think they'd want to know how far their necks are stuck out, and what for."</p>
+   <p>Something quick and quiet happened to Garr Atten's face. It made Mason's back feel cold in all that sticky heat.</p>
+   <p>"Don't try to blackmail me, Brond,” he said. “I don't like it. I want you to keep this information from the others, yes. But you're not going to use it to force me to tell you anything."</p>
+   <p>How far do I push it? Mason thought. How far would Brond Holl go if I were Brond Holl and thinking only of my own neck and not of what I'm really thinking about?</p>
+   <p>Damn the heat add the crickets, or whatever the nasty-little brutes are on this stinking world—</p>
+   <p>"I'm not going to trust my safety to you without a word of explanation, either,” he said to Garr Atten. “Those cruisers—"</p>
+   <p>He stopped in mid-flight, listening.</p>
+   <p>Listening to something—</p>
+   <p>Listening to nothing.</p>
+   <p>The night-singer insects had all stopped singing. Beyond the open window the jungle-garden was silent, as though it held its breath.</p>
+   <p>"Those cruisers,” Mason continued smoothly, “are a long way off.” He moved to a writing-table in the corner. “I can make you a rough chart of their position—"</p>
+   <p>He saw a puzzlement, and then a sudden understanding, in Garr Atten's eyes. “Yes, I wish you'd do that,” Garr Atten said, and leaned over his shoulder and watched with absorbed interest as Mason wrote, <emphasis>Someone's in the garden</emphasis>—</p>
+   <p>Garr Atten reached out and touched the lamp. The room turned black. In the same instant Mason heard Garr Atten whisper, “Move!"</p>
+   <p>But he was already moving. He flung himself halfway across the room and before he hit the floor a tiny star, intense and blinding as a nova, flared briefly by the writing table and vanished, taking with it most of the table and a part of the neighboring stone wall—all without so much as a whisper of sound.</p>
+   <p>Energy-missile, lethal and silent.</p>
+   <p>Mason scuttled the rest of the way across the room, drawing his own weapon. There was the light <emphasis>spung!</emphasis> of an ejector mechanism and then a second star burst and died beyond the window. Garr Atten, firing back. He was unhurt, then. Good. The assassin had missed—</p>
+   <p>Good. Yes, indeed. Good for Hugh Mason, too, because they two had stood together at the table and the energy pill might have been aimed at either one of them. So who had fired it?</p>
+   <p>Fayaman, wanting to get Brond Holl?</p>
+   <p>One of the captains, wanting to get Garr Atten out of the way, with his insistence on a new regime of law and order?</p>
+   <p>Or someone by the name of V'rann, wanting to get a masquerading spy of Earth by the name of Hugh Mason?</p>
+   <p>Mason scrambled out into the hall, with Garr Atten so close on his heels they almost tripped each other. Behind them in the room there was sudden light, and as they ran along the hall the door they had just passed through vanished in a noiseless flare.'</p>
+   <p>"The other side of the house,” said Mason. “Get out and circle around—"</p>
+   <p>Garr Atten gave him an odd look, but he said nothing. They ran through a longish hall where half a dozen of the humanoid servants had made themselves into a tight ball in the corner, their alarmed little faces peering. They went out onto a terrace of black stone slippery with dew, and then circled back around the corner of the house. The little singers of the night were still crouched silent among their leaves and grass-blades, waiting for the giants to stop shaking their world. The air was rank with that smell of mingled life and death common to jungle no matter where you find it. And there was death lurking somewhere in the shadows under the tall polyp trees, where the greenish moonlight lay mixed with mist like sweet poison in a cup.</p>
+   <p>Garr Atten gestured silently and they separated, each one now his own citadel of defense, creeping in shadow while the cold dew soaked into his garments, listening, halting, starting at the writhing quiver of a polyp tree be passed, darting swift as deer across the moonlit places with every nerve taut, and screaming in the expectation of sudden light and the impact of destruction.</p>
+   <p>They stalked someone, and the someone stalked them.</p>
+   <p>The wall of the house, with the window by which the assassin had stood, showed black and bare in the moonlight. Mason stood in the shadow between two towering polyp trees, not close to either one of them, and listened. As he listened, he wiped his hands on his coverall to get the greasy sweat off them, shifting his weapon from hand to hand. His hands were cold, and so was the rest of him despite the humid warmth.</p>
+   <p>There was a deep silence, and it was as though this whole world had been dead for a million years.</p>
+   <p>Then of a sudden Mason heard the stir and murmur of a polyp tree a score of yards from him, making a vague sound on the air as it writhed and twisted. Instantly, knowing that the sound meant that someone had slipped close to the grotesque tree, Mason dived away from where he was and hit the wet grass a dozen feet away.</p>
+   <p>There was a burst of silent light where he had been.</p>
+   <p>He rolled over and triggered a silent shot with his own missile-pistol, at the place where the polyp tree had stirred.</p>
+   <p>His missile hit the tree, exploding in another soundless star. But there was a man close to the tree, a man whose weapon was raised for another shot at Mason, and the star touched his side.</p>
+   <p>Darkness again, and a sound like a grunt, and then the noisy crash of the severed polyp-tree falling.</p>
+   <p>Mason scrambled to his feet and ran forward. With his free hand he snatched out his pocket-light and flashed it.</p>
+   <p>Chan Fairlie's body lay there, face up, his eyes wide and sightless, one hand still clutching his gun. The other hand, and arm, and part of his body, had been touched by the star and weren't there.</p>
+   <p>Mason's thoughts raced as he looked down at the stony blue face of the dead Lyran. Had Fairlie been the agent from Orion? Had he been—V'rann?</p>
+   <p>"If he was,” Mason thought, “he'd suspect that Brond Holl's timely escape might be a trick to get a disguised Terran agent here. But he brought that woman here with him, and that doesn't fit—"</p>
+   <p>His mind leaped to another thought. That Lyran girl who had come to the Marches with Fairlie—she was still alive. He could find out from her—</p>
+   <p>He spun suddenly around as he heard a step. His light caught the towering figure of Garr Atten, coming between the writhing trees.</p>
+   <p>"I thought he'd got you,” said Garr. “Who the devil—” Then he was silent a moment as Mason swung the light onto the dead face. Finally he said, “Chan Fairlie. But he's been here only a few weeks, why should he try to—"</p>
+   <p>He broke off and asked Mason keenly, “You never knew him before you came here, Brond?"</p>
+   <p>"No,” answered Mason truthfully.</p>
+   <p>Garr Atten nodded. “He showed no sign of recognizing you tonight. So he couldn't have had any grudge against you. It was me he was trying to kill."</p>
+   <p>"If he's only been here a little while, why should he?"</p>
+   <p>Garr said somberly, “He could have been put up to it by one of the captains. By someone who wants what I've got."</p>
+   <p>"What have you got, Garr?” Mason asked boldly.</p>
+   <p>The Hydran looked at him somberly. “You kept me from getting killed in there, Brond. I owe you something. I'll tell you."</p>
+   <p>His big frame seemed to loom gigantic in the green misty moonlight, and his voice throbbed harshly.</p>
+   <p>"I've got a man. Brond. A man who came here while you were in prison—and who holds the secret of a power such as the galaxy has never seen."</p>
+   <p>Mason kept his face unmoved, but his brain shouted, <emphasis>Ryll Emrys!</emphasis></p>
+   <p>"And with that power,” Garr Atten said, “I can make the Marches a free kingdom. I tell you, I can smash all the star-kings like eggshells if they try to stop me!"</p>
+   <p>A cold feeling came back over Mason, as he looked at the craggy face dark with passion and purpose. He remembered Oliphant's dying warning of a weapon of cosmic power, and it was as though for a moment he saw the galaxy and all its empires and star-kingdoms on the brink of an abyss.</p>
+   <p>"But there's little time,” Garr Atten said tightly. “Too little! With Orion's cruisers watching out there, and my own captains against me, I've got to strike now or never."</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER V</p>
+   </title>
+   <empty-line/>
+   <p>THE PLANET was rolling toward dawn. Already a dimming had crept over the blazing splendor of the cluster-sky, the hosts of stars paling as a sickly green light welled up from the horizon. Then there was an upflinging of spears of green radiance, and the emerald sun rose and glared a hot light over the polypoid jungles around Quroon City.</p>
+   <p>Garr Atten's humanoid servants had taken the dead man away for burial, chattering among themselves like apes. Garr himself paced to and fro in the big bare room that had nearly seen his death, and Mason watched him.</p>
+   <p>"They've been demanding and demanding to know what I plan,” muttered Garr. “All right, I'll tell them. You can pass the word that the captains are all to meet here this evening."</p>
+   <p>Mason was eager to go, for he had’ his own plans and he needed to be fast. He started toward the door.</p>
+   <p>"Remember, you're to say nothing yet about those Orion cruisers,” rumbled the Hydran.</p>
+   <p>Mason nodded. “I won't."</p>
+   <p>Garr Atten stared at him. Suddenly he came and stood in front of Mason and looked searchingly into his face. He said, “In some ways, Brond, you're no damned good. But I don't remember you as a liar. Will you tell me something?"</p>
+   <p>"What?"</p>
+   <p>"This!” said Garr. “One true word. Are you for me or against me?"</p>
+   <p>Mason felt a queer emotion. He was on a mission for the Terran Empire, for the peace of the galaxy, and he would break men like matches to accomplish it. This Hydran was an outlaw, and a dreamer, but he was also a man.</p>
+   <p>"I'll give you a true word, Garr,” he said. “I think you're fit to be a star-king, and I'm not against you unless I have to be."</p>
+   <p>Garr bristled. “A man who asks for truth of a fool. I was almost ready to trust you completely. Well, pass the word to the captains."</p>
+   <p>Mason went through the dazzling green sunrise back to the main street. There was still noise and activity in the drinking-places, and he looked into them until he found Hoxie.</p>
+   <p>The old Terran outlaw's eyes lit up when Mason delivered Garr's message.</p>
+   <p>"I'll sure tell all the boys,” he said. “So Garr's finally going to tell us something, eh? About time."</p>
+   <p>"Where does Chan Fairlie live?” Mason asked.</p>
+   <p>Hoxie grinned. “So you're after that woman of his too? Well, that ought to make Fayaman love you even more—like I told you, he's always hanging around her."</p>
+   <p>He told him, and Mason went away from there. He went to one of the streets of black stone houses and huts that rambled casually toward the jungle, and he found Lua, the Lyran girl, sitting in front of one of them carefully combing her long black hair.</p>
+   <p>The grotesque green polypoid trees swayed and writhed away from him as he came, and she looked up at him swiftly and startledly. Her dark eyes were wide in her clear, faintly blue face, and the striped silk pants and jacket she wore were tight on her, and Mason thought that old Hoxie was right and that this was a woman there was bound to be trouble about. He meant to find out if she was anything more than that.</p>
+   <p>"Chan Fairlie's dead,” he told her, hitting her between the eyes with it because he didn't know any other way,</p>
+   <p>She leaped to her feet and stood, her face shocked and unbelieving. She looked at him, for a long moment, and then said, “Who killed him? You—"</p>
+   <p>"Yes,” Mason said. “He came to assassinate Garr Atten, and would have killed me into the bargain, and I had to—"</p>
+   <p>He got as far as that, and then he was too busy to say more, for she was at him like a wildcat, her fingers raking his face, while her other hand grabbed for the weapon at his belt.</p>
+   <p>He stopped that, and pinioned her arms between his hands, and shook her. He said roughly, “Murderers are liable to get killed. You ought to have thought of that before you came here with him."</p>
+   <p>Lua suddenly stopped struggling, and burst into tears. “What will become of me here now?"</p>
+   <p>Mason said acidly, “I'm glad your grief isn't so permanent that you can't think of yourself."</p>
+   <p>He let go of her, and stepped back a pace. And the Lyran girl was now neither a sexy piece nor an angry wildcat, but just a scared girl, her cheeks smeared with tears and her mouth quivering.</p>
+   <p>"Who was Fairlie?” demanded Mason. “Who was he <emphasis>really?"</emphasis></p>
+   <p>She stared at him. “I don't know what you mean. He came to Linnabar, where I was dancing in a starport pleasure-palace. He wanted me to go with him, he told me he was a star-trader and owned a small ship. I went. Then later he admitted that he was an outlaw, that he'd stolen the little ship, and that he was on his way to the Marches where the law couldn't reach him."</p>
+   <p>It could all be true, Mason thought, but if Fairlie had been just an outlaw fleeing to the Marches, why had he tried to kill Garr?</p>
+   <p>On the other hand, if Fairlie had been V'rann, the agent of Orion, he could have posed as a Lyran outlaw and picked up the girl as a piece of protective camouflage. And V'rann would have had good reason to suspect that “Brond Holl” was a Terran agent, and want to kill him.</p>
+   <p>"What will become of me now?” Lua asked dolefully, again.</p>
+   <p>Mason grunted. “I don't think you'll find it too hard to find another—protector, here."</p>
+   <p>"Fayaman of Draco has been nice to me,” said Lua, a thoughtful look in her eyes.</p>
+   <p>Mason told himself disgustedly that she was a cheap little tramp, but he stuck to his main problem of establishing Fairlie's identity. Of course, if Fairlie had been V'rann, his blue Lyran look had been all disguise, but modern make-up tricks were so good it took laboratory techniques to detect them. He hadn't had a laboratory, and he hadn't even had the time, since Garr had had his servants bury Fairlie at once.</p>
+   <p>Mason stepped toward the open door of the small black stone house.</p>
+   <p>"What are you going to do?” asked Lua uneasily.</p>
+   <p>He didn't answer her, but went on in and left her looking after him half-fearfully.</p>
+   <subtitle>* * * *</subtitle>
+   <p>Only three of the shadowy, dank rooms of the stone house had been lived in. The kitchen was a mess, and he decided that cooking and housekeeping were not among Lua's talents. But in the sleeping room, her tawdry silks and bangles were laid out neatly with loving care.</p>
+   <p>He rummaged swiftly through Chan Fairlie's effects. They were just the sort of stuff an outlaw on the run would take with him-spare weapons, charts, bottles, and some tri-dimension photo of girls that should have made her jealous if she had seen them. There was not a thing here to show that Fairlie <emphasis>had</emphasis> been V'rann of Orion. On the other hand, if Fairlie had been V'rann, an ace secret agent like that would be too clever to carry anything around that would give him away.</p>
+   <p>As Mason stood frowning, he suddenly heard the sharp voice of Fayaman from outside.</p>
+   <p>"Lua, I've just heard that Garr Atten is finally going to tell us his plans today, and—"</p>
+   <p>Lua's voice, rising to shrillness, interrupted. “Chan's dead! Brond Holl killed him, he said. And he's in there now!"</p>
+   <p>Mason strode out into the dazzling green sunlight. With an oath, Fayaman turned from the girl, his hand darting toward the front of his shirt.</p>
+   <p>Mason said, “I'd just like to know, Fayaman, how surprised you really are by that news. If you put Fairlie up to trying to kill Garr, you can't be surprised at all."</p>
+   <p>"What the devil are you talking about?” demanded Fayaman, his marble-white face tight and dangerous.</p>
+   <p>"He said Chan tried to kill Garr,” wailed Lua. “He said that's why he killed Chan.” Tears started again in her eyes as she added, “And he shook me."</p>
+   <p>Fayaman hesitated, not grabbing for the weapon inside his shirt. There was a shade of indecision in his face now.</p>
+   <p>"It's true,” Mason nodded. “Garr doesn't figure that Fairlie, a newcomer, would think up the assassination himself. Garr is very keen to know who put Fairlie up to it."</p>
+   <p>Fayaman's hesitation deepened, and slowly he took his hand away from his shirt. After a moment, he said, “I see. You make a big play of saving Garr, to get in close with him. You're clever, Brond. The trouble is, you're never quite clever enough."</p>
+   <p>"I wasn't, when I went off raiding and left you behind to send out the tip that got me captured,” Mason said harshly. “I won't give you a chance like that again. I'll make sure of you before I go."</p>
+   <p>Fayaman smiled thinly. “Any time, Brond. Any time at all."</p>
+   <p>Mason went past them, and noticed that already Lua was snuggling against Fayaman like a puppy trying to pick up a new master.</p>
+   <p>He didn't think he had got very far. He would have liked to believe that Chan Fairlie had been V'rann, because that would mean V'rann was dead, but he had no proof of it at all. And if it wasn't true, if V'rann was someone else here, he was walking on a live mine. An agent of Orion here, and a squadron of Orionid cruisers waiting out in the nebula, could add up to hell breaking loose when the missing Ryll Emrys was located.</p>
+   <p>He thought about it, and went back to find Hoxie again. The old Terran had had news by now, and he hailed Mason with a crow of welcome.</p>
+   <p>"So you killed Chan Fairlie! Well, well, things are livening up at Quroon again. I guess you and Fayaman will be having it out for that wench now."</p>
+   <p>He clapped Mason on the back admiringly. “Come on home with me, Brond. You've been gone so long your house is a wreck by now. I've got a few good bottles."</p>
+   <subtitle>* * * *</subtitle>
+   <p>Mason went, and sat in Hoxie's house drinking with him until his head buzzed. He forced himself to think clearly, for he had to pump Hoxie without arousing suspicion. He wanted badly to know what other newcomer to the Marches might possibly be V'rann.</p>
+   <p>"No, we don't get the bold and lusty boys we used to get here,” Hoxie said regretfully, wiping his mouth. “Garr's too finicky, he don't want murderers and such. As if a few honest murders mattered."</p>
+   <p>"You mentioned a chap named Zin Diri who came and then left,” Mason reminded.</p>
+   <p>"He wasn't any good outlaw material,” said Hoxie. “A thin, twitchy fellow who said he was from Argo though he didn't look it to me. But that was months ago—Garr gave him a lift to somewhere else."</p>
+   <p>That didn't sound as though it could be V'rann, thought Mason. But he suddenly realized that it could have been Ryll Emrys.</p>
+   <p>But V'rann? Mason realized that he was obsessed with an uneasy conviction that the Orion agent was still alive. And with Garr Atten about to reveal his secret within a few hours—</p>
+   <p>A thought came abruptly to Mason. If V'rann was here, hiding in some guise, there was one way he <emphasis>could</emphasis> be spotted, after the meeting of the captains with Garr this night. V'rann would surely have a way planned to learn what Garr said, and V'rann would act swiftly and that was his, Mason's, chance.</p>
+   <p>Mason decided it was the only idea he had, and he might as well follow it. To avoid further drinking with the hard-headed old Terran, he pretended to go to sleep.</p>
+   <p>"Prison must have weakened you down, to pass out so soon, Brond,” he heard Hoxie saying, and then his pretended sleep became real.</p>
+   <p>Hoxie, looking no whit the worse, woke him hours later. “Time for Garr's meeting. You sure don't want to miss that."</p>
+   <subtitle>* * * *</subtitle>
+   <p>The green sun had set and the hosts of stars were leaping out again in the darkening sky when he and Hoxie came to Garr Atten's house. Armed men were posted here and there outside it, but let them through.</p>
+   <p>"Guess Garr don't want anybody but us to hear his big secret yet,” mumbled the old Terran.</p>
+   <p>Mason thought he was right, and he also thought that if V'rann was living he'd not be stopped by a few guards from hearing.</p>
+   <p>In the big, bare room, Garr Atten stood and faced his captains grimly. They were all there, human and humanoid, and they were silent but their faces were keen with excitement. And the eyes of Fayaman were bright as those of a questing hound.</p>
+   <p>Garr's voice was bitter. “You wouldn't trust me, and so I've got to take the chance of losing everything by a leak of information. All right, it's what you want."</p>
+   <p>He looked them over somberly before he spoke again. “For years, we've had the dream of making the Marches a free and independent kingdom. It's never been possible because if we proclaimed a free kingdom, all the star-kings on this side of the galaxy would pounce in to stop us. And we wouldn't have the strength to repel them. But if we had a weapon strong enough to hold them all off, we <emphasis>could</emphasis> make the Marches a nation."</p>
+   <p>He paused again, and then said, “A few months ago a refugee named Zin Diri came here. He seemed a decent man and I gave him refuge. He was grateful. He was so grateful that after a while he began to worry, and finally he told me something. He said his real name was Ryll Emrys, and that he'd been a scientist in the Empire of Orion. He said he'd made a far-reaching scientific discovery, but that he'd been horrified when the Orionids got wind of it and wanted him to adapt it as a weapon of conquest for the King of Orion. He was so horrified, Ryll Emrys said, that he fled secretly and finally made it to the Marches.</p>
+   <p>"But now he was worried. He felt that sooner or, later, Orion would find out where he was. And when they did, they'd come in force to get him, and would smash all of us to flinders when we tried to oppose, them. He was grateful for the sanctuary we had given him, and was agonized that his presence here might mean doom for us."</p>
+   <p>Garr Atten's tawny eyes flashed.</p>
+   <p>"I saw our big chance, then. I told Ryll Emrys, ‘Give <emphasis>us</emphasis> this new weapon of yours. If it's as powerful as you say, we can use it to hold off Orion or anyone else. But he recoiled from that idea at first. He said he'd run away so the thing never would be used for war, he couldn't do it. I pointed out to him that while Orion would use the thing for galactic conquest, we only wanted it to defend ourselves and establish the Marches as a kingdom that could be a refuge for other people like him.</p>
+   <p>"That finally decided Ryll Emrys. He agreed to build the thing for me. It had to be on an uninhabited world, though. So I took him deeper into the cluster, to that region where the drift is so bad that Devil's Channel is the only way through it. There's a dying star-system in there beyond the Channel, with no life on any of its planets, though to judge from the ruins on the innermost world, it had humanoid life once. Ryll Emrys set up his work there. I've gone in to him many times, taking him the materials he needed. He's got <emphasis>one</emphasis> weapon ready—but we'll need more, many more, before we can face the border star-kings, not to mention Orion. That's why I need all the time I can get."</p>
+   <p>Mason, like the others, had listened in tense silence. But now he heard Hoxie ask the question that was in the minds of all the captains.</p>
+   <p>"But what <emphasis>is</emphasis> this weapon, Garr? What was it that Ryll Emrys discovered?"</p>
+   <p>Garr answered slowly. “He discovered something scientists have been looking for since the old Earth days. He found a way to neutralize external gravitational pull, in any or all directions."</p>
+   <p>They looked blank, and Garr Atten added a pregnant sentence.</p>
+   <p>"He can do that on a planetary scale."</p>
+   <p>Mason went cold. The nightmare possibilities of such a thing rushed upon his trained mind, while the outlaw captains were still staring puzzledly at Garr Atten.</p>
+   <p>"But what does it do?” demanded Hoxie.</p>
+   <p>Garr Atten's voice rumbled like distant thunder. “Can't you understand? Neutralization on a scale like that can eliminate all pulls on a planet except in one direction. You can move a planet in any course you want—it'll fall in that direction, faster, and faster."</p>
+   <p>His face was flaming. “Do you get it now? Ryll's apparatus makes that dead planet a missile. If we build the same apparatus on other dead worlds, we'll have as many planetary missiles as we want. And will the border star-kings or the King of Orion himself come to crush us, when we have fists that can smash star-systems?"</p>
+   <p>Mason felt aghast. He had utterly underestimated the potential of Ryll Emrys mysterious discovery.</p>
+   <p>He had never expected a thing of incredible possibilities for destruction such as this. No wonder that Janissar of Orion had sent a squadron across the galaxy, to wait and spring and snatch a thing of such awful power.</p>
+   <p>But the outlaw captains were flaring with the same excitement that blazed on Garr Atten's face. Shouting voices filled the room. Only a few faces had a tinge of awe, of dread.</p>
+   <p>"By all the gods of Rigel, with a thing like that we could take over the galaxy!” cried Shaa.</p>
+   <p>"No,” said Garr Atten. “You can forget that idea. Most of us are here because the damned grasping star-kings’ ambitions drove us out one way or another, and we're not going to become like them. I swore to Ryll Emrys that I'd only use it for defense, and that goes."</p>
+   <p>His eyes swept them fiercely. “Now listen to me. I'll go at once to consult Ryll about the men and materials we'll need to build the thing on more dead worlds. We'll need all the time we can get to do that. If one of you blabs this thing in the meantime, I'll kill him. Understand?"</p>
+   <p>They left the house an hour later, a taut, excited group. Mason was among the first out, and instantly he slipped away in the humid darkness and turned down a side way and started running.</p>
+   <p>He felt as though he was running a footrace with cosmic disaster. The stars of the cluster blazed over his head. And when he thought of what was on a dead world amid those stars, the threat to galactic peace that was hidden there, he ran faster through the dark back streets to Hoxie's dark house.</p>
+   <p>He had noted when they left that the old Terran's battered jet car was outside the house, and he prayed that it might still be there.</p>
+   <p>It was, and Mason jumped in and sent the car hurtling out of Quroon City, running without lights by back streets until he reached the jungle road that led to the spaceport.</p>
+   <p>He kept looking back, but there was no one behind him yet. There would be someone soon, he thought, if V'rann was still living. The secret had been told, and the first thing V'rann would do would be to send a message to the Orionid Cruisers out there in Dumbbell Nebula. And he had found out from Hoxie that there was no long-range communic equipment in the town itself, so V'rann would have to come out here to use the communic of a ship or of the radar tower.</p>
+   <p>Mason pulled off the road and stopped the car amid the dark polypoid trees, when he reached the starport. He got out, and drew his missile-pistol, and crouched down in the shadows just beside the starport edge.</p>
+   <p>He waited.</p>
+   <p>The big ships out on the tarmac glittered brightly as two jade-green moons came chasing each other up over the horizon. The lights up in the radar tower shone steadily. There was no sound except the night-singing insects of the jungle, coming from everywhere but not from close by him.</p>
+   <p>Then there was another sound, and Mason tensed. It was the purr of a motor, coming down the road from Quroon City.</p>
+   <p>Its lights flaring, the car roared past him and raced out onto the starport.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER VI</p>
+   </title>
+   <empty-line/>
+   <p>MASON DARED not shoot for he could not see who was in the car, and it might be Garr Atten. Garr had said that he was going at once to see Ryll Emrys. He dared not take the chance.</p>
+   <p>Instead, Mason ran out onto the tarmac after the car. It was racing down a long line of the outlaw starships, and turned out of sight between two of them. Mason's feet pounded the tarmac hard, as he sprinted along beneath the looming flanges of the ships, their grim missile-launchers protruding from them to catch the moonlight.</p>
+   <p>He ran between two of the great craft, and then he saw the car. It was parked, with lights out now, beside a ship. Mason knew that ship at once, from the rocketblast insignia picked out upon its bows. He knew it from the memories of Brond Holl, who had had every reason to remember that particular craft.</p>
+   <p>Fayaman's ship.</p>
+   <p>Was Fayaman really V'rann? It couldn't be.</p>
+   <p>It could very well be. More than one empire's intelligence knew the tricks of disguise and impersonation. If he, Mason, could be Brond Holl, the ace of Orion might just as likely be Fayaman.</p>
+   <p>He ran up to the ship. The airlock door was closed and locked, and he tugged at the handle in vain.</p>
+   <p>Mason, desperate as the moments ran away, leaped back a little. He triggered fast, and three quick silent stars of white light burned, and when they went out the airlock was gone and part of the metal wall around it.</p>
+   <p>He plunged forward, through the gaping opening.</p>
+   <p>The lighted main lateral companionway, was right in front of Mason, and, as he leaped in through the jagged opening, he saw Fayaman come running down the steps. His white face was very deadly, and his weapon was in his hand and they both shot at the same time.</p>
+   <p>In their haste, both missed. Fayaman's missile-pellet went right past Mason's head and on out into the darkness through the opening.</p>
+   <p>But Mason's missile, grazing past Fayaman, struck the wall beside him.</p>
+   <p>The silent white star blazed exultantly and wrapped Fayaman in a halo of radiance, and he fell.</p>
+   <p>There was not too much left of him when Mason went forward and looked down at him. Suddenly he looked upward. He had heard something.</p>
+   <p>The murmur of a voice, up in the communic room.</p>
+   <p>In agonized haste, Mason dashed up the steps. He heard the voice more clearly, and he knew it now, and it was speaking very rapidly of a dead world and the way to reach it.</p>
+   <p>He burst into the communic room and it was Lua, the Lyran girl, who was talking fast into the mike of the long-range communic.</p>
+   <p>Mason grabbed her, and reached with one hand and shut off all switches, and then swung Lua around to face him.</p>
+   <p>She laughed in his face. “You're a bit too late. I got through to the squadron."</p>
+   <p>She was not any longer the half-scared girl he had talked to that morning. The soft, timid look was all gone from her, and her face was as keen and ruthless as a beautiful sword-blade, and her eyes had nothing but mockery and contempt for him.</p>
+   <p>Mason knew now, and he whispered her name.</p>
+   <p>"V'rann.</p>
+   <p>She laughed again. “Yes, Terran. I don't know <emphasis>your</emphasis> name, but when Brond Holl broke prison so providentially I suspected a Terran agent would show up here wearing his face. And you confirmed my suspicions this morning."</p>
+   <p>The mockery in her eyes deepened. She was a secret agent and she had crowned her career with its greatest exploit, and in the blaze of her triumph neither the deaths of two men nor her own possible fate mattered one little bit to her.</p>
+   <p>"You never thought that Orion's ace agent could be a woman, did you?” she taunted. “You suspected Fairlie, but not me. Why, man, Fairlie was only an underling obeying my orders. And bungling them, too—as he did when I sent him to kill you and Garr."</p>
+   <p>Mason said slowly, “And Fayaman knew who you were, and was in on it with you."</p>
+   <p>"Fayaman,” she said scornfully, was a fool. It was easy to win him over by promising that Orion would give him a kingdom here if we got Ryll Emrys. He actually believed it!"</p>
+   <p>"You're happy, aren't you,” said Mason. “You know what you've maybe turned loose on the galaxy, and you're happy about it."</p>
+   <p>"I know that it will make Orion supreme and nothing else matters!” she flashed.</p>
+   <p>There came into the ship from outside a throb of racing motors, growing rapidly louder.</p>
+   <p>"That'll be Garr and the rest,” Mason said. “You should have known the radar tower would hear your message, and call him."</p>
+   <p>She shrugged. “I did know it. I never expected to get away. But of course I had to tell Fayaman I'd use a secret wave that wouldn't be heard. He believed that too."</p>
+   <p>Mason's hands tightened on her arms, and she looked at him with cold amusement. He said grimly, “Don't be too happy, V'rann. That squadron of Orionid cruisers has quite a way to come. We may do something before they reach Ryll Emrys."</p>
+   <p>The mockery left her face at that, and a sudden alarm and ruthless purpose shone from it.</p>
+   <p>"Oh, no,” she said. “Whatever clever idea you have won't work, once I tell Garr and the others that Brond Holl is a Terran agent."</p>
+   <p>The roar of motors was now loud outside, as the cars pulled up beside Fayaman's ship. There was a rush of feet below.</p>
+   <p>"I was thinking of that,” said Mason.</p>
+   <p>He drew back his fist and suddenly hit her on the chin, hard.</p>
+   <p>V'rann's eyes glazed and she sagged against him and he lowered her to the floor. There was an angry, excited shouting and then Garr Atten, weapon in hand, came into the communic room with Hoxie and Shaa and a crowd of others behind him.</p>
+   <p>Garr's face was terrible. He looked at the unconscious girl and then at Mason, and he said, “Radar tower called me about that message she got off. Then she's an Orionid spy?"</p>
+   <p>Mason nodded. “Yes. And she pulled it off. Right now, the Orionid squadron that's been hiding in Dumbbell Nebula is on its way to that dead planet and Ryll Emrys. Fayaman told her at once."</p>
+   <p>Garr's mighty shoulders sagged, and a dull look came over his face. He stood, the weapon in his hand hanging, limply. The outlaw captains looked from one to another with stricken eyes, and nobody spoke at all until old Hoxie's nasal voice broke the silence.</p>
+   <p>"Then that's goodbye to our super-weapon and our star-kingdom."</p>
+   <p>Mason went up to Garr Atten.</p>
+   <p>He spoke to him and his voice had the lash of a whip.</p>
+   <p>"It's maybe just as well,” said Mason. “The devil of a star-king you'd have made, when you give up this easily."</p>
+   <p>Garr raised his massive head and a leaping flame of rage was in his tawny eyes. He half-raised his weapon, and then his expression changed and he looked at Mason with narrowed eyes.</p>
+   <p>"We're nearer that dead planet than the Orionid cruisers are, by a long way,” said Mason. “We've almost as many armed ships here as they have. We could give them enough fight to hold them up while we take off Ryll Emrys and destroy his apparatus so they can't get it."</p>
+   <p>Mason felt that it was a desperate gamble, but if it succeeded he might be able still to get Ryll Emrys away from the Marches and suppress a secret that could rip the galaxy asunder.</p>
+   <p>But Garr Atten was no puppet to be manipulated by any man. His moment of shock and dismay had passed.</p>
+   <p>"We can do better than that,” he said. “Devil's Channel is the only way through the drift to that planet. We can hold them in there long enough for Ryll Emrys to use his apparatus and move the whole planet out of there, hide it deeper in the cluster where they'll never find it."</p>
+   <p>His voice suddenly blared loud. “You've all been spoiling for action. Here's your chance for a belly full of it. If we hit that squadron hard, we save the thing that'll someday make the Marches a free kingdom. How about it?"</p>
+   <p>There was no doubt about it at all, among the human and humanoid captains of the Marches. Their voices rang fierce and instant affirmation.</p>
+   <p>"All right, get your crews together on the double,” said Garr. “I want every ship off here in an hour. Get going!"</p>
+   <p>They got going, with a rush of trampling feet and a yelping like wolves let loose to run.</p>
+   <p>Hoxie looked down at the unconscious V'rann and said, “How about this devil's wench? She's mighty pretty, but so's a snake."</p>
+   <p>"Time enough to deal with her when we get back—if we do,” said Garr. “This ship can't go anywhere with its airlock blasted. Lock her up in a cabin and put a guard outside it."</p>
+   <subtitle>* * * *</subtitle>
+   <p>Mason felt a relief when he saw V'rann, still out cold, tossed into a bunk in—a windowless cabin, and the metal door locked upon her. She might come to later and yell her head off about Brond Holl being a Terran agent, but by that time they'd be gone and the decision would be coming up.</p>
+   <p>Very quickly the whole starport swarmed with cars and trucks and running men and humanoids, and motley women screeching with excitement and fear. Lights flared, and voices bawled orders through talkers, and then finally the takeoff sirens let go in frantic warning and Garr Atten's ship led the way up off the planet.</p>
+   <p>Mason was in the control room with Garr. So was old Hoxie, his face gleaming with vulturine happiness at the prospect of a fight. But there was no happiness in Mason. The chances of beating back a naval squadron did not seem good to him, and even if they did it the power of Ryll Emrys would swiftly become known and would be a prize that half the star-kings in the galaxy would grab for.</p>
+   <p>Twenty-three ships rose up into the green glare of Quroon and swung sharply away. Mason knew there were more ships than that in the Orionid squadron and they were faster and better armed. But he could see no apprehension at all in the grim, battered face of Garr Atten, as he stared through the scanner-window.</p>
+   <p>They were going deeper into the cluster, and a wild glare beat upon them from the close-packed hive of suns. Across the peacock glory of the swarming stars there trailed mighty nebulosities, cosmic folds as vast as the mantle of God, and the constant patchy blurring and streaking of the radar screen showed heavy drift in many places. But the hardy captains of the Marches kept building speed, flying headlong now toward the star-mark of a triplet of glaring white suns.</p>
+   <p>They raced past that triple glory and then turned sharply toward a region of drift so dense that it made ordinary shoals look like clear space. Mason could visually catch the constant sparkling of scintillations all across the firmament, and he knew he saw a wilderness of great and small chunks of debris catching and winking back the starblaze as they danced and rolled and tumbled in the void.</p>
+   <p>"It's a <emphasis>little</emphasis> bit fast for Devil's Channel,” said Hoxie, and Garr spoke back to him without turning.</p>
+   <p>"Don't worry. My pilot knows the Channel. I've been in here a good many times."</p>
+   <p>Mason hoped the pilot knew. All around them the space between the close-clustered suns was webbed thick with the winking points of light and the radar screen showed only one passage, a narrow, winding gut, through the blur of the drift.</p>
+   <p>The ship rushed on, and on the screen showed the blips that were the other ships of their little fleet, running equally fast behind them.</p>
+   <p>"We've beat the Orionids here,” said Garr. “Now to set it up."</p>
+   <p>He had given his orders before they left Quroon, and the ships behind now acted upon them. They decelerated, and started moving toward the drift around them. They were to stop and hover by the drift, where Orionid radar could not spot them, and ambush the squadron when it came through.</p>
+   <p>But Garr Atten's ship did not decelerate. It raced on down the channel at full speed, until it came out of the drift and into open space. Close ahead glowed the dying red fires of an ancient star, and around it swung eleven dim planets. Their pilot cut speed now, and swung in toward the dun-colored world that was innermost.</p>
+   <p>Peering down as they swept in for landing, Mason saw an arid, lifeless landscape. There was nothing but sand and eroded rock and an atmosphere whose winds lifted the dust in little whirls and eddies. Then he saw scattered piles of red stone too symmetrical to be natural.</p>
+   <p>"There hasn't been any life on any of this system's worlds for a long time,” muttered Garr Atten. “But there was life on this one long ago. Humanoid, to judge from the ruins."</p>
+   <p>The ship raced down to a landing. A bitterly cold breath rushed in upon them when the airlock was cracked open.</p>
+   <p>"Not you, we have to move too fast,” said Garr when Hoxie made to follow them.</p>
+   <p>Mason followed the Hydran out onto brown sandy ground, and looked across a vista of infinite desolation. The dying sun peered down upon them and the little winds whimpered and fretted, and the piles of crumbled stone lay in the sad red light like forgotten tombstones.</p>
+   <p>"This way,” said Garr.</p>
+   <p>He led the way, and as they tramped around the ship Mason saw a quarter-mile away in the ruins the loom of a massive truncated cone of red stone. It was massive as a pyramid of old Earth, and carved steps led up to the flat top. On that top rose an incongruously modern square structure of bright metal and glass, and upward and outward from all around it glistening limbs of metal reached in every direction skyward like arms raised in prayer.</p>
+   <p>"Is that it?” said Mason, unable even yet to believe wholly.</p>
+   <p>"That's it,” said Garr. “And hurry!"</p>
+   <p>There was more than one reason to hurry, Mason found out swiftly. The cold, thin air was so poor in oxygen that his nose and throat and lungs began to sear and burn.</p>
+   <p>"It's why we had to build that airproof lab up there for Ryll and the men I gave him to work with him,” said Garr, coughing.</p>
+   <p>They climbed the steps, up the side of the mighty cone of stone, and reached the airlock door of the metal-and-glass cube. They had been noted, and the airlock was open, and quickly they went through it.</p>
+   <p>There was a great, quiet room that was the interior of the whole cube. Around it towered glittering machines that to Mason's eyes looked unfamiliar, and also very puny and small. There was no reactor for power, though he guessed that was in the cone beneath them somewhere. But even though he knew that this thing operated by the simple projection of some radiation that neutralized the force called gravitation, it did not seem to him that these little machines could ever move a world.</p>
+   <p>There were a half-dozen men here waiting for them, and they were of many races, but the foremost of them had the pinkness of an Orionid. And Ryll Emrys did not look like a man who could move a world. He was thin and small and middle-aged, a man who looked as though he had borne a weight too big for him for too long a time and had been crushed by it. There were fear and an old pain in his deep eyes.</p>
+   <p>"What is it, Garr?” he cried, his voice shrill. “You weren't to come back so soon—has something gone wrong? Tell me!"</p>
+   <p>Garr told him. And it seemed to Mason that he saw the foreshadowing of cosmic catastrophe in the agony that came into Ryll Emrys’ eyes.</p>
+   <p>"I knew it would be so,” he whispered, when Garr had finished. “I knew they would hunt until they found me, and that some day the thing I foolishly made would be let loose in war."</p>
+   <p>"They haven't got you yet, and they haven't got <emphasis>this,"</emphasis> said Garr forcefully, striking his fist against one of the shining machines. “You can move this planet, Ryll. Move it! Take it away from here, deeper into the cluster, while we stop that squadron."</p>
+   <p>Ryll Emrys looked at him with haunted eyes. “It'll do no good. The kings of the galaxy will never rest until they have this secret."</p>
+   <p>"We can stop them from getting it,” Garr said. “That's in the future. Right now you must move the planet away from here, in case some of the Orionids get by us. You're space-proof in here, and leaving the sun won't bother you."</p>
+   <p>Ryll Emrys turned away from them, and walked past his staring, silent assistants, and then came back. His face was tragic but he spoke calmly.</p>
+   <p>"I brought those ships into the Marches to destroy you, Garr. Whatever you want, I'll do. I'll take the planet away."</p>
+   <p>"Take it fast!” said Garr. “We'll be back later—if we're alive."</p>
+   <p>He turned and Mason followed him out into the bitter, rasping air again. They ran down the side of the great cone, and toward the ship.</p>
+   <p>Within minutes, the ship swung sharply up and away. And looking back, Mason saw that now the great arms of metal that reached skyward from the cone were alive with a throbbing radiance that wove a net of almost invisible light far out across the dead planet.</p>
+   <p>"I don't see it moving any,” muttered Hoxie.</p>
+   <p>"It will,” said Garr. “It's already falling toward the one direction in which gravitation isn't neutralized. Slowly, at first, like any falling thing. But building speed every second—"</p>
+   <p>The ship raced toward the wide, winking haze of the drift, and into the narrow Channel. Now Garr spoke an order, and their speed lessened rapidly until they were hardly moving.</p>
+   <p>Cautiously, the pilot edged the ship toward the drift. And presently the craft was right beside the mighty field of tiny to massive chunks of debris that wheeled forever here. To the radar of oncoming ships, their craft could not be distinguished from the drift.</p>
+   <p>They waited, as the ships of the captains of the Marches were waiting all along the sides of the Channel.</p>
+   <p>It seemed to Mason that they waited for several eternities, before the pilot silently pointed to the big radar screen.</p>
+   <p>Garr Atten, his face as expressionless as bronze, nodded. He picked up the mike that would take his voice to the communic room and from it to all his other ships. He said, “Hit them."</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>CHAPTER VII</p>
+   </title>
+   <empty-line/>
+   <p>THEY HIT THEM. From all the outlaw ships clinging along the edges of the drift, the faster-than-light missiles sped up the Channel toward the oncoming Orionid squadron.</p>
+   <p>Mason, staring tensely that way with Garr and old Hoxie, glimpsed a far crackling of sudden little points of white light that shone out briefly against the winking haze of the drift, and then were gone.</p>
+   <p>"By Heaven, we got a quarter of ‘em!” yelled Hoxie, his voice cracking.</p>
+   <p>In the radar screen, a half dozen of the oncoming blips that were the cruisers of Orion had suddenly vanished. The other blips were slowing down in the channel, starting to turn and swing into as dispersed formation as was possible.</p>
+   <p>Mason thought that the Orionid commander had been coming too slowly. At high speed he might have run the squadron through the gauntlet of outlaw ships, and taken his losses, but his cautious slowness in navigating the Channel had worked against him.</p>
+   <p>"Keep firing, and work toward them along the edge of the drift!” Garr shouted into his mike. “Press up the Channel!"</p>
+   <p>The Orionids were at a bad disadvantage. They were out in the open space of the Channel where radar could easily spot them, while the outlaw ships were hard to separate by radar from the blurred jumble of the drift.</p>
+   <p>Two more of the Orionid ships vanished in distant flares. Then suddenly, on the radar, the blips ceased forming up in the Channel, and instead moved fast toward the jumbled blur that was the drift.</p>
+   <p>"They're going to try to break past us through the drift!” Mason warned.</p>
+   <p>Garr nodded grimly. “They'll wish they hadn't. So will some of us. But we know more about flying the drift than they do."</p>
+   <p>He spoke sharply into his mike. Streaking down and across Devil's Channel came the ships of the Marches, and with Garr's ship leading a loose formation they left the-Channel and plunged into the drift.</p>
+   <p>By ordinary star-ship standards both outlaws and Orionids were now moving at a mere crawl, the tiniest fraction of light-speed. No higher speed was possible in the drift. Yet even so, the sight that met Mason's eyes as he peered through the windows was appalling.</p>
+   <p>Jagged hunks of metal and stone and nameless cosmic debris as big as houses rushed past them, and swarms of smaller particles that ranged down from pebbles to sandgrains. The pilot played his controls like a frenetic musician, dancing the ship this way and that through the whirling maze. The radar was a useless blur and alarm signals kept screaming of imminent danger like hysterical old women. And still Garr's ship pressed forward, with the other captains of the Marches following, to intercept the Orionid cruisers that were trying to shortcut through this maze.</p>
+   <p>A long metal bulk loomed up ahead, running toward them through the rivers of stone, and Garr yelled coordinates into the intercom and the missiles leaped from the launchers below. But the Orionid cruiser had seen them, it veered simultaneously in evasive action.</p>
+   <p>It veered regardless of the drift that was more deadly than any missile, and a rolling, tumbling swarm of jagged stone slashed through it and sent it reeling away, a twisted wreck.</p>
+   <p>"Grab onto them and pound them!” Garr bellowed into the mike, and the long ships of the Marches leaped through the deadly labyrinth like hounds through a jungle.</p>
+   <p>Mason had seen star-ships in action before, and had served in one of them, but he had never seen anything like this. In here, where radar and target-trackers were useless, ships fought each other by visual contact in close combat, dodging through the swirling debris and attacking each other, and dodging and hitting again.</p>
+   <p>The men of the Marches of Outer Space had had to dodge and hide in the drift more than once in their lives. They knew this kind of crazy flying better than any conventional navy could, and it was their one big advantage over the faster and more heavily armed Orionid ships. Out in open space the squadron of Orion would blow them to atoms before they could close the range, but here in the drift it was different.</p>
+   <p>All around them deadly flares burst and died. Most missiles launched by either side missed and exploded against some chunk of debris, but here and there a ship vanished in a radiant halo. Mason saw two of the outlaw ships go like that, but five Orionids had gone and still the men of the Marches fought and dodged and fought again.</p>
+   <p>Old Hoxie was yelling and swearing in a high, shrill voice, and he began to crow in triumph.</p>
+   <p>"We're giving them a belly full! They wanted to fight in the drift and they're damned well getting more than they wanted—"</p>
+   <p>Mason saw that it was true enough for now the Orionid cruisers were falling back, trying to withdraw from the drift but getting hit harder and harder. Then he heard the communic suddenly squawking.</p>
+   <p>Garr Atten, who had been bellowing his orders into the intercom, turned and roared at Hoxie.</p>
+   <p>"Shut up! I can't hear the communic and someone's calling—"</p>
+   <p>Hoxie shut up and they heard the slurred, heavy voice of Shaa of Rigel shouting from his ship somewhere in the maze.</p>
+   <p>"Garr, I've been trying to reach you! One of the Orion cruisers broke out of the fight and slipped away west through the drift. I've been fighting two others and couldn't turn to follow."</p>
+   <p>Garr's dripping face flashed with alarm. He yelled into the mike, “Keep hammering them, you've got them on the run! But one has got through and I'm going after him!"</p>
+   <p>He swung around to the pilot. The man had overheard and was already bringing the ship around fast. He zigzagged it through the drift until they broke into Devil's Channel again.</p>
+   <p>Mason's eyes and Garr's clung to the radar screen. The channel was empty of blips.</p>
+   <p>"That cruiser's on its way to Ryll Emrys’ planet!” Garr cried, “We've got to catch it."</p>
+   <p>The ship streaked down the Channel westward, building up to milli-light-speeds on the highest scale of acceleration. But Mason knew that an Orionid navel cruiser was far faster, and it had a start, and had Janissar of Orion and V'rann won after all?</p>
+   <p>They burst out of the Channel, and rushed through open space toward the dying red sun. The radar showed no ship anywhere and the agony on Garr's face deepened. And then as they raced closer, old Hoxie pointed a trembling hand and quavered,</p>
+   <p>"Good God, look at that! Look—"</p>
+   <p>They were all looking, and a cold awe and dread fell upon Mason as he saw a thing no man had ever seen before.</p>
+   <p>The dun-colored planet that had been the innermost world had moved out of its orbit during all this time. It was riding majestically outward in a tangent, and would soon cut across the orbit of the second planet a little ahead of that second dead world.</p>
+   <p>A secret of nature had been found by a questing mind, and a power had been unloosed, and now a man was charioteering a planet. And in front of Mason loomed the terrible foreshadowing of the things to come when that power should be loosed by the star-kings in galactic war.</p>
+   <p>"They've already landed!” Garr was shouting. ‘Their ship will be near the tower—all batteries ready but for God's sake don't hit the tower!"</p>
+   <p>They swooped past the icy second world toward the dun planet that had gone rogue. With a scream the atmosphere went past them as they decelerated, and then beneath them were the desert and the crumbling stones and the looming cone with its uplifted metal arms spraying forth the eerie radiance that controlled the movement of this world.</p>
+   <p>An Orionid ship was trying to get off the ground a mile from the tower, trying to avoid getting caught flatfooted. It started to roll as it rose upward, to bring its missile-launching batteries into play in quick rotation. But it was too late, Garr's ship had already loosed its missiles and the Orionid cruiser was smothered in bursting flares. The flares died, and only bits of wreckage fell to the ground.</p>
+   <p>They dropped fast to a landing near the tower, and Mason followed Garr as the big Hydran ran down to the airlock. He was shouting,</p>
+   <p>"They'll have men in the tower—all hands out!"</p>
+   <p>They burst out into the cold, searing air, and ran toward the tower. Up there on the flat top of the cone, in front of the glass-and-metal cube that was Ryll Emrys’ laboratory, uniformed men ran out and fired down at them.</p>
+   <p>The small missiles burst amid them like brilliant, dancing will-of-the-wisps, and men went down in scorched heaps. Mason had his own gun out and shot upward and so did others. And Orionids fell, up there.</p>
+   <p>"No shooting!” yelled Garr Atten, in an agony of apprehension. “If Ryll and his machines are destroyed, we've lost everything!"</p>
+   <p>They went on up in a run. The airlock door of the cube-shaped laboratory had already been forced open by the men of Orion and now they could not close it. Garr and Mason and their followers went in with a rush.</p>
+   <subtitle>* * * *</subtitle>
+   <p>The great room was strewn with bodies. The men who had worked for Ryll Emrys here lay dead about it, and they had not been killed by missiles but by the knives and metal bars that were held by the uniformed Orionids in the room.</p>
+   <p>"No shooting!” Garr shouted again as they closed in.</p>
+   <p>Mason had seen that in a far corner of the room an Orionid officer was stooping over Ryll Emrys, who sat in a corner and did not move.</p>
+   <p>Trying to reach him, Mason slugged with the barrel of his gun, and felt the blade of a knife graze like hot iron along his shoulder.</p>
+   <p>The room, the very focus and shrine of the most super-modern science of the galaxy, was being fought in with the most primitive of weapons because neither outlaws nor Orionids dared take the chance of destroying the things around them.</p>
+   <p>Mason glimpsed Garr going down as a metal bar cracked across the side of his head. The officer had left Ryll Emrys and was running into the melee, shouting to his men, and without a leader the outlaws were wavering.</p>
+   <p>Mason levelled his weapon. He was the one man of them who was not afraid of destroying the machines around them, who wanted those machines destroyed before they tore the galaxy in twain. He shot, and shot.</p>
+   <p>His tiny missiles sent dancing death-stars amid the Orionids, and the uniformed men, unable to stand before the weapon and forbidden to reply to it in kind, broke and ran for the door.</p>
+   <p>Mason started out after them and then he saw the Orionids had their hands raised in surrender.</p>
+   <p>"Take them to the ship and tie them up,” Mason told Garr's men. “There comes Hoxie—he'll take charge."</p>
+   <p>He ran back into the laboratory. He bent first over Garr Atten. The Hydran's skull was tough or he would have been a dead man. He would be unconscious for a while, but Mason thought he would come out of it.</p>
+   <p>He ran on to Ryll Emrys. Ryll was conscious, and looked up at him with a fixed, shadowed gaze. He had a deep knife-wound in his breast, and it had been this wound that the Orionid officer had been trying to bandage when the fight started.</p>
+   <p>"When they came in and killed my men,” Ryll whispered to Mason, “I ran into the fight. They didn't want to kill me. But you have."</p>
+   <p>Mason knew they had, for with that wound Ryll Emrys could not live. He thought that the scientist had deliberately sought death as a way out of his problem.</p>
+   <p>"Is Garr dead?” whispered the scientist.</p>
+   <p><emphasis>"N</emphasis>o,” said Mason. “He got a bad blow, but he'll be all right."</p>
+   <p>"He was my friend,” said Ryll Emrys. “I brought him only trouble. And now he will take and use this thing I built, and in the end it will bring him and all the galaxy destruction and disaster."</p>
+   <p>Mason bent lower. “Listen, Ryll. You don't have to worry about that. I'm going to do my best to destroy this whole installation. I'm a Terran agent, and the Terran Empire doesn't want this thing loose either."</p>
+   <p>Hope flared up in Ryll Emrys’ darkening gaze, like a dying flame. “If you do that, you'll prevent me leaving a terrible legacy to men! For the secret will die with me, if the apparatus is totally d—"</p>
+   <p>He broke off, and then said, “No, you could not destroy it utterly. Even from fragments, men might piece it together again. But I can annihilate it completely. Take me to the control panel."</p>
+   <p>Mason lifted and supported the man, and felt him dying in his grasp as he helped him to the great panel of incomprehensible controls and meters. Yet a fierce purpose nerved Ryll Emrys, and one by one he named the controls and told Mason how to change their settings.</p>
+   <p>He was silent then, sagging in Mason's grasp but still watching the great banks of indicators. Finally he whispered, ‘It's done. This world will not now cross in front of the second planet. It is on a collision course. Take Garr and leave quickly."</p>
+   <p>Mason carried him to a chair. But Ryll Emrys was already dead.</p>
+   <p>He went over to Garr and got the massive figure of the unconscious Hydran on his shoulder. Staggering from the weight, and with the air rasping his lungs more and more, he went out of the room of death into the sad red daylight.</p>
+   <p>Hoxie and two of Garr's men were coming up the side of the cone toward him. The two men took Garr, and Hoxie asked, “Ryll Emrys?"</p>
+   <p>"Dead,” said Mason. “And we'll all be if we don't get off soon. Ryll set the controls to put this planet on collision course."</p>
+   <p>Appalled, Hoxie looked skyward.</p>
+   <p>And up there in the sky the second planet gleamed like a brightening moon.</p>
+   <p>The old Terran yelled with terror in his voice. “Hurry, then!"</p>
+   <subtitle>* * * *</subtitle>
+   <p>A half hour later their ship rose up fast and raced away from a planet that was moving doom ward.</p>
+   <p>Mason and Hoxie and others of the crew looked down at the dun-brown planet that now was moving on a changed tangential path, toward the second planet.</p>
+   <p>Shaa's voice came from the cornmunic. “Garr, we sent the last of the Orionids flying! Only six of them left—but we lost five."</p>
+   <p>Mason answered. “Garr's out of action, but he'll come round soon. Brond Holl speaking. Join us, but don't go near that planet."</p>
+   <p>The ships drew together, and poised in space, and the men in them looked down in an awed silence as the dun-colored world and the brighter one slowly converged.</p>
+   <p>The two planets met.</p>
+   <p>Burst asunder, riven and shattered, they reeled in a fiery, unstable mass. And then the mass slowly broke into crumbling fragments, and soon a great new swarm of cosmic debris moved in a new orbit around the dying sun, and two lifeless worlds had perished.</p>
+   <p>And Ryll Emrys and his secret had perished, and Mason hoped it was forever. But the strongest trait of the sons of Adam was the insatiable curiosity that had taken them from old Earth to the stars. Would that curiosity unlock again someday the door just closed?</p>
+   <p>Old Hoxie sighed. “Well, that's that. And we might as well all go home."</p>
+   <p>As the outlaw ships flew back through the Channel, and out of the drift toward Quroon, Mason locked himself into the communic room. He sent coded messages far away, and presently the answers came.</p>
+   <p>By the time he came out of there, they were running down on Quroon. Hoxie told him, “Garr's come out of it."</p>
+   <p>Mason went and found Garr Atten sitting in his cabin, a bandage around his head and a stony look on his face. He looked up at Mason and said, “So Ryll and his work are gone. And our chance for a free kingdom with him. Well, we did our best."</p>
+   <p>Mason told him, “I said before that you give up too easily, Garr. There's still a chance—just a chance, mind you—that we'll see the Kingdom of the Marches set up after all."</p>
+   <p>Garr Atten said sourly, “It's nice of you to try to cheer me up, Brond, but don't be a damn fool."</p>
+   <p>"Listen, Garr,” said Mason.</p>
+   <p>"Orion may not be at all convinced that Ryll's secret has really perished. They're extremely likely to move in and try to take the whole Marches by forced annexation, to find out. If they do, the border starlings will declare war at once, to stop them."</p>
+   <p>Garr nodded. “It's liable to happen so. And precious little comfort for us there'll be in that."</p>
+   <p>"I've been talking with some Terran Empire officials,” Mason said. “They agree with me that a crisis like that can be averted, if an independent kingdom is set up in the Marches. Terra would recognize such a kingdom and guarantee its frontiers—and neither Janissar of Orion or the lesser star-kings would dare bother the Marches then."</p>
+   <p>Garr Atten had listened with growing amazement, and now he got to his feet.</p>
+   <p>"They're going to decide fast back at Sol, and they'll let me know as soon as the Council has met,” concluded Mason.</p>
+   <p>"They'll let <emphasis>you</emphasis> know! You've been talking to the Terran Empire officials!” burst out Garr. “Why, you're—"</p>
+   <p>"I'm not Brond Holl, Garr,” said Mason. “I'm a Terran agent."</p>
+   <subtitle>* * * *</subtitle>
+   <p>Only three days later the word came to Quroon. It came to Mason, waiting in the communic room of Garr's ship. He went out of the ship at once and drove through the green blazing sunlight to Quroon City, and walked into the big drinking-place where Garr and his remaining captains waited.</p>
+   <p>Garr would not ask the question, but Hoxie said eagerly, “Well, what's the word?"</p>
+   <p>Mason smiled. “Two hours ago, by formal Council vote, the Terran Empire recognized the new Kingdom of the Marches of Outer Space. As soon as the usual plebiscite here indicates that the people here want it so, Garr Atten will be recognized as lawful sovereign."</p>
+   <p>He got no farther than that, for the roar that went up from the outlaw captains drowned his voice.</p>
+   <p>Mason thought of the first time he had seen Garr Atten, dreaming of kingship in this tavern drinking-room, and of how a man's dreams could come true in strange ways.</p>
+   <p>Later, Mason said to Garr, “I'll be leaving soon—I want my own face back. But what about V'rann?"</p>
+   <p>Garr raised his voice for them all to hear and said sternly, “We'll have laws here now, and people will obey them. She instigated attempted murder and she'll do a sentence for it in prison here before she goes back to Orion."</p>
+   <p>Hoxie groaned. “That's it—that's the last straw. A <emphasis>prison</emphasis> here at Quroon!</p>
+   <empty-line/>
+   <p>THE END</p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="_0.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEASABIAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRy
+UkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA
+9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAABFjcHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAA
+ABRyWFlaAAACGAAAABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRk
+AAACxAAAAIh2dWVkAAADTAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAA
+ACR0ZWNoAAAEMAAAAAxyVFJDAAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0
+AAAAAENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAA
+AAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAA
+AAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQ
+WFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z2Rlc2MAAAAAAAAAFklF
+QyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZXNjAAAAAAAA
+AC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAAAAAA
+AAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdpbmcgQ29uZGl0
+aW9uIGluIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRp
+dGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXcAAAAA
+ABOk/gAUXy4AEM8UAAPtzAAEEwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAAVx/nbWVhcwAA
+AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3VydgAAAAAAAAQA
+AAAABQAKAA8AFAAZAB4AIwAoAC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgAbQByAHcAfACB
+AIYAiwCQAJUAmgCfAKQAqQCuALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA9gD7AQEBBwEN
+ARMBGQEfASUBKwEyATgBPgFFAUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEBqQGxAbkBwQHJ
+AdEB2QHhAekB8gH6AgMCDAIUAh0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4CmAKiAqwCtgLB
+AssC1QLgAusC9QMAAwsDFgMhAy0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oDxwPTA+AD7AP5
+BAYEEwQgBC0EOwRIBFUEYwRxBH4EjASaBKgEtgTEBNME4QTwBP4FDQUcBSsFOgVJBVgFZwV3
+BYYFlgWmBbUFxQXVBeUF9gYGBhYGJwY3BkgGWQZqBnsGjAadBq8GwAbRBuMG9QcHBxkHKwc9
+B08HYQd0B4YHmQesB78H0gflB/gICwgfCDIIRghaCG4IggiWCKoIvgjSCOcI+wkQCSUJOglP
+CWQJeQmPCaQJugnPCeUJ+woRCicKPQpUCmoKgQqYCq4KxQrcCvMLCwsiCzkLUQtpC4ALmAuw
+C8gL4Qv5DBIMKgxDDFwMdQyODKcMwAzZDPMNDQ0mDUANWg10DY4NqQ3DDd4N+A4TDi4OSQ5k
+Dn8Omw62DtIO7g8JDyUPQQ9eD3oPlg+zD88P7BAJECYQQxBhEH4QmxC5ENcQ9RETETERTxFt
+EYwRqhHJEegSBxImEkUSZBKEEqMSwxLjEwMTIxNDE2MTgxOkE8UT5RQGFCcUSRRqFIsUrRTO
+FPAVEhU0FVYVeBWbFb0V4BYDFiYWSRZsFo8WshbWFvoXHRdBF2UXiReuF9IX9xgbGEAYZRiK
+GK8Y1Rj6GSAZRRlrGZEZtxndGgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9ocAhwqHFIcexyj
+HMwc9R0eHUcdcB2ZHcMd7B4WHkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEgbCCYIMQg8CEc
+IUghdSGhIc4h+yInIlUigiKvIt0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQklOCVoJZclxyX3
+JicmVyaHJrcm6CcYJ0kneierJ9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUqaCqbKs8rAis2
+K2krnSvRLAUsOSxuLKIs1y0MLUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv/jA1MGwwpDDb
+MRIxSjGCMbox8jIqMmMymzLUMw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1/TY3NnI2rjbp
+NyQ3YDecN9c4FDhQOIw4yDkFOUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8ZTykPOM9Ij1h
+PaE94D4gPmA+oD7gPyE/YT+iP+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdDOkN9Q8BEA0RH
+RIpEzkUSRVVFmkXeRiJGZ0arRvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdKfUrESwxLU0ua
+S+JMKkxyTLpNAk1KTZNN3E4lTm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZSMVJ8UsdTE1Nf
+U6pT9lRCVI9U21UoVXVVwlYPVlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4WgdaVlqmWvVbRVuV
+W+VcNVyGXNZdJ114XcleGl5sXr1fD19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi8GNDY5dj62RA
+ZJRk6WU9ZZJl52Y9ZpJm6Gc9Z5Nn6Wg/aJZo7GlDaZpp8WpIap9q92tPa6dr/2xXbK9tCG1g
+bbluEm5rbsRvHm94b9FwK3CGcOBxOnGVcfByS3KmcwFzXXO4dBR0cHTMdSh1hXXhdj52m3b4
+d1Z3s3gReG54zHkqeYl553pGeqV7BHtje8J8IXyBfOF9QX2hfgF+Yn7CfyN/hH/lgEeAqIEK
+gWuBzYIwgpKC9INXg7qEHYSAhOOFR4Wrhg6GcobXhzuHn4gEiGmIzokziZmJ/opkisqLMIuW
+i/yMY4zKjTGNmI3/jmaOzo82j56QBpBukNaRP5GokhGSepLjk02TtpQglIqU9JVflcmWNJaf
+lwqXdZfgmEyYuJkkmZCZ/JpomtWbQpuvnByciZz3nWSd0p5Anq6fHZ+Ln/qgaaDYoUehtqIm
+opajBqN2o+akVqTHpTilqaYapoum/adup+CoUqjEqTepqaocqo+rAqt1q+msXKzQrUStuK4t
+rqGvFq+LsACwdbDqsWCx1rJLssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm40blKucK6O7q1
+uy67p7whvJu9Fb2Pvgq+hL7/v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvFyMZGxsPHQce/
+yD3IvMk6ybnKOMq3yzbLtsw1zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHTRNPG1EnUy9VO
+1dHWVdbY11zX4Nhk2OjZbNnx2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3hROHM4lPi2+Nj
+4+vkc+T85YTmDeaW5x/nqegy6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070DvzPBY8OXxcvH/
+8ozzGfOn9DT0wvVQ9d72bfb794r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+3P9t////2wBD
+ABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKB
+TmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8
+fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAKoAf4DASIAAhEBAxEB/8QAGwAAAQUB
+AQAAAAAAAAAAAAAAAQACAwQFBgf/xABREAABAwMDAQUEBwUDCgQEBgMBAAIDBBEhBRIxQQYT
+IlFhFDJxgSNCkaGxwdEVM1Jy8DRi4RYkNUNTc4KSsvElNmOjg6Kz4iY3RFRlwidH0v/EABoB
+AQEBAQEBAQAAAAAAAAAAAAABAgMEBQb/xAAwEQEAAgIBAwIFAwQCAwEAAAAAAQIDEQQSITET
+QQUUIjJRM2FxFSM0gVLhQpHB8P/aAAwDAQACEQMRAD8A49IJfHlEqgukcWgOddo4CQ9FMZ4j
+S933I3399QBAUNtkLpG+EAKI6XSsncIHRFod4m3Ca6251uEvuScPkoGngI+qB+5G2FQmkX8Q
+wrdQ+mLGd0zaeqqtYXEAcpOjLHZ5QSeHvS4e6hI5p93lRA2uj5FAR1uiD0Tb345T4WOll2xt
+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</binary>
+</FictionBook>

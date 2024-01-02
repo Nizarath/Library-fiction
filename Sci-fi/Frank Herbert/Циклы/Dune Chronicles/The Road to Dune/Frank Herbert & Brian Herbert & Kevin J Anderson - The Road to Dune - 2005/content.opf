@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Macmillan</dc:publisher>
+    <dc:description>&lt;p class="description"&gt;SUMMARY:&lt;br&gt;Frank Herbert's Duneis widely known as the science fiction equivalent of The Lord of the Rings.Now The Road to Duneis a companion work comparable to The Silmarillion,shedding light on and following the remarkable development of the bestselling science fiction novel of all time. In this fascinating volume, the world's millions of Dunefans can read--at long last--the unpublished chapters and scenes from Duneand Dune Messiah. The Road to Dunealso includes some of the original correspondence between Frank Herbert and famed editor John W. Campbell, Jr., along with other correspondence during Herbert's years-long struggle to get his innovative work published, and the article "They Stopped the Moving Sands," Herbert's original inspiration for Dune. The Road to Dunealso features newly discovered papers and manuscripts of Frank Herbert, and Spice Planet,an original novel by Brian Herbert and Kevin J. Anderson, based on a detailed outline left by Frank Herbert. The Road to Duneis a treasure trove of essays, articles, and fiction that every reader of Dunewill want to add to their shelf.&lt;/p&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Herbert, Brian; Anderson, Kevin J.; Herbert, Frank" opf:role="aut">Herbert, Brian; Anderson, Kevin J.; Herbert, Frank</dc:creator>
+    <meta name="calibre:timestamp" content="2011-03-15T19:51:06.674000+00:00"/>
+    <dc:title>Road to Dune</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2006-08-29T07:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.48) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9780765353702</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">292e9ff6-c0e7-45c1-b514-0749aba76c96</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="Road_to_Dune.html" id="id1" media-type="application/xhtml+xml"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="images/calibre_cover.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="images/calibre_cover.jpg" type="cover" title="Cover"/>
+    <reference href="Road_to_Dune.html#filepos1016596" type="copyright-page" title="Copyright Page"/>
+    <reference href="Road_to_Dune.html#filepos1025054" type="toc" title="Table of Contents"/>
+    <reference href="Road_to_Dune.html#filepos3409" type="title-page" title="Title Page"/>
+  </guide>
+</package>

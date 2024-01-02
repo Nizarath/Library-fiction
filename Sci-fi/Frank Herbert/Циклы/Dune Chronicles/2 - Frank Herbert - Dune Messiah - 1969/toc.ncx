@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="6214e1df-f927-4c1f-83a5-2d8740f7dfca" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dune Messiah</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="ff0ced10-7044-4efe-9789-c82bffcd6a7d" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="Dune_Messiah.html#filepos3993"/>
+    </navPoint>
+    <navPoint class="chapter" id="f7ec2064-1e8a-4589-b270-58173eea4753" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="Dune_Messiah.html#filepos4115"/>
+    </navPoint>
+    <navPoint class="chapter" id="fa6a5889-b625-4cf0-8d2e-1cfa0198c9b6" playOrder="3">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="Dune_Messiah.html#filepos7403"/>
+    </navPoint>
+    <navPoint class="chapter" id="56e29f51-6f83-4048-a1fd-606a5c980704" playOrder="4">
+      <navLabel>
+        <text>EPILOGUE</text>
+      </navLabel>
+      <content src="Dune_Messiah.html#filepos678447"/>
+    </navPoint>
+  </navMap>
+</ncx>

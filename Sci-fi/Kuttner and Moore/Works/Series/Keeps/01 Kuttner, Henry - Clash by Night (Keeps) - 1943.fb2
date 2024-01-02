@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Henry</first-name>
+    <last-name>Kuttner</last-name>
+   </author>
+   <book-title>Clash By Night</book-title>
+   <date></date>
+   <lang>en</lang>
+   <sequence name="Keeps" number="1"/>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 2.71.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2016-11-17">17.11.2016</date>
+   <id>cefcdcb4-8169-42b1-86e0-9699147df269</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>CLASH BY NIGHT</p>
+   <p>Lewis Padgett</p>
+   <p>(Henry Kuttner &amp; Catherine L. Moore)</p>
+  </title>
+  <section>
+   <p>The whole system of which he was a part was doomed, he knew - a mercenary army that fought other mercenary armies for cities that lay beneath Ihe seas of Venus. Yet - there was a fascination and a reasonless loyalty to that futile system that held him.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>INTRODUCTION</p>
+   </title>
+   <empty-line/>
+   <p>A half mile beneath the shallow Venusian Sea the black impervium dome that protects Montana Keep rests frowningly on the bottom. Within the Keep is carnival, for the Montanans celebrate the four-hundred-year anniversary of Earthman's landing on Venus. Under the great dome that houses the city all is light and colour and gaiety. Masked men and women, bright in celoflex and silks, wander through the broad streets, laughing, drinking the strong native wines of Venus. The sea bottom has been combed, like the hydroponic tanks, for rare delicacies to grace the tables of the nobles.</p>
+   <p>Through the festival grim shadows stalk, men whose faces mark them unmistakably as members of a Free Company. Their finery cannot disguise that stamp, hard-won through years of battle. Under the domino masks their mouths are hard and harsh. Unlike the undersea dwellers, their skins are burned black with the ultraviolet rays that filter through the cloud layer of Venus. They are skeletons at the feast.</p>
+   <p>They are respected but resented. They are Free Companions . . .</p>
+   <p>We are on Venus, nine hundred years ago, beneath the Sea of Shoals, not much north of the equator. But there is a wide range in time and space. All over the cloud planet the underwater Keeps are dotted, and life will not change for many centuries. Looking back, as we do now, from the civilized days of the Thirty-fourth Century, it is too easy to regard the men of the Keeps as savages, groping, stupid and brutal. The Free Companies have long since vanished. The islands and continents of Venus have been tamed, and there is no war.</p>
+   <p>But in periods of transition, of desperate rivalry, there is always war. The Keeps fought among themselves, each striving to draw the fangs of the others by depriving them of their reserves of korium, the power source of the day. Students of that era find pleasure in sifting the legends and winnowing out the basic social and geopolitical truths. It is fairly well known that only one factor saved the Keeps from annihilating one another - the gentlemen's agreement that left war to the warriors, and allowed the undersea cities to develop their science and social cultures. That particular compromise was, perhaps, inevitable. And it caused the organization of the Free Companies, the roving bands of mercenaries, highly trained for their duties, who hired themselves out to fight for whatever Keeps were attacked or wished to attack.</p>
+   <p>Ap Towrn, in his monumental 'Cycle of Venus,' tells the saga through symbolic legends. Many historians have recorded the sober truth, which unfortunately seems often Mars-dry. But it is not generally realized that the Free Companions were almost directly responsible for our present high culture. War, because of them, was not permitted to usurp the place of peace-time social and scientific work. Fighting was highly specialized, and, because of technical advances, manpower was no longer important. Each band of Free Companions numbered a few thousand, seldom more.</p>
+   <p>It was a strange, lonely life they must have led, shut out from the normal life of the Keeps. They were vestigian but necessary, like the fangs of the marsupians who eventually evolved into Homo sapiens. But without those warriors, the Keeps would have been plunged completely into total war, with fatally destructive results.</p>
+   <p>Harsh, gallant, indomitable, serving the god of battles so that it might be destroyed - working toward their own obliteration - the Free Companies roar down the pages of history, the banner of Mars streaming above them in the misty air of Venus. They were doomed as Tyrannosaur Rex was doomed, and they fought on as he did, serving, in their strange way, the shape of Minerva that stood behind Mars.</p>
+   <p>Now they are gone. We can learn much by studying the place they held in the Undersea Period. For, because of them, civilization rose again to the heights it had once reached on Earth, and far beyond.</p>
+   <p>'These lords shall light the mystery Of mastery or victory, And these ride high in history, But these shall not return.'</p>
+   <p>The Free Companions hold their place in interplanetary literature. They are a legend now, archaic and strange. For they were fighters, and war has gone with unification. But we can understand them a little more than could the people of the Keeps.</p>
+   <p>This story, built on legends and fact, is about a typical warrior of the period- Captain Brian Scott of Doone's Free Companions. He may never have existed-</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>I</p>
+   </title>
+   <cite>
+    <p>O, it's Tommy this, an' Tommy that, an' 'Tommy, go away'; </p>
+    <p>But it's 'Thank you, Mr. Atkins,' when the band begins to play, </p>
+    <p>The band begins to play, my boys, the band begins to play- </p>
+    <p>O, it's 'Thank you, Mr. Atkins,' when the band begins to play.</p>
+    <p>-R. Kipling circa 1900</p>
+   </cite>
+   <p>Scott drank stinging uisqueplus and glowered across the smoky tavern. He was a hard, stocky man, with thick grey-shot brown hair and the scar of an old wound crinkling his chin. He was thirty-odd, looking like the veteran he was, and he had sense enough to wear a plain suit of blue celoflex, rather than the garish silks and rainbow fabrics that were all around him.</p>
+   <p>Outside, through the transparent walls, a laughing throng was carried to and fro along the movable ways. But in the tavern it was silent, except for the low voice of a harpman as he chanted some old ballad, accompanying himself on his complicated instrument. The song came to an end. There was scattered applause, and from the hot-box overhead the blaring music of an orchestra burst out. Instantly the restraint was gone. In the booths and at the bar men and women began to laugh and talk with casual unrestraint. Couples were dancing now.</p>
+   <p>The girl beside Scott, a slim, tan-skinned figure with glossy black ringlets cascading to her shoulders, turned inquiring eyes to him.</p>
+   <p>'Want to, Brian?'</p>
+   <p>Scott's mouth twisted in a wry grimace. 'Suppose so, Jeana. Eh?' He rose, and she came gracefully into his arms. Brian did not dance too well, but what he lacked in practice he made up in integration. Jeana's heart-shaped face, with its high cheekbones and vividly crimson lips, lifted to him.</p>
+   <p>'Forget Bienne. He's just trying to ride you.'</p>
+   <p>Scott glanced toward a distant booth, where two girls sat with a man - Commander Fredric Bienne of the Doones. He was a gaunt, tall, bitter-faced man, his regular features twisted into a perpetual sneer, his eyes sombre under heavy dark brows. He was pointing now, toward the couple on the floor.</p>
+   <p>'I know,' Scott said. 'He's doing it, too. Well, the hell with him. So I'm a captain now and he's still a commander. That's tough. Next time he'll obey orders and not send his ship out of the line, trying to ram.'</p>
+   <p>'That was it, eh?' Jeana asked. 'I wasn't sure. There's plenty of talk.'</p>
+   <p>'There always is. Oh, Bienne's hated me for years. I reciprocate. We simply don't get on together. Never did. Every time I got a promotion, he chewed his nails. Figured he had a longer service record than I had, and deserved to move up faster. But he's too much of an individualist - at the wrong times.'</p>
+   <p>'He's drinking a lot,' Jeana said.</p>
+   <p>'Let him. Three months we've been in Montana Keep. The boys get tired of inaction- being treated like this.' Scott nodded toward the door, where a Free Companion was arguing with the keeper. 'No noncoms allowed in here. Well, the devil with it.'</p>
+   <p>They could not hear the conversation above the hubbub, but its importance was evident. Presently the soldier shrugged, his mouth forming a curse, and departed. A fat man in scarlet silks shouted encouragement.</p>
+   <p>'-want any . . . Companions here!'</p>
+   <p>Scott saw Commander Bienne, his eyes half closed, get up and walk toward the fat man's booth. His shoulder moved in an imperceptible shrug. The hell with civilians, anyhow. Serve the lug right if Bienne smashed his greasy face. And that seemed the probable outcome. For the fat man was accompanied by a girl, and obviously wasn't going to back down, though Bienne, standing too close to him, was saying something insulting, apparently.</p>
+   <p>The auxiliary hot-box snapped some quick syllables, lost in the general tumult. But Scott's trained ear caught the words. He nodded to Jeana, made a significant clicking noise with his tongue, and said, 'This is it.'</p>
+   <p>She, too, had heard. She let Scott go. He headed toward the fat man's booth just in time to see the beginning of a brawl. The civilian, red as a turkey cock, had struck out suddenly, landing purely by accident on Bienne's gaunt cheek. The commander, grinning tightly, stepped back a pace, his fist clenching. Scott caught the other's arm.</p>
+   <p>'Hold it, commander.'</p>
+   <p>Bienne swung around, glaring. 'What business is it of yours? Let-'</p>
+   <p>The fat man, seeing his opponent's attention distracted, acquired more courage and came in swinging. Scott reached past Bienne, planted his open hand in the civilian's face, and pushed hard. The fat man almost fell backward on his table.</p>
+   <p>As he rebounded he saw a gun in Scott's hand. The captain said curtly,'</p>
+   <p>'Tend to your knitting, mister.'</p>
+   <p>The civilian licked his lips, hesitated, and sat down. Under his breath he muttered something about too-damn-cocky Free Companions.</p>
+   <p>Bienne was trying to break free, ready to swing on the captain. Scott bolstered his gun. 'Orders,' he told the other, jerking his head toward the hot-box. 'Get it?'</p>
+   <p>'-mobilization. Doonemen report to headquarters. Captain Scott to Administration. Immediate mobilization-'</p>
+   <p>'Oh,' Bienne said, though he still scowled. 'O.K. I'll take over. There was time for me to take a crack at that louse, though.'</p>
+   <p>'You know what instant mobilization means,' Scott grunted. 'We may have to leave at an instant's notice. Orders, commander.'</p>
+   <p>Bienne saluted halfheartedly and turned away. Scott went back to his own booth. Jeana had already gathered her handbag and gloves and was applying lip juice.</p>
+   <p>She met his eyes calmly enough.</p>
+   <p>'I'll be at the apartment, Brian. Luck.'</p>
+   <p>He kissed her briefly, conscious of a surging excitement at the.prospect of a new venture. Jeana understood his emotion. She gave him a quick, wry smile, touched his hair lightly, and rose. They went out into the gay tumult of the ways.</p>
+   <p>Perfumed wind blew into Scott's face. He wrinkled his nose disgustedly. During carnival seasons the Keeps were less pleasant to the Free Companions than otherwise; they felt more keenly the gulf that lay between them and the undersea dwellers. Scott pushed his way through the crowd and took</p>
+   <p>Jeana across the ways to the centre fast-speed strip. They found seats.</p>
+   <p>At a clover-leaf intersection Scott left the girl, heading toward Administration, the cluster of taller buildings in the city's centre. The technical and political headquarters were centred here, except for the laboratories, which were in the suburbs near the base of the Dome. There were a few small test-domes a mile or so distant from the city, but these were used only for more precarious experiments. Glancing up, Scott was reminded of the catastrophe that had unified science into something like a freemasonry. Above him, hanging without gravity over a central plaza, was the globe of the Earth, half shrouded by the folds of a black plastic pall. In every Keep on Venus there was a similar ever-present reminder of the lost mother planet.</p>
+   <p>Scott's gaze went up farther, to the Dome, as though he could penetrate the impervium and the mile-deep layer of water and the clouded atmosphere to the white star that hung in space, one quarter as brilliant as the Sun. A star -all that remained of Earth, since atomic power had been unleashed there two centuries ago. The scourge had spread like flame, melting continents and levelling mountains. In the libraries there were wire-tape pictorial records of the Holocaust. A religious cult - Men of the New Judgment -had sprung up, and advocated the complete destruction of science; followers of that dogma still existed here and there. But the cult's teeth had been drawn when technicians unified, outlawing experiments with atomic power forever, making use of that force punishable by death, and permitting no one to join their society without taking the Minervan Oath.</p>
+   <p>'-to work for the ultimate good of mankind . . . taking all precaution against harming humanity and science . . . requiring permission from those in authority before undertaking any experiment involving peril to the race ... remembering always the extent of the trust placed in us and remembering forever the death of the mother planet through misuse of knowledge-'</p>
+   <p>The Earth. A strange sort of world it must have been, Scott thought. Sunlight, for one thing, unfiltered by the cloud layer. In the old days, there had been few unexplored areas left on Earth. But here on Venus, where the continents had not yet been conquered - there was no need, of course, since everything necessary to life could be produced under the Domes- here on Venus, there was still a frontier. In the Keeps, a highly specialized social culture. Above the surface, a primeval world, where only the Free Companions had their fortresses and navies- the navies for fighting, the forts to house the technicians who provided the latter-day sinews of war, science instead of money. The Keeps tolerated visits from the Free Companions, but would not offer them headquarters, so violent the feeling, so sharp the schism, in the public mind, between war and cultural progress.</p>
+   <p>Under Scott's feet the sliding way turned into an escalator, carrying him into the Administration Building. He stepped to another way which took him to a lift, and, a moment or two later, was facing the door-curtain bearing the face of President Dane Crosby of Montana Keep.</p>
+   <p>Crosby's voice said, 'Come in, captain,' and Scott brushed through the curtain, finding himself in a medium-sized room with muralled walls and a great window overlooking the city. Crosby, a white-haired, thin figure in blue silks, was at his desk. He looked like a tired old clerk out of Dickens, Scott thought suddenly, entirely undistinguished and ordinary. Yet Crosby was one of the great sociopoliticians on Venus.</p>
+   <p>Cine Rhys, leader of Doone's Free Companions, was sitting in a relaxer, the apparent antithesis of Crosby. All the moisture in Rhys' body seemed to have been sucked out of him years ago by ultraviolet actinic, leaving a mummy of brown leather and whipcord sinew. There was no softness in the man. His smile was a grimace. Muscles lay like wire under the swarthy cheeks.</p>
+   <p>Scott saluted. Rhys waved him to a relaxer. The look of subdued eagerness in the cinc's eyes was significant - an eagle poising himself, smelling blood. Crosby sensed that, and a wry grin showed on his pale face.</p>
+   <p>'Every man to his trade,' he remarked, semi-ironically. Tsuppose I'd be bored stiff if I had too long a vacation. But you'll have quite a battle on your hands this time. Cine Rhys.'</p>
+   <p>Scott's stocky body tensed automatically. Rhys glanced at him.</p>
+   <p>'Virginia Keep is attacking, captain. They've hired the Helldivers - Flynn's outfit.'</p>
+   <p>There was a pause. Both Free Companions were anxious to discuss the angles, but unwilling to do so in the presence of a civilian, even the president of Montana Keep. Crosby rose.</p>
+   <p>'The money settlement's satisfactory, then?'</p>
+   <p>Rhys nodded. 'Yes, that's all right. I expect the battle will take place in a couple of days. In the neighbourhood of Venus Deep, at a rough guess.'</p>
+   <p>'Good. I've a favour to ask, so if you'll excuse me for a few minutes, I'll-' He left the sentence unfinished and went out through the door-curtain. Rhys offered Scott a cigarette.</p>
+   <p>'You get the implications, captain - the Helldivers?'</p>
+   <p>'Yes, sir. Thanks. We can't do it alone.'</p>
+   <p>'Right. We're short on manpower and armament both. And the Helldivers recently merged with O'Brien's Legion, after O'Brien was killed in that polar scrap. They're a strong outfit, plenty strong. Then they've got their speciality -submarine attack. I'd say we'll have to use H-plan 7.'</p>
+   <p>Scott closed his eyes, remembering the files. Each Free Company kept up-to-date plans of attack suited to the merits of every other Company of Venus. Frequently revised as new advances were made, as groups merged, and as the balance of power changed on each side, the plans were so detailed that they could be carried into action at literally a moment's notice. H-plan 7, Scott recalled, involved enlisting the aid of the Mob, a small but well-organized band of Free Companions led by Cine Tom Mendez.</p>
+   <p>'Right,' Scott said. 'Can you get him?'</p>
+   <p>'I think so. We haven't agreed yet on the bonus. I've been telaudioing him on a tight beam, but he keeps putting me off - waiting till the last moment, when he can dictate his own terms.'</p>
+   <p>'What's he asking, sir?'</p>
+   <p>'Fifty thousand cash and a fifty per cent cut on the loot.'</p>
+   <p>'I'd say thirty per cent would be about right.'</p>
+   <p>Rhys nodded. 'I've offered him thirty-five. I may send you to his fort-carte blanche. We can get another Company, but Mendez has got beautiful sub-detectors - which would come hi handy against the Helldivers. Maybe I can settle things by audio. If not, you'll have to fly over to Mendez and buy his services, at less than fifty per cent if you can.'</p>
+   <p>Scott rubbed the old scar on his chin with a calloused forefinger. 'Meantime Commander Bienne's in charge of mobilization. When-'</p>
+   <p>'I telaudioed our fort. Air transports are on the way now.'</p>
+   <p>'It'll be quite a scrap,' Scott said, and the eyes of the two men met in perfect understanding. Rhys chuckled drylyx.</p>
+   <p>'And good profits. Virginia Keep has a big supply of korium . . . dunno how much, but plenty.'</p>
+   <p>'What started the fracas this time?'</p>
+   <p>'The usual thing, I suppose,' Rhys said disinterestedly. 'Imperialism. Somebody in Virginia Keep worked out a new plan for annexing the rest of the.Keeps. Same as usual.'</p>
+   <p>They stood up as the door-curtain swung back, admitting President Crosby, another man, and a girl. The man looked young, his boyish face not yet toughened under actinic burn. The girl was lovely in the manner of a plastic figurine, lit from within by vibrant life. Her blonde hair was cropped in the prevalent mode, and her eyes, Scott saw, were an unusual shade of green. She was more than merely pretty -she was instantly exciting.</p>
+   <p>Crosby said, 'My niece, Ilene Kane - and my nephew, Norman Kane.' He performed introductions, and they found seats.</p>
+   <p>'What about drinks?' Ilene suggested. 'This is rather revoltingly formal. The fight hasn't started yet, after all.'</p>
+   <p>Crosby shook his head at her. 'You weren't invited here anyway. Don't try to turn this into a party - there isn't too much time, under the circumstances.'</p>
+   <p>'O.K.,' Ilene murmured. 'I can wait.' She eyed Scott interestedly.</p>
+   <p>Norman Kane broke in. 'I'd like to join Doone's Free Companions, sir. I've already applied, but now that there's a battle coming up, I hate to wait till my application's approved. So I thought-'</p>
+   <p>Crosby looked at Cine Rhys. 'A personal favour, but the decision's up to you. My nephew's a misfit - a romanticist. Never liked the life of a Keep. A year ago he went off and joined Starling's outfit.'</p>
+   <p>Rhys raised an eyebrow. 'That gang? It's not a recommendation, Kane. They're not even classed as Free Companions. More like a band of guerrillas, and entirely without ethics. There've even been rumours they're messing around with atomic power.'</p>
+   <p>Crosby looked startled. 'I hadn't heard that.'</p>
+   <p>'It's no more than a rumour. If it's ever proved, the Free Companions -all of them - will get together and smash Starling in a hurry.'</p>
+   <p>Norman Kane looked slightly uncomfortable. 'I suppose I was rather a fool. But I wanted to get in the fighting game, and Starling's groups appealed to me-'</p>
+   <p>The cine made a sound in his throat. 'They would. Swashbuckling romantics, with no idea of what war means. They've not more than a dozen technicians. And they've no discipline - it's like a pirate outfit. War today, Kane, isn't won by romantic animals dashing at forlorn hopes. The modern soldier is a tactician who knows how to think, integrate, and obey. If you join our Company, you'll have to forget what you learned with Starling.'</p>
+   <p>'Will you take me, sir?'</p>
+   <p>'I think it would be unwise. You need the training course.'</p>
+   <p>'I've had experience-'</p>
+   <p>Crosby said, 'It would be a favour, Cine Rhys, if you'd skip the red tape.</p>
+   <p>I'd appreciate it. Since my nephew wants to be a soldier, I'd much prefer to see him with the Doones.'</p>
+   <p>Rhys shrugged. 'Very well, Captain Scott will give you your orders, Kane. Remember that discipline is vitally important with us.'</p>
+   <p>The boy tried to force back a delighted grin. 'Thank you, sir.'</p>
+   <p>'Captain-'</p>
+   <p>Scott rose and nodded to Kane. They went out together. In the anteroom was a telaudio set, and Scott called the Doone's local headquarters in Montana Keep. An integrator answered, his face looking inquiringly from the screen.</p>
+   <p>'Captain Scott calling, subject induction.'</p>
+   <p>'Yes, sir. Ready to record.'</p>
+   <p>Scott drew Kane forward. Thotosnap this man. He'll report to headquarters immediately. Name, Norman Kane. Enlist him without training course - special orders from Cine Rhys.'</p>
+   <p>'Acknowledged, sir.'</p>
+   <p>Scott broke the connection. Kane couldn't quite repress his grin.</p>
+   <p>'All right,' the captain grunted, a sympathetic gleam in his eyes. 'That fixes it. They'll put you in my command. What's your speciality.'</p>
+   <p>'Flitterboats, sir.'</p>
+   <p>'Good. One more thing. Don't forget what Cine Rhys said, Kane. Discipline is damned important, and you may not have realized that yet. This isn't a cloak-and-sword war. There are no Charges of Light Brigades. No grandstand plays - that stuff went out with the Crusades. Just obey orders, and you'll have no trouble. Good luck.'</p>
+   <p>'Thank you, sir.' Kane saluted and strode out with a perceptible swagger. Scott grinned. The kid would have that knocked out of him pretty soon.</p>
+   <p>A voice at his side made him turn quickly. Ilene Kane was standing there, slim and lovely in her celoflex gown.</p>
+   <p>'You seem pretty human after all, captain,' she said. 'I heard what you told Norman.'</p>
+   <p>Scott shrugged. 'I did that for his own good - and the good of the Company. One man off the beam can cause plenty trouble, Mistress Kane.'</p>
+   <p>'I envy Norman,' she said. 'It must be a fascinating life you lead. I'd like it - for a while. Not for long. I'm one of the useless offshoots of this civilization, not much good for anything. So I've perfected one talent.'</p>
+   <p>'What's that?'</p>
+   <p>'Oh, hedonism, I suppose you'd call it. I enjoy myself. It's not often too boring. But I'm a bit bored now. I'd like to talk to you, captain.'</p>
+   <p>'Well. I'm listening,' Scott said.</p>
+   <p>Ilene Kane made a small grimace. 'Wrong semantic term. I'd like to get inside of you psychologically. But painlessly. Dinner and dancing. Can do?'</p>
+   <p>'There's no time,' Scott told her. 'We may get our orders any moment.' He wasn't sure he wanted to go out with this girl of the Keeps, though there was definitely a subtle fascination for him, an appeal he could not analyse. She typified the most pleasurable part of a world he did not know. The other facets of that world could not impinge on him; geopolitics or nonmilitary science held no appeal, were too alien. But all worlds touch at one point - pleasure. Scott could understand the relaxations of the undersea groups, as he could not understand or feel sympathy for their work or their social impulses.</p>
+   <p>Cine Rhys came through the door-curtain, his eyes narrowed. 'I've some telaudioing to do, captain,' he said. Scott knew what implications the words held: the incipient bargain with Cine Mendez. He nodded.</p>
+   <p>'Yes, sir. Shall I report to headquarters?'</p>
+   <p>Rhys' harsh face seemed to relax suddenly as he looked from Ilene to Scott. 'You're free till dawn. I won't need you till then, but report to me at 6 a.m. No doubt you've a few details to clean up.'</p>
+   <p>'Very well, sir.' Scott watched Rhys go out. The cine had meant Jeana, of course. But Ilene did not know that.</p>
+   <p>'So?' she asked. 'Do I get a turn-down? You might buy me a drink, anyway.'</p>
+   <p>There was plenty of time. Scott said, 'It'll be a pleasure,' and Ilene linked her arm with his. They took the dropper to ground-level.</p>
+   <p>As they came out on one of the ways, Ilene turned her head and caught Scott's glance. 'I forgot something, captain. You may have a previous engagement. I didn't realize-'</p>
+   <p>'There's nothing,' he said. 'Nothing important.'</p>
+   <p>It was true; he felt a mild gratitude toward Jeana at the realization. His relationship with her was the peculiar one rendered advisable by his career. Free-marriage was the word for it; Jeana was neither his wife nor his mistress, but something midway between. The Free Companions had no firmly grounded foundation for social life; in the Keeps they were visitors, and in their coastal forts they were - well, soldiers. One would no more bring a woman to a fort than aboard a ship of the line. So the women of the Free Companions lived in the Keeps, moving from one to another as their men did; and because of the ever-present shadow of death, ties were purposely left loose. Jeana and Scott had been free-married for five years now. Neither made demands on the other. No one expected fidelity of a Free Companion. Soldiers lived under such iron disciplines that when they were released, during the brief peacetimes, the pendulum often swung far in the opposite direction.</p>
+   <p>To Scott, Ilene Kane was a key that might unlock the doors of the Keep - doors that opened to a world of which he was not a part, and which he could not quite understand.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>II</p>
+   </title>
+   <empty-line/>
+   <cite>
+    <p>I, a stranger and afraid </p>
+    <p>In a world I never made.</p>
+    <p>-Housman</p>
+   </cite>
+   <p>There were nuances, Scott found, which he had never known existed. A hedonist hike Ilene devoted her life to such nuances; they were her career. Such minor matters as making the powerful, insipid Moonflower Cocktails more palatable by filtering them through lime-soaked sugar held between the teeth. Scott was a uisqueplus man, having the average soldier's contempt for what he termed hydroponic drinks, but the cocktails Ilene suggested were quite as effective as acrid, burning amber uisqueplus. She taught him, that night, such tricks as pausing between glasses to sniff lightly at happy-gas, to mingle sensual excitement with mental by trying the amusement rides designed to give one the violent physical intoxication of breathless speed. Nuances all, which only a girl with Ilene's background could know. She was not representative of Keep life. As she had said, she was an offshoot, a casual and useless flower on the great vine that struck up inexorably to the skies, its strength in its tough, reaching tendrils - scientists and technicians and sociopoliti-cians. She was doomed in her own way, as Scott was in his. The undersea folk served Minerva; Scott served Mars; and Ilene served Aphrodite - not purely the sexual goddess, but the patron of arts and pleasure. Between Scott and Ilene was the difference between Wagner and Strauss; the difference between crashing chords and tinkling arpeggios. In both was a muted bittersweet sadness, seldom realized by either. But that undertone was brought out by then- contact. The sense of dim hopelessness in each responded to the other.</p>
+   <p>It was carnival, but neither Ilene nor Scott wore masks. Their faces were masks enough, and both had been trained to reserve, though in different ways. Scott's hard mouth kept its tight grimness even when he smiled. And Ilene's smiles came so often that they were meaningless.</p>
+   <p>Through her, Scott was able to understand more of the undersea life than he had ever done before. She was for him a catalyst. A tacit understanding grew between them, not needing words. Both realized that, in the course of progress, they would eventually die out. Mankind tolerated them because that was necessary for a little time. Each responded differently. Scott served Mars; he served actively; and the girl, who was passive, was attracted by the antithesis.</p>
+   <p>Scott's drunkenness struck psychically deep. He did not show it. His stiff silver-brown hair was not disarranged, and his hard, burned face was impassive as ever. But when his brown eyes met Ilene's green ones a spark of- something-met between them.</p>
+   <p>Colour and light and sound. They began to form a pattern now, were not quite meaningless to Scott. They were, long past midnight, sitting in an Olympus, which was a private cosmos. The walls of the room in which they were seemed nonexistent. The gusty tides of grey, faintly luminous clouds seemed to drive chaotically past them, and, dimly, they could hear the muffled screaming of an artificial wind. They had the isolation of the gods.</p>
+   <p>And the Earth was without form, and void; and darkness was upon the face of the deep- That was, of course, the theory of the Olympus rooms. No one existed, no world existed, outside of the chamber; values automatically shifted, and inhibitions seemed absurd.</p>
+   <p>Scott relaxed on a translucent cushion like a cloud. Beside him, Ilene lifted the bit of a happy-gas tube to his nostrils. He shook his head.</p>
+   <p>'Not now, Ilene.'</p>
+   <p>She let the tube slide back into its reel. 'Nor I. Too much of anything is unsatisfactory, Brian. There should always be something imtasted, some anticipation left- You have that. I haven't.'</p>
+   <p>'How?'</p>
+   <p>'Pleasures - well, there's a limit. There's a limit to human endurance. And eventually I build up a resistance psychically, as I do physically, to everything. With you, there's always the last adventure. You never know when death will come. You can't plan. Plans are dull; it's the unexpected that's important.'</p>
+   <p>Scott shook his head slightly. 'Death isn't important either. It's an automatic cancellation of values. Or, rather-'He hesitated, seeking words. 'In this life you can plan, you can work out values, because they're all based on certain conditions. On - let's say - arithmetic. Death is a change to a different plane of conditions, quite unknown. Arithmetical rules don't apply as such to geometry.'</p>
+   <p>'You think death has its rules?'</p>
+   <p>'It may be a lack of rules, Ilene. One lives realizing that life is subject to death; civilization is based on that. That's why civilization concentrates on the race instead of the individual. Social self-preservation.'</p>
+   <p>She looked at him gravely. 'I didn't think a Free Companion could theorize that way.'</p>
+   <p>Scott closed his eyes, relaxing. 'The Keeps know nothing about Free Companions. They don't want to. We're men. Intelligent men. Our techniques are as great as the scientists under the Domes.'</p>
+   <p>'But they work for war.'</p>
+   <p>'War's necessary,' Scott said. 'Now, anyway.'</p>
+   <p>'How did you get into it? Should I ask?'</p>
+   <p>He laughed a little at that. 'Oh, I've no dark secrets in my past. I'm not a runaway murderer. One- drifts. I was born in Australia Keep. My father was a tech, but my grandfather had been a soldier. I guess it was in my blood. I tried various trades and professions. Meaningless. I wanted something that . . . hell, I don't know. Something, maybe that needs all of a man. Fighting does. It's like a religion. Those cultists - Men of the New Judgment - they're fanatics, but you can see that their religion is the only thing that matters to them.'</p>
+   <p>'Bearded, dirty men with twisted minds, though.'</p>
+   <p>'It happens to be a religion based on false premises. There are others, appealing to different types. But religion was too passive for me, in these days.'</p>
+   <p>Ilene examined his harsh face. 'You'd have preferred the church militant- the Knights of Malta, fighting Saracens.'</p>
+   <p>'I suppose. I had no values. Anyhow, I'm a fighter.'</p>
+   <p>'Just how important is it to you? The Free Companions?'</p>
+   <p>Scott opened his eyes and grinned at the girl. He looked unexpectedly boyish.</p>
+   <p>'Damn little, really. It has emotional appeal. Intellectually, I know that it's a huge fake. Always has been. As absurd as the Men of the new Judgment. Fighting's doomed. So we've no real purpose. I suppose most of us know there's no future for the Free Companions. In a few hundred years- well!'</p>
+   <p>'And still you go on. Why? It isn't money.'</p>
+   <p>'No. There is a ... a drunkenness to it. The ancient Norsemen had their berserker madness. We have something similar. To a Dooneman, his group is father, mother, child, and God Almighty. He fights the other Free Companions when he's paid to do so, but he doesn't hate the others. They serve the same toppling idol. And it is toppling, Ilene. Each battle we win or lose brings us closer to the end. We fight to protect the culture that eventually will wipe us out. The Keeps- when they finally unify, will they need a military arm? I can see the trend. If war was an essential part of civilization, each Keep would maintain its own military. But they shut us out- a necessary evil. If they would end war now!' Scott's fist unconsciously clenched. 'So many men would find happier places in Venus- undersea. But as long as the Free Companions exist, there'll be new recruits.'</p>
+   <p>Ilene sipped her cocktail, watching the grey chaos of clouds flow like a tide around them. In the dimly luminous light Scott's face seemed like dark stone, flecks of brightness showing in his eyes. She touched his hand gently.</p>
+   <p>'You're a soldier, Brian. You wouldn't change.'</p>
+   <p>His laugh was intensely bitter. 'Like hell I wouldn't, Mistress Ilene Kane! Do you think fighting's just pulling a trigger? I'm a military strategist. That took ten years. Harder cramming than I'd have had in a Keep Tech-Institute. I have to know everything about war from trajectories to mass psychology. This is the greatest science the System has ever known, and the most useless. Because war will die in a few centuries at most. Ilene - you've never seen a Free Company's fort. It's science, marvellous science, aimed at military ends only. We have our psych-specialists. We have our engineers, who plan everything from ordnance to the frictional quotient on flitterboats. We have the foundries and mills. Each fortress is a city made for war, as the Keeps are made for social progress.'</p>
+   <p>'As complicated as that?'</p>
+   <p>'Beautifully complicated and beautifully useless. There are so many of us who realize that. Oh, we fight - it's a poison. We worship the Company - that is an emotional poison. But we live only during wartime. It's an incomplete life. Men in the Keeps have full lives; they have their work, and their relaxations are geared to fit them. We don't fit.'</p>
+   <p>'Not all the undersea races,' Ilene said. 'There's always the fringe that doesn't fit. At least you have a raison d'etre. You're a soldier. I can't make a lifework out of pleasure. But there's nothing else for me.'</p>
+   <p>Scott's fingers tightened on hers. 'You're the product of a civilization, at least. I'm left out.'</p>
+   <p>'With you, Brian, it might be better. For a while. I don't think it would last for long.'</p>
+   <p>'It might.'</p>
+   <p>'You think so now. It's quite a horrible thing, feeling yourself a shadow.'</p>
+   <p>'I know.'</p>
+   <p>'I want you, Brian,' Ilene said, turning to face him. 'I want you to come to Montana Keep and stay here. Until our experiment fails. I think it'll fail presently. But, perhaps, not for some time. I need your strength. I can show you how to get the most out of this sort of life - how to enter into it. True hedonism. You can give me- companionship perhaps. For me the companionship of hedonists who know nothing else isn't enough.'</p>
+   <p>Scott was silent. Ilene watched him for a while.</p>
+   <p>'Is war so important?' she asked at last.</p>
+   <p>'No,' he said, 'it isn't at all. It's a balloon. And it's empty, I know that. Honour of the regiment!' Scott laughed. 'I'm not hesitating, really. I've been shut out for a long time. A social unit shouldn't be founded on an obviously doomed fallacy. Men and women are important, nothing else, I suppose.'</p>
+   <p>'Men and women - or the race?'</p>
+   <p>'Not the race,' he said with abrupt violence. 'Damn the race! It's done nothing for me. I can fit myself into a new life. Not necessarily hedonism. I'm an expert in several lines; I have to be. I can find work in Montana Keep.'</p>
+   <p>'If you like. I've never tried. I'm more of a fatalist, I suppose. But . . . what about it, Brian?'</p>
+   <p>Her eyes were almost luminous, like shining emeralds, in the ghostly light.</p>
+   <p>'Yes,' Scott said. Til come back. To stay.'</p>
+   <p>Ilene said, 'Come back? Why not stay now?'</p>
+   <p>'Because I'm a complete fool, I guess. I'm a key man, and Cine Rhys needs me just now.'</p>
+   <p>'Is it Rhys or the Company?'</p>
+   <p>Scott smiled crookedly. 'Not the Company. It's just a job I have to do. When I think how many years I've been slaving, pretending absurdities were important, knowing that I was bowing to a straw dummy- No! I want your life- the son of life I didn't know could exist in the Keeps. I'll be back, Ilene. It's something more important than love. Separately we're halves. Together we may be a complete whole.'</p>
+   <p>She didn't answer. Her eyes were steady on Scott's. He kissed her.</p>
+   <p>Before morning bell he was back in the apartment. Jeana had already packed the necessary light equipment. She was asleep, her dark hair cascading over the pillow, and Scott did not waken her. Quietly he shaved, showered, and dressed. A heavy, waiting silence seemed to fill the city like a cup brimmed with stillness.</p>
+   <p>As he emerged from the bathroom, buttoning his tunic, he saw the table had been let down and two places set at it. Jeana came in, wearing a cool morning frock. She set cups down and poured coffee.</p>
+   <p>'Morning, soldier,' she said. 'You've time for this, haven't you?'</p>
+   <p>'Uh-huh.' Scott kissed her, a bit hesitantly. Up till this moment, the breaking with Jeana had seemed easy enough. She would raise no objections. That was the chief reason for free-marriage. However-</p>
+   <p>She was sitting in the relaxer, sweetening the coffee, opening a fresh celopack of cigarettes. 'Hung over?'</p>
+   <p>'No. I vitamized. Feel pretty good.' Most bars had a vitamizing chamber to nullify the effects of too much stimulant. Scott was, in fact, feeling fresh and keenly alert. He was wondering how to broach the subject of Ilene to Jeana.</p>
+   <p>She saved him the trouble.</p>
+   <p>'If it's a girl, Brian, just take it easy. No use doing anything till this war's over. How long will it take?'</p>
+   <p>'Oh, not long. A week at most. One battle may settle it, you know. The girl-'</p>
+   <p>'She's not a Keep girl.'</p>
+   <p>'Yes.'</p>
+   <p>Jeana looked up, startled. 'You're crazy.'</p>
+   <p>'I started to tell you,' Scott said impatiently. 'It isn't just - her. I'm sick of the Doones. I'm going to quit.'</p>
+   <p>'Hm-m-m. Like that?'</p>
+   <p>'Like that.' Jeana shook her head. 'Keep women aren't tough.'</p>
+   <p>'They don't need to be. Their men aren't soldiers.'</p>
+   <p>'Have it your own way. I'll wait till you get back. Maybe I've got a hunch.</p>
+   <p>You see, Brian, we've been together for five years. We fit. Not because of anything like philosophy or psychology- it's a lot more personal. It's just us. As man and woman, we get along comfortably. There's love, too. Those close emotional feelings are more important, really, than the long view. You can get excited about futures, but you can't live them.'</p>
+   <p>Scott shrugged. 'Could be I'm starting to forget about futures. Concentrating on Brian Scott.'</p>
+   <p>'More coffee . . . there. Well, for five years now I've gone with you from Keep to Keep, waiting every time you went off to war, wondering if you'd come back, knowing that I was just a part of your life, but - I sometimes thought - the most important part. Soldiering's seventy-five per cent. I'm the other quarter. I think you need that quarter - you need the whole thing, in that proportion, actually. You could find another woman, but she'd have to be willing to take twenty-five per cent.'</p>
+   <p>Scott didn't answer. Jeana blew smoke through her nostrils.</p>
+   <p>'O.K., Brian. I'll wait.'</p>
+   <p>'It isn't the girl so much. She happens to fit into the pattern of what I want. You-'</p>
+   <p>'I'd never be able to fit that pattern,' Jeana said softly. 'The Free Companions need women who are willing to be soldiers' wives. Free-wives, if you like. Chiefly it's a matter of not being too demanding. But there are other things. No, Brian. Even if you wanted that, I couldn't make myself over into one of the Keep people. It wouldn't be me. I wouldn't respect myself, living a life that'd be false to me; and you wouldn't like me that way either. I couldn't and wouldn't change. I'll have to stay as I am. A soldier's wife. As long as you're a Dooneman, you'll need me. But if you change-' She didn't finish.</p>
+   <p>Scott lit a cigarette, scowling. 'It's hard to know, exactly.'</p>
+   <p>'I may not understand you, but I don't ask questions and I don't try to change you. As long as you want that, you can have it from me. I've nothing else to offer you. It's enough for a Free Companion. It's not enough - or too much - for a Keep-dweller.'</p>
+   <p>Til miss you,' he said.</p>
+   <p>'That'll depend, too. I'll miss you.' Under the table her fingers writhed together, but her face did not change. 'It's getting late. Here, let me check your chronometer.' Jeana leaned across the table, lifted Scott's wrist, and compared his watch with the central-time clock on the wall. 'O.K. On your way, soldier.'</p>
+   <p>Scott stood up, tightening his belt. He bent to kiss Jeana, and, though she began to turn her face away, after a moment she raised her lips to his.</p>
+   <p>They didn't speak. Scott went out quickly, and the girl sat motionless, the cigarette smouldering out unheeded between her fingers. Somehow it did not matter so much, now, that Brian was leaving her for another woman and another life. As always, the one thing of real importance was that he was going into danger.</p>
+   <p>Guard him from harm, she thought, not knowing that she was praying. Guard him from harm!</p>
+   <p>And now there would be silence, and waiting. That, at least, had not changed. Her eyes turned to the clock.</p>
+   <p>Already the minutes were longer.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>III</p>
+   </title>
+   <empty-line/>
+   <cite>
+    <p>'E's the kind of a giddy harumfrodite - soldier an' sailor too!</p>
+    <p>-Kipling</p>
+   </cite>
+   <p>Commander Bienne was superintending the embarkation of the lastDoonemen when Scott arrived at headquarters. He saluted the captain briskly, apparently untired by his night's work of handling the transportation routine. 'All checked, sir.' Scott nodded. 'Good. Is Cine Rhys here?'</p>
+   <p>'He just arrived.' Bienne nodded toward a door-curtain. As Scott moved away, the other followed.</p>
+   <p>'What's up, commander?'</p>
+   <p>Bienne pitched his voice low. 'Bronson's laid up with endemic fever.' He forgot to say 'sir.'</p>
+   <p>'He was to handle the left wing of the fleet. I'd appreciate that job.'</p>
+   <p>Til see if I can do it.' Bienne's lips tightened, but he said nothing more. He turned back to his men, and Scott went on into the cinc's office. Rhys was at the telaudio. He looked up, his eyes narrowed.</p>
+   <p>'Morning, captain. I've just heard from Mendez.'</p>
+   <p>'Yes, sir?'</p>
+   <p>'He's still holding out for a fifty per cent cut on the korium ransom from Virginia Keep. You'll have to see him. Try and get the Mob for less than fifty if you can. Telaudio me from Mendez's fort.'</p>
+   <p>'Check, sir.'</p>
+   <p>'Another thing. Bronson's in sick bay.'</p>
+   <p>'I heard that. If I may suggest Commander Bienne to take his place at left-wing command-'</p>
+   <p>But Cine Rhys raised his hand. 'Not this time. We can't afford individualism. The commander tried to play a lone hand in the last war. You know we can't risk it till he's back in line - thinking of the Doones instead of Fredric Bienne.'</p>
+   <p>'He's a good man, sir. A fine strategist.'</p>
+   <p>'But not yet a good integrating factor. Perhaps next time. Put Commander Geer on the left wing. Keep Bienne with you. He needs discipline. And take a flitterboat to Mendez.'</p>
+   <p>'Not a plane?'</p>
+   <p>'One of the technicians just finished a new tight-beam camouflager for communications. I'm having it installed immediately on all our planes and gliders. Use the boat; it isn't far to the Mob's fort - that long peninsula on the coast of Southern Hell.'</p>
+   <p>Even on the charts that continent was named Hell - for obvious reasons. Heat was only one of them. And, even with the best equipment, a party exploring the jungle there would soon find itself suffering the tortures of the damned. On the land of Venus, flora and fauna combined diabolically to make the place uninhabitable to Earthmen. Many of the plants even exhaled poisonous gases. Only the protected coastal forts of the Free Companies could exist - and that was because they were forts.</p>
+   <p>Cine Rhys frowned at Scott. 'We'll use H-plan 7 if we can get the Mob. Otherwise we'll have to fall back on another outfit, and I don't want to do that. The Helldivers have too many subs, and we haven't enough detectors. So do your damnedest.'</p>
+   <p>Scott saluted. Til do that, sir.' Rhys waved him away, and he went out into the next room, finding Commander Bienne alone. The officer turned an inquiring look toward him.</p>
+   <p>'Sorry,' Scott said. 'Geer gets the left-wing command this time.'</p>
+   <p>Bienne's sour face turned dark red. 'I'm sorry I didn't take a crack at you before mobilization,' he said. 'You hate competition, don't you?'</p>
+   <p>Scott's nostrils flared. 'If it had been up to me, yqu'd have got that command, Bienne.'</p>
+   <p>'Sure. I'll bet. All right, captain. Where's my bunk? A flitterboat?'</p>
+   <p>'You'll be on right wing, with me. Control ship Flintlock.'</p>
+   <p>'With you. Under you, you mean,' Bienne said tightly. His eyes were blazing. 'Yeah.'</p>
+   <p>Scott's dark cheeks were flushed too. 'Orders, commander,' he snapped. 'Get me a flitterboat pilot. I'm going topside.'</p>
+   <p>Without a word Bienne turned to the telaudio. Scott, a tight, furious knot in his stomach, stamped out of headquarters, trying to fight down his anger. Bienne was a jackass. A lot he cared about the Doones-</p>
+   <p>Scott caught himself and grinned sheepishly. Well, he cared little about the Doones himself. But while he was in the Company, discipline was important - integration with the smoothly running fighting machine. No place for individualism. One thing he and Bienne had in common; neither had any sentiment about the Company.</p>
+   <p>He took a lift to the ceiling of the Dome. Beneath him Montana Keep dropped away, shrinking to doll size. Somewhere down there, he thought, was Ilene. He'd be back. Perhaps this war would be a short one - not that they were ever much longer than a week, except in unusual cases where a Company developed new strategies.</p>
+   <p>He was conducted through an air lock into a bubble, a tough, transparent sphere with a central vertical core through which the cable ran. Except for Scott, the bubble was empty. After a moment it started up with a slight jar.</p>
+   <p>Gradually the water outside the curving walls changed from black to deep green, and thence to translucent chartreuse. Sea creatures were visible, but they were nothing new to Scott; he scarcely saw them.</p>
+   <p>The bubble broke surface. Since air pressure had been constant, there was no possibility of the bends, and Scott opened the panel and stepped out on one of the buoyant floats that dotted the water above Montana Keep. A few sightseers crowded into the chamber he had left, and presently it was drawn down, out of sight.</p>
+   <p>In the distance Free Companions were embarking from a larger float to an air ferry. Scott glanced up with a weather eye. No storm, he saw, though the low ceiling was, as usual, torn and twisted into boiling currents by the winds. He remembered, suddenly, that the battle would probably take place over Venus Deep. That would make it somewhat harder for the gliders - there would be few of the thermals found, for instance, above the Sea of Shallows here.</p>
+   <p>A flitterboat, low, fast, and beautifully manoeuvrable, shot in toward the quay. The pilot flipped back the overhead shell and saluted Scott. It was Norman Kane, looking shipshape in his tight-fitting grey uniform, and apparently ready to grin at the slightest provocation.</p>
+   <p>Scott jumped lightly down into the craft and seated himself beside the pilot. Kane drew the transparent shell back over them. He looked at Scott.</p>
+   <p>'Orders, captain?'</p>
+   <p>'Know where the Mob's fort is? Good. Head there. Fast.'</p>
+   <p>Kane shot the flitterboat out from the float with a curtain of v-shaped spray rising from the bow. Drawing little water, manoeuvrable, incredibly fast, these tiny craft were invaluable in naval battle. It was difficult to hit one, they moved so fast. They had no armour to slow them down. They carried high-explosive bullets fired from small-calibre guns, and were, as a rule, two-man craft. They complemented the heavier ordnance of the battlewagons and destroyers.</p>
+   <p>Scott handed Kane a cigarette. The boy hesitated. 'We're not under fire,' the captain chuckled. 'Discipline clamps down during a battle, but it's O.K. for you to have a smoke with me. Here!' He lit the white tube for Kane. 'Thanks, sir. I guess I'm a bit- over-anxious.'</p>
+   <p>'Well, war has its rules. Not many, but they mustn't be broken.' Both men were silent for a while, watching the blank grey surface of the ocean ahead. A transport plane passed them, flying low. 'Is Ilene Kane your sister?' Scott asked presently.</p>
+   <p>Kane nodded. 'Yes, sir.'</p>
+   <p>'Thought so. If she'd been a man, I imagine she'd have been a Free Companion.'</p>
+   <p>The boy shrugged. 'Oh, I don't know. She doesn't have the- I don't know. She'd consider it too much effort. She doesn't like discipline.'</p>
+   <p>'Do you?'</p>
+   <p>'It's fighting that's important to me, Sir.' That was an afterthought,</p>
+   <p>'Winning, really.'</p>
+   <p>'You can lose a battle even though you win it,' Scott said rather sombrely.</p>
+   <p>'Well, I'd rather be a Free Companion than do anything else I know of. Not that I've had much experience-' • 'You've had experience of war with Starling's outfit, but you probably learned some dangerous stuff at the same time. War isn't swashbuckling piracy these days. If the Doones tried to win battles by that sort of thing, there'd be no more Doones in a week or so.'</p>
+   <p>'But-' Kane hesitated. 'Isn't that sort of thing rather necessary? Taking blind chances, I mean-'</p>
+   <p>'There are desperate chances,' Scott told him, 'but there are no blind chances in war- not to a good soldier. When I was green in the service, I ran a cruiser out of the line to ram. I was demoted, for a very good reason. The enemy ship I rammed wasn't as important to the enemy as bur cruiser was to us. If I'd stayed on course, I'd have helped sink three or four ships instead of disabling one and putting my cruiser out of action. It's the great god integration we worship, Kane. It's much more important now than it ever was on Earth, because the military has consolidated. Army, navy, air, undersea - they're all part of one organization now. I suppose the only important change was in the air.'</p>
+   <p>'Gliders, you mean? I knew powered planes couldn't be used in battle."</p>
+   <p>'Not in the atmosphere of Venus,' Scott agreed. 'Once powered planes get up in the cloud strata, they're fighting crosscurrents and pockets so much they've got no time to do accurate firing. If they're armoured, they're slow. If they're light, detectors can spot them and anti-aircraft can smash them. Unpowered gliders are valuable not for bombing but for directing attacks. They get into the clouds, stay hidden, and use infra-red telecameras which are broadcast on a tight beam back to the control ships. They're the eyes of the fleet. They can tell us- White water ahead, Kane! Swerve!'</p>
+   <p>The pilot had already seen the ominous boiling froth foaming out in front of the bow. Instinctively he swung the flitterboat in a wrenching turn. The craft heeled sidewise, throwing its occupants almost out of their seats.</p>
+   <p>'Sea beast?' Scott asked, and answered his own question. 'No, not with those spouts. It's volcanic. And it's spreading fast.'</p>
+   <p>'I can circle it, sir,' Kane suggested.</p>
+   <p>Scott shook his head. 'Too dangerous. Backtrack.'</p>
+   <p>Obediently the boy sent the flitterboat racing out of the area of danger. Scott had been right about the extent of the danger; the boiling turmoil was widening almost faster than the tiny ship could flee. Suddenly the line of white water caught up with them. The flitterboat jounced like a chip, the wheel being nearly torn from Kane's grip. Scott reached over and helped steady it. Even with two men handling the wheel, there was a possibility that it might wrench itself free. Steam rose in veils beyond the transparent shell. The water had turned a scummy brown under the froth.</p>
+   <p>Kane jammed on the power. The flitterboat sprang forward like a ricocheting bullet, dancing over the surface of the seething waves. Once they plunged head-on into a swell, and a screaming of outraged metal vibrated through the craft. Kane, tight-lipped, instantly slammed in the auxiliary, cutting out the smashed motor unit. Then, unexpectedly, they were in clear water, cutting back toward Montana Keep.</p>
+   <p>Scott grinned. 'Nice handling. Lucky you didn't try to circle. We'd never have made it.'</p>
+   <p>'Yes, sir.' Kane took a deep breath. His eyes were bright with excitement.</p>
+   <p>'Circle now. Here.' He thrust a lighted cigarette between the boy's lips. 'You'll be a good Dooneman, Kane. Your reactions are good and fast.'</p>
+   <p>Thanks, sir.'</p>
+   <p>Scott smoked silently for a while. He glanced toward the north, but, with the poor visibility, he could not make out the towering range of volcanic peaks that were the backbone of Southern Hell. Venus was a comparatively young planet, the internal fires still bursting forth unexpectedly. Which was why no forts were ever built on islands - they had an unhappy habit of disappearing without warning!</p>
+   <p>The flitterboat rode hard, at this speed, despite the insulating system of springs and shock absorbers. After a ride in one of these 'spankers' -the irreverent name the soldiers had for them - a man needed arnica if not a chiropractor. Scott shifted his weight on the soft air cushions under him, which felt like cement.</p>
+   <p>Under his breath he hummed:</p>
+   <p>'It ain't the 'eavy 'aulin' that 'urts the 'arses'</p>
+   <p>'oofs, It's the 'ammer, 'ammer, 'ammer on the 'ard 'ighway!'</p>
+   <p>The flitterboat scooted on, surrounded by monotonous sea and cloud, till finally the rampart of the coast grew before the bow, bursting suddenly from the fog-veiled horizon. Scott glanced at his chronometer and sighed with relief. They had made good time, in spite of the slight delay caused by the subsea volcano.</p>
+   <p>The fortress of the Mob was a huge metal and stone castle on the tip of the peninsula. The narrow strip that separated it from the mainland had been cleared, and the pockmarks of shell craters showed where guns had driven back onslaughts from the jungle - the reptilian, ferocious giants of Venus, partially intelligent but absolutely intractable because of the gulf that existed between their methods of thinking and the culture of mankind. Overtures had been made often enough; but it had been found that the reptile-folk were better left alone. They would not parley. They were blindly bestial savages, with whom it was impossible to make truce. They stayed in the jungle, emerging only to hurl furious attacks at the forts - attacks doomed to failure, since fang and talon were matched against lead-jacketed bullet and high explosive.</p>
+   <p>As the flitterboat shot into a jetty, Scott kept his eyes straight ahead - it was not considered good form for a Free Companion to seem too curious when visiting the fort of another Company. Several men were on the quay, apparently waiting for him. They saluted as Scott stepped out of the boat.</p>
+   <p>He gave his name and rank. A corporal stepped forward.</p>
+   <p>'Cine Mendez is expecting you, sir. Cine Rhys telaudioed an hour or so back. If you'll come this way-'</p>
+   <p>'All right, corporal. My pilot-'</p>
+   <p>'He'll be taken care of, sir. A rubdown and a drink, perhaps, after a spanker ride.'</p>
+   <p>Scott nodded and followed the other into the bastion that thrust out from the overhanging wall of the fort. The sea gate was open, and he walked swiftly through the courtyard in the corporal's wake, passing a door-curtain, mounting an escalator, and finding himself, presently, before another curtain that bore the face of Cine Mendez, plump, hoglike, and bald as a bullet.</p>
+   <p>Entering, he saw Mendez himself at the head of a long table, where nearly a dozen officers of the Mob were also seated. In person Mendez was somewhat more prepossessing than in effigy. He looked like a boar rather than a pig - a fighter, not a gourmand. His sharp black eyes seemed to drive into Scott with the impact of a physical blow.</p>
+   <p>He stood up, his officers following suit. 'Sit down, captain. There's a place at the foot of the table. No reflections on rank, but I prefer to be face to face with the man I'm dealing with. But first- you just arrived? If you'd like a quick rubdown, we'll be glad to wait.'</p>
+   <p>Scott took his place. 'Thank you, no, Cine Mendez. I'd prefer not to lose time.'</p>
+   <p>'Then we'll waste none on introductions. However, you can probably stand a drink.' He spoke to the orderly at the door, and presently a filled glass stood at Scott's elbow.</p>
+   <p>His quick gaze ran along the rows effaces. Good soldiers, he thought -tough, well trained, and experienced. They had been under fire. A small outfit, the Mob, but a powerful one.</p>
+   <p>Cine Mendez sipped his own drink. 'To business. The Doonsmen wish to hire our help in fighting the Helldivers. Virginia Keep has bought the services of the Helldivers to attack Montana Keep.' He enumerated on stubby fingers. 'You offer us fifty thousand cash and thirty-five per cent of the korium ransom. So?'</p>
+   <p>That's correct.'</p>
+   <p>'We ask fifty per cent.'</p>
+   <p>'It's high. The Doones have superior manpower and equipment.'</p>
+   <p>'To us, not to the Helldivers. Besides, the percentage is contingent. If we should lose, we get only the cash payment.'</p>
+   <p>Scott nodded. 'That's correct, but the only real danger from the Helldivers is their submarine corps. The Doones have plenty of surface and air equipment. We might lick the Helldivers without you.'</p>
+   <p>'I don't think so.' Mendez shook his bald head. 'They have some new underwater torpedoes that make hash out of heavy armour plate. But we have new sub-detectors. We can blast the Helldivers' subs for you before they get within torpedo range.'</p>
+   <p>Scott said bluntly, 'You've been stalling, Cine Mendez.</p>
+   <p>We're not that bad off. If we can't get you, we'll find another outfit.'</p>
+   <p>'With sub-detectors?''Yardley's Company is good at undersea work.' A major near the head of the table spoke up. 'That's true, sir. They have suicide subs - not too dependable, but they have them.'</p>
+   <p>Cine Mendez wiped his bald head with his palms in a slow circular motion. 'Hm-m-m. Well, captain, I don't know. Yardley's Company isn't as good as ours for this job.'</p>
+   <p>'All right,' Scott said, 'I've carte blanche. We don't know how much korium Virginia Keep has in her vaults. How would this proposition strike you: the Mob gets fifty per cent of the korium ransom up to a quarter of a million; thirty-five per cent above that.'</p>
+   <p>'Forty-five.'</p>
+   <p>'Forty, above a quarter of a million; forty-five below that sum.''Gentlemen?' Cine Mendez asked, looking down the table. 'Your vote?' There were several ayes, and a scattering of nays. Mendez shrugged. 'Then I have the deciding vote. Very well. We get forty-five per cent of the Virginia Keep ransom up to a quarter of a million; forty per cent on any amount above that. Agreed. We'll drink to it.' Orderlies served drinks. As Mendez rose, the others followed his example. The cine nodded to Scott.</p>
+   <p>'Will you propose a toast, captain?'</p>
+   <p>'With pleasure. Nelson's toast, then - a willing foe and sea room!'</p>
+   <p>They drank to that, as Free Companions had always drunk that toast on the eve of battle. As they seated themselves once more, Mendez said, 'Major Matson, please telaudio Cine Rhys and arrange details. We must know his plans.'</p>
+   <p>'Yes, sir.'</p>
+   <p>Mendez glanced at Scott. 'Now how else may I serve you?'</p>
+   <p>'Nothing else. I'll get back to our fort. Details can be worked out on the telaudio, on tight beam.'</p>
+   <p>'If you're going back in that flitterboat,' Mendez said sardonically, 'I strongly advise a rubdown. There's time to spare, now we've come to an agreement.'</p>
+   <p>Scott hesitated. 'Very well. I'm ... uh ... starting to ache.' He stood up. 'Oh, one thing I forgot. We've heard rumours that Starling's outfit is using atomic power.'</p>
+   <p>Mendez's mouth twisted into a grimace of distaste. 'Hadn't heard that. Know anything about it, gentlemen?'</p>
+   <p>Heads were shaken. One officer said, 'I've heard a little talk about it, but only talk, so far.'</p>
+   <p>Mendez said, 'After this war, we'll investigate further. If there's truth in the story, we'll join you, of course, in mopping up the Starlings. No court-martial is necessary for that crime!'</p>
+   <p>'Thanks. I'll get in touch with other Companies and see what they've heard. Now, if you'll excuse me-'</p>
+   <p>He saluted and went out, exultation flaming within him. The bargain had been a good one - for the Doonemen badly needed the Mob's help against the Helldivers. Cine Rhys would be satisfied with the arrangement.</p>
+   <p>An orderly took him to the baths, where a rubdown relaxed his aching muscles. Presently he was on the quay again, climbing into the flitterboat. A glance behind him showed that the gears of war were beginning to grind. There was little he could see, but men were moving about through the courtyard with purposeful strides, to the shops, to administration, to the laboratories. The battlewagons were anchored down the coast, Scott knew, in a protected bay, but they would soon move out to their rendezvous with the Doones.</p>
+   <p>Kane, at the controls of the flitterboat, said, 'They repaired the auxiliary unit for us, sir.'</p>
+   <p>'Courtesies of the trade.' Scott lifted a friendly hand to the men on the quay as the boat slid toward open water. 'The Doone fort, now. Know it?'</p>
+   <p>'Yes, sir. Are ... are the Mob fighting with us, if I may ask?'</p>
+   <p>'They are. And they're a grand lot of fighters. You're going to see action, Kane. When you hear battle stations next, it's going to mean one of the sweetest scraps that happened on Venus. Push down that throttle - we're in a hurry!'</p>
+   <p>The flitterboat raced southwest at top speed, its course marked by the flying V of spray.</p>
+   <p>'One last fight,' Scott thought to himself. Tm glad it's going to be a good one.'</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>IV</p>
+   </title>
+   <empty-line/>
+   <cite>
+    <p>We eat and drink our own damnation.</p>
+    <p>-The Book of Common Prayer</p>
+   </cite>
+   <p>The motor failed when they were about eight miles from the Doone fort.</p>
+   <p>It was a catastrophe rather than merely a failure. The overstrained and overheated engine, running at top speed, blew back. The previous accident, at the subsea volcano, had brought out hidden flaws in the alloy which the Mob's repair men had failed to detect, when they replaced the smashed single unit. Sheer luck had the flitterboat poised on a swell when the crack-up happened. The engine blew out and down, ripping the bow to shreds. Had they been bow-deep, the blast would have been unfortunate for Scott and the pilot- more so than it was.</p>
+   <p>They were perhaps a half mile from the shore. Scott was deafened by the explosion and simultaneously saw the horizon swinging in a drunken swoop. The boat turned turtle, the shell smacking into water with a loud cracking sound. But the plastic held. Both men were tangled together on what had been their ceiling, sliding forward as the flitterboat began to sink bow first. Steam sizzled from the ruined engine.</p>
+   <p>Kane managed to touch one of the emergency buttons.</p>
+   <p>The shell was, of course, jammed, but a few of the segments slid aside, admitting a gush of acrid sea water. For a moment they struggled there, fighting the crosscurrents till the air had been displaced. Scott, peering through cloudy green gloom, saw Kane's dark shadow twist and kick out through a gap. He followed.</p>
+   <p>Beneath him the black hulk of the boat dropped slowly and was gone. His head broke surface, and he gasped for breath, shaking droplets from his lashes and granting around. Where was Kane?</p>
+   <p>The boy appeared, his helmet gone, sleek hair plastered to his forehead. Scott caught his eye and pulled the trigger on his life vest, the inflatable undergarment which was always worn under the blouse on sea duty. As chemicals mixed, light gas rushed into the vest, lifting Scott higher in the water. He felt the collar cushion inflate against the back of his head- the skull-fitting pillow that allowed shipwrecked men to float and rest without danger of drowning in their sleep. But he had no need for this now.</p>
+   <p>Kane, he saw, had triggered his own life vest. Scott hurled himself up, searching for signs of life. There weren't any. The grey-green sea lay desolate to the misty horizon. A half mile away was a mottled chartreuse wall that marked the jungle. Above and beyond that dim sulphurous red lit the clouds.</p>
+   <p>Scott got out his leaf-bladed smatchet, gesturing for Kane to do the same. The boy did not seem worried. No doubt this was merely an exciting adventure for him, Scott thought wryly. Oh, well.</p>
+   <p>Gripping the smatchet between his teeth, the captain began to swim shoreward. Kane kept at his side. Once Scott warned his companion to stillness and bent forward, burying his face in the water and peering down at a great dim shadow that coiled away and was gone - a sea snake, but, luckily, not hungry. The oceans of Venus were perilous with teeming, ferocious life. Precautions were fairly useless. When a man was once in the water, it was up to him to get out of it as rapidly as possible.</p>
+   <p>Scott touched a small cylinder attached to his belt and felt bubbles rushing against his palm. He was slightly relieved. When he had inflated the vest, his tube of compressed gas had automatically begun to release, sending out a foul-smelling vapour that permeated the water for some distance around. The principle was that of the skunk adjusted to the environment of the squid, and dangerous undersea life was supposed to be driven away by the Mellison tubes; but it didn't work with carrion eaters like the snakes. Scott averted his nose. The gadgets were named Mellison tubes, but the men called them Stinkers, a far more appropriate term.</p>
+   <p>Tides on Venus are unpredictable. The clouded planet has no moon, but it is closer to the Sun than Earth. As a rule the tides are mild, except during volcanic activity, when tidal waves sweep the shores. Scott, keeping a weather eye out for danger, rode the waves in toward the beach, searching the strip of dull blackness for signs of life.</p>
+   <p>Nothing.</p>
+   <p>He scrambled out at last, shaking himself like a dog, and instantly changed the clip in his automatic for high explosive. The weapon, of course, was watertight - a necessity on Venus. As Kane sat down with a grunt and deflated his vest, Scott stood eyeing the wall of jungle thirty feet away. It stopped there abruptly, for nothing could grow on black sand.</p>
+   <p>The rush and whisper of the waves made the only sound. Most of the trees were liana-like, ekeing out a precarious existence, as the saying went, by taking in each other's washing. The moment one of them showed signs of solidity, it was immediately assailed by parasitic vines flinging themselves madly upward to reach the filtered sunlight of Venus. The leaves did not begin for thirty feet above the ground; they made a regular roof up there, lying like crazy shingles, and would have shut out all light had they not been of light translucent green. Whitish tendrils crawled like reaching serpents from tree to tree, tentacles of vegetable octopi. There were two types of Venusian fauna: the giants who could crash through the forest, and the supple, small ground-dwellers- insects and reptiles mostly- who depended on poison sacs for self-protection. Neither kind was pleasant company.</p>
+   <p>There were flying creatures, too, but these lived in the upper strata, among the leaves. And there were ambiguous horrors that lived in the deep mud and the stagnant pools under the forest, but no one knew much about these.</p>
+   <p>'Well,' Scott said, 'that's that.'</p>
+   <p>Kane nodded. 'I guess I should have checked the motors.'</p>
+   <p>'You wouldn't have found anything. Latent flaws - it would have taken black night to bring 'em out. Just one of those things. Keep your gas mask handy, now. If we get anywhere near poison flowers and the wind's blowing this way, we're apt to keel over like that.' Scott opened a waterproof wallet and took out a strip of sensitized litmus, which he clipped to his wrist. 'If this turns blue, that means gas, even if we don't smell it.'</p>
+   <p>'Yes, sir. What now?'</p>
+   <p>'We-ell- the boat's gone. We can't telaudio for help.' Scott fingered the blade of his smatchet and slipped it into the belt sheath. 'We head for the fort. Eight miles. Two hours, if we can stick to the beach and if we don't run into trouble. More than that if Signal Rock's ahead of us, because we'll have to detour inland in that case.' He drew out a collapsible single-lenser telescope and looked south-west along the shore. 'Uh-huh. We detour.'</p>
+   <p>A breath of sickening sweetness gusted down from the jungle roof. From above, Scott knew, the forest looked surprisingly lovely. It always reminded him of an antique candlewick spread he had once bought Jeana</p>
+   <p>- immense rainbow flowers scattered over a background of pale green. Even among the flora competition was keen; the plants vied in producing colours and scents that would attract the winged carriers of pollen.</p>
+   <p>There would always be frontiers, Scott thought. But they might remain unconquered for a long time, here on Venus. The Keeps were enough for the undersea folk; they were self-sustaining. And the Free Companions had no need to carve out empires on the continents. They were fighters, not agrarians. Land hunger was no longer a part of the race. It might come again, but not in the time of the Keeps.</p>
+   <p>The jungles of Venus held secrets he would never know. Men can conquer lands from the air, but they cannot hold them by that method. It would take a long, slow period of encroachment, during which the forest and all it represented would be driven back, step by painful step - and that belonged to a day to come, a time Scott would not know. The savage world would be tamed. But not now- not yet.</p>
+   <p>At the moment it was untamed and very dangerous. Scott stripped off his tunic and wrung water from it. His clothing would not dry in this saturated air, despite the winds. His trousers clung to him stickily, clammy coldness in their folds.</p>
+   <p>'Ready, Kane?'</p>
+   <p>'Yes, sir.'</p>
+   <p>'Then let's go.'</p>
+   <p>They went south-west, along the beach, at a steady, easy lope that devoured miles. Speed and alertness were necessary in equal proportion. From time to time Scott scanned the sea with his telescope, hoping to sight a vessel. He saw nothing. The ships would be in harbour, readying for the battle; and planes would be grounded for installation of the new telaudio device Cine Rhys had mentioned.</p>
+   <p>Signal Rock loomed ahead, an outthrust crag with eroded, unscalable sides towering two hundred feet and more. The black strip of sand ended there. From the rock there was a straight drop into deep water, cut up by a turmoil of currents. It was impossible to take the sea detour; there was nothing else for it but to swerve inland, a dangerous but inevitable course. Scott postponed the plunge as long as possible, till the scarp of Signal Rock, jet black with leprous silvery patches on its surface, barred the way. With a quizzical look at Kane he turned sharply to his right and headed for the jungle.</p>
+   <p>'Half a mile of forest equals a hundred miles of beach hiking,' he remarked.</p>
+   <p>'That bad, sir? I've never tackled it.'</p>
+   <p>'Nobody does, unless they have to. Keep your eyes open and your gun ready. Don't wade through water, even when you can see bottom. There are some little devils that are pretty nearly transparent - vampire fish. If a few of those fasten on you, you'll need a transfusion in less than a minute. I wish the volcanoes would kick up a racket. The beasties generally lie low when that happens.'</p>
+   <p>Under a tree Scott stopped, seeking a straight, long limb. It took a while to find a suitable one, in that tangle of coiling lianas, but finally he succeeded, using his smatchet blade to hack himself a light five-foot pole. Kane at his heels, he moved on into the gathering gloom.</p>
+   <p>'We may be stalked,' he told the boy. 'Don't forget to guard the rear.'</p>
+   <p>The sand had given place to sticky whitish mud that plastered the men to their calves before a few moments had passed. A patina of slickness seemed to overlay the ground. The grass was coloured so much like the mud itself that it was practically invisible, except by its added slipperiness. Scott slowly advanced, keeping close to the wall of rock on his left where the tangle was not so thick. Nevertheless he had to use the smatchet more than once to cut a passage through vines.</p>
+   <p>He stopped, raising his hand, and the squelch of Kane's feet in the mud paused. Silently Scott pointed. Ahead of them in the cliff base was the mouth of a burrow.</p>
+   <p>The captain bent down, found a small stone, and threw it toward the den. He waited, one hand lightly on his gun, ready to see something flash out of that burrow and race toward them. In the utter silence a new sound made itself heard- tiny goblin drums, erratic and resonant in a faraway fashion. Water, dropping from leaf to leaf, in the soaked jungle ceiling above them. Tink, link, tink-tink, link, tink-tink-</p>
+   <p>'O.K.,' Scott said quietly. 'Watch it, though.' He went on, gun drawn, till they were level with the mouth of the burrow. 'Turn, Kane. Keep your eye on it till I tell you to stop.' He gripped the boy's arm and guided him, bolstering his own weapon. The pole, till now held between biceps and body, slipped into his hand. He used it to probe the slick surface of the mud ahead. Sinkholes and quicksands were frequent, and so were traps, camouflaged pits built by mud-wolves - which, of course, were not wolves, and belonged to no known genus. On Venus, the fauna had more subdivisions than on old Earth, and lines of demarcation were more subtle.</p>
+   <p>'All right now.'</p>
+   <p>Kane, sighing with relief, turned his face forward again. 'What was it?'</p>
+   <p>'You never know what may come out of those holes,' Scott told him. 'They come fast, and they're usually poisonous. So you can't take chances with the critters. Slow down here. I don't like the looks of that patch ahead.'</p>
+   <p>Clearings were unusual in the forest. There was one here, twenty feet wide, slightly saucer-shaped. Scott gingerly extended the pole and probed. A faint ripple shook the white mud, and almost before it had appeared the captain had unholstered his pistol and was blasting shot after shot at the movement.</p>
+   <p>'Shoot, Kane!' he snapped. 'Quick! Shoot at it!'</p>
+   <p>Kane obeyed, though he had to guess at his target. Mud geysered up, suddenly crimson-stained. Scott, still firing, gripped the boy's arm and ran him back at a breakneck pace.</p>
+   <p>The echoes died. Once more the distant elfin drums whispered through the green gloom.</p>
+   <p>'We got it,' Scott said, after a pause.</p>
+   <p>'We did?' the other asked blankly. 'What-'</p>
+   <p>'Mud-wolf, I think. The only way to kill those things is to get 'em before they get out of the mud. They're fast and they die hard. However-' He warily went forward. There was nothing to see. The mud had collapsed into a deeper saucer, but the holes blasted by the high-x bullets had filled in. Here and there were traces of thready crimson.</p>
+   <p>'Never a dull moment,' Scott remarked. His crooked grin eased the tension. Kane chuckled and followed the captain's example in replacing his half-used clip with a full one.</p>
+   <p>The narrow spine of Signal Rock extended inland for a quarter mile before it became scalable. They reached that point finally, helping each other climb, and finding1 themselves, at the summit, still well below the leafy ceiling of the trees. The black surface of the rock was painfully hot, stinging their palms as they climbed, and even striking through their shoe soles.</p>
+   <p>'Halfway point, captain?'</p>
+   <p>'Yeah. But don't let that cheer you. It doesn't get any better till we hit the beach again. We'll probably need some fever shots when we reach the fort, just in case. Oh-oh, Mask, Kane, quick.' Scott lifted his arm. On his wrist the band of litmus had turned blue.</p>
+   <p>With trained accuracy they donned the respirators. Scott felt a faint stinging on his exposed skin, but that wasn't serious. Still, it would be painful later. He beckoned to Kane, slid down the face of the rock, used the pole to test the mud below, and jumped lightly. He dropped in the sticky whiteness and rolled over hastily, plastering himself from head to foot. Kane did the same. Mud wouldn't neutralize the poison flowers' gas, but it would absorb most of it before it reached the skin.</p>
+   <p>Scott headed toward the beach, a grotesque figure. Mud dripped on the eye plate, and he scrubbed it away with a handful of white grass. He used the pole constantly to test the footing ahead.</p>
+   <p>Nevertheless the mud betrayed him. The pole broke through suddenly, and as Scott automatically threw his weight back, the ground fell away under his feet. He had time for a crazy feeling of relief that this was quicksand, not a mud-wolf's den, and then the clinging, treacherous stuff had sucked him down knee-deep. He fell back, keeping his grip on the pole and swinging the other end in an arc toward Kane.</p>
+   <p>The boy seized it in both hands and threw himself flat. His foot hooked over an exposed root. Scott, craning his neck at a painfully awkward angle and trying to see through the mud-smeared vision plates, kept a rat-trap grip on his end of the pole, hoping its slickness would not slip through his fingers.</p>
+   <p>He was drawn down farther, and then Kane's anchorage began to help. The boy tried to pull the pole toward him, hand over hand. Scott shook his head. He was a good deal stronger than Kane, and the latter would need all his strength to keep a tight grip on the pole.</p>
+   <p>Something stirred in the shadows behind Kane. Scott instinctively let go with one hand, and, with the other, got out his gun. It had a sealed mechanism, so the mud hadn't harmed the firing, and the muzzle had a one-way trap. He fired at the movement behind Kane, heard a muffled tumult, and waited till it had died. The boy, after a startled look behind him, had not stirred.</p>
+   <p>After that, rescue was comparatively easy. Scott simply climbed along the pole, spreading his weight over the surface of the quicksand. The really tough part was pulling his legs free of that deadly grip. Scott had to rest for five minutes after that.</p>
+   <p>But he got out. That was the important thing.</p>
+   <p>Kane pointed inquiringly into the bushes where the creature had been shot, but Scott shook his head. The nature of the beast wasn't a question worth deciding, as long as it was apparently hors de combat. Readjusting his mask, Scott turned toward the beach, circling the quicksand, and Kane kept at his heels.</p>
+   <p>Their luck had changed. They reached the shore with no further difficulty and collapsed on the black sand to rest. Presently Scott used a litmus, saw that the gas had dissipated, and removed his mask. He took a deep breath.</p>
+   <p>'Thanks, Kane,' he said. 'You can take a dip now if you want to wash off that mud. But stay close inshore. No, don't strip. There's no time.'</p>
+   <p>The mud clung like glue and the black sand scratched like pumice. Still, Scott felt a good deal cleaner after a few minutes in the surf, while Kane stayed on guard. Slightly refreshed, they resumed the march.</p>
+   <p>An hour later a convoy plane, testing, sighted them, telaudioed the fort, and a flitterboat came racing out'to pick them up. What Scott appreciated most of all was the stiff shot of uisqueplus the pilot gave him.</p>
+   <p>Yeah. It was a dog's life, all right!</p>
+   <p>He passed the flask to Kane.</p>
+   <p>Presently the fort loomed ahead, guarding Doone harbour. Large as the landlocked bay was, it could scarcely accommodate the fleet. Scott watched the activity visible with an approving eye. The flitterboat rounded the sea wall, built for protection against tidal waves, and shot toward a jetty. Its almost inaudible motor died: the shell swung back.</p>
+   <p>Scott got out, beckoning to an orderly.</p>
+   <p>'Yes, sir?'</p>
+   <p>'See that this soldier gets what he needs. We've been in the jungle.'</p>
+   <p>The man didn't whistle sympathetically, but his mouth pursed. He saluted and helped Kane climb out of the flitterboat. As Scott hurried along the quay, he could hear an outburst of friendly profanity from the men on the dock, gathering around Kane.</p>
+   <p>He nodded imperceptibly. The boy would make a good Free Companion -always granted that he could stand the gaff under fire. That was the acid test. Discipline was tightened then to the snapping point. If it snapped -well, the human factor always remained a variable, in spite of all the psychologists could do.</p>
+   <p>He went directly to his quarters, switching on the telaudio to call Cine Rhys. The cinc's seamed, leathery face resolved itself on the screen.</p>
+   <p>'Captain Scott reporting for duty, sir.'</p>
+   <p>Rhys looked at him sharply. 'What happened?'</p>
+   <p>'Flitterboat crack-up. Had to make it in here on foot.'</p>
+   <p>The cine called on his God in a mild voice. 'Glad you made it. Any accident?'</p>
+   <p>'No, sir. The pilot's unharmed, too. I'm ready to take over, after I've cleaned up.'</p>
+   <p>'Better take a rejuvenation - you probably need it. Everything's going like clockwork. You did a good job with Mendez - a better bargain than I'd hoped for. I've been talking with him on the telaudio, integrating our forces. We'll go into that later, though. Clean up and then make general inspection.'</p>
+   <p>'Check, sir.'</p>
+   <p>Rhys clicked off. Scott turned to face his orderly.</p>
+   <p>'Hello, Briggs. Help me off with these duds. You'll probably have to cut 'em off.'</p>
+   <p>'Glad to see you back, sir. I don't think it'll be necessary to cut-' Blunt fingers flew deftly over zippers and clasps. 'You were in the jungle?'</p>
+   <p>Scott grinned wryly. 'Do I look as if I'd been gliding?'</p>
+   <p>'Not all the way, sir - no.'</p>
+   <p>Briggs was like an old bulldog - one of those men who proved the truth of the saying: 'Old soldiers never die; they only fade away.' Briggs could have been pensioned off ten years ago, but he hadn't wanted that. There was always a place for old soldiers in the Free Companies, even those who were unskilled. Some became technicians; others military instructors; the rest, orderlies. The forts were their homes. Had they retired to one of the Keeps, they would have died for lack of interests.</p>
+   <p>Briggs, now - he had never risen above the ranks, and knew nothing of military strategy, ordnance, or anything except plain righting. But he had been a Dooneman for forty years, twenty-five of them on active service.</p>
+   <p>He was sixty-odd now, his squat figure slightly stooped like an elderly bear, his ugly face masked with scar tissue.</p>
+   <p>'All right. Start the shower, will you?'</p>
+   <p>Briggs stumped off, and Scott, stripped of his filthy, sodden garments, followed. He luxuriated under the stinging spray, first hot soapy water, then alcomix, and after that plain water, first hot, then cold. That was the last task he had to do himself. Briggs took over, as Scott relaxed on the slab, dropping lotion into the captain's burning eyes, giving him a deft but murderous rubdown, combining osteopathic and chiropractic treatment, adjusting revitalizing lamps, and measuring a hypo shot to nullify fatigue toxins. When the orderly was finished, Scott was ready to resume his duties with a clear brain and a refreshed body.</p>
+   <p>Briggs appeared with fresh clothing. Til have the old uniform cleaned, sir. No use throwing it away.'</p>
+   <p>'You can't clean that,' Scott remarked, slipping into a singlet. 'Not after I rolled in mud. But suit yourself. I won't be needing it for long.'</p>
+   <p>The orderly's fingers, buttoning Scott's tunic, stopped briefly and then resumed their motion. 'Is that so, sir?'</p>
+   <p>'Yeah. I'm taking out discharge papers.'</p>
+   <p>'Another Company, sir?'</p>
+   <p>'Don't get on your high horse,' Scott told the orderly. 'It's not that. What would you do if it were? Court-martial me yourself and shoot me at sunrise?'</p>
+   <p>'No, sir. Begging your pardon, sir, I'd just think you were crazy.'</p>
+   <p>'Why I stand you only the Lord knows,' Scott remarked. 'You're too damn independent. There's no room for new ideas in that plastic skull of yours. You're the quintessence of dogmatism.' Briggs nodded. 'Probably, sir. When a man's lived by one set of rules for as long as I have, and those rules work out, I suppose he might getdogmatic.''Forty years for you - about twelve for me.'</p>
+   <p>'You came up fast, captain. You'll be cine here yet.'</p>
+   <p>'That's what you think.'</p>
+   <p>'You're next in line after Cine Rhys.'</p>
+   <p>'But I'll be out of the Doones,' Scott pointed out. 'Keep that under your belt, Briggs.'</p>
+   <p>The orderly grunted. 'Can't see it, sir. If you don't join another Company, where'll you go?'</p>
+   <p>'Ever heard of the Keeps?'</p>
+   <p>Briggs permitted himself a respectful snort. 'Sure. They're fine for a binge, but-'</p>
+   <p>'I'm going to live in one. Montana Keep.'</p>
+   <p>'The Keeps were built with men and machines. I helped at the building of Doone fort. Blood's mixed with the plastic here. We had to hold back the jungle while the technicians were working. Eight months, sir, and never a day passed without some sort of attack. And attacks always meant casualties then. We had only breastworks. The ships laid down a barrage, but barrages aren't impassable. That was a fight, captain.'</p>
+   <p>Scott thrust out a leg so that Briggs could lace his boots. 'And a damn good one. I know.' He looked down at the orderly's baldish, brown head where white hairs straggled.</p>
+   <p>'You know, but you weren't there, captain. I was. First we dynamited. We cleared a half circle where we could dig in behind breastworks. Behind us were the techs, throwing up a plastic wall as fast as they could. The guns were brought in on barges. Lying offshore were the battlewagons. We could hear the shells go whistling over our heads- it sounded pretty good, because we knew things were O.K. as long as the barrage kept up. But it couldn't be kept up day and night. The jungle broke through. For months the smell of blood hung here, and that drew the enemy.'</p>
+   <p>'But you held them off.'</p>
+   <p>'Sure, we did. Addison Doone was cine then - he'd formed the Company years before, but we hadn't a fort. Doone fought with us. Saved my life once, in fact. Anyhow - we got the fort built, or rather the techs did. I won't forget the kick I got out of it when the first big gun blasted off from the wall behind us. There was a lot to do after that, but when that shell was fired, we knew we'd done the job.'</p>
+   <p>Scott nodded. 'You feel a proprietary interest in the fort, I guess.'</p>
+   <p>Briggs looked puzzled. 'The fort? Why, that doesn't mean much, captain. There are lots of forts. It's something more than that; I don't quite know what it is. It's seeing the fleet out there - breaking in the rookies - giving the old toasts at mess - knowing that-' He stopped, at a loss.</p>
+   <p>Scott's lips twisted wryly.</p>
+   <p>'You don't really know, do you, Briggs?'</p>
+   <p>'Know what, sir?'</p>
+   <p>'Why you stay here. Why you can't believe I'd quit.'</p>
+   <p>Briggs gave a little shrug. 'Well - it's the Doohes,' he said. 'That's all, captain. It's just that.'</p>
+   <p>'And what the devil will it matter, in a few hundred years?'</p>
+   <p>'I suppose it won't. No, sir. But it isn't our business to think about that.</p>
+   <p>We're Doonemen, that's all.'</p>
+   <p>Scott didn't answer. He could easily have pointed out the fallacy of Briggs' argument, but what was the use? He stood up, the orderly whisking invisible dust off his tunic.</p>
+   <p>'All set, sir. Shipshape.'</p>
+   <p>'Check, Briggs. Well, I've one more scrap, anyhow. I'll bring you back a souvenir, eh?'</p>
+   <p>The orderly saluted, grinning. Scott went out, feeling good. Inwardly he was chuckling rather sardonically at the false values he was supposed to take seriously. Of course many men had died when Doone fort had been built. But did that, in itself, make a tradition? What good was the fort? In a few centuries it would have outlived its usefulness. Then it would be a relic of the past. Civilization moved on, and, these days, civilization merely tolerated the military.</p>
+   <p>So - what was the use? Sentiment needed a valid reason for its existence. The Free Companions fought, bitterly, doggedly, with insane valour, in order to destroy themselves. The ancient motives for war had vanished.</p>
+   <p>What-was the use? All over Venus the lights of the great forts were going out - and, this time, they would never be lit again- not in a thousand lifetimes!</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>V</p>
+   </title>
+   <empty-line/>
+   <cite>
+    <p>And we are here as on a darkling plain</p>
+    <p>Swept with confused alarms of "struggle and flight,</p>
+    <p>Where ignorant armies clash by night.</p>
+    <p>-Arnold circa 1870 </p>
+   </cite>
+   <p>The fort was a completely self-contained unit, military rather than social. There was no need for any agrarian development, since a state of complete siege never existed. Food could be brought in from the Keeps by water and air.</p>
+   <p>But military production was important, and, in the life of the fort, the techs played an important part, from the experimental physicist to the spot welder. There were always replacements to be made, for, in battle, there were always casualties. And it was necessary to keep the weapons up to date, continually striving to perfect new ones. But strategy and armament were of equal importance. An outnumbered fleet had been known to conquer a stronger one by the use of practical psychology.</p>
+   <p>Scott found Commander Bienne at the docks, watching the launching of a new sub. Apparently Bienne hadn't yet got over his anger, for he turned a scowling, sombre face to the captain as he saluted.</p>
+   <p>'Hello, commander,' Scott said. 'I'm making inspection. Are you free?'</p>
+   <p>Bienne nodded. 'There's not much to do.'</p>
+   <p>'Well - routine. We got that sub finished just in time, eh?'</p>
+   <p>'Yes.' Bienne couldn't repress his pleasure at the sight of the trim, sleek vessel beginning to slide down the ways. Scott, too, felt his pulses heighten as the sub slipped into the water, raising a mighty splash, and then settling down to a smooth, steady riding on the waves. He looked out to where the great battlewagons stood at anchor, twelve of them, grey-green monsters of plated metal. Each of them carried launching equipment for gliders, but the collapsible aircraft were stowed away out of sight as yet. Smaller destroyers lay like lean-flanked wolves among the battleships. There were two fast carriers, loaded with gliders and flitterboats. There were torpedo boats and one low-riding monitor, impregnable, powerfully armed, but slow. Only a direct hit could disable a monitor, but the behemoths had their disadvantages. The battle was usually over before they lumbered into sight. Like all monitors, this one - the Armageddon - was constructed on the principle of a razorback hog, covered, except for the firing ports, by a tureen-shaped shield, strongly braced from within. The Armageddon was divided into groups of compartments and had several auxiliary engines, so that, unlike the legendary Rover, when a monitor died, it did not die all over. It was, in effect, a dinosaur. You could blow off the monster's head, and it would continue to fight with talons and lashing tail. Its heavy guns made up in mobility for the giant's unwieldiness - but the trouble was to get the monitor into battle. It was painfully slow.</p>
+   <p>Scott scowled. 'We're fighting over Venus Deep, eh?'</p>
+   <p>'Yes,' Bienne nodded. 'That still goes. The Helldivers are already heading toward Montana Keep and we'll intercept them over the Deep.'</p>
+   <p>'When's zero hour?'</p>
+   <p>'Midnight tonight.'</p>
+   <p>Scott closed his eyes, visualizing their course on a mental chart. Not so good. When battle was joined near island groups, it was sometimes possible for a monitor to slip up under cover of the islets, but that trick wouldn't work now. Too bad - for the Helldivers were a strong outfit, more so since their recent merger with O'Brien's Legion. Even with the Mob to help, the outcome of the scrap would be anyone's guess. The Armageddon might be the decisive factor.</p>
+   <p>'I wonder-' Scott said. 'No. It'd be impossible.'</p>
+   <p>'What?'</p>
+   <p>'Camouflaging the Armageddon. If the Helldivers see the monitor coming, they'll lead the fight away from it, faster than that tub can follow. I was thinking we might get her into the battle without the enemy realizing it.'</p>
+   <p>'She's camouflaged now.'</p>
+   <p>'Paint, that's all. She can be spotted. I had some screwy idea about disguising her as an island or a dead whale.'</p>
+   <p>'She's too big for a whale and floating islands look a bit suspicious.'</p>
+   <p>'Yeah. But if we could slip the Armageddon in without scaring off the enemy - Hm-m-m. Monitors have a habit of turning turtle, don't they?'</p>
+   <p>'Right. They're top-heavy. But a monitor can't fight upside-down. It's not such a bright idea, captain.' Briefly Bienne's sunken eyes gleamed with sneering mockery. Scott grunted and turned away.</p>
+   <p>'All right. Let's take a look around.'</p>
+   <p>The fleet was shipshape. Scott went to the shops. He learned that several new hulls were under way, but would not be completed by zero hour. With Bienne, he continued to the laboratory offices. Nothing new. No slip-ups; no surprises. The machine was running smoothly.</p>
+   <p>By the time inspection was completed, Scott had an idea. He told Bienne to carry on and went to find Cine Rhys. The cine was in his office, just clicking off the telaudio as Scott appeared.</p>
+   <p>'That was Mendez,' Rhys said. 'The Mob's meeting our fleet a hundred miles off the coast. They'll be under our orders, of course. A good man, Mendez, but I don't entirely trust him.'</p>
+   <p>'You're not thinking of a double cross, sir?'</p>
+   <p>Cine Rhys made disparaging noises. 'Brutus is an honourable man. No, he'll stick to his bargain. But I wouldn't cut cards with Mendez. As a Free Companion, he's trustworthy. Personally- Well, how do things look?'</p>
+   <p>'Very good, sir. I've an idea about the Armageddon.'</p>
+   <p>'I wish I had,' Rhys said frankly. 'We can't get that damned scow into the battle in any way I can figure out. The Helldivers will see it coming, and lead the fight away.'</p>
+   <p>'I'm thinking of camouflage.'</p>
+   <p>'A monitor's a monitor. It's unmistakable. You can't make it look like anything else.'</p>
+   <p>'With one exception, sir. You can make it look like a disabled monitor.'</p>
+   <p>Rhys sat back, giving Scott a startled glance. 'That's interesting. Go on.'</p>
+   <p>'Look here, sir.' The captain used a stylo to sketch the outline of a monitor on a convenient pad. 'Above the surface, the Armageddon's dome-shaped. Below, it's a bit different, chiefly because of the keel. Why can't we put a fake superstructure on the monitor - build a false keel on it, so it'll seem capsized?'</p>
+   <p>'It's possible.'</p>
+   <p>'Everybody knows a monitor's weak spot - that it turns turtle under fire sometimes. If the Helldivers saw an apparently capsized Armageddon drifting toward them, they'd naturally figure the tub was disabled.'</p>
+   <p>'It's crazy,' Rhys said. 'One of those crazy ideas that might work.' He used the local telaudio to issue crisp orders. 'Got it? Good. Get the Armageddon under way as soon as the equipment's aboard. Alterations will be made at sea. We can't waste time. If we had them made in the yards, she'd never catch up with the fleet.'</p>
+   <p>The cine broke the connection, his seamed leathery face twisting into a grin. 'I hope it works. We'll see.'</p>
+   <p>He snapped his fingers. 'Almost forgot. President Crosby's nephew -Kane? - he was with you when you cracked up, wasn't he? I've been wondering whether I should have waived training for him. How did he show up in the jungle?'</p>
+   <p>'Quite well,' Scott said. 'I had my eye on him. He'll make a good soldier.'</p>
+   <p>Rhys looked keenly at the captain. 'What about discipline? I felt that was his weak spot.'</p>
+   <p>'I've no complaint to make.'</p>
+   <p>'So. Well, maybe. Starling's outfit is bad training for anyone- especially a raw kid. Speaking of Starling, did Cine Mendez know anything about his using atomic power?'</p>
+   <p>'No, sir. If Starling's doing that, he's keeping it plenty quiet.'</p>
+   <p>'We'll investigate after the battle. Can't afford that sort of thing- we don't want another holocaust. It was bad enough to lose Earth. It decimated the race. If it happened again, it'd wipe the race out.'</p>
+   <p>'I don't think there's much danger of that. On Earth, it was the big atomic power-stations that got out of control. At worst, Starling can't have more than hand weapons.'</p>
+   <p>'True. You can't blow up a world with those. But you know the law - no atomic power on Venus.'</p>
+   <p>Scott nodded.</p>
+   <p>'Well, that's all.' Rhys waved him away. 'Clear weather.'</p>
+   <p>Which, on this perpetually clouded world, had a tinge of irony.</p>
+   <p>After mess Scott returned to his quarters, for a smoke and a brief rest. He waved away Briggs' suggestion of a rubdown and sent the orderly to the commissary for fresh tobacco. 'Be sure to get Twenty Star,' he cautioned. 'I don't want that green hydroponic cabbage.'</p>
+   <p>'I know the brand, sir.' Briggs looked hurt and departed. Scott settled back in his relaxer, sighing.</p>
+   <p>Zero hour at twelve. The last zero hour he'd ever know. All through the day he had been conscious that he was fulfilling his duties for the last time.</p>
+   <p>His mind went back to Montana Keep. He was living again those other-worldly moments in the cloud-wrapped Olympus with Ilene. Curiously, he found it difficult to visualize the girl's features. Perhaps she was a symbol</p>
+   <p>-her appearance did not matter. Yet she was very lovely.</p>
+   <p>In a different way from Jeana. Scott glanced at Jeana's picture on the desk, three-dimensional and tinted after life. By pressing a button on the frame, he could have given it sound and motion. He leaned forward and touched the tiny stud. In the depths of the picture the figure of Jeana stirred, smiling. The red lips parted.</p>
+   <p>Her voice, though soft, was quite natural.</p>
+   <p>'Hello, Brian,' the recording said. 'Wish I were with you now. Here's a present, darling.' The image blew him a kiss, and then faded back to immobility.</p>
+   <p>Scott sighed again. Jeana was a comfortable sort of person. But- Oh, hell! She wasn't willing to change. Very likely she couldn't. Ilene perhaps was equally dogmatic, but she represented the life of the Keeps - and that was what Scott wanted now.</p>
+   <p>It was an artificial life Ilene lived, but she was honest about it. She knew its values were false. At least she didn't pretend, like the Free Companions, that there were ideals worth dying for. Scott remembered Briggs. The fact that men had been killed during the building of Doone fort meant a lot to the old orderly. He never asked himself-why? Why had they died? Why was Doone fort built in the first place? For war. And war was doomed.</p>
+   <p>One had to believe in an ideal before devoting one's life to it. One had to feel he was helping the ideal to survive -watering the plant with his blood so eventually it would come to flower. The red flower of Mars had long since blown. How did that old poem go?</p>
+   <p>One thing is certain, and the rest is lies; The flower that once has blown forever dies.</p>
+   <p>It was true. But the Free Companions blindly pretended that the flower was still in blazing scarlet bloom, refusing to admit that even the roots were withered and useless, scarcely able now to suck up the blood sacrificed to its hopeless thirst.</p>
+   <p>New flowers bloomed; new buds opened. But in the Keeps, not in the great doomed forts. It was the winter cycle, and, as the last season's blossoms faded, the buds of the next stirred into life. Life questing and intolerant. Life that fed on the rotting petals of the rose of war.</p>
+   <p>But the pretence went on, in the coastal forts that guarded the Keeps. Scott made a grimace of distaste. Blind, stupid folly! He was a man first, not a soldier. And man is essentially a hedonist, whether he identifies himself with the race or not.</p>
+   <p>Scott could not. He was not part of the undersea culture, and he could never be. But he could lose himself in the hedonistic backwash of the Keeps, the froth that always overlies any social unit. With Ilene, he could, at least, seek happiness, without the bitter self-mockery he had known for so long. Mockery at his own emotional weaknesses in which he did not believe.</p>
+   <p>Ilene was honest. She knew she was damned, because unluckily she had intelligence.</p>
+   <p>So - Scott thought - they would make a good pair.</p>
+   <p>Scott looked up as Commander Bienne came into the room. Bienne's sour, mahogany face was flushed deep red under the bronze. His lids were heavy over angry eyes. He swung the door-curtain shut after him and stood rocking on his heels, glowering at Scott.</p>
+   <p>He called Scott something unprintable.</p>
+   <p>The captain rose, an icy knot of fury in his stomach. Very softly he said, 'You're drunk, Bienne. Get out. Get back to your quarters.'</p>
+   <p>'Sure- you little tinhorn soldier. You like to give orders, don't you? You like to chisel, too. The way you chiselled me out of that left-wing command today. I'm pretty sick of it, Captain Brian Scott.'</p>
+   <p>'Don't be a damned fool! I don't like you personally any more than you like me, but that's got nothing to do with the Company. I recommended you for that command.'</p>
+   <p>'You lie,' Bienne said, swaying. 'And I hate your guts.'</p>
+   <p>Scott went pale, the scar on his cheek flaming red. Bienne came forward. He wasn't too drunk to co-ordinate. His fist lashed out suddenly and connected agonizingly with Scott's molar.</p>
+   <p>The captain's reach was less than Bienne's. He ducked inside of the next swing and carefully smashed a blow home on the point of the other's jaw. Bienne was driven back, crashing against the wall and sliding down in a limp heap, his head lolling forward.</p>
+   <p>Scott, rubbing his knuckles, looked down, considering.</p>
+   <p>Presently he knelt and made a quick examination. A knockout, that was all. Oh, well. Briggs appeared, showing no surprise at the sight of Bienne's motionless body. The perfect orderly walked across to the table and began to refill the humidor with the tobacco he had brought. Scott almost chuckled. 'Briggs.'</p>
+   <p>'Yes, sir?'</p>
+   <p>'Commander Bienne's had a slight accident. He- slipped. Hit his chin on something. He's a bit tight, too. Fix him up, will you?'</p>
+   <p>'With pleasure, sir.' Briggs hoisted Bienne's body across his brawny shoulders.</p>
+   <p>'Zero hour's at twelve. The commander must be aboard the Flintlock by then. And sober. Can do?'</p>
+   <p>'Certainly, sir,' Briggs said, and went out.</p>
+   <p>Scott returned to his chair, filling his pipe. He should have confined Bienne to his quarters, of course. But - well, this was a personal matter. One could afford to stretch a point, especially since Bienne was a valuable man to have aboard during action. Scott vaguely hoped the commander would get his thick head blown off.</p>
+   <p>After a time he tapped the dottle from his pipe and went off for a final inspection.</p>
+   <p>At midnight the fleet hoisted anchor.</p>
+   <p>By dawn the Doones were nearing the Venus Deep.</p>
+   <p>The ships of the Mob had already joined them, seven battleships, and assorted cruisers, destroyers, and one carrier. No monitor. The Mob didn't own one - it had capsized two months before, and was still undergoing repairs.</p>
+   <p>The combined fleets sailed in crescent formation, the left wing, commanded by Scott, composed of his own ship, the Flintlock, and the Arquebus, the Arrow, and the Misericordia, all Doone battlewagons. There were two Mob ships with him, the Navaho and the Zuni, the latter commanded by Cine Mendez. Scott had one carrier with him, the other being at right wing. Besides these, there were the lighter craft.</p>
+   <p>In the centre were the battleships Arbalest, Lance, Catling, and Mace, as well as three of Mendez's. Cine Rhys was aboard the Lance, controlling operations. The camouflaged monitor Armageddon was puffing away valiantly far behind, well out of sight in the mists. Scott was in his control room, surrounded by telaudio screens and switchboards. Six operators were perched on stools before the controls, ready to jump to action when orders came through their earphones. In the din of battle spoken commands often went unheard, which was why Scott wore a hush-mike strapped to his chest.</p>
+   <p>His eyes roved over the semicircle of screens before him.</p>
+   <p>'Any report from the gliders yet?'</p>
+   <p>'No, sir.'</p>
+   <p>'Get me air-spotting command.'</p>
+   <p>One of the screens flamed to life; a face snapped into view on it.</p>
+   <p>'Report.'</p>
+   <p>'Nothing yet, captain. Wait.' There was a distant thunder. 'Detectors clamped on a telaudio tight-beam directly overhead.'</p>
+   <p>'Enemy glider in the clouds?'</p>
+   <p>'Apparently. It's out of the focus now.'</p>
+   <p>'Try to relocate it.'</p>
+   <p>A lot of good that would do. Motored planes could easily be detected overhead, but a glider was another matter. The only way to spot one was by clamping a detector focus directly on the glider's telaudio beam-worse than a needle in a haystack. Luckily the crates didn't carry bombs. 'Report coming in, sir. One of our gliders.' Another screen showed a face. 'Pilot reporting, sir. Located enemy.'</p>
+   <p>'Good. Switch in the telaudio, infra. What sector?'</p>
+   <p>'V.D. eight hundred seven north-west twenty-one.' Scott said into his hush-mike, 'Get Cine Rhys and Commander Geer on tight-beam. And Cine Mendez.'</p>
+   <p>Three more screens lit up, showing the faces of the three officers. 'Cut in the pilot.' Somewhere over Venus Deep the glider pilot was arcing his plane through the cloud-layer, the automatic telaudio-camera, lensed to infra-red, penetrating the murk and revealing the ocean below. On the screen ships' showed driving forward in battle formation.</p>
+   <p>Scott recognized and enumerated them mentally. The Orion, the Straw, the Vega, the Polaris - uh-huh. Lighter ships. Plenty of them. The scanner swept on.</p>
+   <p>Cine Rhys said, 'We're outnumbered badly Cine Mendez, are your sub-detectors in operation?'</p>
+   <p>'They are. Nothing yet.'</p>
+   <p>'We'll join battle in half an hour, I judge. We've located them, and they've no doubt located us.'</p>
+   <p>'Check.'</p>
+   <p>The screens blanked out. Scott settled back, alertly at ease. Nothing to do now but wait, keeping ready for the unexpected. The Orion and the Vega were the Helldivers' biggest battleships, larger than anything in the line of the Doones- or the Mob. Cine Flynn was no doubt aboard the Orion. The Helldivers owned a monitor, but it had not showed on the infra-red aerial scanner. Probably the behemoth wouldn't even show up in time for the battle.</p>
+   <p>But even without the monitor, the Helldivers had an overwhelming surface display. Moreover, their undersea fleet was an important factor. The sub-detectors of Cine Mendez might - probably would - cut down the odds. But possibly not enough.</p>
+   <p>The Armageddon, Scott thought, might be the point of decision, the ultimate argument. And, as yet, the camouflaged monitor was lumbering through the waves far in the wake of the Doones.</p>
+   <p>Commander Bienne appeared on a screen. He had frozen into a disciplined, trained robot, personal animosities forgotten for the time. Active duty did that to a man.</p>
+   <p>Scott expected nothing different, however, and his voice was completely impersonal as he acknowledged Bienne's call.</p>
+   <p>'The flitterboats are ready to go, captain.'</p>
+   <p>'Send them out in fifteen minutes. Relay to left wing, all ships carrying flitters.'</p>
+   <p>'Check.'</p>
+   <p>For a while there was silence. A booming explosion brought Scott to instant alertness. He glanced up at the screens.</p>
+   <p>A new face appeared. 'Helldivers opening up. Testing for range. They must have gliders overhead. We can't spot 'em.'</p>
+   <p>'Get the men under cover. Send up a test barrage. Prepare to return fire. Contact our pilots over the Helldivers.'</p>
+   <p>It was beginning now - the incessant, racking thunder that would continue till the last shot was fired. Scott cut in to Cine Rhys as the latter signalled.</p>
+   <p>'Reporting, sir.' Harry the enemy. We can't do much yet. Change to R-8 formation.' Cine Mendez said, 'We've got three enemy subs. Our detectors are tuned up to high pitch. 'Limit the range so our subs will be outside the sphere of influence.'</p>
+   <p>'Already did that. The enemy's using magnetic depth charges, laying an undersea barrage as they advance.'</p>
+   <p>'I'll talk to the sub command.' Rhys cut off. Scott listened to the increasing fury of explosions. He could not yet hear the distinctive clap-clap of heat rays, but the quarters were not yet close enough for those undependable, though powerful, weapons. It took time for a heat ray to warm up, and during that period a well-aimed bullet could smash the projector lens.</p>
+   <p>'Casualty, sir. Direct hit aboard destroyer Bayonet.'</p>
+   <p>'Extent of damage?'</p>
+   <p>'Not disabled. Complete report later.'</p>
+   <p>After a while a glider pilot came in on the beam.</p>
+   <p>'Shell landed on the Polaris, sir.'</p>
+   <p>'Use the scanner.'</p>
+   <p>It showed the Helldivers' battlewagon, part of the superstructure carried away, but obviously still in fighting trim. Scott nodded. Both sides were getting the range now. The hazy clouds still hid each fleet from the other, but they were nearing.</p>
+   <p>The sound of artillery increased. Problems of trajectory were increased by the violent winds of Venus, but accurate aiming was possible. Scott nodded grimly as a crash shook the Flintlock.</p>
+   <p>They were getting it now. Here, in the brain of the ship, he was as close to the battle as any member of a firing crew. The screens were his eyes.</p>
+   <p>They had the advantage of being able to use infra-red, so that Scott, buried here, could see more than he could have on deck, with his naked eye. Something loomed out of the murk and Scott's breath stopped before he recognized the lines of the Doone battlewagon Misericordia. She was off course. The captain used his hush-mike to snap a quick reprimand.</p>
+   <p>Flitterboats were going out now, speedy hornets that would harry the enemy fleet. In one of them, Scott remembered, was Norman Kane. He thought of Ilene and thrust the thought back, out of his mind. No time for that now.</p>
+   <p>Battle stations allowed no time for wool gathering.</p>
+   <p>The distant vanguard of the Helldivers came into sight on the screens. Cine Mendez called.</p>
+   <p>'Eleven more subs. One got through. Seems to be near the Flintlock. Drop depth bombs.'</p>
+   <p>Scott nodded and obeyed. Shuddering concussions shook the ship. Presently a report came in: fuel slick to starboard.</p>
+   <p>Good. A few well-placed torpedoes could do a lot of damage.</p>
+   <p>The Flintlock heeled incessantly under the action of the heavy guns. Heat rays were lancing out. The big ships could not easily avoid the searing blasts that could melt solid metal, but the flitterboats, dancing around like angry insects, sent a rain of bullets at the projectors. But even that took integration. The rays themselves were invisible, and could only be traced from their targets. The camera crews were working overtime, snapping shots of the enemy ships, tracing the rays' points of origin, and telaudioing the information to the flitterboats.</p>
+   <p>'Helldivers' Rigel out of action.' On the screen the big destroyer swung around, bow pointing forward. She was going to ram. Scott snapped orders. The Flintlock went hardover, guns pouring death into the doomed Rigel.</p>
+   <p>The ships passed, so close that men on the Flintlock's decks could see the destroyer lurching through the haze. Scott judged her course and tried desperately to get Mendez. There was a delay.</p>
+   <p>'QM- QM- emergency! Get the Zuni!'</p>
+   <p>'Here she answers, sir.' Scott snapped, 'Change course. QM. Destroyer Rigel bearing down on you.'</p>
+   <p>'Check.' The screen blanked. Scott used a scanner. He groaned at the sight. The Zuni was swinging fast, but the Rigel was too close - too damned close. She rammed. Scott said, 'Hell.' That put the Zuni out of action. He reported to Cine Rhys. 'All right, captain. Continue R-8 formation.'</p>
+   <p>Mendez appeared on a screen. 'Captain Scott. We're disabled. I'm coming aboard. Have to direct sub-strafing operations. Can you give me a control board?'</p>
+   <p>'Yes, sir. Land at Port Sector 7.' Hidden in the mist, the fleets swept on in parallel courses, the big battlewagons keeping steady formation, pouring heat rays and shells across the gap. The lighter ships strayed out of line at times, but the flitterboats swarmed like midges, dog-fighting when they were not harrying the larger craft. Gliders were useless now, at such close quarters. The thunder crashed and boomed. Shudders rocked the Flintlock. 'Hit on Helldivers' Orion. Hit on Sinus.'</p>
+   <p>'Hit on Mob ship Apache.'</p>
+   <p>'Four more enemy subs destroyed.'</p>
+   <p>'Doone sub X-i6 fails to report.'</p>
+   <p>'Helldivers' Polaris seems disabled.'</p>
+   <p>'Send out auxiliary flitterboats, units nine and twenty.' Cine Mendez came in, breathing hard. Scott waved him to an auxiliary control unit seat.</p>
+   <p>'Hit on Lance. Wait a minute. Cine Rhys a casualty, sir.'</p>
+   <p>Scott froze. 'Details.'</p>
+   <p>'One moment- Dead, sir.'</p>
+   <p>'Very well,' Scott said after a moment. 'I'm assuming command. Pass it along.'</p>
+   <p>He caught a sidelong glance from Mendez. When a Company's cine was killed, one of two things happened -promotion of a new cine, or a merger with another Company. In this case Scott was required, by his rank, to assume temporarily the fleet's command. Later, at the Doone fort, there would be a meeting and a final decision.</p>
+   <p>He scarcely thought of that now. Rhys dead! Tough, unemotional old Rhys, killed in action. Rhys had a free-wife in some Keep, Scott remembered. The Company would pension her. Scott had never seen the woman. Oddly, he wondered what she was like. The question had never occurred to him before.</p>
+   <p>The screens were flashing. Double duty now - or triple. Scott forgot everything else in directing the battle.</p>
+   <p>It was like first-stage anaesthesia- it was difficult to judge time. It might have been an hour or six since the battle had started. Or less than an hour for that matter.</p>
+   <p>'Destroyer disabled. Cruiser disabled. Three enemy subs L out of action-'</p>
+   <p>It went on, endlessly. At the auxiliaries Mendez was ' directing sub-strafing operations. Where in hell's the Armageddon, Scott thought? The fight would be over before that overgrown tortoise arrived.</p>
+   <p>Abruptly a screen flashed QM. The lean, beak-nosed face of Cine Flynn ofthe Helldivers showed.</p>
+   <p>'Calling Ddone command.'</p>
+   <p>'Acknowledging,' Scott said. 'Captain Scott, emergency command.'</p>
+   <p>Why was Flynn calling? Enemy fleets in action never communicated, except to surrender.</p>
+   <p>Flynn said curtly, 'You're using atomic power, captain. Explanation, please.'</p>
+   <p>Mendez jerked around. Scott felt a tight band around his stomach. 'Done without my knowledge or approval, of course, Cine Flynn. My apologies. Details?'</p>
+   <p>'One of your flitterboats fired an atomic-powered pistol at the Orion. One seven-unit gun disabled.'</p>
+   <p>'One of ours, of the same calibre, will be taken out of action immediately.</p>
+   <p>Further details, sir?'</p>
+   <p>'Use your scanner, captain, on Sector Mobile 18 south Orion. Your apology is accepted. The incident will be erased from our records.'</p>
+   <p>Flynn clicked off. Scott used the scanner, catching a Doone fiitterboat in its focus. He used the enlarger.</p>
+   <p>The little boat was fleeing from enemy fire, racing back toward the Doone fleet, heading directly toward the Flintlock, Scott saw. Through the transparent shell he saw the bombardier slumped motionless, his head blown half off. The pilot, still gripping an atomic-fire pistol in one hand, was Norman Kane. Blood streaked his boyish, strained face.</p>
+   <p>So Starling's outfit did have atomic power, then. Kane must have smuggled the weapon out with him when he left. And, in the excitement of battle, he had used it against the enemy.</p>
+   <p>Scott said coldly, 'Gun crews starboard. Fiitterboat Z-/O-4. Blast it.'</p>
+   <p>Almost immediately a shell burst near the little craft. On the screen Kane looked up, startled by his own side firing upon him. Comprehension showed on his face. He swung the flitterboat off course, zigzagging, trying desperately to dodge the barrage.</p>
+   <p>Scott watched, his lips grimly tight. The flitterboat exploded in a rain of spray and debris.</p>
+   <p>Automatic court martial.</p>
+   <p>After the battle, the Companies would band together and smash Starling's outfit.</p>
+   <p>Meantime this was action. Scott returned to his screens, erasing the incident from his mind.</p>
+   <p>Very gradually the balance of power was increasing with the Helldivers. Both sides were losing ships, put out of action rather than sunk, and Scott thought more and more often of the monitor Armageddon. She could turn the battle now. But she was still far astern.</p>
+   <p>Scott never felt the explosion that wrecked the control room. His senses blacked out without warning.</p>
+   <p>He could not have been unconscious for long. When he opened his eyes, he stared up at a shambles. He seemed to be the only man left alive. But it could not have been a direct hit, or he would not have survived either.</p>
+   <p>He was lying on his back, pinned down by a heavy crossbeam. But no bones were broken. Blind, incredible luck had helped him there. The brunt of the damage had been borne by the operators. They were dead, Scott saw at a glance.</p>
+   <p>He tried to crawl out from under the beam, but that was impossible. In the thunder of battle his voice could not be heard.</p>
+   <p>There was a movement across the room, halfway to the door. Cine Mendez stumbled up and stared around, blinking. Red smeared his plump cheeks.</p>
+   <p>He saw Scott and stood, rocking back and forth, staring.</p>
+   <p>Then he put his hand on the butt of his pistol.</p>
+   <p>Scott could very easily read the other's mind. If the Doone captain died now, the chances were that Mendez could merge with the Doones and assume control. The politico-military balance lay that way. If Scott lived, it was probable that he would be elected cine. It was, therefore, decidedly to Mendez's advantage to kill the trapped man. A shadow crossed the doorway. Mendez, his back to the newcomer, did not see Commander Bienne halt on the threshold, scowling at the tableau. Scott knew that Bienne understood the situation as well as he himself did. The commander realized that in a very few moments Mendez would draw his gun and fire.</p>
+   <p>Scott waited. The cinc's fingers tightened on his gun butt.</p>
+   <p>Bienne, grinning crookedly, said, 'I thought that shell had finished you, sir. Guess it's hard to kill a Dooneman.' Mendez took his hand off the gun, instantly regaining his poise. He turned to Bienne.</p>
+   <p>'I'm glad you're here, commander. It'll probably take both of us to move that beam.'</p>
+   <p>'Shall we try, sir?'</p>
+   <p>Between the two of them, they managed to shift the weight off Scott's torso. Briefly the latter's eyes met Bienne's. There was still no friendliness in them, but there was a look of wry self-mockery. Bienne hadn't saved Scott's life, exactly. It was, rather, a question of being a Dooneman. For Bienne was, first of all, a soldier, and a member of the Free Company. Scott tested his limbs; they worked. 'How long was I out, commander?'</p>
+   <p>'Ten minutes, sir. The Armageddon's in sight.'</p>
+   <p>'Good. Are the Helldivers veering off?'</p>
+   <p>Bienne shook his head. 'So far they're not suspicious.' Scott grunted and made his way to the door, the others at his heels. Mendez said, 'We'll need another control ship.'</p>
+   <p>'All right. The Arquebus. Commander, take over here. Cine Mendez-' A flitterboat took them to the Arquebus, which was still in good fighting trim. The monitor Armageddon, Scott saw, was rolling helplessly in the trough of the waves. In accordance with the battle plan, the Doone ships were leading the Helldivers toward the apparently capsized giant. The technicians had done a good job; the false keel looked shockingly convincing.</p>
+   <p>Aboard the Arquebus, Scott took over, giving Mendez the auxiliary control for his substrafers. The cine beamed at Scott over his shoulder.</p>
+   <p>'Wait till that monitor opens up, captain.'</p>
+   <p>'Yeah . . . we're in bad shape, though.'</p>
+   <p>Neither man mentioned the incident that was in both their minds. It was tacitly forgotten - the only thing to do now. Guns were still bellowing. The Helldivers were pouring their fire into the</p>
+   <p>Doone formation, and they were winning. Scott scowled at the screens. If he waited too long, it would be just too bad. Presently he put a beam on the Armageddon. She was in a beautiful position now, midway between two of the Helldivers' largest battleships. 'Unmask. Open fire.' Firing ports opened on the monitor. The sea titan's huge guns snouted into view. Almost simultaneously they blasted, the thunder drowning outthe noise of the lighter guns.</p>
+   <p>'All Doone ships attack,' Scott said. 'Plan R-j.'</p>
+   <p>This was it. This was it!</p>
+   <p>The Doones raced into the kill. Blasting, bellowing, shouting, the guns tried to make themselves heard above the roaring of the monitor. They could not succeed, but that savage, invincible onslaught won the battle.</p>
+   <p>It was nearly impossible to manoeuvre a monitor into battle formation, but, once that was accomplished, the only thing that could stop the monster was atomic power.</p>
+   <p>But the Helldivers fought on, trying strategic formation. They could not succeed. The big battlewagons could not get out of range of the Armageddon's guns. And that meant-</p>
+   <p>Cine Flynn's face showed on the screen.</p>
+   <p>'Capitulation, sir. Cease firing.'</p>
+   <p>Scott gave orders. The roar of the guns died into humming, incredible silence.</p>
+   <p>'You gave us a great battle, cine.'</p>
+   <p>'Thanks. So did you. Your strategy with the monitor was excellent.'</p>
+   <p>So - that was that. Scott felt something go limp inside of him. Flynn's routine words were meaningless; Scott was drained of the vital excitement that had kept him going till now.</p>
+   <p>The rest was pure formula.</p>
+   <p>Token depth charges would be dropped over Virginia Keep. They would not harm the Dome, but they were the rule. There would be the ransom, paid always by the Keep which backed the losing side. A supply of korium, or its negotiable equivalent. The Doone treasury would be swelled. Part of the money would go into replacements and new keels. The life of the forts would go on.</p>
+   <p>Alone at the rail of the Arquebus, heading for Virginia Keep, Scott watched slow darkness change the clouds from pearl to grey, and then to invisibility. He was alone in the night. The wash of waves came up to him softly as the Arquebus rushed to her destination, three hundred miles away.</p>
+   <p>Warm yellow lights gleamed from ports behind him, but he did not turn. This, he thought, was like the cloud-wrapped Olympus in Montana Keep, where he had promised Ilene - many things.</p>
+   <p>Yet there was a difference. On an Olympus a man was really a god, shut away completely from the living world. Here, in the unbroken dark, there was no sense of alienage. Nothing. He was gazing up into the nothingness overhead - Venus had no moon, and the clouds hid the stars. And the seas are not phosphorescent.</p>
+   <p>Beneath these waters stand the Keeps, Scott thought. They hold the future. Such battles as were fought today are fought so that the Keeps may not be destroyed.</p>
+   <p>And men will sacrifice. Men have always sacrificed, for a social organization or a military unit. Man must create his own ideal. 'If there had been no God, man would have created Him.'</p>
+   <p>Bienne had sacrificed today, in a queer, twisted way of loyalty to his fetish. Yet Bienne still hated him, Scott knew.</p>
+   <p>The Doones meant nothing. Their idea was a false one. Yet, because men were faithful to that ideal, civilization would rise again from the guarded Keeps. A civilization that would forget its doomed guardians, the waters of the seas of Venus, the Free Companions yelling their mad, futile battle cry as they drove on- as this ship was driving- into a night that would have no dawn.</p>
+   <p>Ilene.</p>
+   <p>Jeana.</p>
+   <p>It was no such simple choice. It was, in fact, no real choice at all. For Scott knew, very definitely, that he could never, as long as he lived, believe wholeheartedly in the Free Companions. Always a sardonic devil deep within him would be laughing in bitter self-mockery.</p>
+   <p>The whisper of the waves drifted up.</p>
+   <p>It wasn't sensible. It was sentimental, crazy, stupid, sloppy thinking.</p>
+   <p>But Scott knew, now, that he wasn't going back to Ilene.</p>
+   <p>He was a fool.</p>
+   <p>But he was a soldier.</p>
+   <empty-line/>
+   <p>The End</p>
+  </section>
+ </body>
+</FictionBook>

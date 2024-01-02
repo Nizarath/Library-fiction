@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="fb0ee2ff-1ae9-4d71-80df-1f7d8b6646bd" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.3)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>God Emperor of Dune</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="97575ea9-1aa8-4eed-83c4-1f2d7fb7ca19" playOrder="1">
+      <navLabel>
+        <text>Title Page</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos6258"/>
+    </navPoint>
+    <navPoint class="chapter" id="56f3176a-38b9-4200-b68c-2f3149cfd6f1" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos6343"/>
+    </navPoint>
+    <navPoint class="chapter" id="4fb9a63f-33d5-4bb1-a81d-8bf7ddb2c4c0" playOrder="3">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos9717"/>
+    </navPoint>
+    <navPoint class="chapter" id="5e807f03-1acb-4fc4-9571-50f59021d444" playOrder="4">
+      <navLabel>
+        <text>INTRODUCTION</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos9906"/>
+    </navPoint>
+    <navPoint class="chapter" id="4702942e-b4fc-431b-938b-ba855717d492" playOrder="5">
+      <navLabel>
+        <text>The following is from the Hadi Benotto translation of the volumes discovered at Dar-es-Balat:</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos55263"/>
+    </navPoint>
+    <navPoint class="chapter" id="54887d75-af1c-4929-955c-a88abc950ba6" playOrder="6">
+      <navLabel>
+        <text>Excerpt from the Hadi Benotto secret summation on the discoveries at Dar-es-Balat:</text>
+      </navLabel>
+      <content src="God_Emperor_of_Dune.html#filepos1516316"/>
+    </navPoint>
+  </navMap>
+</ncx>

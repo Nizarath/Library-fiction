@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Keith</first-name>
+    <last-name>Laumer</last-name>
+   </author>
+   <book-title>Rank Injustice</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 3.40.1, FictionBook Editor Release 2.6</program-used>
+   <date value="2019-04-05">5.4.2019</date>
+   <id>7300269f-b558-480f-8d49-17bda545b130</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Rank Injustice</p>
+   <p>by Keith Laumer</p>
+  </title>
+  <section>
+   <title>
+    <p>1</p>
+   </title>
+   <empty-line/>
+   <p>The ten-thousand-tonner <emphasis>Expedient,</emphasis> on lease to the Interplanetary Tribunal for Curtailment of Hostilities, was holed by a six-ton slab of nickle-iron just as the four hundred assorted diplomatic staff members aboard, from as many worlds, were taking cocktails in the main lounge, in expectation of planetfall within the hour. The shock, far aft, rattled ice-cubes and sent trays of glasses sliding along the hundred-foot heowood bar, dumping a beaker of Lovenbroy pale ale into the lap of First Secretary and Consul Ben Magnan, who leaped up with a shrill cry.</p>
+   <p>“Retief! That confounded chief engineer is inebriated again! I distinctly felt the jar as he mistimed his power change-over to atmospheric!”</p>
+   <p>“Maybe,” Retief conceded. “But I’m afraid it’s something more serious this time.”</p>
+   <p>“What could be more serious than a drunken powerman in charge of re-entry?”</p>
+   <p>“A collision,” Retief told him. “A mere bobble in thrust riming wouldn’t open a seam in the bulkhead.” Magnan followed his glance toward a rent in the brocade wallpaper.</p>
+   <p>“A collision!” Magnan yelled before Retief could stop him. At once the cry was taken up by those near-by, who finished their drinks at a gulp and rushed off in all directions to spread the word.</p>
+   <p>“Where’s the captain?” demanded a gaunt mantis-like female counsellor from Glory Eleven in a voice that cut across the rising tumult like a meat-saw.</p>
+   <p>“I <emphasis>demand</emphasis> to know what he’s doing about this catastrophe!” she added, in case anyone was in doubt. She stood with two pairs of arms folded, staring around defiantly, until her gaze fell on Retief and Magnan. “You!” she yelped. “You people are Terrans like captain! What are doing to save innocent lives?”</p>
+   <p>“While, Madam,” Magnan began, “I cheerfully acknowledge the accuracy of your charge that my assistant and I indeed share with Captain Suggs the honor of being Terrans, we are in no way involved in the operation of this vessel. Anyway,” he added less graciously, “I don’t see any innocent lives being threatened.”</p>
+   <p>“You dismiss all these selfless diplomats as guilty?” the lady demanded, even more shrilly, “And of <emphasis>what,</emphasis> may I inquire?”</p>
+   <p>“You mistake my meaning, Madam,” Magnan gobbled. “I have leveled no accusation against those present! Like yourself, I cry our captain culpable! Wherever <emphasis>is</emphasis> the scamp?”</p>
+   <p>“This here Terry done called Captain Suggs a scamp,” someone commented loudly.</p>
+   <p>Retief touched Magnan’s arm. “Let’s go, Mr. Magnan,” he suggested. “You’re in a classic no-win situation.”</p>
+   <p>“Go where?” Magnan demanded, bewildered. “We’re trapped here aboard this frail perfidious bark just like everyone else! Unless, of course, you were thinking of taking to the lifeboats...?”</p>
+   <p>“Back to take a look at the damage,” Retief explained. “That was an impact aft, I think.”</p>
+   <p>“In that case one would be mad to go aft!” Magnan objected. “If we’re holed, there’ll be no atmosphere!”</p>
+   <p>“We’ll freeze before we asphyxiate,” Retief pointed out. “Unless we aren’t really holed—or if we suit up.”</p>
+   <p>The irate Glorytian lady had stamped off in a huff and was eagerly collaring other bewildered passengers to demand action.</p>
+   <p>“There he is, the incompetent!” she interrupted herself to yell, as Captain Suggs hove into view from the crowd, a slight, rather bedraggled figure in soiled whites with four tarnished gold stripes, his face unshaven.</p>
+   <p>“Whassamare?” he demanded cheerfully, skillfully scooping a full glass from an adjacent table, at the same time depositing an empty. A moment later, he discarded another empty. “I gotta order all you good folks to disperse,” he called to no one in particular. “Now, you, over there...” he waved in Magnan’s general direction as the latter approached him. “Mister Magnan, ain’t it? Used to be good on names, Mr. Mumble. You’re a Terry like me. I hereby appoint you to head up a panel to investigate whatever clobbered my command here. Aft. We been struck aft,” he elaborated.</p>
+   <p>“Pretty good smack, too, registered prolly a few tons doing twenty thou or better.” He turned abruptly and bolted, shooing confused bureaucrats from his path, ignoring the chorus of complaints.</p>
+   <p>“Why, the man is drunk, like his Powerman,” Magnan commented in an awed tone, as he returned to Reliefs side. “I shouldn’t wonder if he isn’t personally responsible for the malfunction, whatever it is.”</p>
+   <p>“He’s had a few,” Retief agreed, “but he’s spent forty years in space; when he says a few tons of something have hit us, I’m inclined to believe him.”</p>
+   <p>“Oh, dear,” Magnan moaned, then, more decisively, “But that’s highly unlikely. I read somewhere that the density of matter in interplanetary space in this system is about like six jelly-flies in Marsport’s Grand Concourse! Still, it’s Captain Suggs’s responsibility, and he’s doing nothing!”</p>
+   <p>“I guess that’s something, ain’t it, Mr. Magnan?” Suggs’s blurry voice spoke up from just behind Magnan. “When doing nothing is the best thing to do, I do it!”</p>
+   <p>“You call doing nothing doing something?” Magnan demanded, whirling to confront the Skipper.</p>
+   <p>“Sure,” Suggs acknowledged cheerfully. “Can’t take her into atmosphere if she ain’t spaceworthy, and our best bet is just to stay in parking orbit until they send a damage-control party up to 6x everything. Already got off a distress bleep,” he added. “Asked for approach number, too; they tole me to stay put.”</p>
+   <p>“Stay put?” Magnan echoed. “Do you realize, sir, that in mere minutes an ITCH conference of stupendous importance is about to begin without me?”</p>
+   <p>“Guess keeping alive until he’p gets here is more important than your eczema,” Suggs commented indifferently. “So long, Mr. Magnan, see you around—and go see my pharmacist’s mate; he’ll fix that rash.”</p>
+   <p>“ ‘Rash,’ indeed!” Magnan burst out. He turned to Retief. “Relief!” he hissed. “I’m surprised that in this moment of crisis you’re as passive as the rest! I expected that at the least you’d nip aft and look into the captain’s allegation that we’ve been involved in a collision!”</p>
+   <p>“Aren’t you coming along, sir?” Retief asked as he put his glass on a passing tray. Magnan recoiled as if from a blast of wintry air.</p>
+   <p>“Hardly!” he hufied. “My place as Transit Director is here, maintaining order until you return to report that all is well. Listen to them,” he switched subjects with breathtaking agility. ‘They’re already at daggers drawn over who’s to take charge! Pushy of them, when it’s clear you have them all outranked, if not in your diplomatic status as a lowly Foreign Service Officer of Class Two, then in your position as Chief of the Armed Forces of your native world!”</p>
+   <p>Several sets of eyes, some stalked, others recessed light-sensitive pores, turned toward the two Terrans.</p>
+   <p>A large man with crooked teeth stepped forward; Magnan turned away after a single disapproving glance.</p>
+   <p>“Kouth is the handle,” the newcomer said in a gravelly bass voice which seemed to reverberate among the chandeliers. “You can call me ‘Boss.’ “ Magnan drew back hastily.</p>
+   <p>“ ‘Kouth’ may be, as he says, the name,” he commented to no one in particular, “but <emphasis>not</emphasis> the manner.”</p>
+   <p>“Skip that, Bub,” Kouth rumbled. “What we got to do, we got to set this here tub down on the inner moon. That’s why I’m taking over.” His gaze shifted to Retief. “You look like a pretty strong boy,” he commented. “So you’ll be my First Mate. Now, we better amble on back up to the bridge and set course fer Old Moon.”</p>
+   <p>“Here, fellow!” piped a small, cootie-like chap in elaborate diplomatic formal dress, as he popped up between the two much larger beings.</p>
+   <p>“I’m Ambassador Phoop,” he clarified. “And as senior Career Ambassador aboard, I outrank all of these military chaps; why, even a mere Career Minister ranks with and after a buck general.” In a less heated tone, he continued: “First, I must organize you, and dispatch a damage-control party. You—” he pointed at Kouth’s knee, “—and you as well,” he added as he stepped back to stare up at Retiefs six-foot-three towering over him. “You two lads are hereby designated as top sergeants to shape up this mob into squads of ten individuals, regardless of species, pigmentation, or mystical alignment with regard to the Big Goober in the Sky.”</p>
+   <p>“To fail to grasp the enormity of your cheek, Mr. Ambassador,” a breathy Groaci voice spoke in the local stunned near-silence which had followed Phoop’s pronouncement. “To admire the breathtaking audacity of such a claim to primacy,” the Groaci went on, “but of course I as an Assistant Undersecretary to Foreign Affairs, am senior diplomat aboard this vessel and as such naturally take command during the indisposition of Captain Suggs!”</p>
+   <p>“Unspeakable!” Ambassador Phoop squeaked. “It was none other than yourself, Mr. Secretary, who plied our captain with strong drink, which I myself abjure, of course, thus rendering him incapacitated in this hour of crisis!”</p>
+   <p>“What do your curious drinking habits have to do with Captain Suggs’s lack of competence, small sir?” A grossly rotund Vorplisher demanded, then turned his attention to sampling the foam on a tankard of ale. “I’m Major General Blow,” he added, “and I’m in command here,”</p>
+   <p>“You distort my meaning, sir!” Phoop squeaked, ignoring the general. “/ had nothing to do with this Suggs’s dereliction of duty!”</p>
+   <p>“This here is all academic like they say,” Kouth put in bluntly. “This here is <emphasis>my</emphasis> turf; I’m a Stugger homed and bred, whatever that is, which that’s the planet Stug figuratively like looming up on the hypothetical forward screens at the moment. I and my boys are the only native-bomed Stuggies aboard, so I’m in charge here. Any objections, any of youse pansies?”</p>
+   <p>“Plenty!” Major General Blow boomed as he charged, impacting Kouth like a runaway fork-lift colliding with a semi loaded with gravel. Kouth responded by backing into a table covered with trays of empties, then hoisted the belligerent Vorplisher above his head and threw him into the faces of the fascinated onlookers.</p>
+   <p>“Some guys has wrong ideas about when to get tough,” he commented. “Now the rest o’ you recruits line up agin the wall over there!”</p>
+   <p>“ ‘Wall,’ indeed!” an ornately-uniformed spider-lean fellow from Wolf Nine, a minor world listed as Booch in the New Catalog, spoke up indignantly. “It’s clear, sir, you are unqualified to serve as a deck-swabber last class, to say nothing of assuming command of a deep-space vessel in dire distress! In navel parlance that’s called a ‘bulkhead,” he finished quite calmly.</p>
+   <p>After a moment of silence, punctuated by a single “‘ear, ‘ear!” from somewhere back in the crowd, the skinny chap went on:</p>
+   <p>“I myself am Grand Captain of Avenging Flotillas Blance, representing the Boochian Combined Armed Forces. It is clear that no one here can challenge my credentials as ranking Being aboard!” He stepped out of line, leaned tete-a-tete with another of like physique, then made shooing motions.</p>
+   <p>“What I hear,” a squat, burly, green-furred code clerk attached to the Hondu Military Attache put in, “Booch ain’t <emphasis>got</emphasis> no navy. Nor no other armed forces, neither.”</p>
+   <p>“What is at issue here, my man—” Fhoop started, only to be cut off by the Hondu with a peremptory gesture.</p>
+   <p>“I ain’t no man. Cap, and I shore ain’t yourn!” he corrected the diplomat.</p>
+   <p>“—is not a comparative assessment of military appropriations,” Phoop continued, undaunted, “but a simple matter of personal rank.”</p>
+   <p>“A Grand Captain of an imaginary fleet don’t outrank a Deck-swabber Last Class in a first-class fighting outfit,” the Hondu declared, “Like me. So you can go into a early retirement, Admiral, DS-LC Gloon is here!”</p>
+   <p>Before Grand Captain Blance could reply, he was thrust aside unceremoniously by Kouth, who in turn was jostled by General Blow as both contenders for leadership stepped forward to advance their claims.</p>
+   <p>“We set her down nice and easy on Old Moon,” Kouth declared loudly.</p>
+   <p>“I have determined—” General Blow began, only to be cut off by Admiral Blance.</p>
+   <p>“A land-lubber, though of two-star rank, has no place in command in space!” he stated, but his further remarks were cut short when Gloon elbowed the wafer-thin Boochian, then to his astonishment was at once knocked flat by a snake-swift blow from the Grand Captain.</p>
+   <p>“You will not venture again to lay hands on the person of a Boochian Grand Captain,” the indignant officer said harshly.</p>
+   <p>“I never laid no hand on nobody,” Gloon objected as he regained his feet with an assist from a slightly smaller Hondu in NCO whites. “All I laid on you was a elbow!”</p>
+   <p>“The principle is the same, DS-LC!” Blance dismissed the matter. “Now, I think you may as well take charge of that half of this mob of civilians, and form up in a column of ducks!”</p>
+   <p>“I don’t guess no DS-LC is gonna fall me in,” General Blow objected. “I done my basic thirty years ago, and I demand—”</p>
+   <p>What the general would have demanded was not to be known, as at that moment the hitherto relatively orderly crowd dissolved into a melee, as officious drill sergeants spot-promoted by half a dozen competing captains <emphasis>pro tern</emphasis> attempted to form the rank-conscious civilian diplomats into manageable units, Kouth’s polyglot supporter being the most vocal.</p>
+   <p>Magnan clutched at Reliefs sleeve. “Now, for sure, it’s time to slip away,” he summarized. “And I’ve decided, yes, I shall accompany you. I don’t care for that Kouth person at all. So, shall we?”</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>2</p>
+   </title>
+   <empty-line/>
+   <p>“It’s as good a time as any,” Relief agreed, fending off a belligerent Yillian with ornate rank badges, sending him reeling into a fist-fight, in which the grey-skinned flag officer cheerfully joined.</p>
+   <p>“This is all most unseemly!” Magnan exclaimed, stepping aside barely in time to avoid being swept up in a three-being wrestling match. “As designated Director of this party, I myself—”</p>
+   <p>“Forget it, Ben,” a lowly Terran corporal of the Jawbone Planetary Defense Force advised just before he was struck down by a Haterakan supreme Overlord of Irresistible Armadas, a rank equivalent to a Bloovian maker of ritual Grimaces, Third Class, Magnan noted.</p>
+   <p>“Cheeky to a degree,” Magnan sniffed, slapping the hypothetical dust of the near-encounter from the lapels of his Late Early Mid-moming cutaway. “It’s no wonder,” he added in an aside to Retief, “that Sector has reported piracy and wreckers operating in this region, if that Boss Kouth is any example of the local ruling class.”</p>
+   <p>“I heard that crack, Ben,” a nosy Groaci Consular Officer informed the Terran. “If you Ter ries are so worried about dacoits and corsairs operating in Stuggish space, hows come you decided to stage this ITCH convention right here in the middle of No Being’s Land, hah?”</p>
+   <p>“Simplicity itself, Thiss,” Magnan replied loftily. “It is precisely because this region is a hotbed of deep-space crime that we selected it as the appropriate site for talks designed to diminish that very problem.”</p>
+   <p>“Hold! Enough!” a deep voice boomed out. All eyes turned toward a two-ton Fustian elder who had risen from his usual torpor to loom over the lesser beings all around him.</p>
+   <p>“I,” he stated, “am Field Marshall Whelk, and if it’s rank you’re looking for, I’ve got rank I haven’t even used yet. Get thee hence, all but you—” he pointed a stubby but massive clawed hand at Kouth—”and you—and you,” designated the Hondu spac’n as well as Admiral Phoop. “You fellows are my lieutenants,” he explained in a tone which invited no discussion. “Now restore order here, and do it quietly.”</p>
+   <p>“I tell ya we gotta make for Old Moon,” Kouth stated boldly. He turned to address his appeal to the raggedly formed-up crowd, Whelk having already resumed his slumber. “It’s our only chan-cet!” Kouth declared.</p>
+   <p>“And I say we hold orbit like the cap’n said!” someone rebutted from the rear rank. “Rescue party’s on the way!” A barrel-shaped, deep-blue Krakan swaggered forth to confront Kouth.</p>
+   <p>Kouth motioned, and half a dozen of his adherents emerged from the crowd to surround the Krakan. While everyone was engrossed in the power struggle, Magnan ducked out a side door and Retief accompanied him.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>3</p>
+   </title>
+   <empty-line/>
+   <p>The passage leading aft past Stores to Power Section was silent and deserted. Then a big spac’n in soiled whites with the nine blue stripes of a Chief Master Spaceman First, Stuggish Merchant Marine, stepped from a side passage and came toward the two civilians.</p>
+   <p>“No crust-huggers allowed here,” he announced in a tone of weary authority, then halted, blocking the passage. “I’m McCluskey, he added. <emphasis>“Chief </emphasis>McCluskey, to you.”</p>
+   <p>“Where did it hit?” Magnan inquired in a tone which was almost a squeak. “Do step aside, my man,” he went on, “we’re on our way to inspect the damage.”</p>
+   <p>“I guess maybe you don’t hear so good, chum,” the Chief announced, “I tole youse onct. no civilians in my Power Section, OK? So you better just turn around and tip-toe back to yer easy chairs. Now, before I start to get annoyed and all.”</p>
+   <p>“Do step aside, I say, fellow,” Magnan repeated. “We’ve no time for gossip just now.”</p>
+   <p>“Oh, yeah?” the powerman came back truculently. “Well, I’m telling you. Junior, you got no business here aft. Youse could get hurt. Hot stuff could be sloshing around all over the place. Shoo! Leave us pros deal with this here.”</p>
+   <p>“ ‘Might be,’ you say,” Magnan echoed. “I think we need a trifle more specific assessment of the status than that.” Magnan paused, then clutched Retiefs arm. “Goodness,” he gushed. “What if this gorilla is right? We could receive a fatal blast of radiation as soon as we open the hard-seal doors.”</p>
+   <p>McCluskey advanced a step toward Magnan, seeming, as he did so, to expand to fill the narrow passage. “I guess you never called me a gorilla,” he commented mildly.</p>
+   <p>“ ‘Guerilla,’ “ Magnan corrected breathlessly. “An heroic freedom fighter, that is. One mustn’t go putting words in the mouths of others,” he added.</p>
+   <p>McCluskey showed Magnan a fist as big as a cabbage. “It ain’t words I’m thinking of putting in yer mush, Cull, and I never fought no freedom. You got two seconds; one t’ousan and one, a t’ousan an two—”</p>
+   <p>Magnan turned to flee, but rebounded from Relief and staggered back directly into the big powerman, who fended him off, looking puzzled.</p>
+   <p>“Never figgered the little shrimp to charge me,” he mused aloud. “Backwards, too. Must be some new Idnda martial arts for weaklings or like that,” He picked Magnan up and paused as if uncertain what to do next.</p>
+   <p>“You’d better put Mr. Magnan down. Chief,” Retief suggested gently. “Otherwise he might decide to unleash his ire on you.”</p>
+   <p>“Where?” McCluskey looked over, through, and past Retief. “I don’t see no leashed ire, nor no other kind neither. Had a pal once, had this here catamount on a leash, spose to be trained and all. Onney one day it got hungry and ate my pal’s leg off before he could remember to say ‘heel.’ “</p>
+   <p>“That’s a very melancholy anecdote. Chief,” Retief said. “Now, about the damage aft. What hit us? And precisely where? Did it penetrate the impact hull? Is there any radioactive leakage?”</p>
+   <p>“Well, now, just a minute, Bud. What hit us, we got clobbered by a iron-nickle, looks like, and it come through the hull, all three layers and the containment bulkhead and busted the coolant system wide open, after which I didn’t see no more, cause I still plan to get hitched some day and father some little deckhands, which I don’t want ‘em to have two heads and all.”</p>
+   <p>“Reasonable enough. Chief,” Relief acknowledged. “But suppose we just suit up and go take a closer look.”</p>
+   <p>“Well, old Cap Suggs will split a gusset when he hears about it,” the Chief grumped. “But I guess somebody got to do somethin. So, OK. Equipment lockers is right over there.”</p>
+   <p>Minutes later all three men were fully clad in what McCluskey referred to as ‘lead underwear.’ Magnan complained bitterly at the poor fit and excessive weight of the R-garment, a Mark XV.</p>
+   <p>“One can’t even breathe in this contraption,” he carped. “To say nothing of walking, not to mention doing anything useful.”</p>
+   <p>“Why don’t you just lie down here,” Retief suggested, indicating a long, padded table intended for use during fitting of the custom-tailored suits. “The Chief and I will handle it.”</p>
+   <p>“Hey, I just come to think,” McCluskey interjected. “I ain’t said youse are goin’ <emphasis>in</emphasis> there with me. The both of youse better wait right here. I’ll take a quick look-see and let you know what the status is.”</p>
+   <p>Retief went past the Chiefs bulky, R-suited figure, and cycled the entry hatch into Power Section. McCluskey, still objecting, followed. Magnan lay back with a groan.</p>
+   <p>“Hurry, Retief,” he called after his departing colleague. “I’m sure I’m going to suffocate if I’m not released from this strait-jacket within the minute.”</p>
+   <p>Retief paused to call over his shoulder. “Just take deep breaths, Mr. Magnan. I’ll be back before you know it.”</p>
+   <p>“Unless these gammas get to you, first,” McCluskey added cheerfully as he clanged the hatch behind him.</p>
+   <p>Retief went across to the gaping frost-rimmed rent caused by the entry of the object the ship had struck; it was approximately sealed by a slab of tough, versatile plastron, which had been slapped in place by the automatics immediately after the penetration.</p>
+   <p>“That there rubber’ll hold OK for a hour or two, maybe, before it cryodegrades,” McCluskey estimated. “Before then what I got to do, I got to get a class three temporary in there.”</p>
+   <p>“Meanwhile,” Relief told him, “you’d better start up the contain-and-exhaust gear.”</p>
+   <p>“Sure,” the chief acknowledged. “I was goin’ to.”</p>
+   <p>“That why you were out in the passage, headed forward?” Retief inquired pointedly.</p>
+   <p>“That sounds to me like some kind of crack,” McCluskey announced, and moved toward Retief with one large, gauntleted fist cocked. Retief pushed his clumsy swing aside and said, “Tsk, naughty. The C and E, remember?” The big spacer moved on, muttering. Retief studied the trajectory of the missile, clearly marked by a swath of cut pipes, conduits and cables, all leading to the missile it-seli, half-buried in the massive casting which housed the converter gear. He went over and looked at the slab of partly-melted iron, deep-pocked and porous, perforated by melt-holes and somewhat flattened on one side by the impact. It was warm to the touch. He turned to a wall-mounted cabinet, snapped the cover open and looked over the array of tools and equipment inside, then selected a sharp-tipped sampler and gouged a tiny fragment from the metal slab, leaving a bright scar. He put the sample in the mass spectrograph from the cabinet and waited for a read-out, jotted it down and called to McCluskey:</p>
+   <p>“Has anybody touched this thing?”</p>
+   <p>“Naw,” the chief replied. “See, I was too busy to mess with it.”</p>
+   <p>“Busy not cycling the spill out, eh?” Retief suggested.</p>
+   <p>“Get offa my back, for cripesakes,” McCluskey came back. “Now I ain’t kidding no more. You gotta get outta here, I don’t mean later.”</p>
+   <p>“As it happens. Chief,” Retief replied casually, “I was just going forward.”</p>
+   <p>“You can tell that so-called captain that Chief McCluskey has got matters well in hand aft,” the belligerent powerman stated.</p>
+   <p>Abruptly, the squawk-box crackled and spoke:</p>
+   <p>“Now hear this! This here is Field-Marshall—”</p>
+   <p>“Skip that,” another voice cut in. “I’m Undersecretary Frunch, and I’m ordering all hands to take to the lifeboats! Abandon ship!”</p>
+   <p>“As you were, passengers and crew,” a glutinous voice countermanded the Secretary’s order. “What we got to do, we got to put her down on Old Moon, like Mr. Kouth said, so—”</p>
+   <p>“Nonsense!” a faint Groaci voice dismissed the suggestion. “To man battle stations, all crew; and all passengers to their staterooms, in an orderly fashion, mind you!”</p>
+   <p>“Why don’t them bums get with the program?” McCluskey demanded of the circumambient air. “It’s Old Moon, just like Boss Kouth said!” He broke off to stare as if astonished as Retief paused by the power control panel and began throwing switches. “Hey!” he yelled. “What you think you’re doing?” He charged, but somehow collided helmet-first with the panel as Betief palmed him off gently and stepped aside. McCluskey slid to the deck, half-stunned; as he groped to get all fours under him, Retief grabbed his helmet by the cluster of cables emerging from its top and slammed the fellow’s head against the panel again. McCluskey went limp. Retief went on with his resetting of the panel. After a few seconds, the fallen space’n raised his head:</p>
+   <p>“Yer setting up for re-entry,” he objected. “No atmosphere on Old Moon, and besides that you got no call to mess around here in my power section!”</p>
+   <p>“One more time. Chief?” Retief inquired inter-estedly as he once again took a grip on McCluskey’s helmet.</p>
+   <p>“Naw, I got no beef,” the latter protested. “I already got a broke rnoobie-bone prolly. But tryna set this bucket down on a plus-G world with her hull broached is suicide. Have a heart, Bub, and leave it lay!”</p>
+   <p>Retief dropped the Chiefs head with a dull <emphasis>clang\</emphasis> and left the compartment. Magnan was waiting impatiently, having removed his G-suit.</p>
+   <p>“I suppose it was nothing after all,” he caroled. “Where’s Chief McCluskey?”</p>
+   <p>“He’s lying down,” Retieftold him.</p>
+   <p>“Oh, no doubt quite tuckered after his ordeal, poor fellow,” Magnan guessed. “But he seems to have done his duty before resting. We must remember to mention his coolness in the emergency in our dispatches.”</p>
+   <p>“Just one thing, Mr. Magnan,” Retiefcut in on his supervisor’s dythrambics. “It was no accident. That supposed meteoric iron has a 1.738 percent carbon content, precisely that of standard industrial steel.”</p>
+   <p>“No!” Magnan gasped. “Whyever would anyone want to fake a disaster in space?”</p>
+   <p>“The disaster’s genuine,” Retief told him. “It’s just the meteoroid that’s a fake. And judging by the angle of entry and the size of the hole, its relative velocity was zero point zero.”</p>
+   <p>“You mean it was stationary?” Magnan yelped. “But that’s impossible! It would have been falling toward Stug, at escape velocity at the very least!”</p>
+   <p>“Unless someone had just dropped it off squarely in our projected path,” Retief corrected.</p>
+   <p>“We must notify Captain Suggs at once!” Magnan declared.</p>
+   <p>In the equipment bay, having returned his G-suit to its locker, Retief looked over the items stored in the adjacent cabinet, selected a late-model crater-gun, strapped it on, and dumped the rest of the arms in the recycler.</p>
+   <p>“Betief!” Magnan cried, “whatever <emphasis>do</emphasis> you intend? Bearing arms is hardly consonant with normal diplomatic procedure!”</p>
+   <p>“Neither is Kouth,” Retief pointed out, “nor the rest of these Idng-makers, either. But I’ll put it up my sleeve if that will make you feel better.”</p>
+   <p>“Must you jape, even in the cannon’s mouth?” Magnan demanded in an outraged tone, as he hurried off along the passage.</p>
+   <p>As they reached the axial lift, it <emphasis>bang\ed</emphasis> open and a disheveled Zooner pre-adult floated out, drifting with the air currents a few inches clear of the floor.</p>
+   <p>“I suppose,” it began in an irritable tone, “that you people are adherents of that uncouth Vreeb person. Well, you may as well know—I’m a partisan of Captain Hoshoon.”</p>
+   <p>“Never heard of him, sir or madam,” Magnan hastened to declare. “Have you seen the captain, by any chance?”</p>
+   <p>“Depends on who you mean by ‘captain,’ “ the partly-shedding creature replied, pausing to scratch its blue-furred back against the lift frame and dislodging another patch of the hairy juvenile pelt. “Itch is driving me crazy,” it vouchsafed. “Looks to me like Hoshoon has the power, since Admiral Phoop threw his weight behind him.”</p>
+   <p>“We really must rush off,” Magnan gabbled, “if you’d be so kind as to excuse us, madam or sir.”</p>
+   <p>“Ain’t neither the one nor the other, till after the moult,” the unhappy Zooner grumped.</p>
+   <p>“One wonders,” Magnan confided to Retief as the lift door closed off his view of the shedding alien, “just what animus the creature holds against the Tribunal.”</p>
+   <p>“I think it was itch, not ITCH, it was carping about,” Retief suggested. The speaker in the car’s ceiling cleared its throat and intoned, sounding bored: “Tole all personnel to assemble on the boat deck in half a squat,” it said, in Boss Kouth’s voice.</p>
+   <p>“It’s Kouth!” Magnan exclaimed.</p>
+   <p>“Damn right!” the voice confirmed. “After I finished off that Krakan wiseguy, I done talked some sense into these slobs and now we can get busy and get this here wreck down on Old Moon before she breaks up. Bad business, a piece o’ arn size of a sofa cushion in yer Power Section. Over and out and all that stuff.”</p>
+   <p>“Heavens!” Magnan remarked. “Candidly, I doubt that Mr. Kouth is competent to command <emphasis>Expedient.</emphasis> And whyever do you suppose they’ve elected him captain?”</p>
+   <p>“Who said anything about electing?” Kouth demanded. “And I heard that crack about me being a incompetent and all. Well, I guess I’m competent enough to shape up this here bunch of dithering diplomats! And if ya wanna utter like sedition in secret, ya better switch off the talker.”</p>
+   <p>“That is hardly the point. Captain Kouth,” Magnan rebuked the volunteer skipper. “I trust you’ve at least retained Captain Suggs in an advisory capacity. After all, he knows the vessel.”</p>
+   <p>“He’s sleeping it off in the dispensary,” Kouth dismissed the matter abruptly. “Now you better get yer butt back up here on the double; and tell McCluskey he’s busted back to Log Room Yeoman fer letting youse in Power Section. Out and over!”</p>
+   <p>The lift having reached the end of the line, they debarked and started up the narrow companion-way to Command Section. Halfway up, the Hondu Deck-swabber Last Class, Gloon, came tumbling down, slack, his green fur matted with ochre blood.</p>
+   <p>Magnan ducked back as the bulky Hondu fell toward him. “Horrid!” he gasped. “And what an appalling color combination!</p>
+   <p>“Good lord, Retief,” he moaned, shrinking back to give the shaggy body the widest possible berth as it fell past him, “I feared it would come to this. Fortunate indeed that I directed you to arm yourself—for self and supervisor—defense only, of course. Very well,” he added, more calmly, “You may proceed now—but cautiously, mind you. There’s a murderer up there.”</p>
+   <p>Thumping sounds from above seemed to confirm Magnan’s deduction. Retief drew his gun and waved Magnan back. He went up to the final dogged-shut hatch to the sacrosanct Control Deck. Beyond it, faint scuffling noises were audible, interspersed with muttered obscenities and an occasional louder thump such as Magnan had heard from below. Then the hatch clicked and cycled open a few inches. Captain Suggs’s bleary visage peered down at Retief.</p>
+   <p>“Good thing you come along, feller,” the skipper mumbled. “Had one o’ them green spacers up here to help me; good hand, too, but he tried to get insubordinate on me, and I hadda coldcock him.” He displayed a heavy spanner with a smear of ochre on its one-and-three-eighths end.</p>
+   <p>Retief climbed up inside the spartan, high-tech compartment, where red emergency! DO something! lights blinked on every panel.</p>
+   <p>“Got a little trouble here, feller,” Suggs explained. “That dang Hondu deck-swabber tried to take command, didn’t want me to take the necessary action, like all them idiot lights is saying I got to.” Suggs returned his attention to the console before him, resumed setting up a complicated sequence of relays. Retief studied the pattern, then stepped in and quietly threw in the Master Override switch. Suggs grabbed, but Retief pushed his arm aside.</p>
+   <p>“Just what do you have in mind, Captain?” he asked.</p>
+   <p>“Jest like you see, feller,” Suggs snapped. “And don’t go messing with my command, here. Got serious work to do.”</p>
+   <p>“What you’re laying out there will overload the converters,” Retief told him. “And one of them already has a fake meteoroid stuck in it.”</p>
+   <p>“Sure,” Suggs agreed readily, then: “Whattaya mean, ‘fake’? How’d you—?”</p>
+   <p>“It’s burned as if it had made a fast passage through a dense oxygen-rich atmosphere,” Retief elaborated. “But we’re in space, well above the argon exosphere of Stug. Somebody who had only seen meteorites in a museum on Terra, and didn’t know how they got full of pits and holes, faked up a slab of industrial nickle-iron to fit his idea of a piece of space-debris.”</p>
+   <p>“Dumb,” Suggs commented unemotionally. “But they got to get up pretty early in the afternoon to sting Calvin Suggs, Captain, SMM (Reserve).”</p>
+   <p>“Why blow the converters?” Retief persisted.</p>
+   <p>“Can’t you see, feller?” Suggs demanded. “It’s the only way to like thwart whatever scheme somebody got in mind.”</p>
+   <p>“When you cross-link the converters,” Retief stated, “you’ll blow off the aft half of the ship.”</p>
+   <p>“Durn right,” Suggs confirmed, contentedly. “Better to scuttle my command than to have her took over by pirates or hijackers, or trash like that.</p>
+   <p>And as long as I’m all the way forrad, it’s no fuze off my rockets.”</p>
+   <p>“What about the four hundred diplomats and their staffs you have aboard?” Retief queried.</p>
+   <p>“Some of ‘em might survive,” Suggs suggested indifferently. “Them’s strange diplomats,” he went on. “Always thought diplomats was nice, perlite fellers in striped pants, but I got about two hundred o’ the four hundred pulling rank and tryna take over my command, even that green deck-ape.”</p>
+   <p>“The various delegations naturally include the Ambassadorial staffs,” Magnan explained, poking his head in, “including their military advisors and technical people, some of whom, as you observed, are less than gracious in their manner.”</p>
+   <p>“Won’t be hardly no loss to blow ‘em to Kingdom Come,” Suggs summed up. “Step aside, there, feller!” He reached for the big, white execute lever. Just then Retief heard a distressed bleat from Magnan. He stepped outside the CD to help his badly shaken colleague inside.</p>
+   <p>“It—it moved!” Magnan whimpered. “I distinctly saw that nasty corpse move its arm.”</p>
+   <p>“I ain’t no corpse, bub,” the Hondu’s bass voice rumbled from below. Magnan leaped back as the wounded deck-swabber clambered up into view. The big spacer paused to wipe yellow-brown blood from his viridian eye and onto the bulkhead. “Lousy little runt snuck up behind me,” he grumped. “Give me a sprongache that’s got ‘Jazreel’ wrote all over it, or like that.” He thrust Magnan aside.</p>
+   <p>“What <emphasis>you</emphasis> doin up here in capn’s country, Terry?” he demanded.</p>
+   <p>“I came up to ensure that no unauthorized personnel attempted to intrude here,” Magnan told him stiffly,</p>
+   <p>“That’s a hot one,” Gloon grunted. “You’re unauthorized personnel your ownself.”</p>
+   <p>“Hardly,” Magnan contradicted sharply. “I assure you that under the circumstances, my presence here is not onlv appropriate but mandatory;</p>
+   <p>check FSR 1-923-b, if you like,”</p>
+   <p>“Happens I <emphasis>don’t</emphasis> like, Buster,” Gloon said dis-couragingly. “So if you’re authorized like you claim, who authorized you, hah?” He thrust his blood-smeared face close to Magnan’s and bared his square, chartreuse teeth.</p>
+   <p>Retief took him by the shoulder and spun him around to face him. “I did,” he told the astonished fellow.</p>
+   <p>“Yeah? And who are you supposed to be?” the eight-foot Hondu sneered. He reached as if to push Retief aside, then <emphasis>whoo^.ed</emphasis> and bowed from the waist.</p>
+   <p>“Sneaky,” he wheezed. “I never seen no cargo-ram.”</p>
+   <p>“Life is full of trifling disappointments,” Magnan put in from behind the big fellow. “Now you’d best betake yourself below before I become annoyed.”</p>
+   <p>“Geeze, we can’t have that, can we, mister?” the Hondu replied in an attempt at an insouciant manner, spoiled by his sudden yell and grab for support before plunging headfirst down the narrow companionway.</p>
+   <p>“Retief!” Magnan gasped. “You didn’t trip him!”</p>
+   <p>“Nope,” Retief replied cheerfully. “You did—he fell over your foot. I only pushed him.”</p>
+   <p>“If he should strike his already wounded head on those steel treads...” Magnan started. “I shudder to contemplate—”</p>
+   <p>“Right,” Retief confirmed. “Don’t think about it. As you pointed out, ochre and vert are a tasteless combination.” He broke off to step back inside in time to seize Suggs as he was about to unlock the board. As Magnan shrank back, Retief tossed the captain down on top of Gloon, eliciting sharp yells from both. He pulled Magnan inside and dogged the hatch shut.</p>
+   <p>“All right, Swabber Gloon!” the squawk-box rasped. “I see by the repeater panel here you got the CD secured.”</p>
+   <p>“It’s Kouth!” Magnan gasped.</p>
+   <p>“Now, I’m depending on you. Chief Gloon,” Kouth went on, “to set this here bucket down nice and easy on Old Moon, right dead on the target like I shown you onna chart.”</p>
+   <p>“Hard lines, Mr. Kouth,” Magnan said to the squawker. “I have determined that it is upon Mr. Retief and myself that the responsibility devolves to take control of this vessel. And we intend to take the necessary action to safeguard the lives and property of the passengers, as well as the vessel itself, for the safe return of which ITCH is responsible.”</p>
+   <p>“You must of slipped yer moorings. Cull,” Kouth came back. “If I gotta come up there—” he paused. “By the way, whereat’s that Swabber Gloon I dispatched to he’p the Cap’n?”</p>
+   <p>“He fell down,” Magnan supplied crisply. “And I venture to predict that if you should attempt to intrude here, you yourself might encounter the same unfortunate slippery spot.”</p>
+   <p>“Frankly, Retief,” he added <emphasis>sotto voce</emphasis> behind his hand, “I trust that Mr. Kouth less at every encounter.”</p>
+   <p>“Very perceptive of you, sir,” Retief congratulated his supervisor. “But this class of vessel requires at least two people to maneuver it; one up here and one aft in the Power Section, and I don’t think we can count on Chief McCluskey for cooperation.”</p>
+   <p>“Probably not, the cheeky fellow,” Magnan agreed thoughtfully. “In fact, I think it is incumbent upon me to report him to Captain Suggs—or it would be if you hadn’t thrown that officer away.”</p>
+   <p>“I’m sorry to say it was necessary,” Retief told Magnan. “He was intent on blowing us all up.”</p>
+   <p>“Shocking,” Magnan remarked, and paused. “But do you realize what this means? One of us has to return aft and do whatever is necessary.”</p>
+   <p>“Quite correct, Mr. Magnan,” Retief confirmed. “Unless we can recruit someone from among the naval attaches aboard.”</p>
+   <p>“Dream on, Terry,” Kouth’s gravelly voice broke in. “Youse Terries—yeah, I reckernize youse—are gonna like roo the day youse tryda muscle in on Jerry Kouth’s operation.”</p>
+   <p>“Let’s go aft, Mr. Magnan,” Retief proposed. “Our orbit is decaying, and we’re going to be in thick atmosphere and start breaking up in another ten minutes.”</p>
+   <p>„ “Then let us by all means make haste!” Magnan ordained. Retief undogged the hatch and they went down, stepping over first Gloon, then at the foot of the steep steps, Suggs, who groaned and muttered: “I can hear atmospheric molecules whanging off the hull already. We got to hurry up here. You need a reliable boy aft, gents, and I volunteer, if I can get up. You sprained my moobie-bone, feller,” he told Retief aggrievedly, as the latter helped him to his feet.</p>
+   <p>“Better get back there and give Chief McCluskey a hand,” Suggs rattled on. “Seems like he done gone sour on me,” he added as he staggered away, pounding his ear with the heel of his hand.</p>
+   <p>“Can we depend on him?” Magnan asked dubiously.</p>
+   <p>“Not a chance,” Retief dismissed the idea. “But we can send someone back to keep an eye on him.”</p>
+   <p>“Grand Captain Blance,” Magnan suggested gloomily. “No doubt he’s ranking naval officer aboard.”</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>4</p>
+   </title>
+   <empty-line/>
+   <p>From one deck above, the continuing disturbance in the Grand Salon was audible. Non-Terran voices boomed, squeaked, shrilled and rasped, all, it seemed, claiming primacy.</p>
+   <p>“No one’s doing anything constructive,” Magnan moaned. “While they should be putting their heads together to save the ship, they’re wrangling over who’s to be in command of the derelict when it disintegrates. Absurdi” He pushed ahead into the salon, where the din was like a storm at sea. A few voices rose above the tumult.</p>
+   <p>“...got my commission right here!” a tall, purple Rikk was yelling.</p>
+   <p>“My date o’ rank goes back to when you were getting your first GI gill-trim!” countered a pancake-like Jaq warlord in copper bangles.</p>
+   <p>“—protocol!” an insignificant-appearing Zub from Quopp shouted.</p>
+   <p>“To natter of protocol in the face of my overwhelming credentials as Great Hivemaster ofYan!” a Groaci diplomat protested in a penetrating whisper.</p>
+   <p>“That’s Shoss, a mere Assistant Military Attache,” Magnan observed.</p>
+   <p>“Correction, Mr. Magnan,” Retief countered. “That’s Colonel Hivemaster Shoss, brevet Lieutenant-General, one of Groaci’s most-decorated troublemakers.”</p>
+   <p>“To have heard that, Retief!” the Groaci hissed, turning on the Terrans, his distended throat-sac a deep purple, indicating Extreme Wrath, Righteous, (B-52). “In your profound ignorance of noble Groacian tradition, you grossly mis-translate the proud honorific ‘Thusfoth,’ which in fact might better be rendered ‘Trusty Rectifier of Egregious Wrongs’ rather than ‘Troublemaker,’ as you so crudely suggested. I outrank a Troublemaker First Degree by nine grades!”</p>
+   <p>A preternaturally tall, long-beaked Quornt in stained fatigues without rank badges thrust Shoss aside. “I’ll put it to you gents,” he told Magnan. “Who ranks, a Maker of Ritual Grimaces First Class from some third-rate power, of a Quornt All-Conquering Annihilator of Hostile Armadas?”</p>
+   <p>“It’s a toss-up,” Retief advised him.</p>
+   <p>“So, OK, I'll toss him up,’ the Quornt acceded contentedly, and turned to grab an ornately-dressed Frib and throw him carelessly aside.</p>
+   <p>Magnan made an abortive lunge to intercede, but met a homy knee to the jaw, and stumbled aside, muttering, almost inaudibly; “You fail to understand the intent of my subordinate’s proposal.”</p>
+   <p>“Better tone it lower, feller,” the Quornt advised. “Keep it inaudible and I can’t hardly take offense at what I can’t hear, right?”</p>
+   <p>“Possibly,” Retief said, as he stepped hard on the tall creature’s unpolished boot and kicked him hard on the knee, causing him to jerk futilely at his trapped foot and then topple backward, arms windmilling, to impact the floor with an impressive <emphasis>whoomp!,</emphasis> knocking the cocked hat from the pointy head of a Zanubian admiral in the process. The admiral uttered a hoarse yell and drew his ceremonial sword, which Retief confiscated for safekeeping.</p>
+   <p>“Mutiny!” the disarmed flag officer bellowed.</p>
+   <p>“Whatever you say. Admiral,” a Zanubian Lieutenant Last Class replied, and knocked him down. The melee spread rapidly, heated conversation turning to inept fisticuffs in a trice.</p>
+   <p>“Good lord,” Magnan mourned. “Heated conversation has given way to inept fisticuffs in a trice!” He broke oft abruptly as two heavy-set aliens, identical even to their thick mops of head-tendrils except that one was bright orange, the other blue, locked in a complicated wrestler’s grip and counter-grip nearly ran him down.</p>
+   <p>“Gloian and Blort, pursuing their fratricidal competition even here, in the halls of diplomatic sweet reasonableness!” The shaken First Secretary and Consul exclaimed. “Why, I do believe that’s General Barf—you remember the general, Retief. Really a most reasonable chap, once he gets past that lamentable tendency to strafe first and negotiate afterward.”</p>
+   <p>“What’s to negotiate?” the general demanded, at the same time attempting to dislodge his adversary’s gouging digit from his sensitive zatz-patch. “You think I’m gonna yield pride of place to this here Blort? Not broody likely!”</p>
+   <p>“But—he’s a fellow native of Plushnik!” Magnan protested. “I should think—”</p>
+   <p>“Right!” Barf confirmed, “preferably before you talk! And I ain’t no native! I got shoes on same as you, fancypants!”</p>
+   <p>“Retief!” Magnan mourned. “What’s a Deputy Chief of Mission to do? They’re incorrigible! Look at that great ugly Nether Furthuronian molesting that poor, pacifist Grotian. I think that’s poor dear D’ong, isn’t it? Why doesn’t she whaffle, I wonder?”</p>
+   <p>“That would be cowardly in the extreme, Ben,” D’ong reproved, even as she eluded the Furthuronian Primary War Chief by deftly extruding a flexible member ending in a large, knobby fist, with which she stunned her aggressive tormentor with a sharp rap to the barf-node. She stepped aside as he fell heavily.</p>
+   <p>“Pity to resort to violence,” she commented, “but these Yahoos leave one scant choice.”</p>
+   <p>“ ‘Yahoos’?” Magnan gasped. “My dear Madame Secretary—these are the cream of the Arm’s career diplomats, chosen by their respective peoples as delegates to a tribunal which will establish peace in the Galaxy for a millennium at the least!”</p>
+   <p>“If the fate of the Galaxy depends on this bunch agreeing with each other,” D’ong commented, “maybe I’d best whafile after all. Do pass along my regards to dear Freddie.” With a sharp <emphasis>whap\ of </emphasis>imploding air, she disappeared.</p>
+   <p>“I give up,” a bristly pink Spism declared loudly, and bustled to the fore, its wiry arms overhead. “I saw you vaporize old D’ong, which she wasn’t a bad old dame, for a Grotian! Leave me live, and I won’t say a word.”</p>
+   <p>“You may relax, Mr. Ambassador,” Magnan soothed the excited fellow. “I assure you I did not ‘vaporize,’ as you put it, her Excellency the Ambassador of Grote!”</p>
+   <p>“We’re not, after all, blind, Ben,” the Quornt Annihilator cut in harshly, brushing himself off after his fall. “I myself was assaulted but now by your assistant,” he added, then turned to address the crowd whose scuffling members had paused in mid-attack at what they had taken to be the sound of a hardshot.</p>
+   <p>“Clearly,” the tall warrior called, “we are victims of an insidious Terry plot. Was it not haughty Terra which proposed the Convention of this Tribunal? It seems we are to be done away with, one by one, whilst our attention is distracted by the petty disputes so cleverly fomented by none other than Ben Magnan and his notorious tool, Retief!”</p>
+   <p>“Yeah, I was just saying—” someone shouted. And “I seen him, too!” another contributed,</p>
+   <p>“Where’s Mr. Kouth?” a hoarse voice yelled from the far side of the salon, at once seconded by a chorus of demands for Boss Kouth.</p>
+   <p>“It just might be expedient at this point,” Magnan whispered to Retief, “to take a leaf from D’ong’s book and whaffle. You do recall the technique, I hope?” So saying, he squeezed his eyes shut and a second <emphasis>whap\</emphasis> sent the close-pressing onlookers back a step, setting off a brisk renewal of the free-for-all. Retief made his way through the press, fending off random blows and charging combatants as he went. Suddenly Kouth appeared directly in his path, planted solidly and blocking the way. He looked at Retief without visible joy.</p>
+   <p>“OK, where’s that tricky side-kick o’ yourn?” he demanded. “I wanna talk to him.”</p>
+   <p>“Oh, he must be off somewhere minding his own business,” Retief told the ill-tempered Boss.</p>
+   <p>“Is that some kinda crack?” Kouth inquired.</p>
+   <p>“Not unless you feel <emphasis>you’re</emphasis> not minding your own business,” Retief told him.</p>
+   <p>“Yer too smart-mouth fer yer own good,” Kouth stated. “Who are ya, anyway? Some kind big general, that pal o’ yours said, but I ast around, and seems like you’re only one of these here Embassy Johnnies. So how about it?”</p>
+   <p>By this time Kouth’s variegated retainers, many in crew uniform, had formed a loose circle around the two.</p>
+   <p>“As it happens, Mr. Kouth,” Retief said calmly, “I’m not on active duty in a military capacity at tills time.”</p>
+   <p>“Oh,” Kouth mimed surprise, grinning around at his strong-arm squad. “He ain’t on active duty,” Kouth sneered. He returned a threatening, gimlet-eyed gaze to Retief.</p>
+   <p>“Yer a little too active to suit me,” he announced in a tone he seemed to feel was intimidating, at the same time rolling his well-developed shoulders and opening and closing the large fists that hung at his side. He brought one up in what was intended to be a deceptively lazy motion, and scratched above one badly twisted ear with a loud rutching sound, then whipped his hand, flat now, over and down in a whistling arc which ended in a sharp <emphasis>smack\</emphasis> as Retief casually caught the wrist and held it. Kouth tugged; Retief held firm. Kouth tried to twist his arm free, and Retief added to the torque, forcing the aggressive Boss to his knees. There was a mutter from his retainers. Retief jerked Kouth to his feet.</p>
+   <p>“Say ‘I was a bad boy’ three times,” Retief ordered, bending Kouth’s hand back until his wrist made popping sounds.</p>
+   <p>“I was a bad boy three times,” Kouth gobbled. “Now lemme go, before—”</p>
+   <p>“Yes,” Retief inquired interestedly, and gave him another two degrees of over-extension.</p>
+   <p>“Before you break my arm,” Kouth amended, then, catching the eye of someone to Reliefs right, added: “And I hafta get tough!”</p>
+   <p>Retief reached over and caught the man on his right by the hair, as the latter ducked his head for a charge. Retief jerked him close and shifted his grip to lay his forearm across the fellow’s cheekbone, and levered upward slightly, eliciting a terrified squawk from the would-be attacker.</p>
+   <p>“Yer running outa arms,” Kouth muttered, and tried a snap-kick, which met a boot-sole to the shin. Kouth groaned and lunged backward, as two more of his boys closed in. Retief jerked Kouth to the left, swinging him in an arc which lifted the Boss’s feet from the floor; the flailing members knocked the foremost man back among his fellows. Then Retief lifted the other man by the head, as Kouth was led off, bleeding from the mouth, by his solicitous allies, one of whom produced a snub-nosed hard-shooter and aimed it at Retief, who kicked it from his hand.</p>
+   <p>“Nicely did, pal!” a Furthuronian Marine Guard Sergeant commented, neatly catching the slug-gun on the fly. “I been meaning to speak to this Boss Kouth my ownself about his manners, which he ain’t got any. So, you taking over now, or what?”</p>
+   <p>“I defer to his Eminence,” Retiefsaid graciously, inclining his head toward the Hoogan Cardinal in full canonicals who had come over to see what was going on.</p>
+   <p>“You mean you’re backing down to some kinda sissy preacher?” the Furthuronian demanded in a tone of Astonishment at an Unprecedented Shift in Strategy.</p>
+   <p>“It’s more of a tactical play, Clarence,” Retief told the multi-tentacled, slug-like non-com. “This is Cardinal Oh-Moomy-Gooby, a redoubtable warrior in the cause of Church reform and tax-free booze.”</p>
+   <p>“Sounds like a all-right guy, all right,” Clarence conceded and faded back.</p>
+   <p>“In the absence of any further pretenders to the mantle of Captaincy,” the Cardinal intoned, “I shall accept the responsibility.” That settled, His Eminence withdrew to a shadowy alcove and his brandy bottle.</p>
+   <p>“I wun’t take that too serious, pal,” Kouth offered, mumbling through his bruised mouth. “The old boy will be busy with his sauce fer awhile, and then he’ll be so juiced he won’t have no more big ideas about commanding no ten-thousand-tonner. So 111 jest step into the breach like they say, and ease her down nice on Old Moon.”</p>
+   <p>“Not quite,” Retief corrected the Boss. “I’m putting her down on Stug, as scheduled.”</p>
+   <p>“You still on that kick, feller?” Kouth inquired as if amazed. “I already tole yer I and my boys are giving the orders now, and that’s it.” He broke off to yell, “Hey, Charlie!” to which responded a small, unshaven Terran in incredibly soiled whites, to the sleeves of which three shiny gold stripes had been stitched so hastily that Charlie was kept busy tucking the loose-flapping ends back in place.</p>
+   <p>“Yessir, Mr. Boss, sir,” Charlie panted, offering a salute which resembled a wave of farewell to a departing traveler.</p>
+   <p>“This here,” Kouth said importantly, “is Cap Stunkard, got more years in space than most has hours. He’s my First Mate.”</p>
+   <p>“Do you mind if I look at your captain’s papers, Captain?” Retief inquired.</p>
+   <p>“Look ahead, if you can find ‘em,” Stunkard agreed carelessly.</p>
+   <p>“Mr. Kouth,” Retief addressed the Boss again, “You and all your adherents are under arrest. Go lock yourselves in your quarters.”</p>
+   <p>“Me?” Kouth echoed, trying for Astounded at Unparalled Impertinence, Level Four. “And what-taya mean ‘my derents’? I ain’t got none, nor no butterfly collection neither. Charlie, you got yer orders. Do it!”</p>
+   <p>Charlie took a brisk step to comply, but rebounded from the arm Retief had thrust out across his path. Charlie cast a dubious look at Kouth, then set about applying various Yug-Sub-Woo holds to the obstacle until Retief flipped him aside. “Now,” he told Kouth, “don’t wait for a police escort.” He gripped Kouth’s shoulder and spun him to face the aft grand passage. “Will you walk, or shall I throw you?” Retief inquired in an interested tone.</p>
+   <p>“Naw, naw, nothin like that, pal,” Kouth hastened to blurt. “I was jest going down thataways.”</p>
+   <p>He set off, reassembling his dignity as he went, pausing momentarily to confer hastily with various of those who had been vigorously seconding his self-nomination, each of whom faded back and began working his way toward Retief.</p>
+   <p>“Mind your flanks, Retief,” the Fustian elder, Whelk, suggested from his place on the sidelines. “May I have the tall ugly one with the bread-knife?”</p>
+   <p>“Certainly,” Retief agreed. “Don’t spoil him for the trial, though.”</p>
+   <p>Whelk moved off, as ponderous as a walking crane, and Retief watched as Kouth hastened off along the passage toward passenger country. Suddenly he halted, spun and raced back toward the salon.</p>
+   <p>“Look out!” he yelled. “They’re coming!” Most of the contentuous crowd fell back in alarm, while the others rushed forward to comfort their leader.</p>
+   <p>“It’s the blue Cobblies!” Kouth shouted hoarsely. “We ain’t got a chancet!”</p>
+   <p>“Calmly, now, everyone,” Cardinal Gooby’s resonant voice boomed out. “You, there, Admiral! And you too, General Blow! I’m surprised at such intemperate behavior in officers of your respective ranks. Keep calm! Blue Cobblies, indeed! All enlightened beings are aware that the term is a reference without a referent, applying as it does to mere figments of superstition!”</p>
+   <p>“Yeah, maybe,” a shaken ambassador from Icebox Nine offered. “But them figments are swarming all over the place! See for yourself!”</p>
+   <p>The Cardinal, ignoring the jibe, wrapped himself in his robes and sank back into meditation. The salon was cleared now of passengers, except for those flattened against the walls, and one other, the gorgeously caparisoned Grotian Ambassadress D’ong.</p>
+   <p>“Oh, Retief,” she called. “I do hope you don’t mind my meddling, but it <emphasis>did</emphasis> seem an appropriate moment to boggle; dear Ben seemed so upset!”</p>
+   <p>Just then Magnan appeared from a door marked private—auth PERS only. He paused to glance about the vast, abruptly silent salon, frowned, and hurried across to Retief.</p>
+   <p>“Oh, there you are!” he caroled. “I do hope you weren’t alarmed when I whaffled so abruptly. Actually, I wasn’t sure I still remembered the technique; that’s why I just nipped over to D’ong’s cabin to confer with her; it was her idea to boggle; and it seems to have worked wonders. Astonishing how very sophisticated people believe in blue Cobblies when they see them advancing in full cry!”</p>
+   <p>“I’m glad you came to me, Ben,” D’ong told Magnan when the latter had concluded his briefing. “Surprised, too,” she added. “But I’d have assumed you’d whaffled to the planetary surface, to inform our hosts of the reason for the delay.”</p>
+   <p>“Hardly,” Magnan huffed. “One doesn’t leave one’s colleagues in the lurch, while one retreats to a safe haven, however logical one’s rationalization might appear.”</p>
+   <p>“Pray accept my apologies, Ben,” D’ong pled earnestly. “I meant to impute no baseness to you.”</p>
+   <p>“Of course,” Magnan reassured the sensitive Ambassadress. “As for your blue Cobblies, I think it’s time to just boggle them back where they came from, before they drive all these fine diplomats to distraction.”</p>
+   <p>“It’s not quite so simple as that, Ben,” D’ong told him. “You must recall that a considerable adjustment to the vorb plane is necessary to effect such a wide-scope illusion. I fear my vital energies are too depleted now to reverse the effect.”</p>
+   <p>“You mean?” Magnan yelped.</p>
+   <p>D’ong nodded a head she had deployed for the purpose. “But perhaps if you’d join with me, Ben...”</p>
+   <p>“Of course,” Ben agreed at once. “But I’m not at all sure I know how.”</p>
+   <p>“It’s quite simple,” D’ong reassured him. “I’ll show you.”</p>
+   <p>“Hey, Cap,” Kouth blurted, staggering up to the threesome, “whattaya doin about these here like blue Cobblies and all?”</p>
+   <p>“Shocking!” Magnan retorted. “Now that an <emphasis>unexpected</emphasis> disaster rears its head, suddenly you’re demanding that the very person whose credentials you rejected produce a remedy. Why don’t you and your minions deal with the trifling annoyance yourselves?”</p>
+   <p>“Ain’t none of my boys ever seen anything like ‘em before,” Kouth complained, “cept Woozy, o’ course; he’s so far gone on the pink stuff he seen everything, but all he can do is climb the drapes and yell <emphasis>I see ‘em!</emphasis> No help there.”</p>
+   <p>“What do these Cobblies of yours look like?” Retief asked the badly shaken Boss. Kouth’s jaw dropped.</p>
+   <p>“You got bad eyesight or somethin. Cap?” he demanded. “How you gonna clear ‘em outa here if you can’t even see ‘em?”</p>
+   <p>“The entities you see, sir,” D’ong put in, “have no substantive existence: they represent your own neuroses objectivized. To no two persons do they appear the same. Since Mr. Retief is remarkably non-neurotic, the phenomenon fails to affect his optic nerves.”</p>
+   <p>“Oh, yeah?” Kouth came back. “I ast Little Harry, and he seen the same as me: like little flat worms, with shredding hooks all over, coming on in a solid wave. They’re right there, see?” He pointed to a bare spot on the floor six inches from his ankle. “You telling me they ain’t?” he demanded and raised a boot to stamp hard on the floor. “Got the sucker!” he cried happily. “OK, everybody,” he called, as he turned and strode out into the middle of the deserted floor. “Let’s get ‘emi” he ordered. “You, Stan, just stamp on ‘em!” He began clapping his hands rhythmically. “Everybody dance!” he yelled, and proceeded to bawl out the words to a hillbilly lament. People were stirring, jittering, stamping, and in a moment the room was a sea of wildly bouncing beings. The band, caught up in the frenzy, deployed from their refuge behind the bandstand and struck up in approximate accord.</p>
+   <p>“Good lord,” Magnan moaned. “It’s like a convention of St. Vitus’ Dance victims.” As he spoke, he began to bob erratically, then took a tentative step, and followed it with an entire series of quick hops, until D’ong extruded a tentacular member and caught his arm, stilling him. “Ben,” the shy Ambassadress said, tugging Magnan back to her side. “Doubtless it’s excellent therapy, but we must exert ourselves to dissipate the hallucination, not reinforce it.”</p>
+   <p>“To be sure,” Magnan agreed happily. “But they <emphasis>do</emphasis> squish so delightfully! Besides, I haven’t cut a rug in years!”</p>
+   <p>“The situation is deteriorating, Retief,” D’ong muttered. “We can’t let it get out of hand; could you bring Ben back to his senses, do you suppose?”</p>
+   <p>Retief said, “I’ll try,” and stepped to Magnan’s side. “If Ambassador Spoilsport saw you cutting the rug,” he told the restless First Secretary, “while <emphasis>he’s</emphasis> struggling to keep our hosts engaged in light chit-chat to divert their attention from the fact that the members of ITCH have failed to appear for the conference <emphasis>he</emphasis> persuaded them to tolerate, I think your interest in terpsichore would vanish in a hurry.”</p>
+   <p>Magnan went rigid for a moment, then relaxed and hastily ducked behind D’ong.</p>
+   <p>“I don’t know what came over me,” he started. “Do you really think the gimlet-eyed old devil was looking? Heavens, I knew he had his spies planted everywhere, but <emphasis>here,</emphasis> aboard ship?”</p>
+   <p>“There, there, Ben,” D’ong soothed, turning to embrace him with a hastily improvised comradely arm. “No one saw you except Retief and myself, and a remarkably graceful figure you cut, too, indeed! But now we have work to do. Just cinch up the old sphincters nice and tight, and...” her voice dropped to a whisper. Magnan was nodding hesitantly, then eagerly.</p>
+   <p>“Yes, yes, of course I can do it!” he cried. “Nothing simpler!”</p>
+   <p>“We have to link arms, remember,” D’ong continued as Magnan closed his eyes in concentration. He nodded vigorously and took D’ong’s temporary arm. A moment later, the music stopped with a crash, only Kouth’s off-key voice carrying on for a moment:</p>
+   <p>“...but I didden cheer nobody prayy....”</p>
+   <p>“In that connection,” the booming voice of Car dinal Gooby cut through the hubbub, “as the direct representative of the vicar of God, I of course outrank any mere temporal authority. Accordingly, I have decided to put an end to this foolish disputation once and for all. It is to <emphasis>me</emphasis> that you may come for your instructions. Ah, Retief,” the Prince of the Church added in a lower tone. “Since I have little practical experience of the operation of deep-space passenger vessels, I appoint you to the post of Advisor in that sphere. What, for example, should I do now?”</p>
+   <p>“Actually, Your Eminence,” Retief told the imposing church-being, “We no longer have much choice. Do you hear that whistling sound?”</p>
+   <p>“Ah, now that the cacophonous ensemble has discontinued its efforts,” the Cardinal commented, nodding, “I do indeed hear a most unpleasant screeching. It seems to be coming from all directions. What is it?”</p>
+   <p>“We’ve lost velocity and dipped into the atmosphere,” Retief told the massive being. “So we’re committed to putting down on Stug.”</p>
+   <p>“Here, we cain’t do that!” the runty Stuggan named Little Harry blurted. “Let’s jest see what Boss has got to say about this!” He darted away.</p>
+   <p>“It appears,” Magnan told the excited Kouth when he appeared moments later, loudly objecting, “that you are presented with the/ait <emphasis>accompli, </emphasis>We’re committed to landing. So you may as well lend a hand to help us get down intact.”</p>
+   <p>“OK, onney first I wanna be sure nobody don’t hole <emphasis>me</emphasis> responsible. Jest write out a free pardon or like that, letting me and my boys, too, off the hook, for any crimes we might of did.”</p>
+   <p>“I fear that will not be possible, Mr. Kouth,”</p>
+   <p>Magnan told him distantly. “Still, if you wish to survive you’d best pitch in. Now be about it.”</p>
+   <p>An undernourished fellow with a worried frown came up and Kouth caught him by the arm and conferred briefly with him. Magnan caught the name “McCluskey.” The fellow hurried away.</p>
+   <p>“OK, gents, sure, I’ll save yer bacon for youse,” Kouth grated in a sudden attempt at a gracious manner. “Jest wait a minute till Stan gets back...”</p>
+   <p>“Wherever has that ruffian, Gloon, betaken himself?” Magnan queried, peering around anxiously. “He’s an experienced spacer, so perhaps we’d better send him aft to man—or rather, to hondu the Power Section.”</p>
+   <p>“Good idea,” Kouth commented.</p>
+   <p>“I was not addressing my remark to you, sir!” Magnan snapped. “But to Mr. Retief. Retiefl Don’t you agree—”</p>
+   <p>“Certainly, sir,” Retief replied. “I sent him back while you were tending Captain Suggs’s bruises.”</p>
+   <p>“But—without my permission—” Magnan blurted.</p>
+   <p>“Hardly, Mr. Magnan,” Retief corrected him. “You suggested it yourself; it was simply a matter of timing—and so I expect to explain in my report.”</p>
+   <p>“To be sure,” Magnan agreed, nodding sagely. “It’s what I had in mind all along.”</p>
+   <p>“Well, gents, I got bears to shoot,” Kouth put in absently. “I gotta run along. See youse in the slammer.” Just then Stan returned at a lope, his close-set eyes looking more anxious than ever. He muttered in Kouth’s ear.</p>
+   <p>“Whattaya mean. They ain’t there*?” Kouth yelled. “I put ‘em in there my ownselfT</p>
+   <p>“Pity about your arms cache, Kouth,” Retief told the Boss quietly. “They fell into the converter.”</p>
+   <p>“Oh, yeah?” Kouth snarled, at the same time hauling out from his under-jacket holster a snub-nosed needier.</p>
+   <p>“All except this one,” Retief continued, and showed Kouth the heavy-duty crater gun; then he took the Browning from the Boss’s hand and gave it to Magnan.</p>
+   <p>“Try not to shoot him unless perhaps you don’t like the look on his face, sir,” Retief suggested. Magnan took the weapon dubiously and tucked it away.</p>
+   <p>The whine of atmospheric molecules whanging off the hull had risen to a penetrating screech. People were covering their auditory organs and converging on Retief.</p>
+   <p>“You’re the captain!” the Glorytian counsellor cried in a voice which rivaled the screech of reentry. “I <emphasis>demand</emphasis> you <emphasis>do</emphasis> something at once!” Her eye fell on Magnan.</p>
+   <p>“And <emphasis>you,</emphasis> you horrid little Terry! What are <emphasis>you </emphasis>doing to save innocent lives?”</p>
+   <p>Magnan drew his needier and pointed it at the Glorytian’s sensitive zotz-patch.</p>
+   <p>“Shut up,” he ordered quietly. “You, Madame,” he went on, “are designated as chairman of the Tidying-Up Committee. Do something about this mess.” He indicated the smashed glasses and spilled booze on every side.</p>
+   <p>“What committee?” the new appointee yelled. “I don’t see no committee. And whattaya mean, telling me to shut up?”</p>
+   <p>“To be selected by yourself,” Magnan clariBed. “Now do be off about your business. This is a real gun,” he added. “And while I should dislike to add to the mess, I will not tolerate any further vocalization from you. Scat!” he finished and jabbed the small weapon toward the gaunt female. She fled.</p>
+   <p>“Nice going, sir,” Retief congratulated his colleague. “That voice of hers was precisely in resonance with one of the minor frequencies of the hull. Intolerable.” He turned to Kouth, who was standing by with his mouth open.</p>
+   <p>“He’da <emphasis>done</emphasis> it,” he muttered. “By golly, he’da done it, if she wouldn’ta shut up,”</p>
+   <p>“Damn right,” the blurry voice of the man called Woozy confirmed his chiefs assessment.</p>
+   <p>Retief took Kouth aside and gave him his instructions. “And report to me on the bridge when you have everything ship-shape,” he concluded.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>5</p>
+   </title>
+   <empty-line/>
+   <p>Back in the Command compartment, Magnan wiped at his narrow face with an oversized floral-patterned tissue with the armorial bearings of the triarch of Gree, then noticed what he was using and quickly stuffed it into the waste slot as if to disassociate himself from the <emphasis>lese niajeste.</emphasis></p>
+   <p>“Heavens, Retief,” he said, “however will you manage an already perilous approach, in a damaged vessel, without assistance from the crew?”</p>
+   <p>“Boss Kouth and his troops decided to help out,” Retief told him.</p>
+   <p>“Oh,” Magnan exclaimed, “I <emphasis>don’t</emphasis> think I’d trust <emphasis>him!</emphasis> Though I did notice a number of his most vocal supporters scurrying about as if intent or something.”</p>
+   <p>“There are a number of systems that have to be set up manually,” Retief explained. “Safety interlocks to be set, for example, that are open for normal functioning.”</p>
+   <p>“To be sure,” Magnan murmured. “Now what? This panel looks so complex. Are you sure....?”</p>
+   <p>“I’m only sure,” Retief said, “that if somebody doesn’t do something, we’ll break up in the atmosphere.”</p>
+   <p>“Then by all means,” Magnan blurted. “Can I help?”</p>
+   <p>“OK,” Kouth’s hoarse voice crackled from the talker. “I and my boys done like you said. Lucky fer you we’re all experienced spacehands. Now what you got in mind?”</p>
+   <p>“Get up here at once,” Magnan spoke up, “just as I distinctly heard Captain Retief tell you!”</p>
+   <p>“Keep yer lace britches on. Cull,” Kouth admonished carelessly. “I’m onna way, ain’t I?”</p>
+   <p>Retief quickly set up the panel for re-entry, first using a blast of reaction-mass to push the wounded vessel up and clear of the outer fringes of the Stuggan exosphere. The nerve-shredding whistling faded into inaudibility. Magnan heaved a sigh of relief. Carefully, Retief reduced the velocity of the hurtling mass that was the good ship <emphasis>Expedient, </emphasis>then gently eased her back down into the thin gas at the fringe of the soupy atmosphere below. The screeching resumed briefly, then became a deep-toned thrumming. Retief watched closely as the hull-temperature indicators crept up toward the fusing level of the outer ablative hull; then sheets of flame and an eruption of glowing particles were rushing past the look-out sensors. At last, dense air was reached and Retief deployed the airfoils, and the ship steadied into its long glide down.</p>
+   <p>Magnan stayed glued to the DV screens, watching the misty surface below as it slowly resolved into the mountains and plains, seas and rivers of the world known as Stug.</p>
+   <p>“I see Big Continent coming over the horizon!” he cried happily. “There’s a town, too, just as it looks on the map back at Sector. Oh, boy! The port is north of the city, of course,” he added, his voice fading as he recalled that Retief was a licensed space pilot and thus familiar with all major ports in the Arm.</p>
+   <p>“Won’t his Excellency be delighted to see me right on time, too,” Magnan burbled.</p>
+   <p>“I assume the question is rhetorical,” Retief replied. “The last time Percy Spoilsport was delighted was when his rival for the post of Coordinator of the Academy for the Correction of Historical Errors fell into the sulphur pits at Yan and dropped out of the running.”</p>
+   <p>“Yes, that was a stroke of luck for His Excellency,” Magnan agreed. “Cecil Proudfoot was a fierce competitor. And as chief of ACHE, Spoilsport not only revised African history to eliminate all that horrid cannibalism and genocide, he was able so favorably to impress the Board of Examiners as to secure the additional plum as head of ITCH! A superb career plan, when he enticed poor Ambassador Proudfoot to go along on his PR tour of the Pits.”</p>
+   <p>“It must warm the cockles of your heart, Mr. Magnan,” Retief suggested, “to reflect that it is to this same gentle kindly man that you are about to report failure.”</p>
+   <p>“Failure? I?” Magnan yelped. “How, pray, have I failed? Why, simply to survive in these circumstances is itself an achievement!”</p>
+   <p>“We haven’t actually survived yet, Mr. Magnan,” Retief pointed out.</p>
+   <p>“Well,” Magnan pulled at his chin. “I suppose not, not <emphasis>quite</emphasis> yet. Still, when I make my report to His Excellency we <emphasis>shall</emphasis> have survived. Wherein lies the failure there?”</p>
+   <p>“Don’t you think he’s likely to inquire into just who it was who poked a hole in itch’s leased vessel, and why?” Retief asked casually, having first switched off the talker.</p>
+   <p>“Well, gracious, as to that,” Magnan temporized. “I suppose the nosy old thing <emphasis>i$</emphasis> likely to introduce some crude carping note into what should be an occasion of congratulation. But unfortunately we don’t have any cogent answers to this unconscionable third-degree.”</p>
+   <p>“We could ask,” Retief suggested.</p>
+   <p>“Ask whom, pray?” Magnan came back sharply.</p>
+   <p>“We could start with Mr. Kouth,” Retief suggested.</p>
+   <p>“I doubt he’ll prove helpful,” Magnan predicted. “The fact is,” he went on in a confidentional tone, “I shouldn’t wonder if he isn’t in some way implicated himself. Doubtless you noticed that most of the crew quickly leaped to support his tenuous claims to the abdicated laurels of Captain Suggs. Almost as if they had worked it all out beforehand.”</p>
+   <p>“Good thinking, sir,” Retief congratulated his chief. “So it seems he should be well qualified to shed some light on just what’s going on here.”</p>
+   <p>“Going on?” Magnan yelped. “Why, we’re crashing in flames, that’s what’s going on!”</p>
+   <p>“I don’t think that’s any part of Kouth’s plan,”</p>
+   <p>Retief corrected. “He didn’t strike me as the kamikazi type, especially for no purpose.”</p>
+   <p>“Still,” Magnan sighed, “what Mr. Kouth is thinking is his secret.”</p>
+   <p>“I still think we could ask him,” Retief pointed out.</p>
+   <p>“Yes, I feared you’d think of that,” Magnan said with a modest shudder. “I <emphasis>do</emphasis> so dislike mayhem...”</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>6</p>
+   </title>
+   <empty-line/>
+   <p>They found the Boss in the VIP lounge, sprawled at ease in a tump-leather throne intended for use by Heads of State only, surrounded by subordinates, most of them in the uniform of the Nine Planet Line, all talking at once;</p>
+   <p>“...this here bucket into a viable mode, Boss,” A cargo officer was saying urgently.</p>
+   <p>“—break up, and I mean soon!” a burly wiper insisted.</p>
+   <p>“Let ‘em know fast, maybe we can do a eevee transfer or something,” a plump fellow in chefs whites suggested half-heartedly.</p>
+   <p>“Easy, boys,” Kouth cut short the babble. “Boss has got it all under control, right? Now, you, Stan, get back to yer Comm Section and raise Dooley on the tight-beam. I’ll be along as soon as I finish my drink here.” As he sipped from the tall glass in his hand, as if in response to his own command, his eyes fell on Retief, who had gently parted the circle of admirers, wounding four, to take a position in the front row. Kouth choked on his razzle-and-zizz-water and came to his feet in a lunge.</p>
+   <p>“Looky who’s here, boys,” he invited in a gleeful tone, then, to Retief: “I been looking for you, feller, which you don’t quite get the program. Well, they don’t call me Boss for nuthin, and I don’t care a good rap what that shellback preacher says, I’m in charge here, and I say we still put her down on Old Moon. Any objections?”</p>
+   <p>“Only a few,” Retief told him quietly. “For a start, there’s the matter that unless someone takes the necessary action right now, this vessel won’t be putting down anywhere. Then there’s the trifling matter of four hundred diplomatic personnel aboard who expect to participate in a conference on Stug, not Old Moon, and that brings us to you. You’re a loud-mouthed trouble-maker without enough brains to do a clean job of wrecking a space vessel for the salvage.”</p>
+   <p>“Hey, Boss,” Little Harry spoke up in the resounding silence that followed Retiefs rebuttal, “you going to let this here civilian bad-mouth you like he done?”</p>
+   <p>“Not hardly, Harry,” Kouth reassured the small man. “I’ll fix his wagon right, but first I got to get back to Comm and talk to Dooley, down Old Moon.” He pushed through his admirers a few steps, then halted and whirled.</p>
+   <p>“Whattaya mean, I din’t do a clean job, wise guy?” he yelled.</p>
+   <p>“Not yet,” Retief rebuked him. “We’ve still got the personnel to transfer, remember?”</p>
+   <p>“Why you think I’m talkin’a Dooley?” Kouth growled defensively.</p>
+   <p>“Why, the treacherous scoundrel!” Magnan contributed, ignoring Kouth’s presence. “He intended all along to transfer himself and his vile cronies to safety, while the rest of us perished!”</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>7</p>
+   </title>
+   <empty-line/>
+   <p>When Kouth slammed into the communications section, startling a man who sat drowsing before the big panel, Retief and Magnan were close behind him.</p>
+   <p>“All right. Spike!” Kouth yelled. “I seen you sleeping on duty! Got a good mind to leave you ride her down!” He broke off as a great shudder racked the vessel.</p>
+   <p>“She’s going!” he yelled, even louder. “Hurry yer dead butt up, Spike! Get Dooley on Number One, and I mean right now!”</p>
+   <p>“Already got him standing by. Boss,” Spike told his excited leader, “Tole him ya wanned’a talk, soon’s you give me the squawk!”</p>
+   <p>Kouth grabbed the shore talker. “All right, Dooley,” he rapped out. “I guess you got the cattle-barge standing by like yer orders tole ya. So close fast and cover both hatches; we got to get out now. We’re already on airfoils!” Even as he concluded his speech the ship bucked again, and an oblique pressure on boot-soles indicated that the hulk had taken up an off-axis spin.</p>
+   <p>“Won’t be long now!” Kouth yelled. He jumped to the all-stations talker and ordered;</p>
+   <p>“All crew to abandon ship stations pronto! Secure the salon with all the marks inside! Do it!” he turned and for the first time realized that he and Spike were not alone.</p>
+   <p>“You heard me!” he shouted. “Go get locked in the salon with the rest o” the losers!” He lunged toward Retief and met an oncoming fist to the jaw which loosened his knees and put a glaze on his eyeballs.</p>
+   <p>“Throw these here bums out, Spikey,” he mumbled. “Watch the shrimp; he’s mean as a fire-snake.”</p>
+   <p>Spike rose dutifully and approached Retief. “I ain’t leading with my chin like Boss, here,” he told the bigger man, and set himself, then yelped as Retief spun him, grabbed him by the neck and crotch and upended him. Spike protested vigorously, but Retief stuffed him upside down into a narrow wall-locker, and turned to Kouth, who was draped, sagging, against the panel.</p>
+   <p>“Tell Dooley to make that two personnel barges,” Retief ordered crisply. Kouth staggered a step and collapsed, snoring. Retief picked up the shore-talker and advised the dispatcher of the change in plan, ignoring the latter’s yelp of protest.</p>
+   <p>“You expect me to pull another barge out’a my sock, or what?”</p>
+   <p>“Don’t kid me, Dooley,” Retief countered. “Just tell the flighthne to rig Number Two for heavy cargo. Gold, in fact. The whole ITCH appropriation, in cash.”</p>
+   <p>“Boy o boy,” Dooley gobbled. “I guess you get a gold star on yer forehead after all, Bossi Hang loose. By the way, which part ya want us to match up with? That screen is showing three main pieces!” Kouth grabbed the talker and mumbled.</p>
+   <p>“Tell him the major fragment,” Retief counseled. “No doubt she failed along the breakaway lines; she’s still flying.”</p>
+   <p>“The biggest one, dummy,” Kouth told him. “Now get moving!” He dropped the talker and turned to Retief. “Hope yer satisfied, bub,” he grunted. “I onney hope I tole him the right piece.”</p>
+   <p>Magnan plucked at Retiefs sleeve. “How do you know we’re aboard the major piece?” he quavered.</p>
+   <p>“This is a Code Standard hull, Mr. Magnan,” Retief reminded him. “It’s stressed to give along the predetermined seams, and they’re designed to keep the entire personnel core intact. I’m sure you’ll recall the Code provision on that point?”</p>
+   <p>“To be sure,” Magnan agreed, more confidently. “But it appears we’ll all be firmly in the hands of these horrid pirates, once they board. We may as well forget the conference, I suppose.”</p>
+   <p>“Too right, sport,” Kouth spoke up. “Dooley ain’t as good natured as me. Prolly be pretty pissed when he finds out we ain’t got no load of gold guck aboard.”</p>
+   <p>“Oh, but we have,” Magnan corrected. “Just in case some of the members of the tribunal should prove recalcitrant, I, that is. Ambassador Spoilsport, wanted to be sure to have cogent arguments available to bring the laggards into line.”</p>
+   <p>“Bribes, eh?” Kouth queried respectfully.</p>
+   <p>“Hardly,” Magnan sniffed. “It’s called ‘economic assistance.’ “</p>
+   <p>“Good job it’s here, anyways,” Kouth commented contentedly. “But which piece is it on?”</p>
+   <p>“Right here, two decks down in the library, where miscreants of your stripe would never venture,” Magnan told him smugly.</p>
+   <p>“What’s that big word mean?” Kouth demanded. “Sounds to me like some kinda crack. Anyways, I read a book once. In reform school. All about the collapse o’ civilization or something like that. Taken me all year, but I done it. Got a D on the test, too. Highest in the class. I ain’t no dummy. So what say we sashay down and take a look. I ain’t never seen no billion guck in cash before. Oh boy.”</p>
+   <p>“Forget it, Mr. Kouth,” Magnan advised the cocky fellow. “I’ve decided to lock you up right here in communications, first removing the master unscrambler disc, of course.”</p>
+   <p>“And leave poor Spike and me to die, whilst youse skip out?” Kouth protested. “That there is krool, Mr. Magnan, is what it is. I guess Enlightened Galactic Opinion will have a word to say about that!”</p>
+   <p>“As it happens, Mr. Kouth,” Magnan told the cheeky fellow, “I have no intention of informing EGO; nor, as it happens, of abandoning you to your richly-deserved fates.”</p>
+   <p>“Oh, yeah?” Kouth countered truculently. “Uh, you mean you didn’t plan to murder I and Spiky after all? See Spike,” he addressed the locker, “I tole you he was a grand guy.”</p>
+   <p>“ ‘Mean as a fire-snake’ is. I believe, the term you employed,” Magnan corrected tartly.</p>
+   <p>“I was onny kidding around-like, wasn’t I Spiky?” Kouth appealed to his minion, whose reply was muffled by the steel door of the locker.</p>
+   <p>“Tell him to quiet down in there,” Magnan ordered Kouth, who went over and muttered through the ventilation louvres in the panel. The pounding and yells subsided.</p>
+   <p>“Say, I almost forgot,” Kouth spoke up brightly in the near-silence. “On account o’ this here spin is making me space sick. I gotta go back to Power Section for my medicine.”</p>
+   <p>“You needn’t bother,” Magnan told him. “I’ve already removed your arms cache, as I believe that fellow McCluskey has already advised you. Beside which, you must be airsick. We’re in atmosphere now, you know.”</p>
+   <p>“Figgered he was lying,” Kouth confided. “Trynna pull a fast one.”</p>
+   <p>“A great pity when one can’t trust his own subordinates,” Magnan commiserated. “But of course that’s to be expected when one embarks on a career of crime; all one’s associates are criminals.”</p>
+   <p>“Same with diplomacy, I guess,” Kouth offered sympathetically.</p>
+   <p>“A conscienceless criminal and a dedicated diplomat are hardly to be compared, sir!” Magnan rebuked sharply.</p>
+   <p>“Naw, I guess not,” Kouth conceded. “We ain’t got the scope o’ your boys; you’re the Big Leagues. But I guess we can get along OK anyways, right?”</p>
+   <p>There was a deep-toned <emphasis>thump\</emphasis> which added a new dimension to the on-center tumble of the derelict.</p>
+   <p>“That’s Dooley!” Kouth blurted, and started for the door, shying as Magnan made a move.</p>
+   <p>“Just thought I’d check,” Kouth explained contritely.</p>
+   <p>“We’ll wait here,” Retief told him. They did so, while Spike complained from the locker and the deck slowly processed. All loose objects had gravitated to the aft outboard comer of the crowded compartment. Retief went to the big ground-talker unit, replaced the circuit-breaker and raised Stug Approach Control.</p>
+   <p>“Hey, what’s going on out there?” an irritable voice demanded, almost blanketed in the static produced by the swarm of agitated particles in the midst of which the remains of the ship were slowly gyrating planetward. The buffeting and sounds of atmospheric friction were steadily increasing, amplified by the sounds of pieces tearing away from the disintegrating structure. “Looks like a meteor swarm,” the controller resumed. “—that you, <emphasis>Expedient?”</emphasis></p>
+   <p>“Say, there’s two bandits on a closing course with you,” the man on the ground said excitedly. “Might be some o’ them wreckers plan to get a tractor beam on you and claim salvage rights!”</p>
+   <p>Just then, the closed-circuit talker linked to Old Moon came on line:</p>
+   <p>“Hard lines, Boss,” Dooley’s heavy voice came in loudly. “No can do. Seems like somebody forgot to do the annuals on the barges, the last few years, and they’re grounded—prolly permanent. So you gotta get down the best way you can. Try for a nice solid impact here on Moon; we can smelt the gold out’a the remains later. Ta.”</p>
+   <p>“The mug’s tryna muscle me outa the picture,” Boss Kouth growled. “ ‘Grounded’, he says, and ac’s got ‘em on the screens ready to make contact!”</p>
+   <p>“Who’ll be in command of the second unit?” Retief asked Kouth, who frowned and guessed:</p>
+   <p>“Prolly old Cuffs Dubois; useta be a line captain in the Bogan Naval Service.”</p>
+   <p>“Raise him,” Retief orderd; Kouth got busy with the intership gear and was rewarded with a thin, nasal voice saying:</p>
+   <p>“Right here, Boss,” Dubois reported. “What’s up? Dooley was all excited; said load all personnel— at first I thought he was abandoning the boys, here.”</p>
+   <p>“Poor Dooley’s not playing with a full deck,” Relief told him. “We’ve got enough gold guck aboard to make every man rich, only we’re in failure mode here. So get a beam on your lead barge, and then grapple onto the biggest piece of cargo-bay you can find. Over and out.”</p>
+   <p>Kouth grabbed the talker and added: “We got a mutiny on our hands here. Cuffs; Dooley got a idear he can grab the whole take fer hisself. We’ll fool him: hold him hard, like my, uh, aide here, Retief said, and set up a grapple to the port aft emergency hatch. Do it!” Then he used the PA to summon all crew to Emergency Stations—Plan B.</p>
+   <p>“—and we’re gonna be boarded any second, by Colonel Dubois and his loyal crew,” he concluded.</p>
+   <p>“Wrong, sucker!” Dooley’s metallic voice cut across the squeals, whistles and rattles of the disintegrating vessel as he slammed into the compartment, a power gun in each fist. “I figgered you’d try something cute. Boss, so I got in here ahead of Cuffs and his traitors. Who’s he think he is, tryna take his direct supervisor in tow?”</p>
+   <p>“Jest tryna give ya a hand, Dooley,” Kouth alibied weakly. “See, we got a like little problem area here. We got to transfer all ship’s complement to yer barge while we still got hull integrity here, so we got to move fast. My boys are all in place, ready to load.”</p>
+   <p>The guns in Dooley’s hands held steady on the Boss. There was a sudden outburst of thumping and yelling from the locker just beside Dooley; his eyes went to the source of the disturbance, and at the same moment, Magnan drew and fired the weapon he had tucked into his cummerbund;</p>
+   <p>Dooley staggered back with a curse, dropping both guns so that his right hand could caress the left, ripped by the stream of small-caliber needles.</p>
+   <p>“I meant to tell you, if you wouldn’t of been in such a big of a hurry,” Kouth put in. “Watch this ‘ere Mr. Magnan. He’s a killer.”</p>
+   <p>Retief thrust Kouth aside as he made a move for the fallen weapons and himself scooped them up.</p>
+   <p>“All right, Mr. Kouth,” he told the frustrated Boss, “that’s enough nonsense.” Then he gave Kouth further precise instructions.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>8</p>
+   </title>
+   <empty-line/>
+   <p>Half an hour later, after the diplomatic personnel had been herded, complaining bitterly, into the spartan accommodations of Barge Number One, and Kouth and Dooley and their respective cadres similarly crowded into the second scow, the last habitable section of the ill-fated <emphasis>Expedient</emphasis> fell apart and traced a spectacular arc of fire toward the uninhabited desert area fifty miles below. Magnan heaved a sigh.</p>
+   <p>“A sad conclusion to my mission,” he moaned. “Whatever am I to say to His Excellency? Why, paying off the Statement of Charges for the ship alone will require the remainder of my active life.”</p>
+   <p>“They’ll have to promote you, sir,” Retief suggested encouragingly. “You’ll need the extra salary to keep up the payments.”</p>
+   <p>“That’s scant solace, I fear,” Magnan retorted.</p>
+   <p>“When Ambassador Spoilsport and the committee learn that you have an entire barge-load of trouble-makers out of circulation and in tow, I’m sure that will outweigh the trifling loss of a time-expired contract hauler.”</p>
+   <p>“Of course—with Boss Kouth and his gang of ruffians subtracted from the equation, agreement will be reached far more readily,” Magnan cooed.</p>
+   <p>“I was thinking of the other barge,” Retief told him.</p>
+   <empty-line/>
+  </section>
+  <section>
+   <title>
+    <p>9</p>
+   </title>
+   <empty-line/>
+   <p>With both barges safely if informally at rest on the ground of Interplanetary House, Retief and Magnan stepped out on the pale blue lawn and were intercepted at once by Nat Sitzfleisch, Recording Secretary to ITCH, who came up breathless, “There you are at last, Ben,” he greeted the senior diplomat, ignoring Retief. “His Ex is furious. You’ve kept all these Stuggish big shots—ah— senior officials, that is, waiting, which they were far from enthusiastic about this gab-test in the first place! Another five minutes and you’d have been late!”</p>
+   <p>Magnan gave Nat instructions as to the disposition of the bulky scows marring the formal gardens and, with Relief, proceeded up the broad walk to the imposing structure housing the deliberations of the select tribunal. After making their way through the crowded hallways where groups of attaches were gossiping excitedly, they were confronted by His Excellency Ambassador Extraordinary and Minister Plenipotentiary Elmer Spoilsport, whose expression reflected none of the more tranquil emotions.</p>
+   <p>“...Captain Suggs is resting comfortably in hospital, Magnan, as I’m sure you’ll be glad to know,” he announced excitedly. “He’s not quite himself yet—keeps repeating the most extraordinary allegations regarding the proximate cause of his contusions—allegations in which your own name recurs with monotonous regularity—and by the way, there’s a, ah, female counsellor from the Glory System, who has quite clearly suffered a breakdown—I hope! Says you actually menaced her with a Browning 2 mm! Under the circumstances I have no choice, of course, but to order you under close arrest, on your own recognizance, naturally, out of deference to your rank.” He interrupted himself to gesture toward two large Ter-ran Marines standing by. Magnan squeezed his eyes shut and appeared to be about to burst into tears. Instead, he smiled broadly, as Spoilsport bent his knees slightly, put his right foot forward in a jerky way, followed by his left, and exclaimed:</p>
+   <p>“Step on them—look at the vile things, Ben—I Wherever are they coming from? Rather a handsome shade of blue, though, one must admit.” Then, as he leapt to left and right, stamping on the carpet, he began to sway from side to side and mutter.</p>
+   <p>“...hunch yer honey out/hunch her in again...!” “Mr. Magnan!” Retief commented admiringly. “You didn’t tell me you’d learned to boggle.”</p>
+   <empty-line/>
+   <p>The End</p>
+  </section>
+ </body>
+</FictionBook>
