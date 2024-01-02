@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Clifford</first-name>
+    <middle-name>D.</middle-name>
+    <last-name>Simak</last-name>
+   </author>
+   <book-title>Eternity Lost</book-title>
+   <date value="1949-07-01">1949</date>
+   <coverpage>
+    <image l:href="#eternity_lost.jpg"/></coverpage>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <nickname>Verdi1</nickname>
+   </author>
+   <program-used>Fiction Book Designer, FictionBook Editor Release 2.6</program-used>
+   <date value="2011-07-03">03.07.2011</date>
+   <id>FBD-E2E0BC-A3FF-0C41-9F9E-F985-EFB8-D1B843</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <book-name>Astounding Science Fiction, July 1949</book-name>
+   <publisher>Street &amp; Smith Publications, Inc.</publisher>
+   <year>1949</year>
+  </publish-info>
+ </description>
+ <body>
+  <title>
+   <p>Eternity Lost</p>
+   <p>by Clifford D. Simak</p>
+  </title>
+  <section>
+   <cite>
+    <p><strong>Chairman Leonard:</strong> You mean you are afraid it might become a political football?</p>
+    <p><strong>Mr. Reeves:</strong> The situation, as I see it, calls for well defined safeguards which would prevent continuation of life from falling under the patronage of political parties or other groups in power.</p>
+    <p><strong>Mr. Reeves:</strong> Not only that, sir, I am afraid that political parties might use it to continue beyond normal usefulness the lives of certain so-called elder statesmen who are needed by the party to maintain prestige and dignity in the public eye.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Senator Homer Leonard’s visitors had something on their minds. They fidgeted mentally as they sat in the senator’s office and drank the senator’s good whiskey. They talked, quite importantly, as was their wont, but they talked around the thing they had come to say. They circled it like a hound dog circling a coon, waiting for an opening, circling the subject to catch an opportunity that might make the message sound just a bit offhanded—as if they had just thought of it in passing and had not called purposely on the senator to say it.</p>
+   <p>It was queer, the senator told himself. For he had known these two for a good while now. And they had known him equally as long. There should be nothing they should hesitate to tell him. They had, in the past, been brutally frank about many things in his political career.</p>
+   <p>It might be, he thought, more bad news from North America, but he was as well acquainted with that bad news as they. After all, he told himself philosophically, a man cannot reasonably expect to stay in office forever. The voters, from sheer boredom if nothing else, would finally reach the day when they would vote against a man who had served them faithfully and well. And the senator was candid enough to admit, at least to himself, that there had been times when he had served the voters of North America neither faithfully nor well.</p>
+   <p>Even at that, he thought, he had not been beaten yet. It was still several months until election time and there was a trick or two that he had never tried, political dodges that even at this late date might save the senatorial hide. Given the proper time and the proper place and he would win out yet. Timing, he told himself—proper timing is the thing that counts.</p>
+   <p>He sat quietly in his chair, a great hulk of a man, and for a single instant he closed his eyes to shut out the room and the sunlight in the window. Timing, he thought. Yes, timing and a feeling for the public, a finger on the public pulse, the ability to know ahead of time what the voter eventually will come to think—those were the ingredients of good strategy. To know ahead of time, to be ahead in thinking, so that in a week or a month or year, the voters would say to one another: “You know, Bill, old Senator Leonard had it right. Remember what he said last week—or month or year—over there in Geneva. Yes, sir, he laid it on the line. There ain’t much that gets past that old fox of a Leonard.”</p>
+   <p>He opened his eyes a slit, keeping them still half closed so his visitors might think he’d only had them half closed all the time. For it was impolite and a political mistake to close one’s eyes when one had visitors. They might get the idea one wasn’t interested. Or they might seize the opportunity to cut one’s throat.</p>
+   <p>It’s because I’m getting old again, the senator told himself. Getting old and drowsy. But just as smart as ever. Yes, sir, said the senator, talking to himself, just as smart and slippery as I ever was.</p>
+   <p>He saw by the tight expressions on the faces of the two that they finally were set to tell him the thing they had come to tell. All their circling and sniffing had been of no avail. Now they had to come out with it, on the line, cold turkey.</p>
+   <p>“There has been a certain matter,” said Alexander Gibbs, “which has been quite a problem for the party for a long time now. We had hoped that matters would so arrange themselves that we wouldn’t need to call it to your attention, senator. But the executive committee held a meeting in New York the other night and it seemed to be the consensus that we communicate it to you.”</p>
+   <p>It’s bad, thought the senator, even worse than I thought it might be—for Gibbs is talking in his best double-crossing manner.</p>
+   <p>The senator gave them no help. He sat quietly in his chair and held the whiskey glass in a steady hand and did not ask what it was all about, acting as if he didn’t really care.</p>
+   <p>Gibbs floundered slightly. “It’s a rather personal matter, senator,” he said.</p>
+   <p>“It’s this life continuation business,” blurted Andrew Scott.</p>
+   <p>They sat in shocked silence, all three of them, for Scott should not have said it in that way. In politics, one is not blunt and forthright, but devious and slick.</p>
+   <p>“I see,” the senator said finally. “The party thinks the voters would like it better if I were a normal man who would die a normal death.”</p>
+   <p>Gibbs smoothed his face of shocked surprise.</p>
+   <p>“The common people resent men living beyond their normal time,” he said. “Especially—”</p>
+   <p>“Especially,” said the senator, “those who have done nothing to deserve it.”</p>
+   <p>“I wouldn’t put it exactly that way,” Gibbs protested.</p>
+   <p>“Perhaps not,” said the senator. “But no matter how you say it, that is what you mean.”</p>
+   <p>They sat uncomfortably in the office chairs, with the bright Geneva sunlight pouring through the windows.</p>
+   <p>“I presume,” said the senator, “that the party, having found I am no longer an outstanding asset, will not renew my application for life continuation. I suppose that is what you were sent to tell me.”</p>
+   <p>Might as well get it over with, he told himself grimly. Now that it’s out in the open, there’s no sense in beating around the bush.</p>
+   <p>“That’s just about it, senator,” said Scott.</p>
+   <p>“That’s exactly it,” said Gibbs.</p>
+   <p>The senator heaved his great body from the chair, picked up the whiskey bottle, filled their glasses and his own.</p>
+   <p>“You delivered the death sentence very deftly,” he told them. “It deserves a drink.”</p>
+   <p>He wondered what they had thought that he would do. Plead with them, perhaps. Or storm around the office. Or denounce the party.</p>
+   <p>Puppets, he thought. Errand boys. Poor, scared errand boys.</p>
+   <p>They drank, their eyes on him, and silent laughter shook inside him from knowing that the liquor tasted very bitter in their mouths.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Chairman Leonard:</strong> You are agreed then, Mr. Chapman, with the other witnesses, that no person should be allowed to seek continuation of life for himself, that it should be granted only upon application by someone else, that—</p>
+    <p><strong>Mr. Chapman:</strong> It should be a gift of society to those persons who are in the unique position of being able to materially benefit the human race.</p>
+    <p><strong>Chairman Leonard:</strong> That is very aptly stated, sir.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>The senator settled himself carefully and comfortably into a chair in the reception room of the Life Continuation Institute and unfolded his copy of the <emphasis>North American Tribune.</emphasis></p>
+   <p>Column one said that system trade was normal, according to a report by the World Secretary of Commerce. The story went on at length to quote the secretary’s report. Column two was headed by an impish box that said a new life form may have been found on Mars, but since the discoverer was a spaceman who had been more than ordinarily drunk, the report was being viewed with some skepticism. Under the box was a story reporting a list of boy and girl health champions selected by the state of Finland to be entered later in the year in the world health contest. The story in column three gave the latest information on the unstable love life of the world’s richest woman.</p>
+   <p>Column four asked a question:</p>
+   <empty-line/>
+   <cite>
+    <p><strong>WHAT HAPPENED TO DR. CARSON:</strong></p>
+    <p>NO RECORD OF REPORTED DEATH</p>
+   </cite>
+   <empty-line/>
+   <p>The story, the senator saw, was by-lined Anson Lee and the senator chuckled dryly. Lee was up to something. He was al-ways up to something, always ferreting out some fact that eventu-ally was sure to prove embarrassing to someone. Smart as a steel trap, that Lee, but a bad man to get into one’s hair.</p>
+   <p>There had been, for example, that matter of the spaceship contract.</p>
+   <p>Anson Lee, said the senator underneath his breath, is a pest. Nothing but a pest.</p>
+   <p>But Dr. Carson? Who was Dr. Carson?</p>
+   <p>The senator played a little mental game with himself, trying to remember, trying to identify the name before he read the story.</p>
+   <p>Dr. Carson?</p>
+   <p>Why, said the senator, I remember now. Long time ago. A biochemist or something of the sort. A very brilliant man. Did something with colonies of soil bacteria, breeding the things for therapeutic work.</p>
+   <p>Yes, said the senator, a very brilliant man. I remember that I met him once. Didn’t understand half the things he said. But that was long ago. A hundred years or more.</p>
+   <p>A hundred years ago—maybe more than that.</p>
+   <p>Why, bless me, said the senator, he must be one of us.</p>
+   <p>The senator nodded and the paper slipped from his hands and fell upon the floor. He jerked himself erect. There I go again, he told himself. Dozing. It’s old age creeping up again.</p>
+   <p>He sat in his chair, very erect and quiet, like a small scared child that won’t admit it’s scared, and the old, old fear came tugging at his brain. Too long, he thought. I’ve already waited longer than I should. Waiting for the party to renew my applica-tion and now the party won’t. They’ve thrown me overboard. They’ve deserted me just when I needed them the most.</p>
+   <p>Death sentence, he had said back in the office, and that was what it was—for he couldn’t last much longer. He didn’t have much time. It would take a while to engineer whatever must be done. One would have to move most carefully and never tip one’s hand. For there was a penalty—a terrible penalty.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>The girl said to him: “Dr. Smith will see you now.”</p>
+   <p>“Eh?” said the senator.</p>
+   <p>“You asked to see Dr. Dana Smith,” the girl reminded him. “He will see you now.”</p>
+   <p>“Thank you, miss,” said the senator. “I was sitting here half dozing.”</p>
+   <p>He lumbered to his feet.</p>
+   <p>“That door,” said the girt.</p>
+   <p>“I know,” the senator mumbled testily. “I know. I’ve been here many times before.”</p>
+   <p>Dr. Smith was waiting.</p>
+   <p>“Have a chair, senator,” he said. “Have a drink? Well, then, a cigar, maybe. What is on your mind?”</p>
+   <p>The senator took his time, getting himself adjusted to the chair. Grunting comfortably, he clipped the end off the cigar, rolled it in his mouth.</p>
+   <p>“Nothing particular on my mind,” he said. “Just dropped around to pass the time of day. Have a great and abiding interest in your work here. Always have had. Associated with it from the very start.”</p>
+   <p>The director nodded. “I know. You conducted the original hearings on life continuation.”</p>
+   <p>The senator chuckled. “Seemed fairly simple then. There were problems, of course, and we recognized them and we tried the best we could to meet them.”</p>
+   <p>“You did amazingly well,” the director told him. “The code you drew up five hundred years ago has never been questioned for its fairness and the few modifications which have been necessary have dealt with minor points which no one could have anticipated.”</p>
+   <p>“But it’s taken too long,” said the senator.</p>
+   <p>The director stiffened. “I don’t understand,” he said.</p>
+   <p>The senator lighted the cigar, applying his whole attention to it, flaming the end carefully so it caught even fire.</p>
+   <p>He settled himself more solidly in the chair. “It was like this,” he said. “We recognized life continuation as a first step only, a rather blundering first step toward immortality. We devised the code as an interim instrument to take care of the period before immortality was available—not to a selected few, but to everyone. We viewed the few who could be given life continuation as stewards, persons who would help to advance the day when the race could be granted immortality.”</p>
+   <p>“That still is the concept,” Dr. Smith said, coldly.</p>
+   <p>“But the people grow impatient.”</p>
+   <p>“That is just too bad,” Smith told him. “The people will simply have to wait.”</p>
+   <p>“As a race, they may be willing to,” explained the senator. “As individuals, they’re not.”</p>
+   <p>“I fail to see your point, senator.”</p>
+   <p>“There may not be a point,” said the senator. “In late years I’ve often debated with myself the wisdom of the whole procedure. Life continuation is a keg of dynamite if it fails of immortality. It will breed, system-wide revolt if the people wait too long.”</p>
+   <p>“Have you a solution, senator?”</p>
+   <p>“No,” confessed the senator. “No, I’m afraid I haven’t. I’ve often thought that it might have been better if we had taken the people into our confidence, let them know all that was going on. Kept them up with all developments. An informed people are a rational people.”</p>
+   <p>The director did not answer and the senator felt the cold weight of certainty seep into his brain.</p>
+   <p>He knows, he told himself. He knows the party has decided not to ask that I be continued. He knows that I’m a dead man. He knows I’m almost through and can’t help him any more—and he’s crossed me out. He won’t tell me a thing. Not the thing I want to know.</p>
+   <p>But he did not allow his face to change. He knew his face would not betray him. His face was too well trained.</p>
+   <p>“I know there is an answer,” said the senator. “There’s always been an answer to any question about immortality. You can’t have it until there’s living space. Living space to throw away, more than we ever think we’ll need, and a fair chance to find more of it if it’s ever needed.”</p>
+   <p>Dr. Smith nodded. “That’s the answer, senator. The only answer I can give.”</p>
+   <p>He sat silent for a moment, then he said: “Let me assure you on one point, senator. When Extrasolar Research finds the living space, we’ll have the immortality.”</p>
+   <p>The senator heaved himself out of the chair, stood planted solidly on his feet.</p>
+   <p>“It’s good to hear you say that, doctor,” he said. “It is very heartening. I thank you for the time you gave me.”</p>
+   <p>Out on the street, the senator thought bitterly:</p>
+   <p>They have it now. They have immortality. All they’re waiting for is the living space and another hundred years will find that. Another hundred years will simply have to find it.</p>
+   <p>Another hundred years, he told himself, just one more continuation, and I would be in for good and all.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Mr. Andrews:</strong> We must be sure there is a divorcement of life continuation from economics. A man who has money must not be allowed to purchase additional life, either through the payment of money or the pressure of influence, while another man is doomed to die a natural death simply because he happens to be poor.</p>
+    <p><strong>Chairman Leonard:</strong> I don’t believe that situation has ever been in question.</p>
+    <p><strong>Mr. Andrews:</strong> Nevertheless, it is a matter which must be emphasized again and again. Life continuation must not be a commodity to be sold across the counter at so many dollars for each added year of life.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>The senator sat before the chessboard and idly worked at the problem. Idly, since his mind was on other things than chess.</p>
+   <p>So they had immortality, had it and were waiting, holding it a secret until there was assurance of sufficient living space. Hold-ing it a secret from the people and from the government and from the men and women who had spent many lifetimes working for the thing which already had been found.</p>
+   <p>For Smith had spoken, not as a man who was merely confident, but as a man who knew. When Extrasolar Research finds the living space, he’d said, we’ll have immortality. Which meant they had it now. Immortality was not predictable. You would not know you’d have it; you would only know if and when you had it.</p>
+   <p>The senator moved a bishop and saw that he was wrong. He slowly pulled it back.</p>
+   <p>Living space was the key, and not living space alone, but economic living space, self-supporting in terms of food and other raw materials, but particularly in food. For if living space had been all that mattered, Man had it in Mars and Venus and the moons of Jupiter. But not one of those worlds was self-supporting. They did not solve the problem.</p>
+   <p>Living space was all they needed and in a hundred years they’d have that. Another hundred years was all that anyone would need to come into possession of the common human heritage of immortality.</p>
+   <p>Another continuation would give me that hundred years, said the senator, talking to himself. A hundred years and some to spare, for this time I’ll be careful of myself. I’ll lead a cleaner life. Eat sensibly and cut out liquor and tobacco and the woman-chasing.</p>
+   <p>There were ways and means, of course. There always were. And he would find them, for he knew all the dodges. After five hundred years in world government, you got to know them all. If you didn’t know them, you simply didn’t last.</p>
+   <p>Mentally he listed the possibilities as they occurred to him.</p>
+   <empty-line/>
+   <p>ONE: A person could engineer a continuation for someone else and then have that person assign the continuation to him. It would be costly, of course, but it might be done.</p>
+   <p>You’d have to find someone you could trust and maybe you couldn’t find anyone you could trust that far—for life continua-tion was something hard to come by. Most people, once they got it, wouldn’t give it back.</p>
+   <p>Although on second thought, it probably wouldn’t work. For there’d be legal angles. A continuation was a gift of society to one specific person to be used by him alone. It would not be transferable. It would not be legal property. It would not be something that one owned. It could not be bought or sold, it could not be assigned.</p>
+   <p>If the person who had been granted a continuation died before he got to use it—died of natural causes, of course, of wholly natural causes that could be provable—why, maybe, then—But still it wouldn’t work. Not being property, the continuation would not be part of one’s estate. It could not be bequeathed. It most likely would revert to the issuing agency.</p>
+   <p>Cross that one off, the senator told himself.</p>
+   <empty-line/>
+   <p>TWO: He might travel to New York and talk to the party’s executive secretary. After all, Gibbs and Scott were mere messengers. They had their orders to carry out the dictates of the party and that was all. Maybe if he saw someone in authority—</p>
+   <p>But, the senator scolded himself, that is wishful thinking. The party’s through with me. They’ve pushed their continuation rack-et as far as they dare push it and they have wrangled about all they figure they can get. They don’t dare ask for more and they need my continuation for someone else most likely—someone who’s a comer; someone who has vote appeal.</p>
+   <p>And I, said the senator, am an old has-been.</p>
+   <p>Although I’m a tricky old rascal, and ornery if I have to be, and slippery as five hundred years of public life can make one.</p>
+   <p>After that long, said the senator, parenthetically, you have no more illusions, not even of yourself.</p>
+   <p>I couldn’t stomach it, he decided. I couldn’t live with myself if I went crawling to New York—and a thing has to be pretty bad to make me feel like that. I’ve never crawled before and I’m not crawling now, not even for an extra hundred years and a shot at immortality.</p>
+   <p>Cross that one off, too, said the senator.</p>
+   <empty-line/>
+   <p>THREE: Maybe someone could be bribed.</p>
+   <p>Of all the possibilities, that sounded the most reasonable. There always was someone who had a certain price and always someone else who could act as intermediary. Naturally, a world senator could not get mixed up directly in a deal of that sort.</p>
+   <p>It might come a little high, but what was money for? After all, he reconciled himself, he’d been a frugal man of sorts and had been able to lay away a wad against such a day as this.</p>
+   <p>The senator moved a rook and it seemed to be all right, so he left it there.</p>
+   <p>Of course, once he managed the continuation, he would have to disappear. He couldn’t flaunt his triumph in the party’s face. He couldn’t take a chance of someone asking how he’d been continuated. He’d have to become one of the people, seek to be for-gotten, live in some obscure place and keep out of the public eye.</p>
+   <p>Norton was the man to see. No matter what one wanted, Norton was the man to see. An appointment to be secured, someone to be killed, a concession on Venus or a spaceship contract—Norton did the job. All quietly and discreetly and no questions asked. That is, if you had the money. If you didn’t have the money, there was no use of seeing Norton.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Otto came into the room on silent feet.</p>
+   <p>“A gentleman to see you, sir,” he said.</p>
+   <p>The senator stiffened upright in his chair.</p>
+   <p>“What do you mean by sneaking up on me?” he shouted. “Always pussyfooting. Trying to startle me. After this you cough or fall over a chair or something so I’ll know that you’re around.”</p>
+   <p>“Sorry, sir,” said Otto. “There’s a gentleman here. And there are those letters on the desk to read.”</p>
+   <p>“I’ll read the letters later,” said the senator.</p>
+   <p>“Be sure you don’t forget,” Otto told him, stiffly.</p>
+   <p>“I never forget,” said the senator. “You’d think I was getting senile, the way you keep reminding me.”</p>
+   <p>“There’s a gentleman to see you,” Otto said patiently. “A Mr. Lee.”</p>
+   <p>“Anson Lee, perhaps.”</p>
+   <p>Otto sniffed. “I believe that was his name. A newspaper person, sir.”</p>
+   <p>“Show him in,” said the senator.</p>
+   <p>He sat stolidly in his chair and thought: Lee’s found out about it. Somehow he’s ferreted out the fact the party’s thrown me over. And he’s here to crucify me.</p>
+   <p>He may suspect, but he cannot know. He may have heard a minor, but he can’t be sure. The party would keep mum, must necessarily keep mum, since it can’t openly admit its traffic in life continuation. So Lee, having heard a rumor, had come to blast it out of me, to catch me by surprise and trip me up with words.</p>
+   <p>I must not let him do it, for once the thing is known, the wolves will come in packs knee deep.</p>
+   <p>Lee was walking into the room and the senator rose and shook his hand.</p>
+   <p>“Sorry to disturb you, senator,” Lee told him, “but I thought maybe you could help me.”</p>
+   <p>“Anything at all,” the senator said, affably. “Anything I can. Sit down, Mr. Lee.”</p>
+   <p>“Perhaps you read my story in the morning paper,” said Lee. “The one on Dr. Carson’s disappearance.”</p>
+   <p>“No,” said the senator. “No, I’m afraid I—”</p>
+   <p>He rumbled to a stop, astounded.</p>
+   <p>He hadn’t read the paper!</p>
+   <p>He had forgotten to read the paper!</p>
+   <p>He always read the paper. He never failed to read it. It was a solemn rite, starting at the front and reading straight through to the back, skipping only those sections which long ago he’d found not to be worth the reading.</p>
+   <p>He’d had the paper at the institute and he had been interrupted when the girl told him that Dr. Smith would see him. He had come out of the office and he’d left the paper in the reception room.</p>
+   <p>It was a terrible thing. Nothing, absolutely nothing, should so upset him that he forgot to read the paper.</p>
+   <p>“I’m afraid I didn’t read the story,” the senator said lamely. He simply couldn’t force himself to admit that he hadn’t read the paper.</p>
+   <p>“Dr. Carson,” said Lee, “was a biochemist, a fairly famous one. He died ten years or so ago, according to an announcement from a little village in Spain, where he had gone to live. But I have reason to believe, senator, that he never died at all, that he may still be living.”</p>
+   <p>“Hiding?” asked the senator.</p>
+   <p>“Perhaps,” said Lee. “Although there seems no reason that he should. His record is entirely spotless.”</p>
+   <p>“Why do you doubt he died, then?”</p>
+   <p>“Because there’s no death certificate. And he’s not the only one who died without benefit of certificate.”</p>
+   <p>“Hm-m-m,” said the senator.</p>
+   <p>“Galloway, the anthropologist, died five years ago. There’s no certificate. Henderson, the agricultural expert, died six years ago. There’s no certificate. There are a dozen more I know of and probably many that I don’t.”</p>
+   <p>“Anything in common?” asked the senator. “Any circum-stances that might link these people?”</p>
+   <p>“Just one thing,” said Lee. “They were all continuators.”</p>
+   <p>“I see,” said the senator. He clasped the arms of his chair with a fierce grip to keep his hands from shaking.</p>
+   <p>“Most interesting,” he said. “Very interesting.”</p>
+   <p>“I know you can’t tell me anything officially,” said Lee, “but I thought you might give me a fill-in, an off-the-record background. You wouldn’t let me quote you, of course, but any clues you might give me, any hint at all—”</p>
+   <p>He waited hopefully.</p>
+   <p>“Because I’ve been close to the Life Continuation people?” asked the senator.</p>
+   <p>Lee nodded. “If there’s anything to know, you know it, senator. You headed the committee that held the original hear-ings on life continuation. Since then you’ve held various other congressional posts in connection with it. Only this morning you saw Dr. Smith.”</p>
+   <p>“I can’t tell you anything,” mumbled the senator. “I don’t know anything. You see, it’s a matter of policy—”</p>
+   <p>“I had hoped you would help me, senator.”</p>
+   <p>“I can’t,” said the senator. “You’ll never believe it, of course, but I really can’t.”</p>
+   <p>He sat silently for a moment and then he asked a question: “You say all these people you mention were continuators. You checked, of course, to see if their applications had been renewed?”</p>
+   <p>“I did,” said Lee. “There are no renewals for any one of them—at least no records of renewals. Some of them were approaching death limit and they actually may be dead by now, although I doubt that any of them died at the time or place announced.”</p>
+   <p>“Interesting,” said the senator. “And quite a mystery, too.”</p>
+   <p>Lee deliberately terminated the discussion. He gestured at the chessboard. “Are you an expert, senator?”</p>
+   <p>The senator shook his head. “The game appeals to me. I fool around with it. It’s a game of logic and also a game of ethics. You are perforce a gentleman when you play it. You observe certain rules of correctness of behavior.”</p>
+   <p>“Like life, senator?”</p>
+   <p>“Like life should be,” said the senator. “When the odds are too terrific, you resign. You do not force your opponent to play out to the bitter end. That’s ethics. When you see that you can’t win, but that you have a fighting chance, you try for the next best thing—a draw. That’s logic.”</p>
+   <p>Lee laughed, a bit uncomfortably. “You’ve lived according to those rules, senator?”</p>
+   <p>“I’ve done my best,” said the senator, trying to sound humble.</p>
+   <p>Lee rose. “I must be going, senator.”</p>
+   <p>“Stay and have a drink.”</p>
+   <p>Lee shook his head. “Thanks, but I have work to do.”</p>
+   <p>“I owe you a drink,” said the senator. “Remind me of it sometime.”</p>
+   <p>For a long time after Lee left, Senator Homer Leonard sat unmoving in his chair.</p>
+   <p>Then he reached out a hand and picked up a knight to move it, but his fingers shook so that he dropped it and it clattered on the board.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p>Any person who gains the gift of life continuation by illegal or extralegal means, without bona fide recommendation or proper authorization through recognized channels, shall be, in effect, excommunicated from the human race. The facts of that person’s guilt, once proved, shall be published by every means at humanity’s command throughout the Earth and to every corner of the Earth so that all persons may know and recognize him. To further insure such recognition and identification, said convicted person must wear at all times, conspicuously displayed upon his person, a certain badge which shall advertise his guilt. While he may not be denied the ordinary basic requirements of life, such as food, adequate clothing, a minimum of shelter and medical care, he shall not be allowed to partake of or participate in any of the other refinements of civilization. He will not be allowed to purchase any item in excess of the barest necessities for the preservation of life, health and decency; he shall be barred from all endeavors and normal associations of humankind; he shall not have access to nor benefit of any library, lecture hall, amusement place or other facility, either private or public, designed for instruction, recreation or entertainment. Nor may any person, under certain penalties hereinafter set forth, knowingly converse with him or establish any human relationship whatsoever with him. He will be suffered to live out his life within the framework of the human community, but to all intent and purpose he will be denied all the privileges and obligations of a human being. And the same provisions as are listed above shall apply in full and equal force to any person or persons who shall in any way knowingly aid such a person to obtain life continuation by other than legal means.</p>
+    <text-author>From <emphasis>The Code of Life Continuation</emphasis>.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>“What you mean,” said J. Barker Norton, “is that the party all these years has been engineering renewals of life continuation for you. Paying you off for services well rendered.”</p>
+   <p>The senator nodded miserably.</p>
+   <p>“And now that you’re on the verge of losing an election, they figure you aren’t worth it any longer and have refused to ask for a renewal.”</p>
+   <p>“In curbstone language,” said the senator, “that sums it up quite neatly.”</p>
+   <p>“And you come running to me,” said Norton. “What in the world do you think I can do about it?”</p>
+   <p>The senator leaned forward. “Let’s put it on a business basis, Norton. You and I have worked together before.”</p>
+   <p>“That’s right,” said Norton. “Both of us cleaned up on that spaceship deal.”</p>
+   <p>The senator said: “I want another hundred years and I’m willing to pay for it. I have no doubt you can arrange it for me.”</p>
+   <p>“How?”</p>
+   <p>“I wouldn’t know,” said the senator. “I’m leaving that to you. I don’t care how you do it.”</p>
+   <p>Norton leaned back in his chair and made a tent out of his fingers.</p>
+   <p>“You figure I could bribe someone to recommend you. Or bribe some continuation technician to give you a renewal without authorization.”</p>
+   <p>“Those are a pair of excellent ideas,” agreed the senator.</p>
+   <p>“And face excommunication if I were found out,” said Norton. “Thanks, senator, I’m having none of it.”</p>
+   <p>The senator sat impassively, watching the face of the man across the desk.</p>
+   <p>“A hundred thousand,” the senator said quietly.</p>
+   <p>Norton laughed at him.</p>
+   <p>“A half million, then.”</p>
+   <p>“Remember that excommunication, senator. It’s got to be worth my while to take a chance like that.”</p>
+   <p>“A million,” said the senator. “And that’s absolutely final.”</p>
+   <p>“A million now,” said Norton. “Cold cash. No receipt. No record of the transaction. Another million when and if I can deliver.”</p>
+   <p>The senator rose slowly to his feet, his face a mask to hide the excitement that was stirring in him. The excitement and the naked surge of exultation. He kept his voice level.</p>
+   <p>“I’ll deliver that million before the week is over.”</p>
+   <p>Norton said: “I’ll start looking into things.”</p>
+   <p>On the street outside, the senator’s step took on a jauntiness it had not known in years. He walked along briskly, flipping his cane.</p>
+   <p>Those others, Carson and Galloway and Henderson, had disappeared, exactly as he would have to disappear once he got his extra hundred years. They had arranged to have their own deaths announced and then had dropped from sight, living against the day when immortality would be a thing to be had for the simple asking.</p>
+   <p>Somewhere, somehow, they had got a new continuation, an unauthorized continuation, since a renewal was not listed in the records. Someone had arranged it for them. More than likely Norton.</p>
+   <p>But they had bungled. They had tried to cover up their tracks and had done no more than call attention to their absence.</p>
+   <p>In a thing like this, a man could not afford to blunder. A wise man, a man who took the time to think things out, would not make a blunder.</p>
+   <p>The senator pursed his flabby lips and whistled a snatch of music.</p>
+   <p>Norton was a gouger, of course. Pretending that he couldn’t make arrangements, pretending he was afraid of excommunication, jacking up the price.</p>
+   <p>The senator grinned wryly. It would take almost every dime he had, but it was worth the price.</p>
+   <p>He’d have to be careful, getting together that much money. Some from one bank, some from another, collecting it piecemeal by withdrawals and by cashing bonds, floating a few judicious loans so there’d not be too many questions asked.</p>
+   <p>He bought a paper at the corner and hailed a cab. Settling back in the seat, he creased the paper down its length and started in on column one. Another health contest. This time in Australia.</p>
+   <p>Health, thought the senator, they’re crazy on this health business. Health centers. Health cults. Health clinics.</p>
+   <p>He skipped the story, moved on to column two.</p>
+   <p>The head said:</p>
+   <empty-line/>
+   <cite>
+    <p><strong>SIX SENATORS POOR BETS FOR RE-ELECTION</strong></p>
+   </cite>
+   <empty-line/>
+   <p>The senator snorted in disgust. One of the senators, of course, would be himself.</p>
+   <p>He wadded up the paper and jammed it in his pocket.</p>
+   <p>Why should he care? Why knock himself out to retain a senate seat he could never fill? He was going to grow young again, get another chance at life. He would move to some far part of the earth and be another man.</p>
+   <p>Another man. He thought about it and it was refreshing. Dropping all the old dead wood of past association, all the ancient accumulation of responsibilities.</p>
+   <p>Norton had taken on the job. Norton would deliver.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Mr. Miller:</strong> What I want to know is this: Where do we stop? You give this life continuation to a man and he’ll want his wife and kids to have it. And his wife will want her Aunt Minnie to have it and the kids will want the family dog to have it and the dog will want—</p>
+    <p><strong>Chairman Leonard:</strong> You’re facetious, Mr. Miller.</p>
+    <p><strong>Mr. Miller:</strong> I don’t know what that big word means, mister. You guys here in Geneva talk fancy with them six-bit words and you get the people all balled up. It’s time the common people got in a word of common sense.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>“Frankly,” Norton told him, “it’s the first time I ever ran across a thing I couldn’t fix. Ask me anything else you want to, senator, and I’ll rig it up for you.”</p>
+   <p>The senator sat stricken. “You mean you couldn’t—But, Norton, there was Dr. Carson and Galloway and Henderson. Someone took care of them.”</p>
+   <p>Norton shook his head. “Not I. I never heard of them.”</p>
+   <p>“But someone did,” said the senator. “They disappeared—”</p>
+   <p>His voice trailed off and he slumped deeper in the chair and the truth suddenly was plain—the truth he had failed to see.</p>
+   <p>A blind spot, he told himself. A blind spot!</p>
+   <p>They had disappeared and that was all he knew. They had published their own deaths and had not died, but had disappeared.</p>
+   <p>He had assumed they had disappeared because they had got an illegal continuation. But that was sheer wishful thinking. There was no foundation for it, no fact that would support it.</p>
+   <p>There could be other reasons, he told himself, many other reasons why a man would disappear and seek to cover up his tracks with a death report.</p>
+   <p>But it had tied in so neatly!</p>
+   <p>They were continuators whose applications had not been renewed. Exactly as he was a continuator whose application would not be renewed.</p>
+   <p>They had dropped out of sight. Exactly as he would have to drop from sight once he gained another lease on life.</p>
+   <p>It had tied in so neatly—and it had been all wrong.</p>
+   <p>“I tried every way I knew,” said Norton. “I canvassed every source that might advance your name for continuation and they laughed at me. It’s been tried before, you see, and there’s not a chance of getting it put through. Once your original sponsor drops you, you’re automatically cancelled out.</p>
+   <p>“I tried to sound out technicians who might take a chance, but they’re incorruptible. They get paid off in added years for loyalty and they’re not taking any chance of trading years for dollars.”</p>
+   <p>“I guess that settles it,” the senator said wearily. “I should have known.”</p>
+   <p>He heaved himself to his feet and faced Norton squarely. “You are telling me the truth,” he pleaded. “You aren’t just trying to jack up the price a bit.”</p>
+   <p>Norton stared at him, almost unbelieving. “Jack up the price! Senator, if I had put this through, I’d have taken your last penny. Want to know how much you’re worth? I can tell you within a thousand dollars.”</p>
+   <p>He waved a hand at a row of filing cases ranged along the wall.</p>
+   <p>“It’s all there, senator. You and all the other big shots. Complete files on every one of you. When a man comes to me with a deal like yours, I look in the files and strip him to the bone.”</p>
+   <p>“I don’t suppose there’s any use of asking for some of my money back?”</p>
+   <p>Norton shook his head. “Not a ghost. You took your gamble, senator. You can’t even prove you paid me. And, beside, you still have plenty left to last you the few years you have to live.”</p>
+   <p>The senator took a step toward the door, then turned back.</p>
+   <p>“Look, Norton, I can’t die! Not now. Just one more continua-tion and I’d be—”</p>
+   <p>The look on Norton’s face stopped him in his tracks. The look he’d glimpsed on other faces at other times, but only glimpsed. Now he stared at it—at the naked hatred of a man whose life is short for the man whose life is long.</p>
+   <p>“Sure, you can die,” said Norton. “You’re going to. You can’t live forever. Who do you think you are!”</p>
+   <p>The senator reached out a hand and clutched the desk.</p>
+   <p>“But you don’t understand.”</p>
+   <p>“You’ve already lived ten times as long as I have lived,” said Norton, coldly, measuring each word, “and I hate your guts for it. Get out of here, you sniveling old fool, before I throw you out.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Dr. Barton:</strong> You may think that you would confer a boon on humanity with life continuation, but I tell you, sir, that it would be a curse. Life would lose its value and its meaning if it went on forever, and if you have life continuation now, you eventually must stumble on immortality. And when that happens, sir, you will be compelled to set up boards of review to grant the boon of death. The people, tired of life, will storm your hearing rooms to plead for death.</p>
+    <p><strong>Chairman Leonard:</strong> It would banish uncertainty and fear.</p>
+    <p><strong>Dr. Barton:</strong> You are talking of the fear of death. The fear of death, sir, is infantile.</p>
+    <p><strong>Chairman Leonard:</strong> But there are benefits—</p>
+    <p><strong>Dr. Barton:</strong> Benefits, yes. The benefit of allowing a scientist the extra years he needs to complete a piece of research; a composer an additional lifetime to complete a symphony. Once the novelty wore off, men in general would accept added life only under protest, only as a duty.</p>
+    <p><strong>Chairman Leonard:</strong> You’re not very practical-minded, doctor.</p>
+    <p><strong>Dr. Barton:</strong> But I am. Extremely practical and down to earth. Man must have newness. Man cannot be bored and live. How much do you think there would be left to look for-ward to after the millionth woman, the billionth piece of pumpkin pie?</p>
+    <text-author>From the Records of the hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>So Norton hated him.</p>
+   <p>As all people of normal lives must hate, deep within their souls, the lucky ones whose lives went on and on.</p>
+   <p>A hatred deep and buried, most of the time buried. But sometimes breaking out, as it had broken out of Norton.</p>
+   <p>Resentment, tolerated because of the gently, skillfully fos-tered hope that those whose lives went on might some day make it possible that the lives of all, barring violence or accident or incurable disease, might go on as long as one would wish.</p>
+   <p>I can understand it now, thought the senator, for I am one of them. I am one of those whose lives will not continue to go on, and I have even fewer years than the most of them.</p>
+   <p>He stood before the window in the deepening dusk and saw the lights come out and the day die above the unbelievably blue waters of the far-famed lake.</p>
+   <p>Beauty came to him as he stood there watching, beauty that had gone unnoticed through all the later years. A beauty and a softness and a feeling of being one with the city lights and the last faint gleam of day above the darkening waters.</p>
+   <p>Fear? The senator admitted it.</p>
+   <p>Bitterness? Of course.</p>
+   <p>Yet, despite the fear and bitterness, the window held him with the scene it framed.</p>
+   <p>Earth and sky and water, he thought. I am one with them. Death has made me one with them. For death brings one back to the elementals, to the soil and trees, to the clouds and sky and the sun dying in the welter of its blood in the crimson west.</p>
+   <p>This is the price we pay, he thought, that the race must pay, for its life eternal—that we may not be able to assess in their true value the things that should be dearest to us; for a thing that has no ending, a thing that goes on forever, must have decreas-ing value.</p>
+   <p>Rationalization, he accused himself. Of course, you’re rationalizing. You want another hundred years as badly as you ever did. You want a chance at immortality. But you can’t have it and you trade eternal life for a sunset seen across a lake and it is well you can. It is a blessing that you can.</p>
+   <p>The senator made a rasping sound within his throat.</p>
+   <p>Behind him the telephone came to sudden life and he swung around. It chirred at him again. Feet pattered down the hall and the senator called out: “I’ll get it, Otto.”</p>
+   <p>He lifted the receiver. “New York calling,” said the operator. “Senator Leonard, please.”</p>
+   <p>“This is Leonard.”</p>
+   <p>Another voice broke in. “Senator, this is Gibbs.”</p>
+   <p>“Yes,” said the senator. “The executioner.”</p>
+   <p>“I called you,” said Gibbs, “to talk about the election.”</p>
+   <p>“What election?”</p>
+   <p>“The one here in North America. The one you’re running in. Remember?”</p>
+   <p>“I am an old man,” said the senator, “and I’m about to die. I’m not interested in elections.”</p>
+   <p>Gibbs practically chattered. “But you have to be. What’s the matter with you, senator? You have to do something. Make some speeches, make a statement, come home and stump the country. The party can’t do it all alone. You have to do some of it yourself.”</p>
+   <p>“I will do something,” declared the senator. “Yes, I think that finally I’ll do something.”</p>
+   <p>He hung up and walked to the writing desk, snapped on the light. He got paper out of a drawer and took a pen out of his pocket.</p>
+   <p>The telephone went insane and he paid it no attention. It rang on and on and finally Otto came and answered.</p>
+   <p>“New York calling, sir,” he said.</p>
+   <p>The senator shook his head and he heard Otto talking softly and the phone did not ring again.</p>
+   <p>The senator wrote:</p>
+   <empty-line/>
+   <cite>
+    <p><emphasis>To Whom It May Concern:</emphasis></p>
+   </cite>
+   <empty-line/>
+   <p>Then crossed it out.</p>
+   <p>He wrote:</p>
+   <empty-line/>
+   <cite>
+    <p><emphasis>A Statement to the World:</emphasis></p>
+   </cite>
+   <empty-line/>
+   <p>And crossed it out.</p>
+   <p>He wrote:</p>
+   <empty-line/>
+   <cite>
+    <p><emphasis>A Statement by Senator Homer Leonard:</emphasis></p>
+   </cite>
+   <empty-line/>
+   <p>He crossed that out, too.</p>
+   <p>He wrote:</p>
+   <empty-line/>
+   <cite>
+    <p><emphasis>Five centuries ago the people of the world gave into the hands of a few trusted men and women the gift of continued life in the hope and belief that they would work to advance the day when longer life spans might be made possible for the entire population.</emphasis></p>
+    <p><emphasis>From time to time, life continuation has been granted additional men and women, always with the implied understanding that the gift was made under the same conditions</emphasis>—<emphasis>that the persons so favored should work against the day when each inhabitant of the entire world might enter upon a heritage of near-eternity.</emphasis></p>
+    <p><emphasis>Through the years some of us have carried that trust forward and have lived with it and cherished it and bent every effort toward its fulfillment.</emphasis></p>
+    <p><emphasis>Some of us have not.</emphasis></p>
+    <p><emphasis>Upon due consideration and searching examination of my own status in this regard, I have at length decided that I no longer can accept farther extension of the gift.</emphasis></p>
+    <p><emphasis>Human dignity requires that I be able to meet my fellow man upon the street or in the byways of the world without flinching from him. This I could not do should I continue to accept a gift to which I have no claim and which is denied to other men.</emphasis></p>
+   </cite>
+   <empty-line/>
+   <p>The senator signed his name, neatly, carefully, without the usual flourish.</p>
+   <p>“There,” he said, speaking aloud in the silence of the night-filled room, “that will hold them for a while.”</p>
+   <p>Feet padded and he turned around.</p>
+   <p>“It’s long past your usual bedtime, sir,” said Otto.</p>
+   <p>The senator rose clumsily and his aching bones protested. Old, he thought. Growing old again. And it would be so easy to start over, to regain his youth and live another lifetime. Just the nod of some-one’s head, just a single pen stroke and he would be young again.</p>
+   <p>“This statement, Otto,” he said. “Please give it to the press.”</p>
+   <p>“Yes, sir,” said Otto. He took the paper, held it gingerly.</p>
+   <p>“Tonight,” said the senator.</p>
+   <p>“Tonight, sir? It is rather late.”</p>
+   <p>“Nevertheless, I want to issue it tonight.”</p>
+   <p>“It must be important, sir.”</p>
+   <p>“It’s my resignation,” said the senator.</p>
+   <p>“Your resignation! From the senate, sir!”</p>
+   <p>“No,” said the senator. “From life.”</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Mr. Michaelson:</strong> As a churchman, I cannot think otherwise than that the proposal now before you gentlemen constitutes a perversion of God’s law. It is not within the province of man to say a man may live beyond his allotted time.</p>
+    <p><strong>Chairman Leonard:</strong> I might ask you this: How is one to know when a man’s allotted time has come to an end? Medicine has prolonged the lives of many persons. Would you call a physician a perverter of God’s law?</p>
+    <p><strong>Mr. Michaelson: </strong>It has become apparent through the testimony given here that the eventual aim of continuing research is immortality. Surely you can see that physical immortality does not square with the Christian concept. I tell you this, sir: You can’t fool God and get away with it.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Chess is a game of logic.</p>
+   <p>But likewise a game of ethics.</p>
+   <p>You do not shout and you do not whistle, nor bang the pieces on the board, nor twiddle your thumbs, nor move a piece then take it back again. When you’re beaten, you admit it. You do not force your opponent to carry on the game to absurd lengths. You resign and start another game if there is time to play one. Otherwise, you just resign and you do it with all the good grace possible. You do not knock all the pieces to the floor in anger. You do not get up abruptly and stalk out of the room. You do not reach across the board and punch your opponent in the nose.</p>
+   <p>When you play chess you are, or you are supposed to be, a gentleman.</p>
+   <p>The senator lay wide-awake, staring at the ceiling.</p>
+   <p>You do not reach across the board and punch your opponent in the nose. You do not knock the pieces to the floor.</p>
+   <p>But this isn’t chess, he told himself, arguing with himself. This isn’t chess; this is life and death. A dying thing is not a gentleman. It does not curl up quietly and die of the hurt inflicted. It backs into a corner and it fights, it lashes back and does all the hurt it can.</p>
+   <p>And I am hurt. I am hurt to death.</p>
+   <p>And I have lashed back. I have lashed back, most horribly.</p>
+   <p>They’ll not be able to walk down the street again, not ever again, those gentlemen who passed the sentence on me. For they have no more claim to continued life than I and the people now will know it. And the people will see to it that they do not get it.</p>
+   <p>I will die, but when I go down I’ll pull the others with me. They’ll know I pulled them down, down with me into the pit of death. That’s the sweetest part of all—they’ll know who pulled them down and they won’t be able to say a word about it. They can’t even contradict the noble things I said.</p>
+   <p>Someone in the corner said, some voice from some other time and place: <emphasis>You’re no gentleman, senator. You fight a dirty fight.</emphasis></p>
+   <p>Sure I do, said the senator. They fought dirty first. And politics always was a dirty game.</p>
+   <p><emphasis>Remember all that fine talk you dished out to Lee the other day?</emphasis></p>
+   <p>That was the other day, snapped the senator.</p>
+   <p><emphasis>You’ll never be able to look a chessman in the face again,</emphasis> said the voice in the corner.</p>
+   <p>I’ll be able to look my fellow men in the face, however, said the senator.</p>
+   <p><emphasis>Will you?</emphasis> asked the voice.</p>
+   <p>And that, of course, was the question. Would he?</p>
+   <p>I don’t care, the senator cried desperately. I don’t care what happens. They played a lousy trick on me. They can’t get away with it. I’ll fix their clocks for them. I’ll—</p>
+   <p><emphasis>Sure, you will,</emphasis> said the voice, mocking.</p>
+   <p>Go away, shrieked the senator. Go away and leave me. Let me be alone.</p>
+   <p><emphasis>You are alone,</emphasis> said the thing in the comer. <emphasis>You are more alone than any man has ever been before.</emphasis></p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <cite>
+    <p><strong>Chairman Leonard:</strong> You represent an insurance company, do you not, Mr. Markely? A big insurance company.</p>
+    <p><strong>Mr. Markely:</strong> That is correct.</p>
+    <p><strong>Chairman Leonard:</strong> And every time a person dies, it costs your company money?</p>
+    <p><strong>Mr. Markely:</strong> Well, you might put it that way if you wished, although it is scarcely the case—</p>
+    <p><strong>Chairman Leonard:</strong> You do have to pay out benefits on deaths, don’t you?</p>
+    <p><strong>Mr. Markely:</strong> Why, yes, of course we do.</p>
+    <p><strong>Chairman Leonard:</strong> Then I can’t understand your opposition to life continuation. If there were fewer deaths, you’d have to pay fewer benefits.</p>
+    <p><strong>Mr. Markely:</strong> All very true, sir. But if people had reason to believe they would live virtually forever, they’d buy no life insurance.</p>
+    <p><strong>Chairman Leonard:</strong> Oh, I see. So that’s the way it is.</p>
+    <text-author>From the Records of a hearing before the science subcommittee of the public policy committee of the World House of Representatives.</text-author>
+   </cite>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>The senator awoke. He had not been dreaming, but it was almost as if he had awakened from a bad dream—or awakened to a bad dream—and he struggled to go back to sleep again, to gain the Nirvana of unawareness, to shut out the harsh reality of existence, to dodge the shame of knowing who and what he was.</p>
+   <p>But there was someone stirring in the room, and someone spoke to him and he sat upright in bed, stung to wakefulness by the happiness and something else that was almost worship which the voice held.</p>
+   <p>“It’s wonderful, sir,” said Otto. “There have been phone calls all night long. And the telegrams and radiograms still are stacking up.”</p>
+   <p>The senator rubbed his eyes with pudgy fists.</p>
+   <p>“Phone calls, Otto? People sore at me?”</p>
+   <p>“Some of them were, sir. Terribly angry, sir. But not too many of them. Most of them were happy and wanted to tell you what a great thing you’d done. But I told them you were tired and I could not waken you.”</p>
+   <p>“Great thing?” said the senator. “What great thing have I done?”</p>
+   <p>“Why, sir, giving up life continuation. One man said to tell you it was the greatest example of moral courage the world had ever known. He said all the common people would bless you for it. Those were his very words. He was very solemn, sir.”</p>
+   <p>The senator swung his feet to the floor, sat on the edge of the bed, scratching at his ribs.</p>
+   <p>It was strange, he told himself, how a thing would turn out sometimes. A heel at bedtime and a hero in the morning.</p>
+   <p>“Don’t you see, sir,” said Otto, “you have made yourself one of the common people, one of the short-lived people. No one has ever done a thing like that before.”</p>
+   <p>“I was one of the common people,” said the senator, “long before I wrote that statement. And I didn’t make myself one of them. I was forced to become one of them, much against my will.”</p>
+   <p>But Otto, in his excitement, didn’t seem to hear.</p>
+   <p>He rattled on: “The newspapers are full of it, sir. It’s the biggest news in years. The political writers are chuckling over it. They’re calling it the smartest political move that was ever pulled. They say that before you made the announcement you didn’t have a chance of being re-elected senator and now, they say, you can be elected president if you just say the word.”</p>
+   <p>The senator sighed. “Otto,” he said, “please hand me my pants. It is cold in here.”</p>
+   <p>Otto handed him his trousers. “There’s a newspaperman wait-ing in the study, sir. I held all the others off, but this one sneaked in the back way. You know him, sir, so I let him wait. He is Mr. Lee.”</p>
+   <p>“I’ll see him,” said the senator.</p>
+   <p>So it was a smart political move, was it? Well, maybe so, but after a day or so, even the surprised political experts would begin to wonder about the logic of a man literally giving up his life to be re-elected to a senate seat.</p>
+   <p>Of course the common herd would love it, but he had not done it for applause. Although, so long as the people insisted upon thinking of him as great and noble, it was all right to let them go on thinking so.</p>
+   <p>The senator jerked his tie straight and buttoned his coat. He went into the study and Lee was waiting for him.</p>
+   <p>“I suppose you want an interview,” said the senator. “Want to know why I did this thing.”</p>
+   <p>Lee shook his head. “No, senator, I have something else. Something you should know about. Remember our talk last week? About the disappearances.”</p>
+   <p>The senator nodded.</p>
+   <p>“Well, I have something else. You wouldn’t tell me anything last week, but maybe now you will. I’ve checked, senator, and I’ve found this—the health winners are disappearing, too. More than eighty percent of those who participated in the finals of the last ten years have disappeared.”</p>
+   <p>“I don’t understand,” said the senator.</p>
+   <p>“They’re going somewhere,” said Lee. “Something’s happen-ing to them. Something’s happening to two classes of our people—the continuators and the healthiest youngsters.”</p>
+   <p>“Wait a minute,” gasped the senator. “Wait a minute, Mr. Lee.”</p>
+   <p>He groped his way to the desk, grasped its edge and lowered himself into a chair.</p>
+   <p>“There is something wrong, senator?” asked Lee.</p>
+   <p>“Wrong?” mumbled the senator. “Yes, there must be some-thing wrong.”</p>
+   <p>“They’ve found living space,” said Lee, triumphantly. “That’s it, isn’t it? They’ve found living space and they’re sending out the pioneers.”</p>
+   <p>The senator shook his head. “I don’t know, Lee. I have not been informed. Check Extrasolar Research. They’re the only ones who know—and they wouldn’t tell you.”</p>
+   <p>Lee grinned at him. “Good day, senator,” he said. “Thanks so much for helping.”</p>
+   <p>Dully, the senator watched him go.</p>
+   <empty-line/>
+   <subtitle>* * *</subtitle>
+   <empty-line/>
+   <p>Living space? Of course, that was it.</p>
+   <p>They had found living space and Extrasolar Research was sending out handpicked pioneers to prepare the way. It would take years of work and planning before the discovery could be announced. For once announced, world government must be ready to confer immortality on a mass production basis, must have ships available to carry out the hordes to the far, new worlds. A premature announcement wouldbring psychological and economic disruption that would make the government a shambles. So they would work very quietly, for they must work quietly.</p>
+   <p>His eyes found the little stack of letters on one corner of the desk and he remembered, with a shock of guilt, that he had meant to read them. He had promised Otto that he would and then he had forgotten.</p>
+   <p>I keep forgetting all the time, said the senator. I forget to read my paper and I forget to read my letters and I forget that some men are loyal and morally honest instead of slippery and slick. And I indulge in wishful thinking and that’s the worst of all.</p>
+   <p>Continuators and health champions disappearing. Sure, they’re disappearing. They’re headed for new worlds and immortality.</p>
+   <p>And I… I… if only I had kept my big mouth shut—</p>
+   <p>The phone chirped and he picked it up.</p>
+   <p>“This is Sutton at Extrasolar Research,” said an angry voice.</p>
+   <p>“Yes, Dr. Sutton,” said the senator. “It’s nice of you to call.”</p>
+   <p>“I’m calling in regard to the invitation that we sent you last week,” said Sutton. “In view of your statement last night, which we feel very keenly is an unjust criticism, we are with-drawing it.”</p>
+   <p>“Invitation,” said the senator. “Why, I didn’t—”</p>
+   <p>“What I can’t understand,” said Sutton, “is why, with the invitation in your pocket, you should have acted as you did.”</p>
+   <p>“But,” said the senator, “but, doctor—”</p>
+   <p>“Good-by, senator,” said Sutton.</p>
+   <p>Slowly the senator hung up. With a fumbling hand, he reached out and picked up the stack of letters.</p>
+   <p>It was the third one down. The return address was Extrasolar Research and it had been registered and sent special delivery and it was marked both PERSONAL and IMPORTANT.</p>
+   <p>The letter slipped out of the senator’s trembling fingers and fluttered to the floor. He did not pick it up.</p>
+   <p>It was too late now, he knew, to do anything about it.</p>
+  </section>
+ </body>
+ <binary id="eternity_lost.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8S
+EhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEU
+Hh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAAR
+CAEYAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAA
+AgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkK
+FhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWG
+h4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl
+5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYk
+NOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk
+5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDwybzo1X/SJtzJyS5G7/JqOAsOChCtwQGO
+D9f89zU12P3CIzvuwByKWxtnnnMaEMwXP3wOw9TzXXSppxuzx6tR81kMjlljfEUrIw4JHHFS
+faZ1lBWSVMnJ2nr1/qa1otFlRRutmkuHb5Yc7QozyX9M+n54qG9ElzEPJjQwWoG+READEkc8
+diTge2D1zjRRg3ZIjmmlcoyTzCUvtO7bjd3PGOtRi+utu0yynYT1JNapsnaHZHDI8m0PKoGf
+KGAQpHqeT9MetVxZSSxq0Su4d9ibRwx74/StIwpszc5orJcSlgSinAzk9cenJpJLps7QCSRj
+djAxVq3sZp5ohbxSTb2KDaM5PU4x6Zp8Wl3NzKFt4t2DgncMAepPTFP2dNApVGjNErZUshPt
+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</binary>
+</FictionBook>
