@@ -1,0 +1,479 @@
+{\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+{\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria;}{\fbimajor\f31503\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f41\fbidi \froman\fcharset0\fprq2 Times New Roman;}
+{\f39\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f42\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f44\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f45\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f46\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\flomajor\f31510\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31520\fbidi \froman\fcharset0\fprq2 Times New Roman;}
+{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31530\fbidi \froman\fcharset0\fprq2 Cambria;}{\fhimajor\f31528\fbidi \froman\fcharset238\fprq2 Cambria CE;}
+{\fhimajor\f31531\fbidi \froman\fcharset161\fprq2 Cambria Greek;}{\fhimajor\f31532\fbidi \froman\fcharset162\fprq2 Cambria Tur;}{\fhimajor\f31535\fbidi \froman\fcharset186\fprq2 Cambria Baltic;}
+{\fbimajor\f31540\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31550\fbidi \froman\fcharset0\fprq2 Times New Roman;}
+{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31560\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fhiminor\f31570\fbidi \fswiss\fcharset0\fprq2 Calibri;}{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}{\fbiminor\f31580\fbidi \froman\fcharset0\fprq2 Times New Roman;}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa200\sl276\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 
+\ltrch\fcs0 \fs22\lang1049\langfe1049\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa200\sl276\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1049\langfe1049\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 
+\snext11 \ssemihidden \sunhideused \sqformat Normal Table;}}{\*\rsidtbl \rsid7758708\rsid16265552}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator 1}
+{\creatim\yr2013\mo7\dy3\hr1\min36}{\revtim\yr2013\mo7\dy3\hr1\min37}{\version2}{\edmins1}{\nofpages7}{\nofwords3788}{\nofchars19411}{\nofcharsws23153}{\vern32773}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw12240\paperh15840\margl1701\margr850\margt1134\margb1134\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves1\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale116\rsidroot7758708 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1049\langfe1049\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp1049\langfenp1049 {
+\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16265552 
+\par }{\rtlch\fcs1 \ab\af0\afs48 \ltrch\fcs0 \b\f0\fs48\lang1033\langfe1049\langnp1033\insrsid16265552\charrsid16265552 \hich\af0\dbch\af31505\loch\f0 THE SENTINEL
+\par }{\rtlch\fcs1 \ab\af0\afs32 \ltrch\fcs0 \b\f0\fs32\lang1033\langfe1049\langnp1033\insrsid16265552\charrsid16265552 \hich\af0\dbch\af31505\loch\f0     
+\par \hich\af0\dbch\af31505\loch\f0 Arthur C. Clarke}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\lang1033\langfe1049\langnp1033\insrsid16265552\charrsid16265552 
+\par \hich\af0\dbch\af31505\loch\f0     
+\par }{\rtlch\fcs1 \af0\afs20 \ltrch\fcs0 \f0\fs20\lang1033\langfe1049\langnp1033\insrsid16265552\charrsid16265552 \hich\af0\dbch\af31505\loch\f0 1951 Avon Periodicals Inc.
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\lang1033\langfe1049\langnp1033\insrsid16265552\charrsid16265552 \hich\af0\dbch\af31505\loch\f0     
+\par \hich\af0\dbch\af31505\loch\f0     
+\par \hich\af0\dbch\af31505\loch\f0     
+\par \hich\af0\dbch\af31505\loch\f0     The next time you see the full moon high  in  the  south,  look  carefully
+\par }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24\insrsid16265552 \hich\af0\dbch\af31505\loch\f0 at its right-hand edge and let your eye  travel  upward  along  the  curve  of
+\par \hich\af0\dbch\af31505\loch\f0 the disk. Round about  two  o'clock  you  will  notice  a  small,  dark  oval:
+\par \hich\af0\dbch\af31505\loch\f0 anyone with normal eyesight  can  find  it  quite  easily.  It  is  the  great
+\par \hich\af0\dbch\af31505\loch\f0 walled plain, one o\hich\af0\dbch\af31505\loch\f0 f the finest on the Moon, known  as  the  Mare  Crisium-the
+\par \hich\af0\dbch\af31505\loch\f0 Sea of  Crises.  Three  hundred  miles  in  diameter,  and  almost  completely
+\par \hich\af0\dbch\af31505\loch\f0 surrounded by a ring of magnificent mountains,  it  had  never  been  explored
+\par \hich\af0\dbch\af31505\loch\f0 until we entered it in the late summer\hich\af0\dbch\af31505\loch\f0  of 1996. Our  expedition  was  a  large
+\par \hich\af0\dbch\af31505\loch\f0 one. We  had  two  heavy  freighters  which  had  flown  our   supplies    and
+\par \hich\af0\dbch\af31505\loch\f0 equipment from the main lunar base  in  the  Mare  Serenitatis,  five  hundred
+\par \hich\af0\dbch\af31505\loch\f0 miles away. There were also  three  small  rockets  which\hich\af0\dbch\af31505\loch\f0   were  intended  for
+\par \hich\af0\dbch\af31505\loch\f0 short-range  transport  over  regions  which  our  surface  vehicles  couldn't
+\par \hich\af0\dbch\af31505\loch\f0 cross. Luckily, most of the Mare Crisiurn is very  flat.  There  are  none  of
+\par \hich\af0\dbch\af31505\loch\f0 the great crevasses so  common  and  so  dangerous  elsewhere,  and  very  f\hich\af0\dbch\af31505\loch\f0 ew
+\par \hich\af0\dbch\af31505\loch\f0 craters or mountains of any size. As  far  as  we  could  tell,  our  powerful
+\par \hich\af0\dbch\af31505\loch\f0 caterpillar tractors would  have  no  difficulty  in  taking  us  wherever  we
+\par \hich\af0\dbch\af31505\loch\f0 wished to go. I was geologist-or selenologist, if  you  want  to  be  pedantic
+\par \hich\af0\dbch\af31505\loch\f0 in charge of. th\hich\af0\dbch\af31505\loch\f0 e group exploring the southern region  of  the  Mare.  We  had
+\par \hich\af0\dbch\af31505\loch\f0 crossed a hundred miles of it  in  a  week,  skirting  the  foothills  of  the
+\par \hich\af0\dbch\af31505\loch\f0 mountains along the shore of what was once  the  ancient  sea,  some  thousand
+\par \hich\af0\dbch\af31505\loch\f0 million years before. When  life  was  beginning  on  Earth,  it  was  already
+\par \hich\af0\dbch\af31505\loch\f0 dying here. The waters were retreating down the  flanks  of  those  stupendous
+\par \hich\af0\dbch\af31505\loch\f0 cliff s, retreating into the empty heart of the Moon.
+\par \hich\af0\dbch\af31505\loch\f0     Over the land which we were crossing, th\hich\af0\dbch\af31505\loch\f0 e tideless  ocean  had  once  been
+\par \hich\af0\dbch\af31505\loch\f0 half a mile deep, and now the only trace of moisture  was  the  hoarfrost  one
+\par \hich\af0\dbch\af31505\loch\f0 could sometimes find in caves which the searing sunlight never penetrated.
+\par \hich\af0\dbch\af31505\loch\f0     We had begun our journey early in the  slow  lunar  dawn,  and \hich\af0\dbch\af31505\loch\f0  still  had
+\par \hich\af0\dbch\af31505\loch\f0 almost a week of Earth-time before nightfall. Half a  dozen  times  a  day  we
+\par \hich\af0\dbch\af31505\loch\f0 would leave our  vehicle  and  go  outside  in  the  spacesuits  to  hunt  for
+\par \hich\af0\dbch\af31505\loch\f0 interesting  minerals,  or  to  place  markers  for  the  guidance  of  future
+\par \hich\af0\dbch\af31505\loch\f0 travele\hich\af0\dbch\af31505\loch\f0 rs. It was  an  uneventful  routine.  There  is  nothing  hazardous  or
+\par \hich\af0\dbch\af31505\loch\f0 even particularly  exciting  about  lunar  exploration.    We    could    live
+\par \hich\af0\dbch\af31505\loch\f0 comfortably for a month in our  pressurized  tractors,  and  if  we  ran  into
+\par \hich\af0\dbch\af31505\loch\f0 trouble we could always ra\hich\af0\dbch\af31505\loch\f0 dio  for  help  and  sit  tight  until  one  of  the
+\par \hich\af0\dbch\af31505\loch\f0 spaceships came to our rescue.
+\par \hich\af0\dbch\af31505\loch\f0     I  said  just  now  that  there  was  nothing   exciting    about    lunar
+\par \hich\af0\dbch\af31505\loch\f0 exploration, but of course that isn't true. One  could  never  grow  tired  of
+\par \hich\af0\dbch\af31505\loch\f0 those incredib\hich\af0\dbch\af31505\loch\f0 le mountains, so much more  rugged  than  the  gentle  hills  of
+\par \hich\af0\dbch\af31505\loch\f0 Earth. We never knew, as  we  rounded  the  capes  and  promontories  of  that
+\par \hich\af0\dbch\af31505\loch\f0 vanished  sea,  what  new  splendors  would  be  revealed  to  us.  The  whole
+\par \hich\af0\dbch\af31505\loch\f0 southern curve of the  Mare  Cris\hich\af0\dbch\af31505\loch\f0 iurn  is  a  vast  delta  where  a  score  of
+\par \hich\af0\dbch\af31505\loch\f0 rivers once found their way into the ocean,  fed  perhaps  by  the  torrential
+\par \hich\af0\dbch\af31505\loch\f0 rains that must have lashed the mountains  in  the  brief  volcanic  age  when
+\par \hich\af0\dbch\af31505\loch\f0 the Moon  was  young.  Each  of  these  ancient  val\hich\af0\dbch\af31505\loch\f0 leys  was  an  invitation,
+\par \hich\af0\dbch\af31505\loch\f0 challenging us to climb  into  the  unknown  uplands  beyond.  But  we  had  a
+\par \hich\af0\dbch\af31505\loch\f0 hundred miles still to cover, and could only look  longingly  at  the  heights
+\par \hich\af0\dbch\af31505\loch\f0 which others must scale.
+\par \hich\af0\dbch\af31505\loch\f0     We kept Earth-time aboard  the  tractor,  \hich\af0\dbch\af31505\loch\f0 and  precisely  at  22.00  hours
+\par \hich\af0\dbch\af31505\loch\f0 the final radio message would be sent out to Base  and  we  would  close  down
+\par \hich\af0\dbch\af31505\loch\f0 for the day. Outside, the rocks would still  be  burning  beneath  the  almost
+\par \hich\af0\dbch\af31505\loch\f0 vertical sun, but to us  it  was  night  until  we  awoke  again  eight  hours
+\par \hich\af0\dbch\af31505\loch\f0 later. Then one of  us  would  prepare  breakfast,  there  would  be  a  great
+\par \hich\af0\dbch\af31505\loch\f0 buzzing of electric  razors,  and  someone  would  switch  on  the  short-wave
+\par \hich\af0\dbch\af31505\loch\f0 radio from Earth. I\hich\af0\dbch\af31505\loch\f0 ndeed, when the smell of  frying  sausages  began  to  fill
+\par \hich\af0\dbch\af31505\loch\f0 the cabin, it was sometimes hard to believe that  we  were  not  back  on  our
+\par \hich\af0\dbch\af31505\loch\f0 own world -everything was so normal and homely,  apart  from  the  feeling  of
+\par \hich\af0\dbch\af31505\loch\f0 decreased weight and the unnatural slo\hich\af0\dbch\af31505\loch\f0 wness with which objects fell.
+\par \hich\af0\dbch\af31505\loch\f0     It was my turn to prepare breakfast  in  the  corner  of  the  main  cabin
+\par \hich\af0\dbch\af31505\loch\f0 that served as a galley. I  can  remember  that  moment  quite  vividly  after
+\par \hich\af0\dbch\af31505\loch\f0 all these  years,  for  the  radio  had  just  played  one  of  my \hich\af0\dbch\af31505\loch\f0    favorite
+\par \hich\af0\dbch\af31505\loch\f0 melodies, the old Welsh air, "David of the White, Rock."
+\par \hich\af0\dbch\af31505\loch\f0     Our  driver  was  already  outside  in  his  space-suit,  inspecting   our
+\par \hich\af0\dbch\af31505\loch\f0 caterpillar treads. My  assistant,  Louis  Garnett,  was  up  forward  in  the
+\par \hich\af0\dbch\af31505\loch\f0 control position, making some\hich\af0\dbch\af31505\loch\f0  belated entries in yesterday's log.
+\par \hich\af0\dbch\af31505\loch\f0     As I stood by the frying pan  waiting,  like  any  terrestrial  housewife,
+\par \hich\af0\dbch\af31505\loch\f0 for the sausages to brown, I  let  my  gaze  wander  idly  over  the  mountain
+\par \hich\af0\dbch\af31505\loch\f0 walls which covered the  whole  of  the  southern  horizon,  \hich\af0\dbch\af31505\loch\f0 marching  out  of
+\par \hich\af0\dbch\af31505\loch\f0 sight to east and west below the  curve  of  the  Moon.  They  seemed  only  a
+\par \hich\af0\dbch\af31505\loch\f0 mile or two from the tractor, but I knew that the  nearest  was  twenty  miles
+\par \hich\af0\dbch\af31505\loch\f0 away.  On  the  Moon,  of  course,  there  is  no  loss   of    detail    with
+\par \hich\af0\dbch\af31505\loch\f0 d\hich\af0\dbch\af31505\loch\f0 istance-none  of  that  almost  imperceptible  haziness  which  softens   and
+\par \hich\af0\dbch\af31505\loch\f0 sometimes transfigures all far-off things on Earth.
+\par \hich\af0\dbch\af31505\loch\f0     Those mountains were ten thousand feet  high,  and  they  climbed  steeply
+\par \hich\af0\dbch\af31505\loch\f0 out of the plain as  if  ages  ago  some  subte\hich\af0\dbch\af31505\loch\f0 rranean  eruption  had  smashed
+\par \hich\af0\dbch\af31505\loch\f0 them skyward through the molten crust.  The  base  of  even  the  nearest  was
+\par \hich\af0\dbch\af31505\loch\f0 hidden from sight by the  steeply  curving  surface  of  the  plain,  for  the
+\par \hich\af0\dbch\af31505\loch\f0 Moon is a very little world, and from where I was  standing  the  horizon  was
+\par \hich\af0\dbch\af31505\loch\f0 only two miles away.
+\par \hich\af0\dbch\af31505\loch\f0     I lifted my eyes toward the peaks which  no  man  had  ever  climbed,  the
+\par \hich\af0\dbch\af31505\loch\f0 peaks  which,  before  the  coming  of  terrestrial  life,  had  watched   th\hich\af0\dbch\af31505\loch\f0 e
+\par \hich\af0\dbch\af31505\loch\f0 retreating oceans sink sullenly  into  their  graves,  taking  with  them  the
+\par \hich\af0\dbch\af31505\loch\f0 hope and the morning promise of a world.  The  sunlight  was  beating  against
+\par \hich\af0\dbch\af31505\loch\f0 those ramparts with a glare  that  hurt  the  eyes,  yet  only  a  little  way
+\par \hich\af0\dbch\af31505\loch\f0 above them the st\hich\af0\dbch\af31505\loch\f0 ars were shining steadily in a  sky  blacker  than  a  winter
+\par \hich\af0\dbch\af31505\loch\f0 midnight on Earth.
+\par \hich\af0\dbch\af31505\loch\f0     I was turning away when my eye caught  a  metallic  glitter  high  on  the
+\par \hich\af0\dbch\af31505\loch\f0 ridge of a great promontory thrusting out into the sea  thirty  miles  to  the
+\par \hich\af0\dbch\af31505\loch\f0 west. It was a di\hich\af0\dbch\af31505\loch\f0 mensionless point of light, as if  a  star  had  been  clawed
+\par \hich\af0\dbch\af31505\loch\f0 from the sky by one of those cruel peaks, and  I  imagined  that  some  smooth
+\par \hich\af0\dbch\af31505\loch\f0 rock surface was catching the sunlight  and  heliographing  it  straight  into
+\par \hich\af0\dbch\af31505\loch\f0 my eyes. Such things were not  uncom\hich\af0\dbch\af31505\loch\f0 mon.  When  the  Moon  is  in  her  second
+\par \hich\af0\dbch\af31505\loch\f0 quarter, observers on  Earth  can  sometimes  see  the  great  ranges  in  the
+\par \hich\af0\dbch\af31505\loch\f0 Oceanus Procellarum burning with a  blue-white  iridescence  as  the  sunlight
+\par \hich\af0\dbch\af31505\loch\f0 flashes from their slopes and leaps again from  world  \hich\af0\dbch\af31505\loch\f0 to  world.  But  I  was
+\par \hich\af0\dbch\af31505\loch\f0 curious to know what kind of rock could  be  shining  so  brightly  up  there,
+\par \hich\af0\dbch\af31505\loch\f0 and I  climbed  into  the  observation  turret  and  swung  our   four    inch
+\par \hich\af0\dbch\af31505\loch\f0 telescope round to the west.
+\par \hich\af0\dbch\af31505\loch\f0     I could see just enough to tantalize me. \hich\af0\dbch\af31505\loch\f0 Clear  and  sharp  in  the  field
+\par \hich\af0\dbch\af31505\loch\f0 of vision, the mountain peaks seemed only  half  a  mile  away,  but  whatever
+\par \hich\af0\dbch\af31505\loch\f0 was catching the  sunlight  was  still  too  small  to  be  resolved.  Yet  it
+\par \hich\af0\dbch\af31505\loch\f0 seemed to have an elusive symmetry,  and  the  summit  upon  whi\hich\af0\dbch\af31505\loch\f0 ch  it  rested
+\par \hich\af0\dbch\af31505\loch\f0 was curiously flat. I stared for  a  long  time  at  that  glittering  enigma,
+\par \hich\af0\dbch\af31505\loch\f0 straining my eyes into space, until presently a  smell  of  burning  from  the
+\par \hich\af0\dbch\af31505\loch\f0 galley told me that our breakfast  sausages  had  made  their  quarter-million
+\par \hich\af0\dbch\af31505\loch\f0 mile journey in vain. .
+\par \hich\af0\dbch\af31505\loch\f0     All that morning we argued our way  across  the  Mare  Crisium  while  the
+\par \hich\af0\dbch\af31505\loch\f0 western  mountains  reared  higher  in  the  sky.  Even  when  we  were    out
+\par \hich\af0\dbch\af31505\loch\f0 prospecting in  the  space-suits,  the  discussion  would  continue  over \hich\af0\dbch\af31505\loch\f0  the
+\par \hich\af0\dbch\af31505\loch\f0 radio. It was  absolutely  certain,  my  companions  argued,  that  there  had
+\par \hich\af0\dbch\af31505\loch\f0 never been any  form  of  intelligent  life  on  the  Moon.  The  only  living
+\par \hich\af0\dbch\af31505\loch\f0 things that had ever existed there were  a  few  primitive  plants  and  their
+\par \hich\af0\dbch\af31505\loch\f0 slightly less \hich\af0\dbch\af31505\loch\f0 degenerate ancestors.  I  knew  that  as  well  as  anyone,  but
+\par \hich\af0\dbch\af31505\loch\f0 there are times when a scientist  must  not  be  afraid  to  make  a  fool  of
+\par \hich\af0\dbch\af31505\loch\f0 himself.
+\par \hich\af0\dbch\af31505\loch\f0     "Listen," I said at last,  "I'm  going  up  there,  if  only  for  my  own
+\par \hich\af0\dbch\af31505\loch\f0 peace of mind. That moun\hich\af0\dbch\af31505\loch\f0 tain's less than twelve  thousand  feet  high  -that's
+\par \hich\af0\dbch\af31505\loch\f0 only two thousand under Earth gravity-and  I  can  make  the  trip  in  twenty
+\par \hich\af0\dbch\af31505\loch\f0 hours at  the  outside.  I've  always  wanted  to  go  up  into  those  hills,
+\par \hich\af0\dbch\af31505\loch\f0 anyway, and this gives me an excellent excu\hich\af0\dbch\af31505\loch\f0 se."
+\par \hich\af0\dbch\af31505\loch\f0     "If  you  don't  break  your  neck,"  said  Garnett,  "you'll    be    the
+\par \hich\af0\dbch\af31505\loch\f0 laughing-stock of the expedition when we  get  back  to  Base.  That  mountain
+\par \hich\af0\dbch\af31505\loch\f0 will probably be called Wilson's Folly from now on."
+\par \hich\af0\dbch\af31505\loch\f0     "I won't break my neck,"  I  said  f\hich\af0\dbch\af31505\loch\f0 irmly.  "Who  was  the  first  man  to
+\par \hich\af0\dbch\af31505\loch\f0 climb Pico and Helicon?"
+\par \hich\af0\dbch\af31505\loch\f0     "But weren't you rather younger in those days?" asked Louis gently.
+\par \hich\af0\dbch\af31505\loch\f0     "That," I said with great dignity, "is as good a reason as any for going."
+\par \hich\af0\dbch\af31505\loch\f0     We went to bed early that night,  aft\hich\af0\dbch\af31505\loch\f0 er  driving  the  tractor  to  within
+\par \hich\af0\dbch\af31505\loch\f0 half a mile of the promontory. Garnett was coming  with  me  in  the  morning;
+\par \hich\af0\dbch\af31505\loch\f0 he was a good climber, and had often been with me  on  such  exploits  before.
+\par \hich\af0\dbch\af31505\loch\f0 Our driver was only too glad to be left in charge of the mac\hich\af0\dbch\af31505\loch\f0 hine.
+\par \hich\af0\dbch\af31505\loch\f0     At  first  sight,  those  cliffs  seemed  completely  unscalable,  but  to
+\par \hich\af0\dbch\af31505\loch\f0 anyone with a good head for heights, climbing is easy on  a  world  where  all
+\par \hich\af0\dbch\af31505\loch\f0 weights are only a sixth of their normal  value.  The  real  danger  in  lunar
+\par \hich\af0\dbch\af31505\loch\f0 mountaineering lies in overconfidence; a six-hundred-foot  drop  on  the  Moon
+\par \hich\af0\dbch\af31505\loch\f0 can kill you just as thoroughly as a. hundred-foot fall on Earth.
+\par \hich\af0\dbch\af31505\loch\f0     We made our first halt on a wide ledge  about  four  thousand  feet  above
+\par \hich\af0\dbch\af31505\loch\f0 the plain. Climbing had not been\hich\af0\dbch\af31505\loch\f0  very  difficult,  but  my  limbs  were  stiff
+\par \hich\af0\dbch\af31505\loch\f0 with the unaccustomed effort, and I was glad  of  the  rest.  We  could  still
+\par \hich\af0\dbch\af31505\loch\f0 see the tractor as a tiny metal insect far down at  the  foot  of  the  cliff,
+\par \hich\af0\dbch\af31505\loch\f0 and we reported our progress  to  the  driver  befo\hich\af0\dbch\af31505\loch\f0 re  starting  on  the  next
+\par \hich\af0\dbch\af31505\loch\f0 ascent.
+\par \hich\af0\dbch\af31505\loch\f0     Inside our suits it was comfortably  cool,  for  the  refrigeration  units
+\par \hich\af0\dbch\af31505\loch\f0 were fighting  the  fierce  sun  and  carrying  away  the  body-heat  of   our
+\par \hich\af0\dbch\af31505\loch\f0 exertions.  We  seldom  spoke  to  each  other,  except  to   \hich\af0\dbch\af31505\loch\f0 pass    climbing
+\par \hich\af0\dbch\af31505\loch\f0 instructions and to discuss our best plan  of  ascent.  I  do  not  know  what
+\par \hich\af0\dbch\af31505\loch\f0 Garnett was thinking, probably that  this  was  the  craziest  goose-chase  he
+\par \hich\af0\dbch\af31505\loch\f0 had ever embarked upon. I more than half agreed  with  him,  but  the  joy  of
+\par \hich\af0\dbch\af31505\loch\f0 cl\hich\af0\dbch\af31505\loch\f0 imbing, the knowledge that no man had ever gone  this  way  before  and  the
+\par \hich\af0\dbch\af31505\loch\f0 exhilaration of the steadily widening landscape  gave  me  all  the  reward  I
+\par \hich\af0\dbch\af31505\loch\f0 needed.
+\par \hich\af0\dbch\af31505\loch\f0     I don't think I was particularly excited when I saw in  front  of  us  the
+\par \hich\af0\dbch\af31505\loch\f0 wall of rock \hich\af0\dbch\af31505\loch\f0 I had first inspected through the  telescope  from  thirty  miles
+\par \hich\af0\dbch\af31505\loch\f0 away. It would level off about fifty  feet  above  our  heads,  and  there  on
+\par \hich\af0\dbch\af31505\loch\f0 the plateau would be the thing that had lured me  over  these  barren  wastes.
+\par \hich\af0\dbch\af31505\loch\f0 It was, almost certainly, nothin\hich\af0\dbch\af31505\loch\f0 g more than  a  boulder  splintered  ages  ago
+\par \hich\af0\dbch\af31505\loch\f0 by a falling meteor, and with its  cleavage  planes  still  fresh  and  bright
+\par \hich\af0\dbch\af31505\loch\f0 in this incorruptible, unchanging silence.
+\par \hich\af0\dbch\af31505\loch\f0     There were  no  hand-holds  on  the  rock  face,  and  we  had  to  use  a
+\par \hich\af0\dbch\af31505\loch\f0 grapnel.\hich\af0\dbch\af31505\loch\f0   My  tired  arms  seemed  to  gain  new  strength  as  I  swung   the
+\par \hich\af0\dbch\af31505\loch\f0 three-pronged metal anchor round my  head  and  sent  it  sailing  Lip  toward
+\par \hich\af0\dbch\af31505\loch\f0 the stars. The first time it broke loose and came  falling  slowly  back  when
+\par \hich\af0\dbch\af31505\loch\f0 we pulled the r\hich\af0\dbch\af31505\loch\f0 ope. On the  third  attempt,  the  prongs  gripped  firmly  and
+\par \hich\af0\dbch\af31505\loch\f0 our combined weights could not shift it.
+\par \hich\af0\dbch\af31505\loch\f0     Garnett looked at me  anxiously.  I  could  tell  that  he  wanted  to  go
+\par \hich\af0\dbch\af31505\loch\f0 first, but I smiled back at him through the  glass  of  my  helmet  and \hich\af0\dbch\af31505\loch\f0  shook
+\par \hich\af0\dbch\af31505\loch\f0 my head. Slowly, taking my time, I began the final ascent.
+\par \hich\af0\dbch\af31505\loch\f0     Even with my space-suit, I weighed only forty pounds  here,  so  I  pulled
+\par \hich\af0\dbch\af31505\loch\f0 myself up hand over hand without bothering to  use  my  feet.  At  the  rim  I
+\par \hich\af0\dbch\af31505\loch\f0 paused and waved to my companion\hich\af0\dbch\af31505\loch\f0 , then I scrambled over  the  edge  and  stood
+\par \hich\af0\dbch\af31505\loch\f0 upright, staring ahead of me.
+\par \hich\af0\dbch\af31505\loch\f0     
+\par \hich\af0\dbch\af31505\loch\f0     You must understand  that  until  this  very  moment  I  had  been  almost
+\par \hich\af0\dbch\af31505\loch\f0 completely convinced that there could be nothing strange  or  unusual  for  me
+\par \hich\af0\dbch\af31505\loch\f0 to find here. Al\hich\af0\dbch\af31505\loch\f0 most, but not quite; it  was  that  haunting  doubt  that  had
+\par \hich\af0\dbch\af31505\loch\f0 driven me forward. Well, it was a  doubt  no  longer,  but  the  haunting  had
+\par \hich\af0\dbch\af31505\loch\f0 scarcely begun.
+\par \hich\af0\dbch\af31505\loch\f0     I was standing on a plateau perhaps a hundred feet  across.  It  had  once
+\par \hich\af0\dbch\af31505\loch\f0 been smooth-too smo\hich\af0\dbch\af31505\loch\f0 oth to  be  natural-but  falling  meteors  had  pitted  and
+\par \hich\af0\dbch\af31505\loch\f0 scored  its  surface  through  immeasurable  eons.  It  had  been  leveled  to
+\par \hich\af0\dbch\af31505\loch\f0 support a glittering, roughly pyramidal structure, twice as  high  as  a  man,
+\par \hich\af0\dbch\af31505\loch\f0 that was set in the rock like a gigant\hich\af0\dbch\af31505\loch\f0 ic, many-faceted jewel.
+\par \hich\af0\dbch\af31505\loch\f0     Probably no emotion at all filled my mind  in  those  first  few  seconds.
+\par \hich\af0\dbch\af31505\loch\f0 Then I felt a great lifting of my heart, and  a  strange,  inexpressible  joy.
+\par \hich\af0\dbch\af31505\loch\f0 For I loved the Moon, and now I knew that the  creeping  moss  of  Aristar\hich\af0\dbch\af31505\loch\f0 chus
+\par \hich\af0\dbch\af31505\loch\f0 and Eratosthenes was not the only life she had brought  forth  in  her  youth.
+\par \hich\af0\dbch\af31505\loch\f0 The old, discredited dream  of  the  first  explorers  was  true.  There  had,
+\par \hich\af0\dbch\af31505\loch\f0 after all, been a lunar civilization-and I was the  first  to  find  it.  That
+\par \hich\af0\dbch\af31505\loch\f0 I had come per\hich\af0\dbch\af31505\loch\f0 haps a hundred million years  too  late  did  not  distress  me;
+\par \hich\af0\dbch\af31505\loch\f0 it was enough to have come at all.
+\par \hich\af0\dbch\af31505\loch\f0     My mind was  beginning  to  function  normally,  to  analyze  and  to  ask
+\par \hich\af0\dbch\af31505\loch\f0 questions.  Was  this  a  building,  a  shrine-or  something  for  which    my
+\par \hich\af0\dbch\af31505\loch\f0 language had  no  name?  If  a  building,  then  why  was  it  erected  in  so
+\par \hich\af0\dbch\af31505\loch\f0 uniquely inaccessible a spot? I wondered if  it  might  be  a  temple,  and  I
+\par \hich\af0\dbch\af31505\loch\f0 could picture the a\hich\af0\dbch\af31505\loch\f0 depts of some strange  priesthood  calling  on  their  gods
+\par \hich\af0\dbch\af31505\loch\f0 to preserve them as the life of the Moon ebbed  with  the  dying  oceans,  and
+\par \hich\af0\dbch\af31505\loch\f0 calling on their gods in vain.
+\par \hich\af0\dbch\af31505\loch\f0     I took a dozen steps forward  to  examine  the  thing  more  closely,  but
+\par \hich\af0\dbch\af31505\loch\f0 some se\hich\af0\dbch\af31505\loch\f0 nse of caution kept me  from  going  too  near.  I  knew  a  little  of
+\par \hich\af0\dbch\af31505\loch\f0 archaeology, and tried  to  guess  the  cultural  level  of  the  civilization
+\par \hich\af0\dbch\af31505\loch\f0 that must have  smoothed  this  mountain  and  raised  the  glittering  mirror
+\par \hich\af0\dbch\af31505\loch\f0 surfaces that still dazzle\hich\af0\dbch\af31505\loch\f0 d my eyes.
+\par \hich\af0\dbch\af31505\loch\f0     The Egyptians could  have  done  it,  I  thought,  if  their  workmen  had
+\par \hich\af0\dbch\af31505\loch\f0 possessed whatever strange materials these far  more  ancient  architects  had
+\par \hich\af0\dbch\af31505\loch\f0 used. Because of the thing's  smallness,  it  did  not  occur  to  me  that  I
+\par \hich\af0\dbch\af31505\loch\f0 might be\hich\af0\dbch\af31505\loch\f0  looking at the handiwork of a race more advanced  than  my  own.  The
+\par \hich\af0\dbch\af31505\loch\f0 idea that the Moon had possessed intelligence at  all  was  still  almost  too
+\par \hich\af0\dbch\af31505\loch\f0 tremendous  to  grasp,  and  my  pride  would  not  let  me  take  the  final,
+\par \hich\af0\dbch\af31505\loch\f0 humiliating plunge.
+\par \hich\af0\dbch\af31505\loch\f0     And\hich\af0\dbch\af31505\loch\f0  then I noticed something that set  the  scalp  crawling  at  the  back
+\par \hich\af0\dbch\af31505\loch\f0 of my neck-something so trivial and so innocent that  many  would  never  have
+\par \hich\af0\dbch\af31505\loch\f0 noticed it at all. I have said that the plateau was  scarred  by  meteors;  it
+\par \hich\af0\dbch\af31505\loch\f0 was also coated inches-dee\hich\af0\dbch\af31505\loch\f0 p with the cosmic  dust  that  is  always  filtering
+\par \hich\af0\dbch\af31505\loch\f0 down upon the surface of any world where there are no  winds  to  disturb  it.
+\par \hich\af0\dbch\af31505\loch\f0 Yet the dust  and  the  meteor  scratches  ended  quite  abruptly  in  a  wide
+\par \hich\af0\dbch\af31505\loch\f0 circle  enclosing  the  little  pyramid,  as \hich\af0\dbch\af31505\loch\f0  though  an  invisible  wall  was
+\par \hich\af0\dbch\af31505\loch\f0 protecting  it  from  the  ravages  of  time  and  the  slow  but    ceaseless
+\par \hich\af0\dbch\af31505\loch\f0 bombardment from space.
+\par \hich\af0\dbch\af31505\loch\f0     There  was  someone  shouting  in  my  earphones,  and  I  realized   that
+\par \hich\af0\dbch\af31505\loch\f0 Garnett had been calling me for some time. I walked  unsteadily  to  the  edge
+\par \hich\af0\dbch\af31505\loch\f0 of the cliff and signaled him to  join  me,  not  trusting  myself  to  speak.
+\par \hich\af0\dbch\af31505\loch\f0 Then I went back toward that circle in the dust. I picked  up  a  fragment  of
+\par \hich\af0\dbch\af31505\loch\f0 splintered rock and\hich\af0\dbch\af31505\loch\f0  tossed  it  gently  toward  the  shining  enigma.  If  the
+\par \hich\af0\dbch\af31505\loch\f0 pebble had  vanished  at  that  invisible  barrier  I  should  not  have  been
+\par \hich\af0\dbch\af31505\loch\f0 surprised, but it seemed to hit a  smooth,  hemispherical  surface  and  slide
+\par \hich\af0\dbch\af31505\loch\f0 gently to the ground.
+\par \hich\af0\dbch\af31505\loch\f0     I knew then \hich\af0\dbch\af31505\loch\f0 that I was looking at nothing that could  be  matched  in  the
+\par \hich\af0\dbch\af31505\loch\f0 antiquity  of  my  own  race.  This  was  not  a  building,  but  a   machine,
+\par \hich\af0\dbch\af31505\loch\f0 protecting itself with forces that  had  challenged  Eternity.  Those  forces,
+\par \hich\af0\dbch\af31505\loch\f0 whatever they might be, were  still\hich\af0\dbch\af31505\loch\f0   operating,  and  perhaps  I  had  already
+\par \hich\af0\dbch\af31505\loch\f0 come too close. I thought of all the radiations  man  had  trapped  and  tamed
+\par \hich\af0\dbch\af31505\loch\f0 in the past century. For all I knew, I  might  be  as  irrevocably  doomed  as
+\par \hich\af0\dbch\af31505\loch\f0 if I had stepped  into  the  deadly,  silent  aura  of\hich\af0\dbch\af31505\loch\f0   an  unshielded  atomic
+\par \hich\af0\dbch\af31505\loch\f0 pile.
+\par \hich\af0\dbch\af31505\loch\f0     I remember turning then toward Garnett, who bad  joined  me  and  was  now
+\par \hich\af0\dbch\af31505\loch\f0 standing motionless at my side. He seemed quite oblivious  to  me,  so  I  did
+\par \hich\af0\dbch\af31505\loch\f0 not disturb him but  walked  to  the  edge  of  the  cliff  in  an \hich\af0\dbch\af31505\loch\f0  effort  to
+\par \hich\af0\dbch\af31505\loch\f0 marshal my thoughts. There below  me  lay  the  Mare  Crisium-Sea  of  Crises,
+\par \hich\af0\dbch\af31505\loch\f0 indeed-strange and weird to most men,  but  reassuringly  familiar  to  me.  I
+\par \hich\af0\dbch\af31505\loch\f0 lifted my eyes toward the crescent  Earth,  lying  in  her  cradle  of  stars,
+\par \hich\af0\dbch\af31505\loch\f0 and I w\hich\af0\dbch\af31505\loch\f0 ondered what her clouds had covered when  these  unknown  builders  had
+\par \hich\af0\dbch\af31505\loch\f0 finished their work. Was it the steaming  jungle  of  the  Carboniferous,  the
+\par \hich\af0\dbch\af31505\loch\f0 bleak shoreline over which the first amphibians  must  crawl  to  conquer  the
+\par \hich\af0\dbch\af31505\loch\f0 land-or, earlier still, th\hich\af0\dbch\af31505\loch\f0 e long loneliness before the coming of life?
+\par \hich\af0\dbch\af31505\loch\f0     Do not ask me why I  did  not  guess  the  truth  sooner-the  truth,  that
+\par \hich\af0\dbch\af31505\loch\f0 seems so obvious  now.  In  the  first  excitement  of  my  discovery,  I  had
+\par \hich\af0\dbch\af31505\loch\f0 assumed without question that  this  crystalline  apparition  had  been  built
+\par \hich\af0\dbch\af31505\loch\f0 by some race belonging to the Moon's  remote  past,  but  suddenly,  and  with
+\par \hich\af0\dbch\af31505\loch\f0 overwhelming force, the belief came to me that it was as  alien  to  the  Moon
+\par \hich\af0\dbch\af31505\loch\f0 as I myself.
+\par \hich\af0\dbch\af31505\loch\f0     In\hich\af0\dbch\af31505\loch\f0  twenty years we had found  no  trace  of  life  but  a  few  degenerate
+\par \hich\af0\dbch\af31505\loch\f0 plants. No lunar civilization, whatever  its  doom,  could  have  left  but  a
+\par \hich\af0\dbch\af31505\loch\f0 single token of its existence.
+\par \hich\af0\dbch\af31505\loch\f0     I looked at the shining pyramid again,  and  the  more  remote  it  s\hich\af0\dbch\af31505\loch\f0 eemed
+\par \hich\af0\dbch\af31505\loch\f0 from anything that had to do  with  the  Moon.  And  suddenly  I  felt  myself
+\par \hich\af0\dbch\af31505\loch\f0 shaking with a foolish, hysterical laughter,  brought  on  by  excitement  and
+\par \hich\af0\dbch\af31505\loch\f0 overexertion: for I had imagined that  the  little  pyramid  was  speaking  to
+\par \hich\af0\dbch\af31505\loch\f0 me and was sa\hich\af0\dbch\af31505\loch\f0 ying: "Sorry, I'm a stranger here myself."
+\par \hich\af0\dbch\af31505\loch\f0     It has taken us twenty  years  to  crack  that  invisible  shield  and  to
+\par \hich\af0\dbch\af31505\loch\f0 reach  the  machine  inside  those  crystal  walls.  What   we    could    not
+\par \hich\af0\dbch\af31505\loch\f0 understand, we broke at last with the savage might of  \hich\af0\dbch\af31505\loch\f0 atomic  power  and  now
+\par \hich\af0\dbch\af31505\loch\f0 I have seen the fragments of the lovely, glittering thing  I  found  up  there
+\par \hich\af0\dbch\af31505\loch\f0 on the mountain.
+\par \hich\af0\dbch\af31505\loch\f0     They are meaningless. The  mechanisms-if  indeed  they  are  mechanisms-of
+\par \hich\af0\dbch\af31505\loch\f0 the pyramid  belong  to  a  technology  that  lies  far  \hich\af0\dbch\af31505\loch\f0 beyond  our  horizon,
+\par \hich\af0\dbch\af31505\loch\f0 perhaps to the technology of para-physical forces.
+\par \hich\af0\dbch\af31505\loch\f0     The mystery haunts us all  the  more  now  that  the  other  planets  have
+\par \hich\af0\dbch\af31505\loch\f0 been reached  and  we  know  that  only  Earth  has  ever  been  the  home  of
+\par \hich\af0\dbch\af31505\loch\f0 intelligent life in our U\hich\af0\dbch\af31505\loch\f0 niverse. Nor  could  any  lost  civilization  of  our
+\par \hich\af0\dbch\af31505\loch\f0 own world have built that machine, for the  thickness  of  the  meteoric  dust
+\par \hich\af0\dbch\af31505\loch\f0 on the plateau has enabled us to measure  its  age.  It  was  set  there  upon
+\par \hich\af0\dbch\af31505\loch\f0 its mountain before life had emerged from th\hich\af0\dbch\af31505\loch\f0 e seas of Earth.
+\par \hich\af0\dbch\af31505\loch\f0     When our world  was  half  its  present  age,  something  from  the  stars
+\par \hich\af0\dbch\af31505\loch\f0 swept through the Solar System, left this  token  of  its  passage,  and  went
+\par \hich\af0\dbch\af31505\loch\f0 again  upon  its  way.  Until  we  destroyed  it,  that  machine  was    still
+\par \hich\af0\dbch\af31505\loch\f0 fulfilling the purpose of its builders; and as to that  purpose,  here  is  my
+\par \hich\af0\dbch\af31505\loch\f0 guess.
+\par \hich\af0\dbch\af31505\loch\f0     Nearly a hundred thousand million stars  are  turning  in  the  circle  of
+\par \hich\af0\dbch\af31505\loch\f0 the Milky Way, and long ago other races on  the  worlds  of  other  suns  must
+\par \hich\af0\dbch\af31505\loch\f0 have scaled \hich\af0\dbch\af31505\loch\f0 and passed the  heights  that  we  have  reached.  Think  of  such
+\par \hich\af0\dbch\af31505\loch\f0 civilizations, far back in time against  the  fading  afterglow  of  Creation,
+\par \hich\af0\dbch\af31505\loch\f0 masters of a universe so young that life as yet had come  only  to  a  handful
+\par \hich\af0\dbch\af31505\loch\f0 of worlds. Theirs  would  have \hich\af0\dbch\af31505\loch\f0  been  a  loneliness  we  cannot  imagine,  the
+\par \hich\af0\dbch\af31505\loch\f0 loneliness of gods looking out across  infinity  and  finding  none  to  share
+\par \hich\af0\dbch\af31505\loch\f0 their thoughts.
+\par \hich\af0\dbch\af31505\loch\f0     They must  have  searched  the  star-clusters  as  we  have  searched  the
+\par \hich\af0\dbch\af31505\loch\f0 planets. Everywhere there  would  \hich\af0\dbch\af31505\loch\f0 be  worlds,  but  they  would  be  empty  or
+\par \hich\af0\dbch\af31505\loch\f0 peopled with crawling, mindless things. Such was  our  own  Earth,  the  smoke
+\par \hich\af0\dbch\af31505\loch\f0 of the great volcanoes still staining the  skies,  when  that  first  ship  of
+\par \hich\af0\dbch\af31505\loch\f0 the peoples of the dawn came sliding  in  from  the  \hich\af0\dbch\af31505\loch\f0 abyss  beyond  Pluto.  It
+\par \hich\af0\dbch\af31505\loch\f0 passed the frozen outer worlds, knowing  that  life  could  play  no  part  in
+\par \hich\af0\dbch\af31505\loch\f0 their  destinies.  It  came  to  rest  among  the  inner   planets,    warming
+\par \hich\af0\dbch\af31505\loch\f0 themselves around the fire of  the  Sun  and  waiting  for  their  stori\hich\af0\dbch\af31505\loch\f0 es  to
+\par \hich\af0\dbch\af31505\loch\f0 begin.
+\par \hich\af0\dbch\af31505\loch\f0     Those wanderers  must  have  looked  on  Earth,  circling  safely  in  the
+\par \hich\af0\dbch\af31505\loch\f0 narrow zone between fire and ice, and  must  have  guessed  that  it  was  the
+\par \hich\af0\dbch\af31505\loch\f0 favorite of the  Sun's  children.  Here,  in  the  distant  future,  would  be
+\par \hich\af0\dbch\af31505\loch\f0 intel\hich\af0\dbch\af31505\loch\f0 ligence; but there were countless stars  before  -them  still,  and  they
+\par \hich\af0\dbch\af31505\loch\f0 might never come this way again.
+\par \hich\af0\dbch\af31505\loch\f0     So  they  left  a  sentinel,  one  of  millions  they    have    scattered
+\par \hich\af0\dbch\af31505\loch\f0 throughout the  Universe,  watching  over  all  worlds  with  the  pro\hich\af0\dbch\af31505\loch\f0 mise  of
+\par \hich\af0\dbch\af31505\loch\f0 life. It was a beacon that down the ages  has  been  patiently  signaling  the
+\par \hich\af0\dbch\af31505\loch\f0 fact that no one had discovered it.
+\par \hich\af0\dbch\af31505\loch\f0     Perhaps you understand now why that  crystal  pyramid  was  set  upon  the
+\par \hich\af0\dbch\af31505\loch\f0 Moon instead of on the Eart\hich\af0\dbch\af31505\loch\f0 h. Its  builders  were  not  concerned  with  races
+\par \hich\af0\dbch\af31505\loch\f0 still  struggling  up  from  savagery.  They  would  be  interested  in    our
+\par \hich\af0\dbch\af31505\loch\f0 civilization only if we proved our  fitness  to  survive  -by  crossing  space
+\par \hich\af0\dbch\af31505\loch\f0 and so escaping from the Earth, our cradle. Th\hich\af0\dbch\af31505\loch\f0 at is  the  challenge  that  all
+\par \hich\af0\dbch\af31505\loch\f0 intelligent races must meet, sooner  or  later.  It  is  a  double  challenge,
+\par \hich\af0\dbch\af31505\loch\f0 for it depends in turn upon  the  conquest  of  atomic  energy  and  the  last
+\par \hich\af0\dbch\af31505\loch\f0 choice between life and death.
+\par \hich\af0\dbch\af31505\loch\f0     Once we had passed that crisis\hich\af0\dbch\af31505\loch\f0 , it was only a matter  of  time  before  we
+\par \hich\af0\dbch\af31505\loch\f0 found the pyramid and forced  it  open.  Now  its  signals  have  ceased,  and
+\par \hich\af0\dbch\af31505\loch\f0 those whose duty it is  will  be  turning  their  minds  upon  Earth.  Perhaps
+\par \hich\af0\dbch\af31505\loch\f0 they wish to help our  infant  civilization.  But  th\hich\af0\dbch\af31505\loch\f0 ey  must  be  very,  very
+\par \hich\af0\dbch\af31505\loch\f0 old, and the old are often insanely jealous of the young.
+\par \hich\af0\dbch\af31505\loch\f0     I can never look now at the Milky Way  without  wondering  from  which  of
+\par \hich\af0\dbch\af31505\loch\f0 those banked clouds of stars the emissaries are coming.  If  you  will  pardon
+\par \hich\af0\dbch\af31505\loch\f0 so commonplace\hich\af0\dbch\af31505\loch\f0  a simile, we have set  off  the  fire-alarm  and  have  nothing
+\par \hich\af0\dbch\af31505\loch\f0 to do but to wait.
+\par \hich\af0\dbch\af31505\loch\f0     I do not think we will have to wait for long.
+\par }{\*\themedata 504b030414000600080000002100828abc13fa0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb6ac3301045f785fe83d0b6d8
+72ba28a5d8cea249777d2cd20f18e4b12d6a8f843409c9df77ecb850ba082d74231062ce997b55ae8fe3a00e1893f354e9555e6885647de3a8abf4fbee29bbd7
+2a3150038327acf409935ed7d757e5ee14302999a654e99e393c18936c8f23a4dc072479697d1c81e51a3b13c07e4087e6b628ee8cf5c4489cf1c4d075f92a0b
+44d7a07a83c82f308ac7b0a0f0fbf90c2480980b58abc733615aa2d210c2e02cb04430076a7ee833dfb6ce62e3ed7e14693e8317d8cd0433bf5c60f53fea2fe7
+065bd80facb647e9e25c7fc421fd2ddb526b2e9373fed4bb902e182e97b7b461e6bfad3f010000ffff0300504b030414000600080000002100a5d6a7e7c00000
+00360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4fc7060abb08
+84a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b63095120f88d94fbc
+52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462a1a82fe353
+bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f7468656d652f7468
+656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b4b0d592c9c
+070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b4757e8d3f7
+29e245eb2b260a0238fd010000ffff0300504b030414000600080000002100a0bc18c6b5060000831b0000160000007468656d652f7468656d652f7468656d65
+312e786d6cec59cf6e1b4518bf23f10ea3bdb7b1133b8da33855ecd80db469a3d82dea71bc1eef4e33bbb39a1927f5ad4a8f482044411ca8045c382020528bb8
+b4efe03e43a0088ad457e09b995d7b27de90a48da082e6107b677fdfff3ff3cd78e5f2dd88a15d2224e571dd2b5f2c7988c43eefd338a87b37bbed0b4b1e920a
+c77dcc784ceade8848eff2eabbeface06515928820a08fe532ae7ba152c9f2dc9cf46119cb8b3c2131bc1b701161058f2298eb0bbc077c2336375f2a2dce4598
+c61e8a71046cc7df8c7f1a3f191fa01b8301f589b79af16f3110122ba9177c263a9a3bc988be7eb63f3e183f1d3f1e1f3cbb07df9fc2e7c786b6bf53d6147224
+9b4ca05dccea1e88eef3bd2eb9ab3cc4b054f0a2ee95cc9f37b7ba3287975322a68ea1cdd1b5cd5f4a9712f477e68d4c11f42642cbed4aedd2fa84bf0130358b
+6bb55acd5679c2cf00b0ef83e556973ccf4a7ba9dcc878e640f6eb2cef66a95aaab8f81cff85199d6b8d46a35a4b75b14c0dc87eadcce0974a8b95b579076f40
+165f9dc1571a6bcde6a28337208b5f9cc1b72fd5162b2ede804246e39d19b40e68bb9d729f40069c6d14c29700be544ae1531464c324dbb488018fd569732fc2
+77b8680381266458d118a9514206d887446fe2a82728d602f132c1b93776c997334b5a3692bea089aa7bef27188a66caefe593ef5f3e79840ef71f1feeff7c78
+fffee1fe8f969143b581e3204ff5e2db4ffe7c780ffdf1e8ab170f3e2bc6cb3cfed71f3efce5e9a7c54028a7a93acf3f3ff8edf1c1f32f3efafdbb0705f03581
+7b7978974644a2eb640f6df3080c335e7135273d71368a6e88699e622d0e248eb19652c0bfa542077d7d84591a1d478f06713d784b403b29025e19de7114ee84
+62a86881e4ab61e4003739670d2e0abd7055cbcab9b93b8c8362e16298c76d63bc5b24bb896327bead61027d354b4bc7f066481c35b7188e150e484c14d2eff8
+0e2105d6dda6d4f1eb26f505977ca0d06d8a1a9816baa44b7b4e364d89366804711915d90cf1767cb3790b35382bb27a9decba48a80acc0a94ef12e6b8f10a1e
+2a1c15b1ece288e51d7e0dabb048c9ce48f8795c4b2a8874401847ad3e91b288e686007b7341bf8aa18315867d938d22172914dd29e2790d739e47aef39d6688
+a3a408dba17198c7be2777204531dae2aa08bec9dd0ad1cf10071c1f1bee5b9438e13eb91bdca481a3d23441f49ba1d0b184d6ed74e088c67fd78e19857e6c73
+e0fcda3134c0e75f3e2cc8ac37b511afc19e5454091b47daef71b8a34db7c9459fbef93d771d0fe32d02693ebbf1bc6db96f5baef79f6fb9c7d5f3691bedb4b7
+42dbd573831d92cdc81c9d7a621e50c63a6ac4c83569866609fb46bf0d8b9a8f395092c9892a09e16bdae71d5c20b0a14182ab0fa80a3b214e60e02e7b9a4920
+53d68144099770f033cb85bc351e8676658f8d557da0b0fd4162b5c9fb7679412f67e786091bb3fb04e6b09a095ad00c4e2b6ce152ca14cc7e156165add4a9a5
+958d6aa6f539d22626434c674d83c5893761204130c6809717e148af45c3410533d2d77eb77b7116161385f30c910c719fa431d276cfc6a86c8294e58ab93980
+dc2988913e049ee0b59cb49a66fb1ad24e13a4bcb8ca31e2b2e8bd4e94b20c9e4649d7f191726471be38598cf6ea5ead3a5ff5908f93ba3780332e7c8d1288ba
+d433206601dc25f94ad8b43fb1984d954fa359cb0c738ba00cd718d6ef33063b7d201152ad6319dad430afd21460b19664f59faf825bcfcb009be9afa0c5c212
+24c3bfa605f8d10d2d190c88aff2c1cead68dfd9c7b495f2a122a213f6f7508f0dc53686f0eb54057bfa54c25585e908fa01eed9b4b7cd2bb739a74597bfdd32
+38bb8e5912e2b4ddea12cd2ad9c24d1d4f74304f39f5c0b642dd8d716737c594fc3999924fe3ff99297a3f819b8385be8e800f37bf02235daf758f0b1572e842
+4948fdb68041c2f40ec816b8ab85d7905470ff6c3e05d9d59fb6e62c0f53d6700054db344082c27ea44241c816b425937d27302ba77b9765c9524626a372eaca
+c4aadd23bb8475750f5cd47bbb87424875d34dd236607047f3cf7d4e2ba817e821275f6f4e0f99ecbdb606fee9c9c7163318e5f66133d064fe9fa858b0ab5a7a
+439eedbd7943f48be99855c9aa0284e5b6825a5af6afa8c219b75adbb1662c9eaf66ca4114672d86c5c94094c0fd0fd2ff60ffa3c267f6970cbda176f936f456
+043f446866903690d517ece0817483b48b3d189ceca24d26cdcaba361d9db4d7b2cdfa9c27dd89dc23ced69a9d26de6774f6643873c539b5789ece4e3decf8da
+ae1deb6a88ecd11285a54176b0318131bf82e57fa5e2bd3b10e875b8ef1f32254d32c16f4e02c3e8d9317500c56f251ad2d5bf000000ffff0300504b03041400
+06000800000021000dd1909fb60000001b010000270000007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c7384
+8f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16d
+b8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017c
+c524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d001400060008
+0000002100828abc13fa0000001c0200001300000000000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600
+080000002100a5d6a7e7c0000000360100000b000000000000000000000000002b0100005f72656c732f2e72656c73504b01022d00140006000800000021006b
+799616830000008a0000001c00000000000000000000000000140200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d0014
+000600080000002100a0bc18c6b5060000831b00001600000000000000000000000000d10200007468656d652f7468656d652f7468656d65312e786d6c504b01
+022d00140006000800000021000dd1909fb60000001b0100002700000000000000000000000000ba0900007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000b50a00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef1\lsdunhideuseddef1\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;
+\lsdpriority39 \lsdlocked0 toc 1;\lsdpriority39 \lsdlocked0 toc 2;\lsdpriority39 \lsdlocked0 toc 3;\lsdpriority39 \lsdlocked0 toc 4;\lsdpriority39 \lsdlocked0 toc 5;\lsdpriority39 \lsdlocked0 toc 6;\lsdpriority39 \lsdlocked0 toc 7;
+\lsdpriority39 \lsdlocked0 toc 8;\lsdpriority39 \lsdlocked0 toc 9;\lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdpriority1 \lsdlocked0 Default Paragraph Font;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority59 \lsdlocked0 Table Grid;\lsdunhideused0 \lsdlocked0 Placeholder Text;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdunhideused0 \lsdlocked0 Revision;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 2;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 5;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdsemihidden0 \lsdunhideused0 \lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority61 \lsdlocked0 Light List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority62 \lsdlocked0 Light Grid Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority70 \lsdlocked0 Dark List Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdsemihidden0 \lsdunhideused0 \lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;
+\lsdsemihidden0 \lsdunhideused0 \lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdpriority37 \lsdlocked0 Bibliography;\lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e352e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffffec69d9888b8b3d4c859eaf6cd158be0f000000000000000000000000c08d
+19536c77ce01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
