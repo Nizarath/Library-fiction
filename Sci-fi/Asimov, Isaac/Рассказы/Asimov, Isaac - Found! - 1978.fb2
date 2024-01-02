@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.gribuser.ru/xml/fictionbook/2.0">
+<description>
+<title-info>
+<genre>sf</genre>
+<author>
+<first-name>Isaac</first-name>
+<last-name>Asimov</last-name>
+</author>
+<book-title>Found!</book-title>
+<date></date>
+<lang>en</lang>
+</title-info>
+<document-info>
+<author>
+<first-name></first-name>
+<last-name></last-name>
+<nickname>GattoV</nickname>
+</author>
+<program-used>Fiction Book Designer</program-used>
+<date value="2008-07-25">25.07.2008</date>
+<src-url></src-url>
+<src-ocr></src-ocr>
+<id>FBD-L1SIRJ2G-0XF2-QAIT-PO38-B1SHBSTCPJMN</id>
+<version>1.0</version>
+</document-info>
+<publish-info>
+</publish-info>
+</description>
+<body>
+<title>
+<p>Isaac Asimov</p>
+<empty-line/>
+<p>Found!</p>
+</title>
+<section>
+<p>Computer-Two, like the other three that chased each other's tails in orbit round the Earth, was much larger than it had to be. </p>
+<p>It might have been one-tenth its diameter and still contained all the volume it needed to store the accumulated and accumulating data to control all space flight. </p>
+<p>They needed the extra space, however, so that Joe and I could get inside, if we had to. And we had to. </p>
+<p>Computer-Two was perfectly capable of taking care of itself. Ordinarily, that is. It was redundant. It worked everything out three times in parallel and all three programs had to mesh perfectly; all three answers had to match. -If they did not, the answer was delayed for nano-seconds while Computer-Two checked itself, found the mal-functioning part and replaced it.</p>
+<p>There was no sure way in which ordinary people would know how many times it caught itself. Perhaps never. Perhaps twice a day. Only Computer-Central could measure the time-delay induced by error and only Computer Central knew how many of the component spares had been used as replacements. And ComputerCentral never talked about it. The only good public image is perfection.</p>
+<p>And it's been perfection. Until now, there was never any call for Joe and me.</p>
+<p>We're the troubleshooters. We go up there when something really goes wrong; when Computer-Two or one of the others can't correct itself. It's never happened in the five years we've been on the job. It did happen now and again in the early days, but that was before our time.</p>
+<p>We keep in practice. Don't get me wrong. There isn't a computer made that Joe and I can't diagnose. Show us the error and we'll show you the malfunction. Or Joe will, anyway. I'm not the kind who sings one's own praises. The record speaks for itself.</p>
+<p>Anyway, this time, neither of us could make the diagnosis.</p>
+<p>The first thing that happened was that Computer-Two lost internal pressure. That's not unprecedented and it's certainly not fatal. Computer-Two can work in a vacuum after all. An internal atmosphere was established in the old days when it was expected there would be a steady flow of repairmen fiddling with it. And its been kept up out of tradition. Who told you scientists aren't chained by tradition? In their spare time from being scientists, they're human, too.</p>
+<p>From the rate of pressure loss, it was deduced that a gravel-sized meteoroid had hit ComputerTwo. Its exact radius, mass, and energy were reported by Computer-Two itself, using the rate of pressure loss, and a few other irregularities, as data.</p>
+<p>The second thing that happened was the break was not sealed and the atmosphere was not regenerated. After that came errors and they called us in.</p>
+<p>It made no sense. Joe let a look of pain cross his homely face and said, "There must be a dozen things out of whack."</p>
+<p>Someone at Computer-Central said, "The hunk of gravel ricocheted very likely."</p>
+<p>Joe said, "With that energy of entry, it would have passed right through the other side. No ricochets. Besides even with ricochets, I figure it would have had to take some very unlikely strikes."</p>
+<p>"Well, then, what do we do?"</p>
+<p>Joe looked uncomfortable. I think it was at this point he realized what was coming. He had made it sound peculiar enough to require the trouble-shooters on the spot-and Joe had never been up in space. If he had told me once that his chief reason for taking the job was because it meant he would never have to go up in space, he had told it to me 2` times, with x a pretty high number.</p>
+<p>So I said it for him. I said, "We'll have to go up there."</p>
+<p>Joe's only way out would have been to say he didn't think he could handle the job, and I watched his pride slowly come out ahead of his cowardice. Not by much, you understand-by a nose, let's say.</p>
+<p>To those of you who haven't been on a spaceship in the last 15 years-and I suppose Joe can't be the only one-let me emphasize that initial acceleration is the only troublesome thing. You can't get away from it, of course.</p>
+<p>After that it's nothing, unless you want to count possible boredom. You're just a spectator. The whole thing is automated and computerized. The old romantic days of space pilots are gone totally. I imagine they'll return briefly when our space settlements make the shift to the asteroid belt as they constantly threaten to do-but then only until additional computers are placed in orbit to set up the necessary additional capacity.</p>
+<p>Joe held his breath through acceleration, or at least he seemed to. (I must admit I wasn't very comfortable myself. It was only my third trip. I've taken a couple of vacations on Settlement-Rho with my husband, but I'm not exactly a seasoned hand.) After that, he was relieved for a while, but only for a while. He got despondent.</p>
+<p>"I hope this thing knows where it's going," he said, pettishly.</p>
+<p>I extended my arms forward, palms up, and felt the rest of me sway backward a bit in the zero-gravity field. "You," I said, "are a com puter specialist. Don't you know it knows?" "Sure, but Computer-Two is off."</p>
+<p>"We're not hooked into Computer-Two," I said. "There are three others. And even if only one were left functional, it could handle all the space flights undertaken on an average day."</p>
+<p>"All four might go off. If Computer-Two is wrong, what's to stop the rest."</p>
+<p>``Then we'll run this thing manually."</p>
+<p>"You'll do it, I suppose? You know how-I think not?"</p>
+<p>"So they'll talk me in."</p>
+<p>"For the love of Eniac," he groaned.</p>
+<p>There was no problem, actually. We moved out to Computer-Two as smooth as vacuum and less than two days after take-off, we were placed into a parking orbit not ten meters behind it.</p>
+<p>What was not so smooth was that, about 20 hours out, we got the news from Earth that Computer-Three was losing internal pressure. Whatever had hit Computer-Two was going to get the rest, and when all four were out, space flight would grind to a halt. It could be reorganized on a manual basis, surely, but that would take months at a minimum, possibly years, and there would be serious economic dislocation on Earth. Worse yet, several thousand people now out in space would surely die.</p>
+<p>It wouldn't bear thinking of and neither Joe nor I talked about it, but it didn't make Joe's disposition sweeter and, let's face it, it didn't make me any happier.</p>
+<p>Earth hung over 200,000 kilometers below us, but Joe wasn't bothered by that. He was concentrating on his tether and checking the cartridge in his reaction-gun. He wanted to make sure he could get to Computer-Two and back again.</p>
+<p>You'd been surprised-if you've never tried it-how you can get your space-legs if you absolutely have to. I wouldn't say there was nothing to it and we did waste half the fuel we used, but we finally reached Computer-Two. We hardly made any bump at all, when we struck Computer-Two. (You hear it, of course, even in vacuum, because the vibration travels through the metalloid fabric of your spacesuits-but there was hardly any bump, just a whisper.)</p>
+<p>Of course, our contact and the addition of our momentum, altered the orbit of ComputerTwo slightly, but tiny expenditures of fuel compensated for that and we didn't have to worry about it. Computer-Two took care of it, for nothing had gone wrong with it, as far as we could tell, that affected any of its external workings.</p>
+<p>We went over the outside first, naturally. The chances were pretty overwhelming that a small piece of gravel had whizzed through ComputerTwo and left an unmistakable hole. Two of them in all probability; one going in and one coming out.</p>
+<p>The chances of that happening are one in two million on any given day-even money that it will happen at least once in six thousand years. It's not likely, but it can, you know. The chances are one in not more than ten billion that, on any one day, it will be struck by a meteoroid large enough to demolish it.</p>
+<p>I didn't mention that because Joe might realize that we were exposed to similar odds ourselves. In fact, any given strike on us would do far more damage to our soft and tender bodies than to the stoical and much-enduring machinery of the computer, and I didn't want Joe more nervous than he was.</p>
+<p>The thing is, though, it wasn't a meteoroid.</p>
+<p>"What's this?" said Joe, finally.</p>
+<p>It was a small cylinder stuck to the outer wall of Computer-Two, the first abnormality we had found in its outward appearance. It was about half a centimeter in diameter and perhaps six centimeters long. Just about cigarette-size for any of you who've been caught up in the antique fad of smoking.</p>
+<p>We brought out our small flashlights.</p>
+<p>I said, "That's not one of the external components."</p>
+<p>"It sure isn't," muttered Joe.</p>
+<p>There was a faint spiral marking running round the cylinder from one end to the other. Nothing else. For the rest, it was clearly metal, but of an odd, grainy texture-at least to the eye.</p>
+<p>Joe said, "It's not tight."</p>
+<p>He touched it gently with a fat and gauntleted finger and it gave. Where it had made contact with the surface of Computer-Two it lifted, and our flashes shone down on a visible gap.</p>
+<p>"There's the reason gas pressure inside declined to zero," I said. </p>
+<p>Joe grunted. He pushed a little harder and the cylinder popped away and began to drift. We managed to snare it after a little trouble. Left behind was a perfectly round hole in the skin of Computer-Two, half a centimeter across. </p>
+<p><p>Joe said, "This thing, whatever it is, isn't much more than foil."</p>
+</p>
+<p>It gave easily under his fingers, thin but springy. A little extra pressure and it dented. He put it inside his pouch, which he snapped shut and said, "Go over the outside and see if there are any other items like that on it. I'll go inside." </p>
+<p>It didn't take me very long. Then I went in. "It's clean," I said. "That's the only thing there is. The only hole." </p>
+<p>"One is enough," said Joe, gloomily. He looked at the smooth aluminum of the wall and, in the light of the flash, the perfect circle of black was beautifully evident. </p>
+<p>It wasn't difficult to place a seal over the hole. It was a little more difficult to reconstitute the atmosphere. Computer-Two's reserve gas-forming supplies were low and the controls required manual adjustment. The solar generator was limping but we managed to get the lights on. </p>
+<p>Eventually, we removed our gauntlets and helmet, but Joe carefully placed the gauntlets inside his helmet and secured them both to one of his suit-loops. </p>
+<p>"I want these handy if the air-pressure begins to drop," he said, sourly. </p>
+<p>So I did the same. </p>
+<p>There was a mark on the wall just next to the hole. I had noted in the light of my flash when I was adjusting the seal. When the lights came on, it was obvious. </p>
+<p>"You notice that, Joe?" I said.</p>
+<p><p>"I notice."</p>
+</p>
+<p>There was a slight, narrow depression in the wall, not very noticeable at all, but there beyond a doubt if you ran your finger over it. It could be noticed for nearly a meter. It was as though someone had scooped out a very shallow sampling of the metal so that the surface was distinctly less smooth than elsewhere.</p>
+<p><p>I said, "We'd better call Computer-Central downstairs."</p>
+</p>
+<p>"If you mean back on Earth, say so," said Joe. "I hate the phony space-talk. In fact, I hate everything about space. That's why I took an Earth-side job-I mean a job on Earth-or what was supposed to be one."</p>
+<p><p>I said patiently, "We'd better call Computer Central back on Earth."</p>
+</p>
+<empty-line/>
+<subtitle>"What for?"</subtitle>
+<subtitle>"To tell them we've found the trouble."</subtitle>
+<subtitle>"Oh? What did we find?"</subtitle>
+<subtitle>"The hole. Remember?"</subtitle>
+<empty-line/>
+<p>"Oddly enough, I do. And what caused the hole? It wasn't a meteoroid. I never saw one that would leave a perfectly circular hole with no signs of buckling or melting. And I never saw one that left a cylinder behind." He took the cylinder out of his suit pocket and smoothed the dent out of its thin metal, thoughtfully. "Well, what caused the hole?" </p>
+<p>I didn't hesitate. I said, "I don't know." </p>
+<p>"If we report to Computer-Central, they'll ask the question and we'll say we don't know and what will we have gained? Except hassle?" </p>
+<p>"They'll call us, Joe, if we don't call them." </p>
+<p>"Sure. And we won't answer, will we?"</p>
+<p><p>"They'll assume something killed us, Joe, and they'll send up a relief party."</p>
+</p>
+<p>"You know Computer-Central. It will take them two days to decide on that. We'll have something before then and once we have something, we'll call them." </p>
+<p>The internal structure of Computer-Two was not really designed for human occupancy. What was foreseen was the occasional and temporary presence of trouble-shooters. That meant there needed to be room for maneuvering, and there were tools and supplies. </p>
+<p>There weren't any armchairs, though. For that matter, there was no gravitational field, either, or any centrifugal imitation of one. </p>
+<p>We both floated in mid-air, drifting slowly this way or that. Occasionally, one of us touched the wall and gently rebounded. Or else part of one of us overlapped part of the other. </p>
+<p>"Keep your foot out of my mouth," said Joe, and pushed it away violently. It was a mistake because we both began to turn. Of course, that's not how it looked to us. To us, it was the interior of ComputerTwo that was turning, which was most unpleasant, and it took us a while to get relatively motionless again.</p>
+<p><p>We had the theory perfectly worked out in our planet side training, but we were short on practice. A lot short.</p>
+</p>
+<p>By the time we had steadied ourselves, I felt unpleasantly nauseated. You can call it nausea, or astronausea, or space-sickness, but whatever you call it, it's the heaves and it's worse in space than anywhere else, because there's nothing to pull the stuff down. It floats around in a cloud of globules and you don't want to be floating around with it. So I held it back; so did Joe. </p>
+<p>I said, "Joe, it's clearly the computer that's at fault. Let's get at its insides." Anything to get my mind off my insides and let them quiet down. Besides, things weren't moving fast enough. I kept thinking of Computer-Three on its way down the tube; maybe Computer-One and Four by now, too; and thousands of people in space with their lives hanging on what we did. </p>
+<p>Joe looked a little greenish, too, but he said, "First I've got to think. Something got in. It wasn't a meteoroid, because whatever it was chewed a neat hole out of the hull. It wasn't cut out because I didn't find a circle of metal anywhere inside. Did you?" </p>
+<p>"No. But I hadn't thought to look."</p>
+<p><p>"I looked, and it's nowhere in here."</p>
+</p>
+<empty-line/>
+<subtitle>"It may have fallen outside."</subtitle>
+<empty-line/>
+<p>"With the cylinder covering the hole till I pulled it away? A likely thing. Did you see anything come flying out?"</p>
+<p><p>"No."</p>
+</p>
+<p>Joe said, "We may still find it in here, of course, but I doubt it. It was somehow dissolved and something got in." "What something? Whose is it?"</p>
+<p>Joe's grin was remarkably ill-natured. "Why do you bother asking questions to which there are no answers? If this was last century, I'd say the Russians had somehow stuck that device onto the outside of Computer-Two-no offense. If it was last century, you'd say it was the Americans."</p>
+<p>I decided to be offended. I said, coldly, "We're trying to say something that makes sense this century, losif" giving it an exaggerated Russian pronunciation.</p>
+<p>"We'll have to assume some dissident group."</p>
+<p>"If so," I said, "we'll have to assume one with a capacity for space flight and with the ability to come up with an unusual device."</p>
+<p>Joe said, "Space-flight presents no difficulties, if you can tap into the orbiting Computers illegally-which has been done. As for the cylinder, that may make more sense when it is analyzed back on Earth-downstairs, as you space-buffs would say."</p>
+<p>"It doesn't make sense," I said. "Where's the point in trying to disable Computer-Two?"</p>
+<p>"As part of a program to cripple space flight."</p>
+<p>"Then everyone suffers. The dissidents, too."</p>
+<p>"But it get's everyone's attention, doesn't it, and suddenly the cause of whatever-it-is makes news. Or the plan is to just knock out Computer-Two and then threaten to knock out the other three. No real damage, but lots of po tential, and lots of publicity."</p>
+<p>He was studying all parts of the interior closely, edging over it square centimeter by square centimeter. "I might suppose the thing was of nonhuman origin."</p>
+<p>"Don't be silly."</p>
+<p>"You want me to make the case? The cylinder made contact, after which something inside ate away a circle of metal and entered Computer-Two. It crawled over the inside wall eating away a thin layer of metal for some reason. Does that sound like anything of human construction. "</p>
+<p>"Not that I know of, but I don't know everything. Even you don't know everything."</p>
+<p>Joe ignored that. "So the question is, how did it-whatever it is-get into the computer, which is, after all, reasonably well sealed. It did so quickly, since it knocked out the resealing and air-regeneration capacities almost at once."</p>
+<p>"Is that what you're looking for?" I said, pointing.</p>
+<p>He tried to stop too quickly and somersaulted backward, crying, "That's it!"</p>
+<p>In his excitement, he was thrashing his arms and legs which got him nowhere, of course. I grabbed him and, for a while, we were both trying to exert pushes in uncoordinated directions, which got us nowhere either. Joe called me a few names, but I called him some back and there I had the advantage. I understand English perfectly, better than he does in fact; but his knowledge of Russian is-well, fragmentary would be a kind way of putting it. Bad language in an ununderstood language always sounds very dramatic.</p>
+<p>"Here it is," he said, when we finally had sorted ourselves out.</p>
+<p>"Where the computer-shielding met the wall, a small circular hole appeared when Joe brushed aside a small cylinder. It was just like the one on the outer hull, but it seemed even thinner. In fact, it seemed to disintegrate when Joe touched it.</p>
+<p>"We'd better get into the computer," said Joe.</p>
+<p>The computer was a shambles.</p>
+<p>Not obviously. I don't mean to say it was like a beam of wood that had been riddled by termites.</p>
+<p>In fact, if you looked at the computer casually, you might swear it was intact.</p>
+<p>Look closely, though, and some of the chips would be gone. The more closely you looked, the more you realized were gone. Worse, the stores that Computer-Two used in self-repair had dwindled to almost nothing. We kept looking and would discover something else missing.</p>
+<p>Joe took the cylinder out of his pouch again and turned it end for end. He said, "I suspect it's after high-grade silicon in particular. I can't say for sure, of course, but my guess is that the sides are mostly aluminum and the flat end is mostly silicon."</p>
+<p>I said, "Do you mean the thing is a solar battery?"</p>
+<p>"Part of it is. That's how it gets it energy in space; energy to get to Computer-Two, energy to eat a hole into it, energy to-to-I don't know how else to put it. Energy to stay alive." "You call it alive?"</p>
+<p>"Why not? Look, Computer-Two can repair itself. It can reject faulty bits of equipment and replace it with working ones, but it needs a supply of spares to work with. Given enough spares of all kinds, it could build a Computer just like itself, when properly programmed-but it needs the supply, so we don't think of it as alive. This object that entered Computer-Two is apparently collecting its own supplies. That's suspiciously lifelike."</p>
+<p>"What you're saying," I said, "is that we have here a micro-computer advanced enough to be considered alive."</p>
+<p>"I don't honestly know what I'm saying."</p>
+<p>"Who on Earth could make such a thing?"</p>
+<p>"Who on Earth?"</p>
+<p>I made the next discovery. It looked like a stubby pen drifting through the air. I just caught it out of the corner of my eye and it registered as a pen.</p>
+<p>In zero-gravity, things will drift out of pockets and float off. There's no way of keeping anything in place unless it is physically confined. You expect pens and coins and anything else that finds an opening to drift wherever the air currents and inertia lead it.</p>
+<p>So my mind registered "Pen" and I groped for it absently and, of course, my fingers didn't close on it. Just reaching for something sets up an air current that pushes it away. You have to reach over and sneak behind it with one hand, and then reach for it with the other. Picking up any small object in mid-air is a two-hand operation. </p>
+<p>I turned to look at the object and pay a little more attention to retrieval, then realized that my pen was safely in its pouch. I felt for it and it was there. </p>
+</section>
+<section>
+<title>
+<p>"Did you lose a pen, Joe?" I called out.</p>
+</title>
+<subtitle>"No."</subtitle>
+<subtitle>"Anything like that? Key? Cigarette?"</subtitle>
+<empty-line/>
+<p>"I don't smoke. You know that." </p>
+<p><p>A stupid answer. "Anything?" I said in exasperation.</p>
+</p>
+<empty-line/>
+<subtitle>"I'm seeing things here."</subtitle>
+<subtitle>"No one ever said you were stable."</subtitle>
+<empty-line/>
+<p>"Look, Joe. Over there. Over there.'' </p>
+<p><p>He lunged for it. I could have told him it would do no good.</p>
+</p>
+<p>By now, though, our poking around in the computer seemed to have stirred things up. We were seeing them wherever we looked. They were floating in the air-currents. </p>
+<p>I stopped one at last. Or, rather, it stopped itself for it was on the elbow of Joe's suit. I snatched it off and shouted. Joe jumped in terror and nearly knocked it out of my hand. </p>
+<p><p>I said, "Look!"</p>
+</p>
+<p>There was a shiny circle on Joe's suit, where I had taken the thing off. It had begun to eat its way through. </p>
+<p>"Give it to me," said Joe. He took it gingerly and put it against the wall to hold it steady. Then he shelled it, gently lifting the paper-thin metal. </p>
+<p>There was something inside that looked like a line of cigarette ash. It caught the light and glinted, though, like lightly woven metal. </p>
+<p>There was a moistness about it, too. It wriggled slowly, one end seeming to seek blindly. </p>
+<p>The end made contact with the wall and stuck. Joe's finger pushed it away. It seemed to require a small effort to do so. Joe rubbed his finger and thumb and said, "Feels oily." </p>
+<p>The metal worm-I don't know what else to call itseemed limp now after Joe had touched it. It didn't move again. </p>
+<p>I was twisting and turning, trying to look at myself. </p>
+<p><p>"Joe," I said, "for Heaven's sake, have I got one of them on me anywhere?"</p>
+</p>
+<p>"I don't see one," he said. </p>
+<p>"Well, look at me. You've got to watch me, Joe, and I'll watch you. If our suits are wrecked we might not be able to get back to the ship." </p>
+<p>Joe said, "Keep moving, then." </p>
+<p>It was a grisly feeling, being surrounded by things hungry to dissolve your suit wherever they could touch it. When any showed up, we tried to catch them and stay out of their way at the same time, which made things almost impossible. A rather long one drifted close to my leg and I kicked at it, which was stupid, for if I had hit it, it might have stuck. As it was, the air-current I set up brought it against the wall, where it stayed. </p>
+<p>Joe reached hastily for it-too hastily. The rest of his body rebounded as he somersaulted, one booted foot struck the wall near the cylinder lightly. When he finally righted himself, it was still there. "I didn't smash it, did 1?"</p>
+<p>"No, you didn't," I said. "You missed it by a decimeter. It won't get away."</p>
+<p>I had a hand on either side of it. It was twice as long as the other cylinder had been. In fact, it was like two cylinders stuck together longways, with a construction at the point of joining.</p>
+<p>"Act of reproducing," said Joe as he peeled away the metal. This time what was inside was a line of dust. Two lines. One on either side of the constriction.</p>
+<p>"It doesn't take much to kill them," said Joe. He relaxed visiby. "I think we're safe."</p>
+<p>"They do seem alive," I said reluctantly.</p>
+<p>"I think they seem more than that. They're viruses-or the equivalent."</p>
+<p>"What are you talking about?"</p>
+<p>Joe said, "Granted I'm a computertechnologist and not a virologist-but it's my understanding that viruses on Earth, or `downstairs' as you would say, consist of a nucleic acid molecule coated in a protein shell.</p>
+<p>"When a virus invades a cell, it manages to dissolve a hole in the cell wall or membrane by the use of some appropriate enzyme and the nucleic acid slips inside, leaving the protein coat outside. Inside the cell it finds the material to make a new protein coat for itself. In fact, it manages to form replicas of itself and produces a new protein coat for each replica. Once it has stripped the cell of all it has, the cell dissolves and in place of the one invading virus there are several hundred daughter-viruses. Sound familiar?"</p>
+<p>"Yes. Very familiar. It's what's happening here. But where did it come from, Joe?"</p>
+<p>"Not from Earth, obviously, or any Earth settlement. From somewhere else, I suppose. They drift through space till they find something appropriate in which they can multiply. They look for sizable objects ready-made of metal. I don't imagine they can smelt ores."</p>
+<p>"But large metal objects with pure silicon components and a few other succulent matters like that are the products of intelligent life only," I said.</p>
+<p>"Right," said Joe, "which means we have the best evidence yet that intelligent life is common in the universe, since objects like the one we're on must be quite common or it couldn't support these viruses. And it means that intelligent life is old, too, perhaps ten billion years old-long enough for a kind of metal evolution, forming a metal/silicon/oil life as we have formed a nucleic/protein/water life. Time to evolve a parasite on space-age artifacts."</p>
+<p>I said, "You make it sound that every time some intelligent life-form develops a space-culture, it is subjected before long to parasitic infestation."</p>
+<p>"Right. And it must be controlled. Fortunately, these things are easy to kill, especially now when they're forming. Later on, when ready to burrow out of Computer-Two, I suppose they will grow, thicken their shells, stabilize their interior and prepare, as the equivalent of spores, to drift a million years before they find another home. They might not be so easy to kill then." </p>
+</section>
+<section>
+<title>
+<p>"How are you going to kill them?"</p>
+</title>
+<p>"I already have. I just touched that first one when it instinctively sought out metal to begin manufacturing a new shell after I had broken open the first one-and that touch finished it. I didn't touch the second, but I kicked the wall near it and the sound vibration in the metal shook its interior apart into metal dust. So they can't get us-or any more of the computer-if we just shake them apart, now!" </p>
+<p>He didn't have to explain further-or as much. He put on his gauntlets slowly, and banged at the wall with one. It pushed him away and he kicked at the wall where he next approached it. </p>
+<p>"You do the same," he shouted. </p>
+<p>I tried to, and for a while we both kept at it. You don't know how hard it is to hit a wall at zero-gravity; at least on purpose; and do it hard enough to make it clang. We missed as often as not or just struck a glancing blow that sent us whirling but made virtually no sound. We were panting with effort and aggravation in no time. </p>
+<p>But we had acclimated ourselves. We kept it up and eventually gathered up more of the viruses. There was nothing inside but dust in every case. They were clearly adapted to empty, automated space objects which, like modern computers, were vibration-free. That's what made it possible, I suppose, to build up the exceedingly rickety-complex metallic structures that possessed sufficient instability to produce the properties of simple life. </p>
+</section>
+<section>
+<title>
+<p>I said, "Do you think we got them all?"</p>
+</title>
+<p>"How can I say? If there's one left, it will cannibalize the others for metal supplies and start all over. Let's bang around some more." </p>
+<p><p>We did until we were sufficiently worn out not to care whether one was still left alive.</p>
+</p>
+<p>"Of course," I said, panting, "the Planetary Association for the Advancement of Science isn't going to be pleased with our killing them all." </p>
+<p>Joe's suggestion as to what the P.A.A.A. could do with itself was forceful, but impractical. He said, "Look, our mission is to save Computer-Two, a few thousand lives and, as it turned out, our own lives, too. Now they can decide whether to renovate this computer or rebuild it from scratch. It's their baby. </p>
+<p>"The P.A.A.S. can get what they can out of these dead objects and that should be something. If they want live ones, I suspect they'll find them floating about in these regions." </p>
+<p>I said, "All right. My suggestion is we tell Computer Central we're going to jerry-rig this Computer and get it doing some work anyway, and we'll stay till a relief is up for main repairs or whatever in order to prevent any reinfestation. Meanwhile, they'd better get to each of the other Computers and set up a system that can set it to vibrating strongly as soon as the internal atmosphere shows a pressure drop." "Simple enough," said Joe, sardonically. "It's lucky we found them when we did."</p>
+<p>"Wait a while," said Joe, and the look in his eye was one of deep trouble. We didn't find them. They found us. If metal-life has developed, do you suppose it's likely that this is the only form it takes?</p>
+<p>"What if such life-forms communicate somehow and, across the vastness of space, others are now converging on us for the picking. Other species, too; all of them after the lush new fodder of an as-yet untouched space culture. Other species! Some that are sturdy enough to withstand vibration. Some that are large enough to be more versatile in their reactions to danger. Some that are equipped to invade our settlements in orbit. Some, for the sake of Univac, that may be able to invade the Earth for the metals of its cities.</p>
+<p>"What I'm going to report, what I must report, is that we've been found!"</p>
+</section>
+</body>
+</FictionBook>
