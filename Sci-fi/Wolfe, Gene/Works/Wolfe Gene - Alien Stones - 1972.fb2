@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Gene</first-name>
+    <last-name>Wolfe</last-name>
+   </author>
+   <book-title>Alien Stones</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 1.30.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2014-04-02">2.4.2014</date>
+   <id>34ba7a36-1736-4b3c-bc2e-3fbff30d0a83</id>
+   <version>1.0</version>
+  </document-info>
+  <publish-info>
+   <year>0101</year>
+  </publish-info>
+ </description>
+ <body>
+  <section>
+   <p>“Heading unchanged,” Gladiator said. “Speed unchanged.” She flashed figures on the cathode-ray-tube terminal at the command console to substantiate it.</p>
+   <p>Daw nodded. Twenty-eight firing studs stretched along the mid-band of the console. They would permit him, Daw, alone on the bridge (as he liked it) to launch every missile aboard the ship; even if Gladiator’s central processing unit were knocked out or under system overload, there would be strike vectors from the independent minicomputers that clung, embryonic self-brains, to the walls of the missile foramens.</p>
+   <p>But there was no need for the minis. His ship was untouched; he could order Gladiator herself to do the shooting. Instead he asked, “Drive?”</p>
+   <p>And Gladiator answered: “No indication of drive in use.”</p>
+   <p>“Okay.”</p>
+   <p>“Shall present course be maintained? Present course is a collision course in point three one hours.”</p>
+   <p>“Match their velocity and lay us alongside. How long?”</p>
+   <p>“One point forty-four hours.”</p>
+   <p>“Do it. Meantime maintain battle stations.” Daw flipped on his console mike without touching the switch that would have put his own image on the terminals in every compartment of the ship. Naval tradition decreed that when the captain spoke he should be seen as well as heard, but Daw had watched tapes of his own long, brown face as he announced, in what he felt to be unbearable stiff fashion, various unimportances, and he found it impossible to believe that his crew, seeing the same stretched cheeks and preposterous jaw, would not snicker.</p>
+   <p>“This is your captain. The ship sighted last night is still on her course.” Daw chewed his lower lip for a moment, trying to decide just what to say next. The crew must be alerted, but it would be best if they were not alarmed. “There is no indication, I repeat, no indication, that she is aware of our presence. Possibly she doesn’t want to scare us off—she may want peace, or she may just have something up with her sleeve. Possibly something’s wrong with her sensors. My own guess—which isn’t worth any more than yours—is that she’s a derelict; there’s no sign of drive, and we haven’t been able to reach her on any frequency. But we have to stay sharp. Battle conditions until further notice.”</p>
+   <p>He flicked off the mike switch. Several como lights were blinking and he selected one: the reactor module. Mike switch again. “What is it, Neal?”</p>
+   <p>“Captain, if you could give me a breakdown on the radiation they’re putting out, it might be possible for me to work up an estimate of how long it’s been since they’ve used their drive.”</p>
+   <p>“I’m happy to hear that you know their engineering,” Daw said. “Especially since Gladiator’s been unable to identify even the ship type.”</p>
+   <p>Neal’s face, seen in the CRT, flushed. He was a handsome, slightly dissipated-looking man whose high forehead seemed still higher under a thick crest of dark hair. “I would assume their drives are about the same as ours, sir,” he said.</p>
+   <p>“I’ve done that. On that basis they shut down only an hour before we picked them up. But I’m not sure I believe it.” He cut Neal off and scanned the rest of the lights. One was from the ship’s cybernetics compartment; but Polk, the cyberneticist, was bunking with the systems analyst this trip. Daw pushed the light and a woman’s face appeared on the screen. It was framed in honey-toned hair, a face with skin like a confection and classic planes that might have shamed a fashion model. And a smile, he had seen that smile often before—though as seldom, he told himself, as he decently could.</p>
+   <p>“Yes, Mrs. Youngmeadow?”</p>
+   <p>“Helen, please. I can’t see you, Captain. The screen is blank.”</p>
+   <p>“There’s some minor repair work to be done on the camera here,” Daw lied. “It’s not important, so we’ve given it low priority.”</p>
+   <p>“But you can see me?”</p>
+   <p>“Yes.” He felt the blood rising in his cheeks.</p>
+   <p>“About this ship, Captain . . .” Helen Youngmeadow paused, and Daw noticed that her husband was standing behind her, beyond the plane of focus. “Captain, everyone on the ship can hear me—can’t they?”</p>
+   <p>“I can cut them out of the circuit if you prefer.”</p>
+   <p>“No—Captain, may I come up there?”</p>
+   <p>“To the bridge? Yes, if you like. It’s a long way.”</p>
+   <p>Another como light. This time the alternate bridge module—in appearance much like his, but lacking the battered Old and New Testaments bound in steel and magnetically latched to the console. “Hello, Wad,” Daw said gently.</p>
+   <p>Wad made a half-salute. His young, dark-complexioned face showed plainly the strain of two years’ involvement in a hell that demanded night and day a continual flow of deductions, inferences, and decisions—all without effect. Looking at Daw significantly, he drew a finger across his throat, and Daw gave him the private circuit he had offered Mrs. Youngmeadow.</p>
+   <p>“Thanks, Skipper. I’ve got something I thought you ought to know abbout.”</p>
+   <p>Daw nodded.</p>
+   <p>“I’ve been running an artifact correlation on the visual image of that ship.”</p>
+   <p>“So have I. Electronic and structural.”</p>
+   <p>“I know, I got your print-out. But my own analysis was bionic.”</p>
+   <p>“You think that’s valid?”</p>
+   <p>Wad shrugged. “I don’t know, but it’s interesting. You know what the biologists say: Man has reached the stage where he evolves through his machines. The earliest spacecraft resembled single-celled animals—pond life. The dilettante intellectuals of the time tried to give them a sexual significance—that was the only thing they knew—but they were really much closer to the things you find in a drop of pond water than to anything else.”</p>
+   <p>“And what does your analysis say about this ship?”</p>
+   <p>“No correlation at all. Nothing higher than a tenth.”</p>
+   <p>Daw nodded again. “You think the lack of correlation is significant?”</p>
+   <p>“It suggests to me that it may have originated somewhere where life forms are quite different from what we are accustomed to.”</p>
+   <p>“Mankind has colonized some queer places.”</p>
+   <p>With heavy significance Wad said, “Would it<emphasis> have</emphasis> to be mankind, Captain?” He was speaking, Daw knew, not to him but to his instructors back home. If his guess were correct he would, presumably, be given some small number of points; if not, he would lose ground. In time he would, or would not, be given his own command. The whole thing embarrassed Daw and made him feel somehow wretched, but he could not really blame Wad. He was Wad. To keep the ball rolling—mostly because he did not want to answer the other como lights—he said, “Men have spread their seed a long way across the galaxy Wad. We’ve seen a lot of strange ships, but they’ve always turned out to be of human origin.”</p>
+   <p>“The part of the galaxy we know about is tiny compared to the vastness we don’t know. And there are other galaxies!”</p>
+   <p>Daw said, “I’ve been thinking about the stranger’s build myself, as I told you. He looks like a crystal to me—modules ranged in a three-dimensional rectangular array.”</p>
+   <p>“What do you think that means?”</p>
+   <p>“Comes from a world where they’ve discovered radio.”</p>
+   <p>Wad broke the connection; Daw grinned but found he didn’t much blame him for it.</p>
+   <subtitle>* * * *</subtitle>
+   <p>Daw wondered what Gladiator’s bionic correlation program would say about Gladiator herself. Perhaps liken her to the armor of a caddis-fly larva—an empty cylinder of odds and ends. Caddis-fly armor exploded. The interior of his helmet held the familiar smells of fine lubricating oil, sweat, and the goo he sometimes used on his hair; he kicked down and the soles of his boots clinked home on the hull of the bridge module.</p>
+   <p>Above him and around him Gladiator flung her shining threads, the stars a dust of ice seen through the interstices, the connecting tubes like spider web—half glittering, half drowned in inky shadow.</p>
+   <p>Still ten thousand miles off, the other ship was, under the immense lasers Gladiator directed toward it, another star; but one that winked and twinkled as its structure surged and twisted to the urgings of accelerations long departed.</p>
+   <p>A hatch at Daw’s feet opened and a metal-clad figure he knew to be Helen Youngmeadow rose, caught his hand, and stood beside him. Like his own, her faceplate was set for full transparency; her beautiful face, thus naked to the darkness of a billion suns, seemed to him to hold a hideous vulnerability. In his earphones her voice asked: “Do you know this is the first time I’ve been out? It’s lovely.”</p>
+   <p>“Yes,” Daw said.</p>
+   <p>“And all this is Gladiator; she doesn’t seem this big when she talks to me in our cabin. Could you show me which one it is? I’m lost.”</p>
+   <p>“Which module?” From his utility belt Daw took a silver rod, then locked the articulations of his suit arm so that he could aim it like a missile projector with the fine adjustment controls. In the clean emptiness no beam showed, but a module miles down the gossamer cylinder of the ship flashed with the light.</p>
+   <p>“Way down there,” the girl said. “It would be a lot more sociable if everyone were quartered together.”</p>
+   <p>“In a warship the men must be near their duty,” Daw explained awkwardly. “And everything has to be decentralized so that if we’re blown apart, all the parts can fight. The module you and your husband are in has more of the ship’s central processor than any of the others, but even that is scattered all over.”</p>
+   <p>“And their ship—the ship out there—is modular too.”</p>
+   <p>“Yes,” Daw said. He remembered his conversation with Wad. “Ours is a hollow cylinder, theirs a filled rectangle. Our modules are different sizes and shapes depending on function; theirs are uniform. You’re the empathist—the intercultural psychologist—what do those thing tell you?”</p>
+   <p>“I have been thinking about it,” Helen Youngmeadow said, “but I’d like to think some more before I talk, and I’m anxious to fly. Can’t we go now?”</p>
+   <p>“You’re sure—?”</p>
+   <p>“I’ve had all the training.” She relaxed her boots’ grip on the steel world beneath her, kicked out, for an instant floated above him, then was gone. Backpack rockets made a scarcely visible flame, and it was several seconds before he could pick out the spark of her progress. He followed, knowing that all around them, invisible and distant by hundreds of miles, the other boarding parties he had dispatched were making for the ship ahead as well.</p>
+   <p>“I’m an empathist, as you said,” the girl’s voice continued. “Gladiator is a warship, but my husband and I are here to take the side of the enemy.”</p>
+   <p>“That doesn’t bother me.”</p>
+   <p>“Because by taking their side we help you. We give you someone who thinks like them and reacts to<emphasis> their</emphasis> needs. In a way we’re traitors.”</p>
+   <p>“This is exploration; if we had come just to fight you wouldn’t even be on board.”</p>
+   <p>“Because the Navy’s afraid we might blow our own vessel up, or induce the crew to mutiny. We humans have such a high empathy coefficient—some of us.”</p>
+   <p>“When you and I reach that ship,” Daw said wryly, <emphasis>“we’ll</emphasis> be the underdogs. Perhaps then you’ll empathize with the Navy.”</p>
+   <p>“That’s the danger—if I do that I won’t be doing my job.”</p>
+   <p>He chuckled.</p>
+   <p>“Listen, Captain Daw. If I ask you something, will you tell me the truth? Straight?”</p>
+   <p>“If you’ll let me catch up to you, and assuming it’s not classified.”</p>
+   <p>“All right, I’ve cut my jets. I’m—”</p>
+   <p>“I see you, and I’ve been ranging you on suit radar. It’s just that with more mass to accelerate I can’t match you for speed when you’re flat out.” Ahead of them something had been transformed from a winking star to a tiny scrap of diamond lace. Three thousand miles yet, Daw estimated, and checked his radar for confirmation. Five thousand. That ship was big. He said aloud, “What’s the question?”</p>
+   <p>“Why did you let me come? I want to, and I’m terribly grateful, but while I was going up to the bridge I was sure you’d say no. I was thinking of ways to go without your permission—crazy things like that.”</p>
+   <p>For the second time Daw lied.</p>
+   <subtitle>* * * *</subtitle>
+   <p>He held her in space, his hand on her arm, telling her it was a safety precaution. The scrap of lace grew to an immense net and at last acquired a third dimension, so that it was seen as thousands of cubes of void, tubes outlining the edges, spherical modules at the intersections. “Right angles,” Helen Youngmeadow said. “I never knew right angles could be so lovely.” Then, a moment later, “This is more beautiful than ours.”</p>
+   <p>Daw felt something he tried to choke down. “More regular, certainly,” he admitted. “Less individualized.”</p>
+   <p>“Do you still think it’s abandoned?”</p>
+   <p>“Until they show me otherwise. The question is, which one of these things should we enter?”</p>
+   <p>“If we<emphasis> can</emphasis> enter.”</p>
+   <p>“We can. Mrs. Youngmeadow, you empathize with these people, even though you’ve never seen anything of theirs except this ship. Where would you put the command module?”</p>
+   <p>It was a challenge, and she sensed it. “Where would you put it, Captain? As a sailor and a military man?”</p>
+   <p>“On a corner,” Daw said promptly.</p>
+   <p>“You’re right.” He saw her helmet swivel as she looked at him. “But how did you know? Are you trained in empathies too?”</p>
+   <p>“No. But you agree? I thought you were going to say in the center.”</p>
+   <p>“That’s what I thought<emphasis> you</emphasis> were going to say—but it has to be wrong. The entire ship is a structure of empty cubes, with the edges and corners having the only importance. An outer corner would be the corner of corners—did you feel that?”</p>
+   <p>“No, but I saw that observation from an interior module would be blocked in every direction, and even on an outside plane the rest of the ship would blot out a hundred and eighty degrees. A corner module has two hundred and seventy degrees of clear field.”</p>
+   <p>They explored the surface of the nearest corner module (Daw estimated its diameter at sixty thousand feet, which would give it a surface area of over three hundred and fifty square miles) until they found a hatch, with what appeared to be a turning bar on the side opposite the hinge. “How do you know it’s not locked?” the girl asked as Daw braced himself to heave at the bar.</p>
+   <p>“Nobody’s worried about burglars out here. But anyone’s going to worry about having a crew member outside who has to get in fast.” He pulled. The bar moved a fraction of an inch and the hatch a barely visible distance. “I’ll give you some more data to empathize on,” Daw, said. “Whoever built this thing is damn strong.”</p>
+   <p>The girl grasped the other end of the bar, and together they turned it until the hatch stood wide open. Light poured from it into the limitless night of space and Helen Youngmeadow said softly, “They left everything turned on,” and a moment afterward, “No airlock.”</p>
+   <p>“No, they don’t mind vacuum.” Daw was already climbing into the module. There were no floors and no interior partitions; windowed solids that might have been instruments lined the hull wall; machines the size of buildings, braced with guying cables thousands of feet long, dotted the vast central space.</p>
+   <p>“It’s weird, isn’t it?” the girl said. “Like being in a birdcage—only I can’t tell which way is up.”</p>
+   <p>“Up is always an illusion on a ship,” Daw told her. “Why have illusions?” He was already far over her head, exploring. “No chairs, no beds. I like it.”</p>
+   <p>“You mean they don’t rest?” The girl had launched herself toward him now, and she put herself into a slow roll so that, to her eyes, the interior of the module revolved around her.</p>
+   <p>“No.” Daw moved closer to one of the great mechanisms. “Look, on our ship we have couches and chairs with thousands of little suction holes in them, so that when your clothes touch them you stay where you put yourself. But somebody who might have been doing something more valuable had to make every one of those pieces of fancy furniture, and then a hundred times their cost was spent lugging them up out of Earth’s gravity well into space. Then their pumps require power, which means waste heat the ship has a hard time getting rid of—and any time we want to go anywhere on reaction drive—all the close-in maneuvers—we have to accelerate their mass, and decelerate it again when we get there. All this to hold you down on a ship that never gets up much over half a G, and in addition to the crash couches on the tenders and lifeboats.”</p>
+   <p>“But we have to lie down to sleep.”</p>
+   <p>“No, you don’t; you’re simply accustomed to it. All you really have to do is pull your feet off the floor, turn out the lights, and hold onto something—like this guy wire—with one hand. Which is probably what the people who built this ship did. Our ancestors, in case you’ve forgotten, were a tree-dwelling species; and when we go to sleep with our hands around anything that resembles a limb, we automatically tighten up if it starts to slip out.”</p>
+   <p>“You still think this ship was built by human beings?”</p>
+   <p>Daw said carefully, “We’ve never found one that wasn’t.”</p>
+   <p>“Until now.”</p>
+   <p>“You don’t.”</p>
+   <p>There was no reply. Daw looked at the girl to make certain she was all right, jockeyed himself to within touching distance of the great machine, then repeated, “You don’t?”</p>
+   <p>“People? With no airlock?”</p>
+   <p>“The hatch we used may not have been intended for use in space. Or there might be safety devices we don’t know about, deactivated now.”</p>
+   <p>“There wasn’t any atmosphere, even before we opened it; as large as this place is, it would have to discharge for hours, and we’d have felt the push as we came through. There wasn’t anything. You said yourself that they didn’t mind vacuum.”</p>
+   <p>Daw said, “I was thinking they might use this one for some special purpose, or they might wear suits all the time in here.”</p>
+   <p>“Captain, I love mankind. I know when somebody says that, it’s usually just talk; but I mean it. Not just the people who are like me, but all human beings everywhere. And yet I don’t like this ship.”</p>
+   <p>“That’s funny.” Daw swung himself away from the machine he had been examining. “I do. They’re better naval engineers—I think—than we are. Do you want to go back?”</p>
+   <p>“No, of course not. The job is here. What are you going to do now?”</p>
+   <p>“First check out a few more modules; then have some of our people land on the opposite corner of this thing with routes mapped out for them that will take at least one man through every module. They can work their way toward us, and I’ll take their reports as they come in.”</p>
+   <p>“Are you going into some of the other modules now?”</p>
+   <p>“Yes.”</p>
+   <p>“Then I’ll come with you. I don’t like it here.”</p>
+   <subtitle>* * * *</subtitle>
+   <p>It was almost ten hours later when the first searchers reached the point where Daw and the girl waited, having traversed the diagonal length of the ship. They came in talking, in threes and fours, having met when their lines of search converged. Daw, who except for one brief return to Gladiator had spent the time studying some of the devices in the corner module and those immediately adjacent, broke up the groups and questioned each man separately, using a private communication frequency. Helen Youngmeadow chatted with those waiting for debriefing and waved to each party going back to ship.</p>
+   <p>In time the groups thinned, fewer and fewer men clustered around the girl; and at last the last crewman saluted and departed, and she and Daw were alone again. To make conversation she said, “It always seems so lonely on our ship, but seeing all these men makes me realize how many there are; and there are some I’d swear I’ve never even met.”</p>
+   <p>“You probably haven’t,” Daw said. The list Gladiator was flashing on his in-helmet display showed one man still out, and he was not sure the girl was aware of it—or that she was not.</p>
+   <p>“I’ve been wondering what they all do. I mean, the ship can almost run itself, can’t it?”</p>
+   <p>“Yes, Gladiator could pretty well take care of herself for a long time, if nothing had to be changed.”</p>
+   <p>“If nothing had to be changed?”</p>
+   <p>“We have to worry about damage control too, on a warship; but adaptability is the chief justification for a big crew. We can beat our swords into plowshares if we have to, and then our plowshares back into swords; in other words we can rewire and re-rig as much as we need to—if necessary fit out Gladiator to transport a half million refugees or turn her into a medical labor factory. And when something like this comes up we’ve got the people. This ship is too big to have every part visited by a specialist in every discipline, but the men I’ve just sent through her included experts in almost any field you could think of.”</p>
+   <p>She was too far off for him to see the beauty of her smile, but he could feel it. “I think you’re proud of your command, Captain.”</p>
+   <p>“I am,” Daw said simply. “This was what I wanted to do, and I’ve done it.”</p>
+   <p>“Captain, who is Wad?”</p>
+   <p>For an instant the question hung in the nothingness between them; then Daw asked, “How did you meet Wad?”</p>
+   <p>“I asked the ship something—a few hours ago when we went back—and she referred me to him. He looks like you, only . . .”</p>
+   <p>“Only much younger.”</p>
+   <p>“And he’s wearing some sort of officer’s insignia—but I’m certain I’ve never seen him before, not at mess or anywhere else.”</p>
+   <p>“I didn’t think Gladiator would do that,” Daw said slowly. “Usually Wad only talks to me—at least that’s what I thought.”</p>
+   <p>“But who is he?”</p>
+   <p>“First I’d like to know what question you had that made the ship turn you over to him—and how he answered it.”</p>
+   <p>“I don’t think it was anything important.”</p>
+   <p>“What was it?”</p>
+   <p>“I think she just felt—you know—that it needed the human touch.”</p>
+   <p>“Which Wad has in plenty.”</p>
+   <p>“Yes.” Helen Youngmeadow sounded serious. “He’s a very sympathetic, very sensitive young man. Not like an empathist of course, but with some training he could become one. Is he your second in command?”</p>
+   <p>Daw shook his head, though perhaps she could not see it. “No,” he said, “Moke’s my second—you’ve met him.” He thought of the times he and Moke had shared a table with Helen Youngmeadow and her husband—Youngmeadow slender and handsome, a bit proud of his blond good looks, intelligent, forceful and eloquent in conversation; Moke’s honest, homely face struggling throughout the tasteless and untasted meal to hide the desire Young-meadow’s wife waked in every man, and the shame Moke felt at desiring the wife of so likeable a shipmate as Young-meadow.</p>
+   <p>“Then who<emphasis> is</emphasis> Wad?”</p>
+   <p>“If I tell you, will you tell me what it was you asked him?”</p>
+   <p>The girl’s shoulders moved, for Daw could see the bulky metal shoulders of her suit move with them. “I suppose so—Gladiator would tell you if you asked.”</p>
+   <p>“Yes, but it wouldn’t be the same thing as your telling me, Mrs. Youngmeadow. You see, Wad is me. I suppose you could say, too, that I am Wad, grown up.”</p>
+   <p>“I don’t understand.”</p>
+   <p>“Do you know how ship captains are trained?”</p>
+   <p>“I know an officer’s training is very hard—”</p>
+   <p>“Not officers—captains.” Unexpectedly Daw launched himself toward her, his arms outstretched like a bird’s wings, dodging the wide-spaced guy wires until, almost beside her, he caught one and swung to a stop.</p>
+   <p>“That was good,” she said. “You’re very graceful.”</p>
+   <p>“I like this. I’ve spent a lot of time in space, and you won’t find any of that sucking furniture in my cabin. You can laugh if you like, but I think this is what God intended.”</p>
+   <p>“For us?” He could see the arch of her eyebrows now, through the dark transparency of her faceplate.</p>
+   <p>“For us. Leaping between the worlds.”</p>
+   <p>“You know, understanding people is supposed to be my profession—but I don’t think I really understand you at all, Captain. How<emphasis> are</emphasis> captains trained, anyway? Not like other officers?”</p>
+   <p>“No,” Daw said. “We’re not just officers who’ve been promoted, although I know that’s what most people think.”</p>
+   <p>“It’s what I thought.”</p>
+   <p>“That was the old way. I suppose the British carried it to the ultimate. Around eighteen hundred. Have you ever read about it?”</p>
+   <p>The girl did not answer.</p>
+   <p>“They put their future skippers on board warships when they were boys of eight or nine—they were called midshipmen. They were just children, and if they misbehaved they were bent over a gun and whipped, but at the same time they were gentlemen and treated as such. The captain, if he was a good captain, treated them like sons and they got responsibility shoved at them just as fast as they could take it.”</p>
+   <p>“It sounds like a brutal system,” Helen Youngmeadow said.</p>
+   <p>“Not as brutal as losing ship and crew. And it produced some outstanding leaders. Lord Nelson entered the navy at twelve and was posted captain when he was twenty; John Paul Jones started at the same age and was first mate on a slaver when he was nineteen and a captain at twenty-three.”</p>
+   <p>“I’m sorry. . . .” The girl’s voice was so faint in Daw’s earphones that he wondered for a moment if her suit mike was failing. “I’ve never heard of either of those men. But I’ll look them up when we get back to Gladiator.”</p>
+   <p>“Anyway,” Daw continued, “it was a good system—for as long as people were willing to send promising boys off to sea almost as soon as we’d send them off to school; but after a while you couldn’t count on that anymore. Then they took boys who were almost grown and sent them to special universities first. By the time they were experienced officers they were elderly—and the ships, even though these weren’t starships yet, had become so large that their captains hadn’t had much real contact with them until they were nearly ready to take command of a ship themselves. After a hundred years or so of that—about the time the emphasis shifted from sea to space—people discovered that this system really didn’t work very well. A man who’d spent half his life as a subordinate had been well-trained in being a subordinate, but that was all.”</p>
+   <p>The taut cable beneath Daw’s suit-glove shook with a nearly undetectable tremor, and he turned to look toward the hatch, aware as he did that the girl, who must have felt the same minute vibration, had turned instead to the mouths of the connecting tubes that led deeper into the ship.</p>
+   <p>The man coming through the hatch was Polk, the cyberneticist, identifiable not by his face but by the name and number stenciled on his helmet. He saluted, and Daw waved him over.</p>
+   <p>“Got something for me, Captain?”</p>
+   <p>“I think so, the big cabinet in the center of this module. It’s their computer mainframe, or at least an important part of it.”</p>
+   <p>“Ah,” said Polk.</p>
+   <p>“Wait a minute—” There was an edge of shrillness to Helen Youngmeadow’s voice, though it was so slight Daw might easily have missed it. “How can you know that?”</p>
+   <p>“By looking at the wiring running to it. There are hundreds of thousands of wires—braided together into cables, of course, and very fine; but still separate wires, separate channels for information. Anything that can receive that much and do anything with it is a computer by definition—a data-processing device.”</p>
+   <p>Polk nodded as though to support his captain and began examining the great floating octahedron Daw had pointed out. After a minute had passed the girl said in a flat voice, “Do you think theirs might be better than ours? That would be important, I suppose.”</p>
+   <p>Daw nodded. “Extremely important, but I don’t know if it’s true. From what I’ve been able to tell from looking into that thing they’re a little behind us, I think. Of course there might be some surprises.”</p>
+   <p>Polk muttered, “What am I looking for, Captain, just their general system?”</p>
+   <p>“To begin with,” Daw said slowly, “I’d like to know what the last numbers in the main registers were.”</p>
+   <p>Polk whistled, tinny-sounding over the headphones.</p>
+   <p>“What good would that be?” Helen Youngmeadow asked. “Anyway, wouldn’t they just print it—” She remembered how much of Gladiator’s output came over CRTs and audio, and broke off in midsentence.</p>
+   <p>Polk said, “Nobody prints much in space, Mrs. Young-meadow. Printing—well, it eats up a lot of paper, and paper’s heavy. It looks to me like they use a system a lot like ours. See this?” He passed a spacegloved hand across the center of one facet of the cabinet, but the girl could see no difference between the area he indicated and the surrounding smooth grey metal. To look more closely she dove across the emptiness much as Daw had a moment before.</p>
+   <p>“This was one of their terminals,” Polk continued. “There are probably thousands scattered all through the ship. And they seem to have been used about the same way ours are, with turnoff after a set period to conserve the phosphors; they go bad if you excite them for too long.”</p>
+   <p>“I’ve noticed that on Gladiator,” the girl said. “If something’s written on the screen—when I’m reading, for example—and I don’t instruct it to bring up the next page, it fades out after a while. Is that what you mean? It seems remarkable that people as different as these should handle the problem the same way.”</p>
+   <p>Daw said, “Not any more remarkable than that both of us use wires—or handles like the one that opened the hatch outside. Look inside that box, though, at the back of that panel and you’ll find something that<emphasis> is</emphasis> remarkable. Show her, Polk.”</p>
+   <p>The cyberneticist unlatched the section he had indicated. It swung out smoothly, and the girl saw the display tubes behind it, tubes so flat that each was hardly more than a sheet of glass with a socket at the base. “Vacuum tubes?” she said. “Like a television? Even I know what those are.”</p>
+   <p>Daw grunted. “Vacuum tubes in a vacuum.”</p>
+   <p>“That’s right. They shouldn’t need anything around them out here, should they?”</p>
+   <p>“They don’t, out here. This ship, or at least parts of it, goes into atmospheres at times. Even though the crew doesn’t seem to care whether there’s one in here or not.”</p>
+   <p>“Captain,” Helen Youngmeadow said suddenly, “where is my husband?”</p>
+   <subtitle>* * * *</subtitle>
+   <p>Hours later Moke’s voice (unexpectedly loud and near because Moke had the kind of voice that transmitted well through the phones’ medium-range frequencies) asked a similar question: “You find Youngmeadow yet, Skipper?”</p>
+   <p>“We don’t know that he’s lost.”</p>
+   <p>“You didn’t find him, huh?”</p>
+   <p>“No, not yet.”</p>
+   <p>“You really think he’s alive and just not answering?”</p>
+   <p>“It could be,” Daw said. He did not have to remind Moke, as he had Helen Youngmeadow, that there was no danger of running out of oxygen in a modern space suit—each suit being a system as self-sufficient as a planet and its sun; energy from the suit’s tiny pile scavenging every molecule of water and whisper of carbon dioxide and making new, fresh food, freshwater, clean air that could be used again, so that once in the suit the occupant might live in plenty until time itself destroyed him. (He had not mentioned that even death would not end the life encysted in that steady protection, since the needs of the bacteria striking in at the now defenseless corpse from the skin, out from the intestines, would be sensed, still, by the faithful, empty suit; and served.)</p>
+   <p>Daw thought of Youngmeadow dead somewhere in this strange vessel, still secure in his suit, his corpse bloating and stinking while the suit hummed on; and found, startled, that the thought was pleasant—which was absurd, he hardly knew Youngmeadow, and certainly had nothing against the man.</p>
+   <p>“His wife still out looking for him?” Moke asked.</p>
+   <p>Daw nodded, though Moke could not see him. “Yes,” he said. “So are the other parties. I’ve got a couple of men with Mrs. Youngmeadow to make sure she comes back all right.”</p>
+   <p>“I was just talking to her,” Moke said. “I think she’s been talking to Polk too”</p>
+   <p>“What about?”</p>
+   <p>“She said she’d heard you found some maps, Captain. I guess Gladiator told her.”</p>
+   <p>“No reason why she shouldn’t, but I found those while she was here—she must have seen them. While we were waiting for the first survey parties to come in.”</p>
+   <p>“You didn’t hide them from her, or anything like that?”</p>
+   <p>“No, of course not. She just didn’t show much interest in them.” Actually, Daw remembered, he had taken the charts—technically they were star charts rather than maps—to show Helen and had been rather disappointed by her reaction; as an empathist, she had explained, she was much more concerned with things that had<emphasis> not</emphasis> been vital to the ship’s operations than with the things that had.</p>
+   <p><emphasis>“Everyone takes what is necessary, Captain,”</emphasis> she had said.<emphasis> “By definition they have to. It’s what is taken that could be left behind that reveals the heart.”</emphasis></p>
+   <p>“She wanted to know if any of them showed the inside of the ship,” Moke said.</p>
+   <p>Daw felt tired. “I’ll talk to her,” he said, and cut Moke off.</p>
+   <p>He started to adjust his communication for the girl’s band, then thought better of it. His investigation of the command module—if in fact this was the command module—was nearly complete, and it served no purpose for him to stand by and watch Polk tinkering with his instruments. After having Gladiator scan the charts so that duplicates could be made on board for study, he had replaced the originals. Now he gathered them again.</p>
+   <p>It was the first time he had been more than two units away from the corner module he and Helen had first investigated, and though he had heard the chambers of the interior modules described by the men he had sent through them, and had seen the pictures they had taken, it was a new and a strange experience to plunge through tube after tube and emerge in chamber after chamber, each so huge it seemed a sky around him, each seeming without end.</p>
+   <p>The tubes, like those of his own ship, were circular in section; but they were dim (as Gladiator’s were not) and lined with shimmering, luminous pastels he felt certain were codes but could not decipher. His years in space had taught him the trick of creating the thing called<emphasis> up</emphasis> and <emphasis>down</emphasis> in his mind, changing them when it suited him, destroying them with the truth of gravitationless reality when he wished. In the tubes he amused himself with them, sometimes diving down a pulsing pink well, sometimes rocketing up a black gun barrel, until at last he found that he was no longer master of these false perceptions, which came and went without his volition.</p>
+   <p>Entering each module was like being flung from a ventilation duct into the rotunda of some incredible building. The walls of most were lined with enigmatic machines, the centers cobwebbed with cables spanning distances that dwarfed the great mechanisms they held. Light in the modules—at least in most—was like that in the first Daw had examined—bright, shadowless), and all-surrounding; but some were dim, and some dark. In these his utility light showed shapes and cables not greatly different from those he had seen in other modules, but in the dancing shadows it cast to the remote walls, it sometimes seemed to Daw that he saw living shapes.</p>
+   <p>At last, when he had become almost certain he had lost his way and was cursing himself (for his religious beliefs permitted any degree of self-condemnation, though they caviled at the application of the same terms to any soul except his own) for a fool and a damned fool, he saw the flicker of other lights in one of the half-lit modules and was able, a moment later, to pick out Helen Young-meadow’s suit with his own beam and, a half-second afterward, the suits of the sailors he had sent with her. At almost the same instant he heard her voice in his phones: “Captain, is that you?”</p>
+   <p>“Yes,” he said. Now that he had found her, he discovered that he was unwilling to admit that he had come looking for her. Everyone, notoriously, fell in love with empathists—the reason they were invariably assigned as married couples. In retrospect he realized how foolish it had been for him to allow her to accompany him at all, despite the rationalizations with which he had defended the decision to himself; and he found that he was anxious that neither she nor the men with her should think that he had come here for her sake. “I understand you were asking my second about charts, Mrs. Youngmeadow,” he said, deliberately bringing his voice to the pitch he used in delivering minor reprimands. “I want to make it clear to you that if you have found any such documents they should be submitted to me for scanning as soon as possible.”</p>
+   <p>“We haven’t found any maps,” the girl said, “and if we did, of course I’d turn them over to you, though I don’t suppose you could read them either.”</p>
+   <p>The fatigue in her voice made Daw despise himself. Softening the question as much as he could, he asked, “Then why were you questioning Mr. Moke?”</p>
+   <p>“I knew you had found some. I was hoping they showed this ship and could tell us where my husband might be.”</p>
+   <p>“They’re star charts, Mrs. Youngmeadow. You saw them when I found them.”</p>
+   <p>“I wasn’t paying much attention then. Do you think they’re important?”</p>
+   <p>“Very important,” Daw said. “They could easily be the key to understanding—well, the entire system of thought of the people who built this ship. Naturally Gladiator can’t stay here—”</p>
+   <p>“Can’t stay here until my husband’s found?”</p>
+   <p>“We aren’t going to abandon your husband, Mrs. Youngmeadow.”</p>
+   <p>“I don’t suppose I could stop you if you wanted to.”</p>
+   <p>“We don’t.”</p>
+   <p>“But if you do, Captain, you’ll have to abandon me too, I’m not going back to our ship until we find out what happened to him, and if he’s still alive; you say that a person can live indefinitely in one of these suits—all right, I’m going to do that. Even if your ship leaves they’ll still send out another one from Earth to investigate this, with cultural anthropologists and so forth on board; and when they get here they’ll find me.”</p>
+   <p>One of the crewmen muttered, “Tell him!” under his breath; Daw wondered if the man realized it had been picked up by his helmet mike. To the girl he said, “They’ll find me too, Mrs. Youngmeadow. This ship is much too valuable a discovery for us to leave before someone else comes—but when they do come—this is what I was trying to say when you interrupted me—we’ll have to go. They’ll have equipment and experts; we are primarily a fighting ship. But it should be possible for you to arrange a transfer at that time.”</p>
+   <p>“Captain . . .”</p>
+   <p>After a moment had passed, Daw said, “Yes?”</p>
+   <p>“Captain, can these men hear us?”</p>
+   <p>“Of course.”</p>
+   <p>“Would you send them away? Just for a minute?”</p>
+   <p>“They could still hear us, if we stay on general band. If you have something private you wish to say, switch to my own band.”</p>
+   <p>He watched as she fumbled with the controls cm the forearm of her suit. One of the crewmen glided skillfully toward her to help, but she waved him away. Her voice came again. “Have I got you, Captain?”</p>
+   <p>“Yes.”</p>
+   <p>“I just wanted to tell you that I’m sorry I said what I did. You’ve been a friend to my husband and me, I know. I’m very tired.”</p>
+   <p>Daw said, “I understand.”</p>
+   <p>“Captain, I’ve been thinking. Will you mind if I ask some questions? I realize it may be silly, but if I don’t at least try—”</p>
+   <p>“Certainly.”</p>
+   <p>“That cyberneticist—Lieutenant Polk. You asked him to find out—” She hesitated. Then, “I’m sorry, I can’t think of the words.”</p>
+   <p>“I asked him to find out for me what the numbers in the operating registers of this ship’s computer were. To put it another way, I asked him to find out the answer—in raw form at least—of the last computation they performed.”</p>
+   <p>“Is that possible? I would think their numbers would be all different—like Roman numbers or something, or worse. I asked him about it—a few hours ago when you went back to Gladiator—and he explained to me that whatever he found would just be ones and zeros—”</p>
+   <p>“Binary notation,” Daw said.</p>
+   <p>“Yes, binary notation, because it isn’t<emphasis> really</emphasis> numbers, you can’t have real numbers inside a machine because they’re not physical, but just things turned on or off; but I don’t see what good knowing it—just one, one, one, zero, zero, zero, like that—will do you if you don’t know how they’d be used when they came out of the machine. Captain, I know you must think I don’t know what I’m talking about, but I did have to take some mathematics . . . even if I wasn’t very good at it.” The transmission ended in a whisper of despair.</p>
+   <p>“I know you’re worried about your husband,” Daw said. “We’re looking for him, as you know. I’ve got parties out. I shouldn’t have included him among the searchers— that was a mistake, and I’m—”</p>
+   <p>“No!” Helen Youngmeadow jerked at the cable she was holding, swinging herself toward him until their faceplates touched and he could hear her voice, conducted through the metal, like an echo to the sound in his earphones. “You should have sent him. That’s just it. At first, when we were waiting and waiting and the others came back I talked to them and listened to them, and, my God, they didn’t know anything, they hadn’t seen anything, and I thought just wait, just wait, Mr. Captain Daw, my man will show you what an empathist can do! Then when he didn’t come I started to blame you, but that isn’t right.<emphasis> I’m </emphasis>an empathist, my profession is supposed to be understanding cultures—every culture, when most people don’t even comprehend their own. Now you’ve got these men staying with me to watch out for me—to watch out for me!—and do you know what they are? I asked them, and one is a plastics engineer and the other’s a pharmacist’s mate.”</p>
+   <p>“They’re good men,” Daw said. “That’s why I sent them with you, not because I thought they could assist you professionally.”</p>
+   <p>“Well, you were wrong,” the girl said in a much calmer voice. “We found a dingus of some sort floating loose in that last module we were in, and your plastics engineer looked at it for a while and then told us what he thought it was and how it had been made: he said they had used a four-part mold, and showed me where they had squirted in the melted stuff. So he understands his part of them, you see, but I don’t understand mine. Now you’re implying that you understand their math, or at least something about it. Can’t you explain it to me?”</p>
+   <p>“Certainly,” Daw said, “if you’re interested. I’m afraid, though, that I don’t see that it has any immediate bearing on locating your husband.”</p>
+   <p>“A computer will answer anyone, won’t it? I mean normally.”</p>
+   <p>“Unless some sort of privacy provision has been made in the program.”</p>
+   <p>“But there isn’t much chance they’d do that on a ship like this; you said when we opened the hatch to get in that no one worried about burglars in space, so I doubt if they’d be worried about snoopers aboard their own ship either. And if their computer is like Gladiator, meant to run everything, it will know where my husband is—all we have to do is learn how to turn it on and ask it.”</p>
+   <p>“I see what you mean,” Daw told her, “but I’m afraid that’s going to be a good deal more complicated than what I’ve got Polk trying to do.”</p>
+   <p>“But it’s the first step. Show me.”</p>
+   <p>Moved by some democratic impulse he did not bother to analyze, Daw switched back to the general communication band before spreading one of file charts—without gravity or air currents it hung like smoke in the emptiness—to illustrate what he was about to say; then for the benefit of the crewmen he explained: “This is one of their star charts—we found it in the first module we entered. In a rough way you could consider it a map of this part of the galaxy, as seen from above.”</p>
+   <p>The girl said: “I don’t understand how you can talk about seeing a galaxy from above or from below, except by convention—or how you know those dots on the chart are stars at all without being able to read the language. And if they are stars, how do you know they represent the region we’re in? Or is that just a guess?” Her voice was as controlled as it might have been during a dinner-table discussion on board Gladiator, but Daw sensed tension that held her at the edge of hysteria.</p>
+   <p>“To begin with,” he said, “the galaxy’s not a shapeless cloud of stars—it is disk-shaped, and it seems pretty obvious that anyone mapping any sizable portion of it would choose to look at things from one face or the other. Which face is chosen is strictly a matter of convention, but there are only two choices. And we’re pretty certain these things are star charts, because Gladiator measured the positions of the dots and ran a regression analysis between them and the known positions of the stars. The agreement was so good that we can feel pretty sure of the identities of most of the dots. What’s more, if you’ll look at the chart closely you’ll see that our friends have used three sizes of dots.”</p>
+   <p>Daw paused and one of the crewmen asked, “Magnitude, Captain?”</p>
+   <p>“That’s what we thought at first, but actually the three sizes seem to symbolize the principal wavelengths radiated—small dots for the blue end of the spectrum, medium for yellow stars like Sol, and large for the red giants and the dark stars.”</p>
+   <p>Helen Youngmeadow said, “I don’t see how that can help you read the numbers.”</p>
+   <p>“Well, you’ll notice faint lines running from star to star, with symbols printed along them; it seems reasonable to assume that these are distances, and of course we know the actual distances.”</p>
+   <p>“But you don’t know what sort of squiggle they use for each number, or what units the distances are given in.”</p>
+   <p>“Worse than that,” Daw admitted, “we don’t—or at least we didn’t—know whether they ran their figures from left to right or from right to left—or whether they were using positional notation at all. And of course we didn’t know what base they were using, either. Or which symbol took the place of our decimal point.”</p>
+   <p>“But you were able to find all that out, just from the chart?”</p>
+   <p>“Yes. The base was fairly easy. You probably remember from your own math that the number of numerals a system needs is equal to the number of the base. Our decimal notation, for example, uses ten—zero through nine. If you’ll look at these numbers you’ll see that a total of thirteen symbols are used—”</p>
+   <p>“Base thirteen?”</p>
+   <p>Daw shook his head. “We doubt it very much. Thirteen is a prime number, divisible only by one and itself, and as such an almost impossible base. But if we assume that one of the symbols is a position indicator like our decimal point, that leaves twelve; and twelve is a very practical base. So the question was which symbol divided the wholes—of whatever unit they were using—from the fractional parts.”</p>
+   <p>Helen Youngmeadow leaned toward the chart, and Daw sensed, with a happiness he had hardly known himself capable of, that some portion of her despair was fading. “You could try them one by one,” she said. “After all, there are only thirteen.”</p>
+   <p>“We could have, but there turned out to be a much quicker way. Remember, these numbers represent stellar distances, and we felt that we knew what most of the stars were. So we programmed a search routine to look for a star whose distance from one of the base stars on the chart was twelve times that of some other, closer star. In positional notation—and we had to assume for the time being that they were using a positional notation, since if they weren’t they wouldn’t need an analogue to the decimal point—when you shift the symbol, or group of symbols, at the front of a number up by one position, it has the effect, roughly, of multiplying the number by the base. So we had our program determine the ratio nearest twelve, the closer the better; and when we had located our stars we looked for a symbol that hadn’t changed position in the larger number. Here”—he indicated two lines of print on the chart—”see what I mean?”</p>
+   <p><image l:href="#_0.jpg"/></p>
+   <p>“No,” the girl said after a moment. “No, I don’t. There are eight symbols in one expression and nine in the other, but the one on the right looks like an equation—the thing like a fish with a spear through it is equal to one group minus another.”</p>
+   <p>“Yes, it does,” Daw admitted, “but the thing that resembles an equals sign is their mark for seven, and the ‘minus’ is a one. The vertical mark that looks like our one is their decimal point, and the numbers are read from right to left instead of left to right.”</p>
+   <p>“How did you get the values of the numerals?”</p>
+   <p>“Do you really want to hear about all this?”</p>
+   <p>“Yes, I do, but I don’t know why. Captain, is there actually a chance we might be able to get the computer on this ship working, and ask it where my husband is? And it would answer—just like that? That’s what I’m trying to believe, but sometimes it slips. Maybe I’m just interested because you are, and I empathize; it’s a fault of mine.”</p>
+   <p>Daw was suddenly embarrassed, and conscious as he had not been for some time of the empty ship around him. “Gladiator could explain this as well as I could,” he said. “Better.”</p>
+   <p>“I could guess some of them myself, I think. You’ve already told me that the horizontal mark is a one, so since the equals sign isn’t two it must be the S-shaped thing.”</p>
+   <p>“You’re right,” Daw said, “how did you know?”</p>
+   <p>“Because it looks like our two, only backward; and ours is a cursive mark for what used to be two horizontal lines—it used to look like a Z. From the shape of their<emphasis> S </emphasis>sign I’d say it started out as two lines slanted.” She smiled.</p>
+   <p>“It is interesting, isn’t it?” Daw said.</p>
+   <p>“Very interesting. But now will you tell me what you’re going to learn when you can read whatever number the people who built this place left in their computer?”</p>
+   <p>“We don’t know, really; but from the nature of the number we may be able to guess what it was. What I’m hoping for is the heading they took when they abandoned the ship.”</p>
+   <p>“Did they abandon this ship?”</p>
+   <p>Daw was nonplussed. “We’ve been all through it.”</p>
+   <p>“Even through the path assigned my husband?”</p>
+   <p>“Of course; the first thing I did when he failed to return was to send a party to retrace his route.”</p>
+   <p>“And they did it?”</p>
+   <p>“Yes.”</p>
+   <p>“And came back and reported?”</p>
+   <p>“Yes.”</p>
+   <p>“Captain Daw, could<emphasis> we</emphasis> do it? I mean, I know you’re needed to direct things, even if I’m not, but could we do it? I don’t have your logical mind, but I have a feeling for situations, it’s part of my stock-in-trade. And I think the two of us might find something where no one else would.”</p>
+   <p>Daw thought for a moment. “Good administrative practice,” he said. “I see what you mean.”</p>
+   <p>“Then tell me, because I don’t myself.”</p>
+   <p>“Just that since this is our biggest problem I should give it my personal attention; and who should come too, because you are the one who wants it settled most and will have the greatest dedication to the job. You realize though, don’t you, that you are—we are—almost in the center of your husband’s route now.”</p>
+   <p>Even as he made this last small protest Daw felt himself carried away by the attraction of the idea. He would lose a certain amount of face with the men he had assigned to guard Helen, but, as he told himself, he could afford to lose some face. Addressing them, he said: “Mrs. Youngmeadow and I are going to retrace her husband’s search path through this vessel in person. You may return to your duty.”</p>
+   <p>The two saluted, and Daw saw—incredibly—a new respect in their expressions, and something like envy as well. “Dismissed!” he snapped.</p>
+   <p>When they had gone Helen Youngmeadow said: “You really like it, don’t you, going off by yourself? I should have known when we went alone to board this ship.”</p>
+   <p>“No,” Daw said. “I should be on Gladiator.”</p>
+   <p>“That’s the voice of conscience. But this is what you like.” The girl launched herself from the cable she had been holding and gave half-power to her backpack rockets, doing a lazy wingover to avoid the next wire.</p>
+   <p>“Where are you going?” Daw called.</p>
+   <p>“Well, we’re going to retrace the way my husband came, in the same direction he did, aren’t we? So there’s no use going back to the beginning that way; but if we take the modules next to his we might find something.”</p>
+   <p>“Do you think your husband would have deviated from the assigned route?”</p>
+   <p>“He might have,” said Helen’s voice in Daw’s ear. He could see her now, far ahead in the dimness, ready to dive into the pale, circular, lime-green immensity of a tube. “He was a funny person, and I guess maybe I may not have known him as well as I thought I did.”</p>
+   <p>Daw put on a burst of speed and was up with her before she had gone a thousand yards into the tube. “You’re right,” he said, “this is what I like.”</p>
+   <p>“I do too—maybe my husband liked it too much. That would be in harmony with his personality profile, I think.” Daw did not answer, and a few seconds later she asked in a different tone, “Do you know what I was thinking of, while you were telling me about those charts? Stones. Little pebbles. Do you get it?”</p>
+   <p>“No,” Daw said. The tube was bent just enough here for the ends to be invisible to them. They sailed through a nothingness of pale green light.</p>
+   <p>“Well, I may not know a lot of math but I know some etymology. You were talking about calculations, and that word comes from the Latin for a stone:<emphasis> calculus.</emphasis> That was the way they used to count—one stone for one sheep or one ox. And later they had a thing like an abacus except that instead of rods for the counters it had a board with cup-shaped holes to put stones in. Those numbers you figured out were little stones from a world we’ve never seen.”</p>
+   <p>Daw said, “I think I understand.” He could make out the end of the tube now, a region of brighter light where vague shapes floated.</p>
+   <p>“The thing I wonder about is where are they now, those first stones? Ground to powder? Or just kicking around Italy or Egypt somewhere, little round stones that nobody pays any attention to. I don’t really think anything would happen if they were destroyed—not really—but I’ve been wondering about it.”</p>
+   <p>“Your sense of history is too strong,” Daw told her. He nearly added,<emphasis> “Like Wad’s,”</emphasis> but thought better of it and said instead, “For some reason that reminds me—you were going to tell me why you were talking to Wad, but you never did.”</p>
+   <p>“Wad is the boy that looks like you? I said I would if you’d tell me about him.”</p>
+   <p>“That’s right,” Daw said, “I didn’t finish.” They were leaving the tube now, thrown like the debris from an explosion through an emptiness whose miles-distant walls seemed at first merely roughened, but whose roughness resolved into closely-packed machines, a spininess of shafts and great gears and tilted beams—all motionless.</p>
+   <p>“You told me about the midshipmen,” Helen reminded him. “I think I can guess the rest, except that I don’t know how it’s done.”</p>
+   <p>“And what’s your guess?”</p>
+   <p>“You said that you were Wad—at least in a sense. In some way you’re training yourself.”</p>
+   <p>“Time travel? No.”</p>
+   <p>“What then?”</p>
+   <p>“Future captains are selected by psychological testing when, as cadets, they have completed their courses in basic science. Then instead of being sent to space as junior officers, they go as observers on a two-year simulated flight—all right on Earth. The advantage is that they see more action in the two years of simulation than they’d get in twenty of actual service. They go through every type of emergency that’s ever come up at least once, and some more than once—with variations.”</p>
+   <p>“That’s interesting; but it doesn’t explain Wad.”</p>
+   <p>“They have to get the material for the simulations somewhere. Sure, in most of it the midshipman just views, but you don’t want to train him to be a detached observer and nothing else. He has to be able to talk to the people on shipboard, and especially the captain, and get meaningful, typical replies. To get material for those conversations a computer on every navy ship simulates a midshipman whom the captain and crew must treat as an individual.”</p>
+   <p>“Do they all look like you?”</p>
+   <p>“They have to look like someone, so they’re made to look—and talk and act—as the captain himself did during his midshipman days. It’s important, as I said, that the captain treat his midshipman as a son, and that way there’s more—” Daw paused.</p>
+   <p>“Empathy?” He could hear the fragile smile.</p>
+   <p>“That’s your word. Sympathy.”</p>
+   <p>“Before it was corrupted by association with pity, that used to mean what empathy does now.”</p>
+   <p>A new voice rang in Daw’s headphones: “<emphasis>Captain! Captain!”</emphasis></p>
+   <p>“Yes. Here.”</p>
+   <p>“This is Polk, Captain. We didn’t want to bother you, sir, but we’ve got the numbers from the central registers in that corner module, and from the form—well, we think you’re right. It’s a bearing.”</p>
+   <p>“You’ve got duplicates of the charts, don’t you? Where were they going?”</p>
+   <p>“What star, you mean, sir?”</p>
+   <p>“Yes, of course.”</p>
+   <p>“It doesn’t seem to be a bearing for any star, Captain. Not on their charts, or ours either.”</p>
+   <p>Helen Youngmeadow interrupted to say: “But it has to point to some star! There are millions of them out there.”</p>
+   <p>Daw said, “There are billions—each so remote that for most purposes it can be treated as a nondimensional point.”</p>
+   <p>“The closest star to this bearing’s about a quarter degree off,” Polk told her. “And a quarter of a degree is, well ma’am,- a hell of a long way in astrogation.”</p>
+   <p>“Perhaps it isn’t a bearing then,” the girl said.</p>
+   <p>Daw asked, “What does it point to?”</p>
+   <p>“Well, sir—”</p>
+   <p>“When I asked you a minute ago what the bearing indicated, you asked if I meant what star. So it does point to something, or you think it does. What is it?”</p>
+   <p>“Sir, Wad said we should ask Gladiator what was on the line of the bearing at various times in the recent past. I guess he thought it might be a comet or something. It turned out that it’s pointing right to where our ship was while we were making our approach to this one, sir.”</p>
+   <p>Unexpectedly, Daw laughed. (Helen Youngmeadow tried to remember if she had ever heard him laugh before, and decided she had not.)</p>
+   <p>“Anything else to report, Polk?”</p>
+   <p>“No, sir.”</p>
+   <p>She asked, “Why did you laugh, Captain?”</p>
+   <p>“We’re still on general band,” Daw said. “What do you say we switch over to private?”</p>
+   <p>His own dials bobbed and jittered as the girl adjusted her controls.</p>
+   <p>“I laughed because I was thinking of the old chimpanzee experiment; you’ve probably read about it. One of the first scientists to study the psychology of the nonhuman primates locked a chimp in a room full of ladders and boxes and so on—”</p>
+   <p>“And then peeked through the keyhole to see what he did, and saw the chimpanzee’s eye looking back at him.” Now Helen laughed too. “I see what you mean. You worked so hard to see what they had been looking at—and they were looking at us.”</p>
+   <p>“Yes,” said Daw.</p>
+   <p>“But that doesn’t tell you where they went, does it?”</p>
+   <p>Daw said, “Yes, it does.”</p>
+   <p>“I don’t understand.”</p>
+   <p>“They were still here when we sighted them, because we changed course to approach this ship.”</p>
+   <p>“Then they abandoned the ship because we came, but that still doesn’t tell you where they went.”</p>
+   <p>“It tells me where they are now. If they didn’t leave before we had them in detection range, they didn’t leave at all—we would have seen them. If they didn’t leave at all, they are still on board.”</p>
+   <p>“They can’t be.”</p>
+   <p>“They can be and they are. Think of how thinly we’re scattered on Gladiator. Would anyone be able to find us if we didn’t want to be found?”</p>
+   <p>Far ahead in the dimness her utility light answered him. He saw it wink on and dart from shadow to shadow, then back at him, then to the shadows again. “We’re in no more danger than we were before,” he said.</p>
+   <p>“They have my husband. Why are they hiding, and who are they?”</p>
+   <p>“I don’t know; I don’t even know that they are hiding. There may be very few of them—they may find it hard to make us notice them. I don’t know.”</p>
+   <p>The girl was slowing, cutting her jets. He cut his own, letting himself drift up to her. When he was beside her she said: “Don’t you know anything about them? Anything?”</p>
+   <p>“When we first sighted this ship I ran an electronic and structural correlation on its form. Wad ran a bionic one. You wouldn’t have heard us talking about them because we were on a private circuit.”</p>
+   <p>“No.” The girl’s voice was barely audible. “No, I didn’t.”</p>
+   <p>“Wad got nothing on his bionic correlation. I got two things out of mine. As a structure this ship resembles certain kinds of crystals. Or you could say that it looks like the core stack in an old-fashioned computer—cores in rectangular arrays with three wires running through the center of each. Later, because of what Wad had said, I started thinking of Gladiator; so while we were more or less cooling our heels and hoping your husband would come in, I did what Wad had and ran a bionic correlation on her.” He fell silent.</p>
+   <p>“Yes?”</p>
+   <p>“There were vertebrates—creatures with spinal columns—before there were any with brains; did you know that? The first brains were little thickenings at the end of the spinal nerves nearest the sense organs. That’s what Gladiator resembles—that first thin layer of extra neurons that was the primitive cortex. This ship is different.”</p>
+   <p>“Yes,” the girl said again.</p>
+   <p>“More like an artificial intelligence—the computer core stack of course, but the crystals too; the early computers, the ones just beyond the first vacuum-tube stage, used crystalline materials for transducers: germanium and that kind of thing. It was before Ovshinsky came up with ovonic switches of amorphous materials.”</p>
+   <p>“What are you saying? That the ship is the entity? That the crew are robots?”</p>
+   <p>“I told you I don’t know,” Daw said. “I doubt if our terms are applicable to them.”</p>
+   <p>“But what can we do?”</p>
+   <p>“Get in touch with them. Let them know we’re here, that we’re friendly and want to talk.” He swung away from her—up, in his current orientation, up six miles sheer before coming to rest like a bat against the ceiling, then revolving the ship in his mind until the ceiling became a floor. The girl hovered five hundred feet above his head as he inspected the machines.</p>
+   <p>“I see,” she said, “you’re going to break something.”</p>
+   <p>“No,” Daw said slowly, “I’m going to find something to repair or improve—if I can.”</p>
+   <subtitle>* * * *</subtitle>
+   <p>Several hours passed while he traced the dysfunction that held the equipment around him immobile. From the module where he had begun he followed it to the next, where he found broken connections and fused elements; another hour while he made the connections again, and found, in cabinets not wholly like any he had seen built by men, parts to replace those the overloads had destroyed. When he had finished his work, three lights came on in distant parts of the module; and far away some great machine breathed a sigh that traveled through the metal floor to the soles of his boots, though Helen, still floating above him, did not hear it. “Do you think they’ll come now?” she asked when the lights gleamed. “Will they give him back to us?”</p>
+   <p>Daw did not answer. A shape—a human shape—was emerging from the mouth of a distant tube. It was a half mile away, but he had seen it as the girl spoke, a mere speck, but a speck with arms and legs and a head that was a recognizable helmet. In a moment she had followed his eyes, “Darling,” she said. “Darling.” Daw watched. A voice, resonant yet empty, said, “Helen.”</p>
+   <p>“Darling,” the girl said again.</p>
+   <p>The empty voice said: “I am not your husband. I know what you believe.”</p>
+   <p>Daw saw it as the figure came down beside him. He thought the girl would not see it, but she said, “Who are you?”</p>
+   <p>Through the clear faceplate Daw could see Youngmeadow’s face. The lips shaped: “Not your husband. You would call me a simulation of him. Something that can talk to you; they cannot, or will not, do that directly.” It seemed to Daw that the face, so like Youngmeadow’s, was in some deeper way not like Youngmeadow’s at all, or anyone’s—as though, perhaps, those moving lips concealed organs of sight in the recesses of the mouth, and the voice, the sound he heard, poured forth from the nose and ears.</p>
+   <p>“Where is my husband?”</p>
+   <p>“I cannot answer that.”</p>
+   <p>“Cannot,” Daw asked, “or will not?”</p>
+   <p>“There are four words, and all are difficult. What is meant by<emphasis> is?</emphasis> By<emphasis> husband</emphasis>? I can ask, but you could only answer in further words, further concepts we could not define.”</p>
+   <p>“You are a simulation of him?”</p>
+   <p>“I said, ‘You would call me a simulation of him.’ “</p>
+   <p>Helen asked suddenly, “What have you come to tell us?”</p>
+   <p>“That with this”—the figure that looked like Youngmeadow gestured toward the repairs Daw had made —”there has been enough. You have seen something of us; we now, of you. There cannot be more, now. We both must think.”</p>
+   <p>“Are you trying to tell us,” Daw asked, “that we could not have worked out a philosophy for dealing with your culture until we made this contact?”</p>
+   <p>“I can answer few questions. We must think. You too.”</p>
+   <p>“But you want us to leave your ship. Are we friends?’</p>
+   <p>“We are not,” the simulation answered carefully, “not-friends.” He lifted off as a man would have, and in a few seconds was gone.</p>
+   <p>“He wasn’t your husband,” Daw said.</p>
+   <p>“I know it.”</p>
+   <p>“Do you trust me, Helen? Will you take my word for something?”</p>
+   <p>She nodded.</p>
+   <p>“Your husband is dead. It’s over.”</p>
+   <p>“You know.”</p>
+   <p>Daw thought of the scattered bits of rag and vacuum-shriveled flesh he had seen—and not mentioned to the girl overhead—while making the repairs. “I know,” he said.</p>
+   <p>He lifted off, and she flew beside him for a time, silently. There was a dysfunction in his headphones so that he heard, constantly, a sound like the noise of the wind. It was not unpleasant, except that is was a dysfunction. At last she said, “Was he ever alive, Captain? Do you know what I’ve been thinking? That perhaps he never was. The cabins, you know.”</p>
+   <p>“What about them?” Daw asked.</p>
+   <p>“They’re only supposed to be for one person, but you had two of us in there. Because everybody knows empathists have to be married . . . and there’s Wad—he really wasn’t on the ship either. Are you sure my husband existed, Captain? That he wasn’t just something implanted in our minds before we left Earth? I can remember the way he held me, but not one thing he said, not word for word. Can you?”</p>
+   <p>“He was real,” Daw said, “and he’s dead. You’ll feel better when you’ve seen the medics and had some rest.”</p>
+   <p>“Captain . . .”</p>
+   <p>“He came in here,” Daw said, “and somehow he realized the truth, that the crew of this ship—whatever you want to call them—was still on board. Then he thought the same thing you did: that he would break something and make them notice him. His empathy was all for people, not for things. He broke something and they noticed him, and he’s dead.”</p>
+   <p>“Only people are important,” the girl said.</p>
+   <p>“To other people,” Daw answered, “sometimes.”</p>
+   <p>On board Gladiator she said: “I never told you what it was I asked Wad, did I? I was asking about you—what your childhood was like.”</p>
+   <p>In Daw’s mind a voice more insistent than hers quoted: <emphasis>“At the resurrection, therefore, of which of the seven will she be the wife? For they all had her.” But Jesus answered and scud to them, “You err because you know neither the Scriptures nor the power of God. For at the resurrection they will neither marry nor be given in marriage . . .” </emphasis>Aloud he said, “I hope Wad told you the truth.”</p>
+   <p>“When you were in training—I mean, like he is now—you were watching a simulated captain, weren’t you? Was it yourself you saw there, only older?”</p>
+   <p>“I don’t think so,” Daw said. “A real captain. He was a crusty bastard, but he generally knew what he was doing.”</p>
+  </section>
+ </body>
+ <binary id="_0.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8l
+JCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/wAALCABpAVkBAREA/8QAHwAA
+AQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQR
+BRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RF
+RkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ip
+qrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/9oACAEB
+AAA/APZqKKKK5T4g+IrvQ9FjttJOdY1GVbeyQLuO4nlsH0HrxyK6HTEvY9LtU1GRJbxYlE7x
+jCs+PmI9s1arkvGviLVvC93pupxwLNoauU1EquXjDYCt9B/9buK6m3uIbu3juLeVZYZVDI6H
+IYHoQakpksscMTyyuscaKWZ2OAoHUk1yHhPW9c8U63dawrC28OIGhs4WjG+5YEfvc9QODj6+
+1VPEXibxVb/EK28PaHFprpNZeeBd7huOWB5XkdOmKmkvfigjYXSfD8g9Vnkx+pFN+3/FH/oC
+6D/4EP8A40rX3xQViBo+gMB3E8mD+ZqtoniPxhJ8RIdD1+CxtYWsGuPKtfmDfNgNuOTnPGKX
+Wtf8ZS+P7jQPDv8AZixwWSXG29VvnBOCQRz1OPSpM/Fn08M/+RasiH4nEDN34aB9PKm/xqKd
+PiopxFL4akBHXbMMfnVLRvEXjS2+INn4c8RNpbJcWrTk2qN0AYDk98jnivRa4qPxJqb/ABgl
+8PGZRpyaf5oi2DJfg7s9e+PSu1rite8Vat4X8Y27arHCvhi8UQpcopLQS46uewJyPTHPY12i
+sGUMpBBGQR3parahqFrpWnz397MsNvAhd3Y4wBXIeDodb1/WJPGGp3Nxa2c8ZTT9NDkKIieH
+cdCT1/yK7iuG+LN9f2XhqzGnajLYTXGoRQ+ZESGIIbjI+gPvipYvCHi6PP8AxcG7Py4GbCI/
+nnOapazo3iTSdKnvtR+JE8NtCu5mGnxKTjsMHkn071a+Gdh4mi0ybUPEWp3U/wBrINvbXJy0
+SdmPoT6dq7eiuHsdV1jxJ8Rpv7PujDoGigwzFCCt1ORyvvtz+GPeu4oooooooopk00dvC80z
+rHHGpZ3Y4CgckmuD8JWzeLPFV144u43FrHm20hHyP3YyGlx/tc/rXUeIfEun+G7RZbpmknmO
+y2tYhuluH7Kq9+3PSuK8C6n4q8X+LrvW9QuTZaXYlrdbGFsxyPjoezFc5LeuAOK9HubaG8tp
+La5iWWGVSjo4yGB6giuB8OzT+AvE3/CJ6hK76RfsX0ed+RG2cmEn+X/169DrhdZnl8da7J4Z
+sXdNGsmH9rXUZx5rjkQKf/QiPp9e3hhit4UhhjWOKNQqIowFA6ACuB1H/kvGk/8AYJf+b16D
+RRXAX6M3x20wqOF0dy303OP5kVLayn/heF7GBx/Yi5yvpIOh/Gu6oorg9UfPxt0SP5fl0uU8
+Hnkt1/Ku8rz5Vz8emPllsaLncP4fn6n+Veg1S1fSbLXNLn03UIRLbXC7XX+RB7EHkVxvhbVb
+rwjq8XgjXpDIhH/Epv24E6f88z6MOg/Aeme+JABJOAOpNeeyp/wszxDtEhPhfSZsNjpfzj+a
+L+v48ehAAAADAHalrgfjE0kfhWxkR0VU1OBm3DII+b+uK7t5EjiaWR1RFXczMcAAdSTXD29q
+3xD12DVrlSPDmmyE2UTdL6UcGUj+4MYX159xXd0VzHj3xBNomhCDTwX1XUnFrYxr13twW/4C
+Oc+uKveFPD0Phfw9baXE290G6aXvJIeWb8/0xWV43+Iel+DLcxuPteoMu6O1Q8gern+Ec/jU
+3gW2146Y+qeIL+Sa61HEy2pGEtV5wqj6EZrqKKKKKKxvEnirSvClrDc6rJKkc8nlp5cRfnGe
+1efeNviPoviC0g8P6fd3UUF5IPt9wLWQNFAOSAuMktwOmMZz1q9efFfw1o2ipp/hqCW4uIIx
+FDAbeRFiAGAz5GcD25Nc1eeKdGsrO5vLbUrjUvFmoYja+ks3QWkZ4YxqRwqjIGOSa7bwv428
+F2Q07wxpNzNvwIog1rIu9v7xJA5Jyc+9dH4h8U6P4Wt4p9YuvISZiqYRmLEdeAD6iuS8S+M/
+h14o0aXTb7XFAb5o5Uhk3xOOjKdvUVhR/FlP+Ecj0Z9TRdU8z7M+qeW5jEOP+PgDGS2ONuPv
+V0ui+NPA/hvwzFDY38r2sLFQ/wBncyTt1Z/u88nlumeK2vDfjvQfFd1NbaTPNJJCm998DIAO
+B1Ix1PT61yXirW9O8PfGbTdR1S48i2TSmBfaW5LPgYAJraf4v+CECn+1XbcM/LbSHH1+Wm/8
+Li8E/wDQTl/8BZP/AImk/wCFxeCzIqLfXDljj5bSTj9Ky9K8Q6b4k+Mttd6ZJI8UejvGxkia
+Mht+ejAHoRWhahB8db3aeToi7uc8+Yv5cYrvaKK8/wBSYH466Qu0AjSpOe55evQK8/Ur/wAL
+5bc7AnRflA6N8/evQKKx/E3huz8T6U1ldZjkUiS3uE+/BIOjKa8/XxF4g8WXI8AOVtr+BmTV
+r+NuHgUgHZ33NkA/X349P0/T7TSrCGxsYEgt4F2pGg4AqzRXB/F0M3hrT0EYdH1W3D57Dn86
+s63I/jLWG8M2cjjSrU51a4jJG89rdWHc9W9Bx3rrre3htLaO2tolihiUJHGgwFUcAAVLTXdI
+42kdgqKCWYnAA9a4jwsn/CXeJrjxlcLmztt1ppCkfwgkPL9WPA9qu6j4nvdVvpdG8JRLPPG2
+y61Fxm3tOO399x/dH41zem+GrHUfGZ0mDfdWekutxq19Md0l9d9URm7qvXb07V6hRRRRRRWX
+4i1ix0DQ7jVdQAaG2XeF4yzfwgZ7k1514Uvta1oXc2kbG1nVCH1HVpEzDYoOEhj/AL7qvboC
+ec13en6To3gvSLm7ZyNqma8vZzulmPUszdT9PyrI8CQXOt3V3411ONkm1AeVYxMP9Tag/Lj3
+Y8n8PWuyMUZl80xr5gGN+OcemabPbQXKhZ4Y5VByBIoYA/jWJ4p1uy8K6MJ0s457mVhDZ2iK
+A00h6KB6dzXM3HgbVodKTxDFOsni2JzcyMBmOUEYNuB02beB7jPeur8J65YeItAgvrKFYODH
+Nb7QDDIPvIR9fzrZVETOxFXPoMV55qDRy/HrTY8BimksGBHu5r0E28JBBhjIP+yKalpbRIEj
+t4kUdAqACniGIEERoCO4UVw8p8345whAT5OiHecdMyHH8xUFqHi+PV78m4TaOpyP4QGUc/iK
+9CoorgdT8r/heOjbc+Z/Zcu70xlsf1rvq88P/JfV/wCwN/7NXodFcj408UXVhLb+H9BjFxru
+o8RL2t07yt6AdvpVKX4crp2hWsuiz7fENizXCXz9bmU/fWQ91bp7fnnovDHiODxJppnWM293
+A5iu7Vz88Eo6qfb0PetmivLfjHrdvPbWfhq3Mhu3u4ZZZYwcWwJIUk+pJ4HtXoeiaPaaBpMG
+m2SkRQj7zHLOx5LE9yTk1forhPiRravDF4Xt7pIJL8b76ctgWlqD87k9s9B68juKWwhvfFFj
+Dp+lRzaJ4WiiEayAbLi8UdAndEI/iPzHNaHiO+tfA3hEW2iWccdxKwt9PtYl+9K3Tjvjkkmr
+3hDw8vhrw/DZM5kunJmu5icmWZuXbP1/lW5RRRRRRXC+MvBWq+M/EdjDeXsUXhy2AkeGMkSy
+Sdwfw4zngZ712VhYWml2UdnY28dvbxDCRxrgCuE8Yyz+M/EsHgmwf/QoCtxrEyn7qA5WPPqe
+v5ehr0CKKOCFIYkCRxqFVVGAoHQCn1T1XVLTRdLuNSvpRFb26F3b6dh6k9AK5fwzpl34h1ce
+MtdtjC5TZpdk/P2aI/xsP77D8h+naVwHiSzn8D64/jDSY5JLC5cDWbNBnI7TKOxHf6+5rubS
+6t760iurWZJoJlDxyIchgehFcHqCqPjzpbBQC2kvk+vL16FRRXBThD8dbbauGGikscYyd5H4
+8Gks5PM+O1+u3Hl6Kq59fnU/1rvqKK8+1H/ku+k/9gl/5vXoNecW0e/9oC8beBs0oHB7/dHH
+516PWL4q8SQeGNHa7dDPcyt5VpbLy08p+6oH8/aqHgnwzNpUE2r6uRNrupnzLuU/8s88iNfQ
+Dgfh7CuprkvEulXWlagPFmgwlruIAahaRj/j+hHbH/PReqn8Pauh0rVLTWtMg1Gxl8y3uE3I
+e49QR2IPBFZHi7xSdBhgsrCA3msX5Mdnar6/329FHf8AyRxPjnQ28P8Ag/SIpblrm+u9ahlv
+rpus8hDfoOAB2AFes0UVw1n8MLMeMLvxFq2oS6o00hkjt5kwic/Lu5O7b0HAHFdwSFXJwAB+
+VcLoLJ418Z3HiRiX0zSGa10wfwyyf8tJffsB/wDWru6KKKKKKKKZKJGhcRMEkKkKxGQD2OO9
+c94L8JjwtYXHn3P2zUb2YzXd1jG9uwHsMn8zXSUVyfjfwXdeL/sPka5Jp6WknmeV5IkR2H3W
+IJGSPfPWqI8H+NgpX/hYk3Jzn+zo8/zp3/CI+NvJ8r/hYUn3t27+zU3fTO7pT08HeK2tnhuf
+H1zKsnDD+z4sEenOaf4E8J614SmvLG61db7SQFNkm3a0ZJJbjsOegOPpUev+D9fvvGsXiPSd
+YtLNobT7PGJbbzCoySe+DnJ5pW0j4keYAvijSyndjY4I/D/69O/sf4ib8f8ACVabtx1/s/nP
+0zSSaR8RQuY/FWmM3o2n4H55NL4f8Ia1F4qPiTxLq8N9eRW5t7dLaLy0RScnPTPU/nSap4R1
+9vGFz4h0PXLaya5t0geOa183hfx9qiXw58Qy43+OrdVPUrpkZIp0nh/4iGXcvja0CjoP7NQZ
+qZ9G+IAOE8W2BGOp0wA/+hVHoPgvWrfxcviLxDrkepzw2pt4PLtxFtBOTkDjufzrta5uHwek
+fxAn8WNfOzS2ogW28sAL053d+nTHeukri/FXw7bxLr8Gsp4gvbCe3ULCsQBEfqV6EE+tRp8O
+9RjcMvjvxDkes4I/I03/AIVxqH/Q9+Iv/Aij/hXGof8AQ+eIv/AitPwd4L/4RBrwR6xeX0V0
+wfy7jGEfncwx3OefpWlB4b0y38SXPiFIWOoXMYiaRnJCqABhR26Csn4g+HtR8R6RZWumrAZY
+b+KdjM2AFXOSD68/lmurooorK8TaPNr/AIfutLhv5LBrhQpnjXcQM8jHHBHHXvU+jaTa6HpF
+rplmgWG2jCLxjPqT7k8n61eooooooooooooooooooooooooooooooooooooooopAQSQCDjr7
+UtFFFFFFFFFcJ8RPEWvaTq3h7TdCuIbd9UuGieSaLeM5UDPt8xPHPFPOl/E3Ax4i0YnuDaHj
+9KZLY/EuCJ5pfEmhxxxqWZ2tiAoHUk4qr8O9X8X+ItTutQv9UtrnRIWaGNktvL+0OP4k4BCj
+1P5enotFFFUtYGonSLsaS0a3/lH7OZRld/bNY3gnxQfEGmtb3+IdasT5V/bFdrI4JGcehxnI
+4rpqK5jxl4qfQoIdP0yL7Vrl/wDJZWwGeehdvRR7/wCNbmlLfrpVsNVeJ74Rjz2hGEL98Vbr
+gNG1nU/FvxGu57C+li8P6MphKp9y6mOQc+oHJ/AetbnivxxpHhK3b7U7T3ZjLx2kI3OwHc/3
+V9z+tZnw0vvEOt2N7r+tSlYNQlDWVtnIijGensenPXGe9dtXNfES4mtfAOsT29xJbyrb/LJG
+SGHIHBHTPTPvVzwfLcTeDtHlund53somdpDlmJUcmtmiiiiqOs2l5faPdWun3psrqWMiK4Az
+5bdjXN+A/E13eCfw74g/da9pvyyhiP8ASE7SL69s/ge9dlRXBanqup+K/GkGieH7uW0sdIl8
+3Ur6Poz4wIh2PfI6flz3tFeS6BoN3qvjvxeln4j1HTDDeKWS3IIfduOTn0xge1dE3w91R2LH
+x7r+Sc8SgVy0+ia/d+MF8P6H401q4FqA+pXUtx8kAJ4QY6v14/wNevRIY4kQuzlVALt1b3NP
+rnPHOvTaH4eYWKl9SvnFpZIp5Mr8A/h1/Cr3hjSrnRfD1pYXt7Le3MaZmnlcsWcnJwTzgE4H
+sK1aKKK8++JP/IzeCv8AsKj+aV6BXnupX9x8RdbbQdMZ18OWr41K9Q4FywwfKRvTPUj/AAz3
+tpaW9haRWlpCkMEKhI40GAoHYVx9xpvxLN3M9vr+jrCzHy42tj8q547f1NVv7L+KsjKW8Q6N
+EFAOEtydx7g5WpDpXxQLZHiPRgMEYFqcfX7tQ/2J8VP+hs0v/wABR/8AEV2OhQ6rBo1vHrdz
+Fc6goPnSwrtVjk4wMDtjtXP+MPD95FeReK/DkYGsWS4lhHAvYe8bepx0P/1sbfhzxFY+J9Ij
+1Gxfg/LLE33oX7ow7EVH4n8RQeGtKN08ZnuJWEVrap9+eU9FH9fQVneEfDV1ZT3Gv686z67f
+j96QcrbR9ok9AO/qa6quS+IWvXWm6TDpWlBm1fWH+zWoUcpn7z/gD/XtWZZ3LaFp0HgzwVBF
+e6hbx4urxseRaseryEdXJzhRz69Kxr7wsk3iCHwnb3U15eXyi61/U5DmUwgjEQ/uhiBhR7dq
+9VggitbeO3gjWOKJQiIowFA4AFSVzXxF/wCSfa3/ANerVZ8FBl8EaIGYMfsMXIOf4R3rcooo
+oorlPGfhWfVTb61o0otte035raXHEq85ib2OT+fua0fCviSDxPo63aIYLmMmO6tm+/BIOqkf
+y9qyPG3iC9WWHwt4f+fWdSUguDxaRfxSN6HGcf8A6s7fhrw7ZeF9Eh0yyBKp80kjfelc/eY+
+5/8ArVrUV5/4ERv+Fg+N5NvyG6iXPvhq1/GHiO5smg0LQ1E2u6iMQr1Fun8Ur+gHOPU1o+GP
+Ddp4X0hbG2LSSMTJcXD8vPIfvMxrYpGYKpZiAAMkntXDeHwvjLxjN4qY79M03da6WCOJH/5a
+TD27D/61dVrWu6b4e09r/VLpLeFeAW5LH0UdSfYV55o/iXXvH3xBS3hjuNM0TSm86WPJjklO
+PkD/AFODt6YB616nRXG6n8UfD2l6tPpciX81xbsVkENsWAI61xnjPx1pms634XubWz1IJZag
+JJBJaFSwyvCj+I8dKt+LviSNcgOh6LZazEruE1GaO0PnQR91VezHkc4rV0vx3o3h7TodLsfC
+HiO2ggXCp/Z/P1Pzck9c11/hvX4/EukLqUVldWiM7KI7pNrHB6/StaiiisrxH4hs/DGlHUb6
+OeSIOECwR72JPTiubX4s6JJIiRaXrcjN1C2JJX68/wAq5TVPGlromvL4l0jRNasRcsq6hb3N
+n5cN2pOAwOeJBzg9/wA8u0bx3aajrUnibVtC1q8mUtHp8dvaeZDax9CVOeXPc+2BXSTfFqwh
+iaQ+G/EIx/esto/PdXcWlyt5ZQXSI6LNGsgWRdrKCM4I7GvKINE8VeNfH19qN8t3oVgkLW0M
+hixIIsjKoT91mycsPUgZrvLuTRvh74QllggWC0tE+VFGWlc8DJ6lmOOar+BNFubHTJdW1T5t
+X1d/tN0x6oD9yMeyjjH1qbxh420vwjp7yzyJNekfuLNXHmSE9OOoHvWxpd1cXul211dWjWc8
+0YeS3c5MZI6E1jfEMqPAGslhlRbNkA4yOKn8D4/4QfRNowPsUWBnp8oo8U+MNJ8IW9vNqhmx
+cuUjEMe8kgZNYQ+Lnh1lDLZ6sQeQRZNz+tDfFzQFUlbDWHI6KLI5P5mlf4raaiof7A8QFnz8
+v2Agj9efwqCP4v6VNNFDFoWuO8jhAPsg7nH96u/ByAcEZ7Glrz3xwT4M1aHxdpJ3XN3Itvd6
+eCcXwwcEAA/Ovrjp+up8PbCB9JfxFJdRXupazie5uI8EL6RL6BemPUV11FFeX6X4gi8Pa941
+n8s3F3PqMcNnar96eUqdqj+p7Cup8HeG7vSxc6vrcqXGuai265kXlYl/hiT/AGR/npXT0VyH
+ju/nuo7Xwnpk3l6jrJKM46w24/1jn04yB65p2o+INO8IWdt4d0azk1DUkhC2un24y2MYDOei
+rnkk1zmtWTeHNNfxZ4smXVfEEh2afZj5obeVvurGncr1J9vXk9d4H8Ov4d8PRx3Z8zUbpjcX
+0xO5pJW5OT3x0/CuiopoRQxYKAzdTjk15V8W783niTw3oulXiR6ul0HU9oSxUIx/HmvQPDXh
+y08M6UtnbFpZHPmXFxIcvPIersa16KKKKKSo7m4htLaS5uZVihiUu7ucBQOpJrkdIWTxzqEH
+iC9ieLRrVy2mWsgx57dPPcf+gjt1qLUopPAWtvrdtn/hHr1x/aFsgyLWU8CZR2UnAYD1z9O1
+iljniSWJ1eORQyspyGB6EGn0Vwk7/wDCaeOEjG1tC8OyeZM5PyT3eOB7hByfeprnxdqHiO8l
+0zwVHHKIm23GrTjNvD7J/wA9G/Suc8M+FNM1fxzLcws19b6LLm6v7g7pL28P8lTHQd/WvWK5
+r4i/8k+1v/r1ap/A3/Ii6H/14xf+gitx40kxvRW2nIyM4NOooooqtqOoWulafPf3syw28CF5
+HY8AVyPhSyu/EurjxrrMDQ5QppVo/W3iPVz/ALTD9PwqpfLcfDfX31O2jDeF9SmBvIlH/HjK
+ePMUf3Txn/8AVXfxyJNEksTq8bqGVlOQwPQin1Q1rVbHRNLl1HUbn7PbwYZmHUnPCgdyemK8
+5+GdlFrXjbxF4lv7F7e+jnAhgk6wBwScj+9gAfnXqtFVtQv7fS9OuL+7kEcFtGZJGPYAZryf
+w5qOv+MdR1HVdEt/s0+osYZdVmX5bGBfuxRj+J/4iemSPrXovhnwlpvha3k+y+ZNdT/Nc3k7
+b5Zm9Sf6Vz2lIfG3jh9dkIfR9DdoNPXqJp/45fcDt9Aa72iiuW8beMV8N20VlZRG71q++Syt
+V5JJ43N/sg/n+ZHBav4a/wCEZ1PwhcahOLjVb/WBNf3THO58rgA/3RnFezUUjAlSAcEjqO1e
+eR/DnxOjyn/hYuqAPIWACE8H/gf8uKVPh54q+bzPiNqfX5dsZ6e/z1IPh74lw2fiLqxPbCdP
+/HqIPhzr8UTI3xC1kk5II7fmxrqPD+m3OgaItrqOsy6k0O5jdXICkL6E5PA9Sa5uR5viNqT2
+8bFPClrIBK44OoyKein/AJ5ggZI6kfl3McaRRrHGioiABVUYAA7AUy5toLy1ltbmJZYZkKSI
+wyGUjBBridHmm8AavF4e1CZn0O8kI0u7kb/UMefIc/ntP+R3dcb8SfGMfhfw+8NtIG1W9HlW
+sK8sM8F8e3b1OKwPCHgjVdT0Owg1wvp2jwruGlxsRJdMeS87e5z8vpgVv+M9THh7Q7fQPDsE
+cWp6mfs1jBAAgjB+9JgdAB39T9a3fDOhW/hvw/aaXbgfuUHmOP8Alo5+8x+pzWrXK/E5tnw5
+1k7Q37gDB92UVf8ABjI/grRWjTYhsYcL6fIK26KKKKQkKCSQAOSTXnzeZ8SfEITB/wCEW0qb
+JOfl1CZf5op/P+XoIAAAAwB0FR3NtBeWstrcxLLDMhSRGGQyngg1w2jXVx4C1yPw1qTs+i3j
+n+yrxyT5J/54Of5H/I7uWWOCJ5ZXWONFLM7HAUDqSa4XT4j8Q9eTWblW/wCEe02X/iXRHIF3
+KDzMw/ugjAH/ANcU/wACMreMfGpUgj+0EHB/2TXdUVh+KvCtp4u0+Kwvrm4it0mErpCwXzcf
+wtx0rVs7O20+0itLOBIIIVCpGgwFArj/AIj+IJoLe28L6X82q64fJQqeYYycM5/DP5E9q6fQ
+dGtfD2iWuk2YPk2ybQT1Y9ST7k5NaFFFcvp3gazsvGV74oubqa9u5+IBMOLZT1C/hwPQfWm+
+KvBZ8Ta/oeoPemKDS5TI8O3O85UjB7fdwa6qiiiiiiqmqadDq+lXWm3JYQ3UTROUOCAwwcVw
+0XwX0KKJUGq6wMdkuFVfwAXip0+EWjJj/ic66dgOz/TcbD6j5aR/g/okmTJq+tu5OS7XmT/6
+DUV38GtGvLUW8uta26KQUWS6Dqp9QCuK7PQtIj0LRrbTIrm4uUt12iW4fc7c55P+cCo5PDej
+y6+mvSWMb6iibFnYklR7Dpn3xmtSudTwZZf8JxJ4smuJprryhHDEx+SH5dpI+oz+ZroqKzPE
+eiReI9Au9ImmeGO6QKZEAJXBB7/SpdE0qLQ9Fs9LgdnjtIliVm6tgdTV6iiiiszxFoqeIdDu
+dLkuri1WcAGWBtrDnP4j1HcVy1j8K4LKzW1TxV4iWJBtSOK98tFHoFAxUkvwutJITGviXxGh
+IwW/tAnOOmRjtUI+FSRvutvF3iKHK4O286/pUE3wc0+6g8m78R65cpvDFZLkMpx7Edfeus17
+wvZeItHi0m7muo7WNlJWCXaZAoxtY9x/9atS2toLO2jtraJIYYlCpGgwFA6ACsrRPC1hoWqa
+rqNq0rTarMJpt7ZCnnhR6ZJP41tUUUVkJ4Y0pPFD+JBCx1F4RCXLkgL7DoDjj/JrXooooooo
+ooooooooooooooooooooooooooooooooooooooor/9k=</binary>
+</FictionBook>

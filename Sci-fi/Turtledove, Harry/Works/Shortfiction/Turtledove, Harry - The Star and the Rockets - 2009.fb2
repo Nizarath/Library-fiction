@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf</genre>
+   <author>
+    <first-name>Harry</first-name>
+    <last-name>Turtledove</last-name>
+   </author>
+   <book-title>The Star and the Rockets</book-title>
+   <date></date>
+   <lang>en</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>calibre 2.52.0, FictionBook Editor Release 2.6</program-used>
+   <date value="2016-03-07">7.3.2016</date>
+   <id>22D556F8-B8EA-47CA-8718-AFEEF31F6203</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>The Star and the Rockets</p>
+   <p>Harry Turtledove </p>
+  </title>
+  <section>
+   <p><image l:href="#_3.jpg"/></p>
+   <p>illustration by Chris Buzelli</p>
+   <empty-line/>
+   <p>A chilly January night in Roswell. Joe Bauman has discovered that’s normal for eastern New Mexico. It gets hot here in the summer, but winters can be a son of a bitch. That Roswell’s high up--3,600 feet--only makes the cold colder. Makes the sky clearer, too. A million stars shine down on Joe.</p>
+   <p>One of those stars is his: the big red one marking the Texaco station at 1200 West Second Street. He nods to himself in slow satisfaction. He’s had a good run, a hell of a good run, here in Roswell. The way it looks right now, he’ll settle down here and run the gas station full time when his playing days are done.</p>
+   <p>Won’t be long, either. He’ll turn thirty-two in April, about when the season starts. Ballplayers, even ones like him who never come within miles of the big time, know how sharply mortal their careers are. If he doesn’t, the ache in his knees when he turns on a fastball will remind him.</p>
+   <p>He glances down at his watch, which he wears on his right wrist--he’s a lefty all the way. It’s getting close to nine o’clock. He looks up Second Street. Then he looks down the street. No traffic either way. People here make jokes about rolling up the sidewalks after the sun goes down. With maybe 20,000 people, Roswell seems plenty big and bustling to Joe. It’s a damn sight bigger than Welch, Oklahoma, the pissant village where he was born, that’s for sure.</p>
+   <p>He could close up and go home. Chances that he’ll have any more business are pretty slim. But the sign in the rectangular iron frame says OPEN ‘TIL MIDNIGHT. He’ll stick around. You never can tell.</p>
+   <p>And it’s not as if he’s never done this before. Dorothy will be amazed if he does come home early. He’s got a TV set--a Packard Bell, just a year old--in a back room, and a beat-up rocking chair she was glad to see the last of, and a shelf with a few books in case he doesn’t feel like staring at the television. He’s got an old, humming refrigerator in there, too (he thinks of it as an icebox more often than not), with some beer. Except for a bed, all the comforts of home.</p>
+   <p>When he goes in there, he ducks to make sure he doesn’t bang his head. He’s a great big guy--six-five, maybe 235. Maybe more like 250 now, when he’s not in playing shape. Lots and lots of afternoons in the sun have weathered the skin on his face and his forearms and especially his hands.</p>
+   <p>He leaves the door to the back room open so headlights will warn him in case anybody does come in. When he turns on the TV, the picture is snowy. He needs a tall antenna to bring it in at all, because Roswell doesn’t have a station of its own, though there’s talk of getting one. It isn’t nine yet. Milton Berle isn’t on. Joe can’t stand the program that runs ahead of him. He turns the sound down to nothing. He doesn’t turn the set off: then it would have to warm up again, and he might miss something. But he does ignore it for the time being.</p>
+   <p>To kill time till Uncle Miltie’s inspired lunacy, he pulls a book off the shelf. “Oh, yeah--the weird one,” he mutters. Something called <emphasis>The Supernatural Reader</emphasis>, a bunch of stories put together by Groff and Lucy Conklin. Groff--there’s a handle for you.</p>
+   <p>Brand-new book, or near enough. Copyright 1953. He found it in a Salvation Army store. Cost him a dime. How can you go wrong?</p>
+   <p>Story he’s reading is called “Pickup from Olympus,” by a fellow named Pangborn. The guy in the story runs a gas station, which makes it extra interesting for Joe. And there’s a ‘37 Chevy pickup in it, and damned if he didn’t learn to drive on one of those before he went into the Navy.</p>
+   <p>But the people, if that’s what you’d call them, in the pickup . . . Joe shakes his head. “Weird,” he says again. “Really weird.” He’s the kind of guy who likes things nailed down tight.</p>
+   <p>He puts <emphasis>The Supernatural Reader</emphasis> back on the shelf. With a grunt, he heaves his bulk out of the rocker, walks over to the television, and twists the volume knob to the right. When he plops himself down in the chair once more, it creaks and kind of shudders. One of these days, it’ll fall apart when he does that, and leave him with his ass on the floor. But not yet. Not yet.</p>
+   <p>A chorus of men dressed the way he would be if he really spiffed himself up--dressed like actors playing service-station jockeys instead of real ones, in other words--bursts into staticky song:</p>
+   <poem>
+    <stanza>
+     <v>Oh, we’re the men of Texaco.</v>
+     <v>We work from Maine to Mexico.</v>
+     <v>There’s nothing like this Texaco of ours;</v>
+     <v>Our show tonight is powerful,</v>
+     <v>We’ll wow you with an hourful</v>
+     <v>of howls from a showerful of stars;</v>
+     <v>We’re the merry Texaco-men!</v>
+     <v>Tonight we may be showmen;</v>
+     <v>Tomorrow we’ll be servicing your cars!</v>
+    </stanza>
+   </poem>
+   <p>Joe sings along, even if he can’t carry a tune in a pail. Texaco is his outfit, too, even more than the Roswell Rockets are. If you’re not a big-leaguer--and sometimes even if you are--baseball is only a part-time job. He’ll get six hundred dollars a month to swing the bat this year, and a grand as a signing bonus. For a guy in a Class C league, that’s great money. But a gas station, now, a gas station is a living for the rest of his life. You get into your thirties, you start worrying about stuff like that. You’d goddamn well better, anyhow.</p>
+   <p>Out comes Milton Berle. He’s in a dress. Joe guffaws. Christ on His crutch, but Milton Berle makes an ugly broad. Joe remembers how horny he got when he was in the Navy and didn’t even see a woman for months at a time. If he’d seen one who looked like that, he would have kept right on being horny.</p>
+   <p>Or maybe not. When you’re twenty years old, what the hell are you but a hard-on with legs?</p>
+   <p>Uncle Miltie starts strumming a ukulele. If that’s not scary, his singing is. It’s way worse than Joe’s. Joe laughs fit to bust a gut. He hope the picture stays halfway decent. This is gonna be a great show.</p>
+   <subtitle>* * *</subtitle>
+   <p>There’s a sudden glow of headlights against the far wall of the back room. “Well, shit,” Joe mutters. He didn’t think it was real likely he’d get a customer this time of night. But he didn’t go home. Unlikely doesn’t mean impossible. Anybody who’s spent years on a baseball field will tell you that. Play long enough and you’ll see everything.</p>
+   <p>Out of the chair he comes--one more time. He doesn’t want to turn his back on Milton Berle, but he does. When you’re there to do a job, you’ve got to do it. Anybody who made it through the Depression has learned that the hard way.</p>
+   <p>Parked by the pumps is . . . Joe shakes his head, wondering about himself. Why the hell should he expect a ‘37 Chevy pickup? <emphasis>That damn book,</emphasis> he thinks. <emphasis>That crazy story.</emphasis></p>
+   <p>But the story wouldn’t get to him the way it does if he lived in Santa Fe or Lubbock. Something funny happened in Roswell a few years before he got here. He doesn’t exactly know what. The locals don’t talk about it much, not where he can overhear. They like him and everything. He knocks enough balls over the right-field fence for the ballclub, they’d better like him. Still and all, he remains half a stranger. Roswell may be bigger than Welch, Oklahoma, but it’s still a small town.</p>
+   <p>Nobody here laughs about flying-saucer yarns, though. They do in Midland and Odessa and Artesia and the other Longhorn League towns, but not in Roswell.</p>
+   <p>Anyway, in spite of his jimjams, it’s not a ‘37 Chevy pickup stopped in front of the pumps, engine ticking as it cools down. It’s an Olds Rocket 88, so new it might have just come off the floor in Albuquerque or El Paso, the two nearest cities with Oldsmobile dealerships.</p>
+   <p>As he walks around to the driver’s side, the jingle that started off the TV show pops back into his head, God knows why. <emphasis>We’ll wow you with an hourful of howls from a showerful of stars.</emphasis> That’s what he’s singing under his breath before the guy in the Oldsmobile rolls down the window so they can talk.</p>
+   <p>Warmer air gusts out of the car; Joe feels it against his cheek. Well, of course a baby like this will come with a heater. He’s already noticed it sports a radio antenna. <emphasis>Probably has an automatic transmission, too,</emphasis> he thinks. <emphasis>All the expensive options.</emphasis></p>
+   <p>Whoever’s in there, it’s not one of his regulars. He’s never seen this car before. And besides, his regulars are home at this time of night. If they’ve got TVs, they’re watching Uncle Miltie, same as he was. If they don’t, they’re listening to the radio or playing cards or reading a book. Or maybe they’ve already gone to bed. Not much to keep you up late in Roswell.</p>
+   <p>“What can I do for you?” he asks, trying not to sound pissed off because he’s missing his show. “Just gas? Or do you want me to look under the hood and check your tires, too?”</p>
+   <p>For a long moment, there’s no answer. He wonders if the driver savvies English. Old Mexico’s less than a hundred miles away. Roswell has a barrio. Some of the greasers are wild Rockets fans. Some of them bring their jalopies here because he plays for the team.</p>
+   <p>Because they do, he can make a stab at asking his question in Spanish. It’s crappy Spanish, sure, but maybe the guy will <emphasis>comprende</emphasis>. He’s just about to when the driver says, “Just gas, please. Five gallons of regular.”</p>
+   <p>Joe frowns. It’s a funny voice, half rasp, half squeak. And he wants to dig a finger into his ear. It’s as if he’s hearing the other guy inside his head, someplace way down deep. And . . . “You sure, Mister? You got a V-8 in there, you know. You really ought to feed it ethyl. Yeah, costs a couple cents more a gallon, but you make it back in performance and then some. Less engine wear, too.”</p>
+   <p>Another pause. Maybe the driver’s thinking it over. Joe eyes him, trying to pretend he’s not doing it. The fellow’s funny-looking, which is putting it mildly. Joe wonders if he is a guy. He’s sure not very big--he’s got the seat shoved all the way forward. His face is smooth as a girl’s, maybe even smoother. But he’s got on a white shirt, a jacket with lapels, sunglasses even though it’s nighttime, and a fedora with no hair--no hair at all--sticking out from under it. Joe sees there are two more in the car with him, one in front and one in back. They both look and dress like the fellow behind the wheel, poor bastards.</p>
+   <p>This pause lasts so long, Joe gets ready to try his half-assed Spanish again. Before he can, the driver says, “Regular, please. Less lead goes into the air that way.”</p>
+   <p>“Huh?” Joe says. Then he remembers ethyl is short for tetraethyl lead. It’s what they put in gas to make it knock less.</p>
+   <p>“Less lead,” the driver repeats. “Less air pollution.” He reaches out the window to point at the Texaco sign. His hand is tiny. It’s as smooth as his face. And it has only three fingers to go with the thumb. It doesn’t look as if he’s lost one in an accident or during the war. It looks as if he was born that way. He goes on, “You are a man of the star. You have the emblem. You have the song. You should understand such things.”</p>
+   <p>Was Joe singing the jingle loud enough for the guy to hear him? He doesn’t think so, especially since the Olds’s window was closed then. He’s not a hundred percent sure, though, so he doesn’t push it.</p>
+   <p>To hide his unease--that voice still seems to form in the middle of his head--he tries to turn it into a joke: “I’m not just a man of the star, Mac.” He also points to the Texaco sign. “I’m a man of the Rockets.”</p>
+   <p>The guy behind the wheel takes off his sunglasses. His eyes are enormous. They reflect light like a cat’s. Human eyes don’t do that. When they meet Joe’s, he tries to look away, but finds he can’t. They peer into him, as if through a window. He knows he should be scared, but he isn’t.</p>
+   <p>“A man of the star, and of the Rockets!” the little guy says. His eyes get bigger yet. Joe hasn’t believed they could. “Why, so you are! What a pleasant coincidence! In this vehicle, so are we.”</p>
+   <p>His two buddies wriggle and twitch as if he’s just come out with something way funnier than any Milton Berle one-liner. “What are you doing to me?” Joe hears his own voice as if from very far away--certainly from farther away than the driver’s. That should be impossible. But unlikely isn’t the same thing, a thought he’s had not long before. He tries again: “What are you going to do to me?”</p>
+   <p>One more pause from inside the Oldsmobile. It’s as if the driver has to translate even the simplest English into something he can understand. <emphasis>Martian?</emphasis> Joe wonders. His feet want to run, but they can’t. He’s frozen where he stands, even more than he would be by a wicked curveball.</p>
+   <p>“I am buying five gallons of regular from you,” the driver eventually answers. “That is what I am doing to you. And you are a man of the star, and of the Rockets. It is only right that you should be far-traveled in your trade, and so you shall be. And no, since you are curious, we do not speak Martian.” His friends wriggle and twitch again. He adds, “We are from farther away than that ourselves.”</p>
+   <p><emphasis>What’s farther away than Mars?</emphasis> That thought fills Joe’s mind as the driver puts his sunglasses back on. The second he does, most of what they’ve been talking about falls right out of Joe’s mind. He finds himself staring up at the stars, the way he was before he went in to watch Milton Berle. Boy, they look a long way off tonight! He wonders why--but not for long.</p>
+   <p>“Five gallons of regular, you said, sir?” he asks the little bald guy behind the wheel.</p>
+   <p>“That’s right,” the driver answers after a hesitation Joe should find odd but somehow doesn’t. It’s almost as if he’s used to it.</p>
+   <p>He pumps the gas. It comes to a dollar thirty-five. The little guy gives him a ten-spot. He has to go inside to make change: he knows he’s only got six bucks in his own wallet. He’s just coming out when the Rocket 88 drives off. “Hey, wait!” Joe yells, money clenched in his big, beefy fist. “You forgot your . . .” His voice trails off. The car isn’t coming back. He gets a tip every once in a while, but he’s never got one like this before.</p>
+   <p>Shaking his head, he goes back in to finish watching his TV show. Uncle Miltie is spoofing <emphasis>The Shadow</emphasis>, which still runs on the radio. “I am Lamont Creampuff!” he intones. “I have the power to crowd men’s minds!” He shoves, uselessly, at two enormous actors who are crowding <emphasis>him</emphasis>. With a pathetic shrug, he goes, “Well, sometimes.”</p>
+   <p>Joe should be falling out of the chair laughing. He knows he should. For some reason he can’t fathom, though, he doesn’t find the sketch funny.</p>
+   <subtitle>* * *</subtitle>
+   <p>Not much to spring training, not when you play for an independent team in a Class C league. On weekends, the guys go out to Park Field to hit and to field grounders and shag flies. Joe puts in as much time as he can. He usually gets off to a slow start. Maybe this year he won’t. He can hope. You can always hope, even if you’re in the Longhorn League.</p>
+   <p>He doesn’t remember much of what happened that cold January night. Most of what he does remember is missing part of Milton Berle and getting the nice tip. Sometimes he thinks there’s more to it, but less and less as the days go by.</p>
+   <p>He doesn’t talk about it. What’s to say? Nothing that makes sense. Nothing anybody will believe. He can’t even joke about it, the way Berle made a joke out of Lamont Cranston. People in Roswell don’t laugh at jokes about flying saucers.</p>
+   <p>He boots a ground ball. It goes right between his legs. “What the hell’s the matter with you?” says the guy who hit it. “You shoulda snagged that one in your sleep.”</p>
+   <p>“Musta been thinking about something else,” Joe answers sheepishly. Why is he worrying about flying saucers? He’s never seen one in his life. He’s seen the two red taillights of that Oldsmobile receding down Second Street, though.</p>
+   <p> ”Don’t think, for Chrissakes,” the other Rocket tells him. “You’ll only screw yourself up.”</p>
+   <p>He’s not wrong. You can’t think when you’re playing ball. You’ll be a split second late, half a step slow, if you do. You have to play and play and play till your body automatically knows what to do, and your head backs off and lets it.</p>
+   <p>Joe’s swing is like that. He’s always been a hard hitter. This year, he’s something extra special. The ball jumps off his bat, in the practices and after the season starts. Some of the shots he hits go farther than Professor Goddard’s prewar experiments that gave the Roswell Rockets their name.</p>
+   <p>He hits ‘em long. He hits ‘em early. He hits ‘em often. The Longhorn League belongs to the hitters. So do the West Texas–New Mexico League, the Big State League, and the Arizona-Texas League, all in the same part of the country. The air is thin. The weather’s hot. Pitching staffs are small, and wear down as summer grinds along. Lots of guys run up big numbers here. But even by the inflated standards people in these parts are used to, Joe has a season to remember.</p>
+   <p>They play mostly night games. During the day, when the Rockets are home, Joe pumps gas. At night, he takes dead aim at the whitewashed planks of the right-field fence at Park Field. It’s only 329 down the line. He’s smacking ‘em way farther than that. He knocks one into the rodeo grounds next to the ballpark, which interrupts the calf-roping.</p>
+   <p>He gets a free ham every time he hits one out, too: the team has a deal with a local meat-packer. He doesn’t keep most of them. Some of the Cuban kids who play for the Rockets praying a big-league organization will notice them are hungry all the time. They don’t get paid the way he does, and they need the meat.</p>
+   <p>He passes fifty homers early in August. By the end of the month, with the season winding down, he has sixty-four. That means he’s passed Babe Ruth, whose sixty has stood as the major-league mark since 1927. But the record in the minors is sixty-nine. Joe Hauser did it in 1933, and Bob Crues tied it in 1949 playing for Amarillo in the West Texas–New Mexico League. Joe Bauman played with him there a couple of years earlier.</p>
+   <p>On the night of September 1, Joe gets close. Real close. The Sweetwater Spudders are in Roswell. Their franchise is spuddering; they moved from Wichita Falls in June. And Joe has a game for the ages. Four homers. A double. Ten RBIs. Oh, yeah. The Rockets win, 15-9.</p>
+   <p>Sixty-eight. One to tie the record. Two to bust it wide open. Nobody in history has ever hit seventy, not since Abner Doubleday said “Let there be bases” and there <emphasis>were</emphasis> bases. All of a sudden, Joe’s a big story. Oh, he’s been a big story in Roswell the whole season, and in the other Longhorn League towns, too. But now he’s a story across the whole country. AP lines carry news of what he’s doing from coast to coast. When’s the last time <emphasis>that</emphasis> happened in Roswell?</p>
+   <p>Oh. The thing back in ‘47, the one people don’t care to talk about. Whenever Joe thinks about that, he shies away from it like a cat that just got a squirt in the face from a water pistol. So he doesn’t think about it much. It’s not as if he hasn’t got other things on his mind.</p>
+   <p>The next day, Pat Stasey, the manager, moves him from cleanup to the leadoff spot so he’ll get more chances to hit. But he doesn’t connect on the second. The record sits on his shoulders, heavy as a piano. He hates the flash bulbs going off every time he comes up. It’s not just the local photographers, either. <emphasis>Sports Illustrated</emphasis> has sent a guy to Roswell. So has <emphasis>Life</emphasis>. He <emphasis>is</emphasis> big news, and kind of wishes he weren’t.</p>
+   <p>The game on the third, against Midland, is the Rockets’ last one at Park Field. Joe ties the record in the seventh inning. The piano falls off. But if he’s gonna break it, he’ll have to break it on the road. Along with the rest of the guys, he climbs into the bus for the long, hot haul to Big Spring, Texas. The national shutterbugs and reporters bum lifts from the gentlemen of the Fourth Estate who usually cover Longhorn League games. A little convoy rolls east along US 380.</p>
+   <p>Not quite knowing why, Joe wonders if he’ll see a Rocket 88 pacing the rickety old bus, but he doesn’t. Is that good news or bad? He’s not even sure it’s news at all.</p>
+   <p>Big Spring is bad news. The Broncs won’t pitch to him. Time after time, he has to toss the bat aside and trot down to first base. Even the Big Spring fans boo. The Rockets have nothing else to play for. They won’t win the pennant. Artesia has already clinched it. And that’s where they head next, for a Sunday doubleheader to close out the season.</p>
+   <p>Joe played for Artesia for a couple of years before moving up to Roswell ahead of the ‘53 season because he could get the Texaco station there. The fans of the NuMexers (they were the Drillers when he played for them) razz him whenever he comes back to town.</p>
+   <p>“Whoever made this schedule’s just plain squirrely,” Stasey complains. “Two hundred miles from Roswell to Big Spring, two hundred more from Big Spring back to Artesia. But Artesia’s only forty miles south of Roswell. We shoulda gone there first, then into Texas.”</p>
+   <p>“You want things to make sense, you shouldn’t play this game,” says Vallie Eaves, the pitching coach. He’s past forty, but he still goes out on the mound every once in a while. When he was younger, he made it to the bigs--the only Rocket who can say that. He wasn’t very good, but he made it. Stasey and Joe nod.</p>
+   <p>Before the game, the Artesia manager walks over to Joe. “I heard what they done to you in Big Spring,” he says, and spits a stream of tobacco juice onto the hard-baked ground. “I think that was chickenshit. We’ll pitch to you. We won’t groove one, but we’ll give you your chance. Fair’s fair.”</p>
+   <p>“Obliged,” Joe answers. “That’s white of you.” Would the other manager say the same thing if he didn’t have the pennant sewed up? Not likely! But Joe will take what he can get.</p>
+   <p>He happens to notice three little bald guys in fedoras and sunglasses sitting in the grandstand back of first base. They look so strange, he almost points them out to the guys he plays with. Somehow, though, it slips his mind. As a matter of fact, it slips right out his mind. So do they, which is odd, because they’re down by the front. And none of the other Rockets seems to see them at all.</p>
+   <p>Joe still feels funny batting leadoff, but whatthehell, whatthehell. Though Artesia hasn’t liked him since he bailed for Roswell, the crowd cheers and stomps when the PA announcer calls his name. That, or something, makes him feel easier as he steps to the plate.</p>
+   <p>On the hill for the NuMexers is a Cuban kid, José Galardo. Their manager wasn’t kidding--he pitches to Joe. Joe takes a couple, fouls off a couple. Artesia has a big ballpark. It’s over 350 to right, and the wind blows toward the plate. If Joe breaks the record, he won’t break it with a cheap shot.</p>
+   <p>The kid comes in with a fastball on the 2-2 pitch. Joe swings. Nothing sweeter than bat hitting ball squarely. He knows it’s gone before he finishes his follow-through. No, it’s no cheap home run. It’s way the hell out of there.</p>
+   <p>“Number seventy!” the PA man yells. Like a man in a dream, Joe rounds the bases. His feet hardly seem to touch the ground. If hitting number sixty-nine was getting the piano off his back, seventy is the piano stool. When his spikes come down on the plate, he’s grinning just like Christmas.</p>
+   <p>And it’s just like Christmas another way, too. When you do something special in the Longhorn League, the fans let you know they appreciate it. They shove cash out through the chicken-wire screening that keeps foul line drives from murdering them. Joe walks down the first- and third-base lines, gathering it in.</p>
+   <p>He doesn’t count it as he collects, but it’s got to be a month’s pay, maybe more. Certainly more in effect. Because it’s cash, the IRS won’t have to hear about it.</p>
+   <p>One of the bills is a C-note. The hand that thrusts it at Joe is very small, and has only four fingers. “Well done, man of the star,” says a strange voice--half growly, half squeaky--that seems to come from inside his head. Joe blinks, like a man trying to awaken from a dream. But the dream is too sweet. He walks on down the line, grabbing more greenbacks. Photographers follow, clicking away. By the time he gets back to the dugout, he doesn’t care about the voice any more. Still a game--no, two games--to play.</p>
+   <p>Roswell wins the first one. And the Rockets murder the NuMexers, 17-0, in the nightcap. Joe launches two more in the second game, one off a guy named John Goodell and one off Frank Galardo, who happens to be José’s uncle. That lets the Rockets slide into second, half a game ahead of the Carlsbad Potashers.</p>
+   <p>So it’s a busful of happy ballplayers who go back up US 285 to Roswell. Happy reporters and photographers, too--they have their story. And the national guys are doubly happy. They can get the hell out of New Mexico and back to the big city.</p>
+   <p>When Joe comes home, Dorothy shows him a fistful of wires. They’re all congratulating him, telling him what a great guy he is. That’s nice, sure. Then he shows her all the money the Artesia fans gave him. That’s way nicer.</p>
+   <p>More wires the next morning. By then, he’s back at Joe Bauman’s Texaco, pumping gas. Almost the first thing that happens when he gets there is a Rocket 88 Olds pulls up to the pump. In it are . . . a guy with greasy hair and kind of a cute redhead. They congratulate him, too. They were at the game when he hit his sixty-ninth. He fills the Olds’s tank. He takes their money and makes change. He feels disappointed, and can’t say why.</p>
+   <subtitle>* * *</subtitle>
+   <p>He hopes something big will come from his record, but it doesn’t. No major-league team cares about an old first baseman who hit a ton and a half of homers in the low minors. The San Francisco Seals from the PCL call, but that doesn’t pan out, either. He plays two more years for Roswell, then hangs ‘em up for good. Pumping gas, fixing cars . . . yeah, you can make a lifetime living at that. And he does.</p>
+   <p>He always wonders if he could have hacked it. Anybody good enough to play the game for money does. Joe has better reason than most. If he’d done some things differently back in the forties. . . . Too late now.</p>
+   <p>Years go by. That thing people in Roswell didn’t talk about? Some folks decide they can make money off it. Before long, people sell funny-looking aliens with big eyes in every gift shop, every drug store, every 7-Eleven. Even in gas stations.</p>
+   <p>Joe won’t sell them. The first time he sees one, he studies it for a second, then shakes his head. “Nah,” he says. “They don’t look quite like that.”</p>
+   <p>“Oh, yeah? And how do you know?” asks the poker buddy he’s with--they’re on a beer run.</p>
+   <p>He has no idea. “I just know, that’s all,” he says. The poker buddy gives him the horselaugh. He takes it. What else can he do? But, the rest of his days, he never laughs at a flying-saucer joke. Never once.</p>
+   <empty-line/>
+  </section>
+ </body>
+ <binary id="_3.jpg" content-type="image/jpeg">/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAARAAA/+4ADkFkb2JlAGTAAAAA
+Af/bAIQABAMDAwMDBAMDBAYEBAQGBwUEBAUHCAcHBwcHCAsICQkJCQgLCwwMDAwMCw0NDg4N
+DRMSEhITFRUVFRUVFRUVFQEFBQUJCAkQCwsQFA4ODhQVFRUVFRUVFRUVFRUVFRUVFRUVFRUV
+FRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUVFRUV/8AAEQgBswFbAwERAAIRAQMRAf/EALIAAAEF
+AQEBAQAAAAAAAAAAAAQCAwUGBwEIAAkBAAIDAQEBAQAAAAAAAAAAAAECAAMEBQYHCBAAAQMC
+BAQDBgMGBQEHBAMAARECAwAEITESBUFREwZhcSKBkaEyFAexQiPB0VIzFQjw4fFignKSokMk
+NDUWwkQlJrJTFxEAAgIBBAECBQEHBAIBBQAAAAERAgMhMRIEQVEiYXGBEwUy8JGhsdFCBsHh
+UiMzFHLxkrI0Ff/aAAwDAQACEQMRAD8AtLC0ENCoE/CvmLZ64IjciElTzoEJCJw+YDglQkDs
+4dpQD0plzoERkf3HdLY7xt+5MKNY4NkPLj8K6nV1rBizLWTTu197h3Pb47iNwUtAc1eIrJlx
+w4KpLXDchA5Mxj/pWa1BlYm7G6J/TeSOVZ7UgsTJRhOpW5DhSjoJkhiuojHIFBCE0yYGZ5vm
+2y7LeumY0/TynE8PP21o/Wo8llLQNCVrmgg4VniDRyB5ZA1SqeFMqiSRl1uUUTXF7gAikk1f
+XDIjyQUnfe/rKwOhkoe8qoHlW/F0mzPbsJFOue8r++JLSWQ8Ma206iqZ7Z2wQ7irnOmk1u44
+4eyrViKneTv9Re5SwHlR+2DkLbcTSOHqQVOCJyH2KpV3s8KHEMhEfBT540GhpHmyNCBRyxpY
+DI5BcC2ubY9UQ28k0cdxIcQxkh0F3kCQvhSWQyJvdNv3DY736TcozE8qYn4lkjebDkazKLLQ
+tVhUFxq0jngM6S1SxWJGK4eikjHjVLrBYmGxXLyACVHFaqtRD1swlkrHr6k448fdVfFouVzr
+g1UA9vGoOmNPGleIBzpkQUHLhwAoNDJiSARlj4mgES04kKn76gQhpCYj30GMmdTiqp4UApiP
+zeAqQSToccBzwNSAyLwLTxOQqAOaUcQi+NAiOKMhgKjQUxDXISVUeNQB2QAqmB4mogMBkiDV
+Xjh44imkAxoambvlRfbTgkk4+HJFJHOgzMENRAnn7KBCQh0oQOOAWoEMjYZFacvy/tFRgkqH
+3B7e/qO2O0AagNTCBkW4itfVyQzNlRnHZvc8+zX4tbiQiMnS5hJAHCt+TErKTLbQ3fb7+KeF
+kkbg9jwCE4qK59sYEybtrzSQD+XI1mvQdMslnctmjC+WYrJZQXJh0cmkr7EpUOD7rbRblaPi
+kAJQoSmASrUxdjMLkP2maS0uT6RjDJ/E05Z1oa5aotpYq2/d3We2QumlmDGNVCczyAFasPVd
+irJnVTG+4fuDfbrIYbBzmQk/OcMK7OLqVpq9zn3yuxBQyF73SyPMsjipJK4mrmisOa5zsXOw
+/b5GoQKhaHOU4E5BeXlQBIXG7SMcc8Qv7KEBkKieG+HgcSlCAjgnX/afYudBoKFdRCAppYCL
++oAPj76VoaR30Sh0DwrZGljj4OCYVW1A6N92N1l3R2ftzN9gbdCWBscpVHtlj/TMkbsw70rX
+LyLjZwOmVS4+2+8W9w/+myx3Vsv6UpdokTgHNIQHyp6501ruPMDU3a+9WMT574Ntook1ySPA
+aPaBjQd6+g3MjWSlSGyB7eDhx99S1R1YKEgPqBK+BquB5H4pwQGnDnjSuo9bjjlevEBM+FJE
+FqtJ8xxw1YLUZZViicaAZGidJCcaDCmOxyAH91BjJhAPBwzxoDJimhhUg1GiJnwZwIz8aAZP
+sfI5BKhJPgmBHAp7ahJOSMQDBPfQCDlHYO4YJRAcDyQlFIWT57VGGJTM+FQEjHSKcff404sh
+kakpkiIedIykfbgQFVaIIC4Sh9nnRCg61eAcTiMU8KjAwy4tWXdu+BwwcDp8OVStocldlJ57
++4Hb8u07ibuBmkPcdQAwDuPvrr4LyjLepY/t13n1h/TLxySs/lk4ccqmbF5RQzW7e5Dox6sB
+j7fOsN6jJkxZ3zGEDUh4kmseShciajvS4Ah3zZBMqztFiHzcO0OQ55U1AMw/73987T25aMtz
+I2XdJf5UAIVo8QK7H47qvJr4M2XLxZ5h3DfNw3mf6ncJiQqshBwCGvQUxqihGN2b1ZyGYkAD
+I8BjUgkknbyaUUgDic8qUkkjFIA1XkgZhKWANhjJmtQtxGYJ4cqkAkfZcYaRiTzJoNDIUbj0
+6SB7eVCAyd65UkKVK/sqQMh0XTcsiR8RS8QyOwTMklYySeOLWU1SuDGjzc5BSWHSk0TtbaO0
+3SR3G47vZ3paVNqy5iawEc8Vd+FY8tr+EPsazHdQTxM+gdEYY26Y2xoWhvgmHurC6udQSSVp
+I1Qp0lShwxSl4MbkjKPuFNvsO8CTdZDJYOJ/p4ZhEwckxV/+4+ytWCtY03CmVyHcQqr8ad0H
+Vg2K/DuITJeNVvGMrhsdypTUPD/OkdBuQTDOdYHyriUqt1HVw8ta8amhcczVGxoraRLgRgmP
+wqQWyMkajiE51CHwJaUBwGGFBhkdZIcGkkJwoQTkEtfiPDDChA3IcBIKYoc/Cg0MmKADjnhw
+OdAJxzSMSfBOeNAh85eOIGYoBB3A4hMRzowCRgg6ipz4UyFbHS0vaTxFFCtiemU45JnwphZF
+w8PxNIxAkenjiKCIwhhRq5nhRYyHY3OY8P5Y00yI0TVtMHjPA0uwhAd6dtQ71t0kzW63tarx
+xTn7K1YMkOCmyPOu42V3sG5CWMlrozqa9vMca61LclBnvU1XtDvOPc7eKOdyTHBzVTEYKaz5
+sMalWxf7XcGaguHNawZMehbWxPW+4tahkcA0ZEVgtWS5aFF+5f3fs+0Nvmit3B97IxzYW5hp
+Q4lOPhXR6H495Wm9ijNnhQjxxum+7h3Husu6bpM6eeRyuLiqA5AV6yuNUrCOfM7j1uVPqw/x
+ypWQkI3EBBzqsgfC5AFK6eA4UIJIdHNy4cTyoQRhTbgANLQpTFUoBQsXJ1I454oOFBoZM6J8
+0TA5/GgFH3XORKKcvblQgKOm50rgDhzoQEV9UCoVeKcMONSAyc60K6XRtcCmBa0/iKkE5Gpf
+Ze9aJ96s2IyJscErI24BVc1xA51g7ddmPMoJ71+6m8bF3Sds2C5jbBYQNbcNdGyVss7/AFvD
+g8L6GlrcCMVp8eCrrL8iIPsPu/sXcVg/au8Nt6UEoANxaK+NSPm0u9bCP9pNJbrOrmoZKhu9
+ta7fIZ9m3CPc9scf0riM+uMHJkjShXxSraqd1DJzAotwxxdlUdA8yUtdw0lA4KeJ4e+q3QdX
+JeO9LmgqoREXjVToWKxKWe5dJzXynU0lHNVUB4is+TDy2LqXaJmRpcAWYtI1avPyrEm/JtTQ
+O5hUAqCONOgtnWsVeKUCSKDG8OFK5DI4xzRmtAkjus8Mk45YUSchQc4Y5DjSFkiidQBKrUgk
+jTnObhi01Gg8hDnLxK5Z50UBsQGYhM8xToRjjGOzOdMI2OaCi6TmuXFagJB4A5MTl+NVWZAk
+Ag4n2HKlQw81GHUVOIKcOVOQWxHOccRwB8UpkKwq0k6TCwkqpT/kaLQsE9aua6LSQoOB8RxF
+ItxLIyv7hdpROe6SNnokUxu5f7fZXQw5GUtGMMlu+3tyLVLQHomXhXSq+SM1qwavsvdMMttG
+Xv1K0EpmOarWXJiEkc7l+4kez7Y7S79UpHChxLjxHsqnD0la8j2ywjzH3nv15vO5yzXMhdpP
+HmSp/CvSdfEqrQwWbZCWbiRjmStW3QJJy3+XHE5JVDCg6LAEnPiaQIax2kIMS7JcaBB9sxQA
+5ioBD7ZW56lPHJKWR0jhmBKBVGaZUB4O9YoAqc6EEPjM4lVyySjBBPVT1HiMiQtSCHwuCT7E
+5VIIffUYqDimHKpBC2fb/ueLYL7cr6c4MsnGNiprka9pa321Rnx8oGnQqd7fzXkj7ySTXcPk
+dO9/Fz3HU5ffVqrGgJOwXYaQF/Smb1IsVT+JvsNR1Aw6O5DSoehOaUsCwHQXWlPWSefOlaGR
+KwX0TUOoApjqIGNVurHRK2W4xkIyVpXkh9lV2ox6snbd9y+MkRuIOJwKD4VU6lqZO7VuFwxo
+trlkqD+WdDsQfFKpy4U9UPTJBKMmZrLWlDwXD91Z3ig0rIPhrs9Jx44HCk4jcxTWgnD0pglT
+iTkK0YgD2JhSuiCrHG6QURM/8JSOo6sLOIxJywNVtDpnDIGhPjUDIhwMgJaF55CgyKwkDmCE
+y86KYGxYGK5tIVR/nTSSD4Lwx5GpIrQ/ramXhw50ZABxA+nNMVx9tVNhgMBauKZYJSoYWge8
+NK4J+NPJIHemjtWQGAA/GmqwWQprnMficyFp0IyZtJnNZmvLGqrKGKxe62ce4WTonohxY5Pl
+cmFW0tBSzBe/O2ZSZHNj9bFJw5V08GSCu6koO3301mrC4tDSh4ZVtiTNYpW6dzTdwdxRdJ5N
+rbv6UAVASqOd+6uhjw8Ka7sy3vJVr2VzpXuVSXFSa002K7bi7FcDmOJpbkRPW5VoNZ2MkGxu
+yPLBRQIFRuKf7cqVsKqOakTD2fCgPB0uwQFKAYFB+CKicByqBPuuBUgg0+7CnHDjRgg2bsZL
+gKPEEjZvUWjxF5CDdqfT/lR4gk4y5JULgc0PjUdSJiXXsTD6pGg5ITjzocWGSW2fYO4N90W2
+x7Vd38hdrhMUTg0LmpKDGktdLdpDQavsH9vH3E3FjJt3+j2WJ2KXL+rKB/0Rr8TWTJ3Ma21C
+qt+DRNs/t/7eswDvG9XF84fMy2ZHbtX/AKjrPurJbv8Aoh/tstm1/bfsLbEEe1xTHPXdEzuw
+8XqPhWe3esx1hb8lssrTYNvjDbPb7aJrOMcETQP+RFZ7di1vI6wIr/c33U7F7Uaf6tvFpbSN
+/wDt2vYZP+wwL8KuxdXNl2QLKldzKd5/uz7Hti5lnHd3pGA6bA0e+Qj8K30/CZXuyh9ii2K2
+/wDu47WkJ6vbFzL/ALnOg5+Lau//AINv+Yv/ALa9B61/ui+2V0SNy7ZvbcKuuHpHz+VzPwpb
+fhsy2sn8xl3EWfavut9ne40G3dxu2m4ciW+5xuY1Tw1OAHxrLk6Gem9Z+Rop2k/JZ5rOZtuL
+23dFf2bwrbyykbNGR5sWsnmNmaa3TGIZGyng4cMclHHlSWRamE9MH5fJKqZYmMPYuH40IGQq
+Noa1B7aRjI69uOPD/GVKE4SQhJw8uBokEg8GYAZHmlEVnNZ/h4JkPdTCjET9PitVsZBTQ4qC
+nAkZ0qGDGek45cCaYg6MAAqkUyQBv0uc0IqYrViFJCAlpQYDEg+NK0I0SEMwd6Tk7iDxqIqs
+ird2bcye3dKxqvYC08FHE1pxMrbPKn3Pv4Nvc6ysnBst0vUDc2s4++vQdDG7avwYs9kZrtEv
+Tuo5AMGOBTDga6eXYxoI3GDp3UzAEaHFw8jiPgaSj0DZC7LguHxpbkqTlshb5VQ2OqhgwOP7
+qVsdId6gAGKpwoBOOmQePMVCDLrjIr5+dGADT71rOK+FFVI2MSXznZFPKnVBeQObpxOZXgtN
+xFdjjrsNHqclMqCux2OS5nP/AJaB8vjpQY+JqNJbsCbZbO3ftd9wO6nM+isDDE4/z51a0DzK
+CqMnZx0HWNs17t/+1dsgbL3XvkhwBfb2vpb5LgKw5PyaX6UW1wmp7D9p/tf2sxhs9qjuJ2os
+9yRK4kcccK52X8hexfXCi3R7vt22I3b7eO3QaQWNAKeCVitms9y1UQDedzoSXOXzoasmhCXP
+dbWYl6HgBnT1wtgdkVXf/urtXblnLuG5XLY448GRkq578w1ozcfAVqxdJ3fGqlivJCl6HnLv
+j7/d5d2l8FjO7ZttKtbHC5JXtPN3D2V6Hq/icePW3uZhy9xvbRGWSSvuJHSzvdK92LnOOJPM
+muoqxsY3ds41sYIAaB40QSL9PFuPgKUMnHBoKpj5UQNnAI3Ylo9lQiZYO3u5+4+25Or27vFz
+YklXQskcGOI5tyPurPmwUyL3VTLaZrV2Zr/af34dLPHa97xdB7vSN3tGZngZIx6XeJCGuP2P
+xXnHr8DoYO54sbdZbrBcWsV/BcxXdjOAY763OqIrwdxa7wNcTJiaceTp0unqSbJGyNDgQ4Ee
+k8CPOqC1M+cDnypWWI4A4quCcedLAThYGgg/Glgg25cdXn50wrOenx58aEigkWBa7lwoWCgt
+r8gQgTE0qGYbGQ3S3EimgkjpAzAUBdXsFWIV7iGoXBUJKp+ymggfFiA1EXl8aAGFMIjLcUKp
+UgRlb7x3iDatqur2d4bHDG5yqM0QDGtWDG20kZ8rSR4Y7h3WXe93vNzldqEjiI1yQFBXr8OP
+hVVORe3JyB2QaHp8aNyIkNwdqdBKc5B0nHxGVVU8jNHbZmlqH20LMKRKWrgxhU+QqmxYgkyt
+GOQ5Z0IGG3XTUTPPAcKKQGDyXTRiBTcRGwSW7JCKqZeFOqitgxuBmSF5U6qI2IZcmUhkDdbi
+Uwxp+HqJyLLsnZHcvcEgbbW7mtP5gD8TVd8taghs1bt37E2sBZPvt2A9FMcY1OPtKgewVgy9
+70LaYjWdg7P7Q2ACS2sGOkYEEs4EjlHIuUCubl7NrGmuJLcskncsdowsgRgGQaMazNOxYkkR
+Nx3bM9Uf7zQ+yNJEzd0vxVxPiqCisBHcBn7qchKgJxWrF10K7kHf95CMEdRT8Kvp10I7Gd92
+fdGLa4jHbPM17KDoYCoA5kjKt2Dpu7+BXbKqrUwvfu5dx3u6dfblObmRpRjSf04weDW13sHV
+rjUJQc7Lnd2RUL7u9mEcLXTSuBLWNCk6QXFB4AGt2LA7vjVSzPfJWqmzhCG3j2lVXjjQ+1I8
+Ela3EcrA4rh8yVnvVphC2Friow4GqwnSzn8aEggbMeklwKfhRkkDjFGKZ8aDCExyldDxrac2
+mkaGTLL2l3p3B2TdmbaZ3S2EyNu9tkOqORiqQhwB5GsnY61My10fqasOd0emx6W7V7w2redu
+t952uRdsuT07iF5/Us7hMY3+HI8a812etalnV/qX8UdnFlVlK2Ly0h7V51gZsqz75cOYRKUJ
+1yEJlzqIDB3+kZ/6UACMU45f4NCAAkfqaAMA3OowhUYJaCTlmT50qCwuMoU4jJatQo91DxRM
+kpkiSLjB1AuTDgKMEDWvUpy5Z0AHS5jtTiSjSFPjx5U6EZ58/uE7sfb2bdgt36TcfqSIQukY
+fE13PxeCXyfg5fbyeDzfEzVEqeK13W9TGLtgj1pbjVD76Ey2Li1dTEe0eVU43Fiyy0HbSVss
+LJAoLhimYNC1YcBq5CxJpxBx4HxpIGG3TOKrjzowSQd90Bg1cKdUK7XAp78BVcg5CrFjK3cB
++rlnfot2Fx99PwS3F5SSu27BeblM2OVzi5xH6bPHmarvmVdgqkm29m/b/atuijnu4RLKilmT
+R5k4muflz2Y3E1KylhtYWxQ6YIhkxgDRWG7bLa1SH375bwD0I48TlVX22y3kR133I56hhHso
+rCTkQ9xvRIOuXE8qdYyciKl3sgnQ5adYicgCfe9IUv1HiVwp1iFdyA3LuZsbHF70GNXVwyI8
+hm++d6zzukZZvVAdUh+Vo5rxroYep6me+aCg317PLLIJHOLyUle9Q4kcEOVdTHjSWhjtZ23A
+ywGJzw4AsQFpKOKr8o4pxq5VlNzsJOsDTXO5p41KlkC2nELlxq6oCR3du1WO8XLO3bya+22N
+4+ju7mEW8sjCAfXEHPDSCo+Y0rryrruSsta7klavMrRIw/MAawXUOBqh4aCF48aqZZB90wqV
+JBApsOCAUORIE9ND+ypIGgpo0gEcM6RjIsnaHc1x2hu/1bAZts3Bot92tMUcw5SAfxsVQay9
+nAstY8rY1YMro/geoeyt3G47aYjL1nWrumJf42Zsd7RXluzj42n1O3htKLO4YqeIrKaBsZg8
+KhBMgDgqL4mgwDfpT/HOgACa5G6RgFxdy/fUYR+PHJUGAwRUxqIjC2LpDkOOKVYhWPkaWaQi
+/mooAth0twzP4eFMQeybrC/8VWjGoGxy5ljtLOSaVdLGF71zRFNMlLgqtaEeJfulv0ncPc17
+dkoyN/SY1RgG4V63p4+FEji5bTZlPYoiAHnWlio6wIFB8aDHRJQq+FCcCDVD3LPAPt7y10kL
+ji0kjydwqzKtmV0fgLe8NqtIdsDnnaz53eyrq1KrWI2S6dK7pxBV4VcqRuVOw5Ht5k/UuXIP
+4RSWyegyr6kvtlibiYQWjEAweQMqzZLwpZbWs7Gs9t7TabTG2SRoMqAkmsN7O2ozfhFlO9Bg
+GnBP8YVXBEhiTfp3HF3DKpxHBJt7OSk+C4VOBCNl36R5DdSDgBh8adYyAkm8k5uGWZplQkgM
++8sa0K5TxSnVBXYgtx7jbHG46kAzctXUwyVO5Q903u43AOc55jtWlPF55DnXQxYUvmZ75CvX
+F06ZGsGiMfK0cfEnia2VrBQ9QcuVSSpOZNOkQ6I5ZWvdGwubE3XKWgnS1Q1TyCkCpuTRDTsM
+KiGQ89sLI4HRTdR0jSZmFpb03aiA1Tg5QhUVc1VJQ5fn4f1Fq7NuVHp8f6BG6bbd7NuFxtl+
+GC5tnaJejLHMxUB9MkTnMcEObSaFLSpGTnVBG0XBY8xE4Ko9uBqjs08k8k9GXaihGnl41hZY
+ggA4Y4UCDgBy91KRM6WZkDOgGT6Mhh0oq5Co0RMKB1xFvADCq2WVPRP2Zkun7fNNcFQ9kQBP
+FAf2JXnPyKU6HZ6jcGqB6hDkOFcuDcKGHtpQjbyjdJ9nCgQbRyfLwT41AAUJacRmVU/hQYQm
+IoBiv4/GoiBbMmgKTglWCscJLgRzSnFHGNeAEGDQq86M6hDYmF5aCmBCjhhREs9CufdDdhsf
+Z99dh2l5ZpZjmTkPea09PHzyIzZ7RU8O37zNK5ziSXPLiTjXra6HHQlgGgDMJnUYyQpjWgjB
+UoMdBTXdNqAoKriRnYj+tpv3FdLCMRV/H2lHL3CbrdGgpCFOVGuL1JbICR21xdu1yHQ05rnT
+uyrsIk2SEMUNuNMYxPH99U2s2WKsBUUbrh/TAQfmOXuqqzgdKS37JHZ2DGuQA5DwrHebPUse
+ihE47eo8gS5wpeAsDT96BCDAjDDBffR4BA5d6xPqXyplQKZHzb07EFwXnTrGDkAu3d2okuJT
+JTT/AGxXcbl3QvwBUDPwpljFdyHvt7ZCNGrW7+Bpq+mGSq1yuXu4OmcZbk6v4IWnD28a148X
+oU2uRM11JK8Pcfl+UDJvkK0JJbCQInuJbmeS4mdqkmc6SRyAK5xUlAgGPKjIUoG1WpJD5you
+KHBaDCjuOB5ZVCB0d9avl3Ca/smXEt5G8W5iP07LeZz2v6jI4wGkABzdCaUPgKZJ6AgmO2dg
+7d3Xae4dw3zf4tnn2qz6202To3SSX9y5yNgYGgovFxwHE89uGmP7drWblNJJROs667rSHGup
+lzZciyVrSspzLcwojTTzrKn0IOyJFxGVTEAlUzKVRenKrNFnGpZ2uc1BgDkfOuSXDrJSMwVq
+QCR9kgdwx4kVIFkUXORAMeFCAyORRdRCcCOeC0tmFImtu2m4vbiKxtIzJNMQ1rAOJrNkyKql
+mjHRtnqDsvZBse1W9qg1MY0PIwVyYn315jtZOVmd3BSEWcBDiD51kZog4XlpC454rSMghz1K
+ngFobhR9r8OHOpAAFiDFiAAkJRZAqEnDgPLOgghUZBGkE8vaKsQrHW6nE6yhGCCiAfDNJUFV
+zFQMErC3AFoGJxooS5kf9xN6YO1I7cFDLMwOTln+yur+KrN5Of3XFTyY9rXOxXPjxr0ZzaiS
+Q0DhwowNMHzZNIxKJxNRonIGm3ANVrfVwJFPXGVu4IGTXLtXytP5jVkqoq9wRHbwRIfmdzNV
+2u2WKqQQHk4CkgaRY9WC+ZoNEkMiu44EaG1VakjK0Bbd1QJwTKl+2TkcO6OOA9y1PtkkS7cJ
+HEAkN4Kf8qPAgNLfIrXPVDwyp1QDYM+/YFOpadYxXYEk3RF0hfNKsWIrdwaS6u5w8g9OMfO8
+nS0ccSaetF4Etb1Iie8aCWwnVzkPHyrRWnqI3IG9+py8/FasYEjiEhUwGZqBPsqBBTo5IyWv
+bpIzqLUjDLrd7u72yy2iRkIt7F0j4HMgjZK4ypq6krWh7wE9IcTp4U7u2kvQrrjSbt5YzFM+
+GGWINY5s7Q1xexri1CHAtJxacMxRrdpNaa/tp6EtRNp+nx/n6jBFBFh0VYgMcBLSHDgavr4B
+ui+x7Huz7C33N1lKLW7YJIZtBLHjAEgjxrh52qZHWdmX0q3VMQyxk0HUCuSDPzqvmHgfNtHK
+g1ciBxqcwfbYfa7RPMf04JHuPANcfwFJbKl5CsTLlsP273/dHtMdo+3jOc040gew41jy92lf
+MmmnVszZe0uxbHti31uSe8eB1LgjHybyFcfsdl5H8DoYsKoXi3jDWYebRyrBdmyiCGhB6jxz
+qtlglw1YcvjVbYYGkRwauXLHOoQXp8W5JRARrFyAVSfKiQLgBIz4oPOoiEhEmkrgi5UwR0BX
+kr5YZUUAIY3U4IUROXvoBJVnpa0e80UVXMR/uPjLu3reY4LMCGqFyyrs/if1M53e2PLJ9R1H
+jXoDnVGJntjBLj++nSkDcEVcXTnFAUHL/Or64ym1wcOcfUHB3hVnETkLF09pR4peIyY4LsEI
+VFLwH5jrbvxUcjnSugeQ6L0AcjS/bDyG3XqlRUdCcxwXpRC7POh9sPM59ZmS6jwJzEOveKk0
+eAHcYddOdkMfDOmVUK7nJAYwx1xI2MPGoK4EpliApFOqtlbyL5jR3CwhYelE+4mXB0h0RD/i
+PU73im+36i+5/AGutymvYjHdEvLXA24adMcQx1BsbQnqwx8KsSSWxOOoFUGH3zsdaxW4gja+
+N73OuG6uo8OAAa7HSjUwQLj5UztpECqsNuR20ubOGC+jubJt1LcQiO0mc97PppBIxxkDWEB5
+LWuYjsPUuYqq9bNppwk9fjpt/qOmknoC51YKKJe0dJygAqWngaj9AaPUPv4Nshbaf06eS4e+
+Brr3qsDAycuOpsaEq0N04niuFVYrXc8lGug1kvAIgwFXCSSO+bZt+3OtBt+5xbmJ7aOecwsk
+Z0JXhXQu6jW6nN4luHKrb0SiHJXhyWtMqBnYtxh2jdrTcrmwt90htn65NvvQ50EzUILXhha5
+MeBocZUFl9UCOA/KEHCtSU7ETPa/9vN1a7v9rtvhurdk30b57R+poVWyFzc1zDhXjP8AJZx9
+hWX9yR1PxtVZNejLzcdo7Bdnqy7ZAJFVemxPPKuAu1deTrf+vWNh1naPb1u0NZt8GpVP6TQv
+iqUr7N35G+xVeBxm1WFuAY7dijEENA/Cg8ln5GWNIXJDG1QGAA8BhnSpkdRvohQgwHlzo8gc
+B+PS3EjHFAeJquxbWBRAOIzqtjDZyQIE4mkANkpnw41EE7qanDLnxWjApHtICMYMyh8F5UQh
+luDkfPx8KKAFxDSwg4pgT/pTsgSwEgYJx8PfUIGQtPUBPsSlCSWlWoQE8aaqKrsxr+5CBez4
+HjDTPHjkcQRhXZ/E/rOb3f0nk2Rwhi1E5c69DEs5qtCIO8utTi73DjWvHjKrWAbsMjdH07hk
++uNsjtAeNDnDGM62hXN4kYcjV8QVbjKpxHsokSH7eZri4TTFjQxzmejXqeArWkEhATgvCoqp
+7i2lbHBcA4OjHmMKXghpYt0rGEte1zSMC05ig8bWjIrSfCaEjMg+IpeAeQhz4j+dPZQ4MPIe
+MMjbP+oFrzbCTodbT6eoW6tK5KmKUftuJF+5rHkH+qh/hc72gVOA2oh12E9EePiSabggQ/Ua
+dcTu/Np8G4fhRSDCOvga21juuvG58kkkZtwXdVgYGkPcCE0u1I1Dm05YKJ1CMrRIfVCDjel0
+3hzXGQluhwcA0DHUoRSTgmNMoh+ormfgcApSSSFrtF9d7ff30OlsG3tZLcte9rHEOcGN0tcQ
+XEashwxyWo3AvNTHkjl4CoOLa3icaIB1BwxFEhzwqEOIrgCUC4k8PdT13AzhAa4tXLlTxDAF
+y3TZrK1tBbQxm2MhdcxtcJZuoQUlJJB0IjUArRjWoqWp6m/tNurifYt72v8A8CC4jnaU/NI3
+SQv/ABryv+X1SWK3lyv3HU/ET9y6+CPRX0zo4y1wzJcRnXi1aWekSBJ1CnUiZc/jToDBnAEE
+c+NGSRI1iSF9gzqSSBBai6QlTkLxFAkoAVQ40jGR8gGHtWlZBlE1L5edKwDbsyAOGOZqIIrV
+4jJKMCgEYQ5E6jjTSQOiQj1DEjKomQMjBRAmJwWmkMBDE1pwHuqEgNtnAPaAFwI8vOokBuA8
+63qG4ACrKFF2ZX9+bR952NfsiQy2zWT6eKB4BT311vxzjIjD2lNWeKr67JY4KSB8w8a9TSmp
+xrWghXSa3EuzNa0kis+uIWRxQytlZIZGlzmNVYyCRpcozKLhVl6JJOU5/gLS7baiI/iObbte
+5bxc/SbVaS3s+h8nRgYZHaI2F73I0Eo1oJPhQx47XcVUhyZa0U2cAYOXKqyxhd7JZvunu2+K
+SG2w6Uczw94QBS5wABU45VdntR3bxpqviXLKMVbqq5tO3mFCGAdTlkJIxUjEr7fGqpllkehx
+OIoEPkWoQ+dq06V9KrpXBaMhjycMEzYRcFh6Rdo1phqRUWkVlMBG86aSD1jBBc31tbXdy2zt
+5pWRz3b2ue2FjnAOkLW4nSMUGNBsDcIf3uxs9s3ncNu2/cI92tLS4lgttzga9kVzGx5a2VjZ
+AHBrwNQDgtBOVOwattagCUQhlxb2EdlZz292ZrmbqfWWnSLRBpcjEeSQ/WMcglFpQKm5egMK
+hD5HGoQcBlDXND3Br01NBKOTJRxqQDQ+DAKkBHjBK2Nkz2ObHIojeQQ1xbmhyKLjTQCVsKgd
+HHKx8sQlY1wL4iS0OHIluIXwpqNJptSvQF02mk4fqdnt5oHNbNE6Jz2tka17S0ljxqa4LmCC
+oPGkmQyMFjip5UyJJwtxAp0CR1oaGIV1KVCYYVrxQvmI9z2r/bB2y7aft87dJmFku83DrnVi
+vRi/TZ/3tVeF/wAt7XPsVxrbGv4vX+UHf/C4vba//J/wX+8m0zO0scpOIzHOvKo7sENcPJJT
+jmKukWAcLmUx4UGyQIcrXLmTxThUDAkvOCnyH41BWJEhC4IuRoMh1hJUZBeNLZkSPngHUhz5
+eFKyDLiUVeHCigHy4fNw/bnTAA2YqUXILlnRkAfCMVyRKgwW14B48cCPCmRGxbC9xGkpwWiL
+qSljAjtRXgPP31JFsiVuXw2NnLdSnS1jC4nwAU1bjrLSRRkcJs8z9/8AcTN0lkn3C6Ahkc8M
+t2ko1rcgRkpFe46HSWOsRr6nkO73Xe2+nhGJdzXnacMccG3MLFb/AOYEgaf1CSpYGqdKJ81d
+JY1UxK17uVJQ723t3gyQEEHEIalka8d2tGRbtQOk1WakEWd5dWMwuLG4ktpg17BNC90b9MjS
+x41NIKOaS08xTVs1sR1T3GQ0CgEU3T+ZUTBOfCoKxTI1NCSIejSORry0ODSHFjsinA+dFMll
+KgQ5C9ztIbqJOluQXgKhFWDropAxspY4McS1r0OkkIoB4otNxaUxoSVMeRDi8x9LUdBOrQuC
+jilJCmQiW2k8kUk8UT3xwoZpGtJawOOlpcRgFOAWpAJjQa6TipHDxqQGTmgrUIdDCc6kEHBG
+KKQo41g8qYVitIz4VCHdITD4USSfAFNPBVNAYWXyOjZC57nRxlxjjJJa0uTUQMgqY1CDsE5g
+iniaxjhcMDHOe1XNRwcrTwOCUU4EtXk0/QMZtm83+33G8MgmubPb2xR3V1i9sLHHpxBxK6Wq
+NLaKxuJS0FeWqtx8sjQxSmJWjSssNrCzaucwyAKAfmTBc611wSpK/uKYJWwXf7+ePcGzXm67
+rPDHbXjpQ0NmlmaHulaWkv1NKD1NQ4+FNiiqba2BbSEj9I9i2aDYtjsdrtY9EFnBHbQlCmiJ
+obh7lr5B2s7zZrXf9zbPcdTEseNVXhHL1HMKFEyPCq0jW2Qj3q9VPlRFEKD4HwqBG3Jn5eFF
+AGJHrkE91FCM5q5nhQIxbTiPLDhQaAKBXVhwxpGEbfGDx4EJUTAc0fh8KaQQBB6BVwpiBcTn
+AFMuY/zqIPgLjJBx44KV/CnAExYlPeoxoEJmyaFby5AY0ExbAX3AvHWPat3I0Auc0RtaSil2
+ArpfjcXPPVftoc78hk4YbM8H/cDuh91fPsrcoWEsdjkRgTX0Be1Hj8eNXcvYo7reWNofI0qc
+RqHOotC9XT2BtLh/LUkBSByApY9C6fU5K1r2ahgc6RjVBQedQsHi10bjHI0se0o5jgQQfEGi
+BiSrTjjUIWSbZbC27bst5/qkUt7dTSxSbS2N/UhjYGlkrpPkIepGkYhMarvSyh+H+0FOPNyv
+asfpIQlcqZIvELRCOuubh8Edq+V7oYS50UJcS1hf8xaMgqY1Y8tnVVbfFbLwpK1jqrOyS5Pd
+jVIOPxXt7b21xZQ3EkVtd6PqrdjiGS9J2pmsDA6TiKPJxArx1bVmtUDkBKAzCL29nv5IpJ2x
+h0MMduzpRsjBZE0MaXBgCuQYuOJ40W5EpRVBgKgzFAcKKEYsNSmgSTo8KAR24nfczOmlDQ5y
+BGjSAAECAeFNZzqLjoqqENUhagnbtuvt2v7Xa9st33d7eyst7S1hGp8ssjgxjGjiXEoKVtJS
+yMXfbde7VfXO2blbyWl5ZyPgurWZpZJFLGdLmPacQQQhqK6aFWo2Li4ZC62bK5sLyrogTpJ5
+kU6s4gV0UzGoTtLZW3cVxCxjn27mzDWA5qtcCFBwI8K2dSjb0M3Zskofkvm+7ZuW8w7n3Fd2
+dtbSX16ZjBt0bYrZjpGl2mKJmDWjgK79OjamOHrH1k4de/T7qqvT/UqXZ7xa957BLLgxm5Wv
+UBCokzVUVxs+P2X/APjb+R6LG04+h+ls0ixBuskBSEyzTAV8VqtT3tXoRV0Vjd4YGrhyDcfX
+y8qjAIBOGKDMpnQCNucjTx8caKAxhxJqCHGqoUUUAcCgggYcqDRJFYjigSkaJIl5OskYcKCI
+NoeXwNMCSNiRpJ1EqQrScAg4U71AGwuJdgDlQGDYjqxccTzpieAyAFpA48qjATtiSrdXBD8a
+CFstCE+7ETn9o3JaQNJY86iAEbicTXX/AA9o7Ffqcn8ov+hn513c0txu1xrKtkn1PBxUgkD3
+Ka95L28HmUkqT5gsuz7Htu+Xd1bbtvMGyRw20k8Vxcte5kkjGlzYgIwTqeQgOQrVXErONv3L
+66+n7/STBbPailLl+37fApU4DXYYgceB8ax2UM6tGNMJc1zRVbcFqQ06JoEeh4e54VzQCCwq
+RpKgA4BcKloSTn/Yarbb0/3HZHzzyvluZHyzPOp8jyXOceZLsTQVkS0yJ0kEYVOQIHF5U0DH
+y86YA/bWs15IYYAC4Nc92pzWgNYFOLiBUVW9gXuqqWF9v7FuPcu72+y7TG2W7uiWxNe9sbcB
+qJc55DQAAqk1ZixO9oRV2OwsVOTGL+zfYXc1nKWukgeY3ujIc0lpTAjOplpxcB6+VZKqy8gv
+hVLRedICo12ocSnhiKIpzSdOpMAUXgtGASfAVAMvnZv243TuvZ903ewHp2qF91clxZpELC1p
+cjnAlC8Ahqmu30PxP38Tvy46wvi4k4fd/J/Zy8EuWkv4awUy7YI5SxqEBcWlRmmFcm6hwdXE
+5UjI+FIWHFoMKQpuNKMLjkfBIyaF7o3xkOY9pLXNcMQQRkajUqApwP3V7dX1xLeXsz7i4mOq
+WeZ7pJHu5uc4kk+dJXEq6IjtIwrFOsFU9JHA1akityTWwybPDOx+5xzTsPzwxvEXH+PS7h4V
+0+i6J6nP7iyP9MI9T7d3D9vP/wDF7mzdsRN8NwDoLt056jQ+EvYS9rW4NATFvhXq8OB/e+5z
+/wCt0/T8fgeLzWf6OP8A2cv1fD0g8qb9JZ/1GaSwedBcXtk/3LqUe2uV2eHN8T2fQV1RK257
+4+1XesXf3Ym177rW6bH9LuTP4bmIAP8A+18w86+L/mug+p2rU/tetfk/6bHvPx/Y+7jnytGW
+O6cjCwHFxFcw6KIh4IeRyqNEGX4NTJagGMv+U4YkUUhWNZoADljjxqCiwoTjjRAKVCU9tBoh
+8pQnmKVgQ0q+HmKgT7V5ZZUYJJDtPoXigxoih8KqiEoM6AyDIidYzTEnjTEJK3LiQvGgRE7Z
+Ypj5n/SlT1JZaEZ90bF1/wBlbhEwFzjGHADwxOfhXV/E349ij+Jy/wAlTlgsvgfnbbR21r3M
+wX8L5rZlyDcQxOEb3xhyua1xBQkcUr6E17zyLtOL6BG/3Fm65uLiyidFbSSONvC92pzGE+kO
+PEgZ1bkZR16t6Fa0yziR0bHOEbS+TSCQ1gIBJ5BSKzKrtMLbU6UqsS9xqFxbqeOGI9lVtSi5
+OGJa0lwPGhxByJq+3S43u7tpNwMUTYIYbRvQhZE1kUQDAdMYbqcmJJxJzNU48CxqF5cjXyN6
+wM7izb47uVu2yyT2rXOFvLM0MkcxcC9rSQHJmASBzp2tdBaNx7twIhT4ValoNJ8UOQTBKYB9
+wSoQVFNLbyNlicY3jJ7ShFNVtOULaqsoZ18j5HF7yXF2JJOJJ50G5GrVLYQCWnWAukg4hR7a
+AX6Bd9fybh0DJDDEbeFluDBGI9TYwjS8NwLkzcinjjTWvMFWPFwmG9XIIR7RSlh0IlADJC03
+rcrG2ms7a4fHDONMjAcEOaDgta8Xdy46OlbNK25jy9LHksrWSbQGNczwOJwaFA/GszZo2Rat
+27B3Xae1dn7rnubJ9vvE13DHBHeW75Yza9MHWwP1DVrw8qxY+6r5LUh+0teOKq07lS+NbBCd
+7V7Yve7d3t9l26aCK4uXaWuuZGxMGWJc4hoGOZIFaup1HnvxTjd/RfzMnd7levTlZN6pfv8A
+noiOvbR9jeT2T3skdbyOic+M6mOLSitPEVVmxPHd1mYfguw5VkorJRyU6jIaFxKZ450kDtj7
+7O8ibA6W3fG25b1LZz2lokYpbqaSihQQoqzhZRK3Kvu1cw9tw9kuxs2WJjYrpu9tunmeZz2G
+0daGMBrQxA9sgeqlSCKtxW4srum38C0bLvrxZs7aklbJby7jbzOnDiG6GtLCAXZDFcq9F1c0
+tUnSVr4OJ2uutcvHXi/mL+7209n7Z3CnZl0+82yWOOSOaZoZIXvYHPBDSQdLiW6hnR7dPand
+VV9f0uU9dH+40/is1rJrVpRuoe237zRP7UO8Dtvct/2ZdShttvEJubRrjgLq3CoP+qPV7hXh
+f8u6P3OvXMl7sb1/+Nv6M9Z+Jz8cvHxf+aPU92MCTxNfPD1SIxzPU5TxoEGXhTgcahBhxQgL
+4CiVsaOeHOoQUCKgDq+r2ZVCH2rDH3UGgHzlxI8waUIz1PxTKngWSKaTmvLE0AoOhJ6jmt5Y
+0owZEfWvuJ9lMCCUtSCV8edQZE3ZHEAf50rASO5WY3DZ57VwUPY5pHMEJV+HI6WVl4Zmy0Vq
+tep+fXeXbc20d23EDgA6Kd7XBcUJIBr6njayVrkWzSPnl28fLG/DKfv0EsTfU1AHH/C1My0L
+upZSVx2oBeHGsp0kPxRA2pn6rNRk0dDHWiLqyTTwzoEsdiic8v0AehpecQMBnnTJSLI/bxOu
+5Y4IwBLIQ2MEgAk4AL40GHYd3Xadz2W+m2zeLOawvbc6Z7S5Y6ORhIUAtchGFRV8krkVlKcg
+Z4UR0d0t6evWNSlpjxUBM+VNGgvJzEHEoBkW2KSUO0NLtDS4gAlAMyUyplVvYV3Vd/I2MKUe
+T7hitQMinxvheY5mujeEVrmkELUagWt1ZSth21fBHcwyXMfWhY9rpYgSNbQcWqOdGrSeomRN
+ppOGL3Ge2ur64uLS2bZwSyOfFaRlzmxNJUMaXEuIGWJqWcuUTHVqqTcgyDnQHCZbe5bbxXsk
+Do7eZz4opdJEb3xBusNORIDml3nUnURDtjd28VxZjcrd17Y283Vms2SdF0jHJrYJQ1xbqDc0
+KUrrvGjYQR3zFBpClGqqDzpwJnWFzSC0kHgRworQD1HQCPmCLiFpoBI4x0AjkErXOeQkTmlA
+HKMxxwWnrxhyvkV2VpUPTyLfcXV42CGeZ0jLdhjt2SOJbGxS7S0HABSSg40ZdtxYVZaQ1q0F
+rg0EgggnEYcxTbQTccLkUjBcwMB8K6GLRFcCZJpJWta5xcGYMUqg5Dwq1WbUDVqkyzdgb1Z7
+B3f2xuobK24tdziN1IXNERt3Oa1AEUOQuUkolVfkcdcvVtSHydbL4bafWS3rWvXKrSuK4v4z
+Ov0P0CvWoXY5E4V8Vqe/ki3AuB4ZFaLAhmRBlieRqIjBXIE4nGiViCCcwaBD4kBahDgcFBIz
+qAO44L7KjIfFDkaUJzgvt+KUwCEBJbzx40CBsD9OZX05cqAwdESXhxVFXGowwStuQoQZ5+VC
+QomLNx4nCgAnrKVqFhyOFNVld0ec/wC4LsZ1nulp3fYW4kiLhFdtAOkkYtLgOB+U173/ABnv
+K9HhtutV8vJ4n/Iepxt91bW0fzPPfdUEW9Nub23tWWbi5zxaQ6jGwcA3USUr0ufHK0OF1cvC
+2pmckbmuLHZtwNc1qD0FbSJhPqEeWo4FUxNBDP1DrmznsbueyuQGzW8jopmhzXgPadJRzSQR
+hmMKa1WnD8CVsmpXkQ5skLmlzXMJAexQWkg5OH7DQQ0poeu7y63CZ11fTyXU701zTOc95QIF
+c4kmrb5LXc2csrx4641FUkvgDLhgfMUhYdgY2WZsb5GwtcUdK9UaOZQE1EpBa0LaRJQE6So4
+OqMKFsuJoRJ0JXR9VpjkDHEamnNpTMeFGuS1ZhtToB462iVMajS0g50FM+FQjR85znuLnElx
+KkkqTUIlGx8RUJJ2iQfNrIy2iuyYyyZ742tbIwyAxhpJdGDqaPUEJCHFMjQ+AJHrOWzY2dl9
+HJK10LxbCKQM0TH5HO1NcrRxaEJ50yEsn4GbaKCS5ijupvp4XuAkn0l+hpOLtIxKcqTI2qtp
+S40XqW4a1teqs+NW1LiYXlx5j0GXaWuIBUAlDko540yK7QnodDwgFMKPNe6RzdRXJoU5CnWo
+uiQuSN0cjo3EEtKEtII9hFM6wKrypFm3kiRs0boy5oe0PBCtcFaQvAjI1YqlbtIlzCSBTRLI
+mPGIlpT3Gt+NaFasClha5MqNVqWySN7tZstt2reGXtrMb+SZos4ZdVzbm3c0LPGg0B6rGVOo
+LT5Ly2oa4xr4c+n+o1GfomJzPY28jsXviic7zLATXxPJWLNfF/zPf0c1T+ALgQeGVVjDEzUb
+/gUULYFcAg1FeKUwg2HIKBD5zlT4pQAI1VCH3DJEqEPmuHAZeNQh9pany/lXjmtAkEKzEkDh
+UCEROaiDAZE8aDCSET1GfgCtBhWxL22DWk5oFNKMSto8AoqA1AMmIHoQQDUqxbDm87VZ7/tc
++230bZbe5YY5A4ZYYEeIrZ1uxbFdXo4aMXY69ctHWylM8b/cfsLcezN0mt5oy+1mc51vMMnM
+4Y8xX0/8X+Sx9vHK3/uR87/IdC/VvD28Mx3e9qhmkdNAdL/zA860Z+uWdXstaPYqk1vJFJ6h
+xzrA6tHXpkTQ80ekH2VIA2EtM92oc7X0o8DI7JjBg1uo8OAFPSrtMfMrdlX6sGcgGdJJcjhB
+HH/WoFHZIpIXuimY6ORpRzHAtIPIg1CJoTiRQbCcxyJ9lSSQFssA7bJtzN1A0xTx27bNzndd
++trnGRrQE0N0oSTmRRjSRXf3RAJySgNIrSp86YDY4xsQbIZdWoN/SDUQuUZrwRaaqUOfoI29
+I+pxjNTtK0qQW4CXWZ/KUKKpwp3jaKVmQOQFAcccnYZfvpC1MX9VAyzmtXQCSV8jHw3OpwdE
+G6g9obkdahVyTCpPgEayCgLiahBbWqKZIDY6C1sWgN9ZcpcSEQZAD8aeIQnkcjCkfGrKoWzJ
+S+3Dcd0fFPuV1LdyQQRWkL5nl5ZBAwRxRtXJrGgNaOAqylEloilsdvb2C9tNvto9vt7SWyif
+DLdQaw+61PLw+YOcW62g6VaBgKatNWxVoPbTttzuV5BY2cfWuJ3iOGFub3HIAV0sNNDPlycV
+IBdxNY5wcMcQEywONXcS7FaUSO3dsST7s3aN1fLtm5P+jdt23z20nUunXUkegDLQ0xv6oc7A
+tyzrF3M6rTktaqZc+k/6qDVhmzSWsuD9B7qIQxMY0hGAMQYfK1K+KzLPoaUIAA9PJDUYAecg
+g8fHxqIWwGcXOHAHD240wgySAuOVAhwv5e0VAMSHEkIEGIUVAHQfDDjQZBOsNUNOWONCQneu
+3l+VfZRJJCM1Ki55cqhAmLEhXKMv8ClGJCHCTSuBK+dRkJq3/HgaRliJK3LQVPClIyXifgMR
+7KKK2SFvNgAcRxqxMRoie7+1bDu7an2F8wEosEqAmN4xa4KOefhWzqdy/Xur0+vxRh7fUpnp
+xsjxJ3t2dd7N3Febfubhbvikf1ZWx+nScQ4NamBX8tfVvxvap2cVbLZo+e9rFfrXdWpM1vIA
+8FR6hn4jn7KmbEasV4IyWPQMMEzrG0oNlLSDB3GqS4ld6uNtvGWE217WzbGQ2sVrd6Z3zfUX
+MY/UuCJCrDIq6R6Rwo8XEgxzLTZFrhQLB69v7vcp/qb2V002hketyLpjaGNBTkABQBWqrsWX
+7fbJ2jvu9S23e3cX/wAb22G1muBe/TyXLpZmAdOBjI8nSE/McBWHu5clKrhXky/FVN6lcvmW
+8d1My0f1IWPIikT5mg4GrsLs0m9wXhPQHRpAIXUuOSJWhFbYsNFWqpU7BdpZT3c8cMMbnvkc
+GtDRipOFX48Lb0RRlzKtW2xue3khe5kjS0tJaQRxBoXxNbjUyJrQf27b76/+pisoOt0IX3U5
+w9EUQV7lPAClpjs5j5kyZKqG/OheO5u/9o37s/tzty27ftNuvNjjmZNuds39a7Mr9YMznHEN
+yaOFbM3apajSTmznXasKIr8HuznYuneuSZUa/Ny51+WyM4lPrQceJrnRqdWuwbtuy3O5We5X
+9vPbRDbI2yywzzMjlka92lIWPIMhGZDcQMaeuNuY8CXyqsJrcj2jEYKKSBwm4dDLcSyW0P08
+L3udFb6i/psJUN1HFyDBTT1roLJ81hPj41bWukCOw9EzSVqytSuzJK7sZLC4dayuje5oa7VD
+I2VhDmhwRzSQc8eRwq9VgoVp1Gmt9KacRxqyqI2S31VpLY2VrFZNhnt3Pdc3oe9zp9TlarSd
+LdIw9OfGt2Mz2UNuRrcW2nUMVvrewu/TkeNJLUx1NxzPjWm3GYrqhcDvE23Ln9ndi3Tun7o7
+HuG4umu4LSUXMl5O50gLbGMFket5Py+hoauASvM/5Lb7HTvZKFb2r0l7/XWTufiuOTPWnmvu
+a+B7WvQAxvjj+6vkqPeEc75SCczRYAKYDQoOOPs+NQVoDe4q45qcfdREYw53LyqAG3uIag5f
+4xqAORu1EBRUILcdBJIyGFAgxqIIafaQPbQCc6rkz/Ki+C0wIIthcB/uOS+VAKCWOKhpAwxd
+7aCCSEcg6mGBKJQaDJM20nylcgFSlaGTJCF2lTjjz8aWCPYloZGkNPuqJgaDGShj2knB2FMh
+CQimCaXFBxP7adCtGTfe77fHuGw/r+2x67+zjSaNoxkiClfNten/AMc/Jfav9uz0tt8/T6nm
+vzvQ+5XnVa13+X+x5K37ty2j2u53f6yGCaGWKFu2Sa+tMJA7VJGjS3SzSA7U4HEItfQ7xasn
+kevkatxZS44bOR8gu5XQNEbix7Gh6yD5QQowPE1zc1XV6HTrZwQhIEjkOC4Vn8m1bHy8aA6H
+ZGNje6NkjZg0oJGLpd4jUAfhUImfRSvgmjmaGudE4Pa2RrXtJaVAcxwLXDmCENC1eSa9Qpw5
+Eue5znOKAuJKAABTyAyqcUSQi1v72ziu4LaYxx38X092wIkkQe2UNKg/mY04cqV404b8D1yu
+qaT/AFKGcgSOTVJEJQAf03lwBUID6SDhnWnEoctSZsjlaOAqxs3zStGgvyRqKvurV18PJmXN
+mSW5sf23+3W/77v222W27RcXT33ETnlkTmhrGuDnkvKAI0HjXdssfWx88rVV8TzmbNbM+NNX
+8BH3H+z/AHR21f339R2a6telKfWInyRHWr2gSNBYSRwXCqr0w56c8Vk1+3gu63ayYmqZFBj1
+zBNbPcx7XxOGD2uBaU5EGuPko0d6l1YDfK4YLjWV7mhKRguJKnM0VTUYelgZEyJ7JmSGVupz
+GqrCvyuUDHyp744FVpPonaWvBY1xcEBcqtxBUIRjgmNVpEYtmeNXUQlg2CB8p0RtLiAXEAEo
+AFJwWr6Ub2RRe6W51oxHvopAYZIyPWDG8vVoLnFcznnyq+EUJuNT5mGrAFQmP7KsqiMOdZGG
+SFrZop+rGyVYXKGF4XQ9QEc38wrXiq2VWshu5YQwPecQCreQH760cOKlgxvWD0V/a12q6Gw3
+Tu27jIduDxabe48IozqlcF4FwA/418y/zDu8r1wp/p9z+b2PZfguvE5Pov8AU9A37mnJOAaf
+DjXi6o9MyLkJ0ciT7aIgE92Gk+4edEVsFkVDgpUhKIowcCefKoAZkxz4caDIJjIDgvA4moAW
+SQ56BajIMEuBDjiuSUoRvqFMuC/GmgBHB7hiRxzoBCRJ+qFPJMagQ+BC4uJxdn4YIKjIS9tI
+gHEkIaQKJGFyouRTOgwySULkC0orDtQc3HzFMiSFwSAhOIoojQW9kdzAWSDA4FOXKiV3rJ5e
+/uC+21ntNhddz7SUiYRLcWQbiA4o5zUy5mvbfgfzl7NYsuvpb+v9TyX5T8TWr+5j09V/T+h5
+PubxrnF0GCqMa9DlurPQyY8TW5HrjVJqgcYaDIOBB7aAGLkJcA52kEBrQGhMAEXCjVJINruz
++ggZ40RRSOXGiCQy5vrm/mE1y4OeGMiGlrWDTG0MaEaAMhVyu7OWUrFWqhfMsPbPbu/b1bXF
+5s0Msws/VN0mvVrQFJVoOAGddfo9fJertXRJx6S/RfE5fd7OPHZUt5Rp325+5/evb277PbDe
+dxt7aK9gDoXzzNiwkCgglMs66lGrp1yVmdPcv6nJz4K192N8Y19v+x991PvR3l3Rv25tvd6u
+XD6iWEQ28r4oNDHlo0xsIGIGJzNZG8WCn28Sj+L/AH7mjD175bfcyOWzGdzubm4nl6wkMg/m
+iQO1gjPVqxw8a5eezbZ2cNEkiIA6jiFTiTWfHj5GxuEKjt3yS6AFchcQOTRqPwFXUxN2gFrp
+KT5sZwUItT7ckdhxrap4itjzG8qsqitssfbPcEvbV3NexWlveGaCW3dHds1tAkaWlwHMLhW/
+qdp4G2lMqDB2+ssySbiHJGRNdKQ1C5xyTPAVRVSXWcB1vY3U8scMML5ZJQrGNCkj2VpxYrWc
+VUsz3zVqm24SJaXarG3sGdWSZu7dZ7bixfEGxMgDRocJC5S8uVRpRExq9YLq7TUKPrP9ClZ1
+ZStvUK2zt+S4ZPcXMgsYoonSxyzRv0SvCaYgWgoXcHHCt9OvkST4uJ+X1M+Tt0njMv0Qxue3
+wTW9nBZzGe8vXiL6drCNDi4NAJOarwqd11pjmR+pezu5WiPb3ZuwW/avbm37JbNVljbMgGHz
+PAV7v+TiT7a+CfkOw8+a13/c5/p/A+qdHD9rGq+i/j5DLwkv4IAg88zWaqNlgU4sI/0WgwIA
+ewhFw5+dFCsGeEai++nSEYO92Kc+GfxqQLIy5wJ5+PGlaDIlgOOKJRgWRWOvBSEwoBGpDq1A
+DL91CCSDo/lw0/5USEW1yx6cQFz4+ygELjLSQpyPHOgMg2GUag1UTx51GQk7Nx0hcTSkJW3e
+pQ+f+lBohJMfiAceIShAQ+FS1AcuFMKPM1YpmMakBkOt5SjfLGiAiu8dgh7l7b3TaZG6zd20
+rGDjq0kj41p6eb7eWtvRmTuYOeOyPzJ3PbLnbJ54Z26RDPJbqcCXR5jTnxr6UqPireGeUpkV
+nHmJI9UOVIWjsXOgyDozSgRkpsNjY3+4xQbjdfRwFzddxp1lrVxIaS0EgYooWrKKZM2e9qrR
+SDXDLaCeSKD9VrXEMkdkRihQcaZwg15NajbwdQ1IRmPH3UGx0kfNa4kBgLjwaAScPAU1U3sR
+tLc1H7S/dHfezD3Ht9puEtta7vsW42c2gq7qGIuiLSVLMWorUrpdXM8nst7lSbKfDS3Ryu51
+lX310dmqv5N7GfW24zRPbIXnWHLqJJIPE40uPstat6mjJ101EaCX38pufqY3Frw/Wx4za4FQ
+RSvO+UrcNcC48XtAu+3rdtxvrvdL28muL2+1fWXUjiZJdYR2s8VFJbNZtudWPTFWqSS0WxEN
+imkkSFjnkZ6AT+FV0Vp0TL3ZJas0r7cfbfuTuy8mi2/abi4mjtbicxNZ+oYmxkPeGlCgWu70
+8NaV55vYnop8tnD7/cn2Yve1rprtqV3dthurCQsZayvaMNYaSv8A2abs9W2PTiy7q92uRS7I
+j9u21l3JOy6uW2To2F8Yla5HuGTMMiedctYlZufaa82fik0uXyFWVl17uG2fIyJssjY3TSO0
+saHOTU5xyaMyaSIBa+mg5LbdCeSEPbII3uYJYzqY4AkK0oFB4GnrWRHYeZbvA16SAMjlnVtc
+ZU8i2JzZt33Lar6PcLWQddmgNc4KgYmlDgiJXQ6uW2NyvOmph7OCmSvF6edCasrqTdt/+v3M
+CWSQlznOUN1cHEFfOut1bLJmVrr+nwMGen2sPGho/dMvZcvau0xdvSXT93lhki3uOV8T43TC
+RQYgz1IW/wAWVbqvNORXtW1G/Zx3j0ZzKqqtRpWTX6p2+EEP9qe2W7337a9SAOttr/8AOTE4
+6XMP6bV8X6a8b/l/aXX6lkv1X9q+u/8AA9d+BwPPnqnsvc/p/uerJSYYwGn1DE8lr4m9WfUa
+6Ij5Hkux4UzDuNvkwOKeVVwGQCQlTjxKjypkKwaYhwTgDjToRgzm4+nHwXOjIsDQBPpTGgyI
+60cSP8eNQDF6RiVwIoMIO85gHEDMYCoCRHq8Pjn+6jACDa4FCMSpB5eGVIOENLsE4qlAYNjG
+OtQNKE+QqEJK0J+cceWHtqAJO2kxUHzNK0SSSY9QKCDJJW8mI45KaIGSIQlx5j4URWxUXpx4
+cKjCgqJ592OPhUruO1KPz3/uJ2GLt/7qb1BasMdvdPbeRtARoMw1FPbX0P8AGZnk69W/kePz
+Y1TLavxMt6bXQySmRocx7Wti/M4OBJI8AmPnXR4Li3P0KuT5JR9R61kMD2ytAcW46XBQfZVS
+cMl6yoOtdiTpBVc/GgFrQ62RzHamFD4UUxWpFMV8occVKmmW4r0RMdw7fYbXcxW9jucW6h8M
+M0lxbxyRsY+SNrnxJK1ri6NxLCciRgoqyySKcN3adNCLhfPCRcwPdE+M+iRhLXA+BCGhS1qv
+lVw0W3Vbe1qUxdrcOtnSvb8z4pIvZINJ/GrMOR0l+qa/eLlx84Xo0/3Enb29lvt/tG1bVAzb
+riaOO1u57q5AhkuC9365fJpETS0hQSgSrqKuS1a19ra1l6T6lN7Wx1ta3ujaFrHoRs8DreeW
+3eWl8L3Ru0OD2ktKFHNUEYYEVU6w2i1WlSN0YDJ2Jha4vYS1x4tJH4VbRQJa06GhfbnvLcu2
+Nza3bL2ezubpr4WXcEjmPBkaWFuocHAoa7v47PWftXXLk/Ouvg4X5PrWa+5V8XX0008lXuZZ
+JLqR8kr3u1uOpSuedYc2Ruzl+TdjqlVJLwNshkmmDYg6WR5VACXEnE4VTxbYzsktdEPshT5h
+5g1aqiOw/BA2WQRlzY9X53qGjDiQtWKssrtaEERRqRqUkBADw8KtpQqtYk9r2m63O5isbNgd
+LMdLQSAMfE1u6+B3cLcy5+xXGuVti1x215um9mx3+9bZz2sP031E3ytFu0NYwpigA0iuliwK
+jaj/AO2NfV6x8znXyrgrV9yfrIBFJLD1XsciKNbcyMj7DV9NJfoS1VaEz0f9ktn+h7Nt765t
+Yobm9mlndO1mmaSLUkYkdmQCCWrkK+Mf5t+T+/2vtr9OP/8AL/6aH0j/ABfo/bxPI977f/Ff
+76l6u5FcmX8R868Yj1jADj6lUc6jAhMpQE8cyB5UowA88QnKmEY1I4YjLzp0xWMkrj+2o0Ab
+HzYoooAPmITq8PwpkK2LcjWk+3nSh8AjzgRipBxooViF4p8fZUCQcLg1oAGZT4VWOFx6XuJR
+OX+dK9BgwHgSmHqFEgXbvLSGk8M8akCySEEzQ5PfUISMcmXxpVuRkraOywy40YISUchdguRx
+91RACYyEqMlR2MesBU4VEPJ4q/u7h0fcSyeMprCNxHAkEtX9le5/BXb68elmeX/IVjO38Eef
+NPqPnXaMsjwUVXAsiy4uIUIgSiwJQS1/2/vGw/TS75t0tsy7giubZsw0OkhnaXRSt/2uAUGn
+dHXVoqWat9KvUjHIXktBa0nAEqg86QtgWx/qDnkkDDP4UUwOumg5lCj41a/+VIuAIPq8zTzo
+JGu/zGw0AqV0rimaUEM2Oz/TOnkNq1zIC49JkhDnBvBSAAaeyq7Pjt8SunJVXJ6/A+QDAZ1d
+VCthMV02KzmtHW8UvVcHiZw/UYQCEa7gCqkVdW0JqCq1G7K0tQNsGHKlkLDdseYL63naQDFI
+2QF2XpKpV/Vzcclbejko7NeVLV9VA/E3VcOe5ocS4kMzBJORq1atsrs4rAVama0nbcW8joJo
+zqZIwkOafA1bWsFV2rKHqhwQuemn1F2Z8TwpuEic4J3cO2nbVtO37o+5jk/qGoxxROa4tDCQ
+dSFWuBGThiCorU8HFSZKdl3u6xohqCF1y4uLQZHAklQ0I1vL2UztWi5W9Utp3ceB8eK17cKe
+jerS2Tb1fw8edlqF2+u2eJIXlj25OaUNdLHV1crcxXiyh7BU1neOjhvLiGQR3Zf0Lh7SGylh
+R+lxwdpJxTKrq2Vm1PuW/wBQL2rTYnO2u3Ze5+4Nt7fhd023Mi3Eg/JBGNcr/Y0H21i/Nd9d
+PqWy+Vt8/Bb+O6z7GZUXlnriIQbdbwQWrGsit2sbBEgLQxjQ1rSPIV+fMuS17O1tW3qfYcGJ
+UoqrRJAE0nUk1HipciAY0ha2MtIJDVAGJBzVOFKxkDSvJJJNQgA8khFRadIRjTjwXMYU6QrG
+no1wLqgohAqIuHE0CCgQ0p4cOHtooFjoejST5JQaFqxknPioNAYTpPOiArbCg9JAOQTzqssQ
+TEZGlV5FKkEkMEjm/NimfKpBJC4JQUxx4CpBJJG3LQMOJxoAJOAhM1IH7aEEJO3kRocTz/Co
+QPt5PWeRqAkkIipABqEQZGmtSPSMkoIc8Of3YX4uvuiLVv8A9nZQs9r1fh769z+DpHXT9WeY
+/IWnNb4QYWg1KONdlmMebK8RugGkte5ridLdStBARyKBjiFQ+ylBC3CWbfd/TtuzC8W7naGT
+EENc4BUDsiUxq1YbceUe31KbZ6cuM6irm8vdwmZ9dcvl0BsTHyOLgxrQgAHAAcKS1m3qx60V
+V7Ud3G1gsrp1vbXkd8xrWH6mEPawuc0Oc0aw0+knSSnDDClGo21MQFs2e/sobbd9wsXu290j
+CWuPT6rTijSMQDlqrS+rkpRZLV9pm/8Abx3s8dLe+AB+l0j3Rt0McSWsVSAchWdmhaLU+0r+
+ynSFbOhoFOkK2Olpb6XhHALV6KpnYsvZfYncPf8AuNxtXbUMc91bW0t4+OWVkQ6ULDI86pCG
+hGtJxNacWB3rZykqr+eiM+bsrG6ppt2f8lL/AIFfYzBVw4CqUixsuvZ2ydi7ns3cUvdG9XG1
+bvaWf1PbdtHG11vdztJ1QzPKlhIQsTPHFUrh9m2dZYS3/b925vw/b4yyJ2iCzfe2/wDUOoy0
+a4OunQN1SCNcUXBa9T1U+K57+Tidq0Tw19JDjYi7vHw7U10jAx8sfU0scY42F7nFSmAB860X
+hfIy0s49249Dd2LNtfC22P1rpY3MutfpEbWuDmliYkkgrwSr01HxK7Y7O0t6B0ux3P1G3Wlv
+cwXcu56ehHFK30Pkk6YbIpAjJPM5Y1ZZcFLeiU/sivFk5eID9v2wHc27buMn0TIpTBcul9XS
+Idpf8uJQjhXSwUrZqNF8TJnycU2tWF29juLbPdJ7S2N1Y2/TjvbwQB7YgZf0jrIPT1uCYELl
+Vjxrkpe22u/08/swK8oH26e3ZdQt3JkslqSskcD2tk0k46C8OaD5to3tZJ8Y5eJ2/hAXVfQ2
+v7JFksW7yttoP5sTWXLogblo0u9DZf4CiuaBia+ef5535rTCvVt/TY9R/iHV99sj8KP37mp3
+E66nEpjjXzGD6HOgG64d62go0oCOaVGgyNakCjHypWMmDyvCBDwx86EAkEecuKc6dCsbJBII
+JIyogGSDw8saYB8pyIXBaEAOFy4D21AMSHoEzTlUYEJDwcCgHPOgNB96E+Y5L8c6gJK6waQS
+Dip4VXI4RG4AgghcqEhHg5TnhlUAFQvTDJKMEkkYJGhFw/zqAJOGTUFRMc/jSwAk4XaY2gew
+HzqBDIZEdhiBzowK2ScEqlCMPjQCgm9v7ba9uuNxvZWwwQMMkkjyga1uJJp8WN2skiXycVJ+
+d/3f71tO/O/9w7h2xr2Wb2sgti/BzmRt06k4ascK+gfjsLw4VV7nluxZXu36lJbPMy3ktm/y
+5HMkkwxVihuPL1GugsllR1WzifoZnROyt5Ur940MaqHJF277lJtsOzyXMj7G2e+aC2LiWMfI
+ge5rcg52kAnwpvu248Z0K/sV5co1E3fSdKHQw9BukLHrL8QEJU86OW1W/auK+ckwpxq+X8Bj
+mKQsLFuHe/cu7dtbb2hf3hm2jaHySWFuWNWMyoXjWBqQloKKi41qv273pwe2n8NjJTp46ZHd
+LXX+O5B6HANcWkBwVpQ4hUUe6qEi9s6M0ypxGH7hdWN39ObSzbZujiEdwA8uEjwfnQ5LWrJk
+reIrxha/H4mXDjvSeVuUvT4fAEDSq/jSotbC7a4urRznWsz4XPYY3ujcWqxwRzSmYNW0vav6
+XBTkpW36kmSNjeQs2242x9hFPJcvY6O8dq6sRYuEaENRy+pQcgiU1NoKclfdynYVBojc2O7i
+1thDvQ06TjjiRVyq9PgVW11q9yR2u6vLBk09jP0H3DDblg+Z8UgIdieBGBrVilGfMlZpPwJt
+IGzvLHyNiY0EukeukaQSGqFxKIPGraol7NLREyy42V+03G3tsh9aXxTW+5ukeC1rQRJGIhg7
+UuZ5VpXFqDJGRW5N6eg66ximtob/AGqCSCO2hYy+fM8HVOSQ5zRwacgKvx08oW2VTxtrJPnZ
+rB+2bO/aLme83e9Ep3G0dCWsiOpwY1jyTr1MAcfNK3Uq0pj6+pivliznb/f+ICXXQYbSN5Yy
+VNbGkhrtGILgMClWtvYFY3ELtbLkPjiuBEIA17HSMe83GhC5pDQAwyYhqKG4KTjWWrtWXdp6
+vbTTx53NF3yUI9Ifbzt2Xtfte2ZdMDL+9H1V0zNzeoAWMI4FrUXxr4p/kv5FdvuWtX9Nfavp
+/ufS/wAB0n1+sp/Vb3P67fwJ6aY6CqFQM+GNcA7qB2kkuKqtBhR0nSEGK/mC0g4xKcFXPDKo
+QCneWhAuFOkK2NCVeKovmgpoFk4Xg8MOdSANiHSHnhlRgBwPxPNFSoQRqBOBTilAVHNXoIyQ
+HDOoSRXW8W/xZipBJK+wqM0+FZy0ejcNQPLh41AjgIc4DipTyphR+FcgchjTCskYSvzHL2mo
+AkY3kAJmuCcKUIdBK8uQlVwBoEZJQyBoLnLhmKeBCXslehVQTjSMsMH/ALpu+JbG02vs2xmM
+ZvQ+73ANKHpN9EbD5nUfZXe/EdaZuzm97NrxR4/nh+mebd7SJGOdqeT8wKaUFevrZOqg4bTT
+Yls0rIpYWORkunqN56So+NWLJZJpbW3FtRNpvdCG1Wwi0OBQgEYeNCCSPNUgKppWwpHHBDUT
+A0KY0lE44AU6FbCAwjU1zk0A58+QSrkip2EolQgdtce0vknG7zTwsEMjrc27Gvc6YNPTaQ4t
+AaXJqPAZA1bSPJTldlHEZ0O0tecQfSvJKcE6wEw2sshjAAaJV0FxDQdOdOqtlV8iU/AN2s7c
+y6jdufVdbkOD+gQJAUOnSXYKtWVvVNJ+SrLWzr7RwWdy6xduBLej1hAXOe3W55bqwYupEzKJ
+41Ys1ef2/wC6OWz2mN9vpMh+2+PLxMfstw2a/nuHQ9RHRwNZFHEGtaNDMgdIxzzrarGJY0p9
+WS+5b9u1+LmARx2NpdPgkuLO2gZBE98MXTY4tY0YpieBJXM0L9SlsyzOvvrV1T10T1a9NSY8
+1q4vtcprM/Vaf6lig7fv73ZdlY7aI7aKSWeKO/ZhNdyFzXIRqJIYulp0gcMUrsYOty3OTm7X
+FtpyW/a/t8LrtneN7gnt+lskEdxc2lxM2K4mErzCXQMOrUGPHqy5ca1ZcuPDamJp8sjaTiVo
+p19JX7aGPG8mXleUlWPOurjT1KlBFJOIrGJ5bKS8ggkg+nBrGtC6iiDnV7tC3GhNzA1NM/bt
+wuWbNdXEFs9k8UU90BbyywlpZKwhrnBXYtLQTyrnq/Kq+5xbUPTVJ+Gp/eja6+VJrH2l7FfN
+ZR7v3Nt0Qt23DLvbI5YiLmVzWoC5xyhCqGp6nY5V4T/KP8lVavBgc2f6rLx8Pn/I9R+E/B2y
+WWXKoqtl6/H5fzNcu3udK+V/zvJJPnXzRM98qwREqF2XtoyGD4I0cqVjpHHI0UoQaQkkpzTy
+opEBJMSnEU6EbGQEJOfOmFgQVU41AQcLinq45VAsSCCQOIqAEOdj4DDHyoinC7DU/AJkD7qB
+BrUE9qIlGRSJjb6SU/yrLJfA6T6lK4caiCx9pQhMfPOiAIjVBwphQpjyoDcFxWiCSRgIdgSp
+/ZSwAOtpY43gnIYJUhhlEhHreAT6S85DhToQsFkRBGNaDSCT5czSpSwtwjwd96+5HdzfcXdr
+wPLord4tYBwDY8MPaTXtOli4YkjhZrcrNlHd0r2FpmDnTwuBABQyRr6mqhQjhhWzHbi48GXI
+vJHXJhNzO62jfDAXuMMUrxI9jF9LXPDWhxAwJ0heQrX4KxofjQkDFAk8aDYIC42FwwFZ73hl
+tayj5zXM9QHsIWpW4LVO3FzLcvbJIGhzWNZ6GhgRuAUNQLWq+Z3cuPooKKYlRQv6iWvSjW0B
+dRwFcasVpFiDqhcPdVlStj4Ba1rnH5woxBOaY8qtjYqbkeY5UBxTIU9Spom9s2bdtygv5tut
+jcR2lsZ712lrjFCPUXgHEZZjhVfYrW0Vb466MWmVVsvI92/t1zvO7bXs22tjfeX9zFb2zZC1
+rXTTPEcbXOeQA0kjEmupRpL5GXIm5+IVcwz2u73UO4RCOe3mliuLdgAaySNxa5oTBARWmttZ
+M9qxWEW/ujujcO+pWbruFhAy4EFrYyX0EJhYBas6cYDWHTqexvq1DFMErZVK1Ul4nX6yYv0W
+bb+i+Uf6E/aXmx/RWGq5nklgtGdWCZoEfXEpD44y1yiPpodWequr08mSLK8LX2x/xjz8ZOR2
+cS5e2fj85BrvebTrWzL6F0m2WsodcutGsbJ05iHOZ1EILkCM1/vp+xksk3V+6PM8Z+KX8YG6
+2CYnT+YntDZN67q3WKXty1umutpy8bjFMIWwAD9Jwk0lHNejihUjAJnXnPzP5vD1sb5tTZfp
+3n1Uej21+p3fx/4vLmtFFMefT6m7ds/a7Y9lkg3Te5Hb1u0TQetdPe+GOUkvkfHHI52LnuLy
+TxxCV8x/J/5Jn7E0pGLG/Fd36S/lp8j3nQ/A4sMWt77fHZfJf1LZeXYTNEyArzTZ6GtCHmne
+8jH30BgYuwVccgOBBokE9RxcSSPGgES+Xkn7aKQGMudj5Y41EgDLzgQCi0xGN8hUFY04gHDL
+lTAG3u4GoBidZXD31CSILk8QaAGNF2lUKqDRFE6yuY/wKgCNCnBEw4GspeLahPMVERhkbCUC
+IeBogC42KAT5UURhEcWPJcqYUMiajkyTCgAOgDVJcgA58aIGSsABR2PpxaOOFEVgneHcEOw9
+uXt25wDzC5rVOKuCD41p6uLlYpzWhH5/bm9z9xnfIS9z3lxecySVJxr2OP8ASjjW3B2kg6mk
+tIQginFHptG4YvRlzxecGyefI0cdnT5Fd6TqgZ9nHHbPklm0TteGtti12pzSquBRECc+NW82
+7KFp6lekfE7afQsiuheMkfK6L/yLonNDWy6m4yAgq3TqyxVKFlZxANib7YGyv3bbm9xSTQ7U
++ZjdyltGtdOyDV63RtdgXAZLWHsqymNzodW1ZXLYf7uj7bg7g3GLtV9zNsjZnja5L9rWXJhX
+0dQM9OoDNKHX5Na7g7PFPT0+hXUBJ4edbUjExKJhVqFYfY2tnc297Lc3zLSW2iEltBI17jcO
+1AGNpaCGuQr6sKvxpayzPltZNJKU9/gDgasWlfDwFWoVscaiLxFWoRhETgxoeHo9U0pwOZWr
+aFNlOngOkmi1rZCSBj42tlaX/M782SeknhVtsVb7orpa1fOoZFGI4nB0KvLWuZK13y4qpHHD
+CttamV2l7kzYMspbGQOY/wCsLsCT6SxM0IUlfGtWKqaMOa1lZf8AEmYbbd4dkbIIpmbW+fR1
+tL+jJO1qkavlLwHeYBrbisl7JUxMeY9fkZrpO3IMtdx2rb9tvba4sRc3E5jFpePcWuhDXK8h
+oKFQox+FbHlrjWpQ8dr230Ne+232lk7njtt576me/b2RMFhsTT0uqyJXRm56aYDUUbnjieFf
+PfzX+U1xu2Prvdza3x+B7D8X+DdovlXyRrUc0G3wCwsrWO0ityY228DRGxo4AAAAYV84zZb5
+LO127N+We2xYa0SVVC9Ad1y4qSVJzXLnVRoSI+5lDnY4EVIHkHcS7w51CbjTirSBhUCMkuGp
+CcKhBvUTj+NQglzwSB7aMAY05wxx8kopAYgPx5UQMTIcfKiKME8qhGNl2PKgAQoCp6VNQAgk
+aSTjp8KIpzD4LkMqhABiElOVZC8IjYniR8yY0HqHYNaCSP30UAOhYoGSoedOgMLjt34O95oy
+Bj7WgHSEU4AClBIbFE1jerKQ1oxKogoqQOCD37vzZtkjLeqHluLgDlWrFgdjPfIkYP359yrr
+uAyWbVZbn5QvDyrs9fqxqY8mUxbcQTcyPz1FRXax7GG+4EXEUQIWCHUQD4ma5vTuG9RowBOY
+9tTbYS1R86HXkd5HbQyRxiMOtADGx4Y0NKhpBVyK4g5mi3KhuCtLiMFkfSeZXOjuA4dOHT6d
+BVTqJUJhgmNDZ/AMyMySue7El3iafHRQS19ROoZJT8RZCLi1ZBb207biKV1yHF0EZJfFpKAS
+cATmK0Xwqta25J8vC3XzKaZna1q8WuPnw/kDKW54LSrQdiw48ONWplbqOBxOPKraMraHA4k/
+tq+pW0WG/u9jurPbY9ssJLS5gtxHuEz5TIJ59ZJeAQNIRBprcnVpQYa1yKzl6eB+zlkZOxrC
+mlhY0vbkM8QONasbh6GbLROupfe3u3Zotji7klks7x99cS7dFtnVcL2B7WhzZTDpHoK4ITjW
+rpZG8zxuttk+Ue35J+vqc3vOvCVZaeCxyw7vsFneWb90tn2vbty2+fsV89wM073she+K3eNE
+n5dYz0CtlrUx2V1XW6jlGsLWJ9PT4mXGnlq03EPbx+710IvtprN13G43y7ghNk26MsDDE1jX
+ysLiNDfyxNDlLMlQcK8J/k/5hr/qo3Pk9n+A/Fcv+y60PUX23bNu0zS8OLSWNA5g4IPOvmWV
+u1oPcJKqLZ3322zZd2ZeRsP01/GDhk2VqqD51fbHxBjvJR7hQ48QVC5Cq2XojJnrnglRBGi/
+0jGjARLnIg58TQgg2UI+C5USSDyORcTicKkAkZ1DNeYT4U0AkQSgTjRAzioVJxNQBxykke2o
+AaOfnzpWEYeUXSQEJJ4UQMbJwyxIQ40UIzms+7A0YAc/fShAw8Kgx8KywXSEwHFodmRiRhiP
+CpAWSERQj045rmBTKoJJCFwAcC7QWtJCAu1HgMPxowI7HfqDxOPjTCiZt2s9uZ1biQNKKvHy
+FRUdgO0Ge90fch0jZLe2/TYMGhVJI4mt+Hq+pRezZju8dwSXcxc95eXkguJrrYsUIyXKtuFw
+4y6g7FK3Y66FFiHuXOkJI4Z1fXQpYKhbgeP40zAmdFAIsEEJlRkDQoOc1C0pySoK0Fx3bZRo
+um9ZvDXmPI0NthHSRX9MhuMbSYNJyjky/wC1TLLG5W6PwC31vdxS6rmHp4AekDQUHAjCr63T
+2K0o0Bg4KlNIR4PNxNEy4lRg0x6zjpYMMPIVcrO7Ss/h8kUtcE4Xx+o28NDyGEli+knMioFP
+TUOhurqWzG26x9OJDO1hw/ULdKr5CrqtxBTdJPl5EwtGOtWlv5edX42LdhkbXYyMcBpQhcCc
+cgK3VXoZ2/DLJ2sNwud5tbSznZbXO4v+kiuLiRsMKzegiSR/pawriTWjHfi5Zjz41ZR6F8+3
+3cNxte5S9xGe2jutqAdawztdJ1ntcBoY0h7SSpKlAmK5V1MF/uJq2z000OJ28PBpV+ZN/dbv
++5707nvN6a2M31zcMgtmxQsbDoUBXYeolwHzDEViyrH0us6qdnMvX9vkaevS/Zzq1vL8AO1M
+DrmCxjwgjcGkDAOKq4+0qa+RdvK8lrXe7PqfWxLHRUWyPZH2T21ke3xTvCuc4n/pTLBOVczF
+VOzNGRmpd57I3eNmmtm/zAOpbPPB7f31dlWklOC+p57u4nB72SNLJGEsljIQhwKEHyrM0b6s
+hrhAq8MDQQwGXhAp8zTpCtnA8L+zwotETG3yH2LxqQRjMhaAcfZUSJIyXDVgPZRaAmIJBJ41
+IJMidSHLHnRgWRagn8aDCNuGrL/CUrQUNPY1q5FaiAxhxaQPalMisaKJ45LRIcXx8KUI2yEl
+6orT8tZi0PihCtAUu4ADPyqJBbJWKyLWtluT02dToyBPU1ELieSA0XaCp2GrncbPbgkRbLLE
+95E5+V7CEAIoVlgfxKNuveTYMInK/LVlWzH13bcqtlSKDvXc91euk6kpKnn8K6OLrpGd5Gym
+317qk9TtSnAk1tpQWSt3lyA9AcQVCVrpXQovbUZuBJM3qNCBw5qfhgKsq0tBGmwVoDm6TmKe
+RGhiSI48edMmI6jQY4Z8KIEzq86ARYKqDUAfEA0QHzXPjOBNSAEpZ71ND6HhskbvmY8Ag+YN
+I6eUBqSQbF27uQLRq22eRukua3qMKkE+knDL8qU1M+Skz7iu2BPYjr/tncLL9WHTeWpIay7g
+xb6stQOLfbVuPPW3zK7Va3Bt12fcNj3e82TcmNivtvlfb3UTHsla2SMo4B8Zcxw8Wkg1fjvy
+SaKnBLzbZ29F2fb7pb7q5++S3Rhm2gwoGRBqiUTa0KnDTpHDGtCiNDJyt9yHsQreq0gSMc1y
+LjyOK01btDtLwGwyGOUaS1xYVBAwKcca1Y87TM96yiauN1v92ltBeSNl6LI4IVDWtEcY0ta5
+ECAc66FcrtBj+1WibRN7PuGx2W1bwdw+o/rTZIXbOyHpm00hx6/VX1Epp0afbV2PPet01x46
+zvM+OPj5yUZcFbpb/t6h21XUF13Btr9L2tJdM5rirS5rDkP+o4VyP8p7X/Tp/cdH/Hut/wB2
+v9pbtoRl0pxeH6mrwr5zlWh7uu568+z+6tFrCyZx0P0lcgmRB99YKOLFt1KN7YWzw6SVAQsd
+zrXuYX7XJiX3O7eO27m3doGpb35Im/2zAZ+ThWSyhwb8dpXyMu3HUxpwxGK86iRY2RJmaVxX
+CrUhXYQJcCBw4ijxByOayVB4Y48KWBuQ06UqU+P7KbiJyGy4KQEU0GgpiC8+zjUgknweCQgz
+4mpBJFtcDgcOK0Ggo+LwMAcuNBokjbneHt40sEkEefamVMKNuJ4VICI8P8c6kAJbbmQvnYLj
++SCTIF0qAFRRzSsVnCLWw3dbvabGWQWTQQSHMOrUGhGuLSvEOB9lLRtg18la3DuKSVz3vf8A
+M4uKBGqeIaK0VwepXyhFH3ruB8jnMa8piDjW/FhSM97yUm/uZJXk60ByC1vpWCplaur57bhz
+GDVpCOLsl8K11poVu3oR90LyVge9wGKODRj7zVtXVC+4DuICIzoHy4gfjT1sB1PoHrFpdww8
+qLAgKUGGUkKlWJyV20HgBIFHuqSSBDoFCJiMaZWEdQd8aHHhTCCUIOPvqQST720SHRjj8KgD
+iDMUSHyuCVAB9lu19Yva+3lcwt5Eiq7Y0wphok2fdy43kRtblwX6i2Aa0uJzdHg0+xKivenx
+QjxVfwGLrt2/tYDe25ZfWjRqdc26uDeCPaQHN9oStGPsVs42ZmyYnX5ArLi3fCxj9QmDjqcv
+p08AONalYyujn4Bds6GJkvXh6pkYkTlTQ85Oq7G0UZKtxDgetld6XLh81b8VinJoTEu9Tt2Q
+9vGOMxG5bddfQ0yBwaW4PTUAQ7EKnuq95PBnpi93MBG8y7dv1gXv/TixaNX8ZU+Vef8AzVnk
+s6/8Tv8A4aiouX/I1q3PWgivYTmp4IqeHM14+yjRnpU9DaftV3a2JkURKvicDpJxQnNfA1gz
+0hl1XKPXfbe7R7haQvjIVzQ4g4kHxp8V5UGfNTyO9x7Jbb7tc+3zggTNOgoml4ycPKhkpKFw
+5OLPM+97dcWE89ndMLJoHGN48Rx8jVScm4p83oe7LPGtFUVMabIjiTieS0zQsnFIcWtwAxHl
+QgnIS5xCgAAcBRSA7DZxzxTJKjRExtx0uzVaWAq2p91AEoQNJ0SKv4VGiJilUeqlY0nFzQ4U
+rIDuAxPCiQaJIwHs8ahDq4fN/haAQe53IRqGFMcGj9tZq42wuyRBXm6EgklUBw4Vsx4YKbZC
+rblvZVwJBIww8a10xFTbZWL3cC9upuQOJOH41ppQWCDubmaZxbAunJ0zv/pHOtFapbivXYi7
+hILhjyVGRNWpyheMBTGte0scc1R3+dK2SBgRjWjsVwNPIiI65idaS6/yPOI8auq5Qj0Y1Ixr
+hzBxBopkakHa50DxqyNO1JWnGjC0DwrcVoJhaGXMc7A58D400iQDOaQS0hDy5+VWJlbQg4Z1
+AHQVKHAc6gRacqgDhFEDOaSKgJPlLTyoBkkNu3fcdtmbPYTvglGbmFFHIg4Gq70T3GVoHruW
+03d7pnQssrw4udCNMEp/3MHyO8W4eApseR00eq/iVZMKetdCNEsltJ0ZwQGnEcQK20ut1sYc
+mP8AeXPuG47Out3a7sSG8t9sFtAHR7m5j5jcdMdfGPDRrXT4Vt617cfdE/D+H8Dm5KOu5FXb
+45bhro2iJuHpXAEDFSa2WutxMVWlG5V9wlFxezysBALkauaDCuBlvys2/J6DBTjRI0X7a9z9
+eX/49uLi4TECJzjw5Y1yu51/7kdHr5vDNf2e9fsW8RK79LVpezhpf4+2uPeso6FWesPtt3WZ
+be3cutjEieVRAMqxpcWO9VBtcEzLqEOBHqOBTiKv3Mdq8WZZ90u1C/8A/O27EBAZdNAwBAKO
+P4VluuNp8M2YcitWPKMB3KxfC94AwC4ca0UZLEbG1RpOeRq1laY4h934UIIxt3l5VIANuIRB
+hUJIy9AdXHiKkEkZc5SakDHzZAHaieFSCSOdXAEcM0qtoZM+a/gcaRoZMS4tx91RBEEAjA1A
+yJQ/toQQp95fiFrnF2PLOtNMaRlteSp7hu88z9DPQwYE8a01ohdSBu7prH6cZJD+Wr60I2Bu
+hurn1SIyP8sY96qadNIjliTE1iAHHl41JkKIzdGAqMin+lPjepHsM7dMXtMbj64yhGHGmyIQ
+Mfb462jitRMR7jV/bR3EBY4/MM0yIo0tDJdSQVuXNc63mBBaUrTb1RVR+Bc9tgiLyTKhW4b1
+kYhmMLunJkastWdUV1tGjDdDXgHPxpJC0fSWbZ2aXYOHyuFRXhgdZIt8bo5DDct0v/K7g4Ve
+nKlFLXhnNJGHKjIsCmioQWAmJwHOoASXg4MCk4Dx91QiUhlp233Jujg2wsZXk5I399VWz0W7
+LFibLZtf2W723JgkAbASFR8gBXklZ79+i8Fq679RjePtV3vsRa65cwh7tLH6w5pPJcR76Sv5
+DFbwP/6t/DF2nbE/0hh7s265sonYRbzBH1oozwc/ST6Fzx+NPTspWmlpXlCZeu7KLKH6lXuL
+W42LcH2UzmPLXAx3ETtcb2HJzHDAtdXZw5k1KOLnwvZ7khK/VbfWNZgC4SOXAODV0p7Fp7Z3
+waZRixTdDex9nXm9wPuIlcQC5wbgn764ubtKjg9Nj6qtuRN/t+47BftcQ6GWIh8b/LjV2PLX
+JUoy4nRm99p77D3l2/12AC/tA1lwwKSoCBwArj9nDwsbcOTkjWPtV3VJa3TbS4COB0lVAVQm
+eNYMtDSmeve093jv7ANJR7fmX4cqqo9BMtfJYr6zhvbZ8Vw0PjkBY9pxHtWjaslGO7T0POnf
+HaY2zcJWmUxwPd+kS0KA7LHlwqh34G6teRnN5tVzbvDokmBxUHHllWimZMrtiaBXK0kPjc0j
+NRVkoHFjRe1SAc+Boig73AuIXEcKhIEOUheWVQkAsgTFMsqhEMNkIOR51AjokCKviooNETFt
+eHOCHhSNDJyfB6+dLA6Z91Aie+gRH2sf4T3UBpMf3DdpomF2oNAxc/M+QrpUrJiVSClu7m5O
+DXR6vzEIgPFTxq5VSGn0Hre3iYrW4uGbjiSvFaFrMKUDk7C1Cq+dKmQjrlpI1BMONXVYrAJh
+1WYj1NPtp9hZAGxNhuBKMQcDVu6FTJ63YyWEtJBIxArO3DC0NfTBxcxypw86bkBehDbttkoc
+LmMepufinCr8WRbFNq+Rm003Mel3zDAg011DDW0jN1YErhT0yQLekg9tMYndKXhgDVlqzqhK
+28MloG6iOXMVRYcNudlbfwOY9quGLXDMHmKSmbi9AWUrUqtzb3FhcOs7wJI3FjuD28CK21sr
+KUUv0YgyMZiUHnTCwSey7Ff7/IHW7elbAoZ38eekcaqy5lT5jVrOpbD2TebGGblZE3LWA9Rx
+CkebRw8qx27HPRl1KpG0fbuey3u0EVsGxT241z2zSPUMtbCMxXOzW4l9amj2NoyGQh5Ry/Kc
+/A1lteUW1SJq42K03S0MF20Pa4IefHGqG4LUjMtx2zdPt/uDbiH12LiQQRqYWE4sc0qC0jOn
+q5LZTRG9/fZ3YO/u23929jxMs9yhYZXbXER0XOaNT42jhrzb4+ddLofkHjvxvsznd3qcqyt0
+eXXme3M9nM10ZDtEjHDSQ4FCoORFeiyvQ4/Vr70b39mdoZPZOmKFHEf9lK813be49JTSon7p
+9ixTwSSW8YDmkuY4IocmI8jT9bLwsU3XNGMdob7P2j3CyWQLCXdK5jJwLTgfdXWz41loYsdu
+FoN/fd/0+W13nb3645z1X6QUICIeS41wnXwzpJnp37X95tuGxOe9Y5GtJHHHyx/0rLasajJm
+/W1wy6jDg4eJ58jRM9qwyj/cjt9257RPLG1ZoA6Rp5hFIPnwrNmr5NnXuefmRvRMSDiQeFBN
+MtcycntpYyH/AMwFFYfDlUTArAslhbXfy+l3EZFeVOrNbEcPcir/AGeWH5QpXA/sq6mVPcqe
+ONiHkklt3dOXAnImrRYGw4PBFQEA84RSCnjx9lQkDJkwxJCccl86gGhxk3rYhRfZQa0B5HNe
+KUjQ6Pi8oPPE0Aydw/iHPOgAw9gN/J9Q/GCNx6TeDiM3J8BXUftUeSoPFt1gSi8cMaq5QMyL
+umz2cutuLW51dVqyEmAqGeO6YC3EkYikdWiTJ860LgWgZ0VYVkRPbOilc080CfCr62lCwAXM
+T3hAEdzqyrEYrap3sf05Hcf8ChlQ8+SxPty0h4CD99Z1YUfdYNuoTh6kwXjS84ZCqX22SWFx
+1owcPnb4Vspk5KCp1gMhgZfRKwq440rfFhTIfcdrew4tQ8DlWjHlFvWRixuXW0gZP8o5/tp7
+1nYRM0bY7SHcGNiY5S4DpHJTmlc67gYI3jsyLe7c2F03pTMB+nuh80bhx8QeIqYuy8bkjx8i
+lbP9qu47vcXQ7xH0LO2djICD1wDkxOB5mtuTv0VZru/4CVw2b1NUstihtjFDBH0oo2hjQ0IE
+HBDXLtlnU0Khf9o7djniYwgBfSTwxxFZcmUtrQre/wDbG59l7nD3L2/GYzE/qXNswYEZu0+f
+EU9MyuosNxg2fZr2w707ag7i2poZcxNW5gb8zXNTUCObc/KsVvZbixkSFjdB7Wuy4PA4HjS2
+LqoE7ktob2zlZK1YnNI4FEwBXxo0fgD01M17d3aTsveZIHPcdvuTpmY4khqnAgU2WnJSt0W1
+aehmf347Ks7C/n7j26PRFfuFw8NHp1OKOIPia7vQ7bvRVfjQ42TrquVteS7/ANvFn9ftcmkK
+2N5L/BUT8awfkHFzo43OOSw90xxzbhc2CBzZHOgaEBHpwJ9+FJPkrpqjy99y+3n7Lu72pmSr
+gMCa7fSyyoMvYr5Lf9ru5Ity2yTtvcXkOb/JcpwQHSoGfKsvdw8bckW9fJKhmufbvuSfaN0G
+23TnAhyxFxQnxT2VgvWdTQexexu4m3toxrngkj0jPPyrP8AtSi9OYy4icHAODmo7xByFC1ZR
+SnxZ56+4HbTu294NxbBLO8c5wwwY9flXxrG68XB0a35KSvWxjnbpJxbgPAmg3AjGLzb5Yf1o
+x6VxTKnpkFeom2kgmb0pm45FrsU9tPavlAV9QPc+27a+iILdYwLSM2pyNCuRofRlP3Pt2+sF
+ltlnY3Et/O399aKZk9GS2NxKIV85cwterXDPh7xV0FTA5JAMF8M6BDsc+LRwyJqMkBLZQRmm
+NKCBT5SAhyBHvqJAbE9Xx4eGVCAyZNbkBrWwgGMIE5D4Vtt8RSdt4WPgDmYF2bSudZ2yDF1t
+ZnVpaVTEU1ckEakqNxDcbVOVaemfh5VurZZF8StqCw7ZLHdsY5qKgKDM1muuLBA/e7UJgXtz
+GeHDz86CvAF6FfvrAsYXAYjPCr6ZCWRCMgLJ1yKq01os5QtN4L1tsH1+36mqXRhHccRWC1uN
+iNQfWzdEmgjLhTMUKv8AaGXkBma1XgIcKWmSGSClvgftV2JWgmFxVycMa2q3NfEWILU7aIN3
+sW3kSPacC8AZgcfGqObq4Ailbnsb7aRzXNJ5FK2Y88i2oEdv7jPtM7WyOL4HOATi3HhQzU5K
+VuCp6N2jZ4O5drj3C1AfMGq5MNSDH/lzri5MnFwzRWoXY7O8jpStQ4hSMwKz3ywX1pJy92O3
+Y9r2NwHBo8KNc7D9osnaQgcGQhWua5HNw91U522PWsFx3rtuPcdsdpYHFzNQUYhyftrPiy6w
+M9DF+0N3k+23fjYJfRtG7u6N5EfkjkJRrwDw5+Bro3X3cfxqVusGrX1s3bd3ntoUMEqSwJlp
+dww5ZVlVpUltRm+kHSdC1yqPxyqJjQZn3JDbTk2znNNw0YsT8q5n3VvxUlSZrX4nG2o77+3u
+6bBdDVuOztcI1xcY0wOOOQ+FTDb7WT4MXMpXIrX9uO/s2GXerC+9LoI5HOaf44cE9uFaPyOP
+latkJiftaNC2Db37y+83uY6Le1a5/UI80HtONZm9kPZ8UYx929odd7cbtzfVGS8OOaHOtnTy
+8bwDJSamH7JusuybtDeMJDWuSQf7Vx91dvLj51g51L8bHoN1wy72607gsH61HUMgPqBAywrg
+tcbQzpp8lJ6D+0neTZmw6X6QSpa7gciCFwXKqMlIDVnprZtwhurdj4yocEzX3VWC9ZI7vLt2
+PuLap7F+Dj64n5EPaVb7KpyVkfDeDzxc2N3td7LbzsLZ7d3TlZwKfvrM/Rl712JO3uWyQGOQ
+a43hfGqV7WK0Q+77c+x0X1sD0pDin4VqxX8MXf5ju238dwwaXo8flP7amSkErYKu7AXEJnja
+GvZm2qZ8F9LwUTfu34buP6mAdOfJxAwJ5O/fWrBma0ZMlJ1Rnt3G+F5Y8Fr2qAD+FbYM6G4p
+vUnjlSNDINa9RhlSgaHOqA1wGNFCMXqGf+1f2VAGVy7ReWbepAC+PNBjW1ZVbcnFoO2y9Gpu
+p5Dmrg7mfA1VkoF+pbLExznUcScP3qKz20AiP3vY2SscdGBBIcBUx5HVjuslMsxLtF+2GUJG
+4gtPJcjW67V6ytypVhmi7fDHeBjgBok9Lh41g5RoNaugLueyMbrAYAACU5rzqVyCtFN3LaQB
+qAxaVHiK248pXBP9lSMjnlspGqyRurH3Gs/Z1Ultqh+9bR/TL97UVrg10Z4EOANSmSUU8Q7a
+YxMRGi6sv3VXktGoyqRXcmwRQqAz9OTEnzqzBmbJahF9p339G3J1heDVaXXoxyBJw+NX5vdW
+VuKqF133sxl5ZOkhR4cNUTkQkcW4ZGsdOxxsPwlGU7p27cWMmsNcGnin411MXZVlBRfFBqH2
+a71g2rcRtW4v0W1wQzU7NruflXP7+BtSi7FZM9D3uxBrXTWgD9RbKwjEYjFD48K4yyTozRXR
+lZ3Gyfqc1rc14ZY5U1WXMq8V9cbXukaK3qPxJyBBxrQlKA9Ubpsd/HfWcMwKh4AkA5pjXMyJ
+0sIkZD96e0v0pLuJugO9bXNGTsxj510urm1TBEqAvszfT3T2TZbhPjuGzuNrdjIoMMR4hKfL
+ThdrwxasnGwvupmRwhXyoIwuC8Ko20Lp0kqm+fbWOORwm3SUbli9j0/QLiV0YhUrbi7fiNCi
+2KdSpdoXV52z3zE3cA1sd2fob8OKNDZXBod4o4A++m7HurKDWvtgpG97XL2j90u49oiaWQ3A
+F9AG5EOBDgPbW5354a2+hmxqLNHoSyt4bPtCz2W3KvuWtkuHjAlABjXM5ayW21tJnn3I2OId
+vyAt+Ulq+KKtWYcmpYkeOr+Ax3EjDwccK9ZjtKOPlrFmaX9qe5mHrdsbg9WzDXZOcVAe0KWj
+z4Vz+9g/uRp62XwzUu1t+n7Z3pjXOdJDI9okCqhCBQnOufHJGq2mp7J+3/cUdzBABL1GSNVp
+545+CcazWrAycmpF3VDUxIAwOP4UjEiDK/ub2wB/+wW+D2JHdN5hcHeysuWnk1Y7zoZxHEGo
+5p/Tfw/hrLynRljr5QVBMwdTbL4gxTD0lPlPArUUoqZRt3huNh3Jx1aQHA+BHMeYroYrcqwJ
+b1Lls16y7t2zNOoEevjhxFZc1IGq5At4tBaTEosM+RPArSUfJT5L628Gd957CTG6+txi0K5M
+z7q39bLOhXkrBQMSNeXAt5GtLRWmERXGpqk5YOHlSDhLZAcuINKK0OdbDj8vwWjApB9vbna3
+0LWyNbJHJiip7QeFNkTqWbh28dltu4jfbYDrA1FzRn4Ec6FMzr8URortjeT2VyYpQWzRH1Nd
+gtWWSalFcQXuxMW9WpjjGib/APrBxJ/2r+FZrKGHlBA732kyZpcxpVoRn+0r48qfHmdWM1IN
+sUktjP8AT3BIEuGPBwy99TJD1QqRd7m0FzbNuGhVCOwXEDGs701EgpW62OgvY5qqpYvll7K0
+Y7AaIfZg603WF+Wk4/8AScDVuRzUsSlGkb7ZtvNntboBSwGKRMymXwrHjvDE46ld2tvRuA0n
+jh7KtyOUFVLbf7ZHuO2mVgUtGPkRgayY8jTC0Zbu22lsxbI1HMJBI+BrqY7iM0bsDd37naHZ
+74rMwfpuPHSM/M1h7NI1QUI7h7djLpGFqB2QRPjS4szQ7omjL9w2mfb7vVECx4JMbgU9x8a6
+tMqstTLanFnpT7M9+/8AyfZRsu5uAv8Ab29LS75nRpgPHCuJ+Q63B8lszTS0lv3fb9Je9rQd
+Rx5KmftrDjv6+C9MzTu2yOnqMPqDg8DLEYEJXRxPQSdS5fbzeCR9A93ztVi/xN/eKo7OOVKI
+9C2d4WEe9dvzQuCvY0p7Kzde0OCeZMP+1z5Nm723Tt64Bbb7rAXMBy6kZRR/xdXWze7Ereal
+VlFjRrS9btFw2e5BEdm9ZHcQxUcf+IxrNuWblx3LZ7fc4hdmVgge0SdRdagYgtOpAPIVRXkr
+QHnCME78tQ7fBuFuNUQ9MhahJI9Qd8K6NbaR5GpXSSN+6Ns247z7H7hAVu62H0d09F9TCCcf
+HGtPWc4bV9GZGoyGkbQZLi81OODQjR4AVgtY0OuhFfcm3A2RzHBNauIqYXqiVR4o7htvpdyn
+jTJ7k8lr1/XtNUcnsL3Eba3D7S6huYnFkkbg5rmlCCDgautXkoKE4cnoGC4k3faLfdmtH1DG
+tjuEQKeD/bnXn7e28HVrqjZPsz3q9pNhdzeuEK0KAgVHBONDLXyBM9a9u7oL6GLEYNCE8ceC
+cqzOo1tiT3WxgvLd9vO0PimaWytcFBa6q7VTJjvBgV9tcuz7pc7ZcBNJLoTmHMJ9JB8s65/Y
+xurk20ugC/ge2PHAt+R5zTkfKq8d5BehAb9p3naOq5PqbMI4jN7BgD7K2Y/ayjcC7B3MC4ls
+ZXLoOAPhinurRmpyRWnDLtvVuLjbZ4W4vg9cZ/2pgfdXMo+Ni6Sl27v6haywvCuAUcyPbxrU
+/baSxWlQZRv+2P2q/kYR+k85eBNdKtuSkoIlpMcuGRwPjUaGQTHJoKA4HLw8KWCMJ6jUz/Iv
+xyoQLJinbm+XGz3AjkcTE44/vFdfs4FkUrcyYMzr7bG89rdxRyMjeyRWuADgcQnI864V6ujO
+ho0SHdvYzN2snbvtTdE0Y1kNxcOPtbQpm4v4AeuhRdk3OawvDBctMcrDpkjdgnIg8uINaL1l
+ShI8Gy7LHZd1WAYjG7hGz+ZgkzRx8HDjWK9uL12B+ko/cvbk223L9TNJaeSO8RVlLDzJL9sz
+tvoJLKU+trQQvFBn7qWyFuo1Inf7RoYXfwHA+FTDYFkUyJrGblG0ohUYnhWq2waPRmpbWz6r
+YryGTExlsg/Ap7q59nFg2WpUnwi3uSCdWkpWhWlDQXjtyVlxG6F5Vr2kacuC/vrFf22BZaFT
+7r2hsb3FMiWuJ8MjWzr5fArRXNluZtvv2SRu0uiIcwjgmY91XZdURI1+dse87bHfQt9ekFzf
+HjXMVuLGSKTuW0Q3LXRyNUodBPLlWumVpgtWSB2aW77W3+DcLNxilgcMlR7Vx1CtWSMlCuqh
+nqSwv7Tf9qt76H5Z2AubmWk/sB415/JV0tJeil927WsL0Cvb6mniUzStvXv4Fv6lW2K5kspI
+pcWPicrtSqSDV9oLIk2uC7jurLWoLZo9XtIxrmuvG5WYlvsX9F7y2zd4yW9OfQ/lpJQ/A108
+OtXX1Bk2k0Hd4Gm+nQqyQCQDm14xrNW3tDVSV6HYLqxjdbbfu95a7fIVdtrJC6EA5tYHYtHg
+Ks+42Wqq8oj+5Npjm2+RrVBYQ9pT+EoPgaso4GkrPf7DN2p2bfj57K8MZI4AkNP41q6z1svV
+GXIvd9TQO1mGS3E2ZIAJ41ly6VZY9yN+6TmiAwAKkeXxpOtuHweMO8Y03OXDIkfGvW9R+05X
+YWpWC31aRnWyTI1qegvt7Zz3nbgkar3RtLJI1+ZgxT2GvO9xxdnXw6JIXFuM/ancVvfROSCQ
+gEpgipjTY3yqSyhnsH7e94R3dpbXcbzpeAHtJyVD7xVdqiybdZXkV7CMiC1cPEY1Q1qRqNSk
+/cDYW3tqLuFGT2iFrgpJj5HnjS3x81BZW0amZumbc20kD2gS4g8UP+lce1HSxtq+SKVqfZbj
+PYz5vUAEIoP+Vb3rWUZ4hwVCwvXbN3OGrpaZC0r4lQtbKe6pRkUGty34dHE4FNbTG/2Ep8Er
+n5cUXGrbQqG0SBt+9ubXKPilPlWhdRkV39sv1FsbmNuLRq9nGrOpl8EujJ5PQQHZjnW4QWzH
+AYLiKUI+pT2J7eVEWDKd52LSHSwtRCrh+0Vvw5ynJiTQ72vvtztVyyGVyNUY/wCXKh2cKupQ
+2G7WjPSX2+7tguZGWdy5ulwQLwX9lef7FHVaGpqQP7ofbktI37amITj6cscUKcOVN0+2noxL
+FX7M7juLC7ieXFksDhqaeYKYj4GtObHKENu3qwsu7djG5WbR1Wt9bRiWloxafEcPCudju6W4
+vYFWZZAx+17jHcBpDoHDqM4lpKHDyrXJZZSiW7i25sbHPZ6opgHMI5OxSql7bQJMoyq+S33G
+Ph6hwretaiq0M0/s6brRTwvK9SFzcOYyrnZ1FiyZRX95aIrnUMdQB9tXY3oOiV7cvTHO32H3
+Vl7K8jJeCQ7lay4ZI8BcuHLD8KOG2pW1oZnefpXQmbhiCEwyzrppShEzTuxN2ZPC6ykdwwU+
+yuV2q8XJctUFbxZfTXD9I9J9TfI5ijS0oBVN1s2uLJwEIKOHMH/C1qxX8EtXyad9qd5a+2k2
+W4I1xgvgK8PzN/aKzdrHOqFZdN8tBPbFw+ZvvSseK0MJlG4tNreubjpPqaceBQ10E5LKl67d
+3Iy7N0y71QkNHlVWWmqYllDKv31A2d8MoVeo044ZhM6uwuGFqUWyeR0sW3zPKmS1aHnxaBVP
+r8xMYjAsDfjmlRF0kPuoa6zmBxGlyjiUNXoiZUe9Ytf2+sSn8q+a5gGeL21o6z9z+Rny7l77
+KZq21oz1OCVmzvQbyVn7j3P1E9wAcWq0ezCpgUDHkzvO2/8AOSScS5E4Jwr03Utoc3sVKtBD
+qvI1yDgvvrbZ+0ype49QfZiyD9m9Q+eV2jyrzndfuZ0VaGjv3I7W6UTrjp/ozElpH5JOXgHV
+X1c0OC26lSD/AGT77n269f21uMv6jSBA57jih0pjXSyUW62KGz2f2V3A+4txG1yOIars0ICV
+kvUaS4381s63BJ14OJaRgcEINIkBsxXe4dv27dZbfrxQdQ9WHW9rdTV+VCcSKqz9V3XJLUfH
+nVdGyod5WTonxbm0gIMSEQgeXhS4qQoZZe06mZ97sdBd2+5wKRIWv1AcUHKrsFY0YmRypLjt
+m7i52+OVUdpBwzySq8tNRKsY2acSbg9oOLXEE81NU5loX4y3btadazcwgasV/wAeIrDivF4N
+LU1kwvujanWUzwwEBVCcONdrHfkjO0QUEq+lxTiKZkQ/1Bz4UskI+Tb23EBdpVv8WaKKRWhk
+WpUd47cMTjLCCDmg8a2Yex6gtjTDu196u9tvWQyuILCNLvCl7OJWUoej8M9Tdidy2ncG1/0f
+dCH6m6A12JT/ABlXmO1htS3OozRlP3P7Puez96/qVqptJiCJOBbwJ8sjXW6PYWWseSiygs/2
+37y+imZFcOW1uEZOw8OAd7PwqvtYJ+ZCb712Ntpdm9t/VDIjwW5Fjsj7MqqxXlajJgeN/wBv
+ABqutVYPIYg+6rcmyZWv1NGOdyxdG41OwLXjL4VswOUCxcOyr7QWyEggJ7nDGsfaqW49h/eo
+wXE+ZFVY2Wgm0TmKdoJ40c1ZQUWS+cH2z2nlh5VmwguZzuqNkJyxzrsU2Mzeod2tuP0W4xSa
+kBOlwPI4Vm7ePlRotxW1NVv2fXWIeSskPEcRXLwXlFtlDKtdWwLXROCjgc05GttXAUhvYL2X
+ab6G5YTqYR8KteojWhvVnfx7pt4nYcJG6XDzGFcvLThYSjM57hsj11wADi0kcjWqltC/GK7Y
+neyWW3fgQC0g8Uq22qBdCe6nCW1BGJbo/wBaOLcD2LC9ybdtD+LmEL/xBqpb2K6ndRCn3GmR
+YmQm6TA272k/lx95NXJEILueMP8At/ahwH/q2Ichif8AKrcP6mU3/UW7sy6ZDsplecWhWeZC
+1m7CmEN5KB3fdazcvOOanNK0Yq6gb0PPvc1sJ53n5EKofGu117QjJlRV9usjJcqir4cMedbM
+l9DNSup6p+09i6HZbQEDU1ThjlXn+09WXzqapunb9nvOzzWN00DrxlARk7gfMGuVW7V5RfW2
+kHjfvOx3Hs/uc3kTenPZSepwycAUC+BGBr1XVsslIKcmmp6k+233Et7vZoN5+obFAIzJdOeU
+DA0KVJOHHGkeNvTyLayRiP3r/uz7i7k63bv29vDtO1RyuZPuMQIu7oj88b0SOMnDA63eAwrr
+9X8dSi5W1t6en+hgyZ3dx/b+31MC7vl2wb/K7Yt8vN9tDHBINzvY3QTOmfE10zSwvdgyQuaC
+uIC12Mta0tFHK/b5fy/qYsKdqTavF+n7T/MnO2vuj3V2w6ezt97uLrbg1xhtJ2maF72/IrZX
+B0bTxLSvhWbsdXDkbTXL47F2K96pNe34b/7Go7V96e3e6dpG0b9Gdp3Jn8iR7tdu/wAA84tP
+g731wO1+NtR8qe5fxOlh7aeli/bFuLrazDJHDS2NWuBwcMxjyrnXpJdPoSvat31bp06qHOLk
+9tZc9dDTjepqt69kpKFQ5Co/6RXGiLGzG5Rn3dezMnheWsUjD2f5V0utlKr1MZu4H2l06MhC
+xxHszFdJ6opTF9WNcuC5VXxHkA7D3+HcYvobkh0rQhB/MPCru713R8lsZOrm5KHuWrddj0Rd
+WMdSJwwIC+w1z63NyKRu+ymKb6qJp9KZZg8RWzHm8MnEtPZ3cFzts8JlJAUBfCsvYxp7FjUo
+9GG12/7hdrvsbgtdK+MiJzkOmREC+fGuHyt18krYptWTzaxt52vv1zsV6HRyQPLW6syAU+Fe
+icZKKyKV6Gz9u70zfdo/pd07XLED0HHkilv7RXPyU42kKArEfSXF9tshRsjQ6JeY/wAqs3qx
+bbpmVd5RFss2nFEPurT12SwrtS9Y2NpJQImPhS9mkhx2gte4Ojnja6N7X4Eekg/hWGiaNKIO
+DUyZqAhDwH76veqATm47vtm32Qlvr2G2VuHUkaCSByzPsqjr4r2tCTf0EyWS8md7t3Fs1w4G
+23GCQuJAAe0FfIoa7WLr3W9WY75EJsLlJWvYVywXMLSZa6D0tqbH23uXXibDKVD2aCvMVwb4
++NnBtsxq6h6UroyFLTpx4iravQNSMlZoc4jBcinLxq5MLND7F3jVE21c7B3pReJy+NU9ikqf
+QpsoYV3JETJI5oBLm6gDxIqnG9C3GyuWDxBuHUZ8r8/DBa1U1Q+QXvU+uzIccMG/96mruVli
+mka3b9rZqUtRAOSEVUt2JVCZ5xHCXOw4p4Z1ZRBkqm7bgDHKG4gAgDPhV6qBME3qUz/bmykc
+5CLtqjPIkU2Je5ld/wBRObXcG32QFUBaoC8Uqmymwz3KH3LKWWsrnlXPIaAfPGtGNCWZjm+k
+uke3jka6mEz3YPs1lruGgBRgngcqsyPQoTjU9R9h2wsrC2AGkNiGo+BxNcXPV2tCI7wpZdL7
+c4xbxzufpiEbtTigGBwqmnX4uHuxVk5I8p/d/vntDdu4mbPYObdSRxSC+3FrwYi/hECMyEKu
+Xwr0PW6WStOe3ogV7Ff07r1MXuu690h2247d2+8f/TpnkyIrdbT+XwaeNdfF11y5talFr6cf
+BXgK2lMh1jHtsttftvDcfW9Jp2tsIZ0jIJGmTrF5BDelr06cdSUydFVu0z4/f5EfN2XGI8/7
+AIxU8BSjkl/WiNhfsBsbQtdctu/6gYR9YC1jmdNs2YjIcpZkoBpbatfCfr8xVWG36l5+2fem
+4NuGdrXsxktpw76KR5JdE9rS7pg/wuTLga5f5Drp15rdGvr3hw9mehuyZgmpwxyXwzrzvYR0
+sbNUt7kTQtAIwRK4+SsM20toD3oZK14cnIpQq4HepjXfW2PsbsXLWrHIdJI58MvCu3178kZL
+qGVRHZeCftq2BZMk22+utquo54CWvYVAHFK7WSiuoZy03V/E9C9m912m8W8cV1pc2Vo1NJTH
+I58a812Ou6M62O/JE/u/aBkifc2TOtG4KgxwPMVlV4NCsVGTt91uPWNIyaW4Jyxqz7kjp+TR
+/td3Gba6G1Xbi16I3k4cEWsXbxclKEyLyD/3B9rm4tbbvXbm/wDmbUiK+aBmnyvKcxgav/D5
+4nG9nsZci8md9ld1mC4tp2vQByPC8jx8q39jDugJmn7vPGZ7e/iPofm7/a6smPYDZm/eMjGS
+F5Y5w9WoNC1f16yg2eplvR3ruB5sbVxsbJjif1H6XSuy9QYTgOVdirx4tX7rfyMt1azhaIq/
+cm17v2ze/SzvMTnsD4ZInHS9pwUEJW/r5qZqyjLkVqOGR+yw75vN4LCxun9d4Ja18xYoGYUm
+rMzx468rLT5Ax87OEzQ9q+2PccsLDfS28bwSr3yOkIB8Gj9tcvJ+UxJ+1M116t/MEN3h2Bul
+hCJYpGXTWYkRBwcRxwdmlaOp36XcPQpzYLIruwd032wTMa9bi2afVA44gcdJ4Vp7HVrlXoyr
+HmdGekuw+49r7htW3W2TatCCaJ2D4y7IOH7cq8f3OtfDeLI7WPLXIpRdr8iQNnRC4I9FzFZq
+FqIab1r7U91W1ZY0Edu3wtLkRh2nEoV4jKnspKrqUaNu8zbqwtr7g9Af+QxrFVQ2gY9ypr0Z
+cirfSPMZfCtWMuvsR25XHUt4xwdKxqj/AKhVtVqIWyV62m3lUQEkny/zqlLVlaIffrq4bbg2
+zXzvOEcbFJc7hV+Nak0M8kvr5lx0L6OSB7nDVHIC0hfA1phRoRonNyuGO7GgtlJLrnqIuGD0
+pca1ZVfcl/qdO2xRAqSAtI1qRMpfctwzQ2MuVSXOHiMq0Y6lVmZlubdbzhgpI99bcZTdh/bF
+p1dwjiaMXua0DzNG7KbM1D7g/cyx+2+w2lnCGy7vufptYHEhjImkNMkpAJDAeWJpvx3ReVu7
+0qZexdt8UeZe7u++7O77i7j37fuvDZl309tA57baUiQM/Sa0AHA6wXgYDnhXoMWCmL9FY+Pn
+6sqVY3clUmsr22htrm5t5YYbxrpLOaRjmsmY15jc6NxCOAcC0kcRVzUDShEZjDZNbS5zgkZX
+5SoJPjgoo1iHIlpcDttLHBPHPJCy4ZG4OdBJqDHgH5XaSCh8DQalehGMta6RwZG0uc4+lrQp
+PkKFrJKWPWrbhasStEgaLOzOzncP6hELsXIg/pRZJ1TEWauuH6enpDvSmrUvBKs4LhynWdv9
+St2fPjGkb/6Cdquxt+5Wl8S4C3lZI4x/MgOKZcKz5acqtepbVwz1p2fvW1bjt8dxtlwydhIJ
+kYeJxIc3NrhyNeP7OK9LRZHYw3rdaM0jbd0a1rQ4IE+biU/dXPy0kvo4JXqMe4ubiHZ+aVis
+oNFSr907W3cLGZpbqwVR4ZJ7a2dXLDEy1lGTf0u6XToK6+in+5NX4V1eSM0Myaa0EzQ5uOKe
+Sc66NckGfJjTJHZdxuNqlbpcWxuOKcD4Gq81FdfEsxzU9C/brvqC5MdhuEmA+SQ8f8udcHtY
+HXVGqr5I03dez7DeLd1zYNa2SQai1nyP/ca533HVjJtGX3mzX2037Lhkbm3Fo5WtOCjiFrVS
+6sizka002vdfaz7a4aHsvYDEVTBxGBw8RWHXFlTWxnutDx1eW83bHc15tMitbG8yRA4YZEV6
+1/8AZjVjPV6wa7se8t3TYRDI49SABCcy08fZXLdONw29SJ7jb1bcudiR7fA1MOjgdszzaZNF
+/Kwflf8Aj/pXQyfpRV5Ofdy2ZJtG136fqQyuhcf9srNWPkWU/wCItF7VKe2tEzM+1rs2fce3
+TDMXEbSBgoe7SR7jXY7VOWKy+Blw2i6fxPT1m9Yl/wBvGvGWWp3GRG+wtmiLQRguJ8q1YXDK
+LoxHvraIrZ7b6JoaXO0TNAwLipDvPDGvR9LM7Lizl5qQxf2v3242XueymiJMczxb3EQOD434
+IfI4il/J4FkxNPxqh+pd1uj1e6YPs2OAUlHV4mu53EiLuCAC7DH8a0VGIdk/SuWyMORGK86v
+gVmo7PcHcNiubVfVGkkS4kcayZaxZMrq4ZC3D2Fr5HA4eo8MsKbGy++xX76ZBA05GdhPgpFa
+KisuMs7Tb2WOAao9wFVpaspT0J/aLKOTZ57+Jq3TtbYJE1aCPSMPDOjzgS61KNvzZNyt7iDc
+9FxdWDmGC8Zm4KQ5pPtyrTUKtG3kqe4zf/q9vHk4ytA8i8E1ZjWol3qGm+1wsAcgA4Y0eGpX
+yhFO326Elw9q4MCZ88a0UqUuxULp36hIHpwBOaGtFUV2sWvsGzM+5iYhGQq8u/Cky7FTsZB9
+4N4n33v7dZC7VDt+izhBI9LIkaUB5vJOHOvSdTH9vDSvwn95jo+Uv1ZRXOZ02ta0h6nW/Uoc
+MEQJgnnVsseBya+vLiC2tLi5llgs2uZaQSPc5kLXuL3CNpKNDnEuKZnGgBi7Q2IFx9a2VxML
+vpeiWgCZRpL9QPoAVQMaW6vpxjfWfT4fENeOskr2n2pvHeW+Wfb+yW7rm8vn9KCFiFznn5Q0
+EhSTWvFiT1s+NFu/Qy5s3BaKbeERt5Y321XUkNy3ozW8jo3I4Eh7HFpQtJyIpMuB10stC3Dn
+VodWOS7NutrtNpvtxZyR7buEk0FlevaRHLJb6eqGE5lmtq+dZVmpa7xp+6qTa+DL3jsq8o02
+EXFo+Ozs71tpPFBcB8f1M2MU00bv1OkdLQjQ5gLVJB4409ctXZ1TUrdfPYV1cT4GnHrP1hjW
+ABrUYEGAAXzKKan6dAXtLmIJfat53jti9bfbPO6B50mSMfJI3Bwa9uRFZ7VplUW1FVmnoese
+xO67Puvt613myIa4rFe25Kuhmb8zT7PUDxFeS7vXeHI6vbwdzr5edZ8l9s5iiOxDgCDyrk5a
+m2jFzs1Mc05Kh9tVY7wy2NCA/pDdeWPW18P4a3ff/kV8DzDZ+pHp/wBRH4137mSqJNlpBMjd
+IDTj5kn8apd2h+KJfbLa5sZmujJdG3EOBxHGqr5FZah4ehu32979msTFY3z+rbyAAOOdcjsd
+byiyZ+ZqG77NY9xWX1dm4OeQoITHDIkVzq3eO0PYVlV7bbLtN3Ps86tDyZLZeDx8zfbmK1ZF
+zroJZzqYl/cPsgt90tO5LaLQJBpmLQgPNa7f4jJypxZkvo5Kn2XvnRSNxLgCYyv8JxFWdnHr
+Jbui07vPrsZCD+UofjWWq9wE9DN9unI3iRgODnAiuhevsJ5Jz7mx6u0NSYslhf5erT+2qvxj
+/wC794nbXsMQikMNxHM3B0b2uaeRa4GvRtSoOYnDPVO2SB8IJK6gD7/9a8TkWp3k5QNuTg5q
+E5DIn21djKbMxz7hXsOhtqE1yPDwP9jV4eZrvfj6Pc5/YepFfb3bZ77fYJWBI7d4ke9MAhVK
+u/IZFXG16k6tG7nqbbp3SbashxICV4q6ix3ECXj0ti4HEYIavogkB1T1kGLcD+yr40AaJ2ru
+Aj6ZcUD0Y4c1CZedZ8tRWju4JAbiMkfOQPAHKlqOnKKducxZLFHzlaQOIStNUAtn1muC3aDi
+2PCkiClD+zd9Tdq3U0N/byXuz3ZEmqAjq20pADiAfmY5FTnR+2rL4ktWdtwDu/vHbd4Y5my2
+ssEKEyTXDBG95zQNBOC1djrCKVRpyyl31wx+3W8QOoNIcB4tJNX40C7Av6g0Qve85Znnz99a
+FUzWZVL++L5CSQXEn41ZWoGyO1ayoGfDwq9VKLM0btVrLDbZ7ko1z2qF5Jh8KRU5WSM+bJFW
+zy5u13HuO7bluEz3B1xPLMwAKpe8nE4JXrFWiTVm5S0KqKySSI8Nc4o0EpiU5VSqu2xa2kPt
+mklghsDoEbZXSNdoaHapA1p1PTUW+kICUGPOkrWbCWcSyQ3vZZ9hvvoLqaCd/Tjl6lrKyZmm
+VgeBqYSA4A+puYOBqzTWHKTa8+HHnx6PyVY78lMQD7fdzWN1HeW8jopYjrZJGS1zXNxBBGII
+q3FZJ67Ay15KBrpXV59RcsY+YQjrXMoBcGNc8N1PPAFzgFPE1Rkyrkpetnp8fJdSjjRaIXHP
+PF9L9Sw3FrC8yxWk7n9FwJGsI1zSA7Sji0g+NBRLa3Jy8Db33LreOJ5f9OHvfAwl3TDnIH6Q
+cOAVKVKvJtb+Sx8oU7eCU7ei2Zu4Wku9zS/SdQC5gt2AymM56S70++svceTg1Ra+o2B05rns
+af8AerZftTsG7WUnYe83d/bXtjZ3DrG4tx1bYvgaS2SQODC4/MQ1UXOuV0XmvKWy8vTXzp8z
+T2a41bXR/DXTwHfYKWeCDuJ8RebCR9roLwGrKA/UgU5A0n5taUn9Wv7h+ivc0tjf9qvGyPYy
+QpkicVyBrzl66HUqybehJJ/MvCsF1Dk0Ucg6v58f8CrJGPGe13ZGfzsKFvOvZ5aHIxX0LZZy
+seGuaoBHsrFdGpFo2uaNrg2UAgt99YstfQto4LVYQRQhr2IY35Dh/lWV5GWOi8GhdrdyXmxv
+asjp7M4FjswOR8qqy41dQUtF93axt9+sYN82l2qWP9RqZnTmPMVix2eO3GwlkZf95LOLeezS
+9zSJGAyNamIOIIVOBrrfjnwyv0MuRSjy3sd861uek4oSem7zBwrv9jHKEx20NKN19Rs/UX8h
+B8wtcvjFizyZ7ayFu66xxeK6DXsI9y5fcBJOx7gk4tMRz49RtY/x/wD+wv28A7P/AIjB3YHH
+2V6Y5RtFh909gtbYDo3Uz2taCA1gCgJnqrz9/wAVkb3R0l26wQu+/dqS5a6La7HpOIQTXB1E
+eTWoPea04PxUfqf7iq/aXhFEisd2366NxLqcXlZLiVU9n7AK6TvTGoMqTuzV+zLK326FkFuE
+Axe4/M93EmuF3Mju5Z0+vRVWhrO3vWyY3wSuFlXuN6Gb6T9BCeBq7HuRlabMlyGjAFuIHnWj
+wAuO03Do4QQcWoR5hKosiMltwuDI5k7QPU0E+eX4UiRE4KLu0zjfRAFUcB7TWmiJOhY7W60B
+i59NuFLZFKYBeX2lUOOSfvplUnMgtxvS6LQXEKCABgnurRShTawFfXRjht2hyDQSW+1KvpUo
+vYhLm7LGGPVgMcs/Cr1UpbIaWZPUq1aqiOwqxJlmBORKCrGoRS2WTft1O19tXt2JC3pQuESH
+NxGlvxNaOnjm6MPYfJqq8s85k867F3qbCS2Te7nYrmS6tY4pXyRPhLZ2CRqSNLV0nDBcKv6/
+avh5cXHJR8f29fVGbs9euZJW8OSO4rxrMXBe32dxud3Bt1m3XcXDxHDGM3OdgB7atpXk40Xz
+0X1ZVluqJ2eyFbjt97s99cbXuERhurV5inidg5j24EEc6Wy4uJT+Kcp/JkpdXSsgRrihxKHM
+c050hZI/NJE5zNBe9jWNGmQj5k9QCZN1KlLVONY+hLfAbBJABJ0tyC4BeVNBHZxAQx8IhdGY
+llc9rmT6j6WgEFmnLEkFfCq+DbmdPQWVHxCdzuG3RtnKXaYWMKlcGDSB7hVHXxurc+o17z+4
+sHY33C3XsuU2oS52q4fqurNwCrlrY7Nrh7qXudGmda/q8Msw57Y3KPT/AG9u1vu1pBudodUN
+w1skTslwXHkcK8X2MLxWdX4O1gzK9ZReLeUyxiRcgpPOufnobMbPtTuQVeYz/wBKySy+TxRd
+Ws9nP1GtxacU4ivoFLqyhnDvR0comdsvgdJJQHgvHnWfJSDTS0otdjdBrkcp/hPOsWShcmXb
+Ytwb/IkOBxaVrn5sfkvpYv21xCSMt/ixaRk4cayoa5YO2d4uO3dw+nmcTt9yQ2SM5RvJQPb4
+c6GbGslY8ma2gV9wtt6uzXfQaHRyNcWjgCQSRU6eX3Kd0UZKnh3ctVluUrTgWyuB9hr2dVyq
+Yk4Ze9lv/qNnnbxaSV8CK5eWkXNCtJUYJZBfN6aajJ6VyOdboXHUWzcli7h7cvN52ua/vNzl
+dJbRulhtdIEDQxpOkNUlU41n6/Zrjuqqq18+RcmJ2UtmSyeoDhXcRzzSO3+wbXc9ohuY9wMU
+l1G2QsfGrQUyUEHA1yc/5B0u1x2NePrp1mSq9y9rbp29Oty0Phf/AC7iP1MPhjiD51u6/apl
+Wm/oU5MTqCbZvVzZSsZK9z4AQC0lSzxb+6my4VZabgpeHqav21cAoh1B3ykDgcQa4XZqdPFY
+02wkP0rRyC41x8i1NiYLdyq0gk5HDPjVmNEbK+yQG5cODePma0taCpln2q50sDSAFAHlVFkP
+JIzXrRbsaSNQUBpKIEoUqJZlMv7kPvonEqrhljkK1VqK7aB79xd1mcgwBFTEYmiqaFDsB3V2
+XvUuKFShOONNWorZDzzl8iFyrj4Veqwil2Gt2nQW7UP8tuHkKsxoS7IKWZryXKo/fV1UVsAk
+m6jy0FEKY1fWpQ7Ejt4Mel7igHGjEsqvaEQn3C3j/wDH223OeS2eUPlYwgExsxIVOaV1Onih
+NmLC3fJP/EzScwmaQ27XMhLiYmSODnhi+kOcA0EpmQBV+vk3iBRQGdwWoKOW9zcWlxHdWkjo
+J4XB8Usbi1zXDEFpGRFFWacoFqqyh6o+nuLi7mkuLmR808zzJLNI4ue97ipc5xUkk5mkSSUI
+IjADPGiQOk2y9htYb2e2lit7lpfbTSMc1srWktJYSEcFBCirljbrJU8q5cZ1BBnVY7CrGyud
+xvIbG0aHzzvEcTS5rAXHJXPIaPaaW91VNvZAJbti37bm3uyi7tubq02d0ibhcWDGS3EcaFXR
+seWhxVMCal+SU1Sb+JW25IS5bC65eLXU6MuIi1AAkLgSAqE8lqXabkspManp37VbVuGz9n2c
+W4rHNK8zwxOOLY3n0+S515L8tet8rg6nRq1WfU1XbLkPtVQq0Igx864eWh0sdtQnWF48/wDO
+s3Au5HnDcNlivIupGEeMwma16SuSGY0/UpVxaSbfcYhGHPwPGt1Lq6+JVarxv4Fi2i+bKsLy
+NWbXc6y5aQaqWktVjdaHAEoQAhyNY71kdODS+1N2bI1ttM9HBC1wxTkRWDJSGWN6SXa4tW3c
+BUJI0esD9ngaqmBNyVjNzuWxCA+uRjXRuDsVc0IPeKrUVyT6lF14PFX3CsTZb7e5BLhyDLPH
+KvY9O040c/JpYc7WnTb7tq4aQE8qp7Nfciyj0Iu1kad4tmHjIvxq6y/62NPuRqVyxsm2vYcA
+5oaV8a4ycWRfVSjz3MCx7mH8pI9xSvWI47Nk+31xr2Gxa7ENZI1PESECvPfkKxkZ0eu/YiX7
+kt7e/wBultJ2kh7XIdOTkwI9tU9ezrZNByaowWVpa4rwKV6ZM5zRqHYVwbnboCcXQkwl3i0q
+Pga43epFn8TdgvKNZspC23C5oFWuFkrqdCtgW8l0xve1ycl4JT0qFsgmuOpzxgHITzzq9kRO
+2V1pI1DU1pwJw/xhVLQRN3eK0kDl8Dz9tWUqV2ZX55lv4ccdSkj3VfVCN6D9xcaHh3n+KUyq
+UyCzXhAJGeXhRVQMi5rp7pAQclx4VcqldtBvdpi6O1ev/h4+6rMa3K7OCFkl9PtOVaKopswd
+j/XivhVyRRZkqyaOC2LyUDRqOrIcafHSWZM9/BmO/bo7dtxkuVJib+nAD/A3j7c669a8al2D
+FwrHki0pS5hm4Pspr2eXb4X29q5ywQyOD3tbyc4AAn2Uzs7auJ+GxVVNKG5HXbUW7Qzdvqrc
+65uh9GJR9R8pdr6eejBNXOheFC1lpv4em/qCt5bXoR5pSwN2uLbJpZWbndPtGCCZ8MrIzKsz
+Iy6KMtBCB7wGF35VVDVuLjqraFeTkv0qQIAGqkPJNXvdO+7js227Bf38tzt2zskj2m0kcrLZ
+k0jppGx8g57nOPnVtbwml5KniTty8kQ1+l7XEAoQUORTnSlsBV3dfWXk950YoPqJHS9C3Zoh
+j1ldLGY6WjIClqoUC21GjKVAOFFsVVF2c01vfQz2jBLK2Rrooi3UHOXAaeK0jx8/b6j8uKl+
+D0N2h9yrDu2OOzuGfRbpA39S3H8t+k5x/tbw8a813uhbG+W9f23Ojg7Ca4vc1PZbtCIvyyeg
+jic0xrjZaGuttSW1t0Zv/lJn/uyrLxNEmKW38oL/AA8f8q6tigr3dOlPV0V0/n1av+7hV3X3
+8jv9BWLP5gi/8c/jW3IVYi72fyxquQ+f5q5zNLLnsOrqs/mZj5UX/HKsWYtqbNZf+kgVV0f+
+J8/tTBKzX3KkSex/LOi/OMsvYtUW8C5dzxn960/+d7np0/zXfy1058NVev8Axv8A4kc7PuQv
+aq/T3mfy+FN2t0HGBbf/AO+2+fzjOnyf+Nh/uNYl/wDQD2f4NcRfqNVdjz/uP/rLjL+a/wCX
+L5jlXqsf6UcjJuzVft7/AOxWuecuX/Wa4n5D/wAjNvX/AEosm6fy3Z5cayYtyy+xg11/Mk/6
+j+Nemrsc+xeft2v083z/AM78qJ8orm/kN0aesbJYr0G55eFcDJudGoJefy8OZz8/GnoFkRCq
+FM18PgtWMckofkHzZuzzypGAYuVXDXx5Jw51ZUqZDFf6gz5uGSVcthfA9Oqu+bN2aJnTIqQF
+NkM/bnToAFMqD/6USrEV3G9w/wDTW3zfKUXL/Snx7sruQ8ntrRUptsJj+cefHKrUZrje/f8A
+ttxr6unQ5f4csF04ov8AnhWzrb+DLX9aM54Ct1jcfUgGLCIcvjTeBGIPGkYQnbOj/UrP6nod
+Hrxdb6zrfT6NY1db6f8AV6afN0/Uny40ttnAyObl0v6jd9DodLry9L6Tq/T6dZTpdf8AU0J8
+vU9SfNjUWyIDinAfUSH1EIsZcaAjOcaAUd4/uqAJ7sdf/lu06eovXb/JTVnx1fl/i8Kzdv8A
+8VvkPXdfM9b7PmxVzai5Z+HwrxmQ69fJYeP/AD9mX/8AGspb/Q//2Q==</binary>
+</FictionBook>
